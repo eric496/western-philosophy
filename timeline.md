@@ -9,7 +9,7 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **c.490–c.430 BCE — Zeno of Elea** (Ancient / Eleatic): Paradoxes of motion and plurality
 - **c.494–c.434 BCE — Empedocles** (Ancient / Presocratic): Four roots, Love and Strife
 - **c.460–c.370 BCE — Democritus** (Ancient / Atomist): Atoms and void
-- **c.490–c.420 BCE — Protagoras** (Ancient / Sophist): Man the measure, relativism
+- **c.490–c.420 BCE — Protagoras (with Gorgias, c.483–c.375 BCE)** (Ancient / Sophist): Man the measure, relativism; Gorgias on non-being and the power of logos
 - **470–399 BCE — Socrates** (Ancient / Classical): Elenchus, virtue is knowledge
 - **428/427–348/347 BCE — Plato** (Ancient / Platonism): Forms, Cave, philosopher-kings
 - **384–322 BCE — Aristotle** (Ancient / Peripatetic): Four causes, virtue, eudaimonia
@@ -98,5 +98,5 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1929–2020 — Judith Jarvis Thomson** (20th c. / Ethics & Rights): Violinist argument, trolley problem
 - **1930–2004 — Derrida** (20th c. / Deconstruction): Différance, binary oppositions
 - **1942–2017 — Derek Parfit** (20th c. / Ethics): Identity not what matters, non-identity problem
-- **b. 1946 — Singer** (Contemporary / Utilitarian): Speciesism, drowning child
+- **b. 1946 — Peter Singer** (Contemporary / Utilitarian): Speciesism, drowning child
 - **1923– — (School entry) Frankfurt School** (20th c. / Critical Theory): Instrumental reason, emancipation

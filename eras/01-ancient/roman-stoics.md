@@ -17,7 +17,7 @@ The three great voices of Roman Stoicism span the whole social ladder of the Emp
 
 **Epictetus** was born in Hierapolis in Phrygia and brought to Rome as a slave of Epaphroditus, a wealthy freedman who served as Nero's secretary. Tradition says his lameness came from his master breaking his leg — offered by Epictetus himself as a lesson: he calmly warned during the torture, "you will break it," and after, "did I not tell you?" Permitted to study under the Stoic Musonius Rufus, he was freed after Nero's death, taught in Rome until the emperor Domitian expelled the philosophers (c. 93 CE), and then founded a school at Nicopolis in Greece that drew students from across the Empire — including the young Arrian, whose lecture notes became the *Discourses*. He lived simply, adopted an orphaned child in old age, and left no writings of his own: everything we have is Arrian's record and abridgement.
 
-**Marcus Aurelius**, the only philosopher ever to rule the Roman world, was adopted into the imperial succession by Antoninus Pius and reigned from 161 to 180 CE. His reign was consumed by plague (the Antonine Plague, which may have killed his co-emperor Verus and finally Marcus himself) and by wars on the Danube frontier. On campaign he wrote in Greek, in private, the work we call the *Meditations*: not a treatise but a journal of self-exhortation never meant for any reader. He died on campaign in 180 CE, succeeded by his son Commodus — a choice his admirers have struggled to forgive.
+**Marcus Aurelius**, the philosopher-emperor, was adopted into the imperial succession by Antoninus Pius and reigned from 161 to 180 CE. His reign was consumed by plague (the Antonine Plague, which may have killed his co-emperor Verus and finally Marcus himself) and by wars on the Danube frontier. On campaign he wrote in Greek, in private, the work we call the *Meditations*: not a treatise but a journal of self-exhortation never meant for any reader. He died on campaign in 180 CE, succeeded by his son Commodus — a choice his admirers have struggled to forgive.
 
 ## Major theories and concepts
 
@@ -48,7 +48,7 @@ The old Stoic physics survives as an ethical frame: the universe is a rational, 
 
 ## Contributions
 
-The Roman Stoics transformed Stoicism from a technical system into a portable practice. The founders' logic and physics recede; what advances is moral psychology — the analysis of impressions, judgements, and passions as things we do and can retrain — and a literature of spiritual exercises unmatched in antiquity. Epictetus' dichotomy of control is arguably the most influential single distinction in the history of practical philosophy. Seneca effectively created the personal essay as moral instrument, and gave Latin its classic vocabulary of time, conscience, and self-scrutiny.
+The Roman Stoics transformed Stoicism from a technical system into a portable practice. The founders' logic and physics recede; what advances is moral psychology — the analysis of impressions, judgements, and passions as things we do and can retrain — and a literature of spiritual exercises unmatched in antiquity. Epictetus' dichotomy of control is arguably the most influential single distinction in the history of practical philosophy. Seneca effectively created the personal letter as a moral instrument, and gave Latin its classic vocabulary of time, conscience, and self-scrutiny.
 
 ## Impact and legacy
 

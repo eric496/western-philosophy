@@ -41,6 +41,7 @@ His last book turns the method on France. Against the revolutionary myth of a to
 
 ## Key works
 
+- *On the Penitentiary System in the United States* (1833, with Gustave de Beaumont) — the official product of the 1831–32 journey; the prison report that satisfied their sponsors.
 - *Democracy in America*, vol. 1 (1835) — institutions, federalism, townships, and the tyranny of the majority, based on the 1831–32 journey.
 - *Democracy in America*, vol. 2 (1840) — the more philosophical volume: individualism, soft despotism, and democracy's effects on thought, family, and war.
 - *Recollections* (written 1850–51, published 1893) — his insider's memoir of the 1848 revolution; candid, literary, unsparing.

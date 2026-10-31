@@ -6,7 +6,7 @@
 Gabrielle Émilie Le Tonnelier de Breteuil, marquise du Châtelet (1706–1749), France; mathematician, physicist, and philosopher working at the intersection of Newtonian science and Leibnizian metaphysics. Known for: her *Institutions de Physique* (1740), her defence of *vis viva* (living force, proportional to mass times velocity squared) against the Cartesian measure of force, and the French translation of Newton's *Principia* — with her own commentary — that remained the standard French version for centuries.
 
 ## Biography
-Émilie de Breteuil grew up in a wealthy Parisian household where her father, a court official, unusually encouraged his daughter's education: she learned Latin, mathematics, and several modern languages, alongside the fencing and riding she enjoyed. At nineteen she married the Marquis du Châtelet, a soldier frequently away on campaign, and after an initial period of court life she turned seriously to study, taking lessons from leading mathematicians including Pierre-Louis Maupertuis and Alexis Clairaut.
+Émilie de Breteuil grew up in a wealthy Parisian household where her father, a court official, unusually encouraged his daughter's education: she learned Latin, mathematics, and several modern languages, alongside the fencing and riding she enjoyed. At eighteen she married the Marquis du Châtelet, a soldier frequently away on campaign, and after an initial period of court life she turned seriously to study, taking lessons from leading mathematicians including Pierre-Louis Maupertuis and Alexis Clairaut.
 
 Around 1733 she began her long relationship with Voltaire. The couple settled at Cirey, her husband's château in Champagne, where they built a laboratory and theatre and worked side by side on physics and the popularisation of Newton. Both entered the Paris Academy of Sciences' 1738 prize competition on the nature of fire; neither won, but both essays were published by the Academy, and hers included an early suggestion that light and heat rays might differ in kind — a glimpse beyond the visible spectrum.
 
@@ -24,7 +24,7 @@ The sharpest technical dispute of the period asked what quantity is conserved in
 Du Châtelet's *Principia* is not a bare translation. She rendered Newton's difficult geometric demonstrations into the algebraic language of continental calculus, making the work usable by French mathematicians, and added a commentary summarising the system of the world and key astronomical results, including work by Clairaut on the shape of the Earth and lunar motion. In her hands translation was an act of scholarship and transmission: she decided what French science needed to assimilate Newton, and built it.
 
 ## Key works
-- *Dissertation sur la nature et la propagation du feu* (published 1744; Academy essay of 1738) — her prize-essay on fire, notable for speculating about radiation beyond visible light.
+- *Dissertation sur la nature et la propagation du feu* (Academy essay of 1738; published in the Academy recueil 1739, separately 1744) — her prize-essay on fire, notable for speculating about radiation beyond visible light.
 - *Institutions de Physique* (1740; revised 1742) — her systematic treatise: metaphysical foundations, method, and the physics of matter, motion, gravity, and force.
 - *Réponse de Madame la Marquise du Châtelet* (1741) — her published reply to de Mairan in the vis viva dispute.
 - *Principes mathématiques de la philosophie naturelle* (1759, posthumous) — her translation of Newton with commentary; the standard French *Principia*.

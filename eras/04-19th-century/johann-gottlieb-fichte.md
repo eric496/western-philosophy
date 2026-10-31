@@ -15,7 +15,7 @@ Fichte was born in 1762 in the Saxon village of Rammenau, the son of a poor ribb
 
 His life changed in 1790, when a tutoring pupil asked for help understanding Kant. Reading the *Critique of Practical Reason* converted him: Fichte later wrote that he had been living in a new world ever since. In 1791 he travelled to Königsberg hoping to meet Kant and presented him with a manuscript, the *Attempt at a Critique of All Revelation* (1792). Kant was impressed enough to arrange its publication. Through a mix-up the book appeared anonymously, reviewers assumed it was by Kant himself, and when the authorship emerged Fichte was famous overnight.
 
-The fame won him a chair at Jena in 1794, where his lectures were a sensation and where he produced the *Foundations of the Entire Wissenschaftslehre* (1794/95) and major works on natural right and ethics. His Jena career ended in the "atheism dispute" of 1798–99: an essay suggesting that God should be identified with the moral order of the world drew charges of atheism, and Fichte's combative handling of the affair forced his dismissal in 1799. He moved to Berlin, lectured privately to packed rooms, held a chair briefly at Erlangen, and in 1810 became the first elected rector of the new University of Berlin, which he had helped to plan.
+The fame won him a chair at Jena in 1794, where his lectures were a sensation and where he produced the *Foundations of the Entire Wissenschaftslehre* (1794/95) and major works on natural right and ethics. His Jena career ended in the "atheism dispute" of 1798–99: an essay suggesting that God should be identified with the moral order of the world drew charges of atheism, and Fichte's combative handling of the affair forced his dismissal in 1799. He moved to Berlin, lectured privately to packed rooms, held a chair briefly at Erlangen, and in 1811 was elected the first rector of the new University of Berlin, which he had helped to plan.
 
 When Napoleon's armies occupied Berlin, Fichte delivered the *Addresses to the German Nation* (1807–08) in the occupied city — among the most famous lecture series in German history. He died in January 1814 of typhus, contracted, it is usually said, from his wife Johanna, who had caught it nursing wounded soldiers.
 
@@ -52,6 +52,7 @@ The *Addresses* (1808), delivered in French-occupied Berlin, argue that military
 - *Foundations of Natural Right* (1796/97) — the summons, mutual recognition, and the derivation of the state from self-consciousness.
 - *The System of Ethics* (1798) — conscience, striving, and the moral vocation of the scholar and citizen.
 - *The Vocation of Man* (1800) — his most readable book: doubt, knowledge, and finally faith in a moral world-order, written for general readers.
+- *The Closed Commercial State* (1800) — the planned, self-sufficient commercial state; the basis of his reputation as a theorist of the social state.
 - *Addresses to the German Nation* (1808) — the occupied-Berlin lectures on national education; historically explosive, philosophically debated ever since.
 
 ## Contributions

@@ -72,7 +72,7 @@ The *Spirit of the Laws* was everywhere in the second half of the eighteenth cen
 
 ## Misreadings to avoid
 
-- **Separation of powers is not his only, or even his largest, theme.** Most of the *Spirit* is the comparative sociology of law; Book XI is six chapters among 31 books.
+- **Separation of powers is not his only, or even his largest, theme.** Most of the *Spirit* is the comparative sociology of law; the separation-of-powers argument is a single chapter (XI.6) of a 31-book work.
 - **He is not a democrat in the modern sense.** Democratic republics rest on a virtue he admired and thought rare and fragile; his practical hopes lay with moderated monarchy and, increasingly, the English model.
 - **"Climate made them do it" caricatures the theory.** Causes combine into a general spirit, and legislation exists precisely to counteract bad natural tendencies.
 - **He does not preach revolution.** Reform, for Montesquieu, must respect the spirit of an existing society; sudden total change is a legislator's classic error.
