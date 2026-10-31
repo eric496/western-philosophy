@@ -2,12 +2,97 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
-- Major: Substance monism / Deus sive Natura ("God or Nature"): exactly one substance, self-caused, infinite, necessarily existing; God and Nature two names for it; everything else a mode (modification). Rejects Descartes' plurality. Mind/body as parallel attributes: one substance has infinite attributes, humans know Thought and Extension; mind and body are same thing under two attributes (parallelism/dual-aspect), order/connection of ideas = order/connection of things. Necessitarianism: everything follows from God's/Nature's necessity; no purposes in nature ("final causes are human fictions"); humans think they're free because conscious of desires, ignorant of causes; freedom redefined = understanding necessity, moving from passive affects to active rational ones, culminating in "intellectual love of God".
-- Works: Principles of Descartes' Philosophy (1663, only book under own name in lifetime); Theological-Political Treatise (1670, anonymous; founding text for biblical criticism, freedom of thought, liberal democracy); Ethics, Demonstrated in Geometrical Order (published posthumously 1677; Euclid format).
-- Lineage: Cartesian principles + Stoic/Hobbesian/medieval Jewish rationalist elements (SEP); argues Descartes didn't go far enough. Condemned as atheist, recovered by German Romantics/Idealists (Goethe, Hegel: "either Spinozism or no philosophy"); central again in philosophy of mind, environmental thought.
-- Why: Most uncompromising system of era — grant definitions, everything follows.
-- Read first: NOT Ethics cold cover-to-cover. Ethics Part I guided + Appendix to Part I (demolition of teleology, plain prose); Beth Lord / Clare Carlisle intros; TPT chs. 16–20 for political liberalism.
-- Cautions: "Pantheist, full stop" and "atheist" both contested — SEP flags pantheism debate (God = substance/attributes; whether = whole of nature incl. modes disputed); his God not personal purposive creator, but his language is theistic/reverent. Determinist who redefines freedom, not simple denier of freedom.
+## At a glance
+
+1632–1677 · Amsterdam and The Hague · Rationalist monism · Known for identifying God with Nature — *Deus sive Natura* — in a system with exactly one substance, from which everything follows by necessity.
+
+## Biography
+
+Baruch Spinoza — Bento in Portuguese, Benedictus in Latin, all forms of "blessed" — was born on 24 November 1632 in Amsterdam, to a family of Portuguese Jewish merchants who had fled the Inquisition for the comparatively tolerant Dutch Republic. Educated in Amsterdam's Jewish community schools in Hebrew, Torah, and Talmud, he was marked out as exceptionally gifted. He also encountered medieval Jewish rationalism — Maimonides above all — and the new Cartesian philosophy then sweeping Dutch universities: Descartes's questions about substance, God, and Scripture could not, for Spinoza, be contained within orthodox answers.
+
+On 27 July 1656, aged twenty-three, Spinoza was pronounced under a *cherem* — a writ of excommunication — by the elders of Amsterdam's Portuguese-Jewish congregation, in unusually vehement language barring the community from contact with him. The precise charges were not recorded; the writ speaks of "evil opinions and acts" and "abominable heresies." Scholars generally connect the ban to views he was already voicing: denial of a providential, law-giving God distinct from nature, of the soul's immortality as popularly conceived, and of the Bible's divine authorship in its received sense. Spinoza never sought readmission, never converted, and left to live among liberal Christians and free-thinking friends. The *cherem* made him a byword for dangerous thought — and freed him to think without an institution to answer to.
+
+He earned his living modestly as a **lens grinder**, polishing lenses to a standard valued by scientists including Christiaan Huygens. The trade gave him independence: he declined a professorship at Heidelberg in 1673 because he feared limits on his freedom to philosophise. He lived simply, with a small circle of friends, and wrote mostly in Latin.
+
+His publication history mixes caution and boldness. The *Principles of Descartes' Philosophy* (1663) was the **only book published under his own name in his lifetime**. The *Theological-Political Treatise* (1670) appeared **anonymously**; it was quickly identified as his, denounced, and banned. The *Ethics*, completed around 1675, was withheld; friends published it in 1677 in the posthumous *Opera Posthuma*.
+
+Spinoza died on 21 February 1677 in The Hague, aged 44, probably of a lung condition — plausibly worsened, later writers have speculated, by glass dust from lens grinding, though the exact cause is uncertain. In his lifetime he was, officially, an excommunicate and an alleged atheist.
+
+## Major theories and concepts
+
+### Substance monism: Deus sive Natura
+
+The *Ethics* rests on one claim: there is exactly **one substance**. A substance, following but radicalising Descartes, is what exists in itself and is conceived through itself — it needs nothing else to exist or to be understood. Spinoza argues that no two substances can share an attribute, that a substance cannot be produced by another, and that existence belongs to a substance's nature. The conclusion: substance is infinite, self-caused, and necessarily existing — and there can be only one. That substance he calls **God, or Nature**: *Deus sive Natura*.
+
+God is not a kingly person outside the world, creating it at a moment and intervening thereafter. God *is* the single, infinite, eternal system of reality, of which everything else is a part or aspect. Spinoza distinguishes *Natura naturans* — Nature naturing, God as active, self-caused essence — from *Natura naturata* — Nature natured, the totality of things following from that essence. Creation is not an event but an eternal relation: the world flows from God's nature as properties flow from a triangle's essence, timelessly and necessarily. There is no "outside" to nature from which miracles or purposes could enter. Whether this makes Spinoza a pantheist or an atheist is a live scholarly debate, taken up below; the system itself is clear that nothing exists except God/Nature and its modifications.
+
+### Attributes, modes, and parallelism
+
+A **mode** is what exists in another: a particular thing — this body, this idea, this person — is a modification of the one substance. An **attribute** is what the intellect perceives as constituting a substance's essence. God has **infinite attributes**, of which humans know exactly two: **Thought** and **Extension**. We know extension because we have bodies, thought because we have minds; of the infinite other expressions of reality we have, Spinoza says, no conception — a striking admission of cognitive limits inside so confident a system.
+
+This yields his solution to Descartes's interaction problem, called **parallelism** (or dual-aspect theory). Mind and body are not two things interacting; they are **one and the same thing**, a single mode conceived now under Thought, now under Extension. Hence: "The order and connection of ideas is the same as the order and connection of things." When your hand moves, there is one event described physically (nerves, muscles) and mentally (volition, sensation). The descriptions correspond perfectly without either causing the other across a gap — because there is no gap.
+
+Critics debate whether parallelism dissolves the mind–body problem or elegantly declines it; modern dual-aspect theories often claim him as an ancestor.
+
+### Necessitarianism
+
+From a God whose nature produces everything follows **necessitarianism**: "In nature there is nothing contingent, but all things have been determined by the necessity of the divine nature to exist and produce an effect in a certain way." Things could not have been produced "in any other manner or in any other order." Free will, as a capacity to have done otherwise in an absolute sense, does not exist — for God, who acts from the necessity of his nature alone, or for us.
+
+Spinoza's example, in a letter, is a stone thrown through the air which, if conscious, would believe it flew freely, being aware of its motion and ignorant of the throw. Humans are in the stone's position: "Men are mistaken in thinking themselves free; their opinion is made up of this, that they are conscious of their actions, and ignorant of the causes by which they are determined." This is stronger than ordinary determinism: no alternative universe was ever possible. Scholars debate how strictly to read this, but the dominant reading takes him at his word.
+
+### The critique of teleology
+
+The Appendix to Part I of the *Ethics* is the era's most accessible demolition of **teleology** — explanation by purposes. Humans, born ignorant of causes but conscious of their appetites, imagine nature shares their structure: eyes are *for* seeing, rain *for* crops, gods *for* rewarding and punishing. "All final causes are nothing but human fictions." When a tile falls and kills a passer-by, people ask what the death was *for*; finding no purpose, they retreat to "the will of God — the sanctuary of ignorance."
+
+The argument is not merely that particular purposes are false. Purposive explanation inverts reality: nature does not act for ends; ends are projections of desire, and doctrines of providence, reward, and punishment rest on that projection. The replacement is explanation by efficient causes alone — the programme of modern science, stated as metaphysics. A felt tension — does Spinoza's own language of striving smuggle purposes back in? — leads to his psychology.
+
+### Conatus and the affects
+
+Each thing **strives to persevere in its being**. This striving is the **conatus** — not an extra feature but a thing's actual essence. In humans it appears as desire. Around it he builds a psychology of the **affects**: modifications of the body that increase or decrease its power of acting, together with their ideas. Three are primary — joy (passage to greater power), sadness (passage to lesser), and desire — and the rest, from love and hate to hope, fear, and envy, is derived from these.
+
+We are **passive** insofar as affects happen to us through inadequate ideas. Bondage (Part IV) is this passivity: being tossed by hope, fear, superstition, and others' opinions. We become **active** insofar as we form adequate ideas — understanding why we feel what we feel. Understanding an emotion transforms a passion into an action: the same affect, now comprehended, no longer rules unexamined. Freedom comes through knowledge, not suppressing feeling by willpower.
+
+### Freedom as understanding necessity, and the intellectual love of God
+
+A free thing, by Spinoza's definition, "exists from the necessity of its nature alone and is determined to act by itself alone" — strictly, only God is fully free. Human freedom is a matter of degree: the more our actions follow from adequate ideas of our nature and its place in the whole, the freer we are. Freedom is not exemption from necessity but **understanding necessity** — seeing why things, including ourselves, must be as they are, and ceasing to rail against a whole we are part of.
+
+Its culmination is the **intellectual love of God** (*amor Dei intellectualis*): the joy, accompanied by the idea of God as its cause, that arises when the mind understands itself and its affects under a species of eternity (*sub specie aeternitatis*). This love is not devotion to a person who might love us back — "He who loves God cannot strive that God should love him in return" — but steady, active joy in the necessary order of which we are a mode. Spinoza calls it blessedness, and insists it is not a reward for virtue but virtue itself. Part V's claims about the mind's eternity — as distinct from personal immortality, which he denies — remain among his most contested passages.
+
+## Key works
+
+- *Principles of Descartes' Philosophy* (1663) — Descartes in geometrical order; the only book under his name in his lifetime.
+- *Theological-Political Treatise* (1670) — Anonymous; founding text of biblical criticism and defence of freedom of thought.
+- *Ethics, Demonstrated in Geometrical Order* (posthumous, 1677) — The masterwork: five parts, from God to freedom, in geometrical form.
+- *Political Treatise* (unfinished, posthumous, 1677) — A realistic theory of the state built on power and affect.
+- Letters (posthumous) — Including the letter on freedom and the conscious stone.
+
+## Contributions
+
+Spinoza produced the era's most consistent **monism**: one substance, not Descartes's three kinds. He gave a **naturalistic, historical method for reading Scripture**, founding modern biblical criticism. His political writings made an early case for **freedom of thought and speech, democracy, and separating religious authority from state power**. His psychology offered a **deterministic yet therapeutic theory of emotion**. And his identification of God with nature permanently changed philosophy of religion: after Spinoza, "God" could name nature's order itself.
+
+## Impact and legacy
+
+For a century, "Spinozist" was largely an accusation. The recovery came in late eighteenth-century Germany: the *Pantheismusstreit* (pantheism controversy) over Lessing's alleged Spinozism made him central; Goethe revered him, and Hegel declared that "either Spinozism or no philosophy." He has since been reclaimed by philosophers of mind for dual-aspect parallelism, by environmental thinkers for a non-anthropocentric nature, by political and affect theorists (notably through Deleuze), and by free-will debates, where determinism-plus-redefined-freedom remains a live option. Einstein, asked about God, invoked Spinoza's.
+
+## Criticisms and debates
+
+The oldest charge is incoherence about God: if God is everything, the word arguably does no work; if God as substance is *more* than the modes we know, simple pantheism fails too. This feeds the central debate, presented here as a debate, not a verdict: **was Spinoza a pantheist or an atheist?** The "atheist" reading stresses that his God has no intellect or will as persons have them, makes no choices, and hears no prayers. The "pantheist" reading stresses that his language about God is systematic and reverent, that substance — not the sum of finite things — is God, and that the intellectual love of God is a genuine religious attitude. Some scholars propose panentheism, acosmic readings, or naturalism. The texts support elements of several; distrust any one-word summary.
+
+Other debates: whether necessitarianism can accommodate an ethics of striving — why exhort anyone if all is necessary? (His answer: exhortation is itself a cause.) Whether the infinite unknown attributes are coherent. And whether Part V's eternity of the mind can be squared with denying personal immortality.
+
+## Misreadings to avoid
+
+- **"Spinoza was simply an atheist" / "simply a pantheist."** Both are contested scholarly positions, not settled facts; his God is impersonal and non-purposive, and his attitude to that God is love and reverence.
+- **"Spinoza denied freedom, full stop."** He denied free will as uncaused choice and *redefined* freedom as rational self-determination through understanding necessity.
+- **"The Ethics is cold geometry without feeling."** Its centre is a passionate psychology of joy, love, and liberation; the geometrical form claims certainty, not absence of feeling.
+- **"God or Nature means he worshipped trees and stones."** Modes are not God considered as substance; the slogan identifies God with nature's infinite, self-caused order, not with any collection of objects.
+
+## What to read first
+
+1. *Ethics* Part I, with a guided commentary (Beth Lord's or Clare Carlisle's), and the Appendix to Part I in full — the demolition of teleology in plain prose.
+2. *Ethics* Parts III–IV selections — conatus, the affects, and human bondage.
+3. *Theological-Political Treatise*, chapters 16–20 — political philosophy and the defence of freedom to philosophise.
+4. *Ethics* Part II and Part V, with commentary — parallelism first, then freedom and the intellectual love of God.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

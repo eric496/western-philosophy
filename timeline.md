@@ -6,6 +6,8 @@ Chronological order (the same order as `index.md`). Overlapping lifespans are wh
 - **c.570–c.495 BCE — Pythagoras** (Ancient / Pythagorean): Number, harmony, soul
 - **c.540–c.480 BCE — Heraclitus** (Ancient / Presocratic): Flux, logos
 - **b. c.515 BCE — Parmenides** (Ancient / Eleatic): Being, deductive argument
+- **c.490–c.430 BCE — Zeno of Elea** (Ancient / Eleatic): Paradoxes of motion and plurality
+- **c.494–c.434 BCE — Empedocles** (Ancient / Presocratic): Four roots, Love and Strife
 - **c.460–c.370 BCE — Democritus** (Ancient / Atomist): Atoms and void
 - **c.490–c.420 BCE — Protagoras** (Ancient / Sophist): Man the measure, relativism
 - **470–399 BCE — Socrates** (Ancient / Classical): Elenchus, virtue is knowledge
@@ -14,20 +16,24 @@ Chronological order (the same order as `index.md`). Overlapping lifespans are wh
 - **c.412–323 BCE — Diogenes** (Ancient / Cynic): Autarkeia, life by nature
 - **341–270 BCE — Epicurus** (Ancient / Epicurean): Ataraxia, tetrapharmakos
 - **c.334–c.262 BCE — Zeno of Citium** (Ancient / Stoic (founder)): Logos, indifferents, virtue
+- **c.4 BCE–65 CE — Seneca** (Ancient / Roman Stoic): Time, anger, providence
 - **c.50–c.135 CE — Epictetus** (Ancient / Roman Stoic): Dichotomy of control
 - **121–180 CE — Marcus Aurelius** (Ancient / Roman Stoic): Memento mori, view from above
 - **c.360–c.270 BCE — Pyrrho** (Ancient / Skeptic): Epochē, suspension of judgment
 - **204/205–270 CE — Plotinus** (Ancient / Neoplatonist): The One, emanation
 - **354–430 — Augustine** (Medieval / Christian Platonist): Evil as privation, time, grace
 - **c.477–524 — Boethius** (Medieval / Bridge): Consolation, universals problem
+- **c.800–c.877 — John Scotus Eriugena** (Medieval / Carolingian Neoplatonist): Division of nature, negative theology
 - **980–1037 — Avicenna** (Medieval / Islamic falsafa): Necessary Existent, Flying Man
 - **1033–1109 — Anselm** (Medieval / Scholastic): Ontological argument
 - **1079–1142 — Abelard** (Medieval / Scholastic): Intention, conceptualism
+- **1098–1179 — Hildegard of Bingen** (Medieval / Visionary & Natural Philosophy): Viriditas, visionary cosmology
 - **1126–1198 — Averroes** (Medieval / Islamic): Commentary, harmony of faith/reason
 - **c.1138–1204 — Maimonides** (Medieval / Jewish): Negative theology
 - **1225–1274 — Aquinas** (Medieval / Thomist): Five Ways, natural law
 - **c.1266–1308 — Duns Scotus** (Medieval / Scholastic): Univocity, haecceity
 - **c.1287–1347 — Ockham** (Medieval / Nominalist): Razor, nominalism
+- **1401–1464 — Nicholas of Cusa** (Medieval / Late Medieval): Learned ignorance, coincidence of opposites
 - **1469–1527 — Machiavelli** (Early Modern / Realist): Effectual truth, virtù/fortuna
 - **1561–1626 — Bacon** (Early Modern / Science): Idols, induction
 - **1588–1679 — Hobbes** (Early Modern / Contract): State of nature, Leviathan
@@ -36,26 +42,35 @@ Chronological order (the same order as `index.md`). Overlapping lifespans are wh
 - **1646–1716 — Leibniz** (Early Modern / Rationalist): Monads, sufficient reason
 - **1632–1704 — Locke** (Early Modern / Empiricist): Tabula rasa, rights, toleration
 - **1685–1753 — Berkeley** (Early Modern / Empiricist): Esse est percipi
+- **1706–1749 — Émilie du Châtelet** (Early Modern / Newtonian): Hypotheses, vis viva
 - **1711–1776 — Hume** (Early Modern / Empiricist): Induction, causation, is–ought
 - **1712–1778 — Rousseau** (Early Modern / Republican): General will, natural goodness
+- **1723–1790 — Adam Smith** (Early Modern / Moral Philosophy): Sympathy, impartial spectator
 - **1724–1804 — Kant** (Early Modern / Critical): Categories, categorical imperative
+- **1759–1797 — Mary Wollstonecraft** (Early Modern / Enlightenment Feminism): Rights of woman, education
 - **1748–1832 — Bentham** (19th c. / Utilitarian): Utility principle
 - **1770–1831 — Hegel** (19th c. / Absolute Idealist): Dialectic, recognition, Geist
 - **1788–1860 — Schopenhauer** (19th c. / Pessimist): Will, suffering, compassion
+- **1798–1857 — Auguste Comte** (19th c. / Positivist): Law of three stages, positivism
 - **1813–1855 — Kierkegaard** (19th c. / Proto-existentialist): Leap of faith, anxiety, stages
 - **1806–1873 — Mill** (19th c. / Liberal Utilitarian): Harm principle
+- **1807–1858 — Harriet Taylor Mill** (19th c. / Liberal Feminist): Enfranchisement of women
 - **1818–1883 — Marx** (19th c. / Historical Materialist): Alienation, surplus value, ideology
 - **1839–1914 — Peirce** (19th c. / Pragmatist): Pragmatic maxim
+- **1838–1917 — Franz Brentano** (19th c. / Descriptive Psychology): Intentionality
 - **1842–1910 — James** (19th–20th c. / Pragmatist): Truth as verified, will to believe
 - **1844–1900 — Nietzsche** (19th c. / Genealogist): God is dead, slave morality, recurrence
 - **1848–1925 — Frege** (20th c. / Logic): Sense/reference, predicate logic
+- **1859–1952 — John Dewey** (20th c. / Pragmatist): Inquiry, education as growth
 - **1859–1938 — Husserl** (20th c. / Phenomenologist): Intentionality, lifeworld
 - **1872–1970 — Russell** (20th c. / Analytic): Descriptions, logical atomism
 - **1889–1951 — Wittgenstein** (20th c. / Analytic): Picture theory → language-games
+- **1900–1976 — Gilbert Ryle** (20th c. / Analytic): Category mistakes, knowing-how
 - **1889–1976 — Heidegger** (20th c. / Continental): Being, Dasein, authenticity
 - **1902–1994 — Popper** (20th c. / Phil. of Science): Falsifiability, open society
 - **1905–1980 — Sartre** (20th c. / Existentialist): Bad faith, radical freedom
 - **1908–1986 — Beauvoir** (20th c. / Existential Feminist): The Other, situated freedom
+- **1909–1943 — Simone Weil** (20th c. / French Philosophy): Attention, affliction (malheur)
 - **1906–1975 — Arendt** (20th c. / Political Theory): Action, banality of evil
 - **1908–2000 — Quine** (20th c. / Analytic Naturalist): Web of belief, two dogmas
 - **1903–1969 — Adorno** (20th c. / Frankfurt School): Culture industry, negative dialectics

@@ -2,11 +2,97 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
-- Major: Methodic doubt: treat anything doubtable as false, temporarily (senses deceive, dreams, deceiving demon). Cogito: "I think, therefore I am" survives — even deceived thinker must exist while thinking; first indubitable foundation (note: Descartes denied cogito is a syllogism; it's immediate intuition/performance). Mind–body dualism: thinking thing (res cogitans) distinct from extended thing (res extensa); God guarantees clearly-and-distinctly perceived is true; physical world is matter in motion, mechanically explainable — but interaction of two substances becomes era's hardest problem (pressed by Princess Elisabeth).
-- Works: Discourse on the Method (1637, French, for non-scholastic readers); Meditations on First Philosophy (1641, Latin, with Objections and Replies); Principles of Philosophy (1644).
-- Lineage: Against Scholastic Aristotelianism and revived scepticism; corresponded/challenged Hobbes, Gassendi, Elisabeth. Set agenda (knowledge, mind-body, "way of ideas") for everyone after, incl. Locke and Spinoza.
-- Why: Re-founded philosophy on first-person subject: "how do I know?" before "what is world like?"
-- Read first: Meditations I–III, or Discourse Parts I–IV (easier, autobiographical), with commentary.
+## At a glance
+
+1596–1650 · France, the Netherlands, and Sweden · Early modern rationalism · Known for founding modern philosophy on the cogito — "I think, therefore I am" — and for splitting reality into thinking mind and extended matter.
+
+## Biography
+
+René Descartes was born on 31 March 1596 in La Haye en Touraine, France, into a family of minor nobility. His mother died when he was an infant. At about ten he was sent to the Jesuit college of La Flèche, where he received a thorough scholastic education in Aristotelian philosophy, mathematics, and classical languages — the very tradition he would later set out to replace. He often said it left him embarrassed by how little of it seemed certain.
+
+After a law degree at Poitiers in 1616, Descartes did not settle into a profession. He travelled, served briefly as a gentleman volunteer in armies in the Netherlands and Germany, and pursued mathematics and natural philosophy. A famous episode from November 1619, when he spent a day shut in a stove-heated room in Germany, became in his own telling the moment he conceived a unified method for all knowledge.
+
+From 1628 he lived mostly in the Netherlands, moving frequently and guarding his privacy. The Dutch Republic offered relative freedom to publish, though not complete safety. He worked across analytic geometry, optics, meteorology, physiology, and philosophy, and corresponded indefatigably — with Marin Mersenne as his hub.
+
+That caution shaped his career. He had completed *Le Monde* when news reached him in 1633 of Galileo's condemnation, and suppressed it rather than defend its heliocentric physics. His first published work was therefore the *Discourse on the Method* (1637), written in French rather than Latin so that even readers without scholastic training — including, pointedly, women, whom the universities excluded — could judge it.
+
+The *Meditations on First Philosophy* (1641) was written in Latin for a learned audience and published with Objections by contemporaries including Thomas Hobbes, Pierre Gassendi, and Antoine Arnauld, together with Descartes's Replies — a format that is part of the philosophy, staging the system under attack. The *Principles of Philosophy* (1644) recast his metaphysics and physics as a textbook to replace scholastic ones.
+
+Controversy followed anyway. Orthodox Calvinist theologians at Utrecht and Leiden accused him of atheism, forcing public defences. His correspondence with Princess Elisabeth of Bohemia, beginning in 1643, is among the finest exchanges of the century: she was not a pupil but a sharp critic, as the interaction problem below shows.
+
+In 1649, reluctantly, Descartes accepted Queen Christina of Sweden's invitation to Stockholm. The winter, philosophy lessons at five in the morning in a cold library, and court life took their toll. He contracted pneumonia and died in Stockholm on 11 February 1650, aged 53. *Le Monde*, the early *Rules for the Direction of the Mind*, and his correspondence appeared only after his death.
+
+## Major theories and concepts
+
+### Methodic doubt
+
+Descartes begins by demolishing in order to rebuild. If a belief can be doubted, he will treat it, temporarily and methodically, as if false — not because he thinks everything is false, but because he wants a foundation that cannot be shaken. The doubt proceeds in widening waves. First, the senses: they sometimes deceive us, about distant towers or sticks bent in water, so why trust them completely? Second, the dream argument: there are no certain marks by which waking experience can be distinguished, while it is happening, from a vivid dream. Third, the deceiving demon: Descartes supposes a malicious demon of utmost power bent on deceiving him, so that even apparently self-evident judgements — that two and three make five — might be systematically false.
+
+The image is architectural: a builder who suspects the foundations does not patch the walls; he clears the site. Methodic doubt is a tool, not a destination. Descartes is not a sceptic concluding that nothing can be known; he is looking for the one thing the demon cannot take away. The tension is deliberate: the doubt is so powerful it threatens any escape route, including logic itself. His answer depends on the next two ideas — and on God, where critics press hardest.
+
+### The cogito
+
+What survives the demon? Even if I am deceived about everything, there must be an "I" who is deceived. Doubting is a form of thinking, and thinking cannot occur without a thinker existing at that moment. Hence "I think, therefore I am" (*cogito, ergo sum*), recast in the *Meditations* as: "I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind."
+
+Crucially, Descartes insisted the cogito is **not a syllogism**. He did not mean: everything that thinks exists; I think; therefore I exist — for that major premise would itself need justification, and the demon could target it. Instead it is an **immediate intuition**, a self-evident performance: in the very act of doubting, your existence is directly presented to you. Try to doubt that you exist and you perform the thinking that confirms it.
+
+Its scope is narrow, and that matters. The cogito secures existence only *while* thinking, and a thinker — not yet a body, a history, or an external world. Critics from Gassendi onward asked whether "I think" smuggles in more than the bare occurrence of thought: why not simply "thinking is occurring"? Descartes replied that thought is always experienced first-personally, as *mine*. Whether that succeeds is debated, but the move changed philosophy: the starting point is no longer the world or God, but the subject's own awareness.
+
+### Clear and distinct ideas, the divine guarantee, and the Cartesian circle
+
+From the cogito Descartes extracts a criterion. What made it irresistible? He perceived it, he says, "clearly and distinctly." A clear idea is present to an attentive mind; a distinct idea is so sharply separated from others that it contains nothing unclear. His proposal: whatever I perceive very clearly and distinctly is true.
+
+But a deceiving demon could make even those perceptions false. So Descartes sets out to prove, using clear and distinct ideas, that God exists and is not a deceiver. In the Third Meditation he argues from the idea of a perfect, infinite being in his finite mind: that idea has so much "objective reality" that only an actually infinite being could cause it. In the Fifth he offers an ontological argument: existence belongs to God's essence as necessarily as angles summing to two right angles belong to a triangle's. Since a perfect God would not deceive, our clear and distinct perceptions can be trusted when used carefully.
+
+The classic objection, raised by Arnauld, is the **Cartesian circle**: Descartes seems to prove God using clear and distinct ideas, and then validate clear and distinct ideas using God. If the criterion needs God before it can be trusted, how can it prove God? Defenders reply that only *remembered* clear and distinct perceptions need the guarantee, while present intuitions are self-certifying in the moment; or that the guarantee removes a lingering metaphysical doubt rather than supplying the criterion. Critics reply that these distinctions weaken the guarantee. The debate remains live.
+
+### Mind–body dualism and the interaction problem
+
+Descartes concludes he can clearly and distinctly conceive mind apart from body and body apart from mind, and — with God's guarantee — takes them to be really distinct. The result is **substance dualism**. Mind (*res cogitans*, thinking thing) is unextended, indivisible, and its essence is thought: doubting, understanding, willing, imagining, feeling. Body (*res extensa*, extended thing) is extended, divisible, and its essence is extension; everything bodily is geometry and motion. A human is a union of the two, substances with nothing in their essences in common.
+
+Dualism protects two things Descartes cared about: the soul's freedom and immortality, congenial to theology, and a fully mechanical physics free of purposes and souls. Its price is the **interaction problem**: how can an unextended, non-spatial mind move an extended body, and how can bodily damage cause a non-physical mind pain?
+
+Princess Elisabeth put this in 1643 with unmatched clarity. One body moves another, she noted, through contact, shape, and motion. Mind has none of these. How, then, can the will move the body's "animal spirits," and how can they cause sensations in the soul? Descartes answered by appealing to the union as a primitive notion, known by living it rather than by analysis, and in *The Passions of the Soul* (1649) located interaction in the pineal gland, a small unpaired structure in the brain. Neither move convinced most readers: calling the union primitive names the mystery without explaining it, and a gland is still extended matter. Elisabeth's objection set the agenda for Spinoza, Malebranche, and Leibniz, each of whom rebuilt the system largely to solve it.
+
+### Mechanism and vortices
+
+Once matter is defined as extension alone, nature contains no hidden qualities or purposes of the scholastic kind — only size, shape, position, and motion, governed by laws God maintains. Animals are elaborate machines; the human body, apart from the rational soul, is a machine too. To explain planetary motion without empty space (a plenum, since extension *is* matter), Descartes proposed **vortices**: vast whirlpools of subtle matter carrying the planets around the sun as straws are carried in an eddy.
+
+The vortex theory was ingenious and, within decades, superseded: Newton's *Principia* (1687) showed its predictions failed where gravitation succeeded. But the deeper mechanistic programme — explain nature mathematically, without final causes — won even as his specific physics lost.
+
+## Key works
+
+- *Discourse on the Method* (1637) — In French, with three scientific essays; the accessible, autobiographical entry point, with the four rules of method and the cogito.
+- *Meditations on First Philosophy* (1641) — In Latin, with Objections and Replies; six meditations from doubt to the external world. The central text.
+- *Principles of Philosophy* (1644) — A systematic textbook of metaphysics and physics; the clearest statement of the full system.
+- *The Passions of the Soul* (1649) — His last published work, on the emotions as products of the mind–body union.
+- *Rules for the Direction of the Mind* (written c. 1628, published posthumously) — An unfinished early treatise on method.
+
+## Contributions
+
+Descartes made the **first-person problem of knowledge** philosophy's starting point: before asking what the world is like, ask how any claim to know it can be justified, building from what a single subject cannot doubt. He supplied the modern vocabulary of mind and matter — the mental as private and certain, the physical as public and measurable — within which philosophy of mind still operates, even when rejecting his answers. His analytic geometry fused algebra and geometry. His systematic doubt set a new standard for what a foundation must survive. And by writing major philosophy in French, in a literary first-person voice, he created the modern philosophical author: not a commentator on authorities, but a thinker answerable to any attentive reader.
+
+## Impact and legacy
+
+Much later philosophy is a reply to Descartes. Spinoza and Leibniz built systems partly to repair dualism and interaction. Locke and the British empiricists inherited his "way of ideas" — the view that the mind's immediate objects are its own ideas — and fought over its consequences. The modern mind–body problem is his problem. His physics, though displaced by Newton's, helped legitimate the mechanical worldview of the Scientific Revolution. He also acquired famous critics: Pascal thought the enterprise overreaching; Gilbert Ryle attacked the "ghost in the machine"; feminist scholars have recovered Elisabeth as a philosopher in her own right. To be "Cartesian" today usually names a position — dualist, foundationalist, privileging the inner — that Descartes originated but few hold in his exact form.
+
+## Criticisms and debates
+
+Beyond the circle and the interaction problem: does the cogito prove too little (only momentary existence) or too much (a substantial "I" smuggled in)? Are the proofs of God sound? The causal argument depends on scholastic principles about degrees of reality few now accept, and Kant later argued existence is not a predicate, undermining the ontological argument's form. Scholars also debate how sincere or strategic Descartes's theology was — genuine keystone, or protective device in an age of censorship? The texts support the keystone reading, but the Galileo episode shows the pressure was real. His treatment of animals as machines without feeling has drawn sustained ethical criticism, though scholars debate exactly which capacities he denied them.
+
+## Misreadings to avoid
+
+- **"Descartes was a sceptic."** No: doubt is his tool for defeating scepticism, not his conclusion.
+- **"The cogito is a syllogism."** He explicitly denied this; it is an immediate intuition performed in thinking.
+- **"Dualism means mind and body never interact."** He insisted they form a union and interact constantly; the problem is explaining *how*.
+- **"Cartesian means cold and disembodied."** *The Passions of the Soul* is a rich, embodied account of emotion.
+
+## What to read first
+
+1. *Discourse on the Method*, Parts I–IV — the story and the method.
+2. *Meditations* I–III — doubt, cogito, and the first proof of God; read Arnauld's circle objection alongside.
+3. The Descartes–Elisabeth correspondence of 1643 — the interaction problem stated by its best critic.
+4. *Meditations* IV–VI and *Principles* Part I — error, the real distinction, and the system in full.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

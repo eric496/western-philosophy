@@ -2,12 +2,87 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
-- Major: Faith/reason, essence/existence, act/potency: two harmonious routes to one truth; reason can demonstrate God's existence and some attributes; revealed mysteries (Trinity, Incarnation) exceed but never contradict reason ("grace perfects nature"). Every creature composed of essence (what it is, limiting/potential/potency) and existence (esse, act of being); only in God identical — God is ipsum esse subsistens, subsistent Being itself, pure act. Five Ways (Summa Theologiae I q.2 a.3): from (1) motion/change, (2) efficient causation, (3) contingency/necessity, (4) degrees of perfection, (5) goal-directed behaviour of unintelligent things — each to first principle "and this everyone understands to be God". Reason from effects to cause using act/potency; presuppose fuller treatments (Summa Contra Gentiles). Natural law: eternal law (God's rational governance) participated by rational creatures as natural law: self-evident first principles of practical reason (first: "good is to be done and pursued, evil avoided"), human law derives from it and is judged against it — unjust enactments fail as law in full sense; huge influence on rights/legal theory (Locke onward). Also moderate realism (nature in things, universal as abstracted); soul as form of body (against Averroes' single intellect and Platonic dualism) — "my soul is not I", resurrection required for full personal survival.
-- Works: On Being and Essence (De Ente et Essentia) (c. 1252–56, best entry to metaphysics); Summa Contra Gentiles (1259–65); Summa Theologiae (1265–74, left unfinished; Five Ways I q.2); Aristotle commentaries; On the Unity of the Intellect (1270, anti-Averroist).
-- Lineage: Aristotle via Averroes/Avicenna (mined and corrected), Augustine integrated, Maimonides (creation, divine names), Abelard/Lombard method. Partly rejected by Scotus/Ockham next generation; backbone of Catholic thought; living analytic research programme.
-- Why: Medieval synthesis at most complete — understand Aquinas, understand what predecessors built toward and successors reacted against.
-- Read first: Summa I q.2 all three articles (learn objections→sed contra→respondeo→replies rhythm), then I–II qq. 90–94 (law; q.91 kinds of law, q.94 natural law). Modern intro: Brian Davies guide/commentary; Feser, Aquinas: A Beginner's Guide.
-- Cautions: Five Ways are NOT five scientific proofs / early intelligent design — compressed metaphysical demonstrations in Aristotelian framework (act/potency, essentially-ordered here-and-now sustaining causal series); "first mover" ≠ first event in time — Aquinas held beginning in time could NOT be proved philosophically (following Maimonides).
+## At a glance
+
+- **Lifespan:** 1225 – 1274
+- **Place:** Born at Roccasecca, near Aquino, Italy; studied in Naples and Paris; taught in Paris, Rome, and Naples.
+- **Tradition:** Latin Christian; Dominican friar and the pre-eminent figure of scholasticism — the university method of rigorous question-and-disputation theology and philosophy.
+- **Known for:** The grand synthesis of Aristotelian philosophy with Christian theology; the Five Ways; the essence/existence distinction; natural law theory.
+
+## Biography
+
+Thomas was born in 1225 into the landowning d'Aquino family in the Kingdom of Sicily and was placed at age five as an oblate at the Benedictine abbey of Monte Cassino, expected to rise in the church by the respectable route. At the University of Naples — unusually, a state foundation where Aristotle's works, newly translated with Arabic commentaries, were taught openly — he encountered both the new science and the Dominican Order, a recently founded mendicant order of preachers committed to study. At about nineteen he joined the Dominicans, scandalising his family, who kidnapped him on the road to Paris and held him for over a year at Roccasecca hoping he would relent. He did not.
+
+Released, he studied at Paris under Albert the Great, the era's great synthesizer of Aristotle and natural science, and followed Albert to Cologne. Fellow students nicknamed the large, quiet Thomas the "dumb ox" — Albert is said to have replied that this ox's bellowing would fill the world. He became a master of theology at Paris in 1256 (the year is sometimes given as 1256/57) and taught there in two periods, with a decade in Italy (Orvieto, Rome, Viterbo) in between, where he began the *Summa Contra Gentiles* and much else. His output is staggering: roughly eight to nine million words, dictated to multiple secretaries, including the two great *Summas*, commentaries on nearly all of Aristotle, disputed questions, and biblical commentaries. He worked amid institutional danger: Aristotle's works had been repeatedly restricted at Paris, and radical Aristotelians (the Latin Averroists) pushed positions — the eternity of the world, one intellect for all humans — that Thomas fought on two fronts, defending Aristotle's usefulness while refuting those conclusions. In December 1273, after an experience during Mass, he stopped writing altogether, telling his secretary that all he had written seemed like straw; the *Summa Theologiae* was left unfinished in Part III. He died at Fossanova Abbey in March 1274, travelling to the Council of Lyon. He was canonised in 1323; several propositions associated with his positions that had been caught up in the Paris condemnations of 1277 were formally rehabilitated in 1325.
+
+## Major theories and concepts
+
+### Faith and reason: grace perfects nature
+
+Aquinas's organising conviction: truth is one, and it is reached by two harmonious routes. Some truths about God — that God exists, is one, is intelligent — are demonstrable by natural reason from creatures; others (the Trinity, the Incarnation) are revealed mysteries that exceed reason's reach but can never contradict it, since the same God authors both nature and revelation. His slogan-like formula: "grace does not destroy nature, but perfects it." Philosophy is therefore a genuine, autonomous discipline with its own methods and certainties, yet theology is its orienting crown. This stance distinguished him both from Latin Averroists (who seemed to license conclusions "true in philosophy, false in theology") and from conservative theologians suspicious of Aristotle altogether.
+
+### Act and potency; essence and existence
+
+Aquinas's metaphysics is built from two Aristotelian pairs, deepened by Avicenna. First, **act and potency**: everything that changes is a mixture of what it actually is and what it can become; change is potency being actualised by something already in act. Second, **essence and existence**: in every creature, what a thing is (its essence — e.g., "phoenix" or "horse") does not include *that* it is; its existence (*esse*, the "act of being") is received from a cause. Only in God are essence and existence identical: God is *ipsum esse subsistens*, subsistent Being itself, pure act with no unrealised potency. A created thing is thus a real composition of a limiting essence and an actualising *esse*. Example: you can fully understand what a phoenix would be without knowing whether any exists — essence and existence come apart in thought and in reality; in God, Aquinas argues, they cannot come apart, which grounds God's necessity, simplicity, and uniqueness.
+
+### The Five Ways
+
+*Summa Theologiae* I, question 2, article 3 presents five compressed arguments, each moving from an observed feature of the world to a first principle "and this everyone understands to be God":
+
+1. **Motion/change:** things are reduced from potency to act only by something already in act; in an essentially ordered series (each mover moving only insofar as it is moved here and now, like a hand–stick–stone series), there must be a first mover, itself unmoved.
+2. **Efficient causation:** no essentially ordered causal series can regress infinitely; there must be a first efficient cause.
+3. **Contingency and necessity:** things that can fail to exist (drawn from Avicenna) require a being that exists necessarily and through itself as the source of necessity in others.
+4. **Degrees of perfection:** things are more or less good, true, noble; such gradations presuppose a maximum that is the cause of the perfection in all.
+5. **Teleology:** non-intelligent things act regularly for ends (the acorn toward the oak); such directedness requires an ordering intelligence.
+
+Crucial clarifications: the series in Ways 1–2 are *essentially ordered* (simultaneous, sustaining), not a temporal chain back to a first event — Aquinas held that a temporal beginning of the world cannot be proved philosophically and is known only by revelation (here following Maimonides). The Ways are skeletons; their full metaphysical machinery (act/potency, participation) is developed elsewhere, especially in the *Summa Contra Gentiles*. Example of the style: the argument is not "everything has a cause, so God caused it, so who caused God?" — within an essentially ordered series, derivative members have only borrowed causal power, and the question is what underived source the borrowing presupposes.
+
+### Analogy and divine names
+
+How can words like "good" and "wise" be true of both God and creatures? Not univocally (same sense — that would make God a big creature and collapse the essence/existence distinction), and not equivocally (wholly different senses — then theology says nothing). Aquinas's middle path: **analogy**. Creaturely perfections genuinely resemble their source in God, as effects resemble their cause, but exist in God in an eminent, undivided way we cannot comprehend. We know *that* God is wise, not *what* divine wisdom is. This is the position Scotus later attacked with univocity, arguing analogy leaves theological reasoning resting on an equivocation.
+
+### Natural law
+
+Aquinas's ethics joins Aristotle's virtue theory to a theory of law. The **eternal law** is God's rational governance of the universe. Rational creatures participate in it distinctively, through reason's grasp of self-evident first principles of practical reason — the very first: "good is to be done and pursued, and evil is to be avoided." This participation is **natural law**: from it reason derives more specific precepts (preserve life, procreate and educate offspring, know the truth about God, live in society) corresponding to human inclinations rightly understood. **Human law** is valid insofar as it derives from natural law by deduction or determination; an enactment that contradicts natural law is a corruption of law — unjust laws are "laws" only in an equivocal sense and do not bind in conscience (with prudential exceptions). Conscience and the virtues (cardinal virtues, perfected by the theological virtues of faith, hope, charity) complete the picture: moral life aims at beatitude, ultimately the vision of God, which exceeds natural capacity.
+
+### Soul as form of the body
+
+Against both Platonic dualism and Averroes' single shared intellect, Aquinas's Aristotelian hylomorphism holds that the rational soul is the substantial *form* of the human body — the principle that makes this body a living human body. Unlike other forms, however, the rational soul is also subsistent: it has an operation (thinking) not performed through a bodily organ, so it can survive death — but the separated soul is not the complete person: "my soul is not I." Full personal survival therefore requires the resurrection of the body, a conclusion where philosophy hands over to theology. Individuation within a species comes from designated matter, which raises the tricky problem of how angels (immaterial) differ from one another — Aquinas answers that each angel is its own species.
+
+## Key works
+
+- **On Being and Essence** (*De Ente et Essentia*, c. 1252–56) — short early treatise; the best single entry to his metaphysics of essence and existence.
+- **Summa Contra Gentiles** (1259–65) — four books arguing from reason as far as possible toward Christian truth; fullest statement of the God-proofs.
+- **Summa Theologiae** (1265–74, unfinished) — the masterpiece: over 500 questions structured as articles with objections, *sed contra*, body, and replies. Five Ways at I q.2; natural law at I–II qq. 90–94.
+- **Commentaries on Aristotle** (c. 1268–73) — literal expositions of the *Physics*, *Metaphysics*, *Nicomachean Ethics*, *De Anima*, and more; models of the commentary genre.
+- **On the Unity of the Intellect** (1270) — polemic against the Averroist doctrine of one intellect for all humans.
+- **Disputed Questions** (on truth, evil, the soul, etc.) — records of live university disputation; often his most exploratory writing.
+
+## Contributions
+
+Aquinas did not merely repeat Aristotle: he forged a new synthesis in which Aristotelian metaphysics, Avicennian essence/existence, Augustinian theology, and Maimonides' careful limits on demonstration were reworked into one system. He gave natural theology its most influential proofs, natural law its canonical formulation, and scholasticism its model format (the *quaestio* article). His act/potency analysis of *esse* — existence as the act of all acts — is an original metaphysical deepening of Aristotle, not a restatement.
+
+## Impact and legacy
+
+Within a generation Scotus and Ockham were dismantling parts of the synthesis, and some Thomist positions were implicated in the Paris condemnations of 1277 — but Thomism survived as a school, was revived in the sixteenth-century Spanish scholastics, and in 1879 Pope Leo XIII's *Aeterni Patris* made Aquinas the official philosophical guide of Catholic education. The twentieth century saw both neo-Thomist dominance in Catholic institutions and a scholarly recovery of the historical Aquinas (Gilson, Chenu). Analytic philosophers from mid-century onward (Anscombe, Geach, Kenny, Stump, Feser) have treated him as a live research programme rather than a museum piece. Natural law theory, mediated through later scholastics and Locke, fed modern rights discourse and jurisprudence.
+
+## Criticisms and debates
+
+Scotus contested analogy, the primacy of intellect over will in Aquinas's ethics, and his account of individuation. Ockham's nominalism dissolved much of the realist metaphysics beneath the system. The condemnations of 1277 are still debated: did Bishop Tempier's 219 propositions actually target Thomas, and did they help or hinder later science? Modern critics press the Fourth Way (does a scale of perfections need a maximum?), the coherence of divine simplicity with freedom, and whether natural law slides from "is" to "ought." Within Thomism itself there are live debates — over the real distinction between essence and *esse*, over "transcendental" versus "analytic" readings, and over how much of Avicenna and Averroes is inside the synthesis.
+
+## Misreadings to avoid
+
+- That the Five Ways are five freestanding scientific proofs or early "intelligent design" arguments: they are compressed metaphysical demonstrations inside an Aristotelian framework, and Aquinas denied that a first temporal event could be proved.
+- That "first mover" means God started the universe long ago: the essentially ordered series is about present sustaining causation.
+- That Aquinas thought faith redundant once reason proves God: the mysteries central to Christianity remain, for him, undemonstrable.
+- That natural law is just "do what is natural" biology: it is a theory of rational participation in eternal law, with self-evident practical principles and room for variable determinations.
+
+## What to read first
+
+1. *Summa Theologiae* I q.2 (all three articles) — learn the objections → *sed contra* → *respondeo* → replies rhythm and meet the Five Ways in context.
+2. *On Being and Essence* — the metaphysics in miniature.
+3. *Summa Theologiae* I–II qq. 90–94 — the treatise on law (q.91 on the kinds of law; q.94 on natural law).
+4. A modern companion: Brian Davies's *The Thought of Thomas Aquinas*, or Edward Feser's *Aquinas: A Beginner's Guide*.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

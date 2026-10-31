@@ -2,12 +2,104 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
-- Major: No innate ideas; mind as "white paper" (his image; "tabula rasa" is later shorthand). All ideas from experience: sensation (outer) and reflection (inner operations). Primary qualities (solidity, extension, figure, motion, number) really in objects, resemble ideas; secondary qualities (colour, taste, sound) are powers in objects to produce ideas, ideas don't resemble. Material substance = obscure "something, I know not what". Personal identity via continuity of consciousness/memory, not sameness of soul/body. Politics: natural rights to life, liberty, property in state of nature; government by consent (social contract) to protect rights, limited, may be dissolved if trust violated.
-- Works: Essay Concerning Human Understanding (1689; also seen 1690 — title pages straddle publication winter; state a convention); Two Treatises of Government (1689; written c. 1679–83, Exclusion Crisis; First refutes divine right/Filmer, Second positive account); Letter Concerning Toleration (1689).
-- Lineage: Turns Descartes' "way of ideas" (SEP phrase) empiricist; against scholastic innatism and Filmer (Hobbes in background). Leibniz replied book-length; Berkeley/Hume argue he didn't follow own principles far enough. Political theory feeds 18th-c. liberalism, American Founding.
-- Why: Sets empiricism's research programme and liberalism's political grammar in same decade.
-- Read first: Essay II.1 (sources of ideas), II.8 (primary/secondary), II.27 (personal identity); Second Treatise chs. II, V, VII–IX.
-- Cautions: Denies innate ideas/principles, not innate faculties/capacities/temperament; don't import 20th-c. behaviourism.
+## At a glance
+
+- **Lifespan:** 1632–1704
+- **Place:** Somerset, Oxford, and London, England; exile in the Netherlands, 1683–89
+- **Tradition:** Empiricism; early liberal political theory
+- **Known for:** All ideas come from experience; personal identity rests on consciousness; legitimate government rests on consent and protects natural rights to life, liberty, and property
+
+## Biography
+
+Locke was born in 1632 in Wrington, Somerset, son of a country attorney who fought for Parliament in the Civil War. Educated at Westminster School and Christ Church, Oxford, he stayed on to teach Greek, rhetoric, and moral philosophy, but grew dissatisfied with the scholastic curriculum. He turned to the new experimental science and to medicine, working alongside Robert Boyle and the physician Thomas Sydenham. His medical and scientific associations shaped his intellectual style: observe carefully, and distrust grand systems built ahead of the evidence.
+
+In 1667 he entered the household of Anthony Ashley Cooper, later Earl of Shaftesbury — first in a medical capacity, then as secretary and political adviser. Through Shaftesbury he was drawn into Restoration politics, colonial administration, and trade. Philosophy and politics were never separate for him: authority, consent, property, and toleration were live party questions.
+
+When Shaftesbury fell and was implicated in plots against Charles II, Locke’s position became dangerous. In 1683 he fled to the Netherlands, living in exile until 1689 under threat of extradition, and bringing much of his major work to final form. He returned after the Glorious Revolution brought William and Mary to the throne. That year, 1689, saw the *Essay Concerning Human Understanding*, the *Two Treatises of Government*, and the *Letter Concerning Toleration* all published. Despite chronic asthma, he remained active — serving on the Board of Trade and writing on education, money, and Christianity — spending his last years at Oates in Essex, in Sir Francis Masham’s household, where he died in 1704.
+
+## Major theories and concepts
+
+### No innate ideas: the mind as “white paper”
+
+Book I of the *Essay* attacks the doctrine that certain ideas or principles — logical maxims, moral rules, the idea of God — are innate, stamped on the mind from birth. If they were, Locke argues, they would command universal assent; yet children and many whole peoples show no awareness of supposed innate maxims. And if “innate” merely means “appearing when reason matures,” then everything discoverable by reason would count as innate, emptying the doctrine of content.
+
+His alternative, in Book II: suppose the mind to be “white paper, void of all characters, without any ideas” — how is it furnished? “From experience.” Note the label: **“tabula rasa” (blank slate) is a later shorthand label, not Locke’s own image here**, and it misleads if taken to mean a mind with no structure at all.
+
+For Locke denies innate *ideas and principles*, not innate *faculties*. Perception, memory, reasoning, desire, and natural temperaments are part of our equipment. His quarrel is with ready-made knowledge, not with human nature.
+
+### Sensation and reflection
+
+All ideas come from two sources. *Sensation* supplies ideas of external things: colours, sounds, solidity, motion. *Reflection* is the mind’s notice of its own operations — perceiving, doubting, believing, willing. Reflection is not an innate stock; it is experience turned inward.
+
+From *simple* ideas received through these sources, the mind actively builds *complex* ideas by combining, comparing, and abstracting. This yields Locke’s “historical, plain method”: for any contested concept — substance, cause, infinity — ask how the idea could have been assembled from experience. If no such history can be given, suspect a word being used without a clear idea, a diagnosis he applies relentlessly to scholastic jargon.
+
+### Primary and secondary qualities
+
+In *Essay* II.8, Locke develops a distinction associated with Galileo and Boyle. *Primary qualities* — solidity, extension, figure, motion or rest, number — are really in objects whether perceived or not, and our ideas of them *resemble* them: the idea of a shape is genuinely like the shape.
+
+*Secondary qualities* — colours, sounds, tastes, smells — do not resemble anything in the object as they appear to us. They are *powers* in objects, grounded in the primary qualities of their minute parts, to produce ideas in us. The same water feels warm to one hand and cold to the other, so warmth as felt cannot simply reside in the water as it appears. The distinction was meant to reconcile everyday experience with the new corpuscular science — though Berkeley argued Locke had not followed it far enough.
+
+### Material substance: “something, I know not what”
+
+We experience collections of qualities — hard, white, cold, round — and suppose a *substratum* in which they inhere. Strip away all the qualities, and what remains? Locke is disarmingly honest: substance in general is “something, I know not what,” a *supposed* support whose own nature we do not grasp. He does not deny substance; he confesses our idea of it is obscure. It is a consequential loose thread: Berkeley discarded material substance while keeping spiritual substance, and Hume pressed the question against both.
+
+### Personal identity: consciousness and memory
+
+*Essay* II.27, added in the second edition, founds the modern debate. A *person* is a thinking being that can consider itself as itself, the same thinking thing, across different times and places — and it does so by *consciousness*. Sameness of person is neither sameness of soul-substance nor of body, but the backward reach of consciousness: I am the same person who did a past deed insofar as I can remember it from the inside.
+
+His thought experiments still structure the field. If a prince’s consciousness entered a cobbler’s body, the resulting person would be the prince. If Socrates waking and Socrates sleeping shared no consciousness, they would not be the same person — which matters because “person” is, Locke insists, a *forensic* term: identity is what praise, blame, and punishment properly track. Critics objected that memory presupposes identity rather than constituting it (Butler), and that overlapping memory chains break transitivity (Reid’s brave-officer case). These remain live debates, not settled refutations.
+
+### Natural rights and the state of nature
+
+The *Second Treatise* begins before government, in a *state of nature* where people are free and equal, bound by a law of nature — reason — teaching that no one ought to harm another in his life, health, liberty, or possessions. These *natural rights* are held independently of government. Locke’s state of nature is not Hobbesian war, but it has “inconveniences”: no settled known law, no impartial judge, no reliable executive. Everyone must enforce the law of nature themselves, and partiality predictably corrupts that arrangement.
+
+### Property: labour mixing
+
+If the earth was originally given to mankind in common, how can anything become privately owned? Locke’s answer in chapter V is *labour*. Each person owns his own person, and therefore his labour. By mixing that labour with something unowned — gathering acorns, tilling a field — he joins to it something that is his and makes it his property, provided (the famous provisos) that “enough, and as good” is left for others and nothing spoils in his possession. Money, introduced by tacit consent, later allows accumulation beyond the spoilage limit. Whether labour-mixing justifies extensive private property, and how the provisos fare amid scarcity, has been debated ever since — including sharply critical readings of the theory’s use in justifying seizure of Indigenous land in America.
+
+### Consent, limited government, and dissolution
+
+Political power can arise legitimately only from *consent*: free individuals compact to form a society and entrust government with power to protect their rights. Government is therefore *limited* and *fiduciary* — a trust, not an ownership. Even the supreme legislative power cannot rule arbitrarily, take property without consent, or transfer lawmaking to others.
+
+If government breaks the trust, who shall judge? “The people shall be judge.” Government may be *dissolved*, and power reverts to society, which may erect a new one. Locke distinguishes dissolving a *government* from dissolving a *society*, and answers the charge that his doctrine invites constant rebellion: peoples are slow to rouse, and revolutions follow long trains of abuse, not light provocations. Written during the Exclusion Crisis, the argument was published in 1689 as a justification of the revolution just completed.
+
+### Toleration
+
+The *Letter Concerning Toleration* (1689) argues the magistrate’s business is civil interests — life, liberty, property — not salvation. True religion is inward persuasion, which force cannot produce: a church is a voluntary society, and coercion manufactures hypocrisy, not faith. Locke’s own limits are revealing and much debated: he excluded atheists, whose oaths he thought could not bind them, and distrusted groups he believed owed allegiance to a foreign power — limits his own principles have since been used to criticise and extend beyond.
+
+## Key works
+
+- *Essay Concerning Human Understanding* (1689; some cite 1690 — title pages straddle the publication winter of 1689–90; this entry follows the 1689 convention) — Against innate ideas; the sources of ideas; words and their abuses; knowledge and probability.
+- *Two Treatises of Government* (1689, but written c. 1679–83 during the Exclusion Crisis) — The *First* refutes Filmer’s divine-right monarchy; the *Second* gives the positive account of rights, property, consent, and dissolution.
+- *A Letter Concerning Toleration* (1689) — First published in Latin in the Netherlands; the classic argument separating civil authority from religious coercion.
+- *Some Thoughts Concerning Education* (1693) — Habit, example, and esteem over rote and the rod; widely influential.
+- *The Reasonableness of Christianity* (1695) — A minimalist account of Christian belief, controversial in its day.
+
+## Contributions
+
+Locke set empiricism’s research programme: trace every idea to experience, and suspect concepts that cannot survive that audit. He made personal identity as psychological continuity a central, still-open problem. He articulated the grammar of modern liberalism — pre-political rights, government by consent, power as trust, and a principled right to replace a government that betrays it. And he gave toleration a systematic defence grounded in the nature of belief itself, not merely political convenience.
+
+## Impact and legacy
+
+The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; Voltaire popularised him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
+
+## Criticisms and debates
+
+Berkeley argued the primary/secondary distinction collapses — extension and figure vary with perspective just as colour does — and that material substance is an idea Locke’s own principles cannot license. Hume pressed the empiricist audit further, to causation, the self, and induction. On politics, scholars debate whether Locke’s *tacit* consent — inferred from merely living under a government — is too thin to legitimise anything. Critical historians read the property chapter as ideology for enclosure and colonialism; others stress the provisos as real constraints much modern accumulation violates. Twentieth-century scholarship also transformed the *Two Treatises* themselves, showing they were Exclusion Crisis works, not a post-1688 afterthought.
+
+## Misreadings to avoid
+
+- “Tabula rasa” is later shorthand; Locke’s image is “white paper,” and he denies innate *ideas*, not innate faculties or tendencies.
+- Locke is not a behaviourist or crude blank-slate determinist; reflection, reasoning, and active combination are built into his account.
+- The state of nature is primarily an analytical device about authority and obligation, not simply a claim about prehistory.
+- The right of revolution is not a licence to rebel at any grievance; Locke stresses long abuse, a broken trust, and the people as judge.
+
+## What to read first
+
+1. *Essay* II.1 — the sources of ideas, short and programmatic.
+2. *Essay* II.8 — primary and secondary qualities.
+3. *Essay* II.27 — personal identity, his most influential single chapter.
+4. *Second Treatise*, chapters II, V, VII–IX — state of nature, property, and political power.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
