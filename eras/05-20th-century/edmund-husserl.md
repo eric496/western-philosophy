@@ -44,6 +44,7 @@ Underneath every theory lies the *Lebenswelt*, the life-world: the pre-scientifi
 ## Key works
 
 - *Logical Investigations* (1900–01) — The breakthrough. Volume I attacks psychologism, the reduction of logic to psychology; Volume II develops intentionality and meaning. Dense, but the foundation of everything after.
+- "Philosophy as Rigorous Science" (1911) — The *Logos* manifesto against both naturalism and historicism: philosophy as a rigorous discipline that is neither an experimental science nor a worldview.
 - *Ideas Pertaining to a Pure Phenomenology* — *Ideas I* (1913) — The first systematic statement of transcendental phenomenology, introducing the epoché and reduction in programmatic form. The book that made, and confused, his reputation.
 - *Cartesian Meditations* (French publication 1931) — Five meditations modelled on Descartes, covering the reduction, time, and the problem of other minds. The most accessible of his mature books, though still demanding.
 - *The Crisis of European Sciences and Transcendental Phenomenology* (parts 1936; full posthumous edition 1954) — His historical diagnosis of science’s forgotten life-world foundations. Arguably his most influential late work outside phenomenology itself.
@@ -59,7 +60,7 @@ Almost every major continental philosopher of the next generation defined themse
 
 ## Criticisms and debates
 
-Three debates recur. First, obscurity: Husserl published little, restarted constantly, and wrote in a vocabulary even sympathetic readers find forbidding. Second, the reduction: is the epoché a fruitful discipline, an impossible fantasy of presuppositionless seeing, or a slide into idealism? The posthumous manuscripts support more than one reading. Third, Eurocentrism: the *Crisis* frames its story as a specifically European destiny of reason, and critics working on race and colonialism have asked whose life-world gets treated as universal.
+Three debates recur. First, obscurity: Husserl published little, restarted constantly, and wrote in a vocabulary even sympathetic readers find forbidding. Second, the reduction: is the epoché a fruitful discipline, an impossible fantasy of presuppositionless seeing, or a slide into idealism? The posthumous manuscripts support more than one reading. Third, Eurocentrism: the *Crisis* frames its story as a specifically European destiny of reason, and critics working on race and colonialism have asked whose life-world gets treated as universal. A fourth fault line is historical: the Munich and Göttingen realists who had gathered around the *Logical Investigations* — Reinach, Stein, and Ingarden among them — revolted against the transcendental turn of *Ideas I*, the schism that split phenomenology's first generation.
 
 ## Misreadings to avoid
 

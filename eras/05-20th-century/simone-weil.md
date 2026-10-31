@@ -45,7 +45,7 @@ Affliction is not ordinary suffering. *Malheur* is suffering that uproots a life
 - *The Need for Roots* (1949) — her political testament for postwar France.
 - *Waiting for God* (1950) — letters and essays on attention, affliction, and her position outside the Church.
 - *Factory Journal* (in *La Condition ouvrière*, 1951) — the diary of her factory year.
-- *Notebooks* (1956) — the vast *Cahiers* from which the posthumous books were drawn.
+- *Notebooks* (1951–56) — the vast *Cahiers*, published in three volumes, from which the posthumous books were drawn.
 
 ## Contributions
 

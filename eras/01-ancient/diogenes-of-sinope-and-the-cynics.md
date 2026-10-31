@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **Lifespan:** Diogenes, c. 412/404–c. 323 BCE; Cynicism flourishes from the 4th century BCE into the Roman Empire
+- **Dates:** Diogenes, c. 412/404–c. 323 BCE; Cynicism flourishes from the 4th century BCE into the Roman Empire
 - **Place:** Sinope, then exile; Corinth and Athens
 - **School/tradition:** Cynicism, founded in spirit by Antisthenes, a pupil of Socrates; Diogenes is its archetype
 - **Known for:** Living philosophy as public performance — needing almost nothing, flouting convention, and declaring himself a "citizen of the world."

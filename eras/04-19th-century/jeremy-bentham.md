@@ -11,7 +11,7 @@
 
 ## Biography
 
-Jeremy Bentham was born in London in 1748, a prodigy of forbidding precocity: Latin at three or four, Oxford at twelve, called to the bar at nineteen. Called, but never content: he attended court and was disgusted by what he saw — a legal system of deliberate obscurity, technical fictions, and vested interests ("Judge & Co.") that enriched lawyers and baffled everyone else. He decided, astonishingly early, that the law needed not practitioners but a science: a standard outside itself by which every law could be judged.
+Jeremy Bentham was born in London in 1748, a prodigy of forbidding precocity: Latin at three or four, Oxford at twelve, called to the bar at twenty-one. Called, but never content: he attended court and was disgusted by what he saw — a legal system of deliberate obscurity, technical fictions, and vested interests ("Judge & Co.") that enriched lawyers and baffled everyone else. He decided, astonishingly early, that the law needed not practitioners but a science: a standard outside itself by which every law could be judged.
 
 That standard was utility. Backed by an inheritance that freed him from earning a living, Bentham spent more than sixty years writing — thousands upon thousands of manuscript pages, much of it unpublished or unfinished in his lifetime — aimed at a complete rational reconstruction of law, punishment, government, and morals. His first public success, *A Fragment on Government* (1776), was a demolition of Blackstone's reverent *Commentaries* on English law. His great statement of principle, *An Introduction to the Principles of Morals and Legislation*, was printed in 1780 and published in 1789.
 
@@ -46,7 +46,7 @@ Since punishment is itself an evil (it inflicts pain), it is justified only wher
 
 ## Contributions
 
-Bentham invented the doctrine his century then argued about: a single, public, impartial standard for morals and law, a theory of legislation as a science, and a vocabulary of reform. He founded no successful prison, but he founded a way of evaluating institutions that underlies cost–benefit analysis, welfare economics, and modern public policy. He supported, far ahead of respectable opinion, the decriminalisation of homosexuality (in unpublished essays), animal welfare ("The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"), universal suffrage in his late radical phase, and the abolition of the death penalty in most cases.
+Bentham invented the doctrine his century then argued about: a single, public, impartial standard for morals and law, a theory of legislation as a science, and a vocabulary of reform. He founded no successful prison, but he founded a way of evaluating institutions that underlies cost–benefit analysis, welfare economics, and modern public policy. He supported, far ahead of respectable opinion, the decriminalisation of homosexuality (in unpublished essays), animal welfare ("The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"), near-universal manhood suffrage in his late radical phase, and the abolition of the death penalty in most cases.
 
 ## Impact and legacy
 

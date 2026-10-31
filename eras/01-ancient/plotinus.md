@@ -3,9 +3,10 @@
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
+
 - **Dates:** c. 204/5–270 CE
 - **Place:** Egypt-born; taught in Rome from 244 CE
-- **School / tradition:** Neoplatonism — a modern name; Plotinus saw himself as Plato's interpreter
+- **School/tradition:** Neoplatonism — a modern name; Plotinus saw himself as Plato's interpreter
 - **Known for:** Reality emanating from the ineffable One through Intellect and Soul, and philosophy as the soul's return to its source.
 
 ## Biography

@@ -48,12 +48,14 @@ In the *Theses on Feuerbach* (1845, published by Engels in 1888), Marx breaks wi
 - *Economic and Philosophic Manuscripts of 1844* (written 1844; published 1932) — The alienation analysis; the key text for the "young Marx."
 - *The German Ideology* (with Engels, 1845–46; unpublished in their lifetimes) — The first statement of the materialist conception of history, wrapped around hundreds of pages of polemic against rivals like Stirner.
 - *Manifesto of the Communist Party* (with Engels, 1848) — The famous pamphlet: brilliant, rhetorical, and programmatic; the SEP warns it is "not the best guide to his thought" taken alone.
+- *The Eighteenth Brumaire of Louis Bonaparte* (1852) — Marx as concrete political analyst: Louis-Napoléon's coup explained through class fractions and their illusions, and the source of the line that history repeats itself, "the first time as tragedy, the second time as farce." Routinely counted among his finest works.
 - *A Contribution to the Critique of Political Economy* (1859) — Contains the Preface stating historical materialism in canonical form.
 - *Capital, Vol. 1* (1867) — The masterwork: commodity, value, surplus value, accumulation. Vols. 2–3 were edited by Engels from drafts (1885, 1894).
+- *Grundrisse* (written 1857–58; first published 1939) — The vast notebooks behind *Capital*: the method of political economy, the "Fragment on Machines," and pre-capitalist economic forms; central evidence in debates over the mature Marx.
 
 ## Contributions
 
-Marx added several things that did not previously exist as unified ideas: a systematic theory of history driven by production and class; a concept of ideology — dominant ideas as serving material interests while presenting themselves as universal; the analysis of exploitation compatible with free and equal exchange; and the method of *immanent critique*, judging capitalism by its own standards of freedom and equality and showing how its normal operation betrays them. He turned Hegel's dialectic from a story about Spirit into a story about labour, ownership, and power.
+Marx added several things that did not previously exist as unified ideas: a systematic theory of history driven by production and class; a concept of ideology — dominant ideas as serving material interests while presenting themselves as universal; the analysis of exploitation compatible with free and equal exchange; and the method of *immanent critique*, judging capitalism by its own standards of freedom and equality and showing how its normal operation betrays them. He turned Hegel's dialectic from a story about Spirit into a story about labour, ownership, and power. The *Eighteenth Brumaire* (1852) remains the standard exhibit of the method in action — historical materialism applied to a single unfolding political crisis.
 
 ## Impact and legacy
 

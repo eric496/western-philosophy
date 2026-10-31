@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **Lifespan:** Pyrrho, c. 360–c. 270 BCE; Pyrrhonism revived by Aenesidemus (1st century BCE) and codified by Sextus Empiricus (late 2nd century CE)
+- **Dates:** Pyrrho, c. 360–c. 270 BCE; Pyrrhonism revived by Aenesidemus (1st century BCE) and codified by Sextus Empiricus (late 2nd century CE)
 - **Place:** Elis, Greece; travelled to India with Alexander the Great's expedition
 - **School/tradition:** Pyrrhonian Skepticism — distinct from the skeptical phase of Plato's Academy under Arcesilaus and Carneades
 - **Known for:** Suspending judgement about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "like a shadow."
@@ -41,7 +41,7 @@ How does one act without beliefs about reality? Sextus answers: by following app
 
 ### The Modes: tools for producing epochē
 
-Later Pyrrhonists organised their argument-patterns into Modes. **Aenesidemus' Ten Modes** generate opposing appearances from differences among animals, humans, and the senses, in circumstances, positions, quantities, relations, and customs — the same water is pleasure to the thirsty and torment to the drowning. **Agrippa's Five Modes** are more abstract: from *dispute* (undecided conflict everywhere), *regress* (every justification needs a further one, infinitely), *relativity* (things appear only in relation to a perceiver), *hypothesis* (dogmatists stop the regress by assuming a starting point), and *circularity* (the proof assumes what it was meant to prove). Together they pose the criterion problem: by what standard do you justify your standard? Any answer falls into regress, circle, or bare assertion — a trilemma still discussed as the Münchhausen trilemma.
+Later Pyrrhonists organised their argument-patterns into Modes. **Aenesidemus' Ten Modes** generate opposing appearances from differences among animals, humans, and the senses, in circumstances, positions, quantities, relations, and customs — the same water is pleasure to the thirsty and torment to the drowning. **Agrippa's Five Modes** are more abstract: from *dispute* (undecided conflict everywhere), *regress* (every justification needs a further one, infinitely), *relativity* (things appear only in relation to a perceiver), *hypothesis* (dogmatists stop the regress by assuming a starting point), and *circularity* (the proof assumes what it was meant to prove). Together they pose the criterion problem: by what standard do you justify your standard? Any answer falls into regress, circle, or bare assertion — a trilemma still discussed today (in modern literature, the Münchhausen trilemma — a 20th-century coinage).
 
 ## Key works
 

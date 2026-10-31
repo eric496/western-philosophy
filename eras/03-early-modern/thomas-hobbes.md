@@ -61,7 +61,7 @@ Hobbes invented the modern template: start from individual psychology, imagine a
 
 ## Impact and legacy
 
-Locke kept consent but made government a dissoluble trust; Rousseau kept popular authorisation while rejecting Hobbes’s natural man. Spinoza absorbed his naturalism and realism. In the twentieth century Hobbes was revived by international-relations realists, by game theorists reading the state of nature as a prisoner’s dilemma, and by legal positivists. His reputation has shifted from “philosopher of total power” toward “first great theorist of the modern secular state” — now the dominant scholarly reading.
+Locke kept consent but made government a dissoluble trust; Rousseau kept popular authorisation while rejecting Hobbes’s natural man. Spinoza absorbed his naturalism and realism. In the twentieth century Hobbes was revived by international-relations realists, by game theorists reading the state of nature as a prisoner’s dilemma, and by legal positivists. His reputation has shifted from “philosopher of total power” toward “first great theorist of the modern secular state” — now a leading scholarly reading, though theological readings of Hobbes remain a live rival.
 
 ## Criticisms and debates
 

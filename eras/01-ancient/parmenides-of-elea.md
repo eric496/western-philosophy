@@ -6,7 +6,7 @@
 
 - **Dates:** Born c. 515 BCE; his poem is usually dated to his maturity, early–mid 5th century BCE (conventional dates; Plato's dramatic chronology suggests c. 450 BCE for a meeting with Socrates)
 - **Place:** Elea, a Greek colony in southern Italy
-- **School/tradition:** Founder of the Eleatic tradition; his pupil Zeno and associate Melissus carried it forward
+- **School/tradition:** Founder of the Eleatic tradition; his pupil Zeno defended it; Melissus of Samos later developed it
 - **Known for:** Arguing by pure deduction that Being is one, eternal, indivisible, and changeless — and that change, motion, and plurality are therefore impossible, however they appear
 
 ## Biography

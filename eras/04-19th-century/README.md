@@ -21,22 +21,25 @@ Stirner optional sidebar between 3 and 4.
 Schopenhauer WWR: 1818 (completed/published Dec) vs 1819 (title page). Mill Utilitarianism: 1861 serial / 1863 book. Hegel Science of Logic: 1812–16 (some SEP editions 1812–18). Stirner Ego: 1844 pub / 1845 title page. Marx 1844 Manuscripts and German Ideology unpublished in lifetime, first published 20th c. (1932 for Manuscripts).
 
 ## Sources
-SEP entries: Hegel, Schopenhauer, Kierkegaard, Mill (moral/political), Marx, Nietzsche (life & works), Peirce, Pragmatism, James. Britannica: Bentham. URLs in subagent report (some with case typos in path — use canonical plato.stanford.edu/entries/<slug>/ when building repo links).
+SEP entries: Hegel, Schopenhauer, Kierkegaard, Mill (moral/political), Marx, Nietzsche (life & works), Peirce, Pragmatism, James. Britannica: Bentham.
 
 ## Philosopher entries in this era
 
 - [Jeremy Bentham](jeremy-bentham.md)
 - [G.W.F. Hegel](g-w-f-hegel.md)
+- [Johann Gottlieb Fichte](johann-gottlieb-fichte.md)
 - [Arthur Schopenhauer](arthur-schopenhauer.md)
 - [Auguste Comte](auguste-comte.md)
+- [Alexis de Tocqueville](alexis-de-tocqueville.md)
 - [Søren Kierkegaard](soren-kierkegaard.md)
 - [John Stuart Mill](john-stuart-mill.md)
 - [Harriet Taylor Mill](harriet-taylor-mill.md)
 - [Karl Marx](karl-marx.md)
-- [Friedrich Nietzsche](friedrich-nietzsche.md)
 - [Charles Sanders Peirce](charles-sanders-peirce.md)
 - [Franz Brentano](franz-brentano.md)
+- [Henry Sidgwick](henry-sidgwick.md)
 - [William James](william-james.md)
+- [Friedrich Nietzsche](friedrich-nietzsche.md)
 - [Sidebars: Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md)
 
 ---

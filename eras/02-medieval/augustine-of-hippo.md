@@ -57,7 +57,7 @@ Nearly every later medieval figure in this era cites him as the master authority
 
 ## Criticisms and debates
 
-Pelagius contested the grace doctrine in Augustine's own lifetime, charging that it made moral effort pointless and God unjust; the semi-Pelagian controversy continued after his death, and the Second Council of Orange (529) moderated his hardest predestinarian edges. Modern scholars debate how "Augustinian" the later Augustine is versus the young Platonising convert; whether his account of evil as privation succeeds; and how much his doctrine of sex and concupiscence distorted Western attitudes to the body. The claim in the source entry stands: he systematised a distinctively Western reading of Paul on original sin — he did not invent it unopposed, and the East took a different path.
+Pelagius contested the grace doctrine in Augustine's own lifetime, charging that it made moral effort pointless and God unjust; the semi-Pelagian controversy continued after his death, and the Second Council of Orange (529) moderated his hardest predestinarian edges. Modern scholars debate how "Augustinian" the later Augustine is versus the young Platonising convert; whether his account of evil as privation succeeds; and how much his doctrine of sex and concupiscence distorted Western attitudes to the body. Augustine systematised a distinctively Western reading of Paul on original sin — he did not invent it unopposed, and the East took a different path.
 
 ## Misreadings to avoid
 

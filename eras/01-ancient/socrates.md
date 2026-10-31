@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** c. 470 – 399 BCE (conventional dates)
+- **Dates:** c. 470 – 399 BCE (conventional dates)
 - **Place:** Athens, Greece
-- **School / tradition:** No school and no writings; originator of the Socratic method, teacher of Plato
+- **School/tradition:** No school and no writings; originator of the Socratic method, teacher of Plato
 - **Known for:** Elenchus, professed ignorance, the unexamined life, his trial
 
 ## Biography
@@ -17,7 +17,7 @@ Socrates was born c. 470 BCE in Athens, son of Sophroniscus, a stonemason or scu
 
 He was not wealthy or beautiful by Athenian standards: snub-nosed, bulging-eyed, often barefoot in the same cloak. He married Xanthippe, later proverbial (probably unfairly, on thin evidence) for a sharp tongue, and had three sons.
 
-Athens in his lifetime passed from golden age to catastrophe: the Peloponnesian War against Sparta (431–404 BCE), plague, and imperial fall. Socrates served with distinction as a hoplite — a heavy infantryman — at Potidaea, Delium, and Amphipolis. Plato stresses his endurance and courage: at Delium he saved the wounded Alcibiades, and once stood motionless in thought from dawn to dawn. He was no recluse but a citizen-soldier.
+Athens in his lifetime passed from golden age to catastrophe: the Peloponnesian War against Sparta (431–404 BCE), plague, and imperial fall. Socrates served with distinction as a hoplite — a heavy infantryman — at Potidaea, Delium, and Amphipolis. Plato stresses his endurance and courage: at Potidaea he saved the wounded Alcibiades, at Delium his orderly retreat, alongside Laches, was noted for its courage, and once he stood motionless in thought from dawn to dawn. He was no recluse but a citizen-soldier.
 
 He showed civic courage too. Under the democracy, on the Council, he alone opposed the illegal collective trial of the generals after Arginusae (406 BCE). Under the Thirty Tyrants (404 BCE) he refused to arrest an innocent man, Leon of Salamis, risking his life. Reported by Plato and Xenophon, these episodes complicate the charge that he was anti-democratic: he defied both regimes when they acted unjustly.
 

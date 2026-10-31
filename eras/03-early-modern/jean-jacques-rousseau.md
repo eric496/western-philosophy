@@ -48,6 +48,7 @@ Government, finally, is strictly subordinate. Sovereignty — legislative author
 
 ## Key works
 
+- *Discourse on the Sciences and Arts* (1750) — The prize essay that made him famous: the arts and sciences corrupt rather than purify morals, and luxury dissolves civic virtue.
 - *Discourse on the Origin of Inequality* (1755) — Conjectural history from natural goodness through property to domination.
 - *Émile, or On Education* (1762) — Novel-treatise on raising a child according to nature; condemned and burned in Paris and Geneva, forcing Rousseau to flee arrest.
 - *The Social Contract* (1762) — Opens “Man is born free, and everywhere he is in chains”; the systematic account of legitimacy, sovereignty, and the general will.

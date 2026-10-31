@@ -41,7 +41,7 @@ Two blemishes must be faced squarely. Mill restricts the principle to adults in 
 
 ### The Subjection of Women
 
-Written in 1861 and published 1869, *The Subjection of Women* argues that the legal subordination of women "is wrong in itself, and now one of the chief hindrances to human improvement" — a relic of the law of force with no surviving justification. Mill insists we cannot know women's "nature" from behaviour produced under subordination (an epistemically sophisticated point), defends equal education, professions, property, and the vote on grounds of both justice and social utility, and anatomises marriage as the remaining institution of domestic despotism. Mill credited Harriet Taylor Mill (and an 1851 essay of hers) at the argument's root — his 1851 essay "Enfranchisement of Women" is often attributed primarily to her.
+Written in 1861 and published 1869, *The Subjection of Women* argues that the legal subordination of women "is wrong in itself, and now one of the chief hindrances to human improvement" — a relic of the law of force with no surviving justification. Mill insists we cannot know women's "nature" from behaviour produced under subordination (an epistemically sophisticated point), defends equal education, professions, property, and the vote on grounds of both justice and social utility, and anatomises marriage as the remaining institution of domestic despotism. Mill credited Harriet Taylor Mill at the argument's root: the 1851 essay "The Enfranchisement of Women" — published under his name, now generally attributed primarily to Harriet — had made the case nearly two decades before.
 
 ## Key works
 

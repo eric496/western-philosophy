@@ -54,7 +54,7 @@ Anscombe coined “consequentialism” as a term of criticism, supplied the domi
 
 ## Impact and legacy
 
-MacIntyre’s *After Virtue* (1981) builds explicitly on Anscombe’s diagnosis. Rosalind Hursthouse developed virtue ethics along Foot’s naturalist lines; McDowell and Foot debated how much nature can explain alone. *Intention*, through Davidson, set the agenda for philosophy of action. The trolley problem escaped philosophy into psychology, law, popular culture, and debates about autonomous vehicles.
+MacIntyre’s *After Virtue* (1981) builds explicitly on Anscombe’s diagnosis. Rosalind Hursthouse developed virtue ethics along Foot’s naturalist lines; McDowell and Foot debated how much nature can explain alone. Foot’s *Natural Goodness* (2001) is now treated as the mature statement of the revival Anscombe’s 1958 manifesto announced, and natural normativity remains a live research programme in metaethics. *Intention*, through Davidson, set the agenda for philosophy of action. The trolley problem escaped philosophy into psychology, law, popular culture, and debates about autonomous vehicles.
 
 ## Criticisms and debates
 

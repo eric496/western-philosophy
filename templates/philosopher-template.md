@@ -4,6 +4,8 @@ Use this template when adding a new figure, matching the detailed entries in `er
 
 # Name
 
+*(The header and footer links below assume the finished entry lives in an `eras/<era>/` folder, like the existing entries.)*
+
 *Era: <Era name (dates)> · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

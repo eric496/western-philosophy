@@ -12,7 +12,7 @@ David Hume was born on 7 May 1711 in Edinburgh, son of a modest landowner who di
 
 Intense study in his twenties produced his masterpiece. Retreating to France — chiefly at La Flèche, Descartes's old school town — he wrote *A Treatise of Human Nature* (1739–40, anonymous), attempting to introduce "the Experimental Method of Reasoning into Moral Subjects."
 
-It failed. Hume's verdict in *My Own Life* was that it "fell dead-born from the press." He recast the material in clearer forms. The *Treatise* is now regarded as the greatest work of philosophy in English — a complete inversion of its reception.
+It failed. Hume's verdict in *My Own Life* was that it "fell dead-born from the press." He recast the material in clearer forms. The *Treatise* is now widely regarded as the greatest work of philosophy in English — a complete inversion of its reception.
 
 He was a public man of letters, not a professor: he was twice blocked from university chairs (Edinburgh 1745, Glasgow 1752) by opponents of his religious views. He supported himself as a tutor, secretary to General St Clair, librarian in Edinburgh (where he wrote his *History of England*), and diplomat in Paris and London.
 

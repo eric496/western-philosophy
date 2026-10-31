@@ -1,6 +1,6 @@
 # Timeline — 2,500 Years on One Page
 
-Chronological order (the same order as `index.md`). Overlapping lifespans are where the interesting arguments happen — watch for teacher→student chains: Socrates→Plato→Aristotle; Kant→Hegel; Husserl→Heidegger→Sartre/Beauvoir→Arendt.
+Broadly chronological order (the same order as `index.md`). Overlapping lifespans are where the interesting arguments happen — watch for teacher→student chains: Socrates→Plato→Aristotle; Kant→Hegel; Husserl→Heidegger→Sartre/Beauvoir→Arendt.
 
 - **c.624–c.546 BCE — Thales** (Ancient / Milesian): archē, natural explanation
 - **c.570–c.495 BCE — Pythagoras** (Ancient / Pythagorean): Number, harmony, soul
@@ -14,12 +14,12 @@ Chronological order (the same order as `index.md`). Overlapping lifespans are wh
 - **428/427–348/347 BCE — Plato** (Ancient / Platonism): Forms, Cave, philosopher-kings
 - **384–322 BCE — Aristotle** (Ancient / Peripatetic): Four causes, virtue, eudaimonia
 - **c.412–323 BCE — Diogenes** (Ancient / Cynic): Autarkeia, life by nature
+- **c.360–c.270 BCE — Pyrrho** (Ancient / Skeptic): Epochē, suspension of judgment
 - **341–270 BCE — Epicurus** (Ancient / Epicurean): Ataraxia, tetrapharmakos
 - **c.334–c.262 BCE — Zeno of Citium** (Ancient / Stoic (founder)): Logos, indifferents, virtue
 - **c.4 BCE–65 CE — Seneca** (Ancient / Roman Stoic): Time, anger, providence
 - **c.50–c.135 CE — Epictetus** (Ancient / Roman Stoic): Dichotomy of control
 - **121–180 CE — Marcus Aurelius** (Ancient / Roman Stoic): Memento mori, view from above
-- **c.360–c.270 BCE — Pyrrho** (Ancient / Skeptic): Epochē, suspension of judgment
 - **204/205–270 CE — Plotinus** (Ancient / Neoplatonist): The One, emanation
 - **354–430 — Augustine** (Medieval / Christian Platonist): Evil as privation, time, grace
 - **c.477–524 — Boethius** (Medieval / Bridge): Consolation, universals problem
@@ -35,13 +35,17 @@ Chronological order (the same order as `index.md`). Overlapping lifespans are wh
 - **c.1287–1347 — Ockham** (Medieval / Nominalist): Razor, nominalism
 - **1401–1464 — Nicholas of Cusa** (Medieval / Late Medieval): Learned ignorance, coincidence of opposites
 - **1469–1527 — Machiavelli** (Early Modern / Realist): Effectual truth, virtù/fortuna
+- **1533–1592 — Michel de Montaigne** (Early Modern / Renaissance Skeptic): "Que sçay-je?", the essay, custom
 - **1561–1626 — Bacon** (Early Modern / Science): Idols, induction
 - **1588–1679 — Hobbes** (Early Modern / Contract): State of nature, Leviathan
 - **1596–1650 — Descartes** (Early Modern / Rationalist): Cogito, dualism, doubt
+- **1623–1662 — Blaise Pascal** (Early Modern / French Moralist): Wager, diversion, limits of reason
 - **1632–1677 — Spinoza** (Early Modern / Rationalist): One substance, Deus sive Natura
+- **1632–1704 — Locke** (Early Modern / Empiricist): White paper (no innate ideas), rights, toleration
 - **1646–1716 — Leibniz** (Early Modern / Rationalist): Monads, sufficient reason
-- **1632–1704 — Locke** (Early Modern / Empiricist): Tabula rasa, rights, toleration
+- **1668–1744 — Giambattista Vico** (Early Modern / Philosophy of History): Verum factum, three ages, corsi e ricorsi
 - **1685–1753 — Berkeley** (Early Modern / Empiricist): Esse est percipi
+- **1689–1755 — Montesquieu** (Early Modern / Political Theory): Separation of powers, spirit of the laws
 - **1706–1749 — Émilie du Châtelet** (Early Modern / Newtonian): Hypotheses, vis viva
 - **1711–1776 — Hume** (Early Modern / Empiricist): Induction, causation, is–ought
 - **1712–1778 — Rousseau** (Early Modern / Republican): General will, natural goodness
@@ -49,35 +53,50 @@ Chronological order (the same order as `index.md`). Overlapping lifespans are wh
 - **1724–1804 — Kant** (Early Modern / Critical): Categories, categorical imperative
 - **1759–1797 — Mary Wollstonecraft** (Early Modern / Enlightenment Feminism): Rights of woman, education
 - **1748–1832 — Bentham** (19th c. / Utilitarian): Utility principle
+- **1762–1814 — Johann Gottlieb Fichte** (19th c. / German Idealist): Self-positing I, striving
 - **1770–1831 — Hegel** (19th c. / Absolute Idealist): Dialectic, recognition, Geist
 - **1788–1860 — Schopenhauer** (19th c. / Pessimist): Will, suffering, compassion
 - **1798–1857 — Auguste Comte** (19th c. / Positivist): Law of three stages, positivism
-- **1813–1855 — Kierkegaard** (19th c. / Proto-existentialist): Leap of faith, anxiety, stages
+- **1805–1859 — Alexis de Tocqueville** (19th c. / Political Theory): Tyranny of the majority, soft despotism
 - **1806–1873 — Mill** (19th c. / Liberal Utilitarian): Harm principle
 - **1807–1858 — Harriet Taylor Mill** (19th c. / Liberal Feminist): Enfranchisement of women
+- **1813–1855 — Kierkegaard** (19th c. / Proto-existentialist): Stages, anxiety, subjective truth
 - **1818–1883 — Marx** (19th c. / Historical Materialist): Alienation, surplus value, ideology
-- **1839–1914 — Peirce** (19th c. / Pragmatist): Pragmatic maxim
 - **1838–1917 — Franz Brentano** (19th c. / Descriptive Psychology): Intentionality
+- **1838–1900 — Henry Sidgwick** (19th c. / Utilitarian): Methods of ethics, dualism of practical reason
+- **1839–1914 — Peirce** (19th c. / Pragmatist): Pragmatic maxim
 - **1842–1910 — James** (19th–20th c. / Pragmatist): Truth as verified, will to believe
 - **1844–1900 — Nietzsche** (19th c. / Genealogist): God is dead, slave morality, recurrence
 - **1848–1925 — Frege** (20th c. / Logic): Sense/reference, predicate logic
 - **1859–1952 — John Dewey** (20th c. / Pragmatist): Inquiry, education as growth
 - **1859–1938 — Husserl** (20th c. / Phenomenologist): Intentionality, lifeworld
+- **1859–1941 — Henri Bergson** (20th c. / French Philosophy): Duration, intuition, élan vital
 - **1872–1970 — Russell** (20th c. / Analytic): Descriptions, logical atomism
+- **1873–1958 — G. E. Moore** (20th c. / Analytic): Open-question argument, common sense
 - **1889–1951 — Wittgenstein** (20th c. / Analytic): Picture theory → language-games
-- **1900–1976 — Gilbert Ryle** (20th c. / Analytic): Category mistakes, knowing-how
 - **1889–1976 — Heidegger** (20th c. / Continental): Being, Dasein, authenticity
+- **1900–1976 — Gilbert Ryle** (20th c. / Analytic): Category mistakes, knowing-how
+- **1900–2002 — Hans-Georg Gadamer** (20th c. / Hermeneutics): Fusion of horizons, prejudice
 - **1902–1994 — Popper** (20th c. / Phil. of Science): Falsifiability, open society
+- **1922–1996 — Thomas Kuhn** (20th c. / Philosophy of Science): Paradigms, scientific revolutions
+- **1924–1936 — (School entry) Vienna Circle** (20th c. / Logical Positivism): Verification principle
 - **1905–1980 — Sartre** (20th c. / Existentialist): Bad faith, radical freedom
+- **1906–1975 — Arendt** (20th c. / Political Theory): Action, banality of evil
+- **1906–1995 — Emmanuel Levinas** (20th c. / Ethics & Phenomenology): The Face, ethics as first philosophy
 - **1908–1986 — Beauvoir** (20th c. / Existential Feminist): The Other, situated freedom
 - **1909–1943 — Simone Weil** (20th c. / French Philosophy): Attention, affliction (malheur)
-- **1906–1975 — Arendt** (20th c. / Political Theory): Action, banality of evil
+- **1908–1961 — Maurice Merleau-Ponty** (20th c. / Phenomenology): Embodied perception, body-subject
 - **1908–2000 — Quine** (20th c. / Analytic Naturalist): Web of belief, two dogmas
 - **1903–1969 — Adorno** (20th c. / Frankfurt School): Culture industry, negative dialectics
 - **1895–1973 — Horkheimer** (20th c. / Frankfurt School): Critical vs traditional theory
 - **b. 1929 — Habermas** (20th–21st c. / Frankfurt II): Communicative action, public sphere
-- **1926–1984 — Foucault** (20th c. / Genealogist): Power/knowledge, discipline
-- **1930–2004 — Derrida** (20th c. / Deconstruction): Différance, binary oppositions
+- **1919–2001 / 1920–2010 — Anscombe & Foot** (20th c. / Virtue Ethics): Intention, natural goodness, tram problem
 - **1921–2002 — Rawls** (20th c. / Political Liberal): Veil of ignorance, difference principle
+- **1926–1984 — Foucault** (20th c. / Genealogist): Power/knowledge, discipline
+- **1929–2025 — Alasdair MacIntyre** (20th c. / Virtue Ethics): Practices, narrative, tradition
+- **1929–2003 — Bernard Williams** (20th c. / Ethics): Moral luck, integrity, internal reasons
+- **1929–2020 — Judith Jarvis Thomson** (20th c. / Ethics & Rights): Violinist argument, trolley problem
+- **1930–2004 — Derrida** (20th c. / Deconstruction): Différance, binary oppositions
+- **1942–2017 — Derek Parfit** (20th c. / Ethics): Identity not what matters, non-identity problem
 - **b. 1946 — Singer** (Contemporary / Utilitarian): Speciesism, drowning child
 - **1923– — (School entry) Frankfurt School** (20th c. / Critical Theory): Instrumental reason, emancipation

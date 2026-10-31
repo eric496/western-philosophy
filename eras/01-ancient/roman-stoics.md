@@ -27,7 +27,7 @@ Epictetus opens the *Enchiridion* ("Handbook") with the school's master distinct
 
 ### Indifferents, and "preferred" indifferents
 
-Health, wealth, reputation, and life itself are, strictly, **indifferent** (*adiaphora*) — neither good nor evil, since good and evil reside only in virtue and vice, in how things are used. But Stoics are not required to pretend all indifferents are equal: some are "preferred" (*proēgmena*) because they are according to nature and give virtue material to act on. Seneca's apologia for his own wealth rests exactly here: riches are an indifferent that a wise man may hold, provided they hold nothing of him — "I am not a wise man," he admits, "but I live as one should who is becoming so."
+Health, wealth, reputation, and life itself are, strictly, **indifferent** (*adiaphora*) — neither good nor evil, since good and evil reside only in virtue and vice, in how things are used. But Stoics are not required to pretend all indifferents are equal: some are "preferred" (*proēgmena*) because they are according to nature and give virtue material to act on. Seneca's apologia for his own wealth rests exactly here: riches are an indifferent that a wise man may hold, provided they hold nothing of him — he admits, in *De Vita Beata* (in paraphrase), that he is not a wise man, only a man living as one who is becoming so should.
 
 ### Philosophy as training: the three disciplines and the exercises
 
