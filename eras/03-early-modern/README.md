@@ -41,11 +41,15 @@ SEP entries for Descartes (+life/works), Spinoza, Leibniz, Locke, Berkeley, Hume
 - [Gottfried Wilhelm Leibniz](gottfried-wilhelm-leibniz.md)
 - [John Locke](john-locke.md)
 - [George Berkeley](george-berkeley.md)
+- [Émilie du Châtelet](emilie-du-chatelet.md)
 - [David Hume](david-hume.md)
 - [Immanuel Kant](immanuel-kant.md)
+- [Mary Wollstonecraft](mary-wollstonecraft.md)
+- [Francis Bacon](francis-bacon.md)
 - [Thomas Hobbes](thomas-hobbes.md)
 - [Blaise Pascal](blaise-pascal.md)
 - [Jean-Jacques Rousseau](jean-jacques-rousseau.md)
+- [Adam Smith](adam-smith.md)
 
 ---
 [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Themes](../../themes.md) · [Glossary](../../glossary.md) · [Timeline](../../timeline.md)

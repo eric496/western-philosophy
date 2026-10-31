@@ -1,17 +1,37 @@
-# Philosopher Entry Template
+# Philosopher Entry Template (detailed edition)
 
-Use this template when adding a new figure. Design rules from the research: plain-language first, technical term in bold on first use and linked to the glossary; dates and works consistent with `index.md`.
+Use this template when adding a new figure, matching the detailed entries in `eras/`. Design rules: plain language first, technical terms explained on first use; dates and works consistent with `index.md`; scholarly debates presented as debates, never as settled verdicts; ancient and medieval dates that are conventions get a `c.`.
 
-# Name (dates)
-**Era / School:** … · **Read after:** [predecessor] · **Read before:** [successor] · **Difficulty:** Beginner/Intermediate/Advanced
-## In one sentence
-## The problem they inherited
-## Their idea(s) — in plain language (numbered, with the technical term in bold on first use)
-## Key works (title, year, what it is, beginner excerpt to read)
-## Who they influenced / argued with  (a small lineage diagram in text: A → Name → B, C)
-## Why they matter
-## ⚠ Common misconception  (from §8, where applicable)
-## Check yourself (3 questions, answers folded in <details>)
-## Go deeper (SEP link · IEP link · one secondary source · one Adamson episode)
-```
-Design rules: plain-language paragraph **before** technical vocabulary in every section; every technical term links to `glossary.md`; every claim about dates/works is consistent with the master index (§6.1) — generate philosopher files and the index from one source table to prevent drift.
+# Name
+
+*Era: <Era name (dates)> · [Era overview](README.md) · [Master index](../../index.md)*
+
+## At a glance
+Lifespan (c. where conventional), place, school/tradition, "known for" in one line.
+
+## Biography
+A real narrative: background, teachers and students, key life events and controversies, how they wrote, death, and how their work survived (lost works, fragments, posthumous editing where relevant).
+
+## Major theories and concepts
+One `###` subsection per major theory or concept: what it claims, the reasoning or argument behind it, a concrete example, and its internal tensions.
+
+## Key works
+Each work with its date (or c.) and a 1–2 line guide to what it contains and why it matters.
+
+## Contributions
+What they added that did not exist before them.
+
+## Impact and legacy
+Influence on later philosophy, religion, science, politics and culture; reception history in brief.
+
+## Criticisms and debates
+Major objections, ancient and modern, and live scholarly debates — presented as debates.
+
+## Misreadings to avoid
+The most common beginner misreadings, corrected in one or two lines each.
+
+## What to read first
+A short ordered starter path through their work.
+
+---
+[Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

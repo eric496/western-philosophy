@@ -58,14 +58,17 @@ Subagent suggestion: repo mapping = one era-overview file, one file per philosop
 
 - [Augustine of Hippo](augustine-of-hippo.md)
 - [Boethius](boethius.md)
+- [John Scotus Eriugena](john-scotus-eriugena.md)
 - [Anselm of Canterbury](anselm-of-canterbury.md)
 - [Peter Abelard](peter-abelard.md)
+- [Hildegard of Bingen](hildegard-of-bingen.md)
 - [Avicenna (Ibn Sīnā)](avicenna.md)
 - [Averroes (Ibn Rushd)](averroes.md)
 - [Maimonides (Moses ben Maimon / Rambam)](maimonides.md)
 - [Thomas Aquinas](thomas-aquinas.md)
 - [John Duns Scotus](john-duns-scotus.md)
 - [William of Ockham](william-of-ockham.md)
+- [Nicholas of Cusa](nicholas-of-cusa.md)
 
 ---
 [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Themes](../../themes.md) · [Glossary](../../glossary.md) · [Timeline](../../timeline.md)

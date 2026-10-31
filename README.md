@@ -1,6 +1,6 @@
 # Western Philosophy — A Beginner's Self-Study Map
 
-A structured way to pick up Western philosophy on your own: **64 key figures** across 2,500 years, each with their major theory or concept in plain language, the key works with dates, who they were arguing with, and the first thing of theirs you should actually read.
+A structured way to pick up Western philosophy on your own: **79 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
 
 Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet Encyclopedia of Philosophy (IEP), and Encyclopaedia Britannica — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
 
@@ -15,7 +15,7 @@ Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet E
 
 | File / folder | What it is |
 |---|---|
-| `index.md` | Master index: all 64 figures — dates, school, signature concept, first work to read |
+| `index.md` | Master index: all 79 figures — dates, school, signature concept, first work to read |
 | `learning-path.md` | The staged beginner path, principles behind the order, and verified survey books/courses |
 | `eras/01-ancient/` … `eras/05-20th-century/` | One folder per era: an overview (story of the era, within-era reading order, traps to avoid) plus one entry file per philosopher or school |
 | `philosophers/README.md` | Alphabetical list of all entry files |
