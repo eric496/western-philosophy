@@ -110,5 +110,7 @@ His ethics attracts two objections. The mean can look empty unless phronēsis fi
 4. **Politics** I and III — political animal, slavery (read critically), citizenship.
 5. **Metaphysics** and **Physics** as guided reference, with commentary.
 
+**Study guide:** [*Nicomachean Ethics* — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/aristotle-nicomachean-ethics.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

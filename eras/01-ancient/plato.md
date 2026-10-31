@@ -108,5 +108,7 @@ Scholars debate the "unwritten doctrines": Aristotle reports Plato lecturing on 
 5. **Symposium** — read whole.
 6. Later: **Parmenides** and **Theaetetus**. Skip the *Laws* as a beginner.
 
+**Study guide:** [*Republic* — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/plato-republic.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

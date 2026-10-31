@@ -95,5 +95,7 @@ Beyond the circle and the interaction problem: does the cogito prove too little 
 3. The Descartes–Elisabeth correspondence of 1643 — the interaction problem stated by its best critic.
 4. *Meditations* IV–VI and *Principles* Part I — error, the real distinction, and the system in full.
 
+**Study guide:** [*Meditations on First Philosophy* — meditation-by-meditation guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/descartes-meditations.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
