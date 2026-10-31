@@ -49,6 +49,10 @@ All thought, Peirce argued, is in signs. A *sign* stands for an *object* in some
 
 Everywhere Peirce looked he found three irreducible elements. *Firstness* is quality or possibility considered alone — the sheer suchness of red. *Secondness* is brute reaction and fact: the shock of the door that will not open. *Thirdness* is mediation, law, and habit: what brings firsts and seconds into intelligible relation, as a law or a word brings sign and object together. The categories structure his logic, metaphysics, and sign theory — a deliberate reworking of Kant's categories.
 
+### Evolutionary metaphysics: tychism, synechism, agapism
+
+In the *Monist* series of 1891–93, Peirce extended the categories into a speculative cosmology. **Tychism** holds that absolute chance is a real factor in the universe — laws themselves evolve rather than being eternally fixed. **Synechism** is the doctrine of continuity: mind and matter, and every apparently sharp boundary, form continua rather than discrete kinds. **Agapism** names the mode of evolution by creative love — growth through the sympathetic adoption of purposes — set alongside evolution by chance and by mechanical necessity. Peirce treated this cosmology not as an ornament but as the completion of his system; how far the earlier maxim and logic stand without it is a live interpretive question (see Criticisms and debates).
+
 ## Key works
 
 - "The Fixation of Belief" (1877) and "How to Make Our Ideas Clear" (1878) — The founding papers of pragmatism, in the *Illustrations of the Logic of Science* series.

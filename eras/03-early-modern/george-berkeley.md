@@ -14,7 +14,7 @@ His philosophy came early: the *Essay Towards a New Theory of Vision* (1709) at 
 
 Berkeley won a charter and promises of funding, resigned his Irish posts, and sailed in 1728, settling at Newport, Rhode Island, to await the money. It never came — Walpole’s government let the grant lapse — and he returned in 1731, donating his farm and library to Yale. The American years produced *Alciphron* (1732), a defence of Christianity.
 
-In 1734 he became Bishop of Cloyne, serving as pastor and local improver for the rest of his life. Later works include *The Analyst* (1734), attacking the foundations of Newton’s calculus, and *Siris* (1744). Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. He died in Oxford on 14 January 1753.
+In 1734 he became Bishop of Cloyne, serving as pastor and local improver for the rest of his life. Later works include *The Analyst* (1734), attacking the foundations of Newton’s calculus, and *Siris* (1744). He died in Oxford on 14 January 1753.
 
 ## Major theories and concepts
 
@@ -50,6 +50,8 @@ Do things vanish when no human perceives them? No: God, an omnipresent eternal m
 - *A Treatise Concerning the Principles of Human Knowledge* (1710) — The systematic statement of immaterialism; only Part I was published.
 - *Three Dialogues between Hylas and Philonous* (1713) — The doctrine in lucid dialogue; Philonous (“lover of mind”) is Berkeley, Hylas (“matter”) his Lockean opponent.
 - *De Motu* (1721) — Latin essay attacking Newtonian absolute space, treating forces as mathematical hypotheses; anticipates instrumentalism in philosophy of science.
+- *Alciphron, or the Minute Philosopher* (1732) — His longest work: dialogues defending Christianity against the freethinkers, carrying the attack on abstract ideas into moral and religious thought.
+- *The Analyst* (1734) — A challenge to the foundations of Newton's calculus: are its "fluxions" and infinitesimals any clearer than the mysteries of religion they were used to mock?
 
 ## Contributions
 
@@ -57,7 +59,7 @@ Berkeley added a new metaphysical option: a fully empiricist idealism in which t
 
 ## Impact and legacy
 
-Hume reported that Berkeley’s arguments produced a scepticism Berkeley never intended, praising them as great discoveries while doubting they admitted an answer. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
+Hume reported that Berkeley’s arguments produced a scepticism Berkeley never intended, praising them as great discoveries while doubting they admitted an answer. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
 
 ## Criticisms and debates
 

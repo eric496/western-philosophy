@@ -54,7 +54,7 @@ Other tensions accumulated: universal laws, weak verification, Karl Popper's riv
 - **Carnap, *The Logical Structure of the World* (1928)** — Construction of all concepts from elementary experiences using Russellian logic.
 - ***The Scientific Conception of the World*** (1929), by Hahn, Neurath, and Carnap — The manifesto; the best short statement of aims and the unity-of-science programme.
 - **Carnap, "The Elimination of Metaphysics"** (1932) — The verificationist attack on Heidegger; the clearest exhibition of the method.
-- **Schlick, "Positivism and Realism"** (1932) — The founder's calmer statement, useful against caricatures from Carnap alone.
+- **Schlick, "Positivism and Realism"** (1930/31) — The founder's calmer statement, useful against caricatures from Carnap alone.
 - **Ayer, *Language, Truth and Logic*** (1936) — Chapters 1 and 6: elimination of metaphysics and emotivism. Read as a manifesto, not settled doctrine.
 
 ## Contributions

@@ -1,6 +1,6 @@
 # Medieval Philosophy (c. 400 – c. 1400)
 
-Scope: Augustine (354–430) to Ockham (d. 1347) by convention. Augustine is strictly late-antique/patristic, but medieval philosophy is conventionally taught starting with him (SEP convention) because everyone after argues with him. Avicenna, Averroes, Maimonides were not Latin Christians and did not write in Latin — included because Latin Europe received Aristotle largely THROUGH them.
+Scope: Augustine (354–430) to Ockham (d. 1347) by convention, with Eriugena and Hildegard restored to their chronological places and Nicholas of Cusa (1401–1464) included as a fifteenth-century coda — technically past the era's c. 1400 boundary, but his learned ignorance closes the medieval story and bridges to the Renaissance. Augustine is strictly late-antique/patristic, but medieval philosophy is conventionally taught starting with him (SEP convention) because everyone after argues with him. Avicenna, Averroes, Maimonides were not Latin Christians and did not write in Latin — included because Latin Europe received Aristotle largely THROUGH them.
 
 ## Era overview
 One-sentence: For ~1,000 years, the smartest people in three religions asked: what can reason prove on its own, what must be taken on faith/revelation, and what happens where they seem to clash? — using Greek logic, mostly Aristotle's, reached in fragments then (12th–13th c.) in a flood.
@@ -9,13 +9,16 @@ Transmission (crucial, often skipped): Greek philosophy preserved/developed/comm
 
 Faith/reason spectrum (not a war):
 - Augustine: reason serves and is healed by faith — "Believe in order to understand"
+- Eriugena: true authority and right reason can never conflict, since both flow from the same divine wisdom — and reason ends in negative theology, knowing God as beyond being
 - Anselm: faith seeks rational proof of what it already holds — fides quaerens intellectum
 - Abelard: put authorities side by side, let logic arbitrate — Sic et Non ("Yes and No")
+- Hildegard: knowledge by vision — revelation experienced directly, then authorised by the Church; reason's role is to receive, test, and expound what the "living light" shows
 - Avicenna: reason/demonstration reaches certain truth about God/soul independently — Necessary Existent
 - Averroes, Maimonides: philosophy and revelation can't ultimately contradict; clashes are interpretation problems — one truth, different routes/audiences
 - Aquinas: distinct harmonious domains; reason proves some (God exists), revelation others (Trinity) — "Grace does not destroy nature, but perfects it"
 - Scotus: reason needs one shared concept of "being" to say anything about God — univocity of being
 - Ockham: reason's reach shrinks; many doctrines faith-only; logic should stop inventing entities — nominalism + parsimony
+- Cusa: learned ignorance — reason measures its own limit exactly, and knows God precisely by knowing it cannot comprehend him; opposites coincide in the infinite
 Real tension existed (Condemnations of 1270 and 1277, Bishop of Paris, against radical Aristotelian/Averroist theses; 219 theses in 1277) but default project was harmonisation, not warfare.
 
 Problem of universals (era's longest argument; Boethius via Porphyry posed it):
@@ -26,21 +29,24 @@ Problem of universals (era's longest argument; Boethius via Porphyry posed it):
 Arc: Boethius framed; Abelard made hot; Aquinas/Scotus gave realist answers of increasing subtlety; Ockham dissolved. Best single thread through era.
 
 Scholastic method: lectio (close commentary on authoritative text — Aristotle, Scripture, Boethius, Peter Lombard's Sentences); quaestio (isolated disputed question from conflicting authorities); disputatio (formal debate); written article shape (Aquinas): Objections → Sed contra → Respondeo → Replies to objections one by one. Teach beginner to recognise skeleton and Summa stops looking like a wall. Much best work done inside commentaries — vehicle for original thought, not summary.
-Other recurring questions: proofs of God (Anselm, Avicenna, Aquinas, Scotus — four strategies); foreknowledge vs freedom (Augustine, Boethius, Aquinas, Scotus, Ockham); eternity of world vs creation (Avicenna emanation/eternal; Maimonides undecidable by reason; Aquinas creation in time by faith, eternity not disprovable); soul/intellect (Avicenna floating man; Averroes one intellect vs Aquinas refutation); evil/providence; law/ethics (Aquinas natural law; Abelard intention ethics).
+Other recurring questions: proofs of God (Anselm, Avicenna, Aquinas, Scotus — four strategies); foreknowledge vs freedom (Augustine, Boethius, Aquinas, Scotus, Ockham); eternity of world vs creation (Avicenna emanation/eternal; Maimonides undecidable by reason; Aquinas creation in time by faith, eternity not disprovable); soul/intellect (Avicenna floating man; Averroes one intellect vs Aquinas refutation); cognition — how we know that singular things exist (Scotus's intuitive vs abstractive cognition; Ockham's intuitive cognition as the foundation of knowledge, the second great Scotus→Ockham thread alongside universals); evil/providence; law/ethics (Aquinas natural law; Abelard intention ethics).
 
 ## Learning order
 Recommended "reception order" (how ideas arrived/collided in Latin Europe):
 1. Augustine — sets every question; readable primary.
 2. Boethius — bridge; universals + foreknowledge.
-3. Anselm — first real argument; tiny texts + Gaunilo.
-4. Abelard — method era; universals round 2; intention ethics.
-5. Avicenna — chronologically overlaps Anselm, but Europe met him in 1100s; essence/existence + Necessary Existent + Floating Man now, because Aquinas presupposes them.
-6. Averroes and Maimonides in parallel — Aristotle-mediated voices Aquinas argues with by name; short entries exist (Decisive Treatise; Guide I selections).
-7. Aquinas — synthesis lands now (Five Ways, natural law, anti-Averroes).
-8. Scotus — subtle critique (univocity, haecceity, formal distinction).
-9. Ockham — dissolution; nominalism/parsimony as last move in universals game started with Boethius.
-Alternative strict chronology: Augustine → Boethius → Avicenna → Anselm → Abelard → Averroes → Maimonides → Aquinas → Scotus → Ockham (accurate, pedagogically harder).
-Exam recap: re-place all ten on universals table + faith/reason spectrum.
+3. Eriugena — the Carolingian system-builder; Greek negative theology enters the Latin West (read after Boethius, whose Platonism he radicalises).
+4. Anselm — first real argument; tiny texts + Gaunilo.
+5. Abelard — method era; universals round 2; intention ethics.
+6. Hildegard — the visionary counterpoint: knowledge by experience and authority, written from the cloister while the schools argue.
+7. Avicenna — chronologically overlaps Anselm, but Europe met him in 1100s; essence/existence + Necessary Existent + Floating Man now, because Aquinas presupposes them.
+8. Averroes and Maimonides in parallel — Aristotle-mediated voices Aquinas argues with by name; short entries exist (Decisive Treatise; Guide I selections).
+9. Aquinas — synthesis lands now (Five Ways, natural law, anti-Averroes).
+10. Scotus — subtle critique (univocity, haecceity, formal distinction, intuitive cognition).
+11. Ockham — dissolution; nominalism/parsimony as last move in universals game started with Boethius, and intuitive cognition against Scotus.
+12. Nicholas of Cusa — coda and hinge: learned ignorance gathers the era's faith/reason argument into a single doctrine of limits, and points toward the Renaissance.
+Alternative strict chronology: Augustine → Boethius → Eriugena → Avicenna → Anselm → Abelard → Hildegard → Averroes → Maimonides → Aquinas → Scotus → Ockham → Cusa (accurate, pedagogically harder).
+Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 
 ## Oversimplifications (general)
 - "Dark Ages: faith crushed reason 1,000 years" FALSE — era invented university, formal disputation, much of logic; thinkers argued relentlessly, sometimes against authority's preferred answers and paid for it (Abelard condemned twice, Ockham excommunicated, 219 theses condemned Paris 1277). Project was harmonisation, not suppression.
@@ -51,8 +57,7 @@ Exam recap: re-place all ten on universals table + faith/reason spectrum.
 - Avicenna's Book of Healing ≠ medical book (that's Canon of Medicine); Healing = healing of soul from ignorance.
 
 ## Sources
-SEP: Medieval Philosophy; Influence of Arabic and Islamic Philosophy on Latin West; Ockham; Maimonides; individual entries Augustine, Boethius, Anselm, Abelard, Ibn Sina, Ibn Rushd, Aquinas, Duns Scotus, Ontological Arguments, Medieval Problem of Universals, Medieval Theories of Haecceity. Britannica: Abelard + entries on all ten. IEP: entries on each (beginner-friendlier; good first links for Scotus/Ockham).
-Subagent suggestion: repo mapping = one era-overview file, one file per philosopher, universals table file, faith-vs-reason spectrum table.
+SEP: Medieval Philosophy; Influence of Arabic and Islamic Philosophy on Latin West; Ockham; Maimonides; individual entries Augustine, Boethius, Anselm, Abelard, Ibn Sina, Ibn Rushd, Aquinas, Duns Scotus, Ontological Arguments, Medieval Problem of Universals, Medieval Theories of Haecceity. Britannica: Abelard + entries on all thirteen. IEP: entries on each (beginner-friendlier; good first links for Scotus/Ockham).
 
 ## Philosopher entries in this era
 

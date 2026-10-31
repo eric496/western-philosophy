@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** c. 427 – c. 347 BCE (conventional dates)
+- **Dates:** 428/427 – 348/347 BCE (conventional dates)
 - **Place:** Athens, Greece
-- **School / tradition:** Founder of the Academy; student of Socrates
+- **School/tradition:** Founder of the Academy; student of Socrates
 - **Known for:** Theory of Forms, philosopher-kings, systematic philosophy in dialogue form
 
 ## Biography

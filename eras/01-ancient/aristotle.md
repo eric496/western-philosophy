@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 384 – 322 BCE
+- **Dates:** 384 – 322 BCE
 - **Place:** Born in Stagira, Macedon; worked mainly in Athens
-- **School / tradition:** Student of Plato; founder of the Lyceum and the Peripatetic school
+- **School/tradition:** Student of Plato; founder of the Lyceum and the Peripatetic school
 - **Known for:** Hylomorphism, four causes, formal logic, virtue ethics
 
 ## Biography
@@ -74,7 +74,7 @@ Dates are approximate; most treatises took shape during the Lyceum years, 335–
 - **Politics** — The city, constitutions, citizenship, slavery, household, and education; companion and corrective to Plato's *Republic*.
 - **Rhetoric** — The art of persuasion analysed through *ethos*, *pathos*, and *logos*.
 - **Poetics** — Tragedy, plot, and catharsis; incomplete (the book on comedy is lost), yet foundational for literary theory.
-- **Constitution of the Athenians** — A historical and institutional survey, attributed to Aristotle's school; recovered from an Egyptian papyrus in 1890.
+- **Constitution of the Athenians** — A historical and institutional survey, attributed to Aristotle's school; recovered from an Egyptian papyrus in 1890 and first published in 1891.
 
 Nearly all his published dialogues are lost, surviving only in fragments quoted by later authors — a major gap, since Cicero praised their "river of gold" style.
 

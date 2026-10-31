@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **Dates:** c. 535 – c. 475 BCE (conventional; he flourished around 500 BCE)
+- **Dates:** c. 540 – c. 480 BCE (conventional; he flourished around 500 BCE)
 - **Place:** Ephesus, a major Greek city in Ionia, near Miletus
 - **School/tradition:** Independent Ionian thinker; no school, and contemptuous of most predecessors
 - **Known for:** Universal flux ordered by the *Logos* — everything is in measured process, opposites are unified, and fire is the emblem of a world that changes according to law

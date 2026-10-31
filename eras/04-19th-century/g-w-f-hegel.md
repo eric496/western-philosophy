@@ -46,7 +46,8 @@ Hegel reads world history as "progress in the consciousness of freedom": ancient
 - *Phenomenology of Spirit* (1807) — A "ladder" for ordinary consciousness: a tour through forms of awareness (perception, master and slave, morality, religion) each collapsing under its own contradictions until absolute knowing. Famously difficult; enter with a guide.
 - *Science of Logic* (1812–16) — Hegel's attempt to derive the basic categories of thought (being, essence, concept) from one another. The engine room of the system, and its hardest book.
 - *Encyclopaedia of the Philosophical Sciences* (1817; revised 1827, 1830) — The whole system in outline: logic, philosophy of nature, philosophy of spirit. The most manageable overview he published.
-- *Elements of the Philosophy of Right* (title page 1821; imprint dated 1820, issued late 1820 and circulating in 1821) — His political philosophy: property, contract, crime, family, civil society, and the state, with the famous Preface containing the "rational/actual" slogan and the image of philosophy as "the owl of Minerva" that flies at dusk, understanding an age only as it ends.
+- *Elements of the Philosophy of Right* (published late 1820; title page dated 1821) — His political philosophy: property, contract, crime, family, civil society, and the state, with the famous Preface containing the "rational/actual" slogan and the image of philosophy as "the owl of Minerva" that flies at dusk, understanding an age only as it ends.
+- *Lecture courses* (delivered repeatedly 1818–31; published posthumously from student transcripts) — The *Lectures on the Philosophy of History*, *Lectures on Aesthetics*, *Lectures on the Philosophy of Religion*, and *Lectures on the History of Philosophy*: enormously influential, but editorial reconstructions rather than texts Hegel himself published — read them with that caution.
 
 ## Contributions
 

@@ -1,13 +1,13 @@
 # Western Philosophy — A Beginner's Self-Study Map
 
-A structured way to pick up Western philosophy on your own: **79 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
+A structured way to pick up Western philosophy on your own: **98 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
 
 Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet Encyclopedia of Philosophy (IEP), and Encyclopaedia Britannica — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
 
 ## Start here
 
 1. **Skim `timeline.md`** — 2,500 years on one page; get the shape of the story.
-2. **Follow `learning-path.md`** — a staged route (Stages 0–5, roughly a year at 4–5 hrs/week) that starts with short, readable primary texts (Plato's *Apology*, Descartes' *Meditations*, Sartre's lecture) instead of the famous-but-brutal books.
+2. **Follow `learning-path.md`** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 study hours over 64 study weeks — roughly 15–19 calendar months at 4–5 hrs/week with buffer weeks, or a trimmed 12-month version. It is deliberately not a one-year plan at a comfortable pace, and it says so.
 3. **Read era overviews in order** (`eras/`), opening a philosopher's entry file when the overview reaches them.
 4. **Tick off `tracker.md`** as you finish each figure.
 
@@ -15,8 +15,8 @@ Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet E
 
 | File / folder | What it is |
 |---|---|
-| `index.md` | Master index: all 79 figures — dates, school, signature concept, first work to read |
-| `learning-path.md` | The staged beginner path, principles behind the order, and verified survey books/courses |
+| `index.md` | Master index: all 98 figures — dates, school, signature concept, first work to read |
+| `learning-path.md` | The study plan: hybrid-spiral stages with week/hour budgets, core vs map-level figures, per-author primary texts and editions to use (and avoid), can-do checkpoints and gate essays per stage, the spaced-retrieval system, and a failure-mode checklist |
 | `eras/01-ancient/` … `eras/05-20th-century/` | One folder per era: an overview (story of the era, within-era reading order, traps to avoid) plus one entry file per philosopher or school |
 | `philosophers/README.md` | Alphabetical list of all entry files |
 | `themes.md` | The same history sideways: 9 recurring questions (metaphysics, epistemology, ethics, politics, mind, logic & language, aesthetics, religion, science) and who answered them |

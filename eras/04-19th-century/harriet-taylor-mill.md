@@ -4,7 +4,10 @@
 
 ## At a glance
 
-Harriet Taylor Mill (1807–1858), London, England. Philosopher of women's emancipation and liberal social reform; author of "The Enfranchisement of Women" (1851) and intellectual partner — and later wife — of John Stuart Mill. Known for pushing liberalism toward full equality of the sexes a generation before organised suffragism took it up.
+- **Lifespan:** 1807–1858
+- **Place:** London, England
+- **Movement / tradition:** Liberal feminism and social reform
+- **Known for:** Author of "The Enfranchisement of Women" (1851) and intellectual partner — and later wife — of John Stuart Mill; she pushed liberalism toward full equality of the sexes a generation before organised suffragism took it up.
 
 ## Biography
 
@@ -18,7 +21,7 @@ The marriage lasted seven years, much of it spent travelling for Harriet's fragi
 
 ### The enfranchisement of women
 
-Taylor Mill's one major signed publication, "The Enfranchisement of Women" (1851, in the *Westminster Review*), argues for the complete legal and civil equality of women: the vote, eligibility for office, equal education, and access to all occupations. Its reasoning is characteristic of her style. Existing arrangements, she argues, rest on force and custom, not nature: we cannot know what women's "nature" is, because women have never been allowed to develop outside subordination — an argument Mill would later make famous in *The Subjection of Women* (1869). Where Mill's later essay is comparatively cautious, Taylor Mill's is not: she demands admission of women to "all the rights and privileges of citizenship" without qualification.
+Taylor Mill's one major lifetime publication, "The Enfranchisement of Women" (1851, in the *Westminster Review*), argues for the complete legal and civil equality of women: the vote, eligibility for office, equal education, and access to all occupations. Its reasoning is characteristic of her style. Existing arrangements, she argues, rest on force and custom, not nature: we cannot know what women's "nature" is, because women have never been allowed to develop outside subordination — an argument Mill would later make famous in *The Subjection of Women* (1869). Where Mill's later essay is comparatively cautious, Taylor Mill's is not: she demands admission of women to "all the rights and privileges of citizenship" without qualification.
 
 ### Equality within marriage
 

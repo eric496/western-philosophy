@@ -36,6 +36,7 @@ The *Guide* is framed as a letter to a student "perplexed" between philosophy an
 - **Guide of the Perplexed** (*Dalālat al-Ḥāʾirīn*, completed 1190) — three parts: I, language about God and negative theology; II, creation, prophecy, angels; III, providence, evil, and the reasons for the commandments. Translated into Hebrew in his lifetime (Samuel ibn Tibbon, in correspondence with the author), into Latin in the thirteenth century.
 - **Mishneh Torah** (c. 1170–80) — fourteen books codifying the whole of Jewish law in lucid Mishnaic Hebrew, requiring no recourse to the Talmud's debates. Its first book, the *Book of Knowledge*, opens with philosophical foundations — God's existence and unity, ethics, study — a manifesto that law begins in metaphysics.
 - **Commentary on the Mishnah** (c. 1168) — written in his twenties; its introduction to the tractate *Sanhedrin* contains the famous **Thirteen Principles** of Jewish faith.
+- **Eight Chapters** (*Shemonah Perakim*) — the introduction to tractate *Avot* in that commentary: his classic short work on ethics and moral psychology — the health of the soul, virtue as a mean, and free will.
 - **Epistles** — including the *Letter to Yemen* (c. 1172), pastoral-political counsel to a persecuted community.
 
 ## Contributions

@@ -14,12 +14,12 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Plato** (428/427–348/347 BCE) — Forms, Cave, philosopher-kings
 - [ ] **Aristotle** (384–322 BCE) — Four causes, virtue, eudaimonia
 - [ ] **Diogenes** (c.412–323 BCE) — Autarkeia, life by nature
+- [ ] **Pyrrho** (c.360–c.270 BCE) — Epochē, suspension of judgment
 - [ ] **Epicurus** (341–270 BCE) — Ataraxia, tetrapharmakos
 - [ ] **Zeno of Citium** (c.334–c.262 BCE) — Logos, indifferents, virtue
 - [ ] **Seneca** (c.4 BCE–65 CE) — Time, anger, providence
 - [ ] **Epictetus** (c.50–c.135 CE) — Dichotomy of control
 - [ ] **Marcus Aurelius** (121–180 CE) — Memento mori, view from above
-- [ ] **Pyrrho** (c.360–c.270 BCE) — Epochē, suspension of judgment
 - [ ] **Plotinus** (204/205–270 CE) — The One, emanation
 - [ ] **Augustine** (354–430) — Evil as privation, time, grace
 - [ ] **Boethius** (c.477–524) — Consolation, universals problem
@@ -35,13 +35,17 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Ockham** (c.1287–1347) — Razor, nominalism
 - [ ] **Nicholas of Cusa** (1401–1464) — Learned ignorance, coincidence of opposites
 - [ ] **Machiavelli** (1469–1527) — Effectual truth, virtù/fortuna
+- [ ] **Michel de Montaigne** (1533–1592) — "Que sçay-je?", the essay, custom
 - [ ] **Bacon** (1561–1626) — Idols, induction
 - [ ] **Hobbes** (1588–1679) — State of nature, Leviathan
 - [ ] **Descartes** (1596–1650) — Cogito, dualism, doubt
+- [ ] **Blaise Pascal** (1623–1662) — Wager, diversion, limits of reason
 - [ ] **Spinoza** (1632–1677) — One substance, Deus sive Natura
+- [ ] **Locke** (1632–1704) — White paper (no innate ideas), rights, toleration
 - [ ] **Leibniz** (1646–1716) — Monads, sufficient reason
-- [ ] **Locke** (1632–1704) — Tabula rasa, rights, toleration
+- [ ] **Giambattista Vico** (1668–1744) — Verum factum, three ages, corsi e ricorsi
 - [ ] **Berkeley** (1685–1753) — Esse est percipi
+- [ ] **Montesquieu** (1689–1755) — Separation of powers, spirit of the laws
 - [ ] **Émilie du Châtelet** (1706–1749) — Hypotheses, vis viva
 - [ ] **Hume** (1711–1776) — Induction, causation, is–ought
 - [ ] **Rousseau** (1712–1778) — General will, natural goodness
@@ -49,35 +53,50 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Kant** (1724–1804) — Categories, categorical imperative
 - [ ] **Mary Wollstonecraft** (1759–1797) — Rights of woman, education
 - [ ] **Bentham** (1748–1832) — Utility principle
+- [ ] **Johann Gottlieb Fichte** (1762–1814) — Self-positing I, striving
 - [ ] **Hegel** (1770–1831) — Dialectic, recognition, Geist
 - [ ] **Schopenhauer** (1788–1860) — Will, suffering, compassion
 - [ ] **Auguste Comte** (1798–1857) — Law of three stages, positivism
-- [ ] **Kierkegaard** (1813–1855) — Leap of faith, anxiety, stages
+- [ ] **Alexis de Tocqueville** (1805–1859) — Tyranny of the majority, soft despotism
 - [ ] **Mill** (1806–1873) — Harm principle
 - [ ] **Harriet Taylor Mill** (1807–1858) — Enfranchisement of women
+- [ ] **Kierkegaard** (1813–1855) — Stages, anxiety, subjective truth
 - [ ] **Marx** (1818–1883) — Alienation, surplus value, ideology
-- [ ] **Peirce** (1839–1914) — Pragmatic maxim
 - [ ] **Franz Brentano** (1838–1917) — Intentionality
+- [ ] **Henry Sidgwick** (1838–1900) — Methods of ethics, dualism of practical reason
+- [ ] **Peirce** (1839–1914) — Pragmatic maxim
 - [ ] **James** (1842–1910) — Truth as verified, will to believe
 - [ ] **Nietzsche** (1844–1900) — God is dead, slave morality, recurrence
 - [ ] **Frege** (1848–1925) — Sense/reference, predicate logic
 - [ ] **John Dewey** (1859–1952) — Inquiry, education as growth
 - [ ] **Husserl** (1859–1938) — Intentionality, lifeworld
+- [ ] **Henri Bergson** (1859–1941) — Duration, intuition, élan vital
 - [ ] **Russell** (1872–1970) — Descriptions, logical atomism
+- [ ] **G. E. Moore** (1873–1958) — Open-question argument, common sense
 - [ ] **Wittgenstein** (1889–1951) — Picture theory → language-games
-- [ ] **Gilbert Ryle** (1900–1976) — Category mistakes, knowing-how
 - [ ] **Heidegger** (1889–1976) — Being, Dasein, authenticity
+- [ ] **Gilbert Ryle** (1900–1976) — Category mistakes, knowing-how
+- [ ] **Hans-Georg Gadamer** (1900–2002) — Fusion of horizons, prejudice
 - [ ] **Popper** (1902–1994) — Falsifiability, open society
+- [ ] **Thomas Kuhn** (1922–1996) — Paradigms, scientific revolutions
+- [ ] **(School entry) Vienna Circle** (1924–1936) — Verification principle
 - [ ] **Sartre** (1905–1980) — Bad faith, radical freedom
+- [ ] **Arendt** (1906–1975) — Action, banality of evil
+- [ ] **Emmanuel Levinas** (1906–1995) — The Face, ethics as first philosophy
 - [ ] **Beauvoir** (1908–1986) — The Other, situated freedom
 - [ ] **Simone Weil** (1909–1943) — Attention, affliction (malheur)
-- [ ] **Arendt** (1906–1975) — Action, banality of evil
+- [ ] **Maurice Merleau-Ponty** (1908–1961) — Embodied perception, body-subject
 - [ ] **Quine** (1908–2000) — Web of belief, two dogmas
 - [ ] **Adorno** (1903–1969) — Culture industry, negative dialectics
 - [ ] **Horkheimer** (1895–1973) — Critical vs traditional theory
 - [ ] **Habermas** (b. 1929) — Communicative action, public sphere
-- [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
-- [ ] **Derrida** (1930–2004) — Différance, binary oppositions
+- [ ] **Anscombe & Foot** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
 - [ ] **Rawls** (1921–2002) — Veil of ignorance, difference principle
+- [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
+- [ ] **Alasdair MacIntyre** (1929–2025) — Practices, narrative, tradition
+- [ ] **Bernard Williams** (1929–2003) — Moral luck, integrity, internal reasons
+- [ ] **Judith Jarvis Thomson** (1929–2020) — Violinist argument, trolley problem
+- [ ] **Derrida** (1930–2004) — Différance, binary oppositions
+- [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
 - [ ] **Singer** (b. 1946) — Speciesism, drowning child
 - [ ] **(School entry) Frankfurt School** (1923–) — Instrumental reason, emancipation

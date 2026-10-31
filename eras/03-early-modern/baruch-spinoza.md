@@ -60,8 +60,10 @@ Its culmination is the **intellectual love of God** (*amor Dei intellectualis*):
 
 ## Key works
 
+- *Short Treatise on God, Man, and His Well-Being* (c. 1660; unpublished until the 19th century) — The earliest surviving statement of his system, written in Dutch for his circle.
 - *Principles of Descartes' Philosophy* (1663) — Descartes in geometrical order; the only book under his name in his lifetime.
 - *Theological-Political Treatise* (1670) — Anonymous; founding text of biblical criticism and defence of freedom of thought.
+- *Treatise on the Emendation of the Intellect* (unfinished; posthumous, 1677) — His methodological introduction: how the intellect purifies itself and learns to form adequate ideas.
 - *Ethics, Demonstrated in Geometrical Order* (posthumous, 1677) — The masterwork: five parts, from God to freedom, in geometrical form.
 - *Political Treatise* (unfinished, posthumous, 1677) — A realistic theory of the state built on power and affect.
 - Letters (posthumous) — Including the letter on freedom and the conscious stone.

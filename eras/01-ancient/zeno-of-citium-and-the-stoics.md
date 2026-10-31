@@ -3,9 +3,10 @@
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
+
 - **Dates:** Zeno c. 334–262 BCE; school c. 300 BCE–2nd century CE
 - **Place:** Founded in Athens; later centred in Rome
-- **School / tradition:** Stoicism, named for the *Stoa Poikilē* (Painted Porch) where Zeno taught
+- **School/tradition:** Stoicism, named for the *Stoa Poikilē* (Painted Porch) where Zeno taught
 - **Known for:** A system of logic, physics, and ethics where virtue alone is good, the cosmos is governed by rational *logos*, and happiness is living in agreement with nature.
 
 ## Biography
@@ -14,9 +15,9 @@ Zeno of Citium, a Phoenician-Greek merchant from Cyprus, came to Athens — anci
 
 His successor Cleanthes of Assos (c. 331–232 BCE), a former boxer who hauled water at night to pay for study, is remembered for his *Hymn to Zeus*, praising Zeus — Stoic shorthand for the universe's rational order — as ruling all by law.
 
-The third head, Chrysippus of Soli (c. 279–206 BCE), made Stoicism a system. Credited with over 700 treatises, he formalised its logic, defended it against the sceptical Academy, and developed its accounts of fate and emotion. "If there had been no Chrysippus, there would have been no Stoa," the saying went. No complete work by him, Zeno, or Cleanthes (except the *Hymn*) survives; we know them through fragments and later, often hostile, reports.
+The third head, Chrysippus of Soli (c. 279–206 BCE), made Stoicism a system. Credited in Diogenes Laertius' catalogue with some 705 books (rolls, many of them short), he formalised its logic, defended it against the sceptical Academy, and developed its accounts of fate and emotion. "If there had been no Chrysippus, there would have been no Stoa," the saying went. No complete work by him, Zeno, or Cleanthes (except the *Hymn*) survives; we know them through fragments and later, often hostile, reports.
 
-In the 2nd–1st centuries BCE Panaetius and Posidonius carried a more flexible Middle Stoa to Rome, and Cicero became its great Latin transmitter. The Roman Stoa produced the texts beginners read. Seneca (c. 4 BCE–65 CE), wealthy senator and adviser to Nero, wrote essays and letters on the ethical life from inside a corrupt court, and was forced to take his own life by Nero. Epictetus (c. 50/55–135 CE), born enslaved, freed in Rome, then teacher at Nicopolis in Greece, survives because his student Arrian took notes. Marcus Aurelius (121–180 CE, emperor 161–180) wrote his *Meditations* in Greek, on campaign, as private notes never meant for publication. Courtier, ex-slave, and emperor show Stoicism practised at every social level.
+In the 2nd–1st centuries BCE Panaetius and Posidonius carried a more flexible Middle Stoa to Rome, and Cicero became its great Latin transmitter. The Roman Stoa then produced the texts beginners actually read — Seneca, Epictetus, and Marcus Aurelius, courtier, ex-slave, and emperor, practising Stoicism at every social level. Their lives and practical teaching have a full entry of their own: see [The Roman Stoics](roman-stoics.md).
 
 ## Major theories and concepts
 
@@ -40,7 +41,7 @@ Virtue — wisdom, courage, justice, temperance, unified as excellent reason —
 
 ### Fate and responsibility
 
-Since *logos* is Fate, every event, including our choices, follows from prior causes. Yet Stoics defended responsibility — an early compatibilism, the view that responsibility is *compatible* with determinism. Chrysippus compared a person to a cylinder: a push (circumstance) starts it, but it rolls as it does because of its own shape (character). An impression pushes us; assent — the mind's "yes" — flows through our character, and is therefore "up to us" in the sense relevant to praise and blame. Epictetus opened the *Enchiridion*: "Some things are up to us, some are not" — judgements and impulses are ours; body, property, and outcomes are not fully so.
+Since *logos* is Fate, every event, including our choices, follows from prior causes. Yet Stoics defended responsibility — an early compatibilism, the view that responsibility is *compatible* with determinism. Chrysippus compared a person to a cylinder: a push (circumstance) starts it, but it rolls as it does because of its own shape (character). An impression pushes us; assent — the mind's "yes" — flows through our character, and is therefore "up to us" in the sense relevant to praise and blame. Epictetus later crystallised the point in the *Enchiridion*'s dichotomy of control (see [The Roman Stoics](roman-stoics.md)).
 
 *Tension:* if character itself was fated before birth, is assent really mine? Stoics said an act is mine when it flows from my nature, not external compulsion — modern compatibilists still develop this, incompatibilists still resist it.
 
@@ -51,10 +52,7 @@ The goal is "living in agreement with nature" — human nature, which is rationa
 ## Key works
 
 - **Early Stoa, fragments only (c. 300–200 BCE).** No complete early Stoic work survives; Zeno's *Republic* is lost. Thought is reconstructed from Diogenes Laertius, Cicero, Plutarch, Sextus Empiricus, and others.
-- **Seneca, *Letters to Lucilius* (c. 62–65 CE).** 124 letters coaching a friend on time, death, wealth, and daily practice — Roman Stoicism's most accessible sustained voice.
-- **Seneca, *On the Shortness of Life* and *On Anger* (c. 41–64 CE).** Life is long if well used; anger is a temporary madness to prevent, not indulge.
-- **Epictetus, *Discourses* and *Enchiridion* (c. 108 CE, recorded by Arrian).** Classroom teaching, and its 53-chapter handbook distillation opening with the dichotomy of control.
-- **Marcus Aurelius, *Meditations* (c. 170–180 CE).** Twelve books of private self-exhortation: see events from the whole's perspective, accept mortality, act justly now.
+- **The Roman Stoics (1st–2nd c. CE).** Seneca's *Letters to Lucilius* and essays, Epictetus' *Discourses* and *Enchiridion*, and Marcus Aurelius' *Meditations* — the school's surviving practical literature, treated in full in [The Roman Stoics](roman-stoics.md).
 
 ## Contributions
 

@@ -47,13 +47,14 @@ Democracy, for Dewey, is "more than a form of government; it is primarily a mode
 - *Human Nature and Conduct* (1922) — ethics and social psychology built on habit.
 - *Experience and Nature* (1925) — his metaphysics of experience; dense but central.
 - *The Public and Its Problems* (1927) — democracy, publics, and expertise.
+- *The Quest for Certainty* (1929) — the Gifford Lectures; his crispest attack on philosophy's traditional quest for absolute certainty.
 - *Art as Experience* (1934) — aesthetics: art as heightened everyday experience, not a museum category.
 - *Logic: The Theory of Inquiry* (1938) — the mature statement of inquiry; technical.
 - *Experience and Education* (1938) — brief correction of both traditional and progressive schooling.
 
 ## Contributions
 
-Dewey gave pragmatism its most complete systematic form, extending a theory of meaning into logic, ethics, aesthetics, education, and politics. He effectively founded modern philosophy of education as an academic field, co-founded the American civil-liberties and teachers'-union movements' intellectual culture, and helped shift American psychology toward functionalism. His naturalism — treating mind, values, and inquiry as continuous with nature — remains a live option against both supernaturalism and reductive scientism.
+Dewey gave pragmatism its most complete systematic form, extending a theory of meaning into logic, ethics, aesthetics, education, and politics. He effectively founded modern philosophy of education as an academic field, was a founding member of the NAACP (1909), the first president of the American Association of University Professors (1915), and a co-founder of the New School for Social Research (1919), and helped shift American psychology toward functionalism. His naturalism — treating mind, values, and inquiry as continuous with nature — remains a live option against both supernaturalism and reductive scientism.
 
 ## Impact and legacy
 

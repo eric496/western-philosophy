@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **Lifespan:** c. 341–270 BCE
+- **Dates:** c. 341–270 BCE
 - **Place:** Born on Samos; taught in Mytilene and Lampsacus, then Athens
 - **School/tradition:** Epicureanism, founder of the Garden in Athens
 - **Known for:** A secular therapy for anxiety — pleasure rightly understood as freedom from pain and fear, grounded in an atomist physics with no divine intervention and nothing to fear in death.
@@ -29,7 +29,7 @@ From this follows his classification of desires. Some are natural and necessary 
 
 Following Democritus, Epicurus holds that reality consists of atoms — indivisible bodies of different shapes and sizes — moving in void. Everything, including the soul, is a temporary compound of atoms; compounds form, decay, and dissolve. This explains change without invoking purpose, design, or divine craftsmanship.
 
-He adds one famous modification: atoms falling through the void occasionally swerve at no fixed time or place — the *clinamen*, or swerve. In Lucretius the swerve does two jobs. It lets atoms collide and form compounds instead of falling in parallel forever, and it breaks an unbroken chain of cause and effect, leaving room for voluntary action. The tension is that a random swerve seems a poor foundation for responsible agency: chance is not the same as freedom. Scholars still debate how central the free-will role was for Epicurus himself, as opposed to Lucretius and later readers.
+He adds one famous modification: atoms falling through the void occasionally swerve at no fixed time or place — the *clinamen*, or swerve. In Lucretius the swerve does two jobs. It lets atoms collide and form compounds instead of falling in parallel forever, and it breaks an unbroken chain of cause and effect, leaving room for voluntary action. The tension is that a random swerve seems a poor foundation for responsible agency: chance is not the same as freedom. Scholars still debate how central the free-will role was for Epicurus himself, as opposed to Lucretius and later readers — and the evidence itself needs flagging: the swerve is attested only in Lucretius and Cicero, not in any surviving text of Epicurus, and some scholars treat it as a later Epicurean development rather than the founder's own doctrine.
 
 ### The tetrapharmakos and the fear of the gods
 
@@ -48,7 +48,7 @@ Friendship is the greatest security a life can have, and the Garden embodied it.
 ## Key works
 
 - **Letter to Menoeceus** (date uncertain; preserved in Diogenes Laertius X) — The short ethics letter: pleasure, desire, death, and the gods. The best primary text to start with.
-- **Letter to Herodotus** (preserved in Diogenes Laertius X) — Not the historian: a summary of physics — atoms, void, perception, and the swerve tradition — written for students who could not study the longer works.
+- **Letter to Herodotus** (preserved in Diogenes Laertius X) — Not the historian: a summary of physics — atoms, void, and perception — written for students who could not study the longer works. (The swerve, discussed above, appears in none of Epicurus' surviving writings.)
 - **Letter to Pythocles** (preserved in Diogenes Laertius X) — On celestial and meteorological phenomena, offering multiple natural explanations rather than one mythic cause; its authorship in detail is debated.
 - **Principal Doctrines** (40 short maxims, preserved in Diogenes Laertius X) — The authorised catechism of the school, meant to be memorised.
 - **On Nature** (Epicurus' major work in 37 books; lost except for Herculaneum fragments) — The full system from which the letters are abridgements.

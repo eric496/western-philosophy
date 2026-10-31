@@ -54,7 +54,7 @@ Victorian sexuality, Foucault argued, was not simply silenced. Against the *repr
 
 ## Key works
 
-- **Madness and Civilization (1961; abridged from *Folie et déraison*)** — Confinement of the mad and the birth of psychiatry; the book that launched him.
+- **Madness and Civilization (*Folie et déraison*, 1961; abridged version 1964, English 1965)** — Confinement of the mad and the birth of psychiatry; the book that launched him.
 - **The Birth of the Clinic (1963)** — How the medical gaze reorganised around 1800. Dense but short.
 - **The Order of Things (1966)** — Archaeology at full stretch; famous, difficult, not the place to start.
 - **The Archaeology of Knowledge (1969)** — His methodological self-explanation; read after the histories, not before.

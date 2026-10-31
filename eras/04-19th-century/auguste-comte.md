@@ -4,7 +4,10 @@
 
 ## At a glance
 
-Isidore-Auguste-Marie-François-Xavier Comte (1798–1857), born in Montpellier, France. Founder of **positivism** and coiner of the word **sociology**. Known for the "law of three stages," the hierarchy of the sciences, and — in his later work — the Religion of Humanity.
+- **Lifespan:** 1798–1857 (full name: Isidore-Auguste-Marie-François-Xavier Comte)
+- **Place:** Montpellier, France (later Paris)
+- **Movement / tradition:** Positivism — its founder, and coiner of the word **sociology**
+- **Known for:** The "law of three stages," the hierarchy of the sciences, and — in his later work — the Religion of Humanity.
 
 ## Biography
 
@@ -35,7 +38,8 @@ In the *System of Positive Polity* (1851–1854), Comte argued that positivism m
 ## Key works
 
 - *Course of Positive Philosophy* (*Cours de philosophie positive*, 6 vols., 1830–1842) — the founding text: the law of three stages, the hierarchy of the sciences, and the creation of sociology.
-- *A General View of Positivism* (*Discours sur l'esprit positif*, 1844; expanded 1848) — the most accessible short statement of positivism as a worldview.
+- *Discours sur l'esprit positif* (1844) — "A Discourse on the Positive Spirit": the compact manifesto of positivism as a worldview.
+- *A General View of Positivism* (*Discours sur l'ensemble du positivisme*, 1848) — the fuller short statement, bridging the *Course* and the later *System*.
 - *System of Positive Polity* (4 vols., 1851–1854) — the later, religious phase: the Religion of Humanity and the detailed design of the positivist society.
 - *Catechism of Positive Religion* (1852) — a dialogue presenting the secular religion in popular form.
 
