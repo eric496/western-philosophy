@@ -1,0 +1,68 @@
+# Progress Tracker
+
+Tick each figure off as you read the entry and its "read first" work. Order follows the master index (chronological), not the learning path — for the study order use `learning-path.md`.
+
+- [ ] **Thales** (c.624–c.546 BCE) — archē, natural explanation
+- [ ] **Pythagoras** (c.570–c.495 BCE) — Number, harmony, soul
+- [ ] **Heraclitus** (c.540–c.480 BCE) — Flux, logos
+- [ ] **Parmenides** (b. c.515 BCE) — Being, deductive argument
+- [ ] **Democritus** (c.460–c.370 BCE) — Atoms and void
+- [ ] **Protagoras** (c.490–c.420 BCE) — Man the measure, relativism
+- [ ] **Socrates** (470–399 BCE) — Elenchus, virtue is knowledge
+- [ ] **Plato** (428/427–348/347 BCE) — Forms, Cave, philosopher-kings
+- [ ] **Aristotle** (384–322 BCE) — Four causes, virtue, eudaimonia
+- [ ] **Diogenes** (c.412–323 BCE) — Autarkeia, life by nature
+- [ ] **Epicurus** (341–270 BCE) — Ataraxia, tetrapharmakos
+- [ ] **Zeno of Citium** (c.334–c.262 BCE) — Logos, indifferents, virtue
+- [ ] **Epictetus** (c.50–c.135 CE) — Dichotomy of control
+- [ ] **Marcus Aurelius** (121–180 CE) — Memento mori, view from above
+- [ ] **Pyrrho** (c.360–c.270 BCE) — Epochē, suspension of judgment
+- [ ] **Plotinus** (204/205–270 CE) — The One, emanation
+- [ ] **Augustine** (354–430) — Evil as privation, time, grace
+- [ ] **Boethius** (c.477–524) — Consolation, universals problem
+- [ ] **Avicenna** (980–1037) — Necessary Existent, Flying Man
+- [ ] **Anselm** (1033–1109) — Ontological argument
+- [ ] **Abelard** (1079–1142) — Intention, conceptualism
+- [ ] **Averroes** (1126–1198) — Commentary, harmony of faith/reason
+- [ ] **Maimonides** (c.1138–1204) — Negative theology
+- [ ] **Aquinas** (1225–1274) — Five Ways, natural law
+- [ ] **Duns Scotus** (c.1266–1308) — Univocity, haecceity
+- [ ] **Ockham** (c.1287–1347) — Razor, nominalism
+- [ ] **Machiavelli** (1469–1527) — Effectual truth, virtù/fortuna
+- [ ] **Bacon** (1561–1626) — Idols, induction
+- [ ] **Hobbes** (1588–1679) — State of nature, Leviathan
+- [ ] **Descartes** (1596–1650) — Cogito, dualism, doubt
+- [ ] **Spinoza** (1632–1677) — One substance, Deus sive Natura
+- [ ] **Leibniz** (1646–1716) — Monads, sufficient reason
+- [ ] **Locke** (1632–1704) — Tabula rasa, rights, toleration
+- [ ] **Berkeley** (1685–1753) — Esse est percipi
+- [ ] **Hume** (1711–1776) — Induction, causation, is–ought
+- [ ] **Rousseau** (1712–1778) — General will, natural goodness
+- [ ] **Kant** (1724–1804) — Categories, categorical imperative
+- [ ] **Bentham** (1748–1832) — Utility principle
+- [ ] **Hegel** (1770–1831) — Dialectic, recognition, Geist
+- [ ] **Schopenhauer** (1788–1860) — Will, suffering, compassion
+- [ ] **Kierkegaard** (1813–1855) — Leap of faith, anxiety, stages
+- [ ] **Mill** (1806–1873) — Harm principle
+- [ ] **Marx** (1818–1883) — Alienation, surplus value, ideology
+- [ ] **Peirce** (1839–1914) — Pragmatic maxim
+- [ ] **James** (1842–1910) — Truth as verified, will to believe
+- [ ] **Nietzsche** (1844–1900) — God is dead, slave morality, recurrence
+- [ ] **Frege** (1848–1925) — Sense/reference, predicate logic
+- [ ] **Husserl** (1859–1938) — Intentionality, lifeworld
+- [ ] **Russell** (1872–1970) — Descriptions, logical atomism
+- [ ] **Wittgenstein** (1889–1951) — Picture theory → language-games
+- [ ] **Heidegger** (1889–1976) — Being, Dasein, authenticity
+- [ ] **Popper** (1902–1994) — Falsifiability, open society
+- [ ] **Sartre** (1905–1980) — Bad faith, radical freedom
+- [ ] **Beauvoir** (1908–1986) — The Other, situated freedom
+- [ ] **Arendt** (1906–1975) — Action, banality of evil
+- [ ] **Quine** (1908–2000) — Web of belief, two dogmas
+- [ ] **Adorno** (1903–1969) — Culture industry, negative dialectics
+- [ ] **Horkheimer** (1895–1973) — Critical vs traditional theory
+- [ ] **Habermas** (b. 1929) — Communicative action, public sphere
+- [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
+- [ ] **Derrida** (1930–2004) — Différance, binary oppositions
+- [ ] **Rawls** (1921–2002) — Veil of ignorance, difference principle
+- [ ] **Singer** (b. 1946) — Speciesism, drowning child
+- [ ] **(School entry) Frankfurt School** (1923–) — Instrumental reason, emancipation
