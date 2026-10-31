@@ -79,6 +79,8 @@ Fitzjames Stephen's *Liberty, Equality, Fraternity* attacked *On Liberty* as sof
 3. *The Subjection of Women*, chapter 1 — the equality argument at full strength.
 4. *Autobiography*, chapters 1 and 5 — the education and the crisis that explain the man.
 
+**Study guide:** [*On Liberty* and *Utilitarianism* — chapter-by-chapter guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/mill-liberty-utilitarianism.md).
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -73,5 +73,7 @@ Pelagius contested the grace doctrine in Augustine's own lifetime, charging that
 3. *City of God*, selected books (XI–XIV on the two cities' origins; XIX on peace) in an abridged edition.
 4. The SEP entry "Saint Augustine" for orientation on the controversies.
 
+**Study guide:** [*Confessions* Books I–VIII and XI — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/augustine-confessions.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
