@@ -1,0 +1,13 @@
+# David Hume
+
+*Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
+
+- Major: Impressions vs ideas: vivid impressions (sensing/feeling), fainter ideas copy them — idea with no source impression is suspect. Hume's fork: relations of ideas (maths/logic, certain, denial = contradiction) vs matters of fact (experience only, denial conceivable); much metaphysics/theology fails both ("sophistry and illusion"). Causation/induction/custom: never perceive necessary connection, only constant conjunction; expectation future resembles past (problem of induction) can't be justified deductively (changed future conceivable) or inductively (circular); causal inference from custom/habit, natural instinct shared with animals — sceptical about justification, naturalist in practice. Bundle theory of self: introspection finds only bundle/flow of perceptions; personal identity is construction (later in Treatise Appendix admitted he couldn't fully fix account — intellectual honesty). Is–ought: can't derive ought from is without explanation. Morality founded on sentiment/sympathy, not reason; "Reason is, and ought only to be slave of the passions" — about motivation (reason informs facts/relations, passions move us). Compatibilism on free will; miracles: testimony can never make belief rational ("wise man proportions belief to evidence").
+- Works: Treatise of Human Nature (1739–40, anonymous, "fell dead-born from the press"); Enquiry Concerning Human Understanding (1748, clearer recast of Treatise I + miracles/design); Enquiry Concerning Principles of Morals (1751, he considered his best); Dialogues Concerning Natural Religion (posthumous 1779).
+- Lineage: Through Descartes, Locke, Berkeley; against rationalist metaphysics/natural theology. Kant credited Hume with interrupting "dogmatic slumber"; logical positivists, philosophy of science (induction problem live), mind, ethics route through Hume.
+- Why: Asks empiricism's questions with no escape hatches; shows much "knowledge" is habit, sentiment, nature rather than proof — cheerfully.
+- Read first: Enquiry §§2, 4–5 (fork, induction), 7 (necessary connection), 10 (miracles), 12 (scepticism). Treatise afterwards (1.3, 1.4.6 personal identity, Book III morals).
+- Cautions: Did NOT disprove causation or say don't trust science — argued causal/inductive inference lacks rational justification of kind philosophers wanted, while nature makes us rightly/unavoidably rely on them; "mitigated scepticism". Is–ought asks for explanation of move; whether it bans all derivations is debated.
+
+---
+[Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

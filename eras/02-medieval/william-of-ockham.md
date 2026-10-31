@@ -1,0 +1,13 @@
+# William of Ockham
+
+*Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
+
+- Major: Nominalism: only individuals exist (this human, this red thing); no universal entities needed — universal is sign (mental term in mental language theory, or spoken/written word) standing for many individuals. Knowledge/science/logic work on signs. Prunes Aristotle's ten categories drastically: basically substances and qualities needed; quantity/relation etc. name ways substances/qualities are, not extra things. Ockham's Razor (parsimony): "don't multiply entities beyond necessity" WITH WARNING — SEP: sentiment is Ockham's but slogan nowhere verbatim in his texts; Razor never licenses DENYING entities exist, at most refraining from POSITING them without compelling reason (experience, self-evidence, Scripture in his formulation); parsimony is one strand, rejection of universals rests on other arguments too. Logic/supposition theory: Summa of Logic rebuilt logic around what terms stand for (supposition) — medieval logic at most powerful, bridge to modern philosophy of language. Faith/reason separation: many theological claims (Trinity, Incarnation) articles of faith, not demonstrable; God's absolute power (potentia absoluta) → created order radically contingent (could have been otherwise). Munich political works: Franciscan poverty defence, limiting papal power — early fuel for rights/resistance theories.
+- Works: Summa of Logic (c. 1323); Ordinatio / Sentences commentary (c. 1318–24, nominalism and Razor-style arguments); Quodlibetal Questions; late political: Short Discourse on Tyrannical Government, Dialogue parts (1330s–40s).
+- Lineage: Targeted realisms of Aquinas and especially Scotus (fellow Franciscan, great opponent), papal plenitude of power (John XXII). Influenced Buridan, via moderna in universities, late scholasticism, climate early modern inherited (contingency, individuals; empiricism/science link debated).
+- Why: Era's great simplifier/dissolver — after Ockham medieval synthesis couldn't be reassembled in old form; textbooks end Middle Ages with him.
+- Read first: SEP "William of Ockham" §§3–4, then Summa of Logic Part I selections in translation/anthology (Loux, Ockham's Theory of Terms; Spade, Five Texts for anti-realist arguments side-by-side with realists).
+- Cautions: Razor slogan later coinage, doesn't prove simpler theories true; nominalists denied universal THINGS, not universal thought/meaning (signs have rich logical meaning).
+
+---
+[Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
