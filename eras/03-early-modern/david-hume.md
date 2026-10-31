@@ -112,5 +112,7 @@ Approach these as open. First, the **"New Hume" debate**: did Hume merely say we
 4. *Treatise* 1.3, 1.4.6 with the Appendix, and Book III, Part I — causation, personal identity, is–ought.
 5. *Dialogues Concerning Natural Religion*, Parts II and X–XII — the design argument.
 
+**Study guide:** [*An Enquiry Concerning Human Understanding* — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/hume-enquiry.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
