@@ -84,5 +84,7 @@ Scotus contested analogy, the primacy of intellect over will in Aquinas's ethics
 3. *Summa Theologiae* I–II qq. 90–94 — the treatise on law (q.91 on the kinds of law; q.94 on natural law).
 4. A modern companion: Brian Davies's *The Thought of Thomas Aquinas*, or Edward Feser's *Aquinas: A Beginner's Guide*.
 
+**Study guide:** [*Summa Theologiae* selections (Ia q.2; Ia–IIae qq. 90–97) — question-by-question guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/aquinas-summa.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

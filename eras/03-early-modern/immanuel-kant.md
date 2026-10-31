@@ -107,5 +107,7 @@ Early critics objected that the thing in itself is incoherent: Kant says it affe
 3. *Critique of Pure Reason*, Transcendental Aesthetic and Analytic, in a guided edition — as a capstone.
 4. *Toward Perpetual Peace* — short, accessible Kant the political thinker.
 
+**Study guide:** [*Groundwork* — section-by-section guide with argument reconstructions, checkpoint questions and answers, common misreadings, and how to approach the *Critique of Pure Reason*](../../study/kant-groundwork.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
