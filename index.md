@@ -11,7 +11,7 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 5 | Zeno of Elea | c.490–c.430 BCE | Ancient / Eleatic | Paradoxes of motion and plurality | Paradoxes (via Aristotle) |
 | 6 | Empedocles | c.494–c.434 BCE | Ancient / Presocratic | Four roots, Love and Strife | *On Nature* (fragments) |
 | 7 | Democritus | c.460–c.370 BCE | Ancient / Atomist | Atoms and void | Fragments |
-| 8 | Protagoras | c.490–c.420 BCE | Ancient / Sophist | Man the measure, relativism | Via Plato, *Protagoras* |
+| 8 | Protagoras (with Gorgias) | c.490–c.420 BCE (Gorgias c.483–c.375 BCE) | Ancient / Sophist | Man the measure, relativism; Gorgias: non-being, power of logos | Via Plato, *Protagoras*; Gorgias, *Encomium of Helen* |
 | 9 | Socrates | c. 470–399 BCE | Ancient / Classical | Elenchus, virtue is knowledge | Plato, *Apology* |
 | 10 | Plato | 428/427–348/347 BCE | Ancient / Platonism | Forms, Cave, philosopher-kings | *Republic* (guided excerpts) |
 | 11 | Aristotle | 384–322 BCE | Ancient / Peripatetic | Four causes, virtue, eudaimonia | *Nicomachean Ethics* |
@@ -100,5 +100,5 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 94 | Judith Jarvis Thomson | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
 | 95 | Derrida | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
 | 96 | Derek Parfit | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
-| 97 | Singer | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
+| 97 | Peter Singer | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
 | 98 | (School entry) Frankfurt School | 1923– | 20th c. / Critical Theory | Instrumental reason, emancipation | See Adorno / Horkheimer / Habermas |

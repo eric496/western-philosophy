@@ -17,7 +17,7 @@ His doctoral thesis, *Time and Free Will* (1889), introduced duration and made h
 
 During the war Bergson undertook diplomatic missions to Spain and the United States on behalf of France, and afterward he presided over the League of Nations' commission for intellectual cooperation — an early version of UNESCO. In 1927 he received the Nobel Prize in Literature. In 1922 his brief public exchange with Albert Einstein in Paris — and his book *Duration and Simultaneity* the same year — became a famous flashpoint between philosophy and physics. Retiring through ill health, he published his last major work, *The Two Sources of Morality and Religion*, in 1932.
 
-As a Jew in occupied France, Bergson refused the exemptions offered to him by the Vichy regime and registered as a Jew in solidarity with those persecuted; he died in Paris in January 1941 after queuing in the cold to register. His posthumous reputation declined sharply as analytic philosophy and then existentialism dominated, before Gilles Deleuze's *Bergsonism* (1966) and a broader revival restored him as a central figure in twentieth-century thought.
+As a Jew in occupied France, Bergson refused the exemptions offered to him by the Vichy regime and registered as a Jew in solidarity with those persecuted; he died in Paris in January 1941; according to the widely repeated account, he caught the chill that killed him while queuing in the cold to register. His posthumous reputation declined sharply as analytic philosophy and then existentialism dominated, before Gilles Deleuze's *Bergsonism* (1966) and a broader revival restored him as a central figure in twentieth-century thought.
 
 ## Major theories and concepts
 

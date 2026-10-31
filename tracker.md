@@ -9,7 +9,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Zeno of Elea** (c.490–c.430 BCE) — Paradoxes of motion and plurality
 - [ ] **Empedocles** (c.494–c.434 BCE) — Four roots, Love and Strife
 - [ ] **Democritus** (c.460–c.370 BCE) — Atoms and void
-- [ ] **Protagoras** (c.490–c.420 BCE) — Man the measure, relativism
+- [ ] **Protagoras (with Gorgias)** (c.490–c.420 BCE) — Man the measure, relativism; Gorgias: *Encomium of Helen*
 - [ ] **Socrates** (470–399 BCE) — Elenchus, virtue is knowledge
 - [ ] **Plato** (428/427–348/347 BCE) — Forms, Cave, philosopher-kings
 - [ ] **Aristotle** (384–322 BCE) — Four causes, virtue, eudaimonia
@@ -98,5 +98,5 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Judith Jarvis Thomson** (1929–2020) — Violinist argument, trolley problem
 - [ ] **Derrida** (1930–2004) — Différance, binary oppositions
 - [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
-- [ ] **Singer** (b. 1946) — Speciesism, drowning child
+- [ ] **Peter Singer** (b. 1946) — Speciesism, drowning child
 - [ ] **(School entry) Frankfurt School** (1923–) — Instrumental reason, emancipation
