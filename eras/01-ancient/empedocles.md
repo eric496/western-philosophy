@@ -67,5 +67,12 @@ Aristotle's standing objection is that Empedocles names Love and Strife as cause
 
 Read the longest fragments in a standard collection (the B fragments in Kirk, Raven & Schofield, or the Empedocles section of *Early Greek Philosophy*): start with B6 (the roots), B17 (the cycle), B100 (breathing), and the *Purifications* proem B112 ("I go about among you an immortal god"). Then the Strasbourg Papyrus material if your edition includes it.
 
+## Study questions
+
+1. Reconstruct Empedocles' answer to Parmenides: grant that nothing can come from nothing or perish utterly, then show how four eternal roots, mixed and separated by Love and Strife, make birth, death, and plurality possible without genuine generation.
+2. Aristotle objects that Empedocles uses Love and Strife inconsistently — each sometimes doing the other's work — and never explains why the cosmic cycle turns when it does. How damaging is this, and what reply could Empedocles give?
+3. Compare Empedocles with Parmenides on the Sphere: for Parmenides it is reality's permanent shape, for Empedocles only one phase under Love's complete rule. What does that demotion reveal about Empedocles' whole strategy?
+4. Apply the roots model to burning a log or recycling a demolished building. Redescribe "destruction" and "creation" as mixing and separation, then identify one feature of the case the model illuminates and one it cannot explain.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -69,5 +69,12 @@ The standing criticism is Aristotle's in embryo: the paradoxes trade on equivoca
 
 Start with Aristotle's *Physics* VI, where the four motion paradoxes are stated and answered, alongside Simplicius' versions of the plurality arguments in a fragment collection (Diels–Kranz 29). Then read Plato, *Parmenides* 127a–128d for Zeno's own statement of his book's purpose, and a modern treatment such as the Stanford Encyclopedia entry "Zeno's Paradoxes" for the state of play.
 
+## Study questions
+
+1. Reconstruct Achilles and the tortoise as a *reductio*: state the assumptions about infinite divisibility and completing infinitely many stages that generate the absurd conclusion, and explain why Zeno, defending Parmenides, is entitled to premises he himself rejects.
+2. Aristotle replies that a line is only *potentially* infinitely divided, while the calculus adds that infinitely many shrinking intervals can sum to a finite distance. Do these replies solve Zeno's metaphysical worry or merely formalise motion? Construct Zeno's counter-reply.
+3. Compare the Dichotomy with the Arrow: the first attacks infinitely divisible space, the second time composed of indivisible instants. Why does Zeno need both, and what does Russell's "at-at" theory concede to the Arrow?
+4. Apply the Dichotomy's structure to a machine instructed to perform infinitely many ever-faster checks before acting. Does a "supertask" genuinely parallel the runner's case, or does the difference matter?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

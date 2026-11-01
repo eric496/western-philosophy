@@ -69,5 +69,12 @@ Aristotle himself found a single material cause insufficient, since it cannot ex
 3. Herodotus, *Histories* 1.74–75 and 1.170, for the eclipse and political stories in their earliest surviving form.
 4. Then Anaximander: seeing what his successor changed is the quickest way to understand what Thales started.
 
+## Study questions
+
+1. Reconstruct Thales' case for water as *archē* from the evidence Aristotle reports — moisture in nourishment and seeds, water's shapeless adaptability, the earth floating on water — and state whether the conclusion is a material claim, an origin claim, or both.
+2. Aristotle objects that one material cause cannot explain change or form. Press this against water: how does a uniform wet stuff become fire or bone? What reply is open to Thales, and does it quietly change what *archē* means?
+3. Compare Thales with Heraclitus: is the basic principle a stuff things are made of, or a pattern according to which they change? What does each account explain better?
+4. Apply Thales' naturalistic method to a flood explained by a community as a god's anger. What would count as a Thales-style explanation, what evidence could settle between the two accounts, and does his "all things are full of gods" weaken the contrast?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -132,5 +132,13 @@ Inside philosophy, Russell's influence is structural: he taught Wittgenstein (an
 4. **"What I Have Lived For"** (prologue to the *Autobiography*) and a few essays from *Why I Am Not a Christian* — the public voice, in his own self-understanding.
 5. **Then, selectively, the *History of Western Philosophy*** — for pleasure and orientation, cross-checked against reference sources where it provokes disagreement.
 
+## Study questions
+
+1. Reconstruct Russell's analysis of "The present King of France is bald" as existence, uniqueness, and predication clauses. Why does this make the sentence false rather than meaningless, and why does it need no non-existent king?
+2. Analyse "The first person to set foot on Mars will be famous" twice: as Frege would, the description a term with sense and possibly no reference; as Russell would, quantificational structure. Which analysis better explains why the sentence is already meaningful, and plausibly true?
+3. State Strawson's objection: "the King of France" presupposes rather than asserts existence, so the utterance is neither true nor false. Then give the Russellian reply about logical form and inference. Which side better handles the sentence inside a proof?
+4. "The present King of France is not bald" has two Russellian readings. State both, using scope, say which is true, and what the ambiguity shows about surface grammar.
+5. Reconstruct the paradox from unrestricted comprehension, then evaluate the charge that type theory merely bans it by grammatical fiat: does the iterative conception of set answer that charge?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

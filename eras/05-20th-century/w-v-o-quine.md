@@ -70,5 +70,13 @@ Few philosophers have set an agenda so completely. Naturalized epistemology beca
 
 "On What There Is" and "Two Dogmas of Empiricism" (both in *From a Logical Point of View*) give you the essential Quine in two sittings. Then chapters 1–2 of *Word and Object* for gavagai, and *Pursuit of Truth* for the mature, moderate statement.
 
+## Study questions
+
+1. Reconstruct Quine's circularity charge: trace how attempts to define "analytic" through synonymy, definition, and interchangeability presuppose the very notion they were meant to explain. What would a non-circular definition have to supply?
+2. A well-confirmed theory yields a failed prediction. Using the web of belief, identify three places where revision could fall — an auxiliary hypothesis, an observation report, a law near the centre — and explain why experience alone cannot dictate the choice.
+3. Grice and Strawson reply that synonymy-talk is perfectly orderly even if it resists behavioural definition. State their objection, and assess whether it answers Quine or changes the subject.
+4. An informant says "pelu" whenever rain begins. Construct two incompatible translations of "pelu" that fit all observed behaviour, and explain why, for Quine, no further behavioural evidence could decide between them.
+5. Kim objects that naturalized epistemology discards the normative question — how we *should* form beliefs — that made it epistemology at all. State the objection and Quine's best available reply.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

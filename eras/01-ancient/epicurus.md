@@ -92,5 +92,12 @@ Modern debates cluster around the swerve (physics, free will, or both?), whether
 3. Lucretius, *On the Nature of Things*, Books I–III — atoms, soul, and death at full length.
 4. A modern introduction (Stanford Encyclopedia of Philosophy, "Epicurus") for the swerve and pleasure debates.
 
+## Study questions
+
+1. Reconstruct "death is nothing to us": good and evil require sensation; death is the dissolution of the atomic compound and so the privation of sensation; therefore no subject remains for death to harm. Identify the premise a critic should attack.
+2. The deprivation objection replies that death harms by removing future goods, whether or not the loss is experienced. Epicurus' side can invoke Lucretius' symmetry argument — we do not dread the eternity before birth, so why dread the eternity after death? Evaluate both moves.
+3. Compare Epicurus with Democritus: both build on atoms and void, but Epicurus adds the uncaused swerve. What problems — collisions, voluntary action — is it meant to solve, and why might randomness fail to deliver responsibility?
+4. Apply Epicurus' classification of desires to a smartphone upgrade, a promotion campaign, or a luxury purchase: sort the desires involved as natural-and-necessary, natural-but-unnecessary, or neither, and calculate net pleasure over a whole life.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

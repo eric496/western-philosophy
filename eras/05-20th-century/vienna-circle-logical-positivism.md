@@ -96,5 +96,13 @@ In America, the émigrés trained the generation that made philosophy of science
 3. **Carnap, "Elimination of Metaphysics" (1932)** — the method applied to a real target.
 4. **The Stanford Encyclopedia article on logical empiricism** — for the self-refutation debate and the Quine/Kuhn aftermath, with the care the slogans lack.
 
+## Study questions
+
+1. Classify each sentence by the verification principle, stating your reasoning: (a) "All metals expand when heated"; (b) "The Absolute unfolds itself in history"; (c) "Cruelty is wrong." For any sentence you judge cognitively meaningless, say what Ayer thinks it is doing instead.
+2. Reconstruct the positivist argument that there is no synthetic a priori, using geometry after relativity as the key exhibit. What exactly is the two-box scheme Kant is accused of overfilling?
+3. State the self-refutation objection, the positivist reply that the principle is a proposal rather than an assertion, and the critic's rejoinder that a mere proposal can simply be declined. Where does this leave the attack on metaphysics?
+4. Quine's "Two Dogmas" attacks the analytic/synthetic distinction the Circle relied on. Explain why removing that distinction threatens the verification principle from inside empiricism, rather than merely refuting Kant.
+5. Why do universal scientific laws embarrass strong verification, and what does Ayer's weak version concede in order to save them?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

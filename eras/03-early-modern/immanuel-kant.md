@@ -146,5 +146,12 @@ Early critics objected that the thing in itself is incoherent: Kant says it affe
 **Study guide:** [*Groundwork* — section-by-section guide with argument reconstructions, checkpoint questions and answers, common misreadings, and how to approach the *Critique of Pure Reason*](../../study/kant-groundwork.md).
 **Study guide:** [*Critique of Pure Reason* — a selections approach: what to read, what to skip on a first pass, and why](../../study/kant-critique.md).
 
+## Study questions
+
+1. State the categorical imperative in its universal-law and humanity formulations, then apply both to Kant's lying promise: what contradiction arises when the maxim is universalised, and in what way is the deceived promisee treated merely as a means?
+2. Contrast Mill on the same lying promise: how would a utilitarian justification proceed, what would it weigh that Kant excludes, and under what circumstances might the two verdicts diverge?
+3. Explain “every event has a cause” as synthetic a priori: it is neither true by definition nor learned from any particular experience, yet Hume showed experience never yields necessity. How does Kant's Copernican turn make such a judgment possible?
+4. Unpack “thoughts without content are empty; intuitions without concepts are blind” with Descartes and Hume as foils: which side of experience does each predecessor overplay, and what does Kant claim each faculty contributes that the other cannot?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

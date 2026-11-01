@@ -108,6 +108,14 @@ Other standing objections: the labour theory of value faces the "transformation 
 2. The alienation chapter of the 1844 *Manuscripts* for the human core of the early work.
 3. *Capital* Vol. 1, chapter 1 (the commodity and fetishism), with a guide, before attempting more.
 
+## Study questions
+
+1. Reconstruct the alienation argument: name its four dimensions and show how each follows from private property and wage labour itself, not merely from a cruel employer or a boring job.
+2. Reconstruct commodity fetishism from *Capital*, chapter 1: why does value appear as a natural property of things, like weight, and what social relations among producers does that appearance conceal?
+3. Give one serious objection to each account: for alienation, that it depends on an essentialist species-being the later Marx may have abandoned; for fetishism, that prices need no hidden labour-essence to explain them. State Marx's best reply in each case.
+4. State precisely what Marx takes from Hegel's master–slave dialectic and what he inverts: how does self-formation through labour become, in Marx, production under definite relations of ownership and class?
+5. Apply both concepts to a gig driver managed entirely by an app: where is the alienation, where the fetishism, and what would have to change for the work to count as unalienated on Marx's terms?
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

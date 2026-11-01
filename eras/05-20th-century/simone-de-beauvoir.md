@@ -85,5 +85,13 @@ Critics from several directions have pressed *The Second Sex*. Some argue Beauvo
 
 **Study guide:** [*The Second Sex* Introduction and Volume II opening — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/beauvoir-second-sex.md).
 
+## Study questions
+
+1. Reconstruct how "one is not born, but rather becomes, a woman" applies Sartre's "existence precedes essence" — and where Beauvoir departs from him: why does she insist that becoming happens inside a situation that trains girls toward immanence rather than transcendence?
+2. In *The Second Sex*'s Introduction, Beauvoir asks why woman is the Other if human existence is freedom for everyone. Reconstruct her answer: what makes the Other-position so durable for women in particular, and what role does complicity — the temptation to surrender freedom — play in it?
+3. Reconstruct the derivation in *The Ethics of Ambiguity*: how does willing my own freedom commit me to willing the freedom of others? Identify the step critics most question.
+4. Care ethicists object that Beauvoir judges women's lives by a masculine standard of transcendence, devaluing care itself. State the objection and her strongest reply: that her target is confinement and compulsion, not the activities.
+5. Apply her method to a fresh case: parental leave exists on paper, but taking it quietly ends promotion prospects. Map the structures of immanence, locate any complicity, and say what willing others' freedom would concretely require here.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

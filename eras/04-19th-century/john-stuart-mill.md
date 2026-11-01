@@ -91,6 +91,14 @@ Fitzjames Stephen's *Liberty, Equality, Fraternity* attacked *On Liberty* as sof
 
 **Study guide:** [*On Liberty* and *Utilitarianism* — chapter-by-chapter guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/mill-liberty-utilitarianism.md).
 
+## Study questions
+
+1. Reconstruct the harm principle precisely: what may society coerce, what does "harm" exclude, and why is a person's own good "not a sufficient warrant"? Where exactly does Mill draw the line between self-regarding and other-regarding conduct?
+2. Reconstruct two moves in *Utilitarianism*: the Chapter 4 "proof" from what is desired to what is desirable, and the quality-of-pleasures test appealing to competent judges. What objection to Bentham is each move meant to answer?
+3. Press the standard objections: that the proof commits a fallacy (Moore's charge), and that higher pleasures smuggle in a non-hedonic standard. Give Mill's strongest reply to each, then judge whether either reply succeeds.
+4. Compare Mill with Bentham on rights and pleasures: what does Mill gain by grounding rights in security and ranking pleasures qualitatively, and what theoretical purity does he lose?
+5. Apply the harm principle to platform speech rules: a post spreads a false health claim that may discourage vaccination but threatens no identifiable person. Is this harm, offence, or mere risk? Argue both sides from Mill's text, and state where his principle runs out.
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

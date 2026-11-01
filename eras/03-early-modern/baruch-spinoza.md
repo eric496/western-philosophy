@@ -137,5 +137,12 @@ Other debates: whether necessitarianism can accommodate an ethics of striving �
 
 **Study guide:** [*Ethics* Part I — proposition-by-proposition guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/spinoza-ethics-part1.md).
 
+## Study questions
+
+1. Reconstruct the substance-monism argument of *Ethics* I from its definitions: a substance is in itself and conceived through itself; substances cannot share an attribute; God has infinite attributes. Which premise could Leibniz reject, and what alternative account of substance would he owe?
+2. Press the objection that monism erases real distinctions and makes individual things illusory. Rebuild Spinoza's reply that modes are real affections of the one substance, then assess whether modal distinction is distinction enough.
+3. Reconstruct the *conatus* argument (*Ethics* III, propositions 6–7), then test it against suicide or self-sacrifice. Does assigning self-destruction to external causes answer the counterexample, or make the doctrine unfalsifiable?
+4. Apply the affects to a fresh case — say, anger at a colleague: analyse it as a passive affect, show what changes when adequate ideas of its causes form, and explain why that counts as greater freedom although the outcome remains necessitated. Compare Descartes on mastering the passions.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

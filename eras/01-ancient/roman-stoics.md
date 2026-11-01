@@ -79,5 +79,12 @@ The ancient charge, revived ever since, is quietism: does a philosophy of accept
 
 Start with Epictetus' *Enchiridion* (an evening's reading), then a selection of Seneca's *Letters* — 1 (on time), 47 (on slaves), 63 (on grief) — with *On the Shortness of Life*. Then Marcus' *Meditations* Book 2 and 4. Return to Epictetus' *Discourses* Book 1 for the full classroom voice once the pocket version has whetted your appetite.
 
+## Study questions
+
+1. Reconstruct Epictetus' dichotomy of control from the *Enchiridion*'s opening: opinion, impulse, desire, and aversion are up to us; body, property, reputation, and office are not. Show how misery is then diagnosed as craving or fearing what is not ours.
+2. Press the quietism objection: if an enslaved person is "free" only in judgement, has Epictetus liberated or merely consoled them? Construct the Stoic reply using preferred indifferents and duty, then judge whether it answers the political charge.
+3. Compare the Roman Stoics with Epicurus: withdrawal to the Garden versus playing one's assigned part — son, citizen, emperor — in the cosmopolis. Which better preserves friendship and security, and at what cost?
+4. Apply the dichotomy to a rejected job application or cancelled flight: sort every element into up to you / not up to you, add the reserve clause ("fate permitting"), then state one criticism — for example, that it risks excusing preventable injustice.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

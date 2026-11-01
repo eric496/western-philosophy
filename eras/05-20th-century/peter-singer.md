@@ -71,5 +71,12 @@ The practical footprint is unusually measurable. *Animal Liberation* galvanised 
 
 Read "Famine, Affluence, and Morality" first — five pages that contain the pond, the principle, and the challenge. Then chapters 1–2 of *Animal Liberation* for speciesism and equal consideration, and the global-poverty and euthanasia chapters of *Practical Ethics* to see the system applied and to encounter the controversial conclusions in their argued form rather than in summary. *The Life You Can Save* is the accessible route into the later, movement-facing work.
 
+## Study questions
+
+1. Reconstruct the drowning-child argument: state Singer's principle exactly, then show how he argues that distance and the presence of other bystanders make no moral difference when the pond goes global. Where does the principle stop demanding?
+2. Press the demandingness objection, with Williams's integrity worry: a morality that absorbs every personal project leaves no recognisable life. Then give Singer's reply — that showing morality is demanding does not show it is false — and assess it.
+3. Apply equal consideration of interests to a fresh case: painful tests on pigs to develop a new cosmetic. Which interests count, how are they weighed, and what would have to be true of the benefits for the tests to pass Singer's test?
+4. Take the surgeon case: five dying patients, one healthy patient whose organs would save them. Singer's principle and Thomson's rights framework pull apart here. Show what each says and why, and identify the premise on which the disagreement turns.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
