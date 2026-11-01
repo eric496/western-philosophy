@@ -144,6 +144,7 @@ Early critics objected that the thing in itself is incoherent: Kant says it affe
 4. *Toward Perpetual Peace* — short, accessible Kant the political thinker.
 
 **Study guide:** [*Groundwork* — section-by-section guide with argument reconstructions, checkpoint questions and answers, common misreadings, and how to approach the *Critique of Pure Reason*](../../study/kant-groundwork.md).
+**Study guide:** [*Critique of Pure Reason* — a selections approach: what to read, what to skip on a first pass, and why](../../study/kant-critique.md).
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

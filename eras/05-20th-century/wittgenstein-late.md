@@ -134,5 +134,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 4. **Then §§185–293** — rule-following and the private language argument, ideally with a guide such as Marie McGinn's *Wittgenstein and the Philosophical Investigations* or the Stanford Encyclopedia article, because these sections attract strong rival readings.
 5. **Finally, *On Certainty*, selections** — his last thoughts on doubt and hinge beliefs.
 
+**Study guide:** [*Philosophical Investigations* — section-by-section guide to the Part I selections, with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/wittgenstein-investigations.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

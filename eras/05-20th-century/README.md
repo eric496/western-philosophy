@@ -43,6 +43,7 @@ SEP entries: Russell, Wittgenstein, Popper, Rawls, Vienna Circle, Kuhn, Husserl,
 - [Vienna Circle / Logical Positivism](vienna-circle-logical-positivism.md)
 - [Karl Popper](karl-popper.md)
 - [W. V. O. Quine](w-v-o-quine.md)
+- [Paul Ricoeur](paul-ricoeur.md)
 - [Thomas Kuhn](thomas-kuhn.md)
 - [John Rawls](john-rawls.md)
 - [Alasdair MacIntyre](alasdair-macintyre.md)
@@ -50,6 +51,7 @@ SEP entries: Russell, Wittgenstein, Popper, Rawls, Vienna Circle, Kuhn, Husserl,
 - [Judith Jarvis Thomson](judith-jarvis-thomson.md)
 - [Derek Parfit](derek-parfit.md)
 - [Peter Singer](peter-singer.md)
+- [Martha Nussbaum](martha-nussbaum.md)
 - [John Dewey](john-dewey.md)
 - [Edmund Husserl](edmund-husserl.md)
 - [Henri Bergson](henri-bergson.md)
@@ -65,6 +67,7 @@ SEP entries: Russell, Wittgenstein, Popper, Rawls, Vienna Circle, Kuhn, Husserl,
 - [Jacques Derrida](jacques-derrida.md)
 - [Hans-Georg Gadamer](hans-georg-gadamer.md)
 - [Anscombe & Foot](anscombe-and-foot.md)
+- [Iris Murdoch](iris-murdoch.md)
 
 ---
 [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Themes](../../themes.md) · [Glossary](../../glossary.md) · [Timeline](../../timeline.md)

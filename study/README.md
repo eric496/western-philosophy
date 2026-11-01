@@ -11,6 +11,8 @@ Work-level guides to read alongside the primary text, not instead of it. Each gu
 | Augustine, *Confessions* (Books I–VIII, XI) | [augustine-confessions.md](augustine-confessions.md) | [Augustine](../eras/02-medieval/augustine-of-hippo.md), learning path Stage 2 |
 | Aquinas, *Summa Theologiae* selections (Ia q.2; Ia–IIae qq. 90–97) | [aquinas-summa.md](aquinas-summa.md) | [Aquinas](../eras/02-medieval/thomas-aquinas.md), learning path Stage 2 |
 | Kant, *Groundwork of the Metaphysics of Morals* (1785), plus how to approach the *Critique of Pure Reason* | [kant-groundwork.md](kant-groundwork.md) | [Kant](../eras/03-early-modern/immanuel-kant.md), learning path Stage 3 |
+| Kant, *Critique of Pure Reason* (1781/1787) — selections approach | [kant-critique.md](kant-critique.md) | [Kant](../eras/03-early-modern/immanuel-kant.md), learning path Stage 3 |
+| Wittgenstein, *Philosophical Investigations* Part I selections (1953) | [wittgenstein-investigations.md](wittgenstein-investigations.md) | [Wittgenstein (late)](../eras/05-20th-century/wittgenstein-late.md), learning path Stage 5 |
 | Mill, *On Liberty* (1859) and *Utilitarianism* (1861/1863) | [mill-liberty-utilitarianism.md](mill-liberty-utilitarianism.md) | [Mill](../eras/04-19th-century/john-stuart-mill.md), learning path Stage 4 |
 | Spinoza, *Ethics* Part I (with Appendix) | [spinoza-ethics-part1.md](spinoza-ethics-part1.md) | [Spinoza](../eras/03-early-modern/baruch-spinoza.md), learning path Stage 3 |
 | Hobbes, *Leviathan* chs. 13–17 and following (chs. 18–21 in summary) | [hobbes-leviathan.md](hobbes-leviathan.md) | [Hobbes](../eras/03-early-modern/thomas-hobbes.md), learning path Stage 3 |

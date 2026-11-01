@@ -27,9 +27,11 @@ SEP entries: Hegel, Schopenhauer, Kierkegaard, Mill (moral/political), Marx, Nie
 
 - [Jeremy Bentham](jeremy-bentham.md)
 - [G.W.F. Hegel](g-w-f-hegel.md)
+- [F. W. J. Schelling](friedrich-schelling.md)
 - [Johann Gottlieb Fichte](johann-gottlieb-fichte.md)
 - [Arthur Schopenhauer](arthur-schopenhauer.md)
 - [Auguste Comte](auguste-comte.md)
+- [Emerson & Thoreau](emerson-and-thoreau.md)
 - [Alexis de Tocqueville](alexis-de-tocqueville.md)
 - [Søren Kierkegaard](soren-kierkegaard.md)
 - [John Stuart Mill](john-stuart-mill.md)
