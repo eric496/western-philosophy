@@ -6,6 +6,8 @@
 
 1712–1778 · Geneva and France · Social-contract theorist, philosopher of education and human nature · Known for “Man is born free, and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*.
 
+**Responds to:** [Hobbes](thomas-hobbes.md), [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Wollstonecraft](mary-wollstonecraft.md)
+
 ## Biography
 
 Jean-Jacques Rousseau was born on 28 June 1712 in Geneva, then an independent Calvinist republic. His mother died days after his birth; his watchmaker father fled Geneva in 1722, leaving the boy to unhappy apprenticeships. At sixteen Rousseau left Geneva and began years of wandering in Savoy and Italy, taken up by the Baronne de Warens, converting to Catholicism (later reversed), and educating himself as tutor, secretary, and music copyist. With Thérèse Levasseur, whom he eventually married, he had five children whom he consigned to a foundling hospital — a decision he defended and regretted in shifting ways, and which enemies never let him forget.

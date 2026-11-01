@@ -6,6 +6,8 @@
 
 1685–1753 · Ireland and England, with years in Rhode Island · Anglican bishop and immaterialist · Known for *esse est percipi* — “to be is to be perceived” — and for arguing the experienced world needs no material substance behind it.
 
+**Responds to:** [Locke](john-locke.md) · **Answered by:** [Hume](david-hume.md)
+
 ## Biography
 
 George Berkeley was born on 12 March 1685 at Kilcrin, County Kilkenny, Ireland. He entered Trinity College Dublin at fifteen and became a fellow in 1707. In private notebooks he worked out his defining idea: that a material world behind our ideas is unnecessary and incoherent.

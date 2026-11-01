@@ -9,6 +9,8 @@
 - **Tradition:** Latin Christian, formed by Greek Neoplatonism and Aristotelian logic.
 - **Known for:** The *Consolation of Philosophy*, translating Aristotle's logic into Latin, and framing the medieval problem of universals.
 
+**Responds to:** [Plato](../01-ancient/plato.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Abelard](peter-abelard.md)
+
 ## Biography
 
 Anicius Manlius Severinus Boethius was born around 477 into one of Rome's grandest families, the Anicii. Orphaned young, he was raised by Quintus Aurelius Memmius Symmachus, a senator and scholar whose daughter Rusticiana Boethius later married. He received an elite education in Greek and Latin letters — possibly including time in Athens or Alexandria, though that is conjectured — and conceived an audacious scholarly project: to translate *all* of Plato and Aristotle into Latin and write commentaries harmonising them, showing the two masters fundamentally agreed. In practice he completed translations of Aristotle's logical works (the *Organon*) with commentaries, plus the introduction to logic by Porphyry, textbooks on arithmetic and music, and short theological treatises (the *Opuscula Sacra*) applying logical method to doctrines like the Trinity.

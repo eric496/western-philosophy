@@ -9,6 +9,8 @@
 - **Tradition:** Renaissance humanism; Pyrrhonian scepticism revived for the modern world
 - **Known for:** Inventing the essay as a literary-philosophical form; radical scepticism summed up in his motto "Que sçay-je?" ("What do I know?"); and turning the study of himself — body, moods, ignorance and all — into a way of doing philosophy
 
+**Responds to:** [Pyrrho & the Skeptics](../01-ancient/pyrrho-of-elis-and-the-skeptics.md) · **Answered by:** [Francis Bacon](francis-bacon.md), [Descartes](rene-descartes.md), [Pascal](blaise-pascal.md)
+
 ## Biography
 
 Michel Eyquem de Montaigne was born in 1533 at the family estate in the Dordogne, heir to a recently ennobled merchant family (his great-grandfather had traded in wine, herring, and woad; his father was the first to live as a gentleman). His education was a deliberate experiment: his father had him raised by a German tutor who spoke only Latin, so that Latin was literally his first language, and woke him each morning to music. He then attended the Collège de Guyenne in Bordeaux, one of the finest humanist schools in France, and studied law, probably at Toulouse.

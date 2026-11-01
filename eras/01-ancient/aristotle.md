@@ -9,6 +9,8 @@
 - **School/tradition:** Student of Plato; founder of the Lyceum and the Peripatetic school
 - **Known for:** Hylomorphism, four causes, formal logic, virtue ethics
 
+**Responds to:** [Plato](plato.md) · **Answered by:** [Plotinus](plotinus.md), [Averroes](../02-medieval/averroes.md), [Thomas Aquinas](../02-medieval/thomas-aquinas.md)
+
 ## Biography
 
 Aristotle was born in 384 BCE in Stagira, in the Chalcidice peninsula under Macedonian influence. His father Nicomachus was physician to King Amyntas III of Macedon, grandfather of Alexander the Great. That court connection gave him early exposure to empirical inquiry, and later endangered him in Athens. Both parents died when he was young, and he was raised by a guardian, Proxenus.

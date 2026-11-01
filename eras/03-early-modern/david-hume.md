@@ -6,6 +6,8 @@
 
 1711–1776 · Edinburgh, Scotland · Empiricism and mitigated scepticism · Known for showing that beliefs about cause, self, and morality rest on custom and sentiment, not reason — and for waking Kant from his "dogmatic slumber."
 
+**Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
+
 ## Biography
 
 David Hume was born on 7 May 1711 in Edinburgh, son of a modest landowner who died when Hume was two. Raised at Ninewells, he entered Edinburgh University at about eleven and left without a degree. Family expectations pointed to law; Hume found an "insurmountable aversion to everything but the pursuits of Philosophy and general Learning."

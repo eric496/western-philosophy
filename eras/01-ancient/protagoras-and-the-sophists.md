@@ -9,6 +9,8 @@
 - **School/tradition:** The Sophists — professional travelling teachers of rhetoric, argument, and political skill in the age of the Greek democracies
 - **Known for:** The man-measure doctrine — "man is the measure of all things" — and the professionalisation of rhetoric and higher education
 
+**Responds to:** Eleatic logic, turned against itself in Gorgias' *On Non-Being* · **Answered by:** [Socrates](socrates.md), [Plato](plato.md), [Pyrrho & the Skeptics](pyrrho-of-elis-and-the-skeptics.md)
+
 ## Biography
 
 The Sophists were not a school with a founder and a doctrine but a profession: itinerant experts who, from about the middle of the 5th century BCE, offered for fees the higher education the Greek city-states did not provide. Their timing was not accidental. In democratic Athens, advancement ran through the assembly and the lawcourts, where success belonged to whoever could speak persuasively; in a world of autonomous cities and shifting alliances, skill in argument was a marketable technology. The Sophists sold it, and charged handsomely — which their critics never let them forget.

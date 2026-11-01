@@ -9,6 +9,8 @@
 - **School/tradition:** The Eleatic school; pupil and defender of Parmenides
 - **Known for:** The paradoxes of motion and plurality — Achilles and the tortoise, the Dichotomy, the Arrow — devised to defend Parmenides by reducing his opponents' assumptions to absurdity
 
+**Responds to:** [Parmenides](parmenides-of-elea.md) · **Answered by:** [Democritus](democritus-of-abdera.md)
+
 ## Biography
 
 Almost everything reported about Zeno's life comes through Plato and much later biography, and should be handled with care. In Plato's *Parmenides*, Zeno visits Athens around 450 BCE with his teacher, then about sixty-five, while Zeno himself is near forty and the young Socrates listens in. Plato describes him as tall and handsome and reports the tradition that he was Parmenides' beloved as well as his pupil. The visit is chronologically possible but generally read as Plato's construction rather than documented history.

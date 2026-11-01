@@ -6,6 +6,8 @@
 
 1588–1679 · England, with long exile in Paris · Materialist and founder of modern social-contract theory · Known for deriving absolute authority from fear and rational self-preservation in *Leviathan*.
 
+**Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md)
+
 ## Biography
 
 Thomas Hobbes was born in Westport, Wiltshire, on 5 April 1588, prematurely, as news arrived of the approaching Spanish Armada. He later joked that “fear and I were born twins together” — his own quip, and a fitting emblem for a philosophy centred on fear of violent death.

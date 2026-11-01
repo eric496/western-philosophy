@@ -9,6 +9,8 @@
 - **School/tradition:** Founder of Pythagoreanism — part philosophical school, part religious brotherhood
 - **Known for:** Teaching that reality is structured by number and harmony, and that the soul is immortal and transmigrates — though in his lifetime he was famous chiefly as a religious teacher on the fate of the soul
 
+**Responds to:** [Thales of Miletus](thales-of-miletus.md) · **Answered by:** [Heraclitus](heraclitus-of-ephesus.md), [Empedocles](empedocles.md)
+
 ## Biography
 
 If Thales is hard to see clearly, Pythagoras is harder. He wrote nothing, his followers treated his sayings as sacred and secret, and within a generation he was being credited with miracles. Later biographies — by Porphyry and Iamblichus, some eight centuries after his death — present a wonder-worker who charmed animals, was seen in two places at once, and had a golden thigh. Modern scholarship, following Walter Burkert's study of the tradition, strips those layers back to the earlier, more sober testimony of Xenophanes, Heraclitus, Empedocles, Plato, and Aristotle. What survives that filter is still remarkable, but different from the schoolbook mathematician.

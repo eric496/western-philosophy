@@ -9,6 +9,8 @@
 - **School/tradition:** The first of the Milesians, the Ionian thinkers who opened the Presocratic period
 - **Known for:** Proposing that everything's *archē* — its originating principle and underlying stuff — is water, and so explaining the world by nature rather than by gods
 
+**Responds to:** Homeric and Hesiodic myth, Ionian natural inquiry · **Answered by:** [Pythagoras](pythagoras.md), [Heraclitus](heraclitus-of-ephesus.md)
+
 ## Biography
 
 Almost everything said about Thales' life needs a warning label. He left nothing that survives, and he may have written nothing at all. What we have comes through *doxography* — the ancient practice of compiling summaries of earlier thinkers' opinions — and through writers who lived centuries after him, above all Aristotle (4th century BCE), Herodotus (5th century BCE), and Diogenes Laertius (probably 3rd century CE), who mixed fact, inference, and anecdote. Separating man from legend is not a preliminary chore here; it is most of the work.

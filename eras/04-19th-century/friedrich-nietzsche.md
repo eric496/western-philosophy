@@ -9,6 +9,8 @@
 - **Movement / tradition:** No school in his lifetime; later claimed by existentialism and post-structuralism
 - **Known for:** The diagnosis that European culture's Christian values have collapsed ("God is dead"), and the demand to create new values through genealogy, self-overcoming, and affirmation of life as it is.
 
+**Responds to:** [Schopenhauer](arthur-schopenhauer.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md), [Foucault](../05-20th-century/michel-foucault.md)
+
 ## Biography
 
 Friedrich Nietzsche was born in 1844 in Röcken, Saxony, the son of a Lutheran pastor who died when Friedrich was four, leaving him to be raised in Naumburg by his mother, grandmother, and aunts — a pious, intensely female household he both loved and fled. A brilliant schoolboy at the elite academy of Schulpforta, he studied philology (classical languages and texts) at Bonn and Leipzig, where he discovered Schopenhauer's *World as Will and Representation* in a bookshop in 1865 and read it like scripture.

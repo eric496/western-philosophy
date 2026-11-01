@@ -9,6 +9,8 @@
 - **Movement / tradition:** Pragmatism (its great populariser); founder of American psychology
 - **Known for:** Making pragmatism a public philosophy — truth as what proves itself in experience, the will to believe, and the stream of consciousness.
 
+**Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md)
+
 ## Biography
 
 William James was born in New York in 1842 into one of America's most remarkable families. His father, Henry James Sr., was a wealthy, restless religious thinker who gave his children a deliberately unconventional education — schools across America and Europe, museums and languages everywhere, no fixed curriculum. His younger brother Henry became the great novelist. The family atmosphere — brilliant, tolerant, spiritually intense — formed William's lifelong conviction that experience, in all its variety, is the final court of appeal.

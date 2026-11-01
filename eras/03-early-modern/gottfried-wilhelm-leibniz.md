@@ -9,6 +9,8 @@
 - **Tradition:** Rationalism
 - **Known for:** Monads and pre-established harmony, sufficient reason, the “best of all possible worlds,” and — independently of Newton — the calculus
 
+**Responds to:** [Locke](john-locke.md) · **Answered by:** [Kant](immanuel-kant.md), [Émilie du Châtelet](emilie-du-chatelet.md)
+
 ## Biography
 
 Leibniz was born in Leipzig in 1646, near the end of the Thirty Years’ War. His father, a professor of moral philosophy, died when he was six, leaving a library in which the boy largely educated himself. He entered Leipzig University at fourteen and received his law doctorate at Altdorf in 1667, after Leipzig refused him, officially for youth.

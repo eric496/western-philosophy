@@ -6,6 +6,8 @@
 
 1623–1662 · France (Clermont-Ferrand, Rouen, Paris) · Mathematician, physicist, and Jansenist Christian thinker · Known for the *Pensées*: fragments on reason’s limits, human wretchedness and greatness, diversion, and the Wager.
 
+**Responds to:** [Montaigne](michel-de-montaigne.md), [Descartes](rene-descartes.md), [Augustine](../02-medieval/augustine-of-hippo.md) · **Answered by:** [Kierkegaard](../04-19th-century/soren-kierkegaard.md), [William James](../04-19th-century/william-james.md)
+
 ## Biography
 
 Blaise Pascal was born on 19 June 1623 in Clermont-Ferrand. His mother died when he was three; his father Étienne, a tax administrator and able mathematician, educated the children himself, deciding Blaise should not study mathematics until fifteen. Curiosity defeated the plan: Blaise re-derived Euclid alone, joined Mersenne’s circle, and at sixteen wrote a treatise on conic sections so fine Descartes reportedly suspected the father of writing it.

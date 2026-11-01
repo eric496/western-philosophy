@@ -9,6 +9,8 @@
 - **School/tradition:** Pyrrhonian Skepticism — distinct from the skeptical phase of Plato's Academy under Arcesilaus and Carneades
 - **Known for:** Suspending judgement about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "like a shadow."
 
+**Responds to:** [Democritus](democritus-of-abdera.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Montaigne](../03-early-modern/michel-de-montaigne.md), [Descartes](../03-early-modern/rene-descartes.md), [Hume](../03-early-modern/david-hume.md)
+
 ## Biography
 
 Pyrrho of Elis began, by ancient report, as a painter, then turned to philosophy, encountering Democritean ideas through Anaxarchus of Abdera. The decisive episode was travel: he accompanied Alexander the Great's expedition as far as India (c. 327–326 BCE), where Greek sources say he met the "gymnosophists" — the naked wise men — and Magi. How deeply Indian thought influenced him is a standing debate (see Criticisms and debates); in antiquity the journey was already the standard explanation for his indifference to pain, honour, and danger.

@@ -9,6 +9,8 @@
 - **Movement / tradition:** Utilitarianism; Cambridge moral philosophy
 - **Known for:** *The Methods of Ethics* (1874), the summit of classical utilitarianism — famous for ending not in triumph but in the unresolved "dualism of practical reason," and for quietly shaping Moore, Parfit, and Singer.
 
+**Responds to:** [Bentham](jeremy-bentham.md), [J. S. Mill](john-stuart-mill.md) · **Answered by:** [G. E. Moore](../05-20th-century/g-e-moore.md), [Parfit](../05-20th-century/derek-parfit.md), [Singer](../05-20th-century/peter-singer.md)
+
 ## Biography
 
 Henry Sidgwick was born in Skipton, Yorkshire, in 1838, the son of a clergyman and headmaster. At Rugby and then Trinity College, Cambridge, he was the star of his generation: first-class honours in classics and mathematics, then a fellowship at Trinity in 1859, at twenty-one. The fellowship came with a condition typical of the old universities — subscription to the Thirty-Nine Articles of the Church of England. Sidgwick's religious doubts deepened through the 1860s as he studied theology, Hebrew, and Arabic in a genuine effort to keep his faith, and in 1869 he resigned his fellowship rather than subscribe dishonestly. It is the defining biographical fact: a man who gave up his career rather than affirm what he could not believe, and who then spent the rest of his life applying the same scrupulosity to ethics.

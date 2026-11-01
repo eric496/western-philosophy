@@ -9,6 +9,8 @@
 - **Tradition:** Islamic philosophy (*falsafa*) and Islamic law (Mālikī jurisprudence); chief qāḍī (judge) of Córdoba.
 - **Known for:** The great commentaries on Aristotle — in Latin he is simply "the Commentator" — and the doctrine of the unity of the intellect.
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md), [Avicenna](avicenna.md) · **Answered by:** [Thomas Aquinas](thomas-aquinas.md)
+
 ## Biography
 
 Ibn Rushd was born in Córdoba in 1126 into a distinguished family of Mālikī jurists: his grandfather had been chief judge and imam of the Great Mosque, and his father a judge too. Averroes was trained accordingly — Qur'an, law, theology (*kalām*) — and also in medicine, mathematics, astronomy, and philosophy, studying Avicenna's works while quietly finding them unsatisfying on Aristotle. His career fused the two worlds: he served as judge in Seville (1169) and Córdoba, and as court physician to the Almohad caliph Abū Yaʿqūb Yūsuf. A famous report describes the caliph, behind a curtain of court protocol, asking him what the philosophers say about the heavens — eternal or created? — and Averroes, after initial fear, discussed it freely; the caliph then commissioned accessible summaries of Aristotle, the seed of the commentary project that consumed the rest of his life. Under the next caliph, al-Manṣūr, court politics turned: in about 1195 Averroes was disgraced — charged, officially, with heresy — exiled to Lucena near Córdoba, and his philosophical books were burned, part of a caliphal bid for support from conservative jurists before a military campaign. He was rehabilitated and recalled to Marrakech shortly before his death in 1198. His body was later returned to Córdoba.

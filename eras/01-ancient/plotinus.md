@@ -9,6 +9,8 @@
 - **School/tradition:** Neoplatonism — a modern name; Plotinus saw himself as Plato's interpreter
 - **Known for:** Reality emanating from the ineffable One through Intellect and Soul, and philosophy as the soul's return to its source.
 
+**Responds to:** [Plato](plato.md), [Aristotle](aristotle.md) · **Answered by:** [Augustine](../02-medieval/augustine-of-hippo.md), [Eriugena](../02-medieval/john-scotus-eriugena.md), [Nicholas of Cusa](../02-medieval/nicholas-of-cusa.md)
+
 ## Biography
 
 Almost everything we know comes from the *Life of Plotinus* by his student Porphyry, prefixed to his edition of the works. Porphyry says Plotinus was ashamed of being in a body, refused to sit for a portrait or discuss his birthplace and parents, and gave his birth date only in a form letting us calculate c. 204/5 CE, probably in Egypt.

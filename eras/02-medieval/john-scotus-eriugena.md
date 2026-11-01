@@ -9,6 +9,8 @@
 - **Tradition:** Latin Christian Neoplatonism; the outstanding thinker of the Carolingian Renaissance
 - **Known for:** The *Periphyseon*, which divides all of "nature" — God and creation together — into four species, and for bringing Greek negative (apophatic) theology into the Latin West
 
+**Responds to:** Pseudo-Dionysius and the Greek Christian Platonists he translated, who have no entry in this collection · **Answered by:** later Latin readers of his Dionysius translation, with no direct successor in this collection
+
 ## Biography
 
 Almost nothing is known of Eriugena's early life in Ireland, though his superb Greek — vanishingly rare in the ninth-century West — suggests an unusually good training. By about 845 he was at the court of the West Frankish king Charles the Bald, probably as head of the palace school, where he taught grammar and dialectic (the arts of language and argument basic to the medieval curriculum).

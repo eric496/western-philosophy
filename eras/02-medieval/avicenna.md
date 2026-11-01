@@ -9,6 +9,8 @@
 - **Tradition:** Islamic philosophy (*falsafa*) — the Arabic Aristotelian tradition inherited from al-Kindī and al-Fārābī, systematised with Neoplatonic elements.
 - **Known for:** The essence/existence distinction and proof of the Necessary Existent; the Flying Man argument; the *Canon of Medicine*.
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Averroes](averroes.md), [Maimonides](maimonides.md), [Duns Scotus](john-duns-scotus.md)
+
 ## Biography
 
 Ibn Sīnā — Avicenna in Latin — was born in 980 in Afshana, near Bukhara, then a flourishing city of the Samanid Empire. His autobiography (preserved by his student al-Jūzjānī) is a famous document of precocity: he had memorised the Qur'an by ten, mastered law, mathematics, and Indian arithmetic as a boy, and turned to medicine at sixteen — which he later called easy — and metaphysics, which was not. He tells how he read Aristotle's *Metaphysics* forty times without grasping its purpose until a chance purchase of al-Fārābī's commentary unlocked it, and how, still a teenager, he cured the Samanid emir Nūḥ ibn Manṣūr of an illness the court physicians could not treat, winning access to the royal library, whose catalogued rooms of Greek and Arabic science he devoured before it burned.

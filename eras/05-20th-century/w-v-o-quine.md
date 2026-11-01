@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy; logical empiricism's heir and internal critic
 - **Known for:** "Two Dogmas of Empiricism" and the naturalisation of epistemology — pulling philosophy down into science
 
+**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md) · **Answered by:** post-Quinean analytic philosophy, from Kripke onward — outside this repo's entries
+
 ## Biography
 
 Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in mathematical logic, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A travelling fellowship took him to Europe: he met Rudolf Carnap in Prague and sat in on the Vienna Circle — the logical positivists whose programme he admired, absorbed, and eventually subverted from within.

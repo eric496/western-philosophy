@@ -9,6 +9,8 @@
 - **Tradition:** Anti-Cartesian humanism; founder of the philosophy of history and an early theorist of culture
 - **Known for:** The principle *verum factum* — we can truly know only what we have made — applied to the "civil world" of nations: since humans made history, history can be known from inside, through language, myth, law, and custom. His *New Science* traces all nations through three ages — of gods, of heroes, of men — in cycles (*corsi e ricorsi*)
 
+**Responds to:** [Descartes](rene-descartes.md), [Francis Bacon](francis-bacon.md) · **Answered by:** [Marx](../04-19th-century/karl-marx.md)
+
 ## Biography
 
 Giambattista Vico was born in Naples in 1668, above his father's bookshop on the Via San Biagio dei Librai, the seventh of eight children. A childhood fall fractured his skull and left him, the doctors said, likely to die or grow up an idiot; he instead grew up, by his own account, with a melancholic temperament and a ferocious appetite for self-education. He attended Jesuit schools irregularly, read law at the University of Naples, and spent the years 1686–95 as a private tutor in a castle at Vatolla in the Cilento — his real university, where he worked through Latin poetry, Roman law, and the history of philosophy, and formed his lifelong heroes: Plato and Tacitus, and among the moderns Francis Bacon and Grotius (he later added the jurist Gravina as a fourth master).

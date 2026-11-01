@@ -9,6 +9,8 @@
 - **Tradition:** American pragmatism (with Peirce and James the third classical pragmatist)
 - **Known for:** Rebuilding philosophy around experience and inquiry — and turning that into the most influential philosophy of education and of democracy of his century
 
+**Responds to:** [Hegel](../04-19th-century/g-w-f-hegel.md), [Peirce](../04-19th-century/charles-sanders-peirce.md), [William James](../04-19th-century/william-james.md) · **Answered by:** Richard Rorty and later democratic and embodied-cognition theorists — outside this repo's entries
+
 ## Biography
 
 Dewey was born in Burlington, Vermont, in 1859, the year Darwin published *On the Origin of Species* — a coincidence he liked, since Darwin's rethinking of fixed species shaped his own rejection of fixed essences and eternal truths. After studying at the University of Vermont, he took his PhD at Johns Hopkins in 1884, in an intellectual atmosphere still dominated by German idealism; the young Dewey wrote as a Hegelian.

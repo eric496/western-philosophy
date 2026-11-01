@@ -9,6 +9,8 @@
 - **Movement / tradition:** German Idealism; founder of the first post-Kantian system
 - **Known for:** Deriving experience from the self-positing "I" of his *Wissenschaftslehre* ("Doctrine of Science") — the bridge from Kant to Hegel.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [Hegel](g-w-f-hegel.md), [Schopenhauer](arthur-schopenhauer.md)
+
 ## Biography
 
 Fichte was born in 1762 in the Saxon village of Rammenau, the son of a poor ribbon-weaver. His memory and intelligence caught the eye of a local nobleman, who paid for his schooling — an origin story Fichte never forgot, and one reason his philosophy always insists that the self is made by its own activity, not by its circumstances. He studied theology at Jena and Leipzig, then scraped a living as a private tutor.

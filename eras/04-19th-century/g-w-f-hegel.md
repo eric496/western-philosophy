@@ -9,6 +9,8 @@
 - **Movement / tradition:** German Idealism; the culmination of post-Kantian philosophy
 - **Known for:** The claim that reality, history, and mind are one self-developing whole, which comes to understand itself through conflict and reconciliation.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md)
+
 ## Biography
 
 Georg Wilhelm Friedrich Hegel was born in Stuttgart in 1770, the son of a revenue official in the Duchy of Württemberg. He studied at the Tübingen Seminary, a Protestant theological school, where his roommates and friends were the poet Friedrich Hölderlin and the young prodigy Friedrich Schelling. The three were enthusiastic about the French Revolution and are said to have planted a "tree of liberty"; Hegel carried that youthful hope — that freedom could become actual in the world — into his mature philosophy, though in a far more sober form.

@@ -6,6 +6,8 @@
 
 John Rawls (1921–2002), an American philosopher at Harvard, working in the Kantian and social-contract traditions, is known for *A Theory of Justice* (1971) and its account of “justice as fairness” — principles chosen behind a veil of ignorance, including equal basic liberties and the difference principle.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [MacIntyre](alasdair-macintyre.md)
+
 ## Biography
 
 John Bordley Rawls was born in Baltimore, Maryland, in 1921, the second of five sons in a comfortable, politically engaged family. His childhood was marked by losses biographers treat as formative: two younger brothers died of infections contracted, in each case, from Rawls himself — one of diphtheria, one of pneumonia — leaving him with a lasting awareness of how arbitrary fortune is. That no one deserves the accidents of birth that shape a life sits at the centre of his philosophy.

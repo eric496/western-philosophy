@@ -9,6 +9,8 @@
 - **Tradition:** Founder of modern mathematical logic and a founding figure of analytic philosophy and the philosophy of language.
 - **Known for:** The *Begriffsschrift* (1879) and modern predicate logic; the distinction between sense and reference; logicism — the attempt to found arithmetic on logic alone; and the paradox, discovered by Russell, that brought that project down at the moment of its completion.
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md), [Kant](../03-early-modern/immanuel-kant.md), [J. S. Mill](../04-19th-century/john-stuart-mill.md) · **Answered by:** [Russell](bertrand-russell.md), [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md)
+
 ## Biography
 
 Frege was born on 8 November 1848 in Wismar, then part of the Grand Duchy of Mecklenburg-Schwerin. His father ran a girls' school; both parents were devout Lutherans. Frege studied mathematics, physics, chemistry, and philosophy at Jena and then Göttingen, where he took his doctorate in mathematics in 1873. He returned to Jena as a lecturer in 1874 and remained there for over forty years, rising slowly — he was made an honorary ordinary professor only in 1896, and his salary was modest enough that he lived quietly and somewhat frugally.

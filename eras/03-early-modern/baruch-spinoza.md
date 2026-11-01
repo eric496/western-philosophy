@@ -6,6 +6,8 @@
 
 1632–1677 · Amsterdam and The Hague · Rationalist monism · Known for identifying God with Nature — *Deus sive Natura* — in a system with exactly one substance, from which everything follows by necessity.
 
+**Responds to:** [Descartes](rene-descartes.md), [Maimonides](../02-medieval/maimonides.md), [Hobbes](thomas-hobbes.md) · **Answered by:** [Hegel](../04-19th-century/g-w-f-hegel.md)
+
 ## Biography
 
 Baruch Spinoza — Bento in Portuguese, Benedictus in Latin, all forms of "blessed" — was born on 24 November 1632 in Amsterdam, to a family of Portuguese Jewish merchants who had fled the Inquisition for the comparatively tolerant Dutch Republic. Educated in Amsterdam's Jewish community schools in Hebrew, Torah, and Talmud, he was marked out as exceptionally gifted. He also encountered medieval Jewish rationalism — Maimonides above all — and the new Cartesian philosophy then sweeping Dutch universities: Descartes's questions about substance, God, and Scripture could not, for Spinoza, be contained within orthodox answers.

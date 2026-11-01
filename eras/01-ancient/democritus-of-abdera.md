@@ -9,6 +9,8 @@
 - **School/tradition:** Co-founder, with Leucippus, of ancient atomism
 - **Known for:** Explaining everything by atoms and the void — indivisible particles moving in empty space — and an ethics of *euthymia*, cheerful contentment, that earned him the nickname "the Laughing Philosopher"
 
+**Responds to:** [Parmenides](parmenides-of-elea.md), [Zeno of Elea](zeno-of-elea.md), [Empedocles](empedocles.md) · **Answered by:** [Epicurus](epicurus.md), [Pyrrho & the Skeptics](pyrrho-of-elis-and-the-skeptics.md)
+
 ## Biography
 
 Democritus was born in Abdera around 460 BCE — a younger contemporary of Socrates and older contemporary of Plato. He is a "Presocratic" only because his thought continues that project, not because he predates Socrates. Tradition describes him as wealthy, spending an inheritance on travel and study. The travel stories — Egypt, Persia, Babylon, even India in embroidered versions — follow the standard pattern of sage-biography and cannot be verified, but wide learning is consistent with the range of works attributed to him.

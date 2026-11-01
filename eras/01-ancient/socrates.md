@@ -9,6 +9,8 @@
 - **School/tradition:** No school and no writings; originator of the Socratic method, teacher of Plato
 - **Known for:** Elenchus, professed ignorance, the unexamined life, his trial
 
+**Responds to:** [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Plato](plato.md), [Diogenes & the Cynics](diogenes-of-sinope-and-the-cynics.md), [Zeno of Citium & the Stoics](zeno-of-citium-and-the-stoics.md)
+
 ## Biography
 
 Everything about Socrates must start with a warning: he wrote nothing. No treatise, no letter, no fragment in his own hand survives. Everything we know comes from other people — chiefly Plato, Xenophon, Aristophanes, and, at one remove, Aristotle — who disagreed about him. Reconstructing the historical man from these portraits is the famous **Socratic problem**, discussed below. The outline that follows is the broad scholarly consensus, but its details are less secure than for almost any other major philosopher.

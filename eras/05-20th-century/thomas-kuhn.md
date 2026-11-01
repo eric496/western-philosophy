@@ -6,6 +6,8 @@
 
 Thomas Kuhn (1922–1996), an American physicist turned historian and philosopher of science, is known for *The Structure of Scientific Revolutions* (1962) and its claims that science develops through paradigms, normal science, crises, and revolutionary shifts — not by steady accumulation of facts.
 
+**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Popper](karl-popper.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** later historians and sociologists of science — debate ongoing, no single entry in this repo
+
 ## Biography
 
 Thomas Samuel Kuhn was born in Cincinnati in 1922 and raised largely in New York. He studied physics at Harvard, completing his doctorate in 1949, and seemed set for a career as a physicist. The turn came as a graduate student, when he helped teach science to humanities undergraduates using historical cases. Reading Aristotle’s *Physics*, he at first found it bafflingly bad as failed Newtonian mechanics. Then it suddenly made sense on its own terms: Aristotle was not a bungling Newton; he was answering different questions with different concepts. That experience shaped everything he later wrote about scientists in different eras inhabiting different conceptual worlds.

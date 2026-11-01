@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy — one of its founders, alongside Frege, Moore, and Wittgenstein.
 - **Known for:** Russell's paradox, the theory of descriptions, and logicism — and, to the wider public, a century of lucid, controversial writing on religion, war, education, and politics.
 
+**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md)
+
 ## Biography
 
 Bertrand Russell was born on 18 May 1872 into the British aristocracy; his grandfather, Lord John Russell, had twice been Prime Minister. His radical parents — advocates of birth control and atheists — died young (1874 and 1876), and Russell was raised at Pembroke Lodge by his grandmother, Countess Russell, in strict Victorian piety he experienced as lonely and oppressive. Educated at home, he found two rescues: Euclid, discovered at eleven and experienced as dazzling as first love, and the secret loss of his religious faith in adolescence, recorded in a journal in Greek letters to hide it.

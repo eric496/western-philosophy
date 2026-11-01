@@ -9,6 +9,8 @@
 - **School/tradition:** Cynicism, founded in spirit by Antisthenes, a pupil of Socrates; Diogenes is its archetype
 - **Known for:** Living philosophy as public performance — needing almost nothing, flouting convention, and declaring himself a "citizen of the world."
 
+**Responds to:** [Socrates](socrates.md) · **Answered by:** [Zeno of Citium & the Stoics](zeno-of-citium-and-the-stoics.md)
+
 ## Biography
 
 The word Cynic comes from Greek *kynikos*, "dog-like" — a nickname the school embraced. Dogs, they pointed out, live without shame, eat and sleep where they find themselves, distinguish friend from enemy at a glance, and need no property. Whether the name came from that image or from Antisthenes teaching at Athens' Cynosarges gymnasium is debated; both stories circulated.

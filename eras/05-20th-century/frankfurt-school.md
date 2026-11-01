@@ -6,6 +6,8 @@
 
 **Lifespan:** Institute founded 1923 in Frankfurt; first generation active 1930s–1970s · **Place:** Frankfurt; exile in Geneva, New York, Los Angeles · **Tradition:** Western Marxism, critical theory · **Known for:** Asking why Enlightenment reason and mass culture produced domination instead of freedom — the dialectic of Enlightenment and the culture industry.
 
+**Responds to:** [Marx](../04-19th-century/karl-marx.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** later critical theorists and media scholars — debate ongoing
+
 ## Biography
 
 The Frankfurt School is an institution and a lineage: the Institute for Social Research, founded in Frankfurt in 1923 with an endowment from Felix Weil, who wanted Marxist scholarship with university standing. Its distinctive identity arrived with director Max Horkheimer (1895–1973, from 1930), who gathered Theodor W. Adorno (1903–1969) — philosopher, sociologist, trained composer — plus Erich Fromm, Franz Neumann, Friedrich Pollock, and, at its edges, Walter Benjamin, whose work it funded. Horkheimer's programme joined philosophy to empirical research in one inquiry into why societies hold together and emancipation stalls.

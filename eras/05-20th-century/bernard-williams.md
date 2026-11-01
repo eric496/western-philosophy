@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy in a humanist, historically minded key — the most formidable internal critic of systematic moral theory in late twentieth-century Anglophone philosophy.
 - **Known for:** Moral luck, the integrity objection to utilitarianism ("one thought too many"), internal reasons, and *Ethics and the Limits of Philosophy* (1985), his argument that moral theory itself distorts ethical life.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Nietzsche](../04-19th-century/friedrich-nietzsche.md) · **Answered by:** [Singer](peter-singer.md), [Parfit](derek-parfit.md)
+
 ## Biography
 
 Bernard Arthur Owen Williams was born in 1929 in Westcliff-on-Sea, Essex, the son of a civil servant. He won a scholarship to Chigwell School and then to Balliol College, Oxford, where he took a celebrated first in Greats (classics and philosophy) in 1951 after wartime-shadowed schooling and national service in the RAF, during which he learned to fly. He became a fellow of All Souls and then New College, held chairs at Cambridge and Oxford, and spent substantial periods at Berkeley, forming a transatlantic reputation unusual even for his generation.

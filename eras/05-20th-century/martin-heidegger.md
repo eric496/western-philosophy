@@ -5,6 +5,8 @@
 ## At a glance
 Martin Heidegger (1889–1976), born in Meßkirch, Germany, and based mainly at Freiburg. A philosopher in the phenomenological and hermeneutic tradition who reopened the question of Being. Known for *Being and Time* (1927), the analysis of human existence as *Dasein*, and a later, influential critique of modern technology.
 
+**Responds to:** [Husserl](edmund-husserl.md), [Nietzsche](../04-19th-century/friedrich-nietzsche.md) · **Answered by:** [Levinas](emmanuel-levinas.md), [Gadamer](hans-georg-gadamer.md), [Sartre](jean-paul-sartre.md)
+
 ## Biography
 
 Heidegger came from a modest Catholic family in rural southwestern Germany; his father was a cooper and church sexton. A church scholarship made his education possible. He entered a Jesuit novitiate in 1909 but left within weeks for health reasons, then studied theology and later philosophy at Freiburg, writing his habilitation on a grammatical treatise then attributed to Duns Scotus (the *Grammatica Speculativa*, now credited to Thomas of Erfurt). In 1917 he married Elfride Petri, a Lutheran. By 1919 he had broken publicly with what he called “the system of Catholicism” — though not, he insisted, with Christianity as such.

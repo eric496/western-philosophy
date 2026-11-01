@@ -9,6 +9,8 @@
 - **Tradition:** Utilitarian ethics — for most of his career a preference utilitarian, later defending a hedonistic utilitarianism.
 - **Known for:** The drowning-child argument for a demanding duty to aid the global poor, *Animal Liberation* (1975) and the modern animal rights movement, and as a founding influence on effective altruism — and for controversies that have followed several of his conclusions about the value of life.
 
+**Responds to:** [Sidgwick](../04-19th-century/henry-sidgwick.md), [Bernard Williams](bernard-williams.md) · **Answered by:** a generation of applied ethicists and effective altruists — debate ongoing
+
 ## Biography
 
 Peter Albert David Singer was born on 6 July 1946 in Melbourne, Australia. His parents were Austrian Jews who had fled Vienna after the Anschluss; three of his four grandparents died in the Holocaust. Singer has said that this family history — in particular, learning how ordinary people had stood by — lies behind his lifelong insistence that "I was only following my own concerns" is no excuse when one can prevent suffering at little cost.

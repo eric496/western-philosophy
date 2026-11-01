@@ -9,6 +9,8 @@
 - **Movement / tradition:** Christian existential thought; a precursor (retrospectively) of existentialism
 - **Known for:** Re-centring philosophy on the single existing individual — choice, anxiety, despair, and faith — against Hegel's system and Denmark's complacent state Christianity.
 
+**Responds to:** [Hegel](g-w-f-hegel.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md)
+
 ## Biography
 
 Søren Aabye Kierkegaard was born in Copenhagen in 1813, the youngest of seven children of Michael Pedersen Kierkegaard, a self-made wool merchant of fierce, melancholic pietism. The father believed a curse lay on the family: he had as a starving shepherd boy on the Jutland heath cursed God, and he outlived his wife and five of his children, reading their deaths as judgement. Søren grew up brilliant, frail, sharp-tongued, and haunted — the father's confession of that early "great earthquake" revelation shadowed the son's whole authorship, and something he called his "thorn in the flesh" (never identified with certainty: guesses range from illness to a sexual secret) convinced him he would not live long and could not marry.

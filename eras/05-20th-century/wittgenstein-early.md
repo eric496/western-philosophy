@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy, at its founding moment — logic, language, and the limits of thought.
 - **Known for:** The picture theory of meaning, and the claim that what cannot be said clearly must be passed over in silence — because the most important things lie beyond factual speech.
 
+**Responds to:** [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md)
+
 ## Biography
 
 Ludwig Wittgenstein was born on 26 April 1889 in Vienna, the youngest of eight children in one of the wealthiest families in the Austro-Hungarian Empire. His father Karl was a steel magnate; his mother Leopoldine was musical, and the family home was a centre of Viennese cultural life visited by Brahms and Mahler. The household was also intense and demanding. Three of Wittgenstein's brothers died by suicide, and Wittgenstein himself struggled with suicidal thoughts throughout his life. Any honest biography holds both parts together: immense privilege, and a severe, restless temperament that never let him settle comfortably inside it.

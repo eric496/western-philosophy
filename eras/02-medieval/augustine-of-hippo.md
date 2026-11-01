@@ -9,6 +9,8 @@
 - **Tradition:** Latin Christian, writing in the Roman North African church as the Western Empire collapsed around him.
 - **Known for:** Original sin and grace, the divided will, the two cities, and a philosophy of time and memory that still anchors modern discussions.
 
+**Responds to:** [Plato](../01-ancient/plato.md), [Plotinus](../01-ancient/plotinus.md) · **Answered by:** [Anselm](anselm-of-canterbury.md), [Thomas Aquinas](thomas-aquinas.md)
+
 ## Biography
 
 Augustine was born in 354 in Thagaste, a small town in Roman North Africa, to a pagan father (Patricius, who converted late) and a devout Christian mother, Monica, whose persistence runs through his story. He was a brilliant, ambitious student who disliked the beatings of the local school and loved Latin literature — Virgil above all. Sent to Carthage at seventeen to study rhetoric, the standard passport to a career, he took a concubine (a long-term partner he could not legally marry because of class), fathered a son, Adeodatus, and fell in with the Manichaeans, a dualist sect that promised rational answers about evil: the world, they said, is a battleground between a good God of light and an evil power of darkness, so God is not responsible for evil and neither, quite, are we. Augustine stayed a Manichaean "hearer" for about nine years.

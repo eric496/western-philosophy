@@ -9,6 +9,8 @@
 - **School/tradition:** Stoicism, named for the *Stoa Poikilē* (Painted Porch) where Zeno taught
 - **Known for:** A system of logic, physics, and ethics where virtue alone is good, the cosmos is governed by rational *logos*, and happiness is living in agreement with nature.
 
+**Responds to:** [Heraclitus](heraclitus-of-ephesus.md), [Socrates](socrates.md), [Diogenes & the Cynics](diogenes-of-sinope-and-the-cynics.md) · **Answered by:** [the Roman Stoics](roman-stoics.md), [Spinoza](../03-early-modern/baruch-spinoza.md)
+
 ## Biography
 
 Zeno of Citium, a Phoenician-Greek merchant from Cyprus, came to Athens — ancient biography tells of a shipwreck, a bookshop encounter with Socrates' life, and study under the Cynic Crates, whose self-sufficiency and contempt for convention marked him permanently. He also studied in Plato's Academy and learned logic from Megarian philosophers. Around c. 300 BCE he began teaching in the Painted Porch.

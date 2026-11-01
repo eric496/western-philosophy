@@ -6,6 +6,8 @@
 
 G. E. M. (Elizabeth) Anscombe (1919–2001) and Philippa Foot (1920–2010) were British philosophers in the analytic tradition, shaped by Aristotle, Aquinas, and Wittgenstein. They are known for reviving virtue ethics: Anscombe for *Intention* (1957) and “Modern Moral Philosophy” (1958), Foot for natural goodness and the trolley problem.
 
+**Responds to:** [Wittgenstein (late)](wittgenstein-late.md), [Aristotle](../01-ancient/aristotle.md), [Sidgwick](../04-19th-century/henry-sidgwick.md) · **Answered by:** [MacIntyre](alasdair-macintyre.md), [Thomson](judith-jarvis-thomson.md)
+
 ## Biography
 
 Gertrude Elizabeth Margaret Anscombe was born in Limerick, Ireland, in 1919 and educated at Oxford, where she converted to Catholicism as an undergraduate. She became one of Wittgenstein’s most important students, and later his translator and a literary executor; her translation of *Philosophical Investigations* (1953) shaped how the English-speaking world read him. She taught at Oxford and then, from 1970, as professor at Cambridge. She was a formidable controversialist: she publicly opposed Oxford’s honorary degree for President Harry Truman, arguing that dropping atomic bombs on cities was murder. Her monograph *Intention* (1957) was called by Donald Davidson the most important treatment of action since Aristotle.

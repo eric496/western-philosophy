@@ -9,6 +9,8 @@
 - **School/tradition:** Independent Ionian thinker; no school, and contemptuous of most predecessors
 - **Known for:** Universal flux ordered by the *Logos* — everything is in measured process, opposites are unified, and fire is the emblem of a world that changes according to law
 
+**Responds to:** [Thales of Miletus](thales-of-miletus.md), [Pythagoras](pythagoras.md) · **Answered by:** [Plato](plato.md), [Zeno of Citium & the Stoics](zeno-of-citium-and-the-stoics.md)
+
 ## Biography
 
 Heraclitus is the first Presocratic whose own words reach us in quantity — roughly a hundred-plus fragments, quoted by later authors — and he is still elusive. He came, by later tradition, from a leading Ephesian family, and is said to have surrendered a hereditary ceremonial office to his brother. The anecdotes around him are mostly hostile caricatures built from his own pronouncements: that he said the Ephesians deserved hanging for exiling his friend Hermodorus; that he withdrew to the mountains and died grotesquely treating an illness with cow dung. Diogenes Laertius, source for most of this, wrote seven centuries later. Read it as evidence for his reputation — the solitary, scornful sage, nicknamed "the Obscure" and "the Weeping Philosopher" — not as a reliable life.

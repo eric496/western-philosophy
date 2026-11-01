@@ -6,6 +6,8 @@
 
 **Lifespan:** 1926–1984 · **Place:** Poitiers and Paris; posts in Sweden, Poland, Tunisia, and the United States · **Tradition:** French philosophy, history of systems of thought · **Known for:** Showing that power produces knowledge, institutions, and kinds of people — not only represses — through discipline, surveillance, and biopolitics.
 
+**Responds to:** [Nietzsche](../04-19th-century/friedrich-nietzsche.md), [Bentham](../04-19th-century/jeremy-bentham.md) · **Answered by:** [Derrida](jacques-derrida.md)
+
 ## Biography
 
 Michel Foucault was born Paul-Michel Foucault in Poitiers in 1926, son of a prominent surgeon who expected him to enter medicine. He did not. A brilliant, unhappy schoolboy, he entered the École Normale Supérieure in Paris in 1946 to study philosophy and psychology. His student years were marked by severe depression and at least one suicide attempt — experiences later readers connect, without reducing the work to biography, to his enduring interest in how societies draw lines between reason and madness, normal and abnormal.

@@ -9,6 +9,8 @@
 - **School/tradition:** Epicureanism, founder of the Garden in Athens
 - **Known for:** A secular therapy for anxiety — pleasure rightly understood as freedom from pain and fear, grounded in an atomist physics with no divine intervention and nothing to fear in death.
 
+**Responds to:** [Democritus](democritus-of-abdera.md) · **Answered by:** Lucretius and the later Epicurean tradition (no entry in this repo)
+
 ## Biography
 
 Epicurus was born on the island of Samos in c. 341 BCE to Athenian parents. Tradition presents him as largely self-formed, though he encountered Democritean atomism, probably through Nausiphanes, and reacted against Plato's Academy and against popular religion. After teaching in Mytilene and Lampsacus, he bought a house and garden in Athens in c. 306 BCE and founded the community simply known as the Garden.
