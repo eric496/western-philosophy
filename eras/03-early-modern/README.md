@@ -54,6 +54,7 @@ SEP entries for Descartes (+life/works), Spinoza, Leibniz, Locke, Berkeley, Hume
 - [Émilie du Châtelet](emilie-du-chatelet.md)
 - [David Hume](david-hume.md)
 - [Jean-Jacques Rousseau](jean-jacques-rousseau.md)
+- [Denis Diderot](denis-diderot.md)
 - [Adam Smith](adam-smith.md)
 - [Immanuel Kant](immanuel-kant.md)
 - [Mary Wollstonecraft](mary-wollstonecraft.md)

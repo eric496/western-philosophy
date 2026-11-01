@@ -49,14 +49,17 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1706–1749 — Émilie du Châtelet** (Early Modern / Newtonian): Hypotheses, vis viva
 - **1711–1776 — Hume** (Early Modern / Empiricist): Induction, causation, is–ought
 - **1712–1778 — Rousseau** (Early Modern / Republican): General will, natural goodness
+- **1713–1784 — Diderot** (Early Modern / French Enlightenment): Encyclopédie, materialism
 - **1723–1790 — Adam Smith** (Early Modern / Moral Philosophy): Sympathy, impartial spectator
 - **1724–1804 — Kant** (Early Modern / Critical): Categories, categorical imperative
 - **1759–1797 — Mary Wollstonecraft** (Early Modern / Enlightenment Feminism): Rights of woman, education
 - **1748–1832 — Bentham** (19th c. / Utilitarian): Utility principle
 - **1762–1814 — Johann Gottlieb Fichte** (19th c. / German Idealist): Self-positing I, striving
 - **1770–1831 — Hegel** (19th c. / Absolute Idealist): Dialectic, recognition, Geist
+- **1775–1854 — Schelling** (19th c. / German Idealist): Naturphilosophie, identity philosophy
 - **1788–1860 — Schopenhauer** (19th c. / Pessimist): Will, suffering, compassion
 - **1798–1857 — Auguste Comte** (19th c. / Positivist): Law of three stages, positivism
+- **1803–1882 / 1817–1862 — Emerson & Thoreau** (19th c. / American Transcendentalism): Self-reliance, civil disobedience
 - **1805–1859 — Alexis de Tocqueville** (19th c. / Political Theory): Tyranny of the majority, soft despotism
 - **1806–1873 — Mill** (19th c. / Liberal Utilitarian): Harm principle
 - **1807–1858 — Harriet Taylor Mill** (19th c. / Liberal Feminist): Enfranchisement of women
@@ -87,10 +90,12 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1909–1943 — Simone Weil** (20th c. / French Philosophy): Attention, affliction (malheur)
 - **1908–1961 — Maurice Merleau-Ponty** (20th c. / Phenomenology): Embodied perception, body-subject
 - **1908–2000 — Quine** (20th c. / Analytic Naturalist): Web of belief, two dogmas
+- **1913–2005 — Paul Ricoeur** (20th c. / Hermeneutics): Narrative identity, idem/ipse
 - **1903–1969 — Adorno** (20th c. / Frankfurt School): Culture industry, negative dialectics
 - **1895–1973 — Horkheimer** (20th c. / Frankfurt School): Critical vs traditional theory
 - **b. 1929 — Habermas** (20th–21st c. / Frankfurt II): Communicative action, public sphere
 - **1919–2001 / 1920–2010 — Anscombe & Foot** (20th c. / Virtue Ethics): Intention, natural goodness, tram problem
+- **1919–1999 — Iris Murdoch** (20th c. / Moral Philosophy): Attention, unselfing, the Good
 - **1921–2002 — Rawls** (20th c. / Political Liberal): Veil of ignorance, difference principle
 - **1926–1984 — Foucault** (20th c. / Genealogist): Power/knowledge, discipline
 - **1929–2025 — Alasdair MacIntyre** (20th c. / Virtue Ethics): Practices, narrative, tradition
@@ -99,4 +104,5 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1930–2004 — Derrida** (20th c. / Deconstruction): Différance, binary oppositions
 - **1942–2017 — Derek Parfit** (20th c. / Ethics): Identity not what matters, non-identity problem
 - **b. 1946 — Peter Singer** (Contemporary / Utilitarian): Speciesism, drowning child
+- **b. 1947 — Martha Nussbaum** (20th c. / Ethics & Political Philosophy): Capabilities approach, emotions as judgments
 - **1923– — (School entry) Frankfurt School** (20th c. / Critical Theory): Instrumental reason, emancipation

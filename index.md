@@ -1,4 +1,4 @@
-# Master Index — All 98 Figures
+# Master Index — All 104 Figures
 
 Every key figure in one table: dates, era/school, signature concept, and the first work to read. Figures with a standalone entry file are linked from their era overview in `eras/`; grouped figures (e.g. the Roman Stoics) share an entry. See `philosophers/README.md` for an alphabetical list of the entry files.
 
@@ -51,54 +51,60 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 45 | Émilie du Châtelet | 1706–1749 | Early Modern / Newtonian | Hypotheses, vis viva | *Institutions de Physique* (excerpts) |
 | 46 | Hume | 1711–1776 | Early Modern / Empiricist | Induction, causation, is–ought | *Enquiry* (1748) |
 | 47 | Rousseau | 1712–1778 | Early Modern / Republican | General will, natural goodness | *Social Contract* Bk I |
-| 48 | Adam Smith | 1723–1790 | Early Modern / Moral Philosophy | Sympathy, impartial spectator | *Theory of Moral Sentiments* |
-| 49 | Kant | 1724–1804 | Early Modern / Critical | Categories, categorical imperative | *Groundwork*; *Prolegomena* |
-| 50 | Mary Wollstonecraft | 1759–1797 | Early Modern / Enlightenment Feminism | Rights of woman, education | *A Vindication of the Rights of Woman* |
-| 51 | Bentham | 1748–1832 | 19th c. / Utilitarian | Utility principle | *Principles* excerpts |
-| 52 | Johann Gottlieb Fichte | 1762–1814 | 19th c. / German Idealist | Self-positing I, striving | *The Vocation of Man* |
-| 53 | Hegel | 1770–1831 | 19th c. / Absolute Idealist | Dialectic, recognition, Geist | *Phenomenology* Preface (guided) |
-| 54 | Schopenhauer | 1788–1860 | 19th c. / Pessimist | Will, suffering, compassion | *World as Will* excerpts |
-| 55 | Auguste Comte | 1798–1857 | 19th c. / Positivist | Law of three stages, positivism | *Course of Positive Philosophy* (excerpts) |
-| 56 | Alexis de Tocqueville | 1805–1859 | 19th c. / Political Theory | Tyranny of the majority, soft despotism | *Democracy in America* (selections) |
-| 57 | Mill | 1806–1873 | 19th c. / Liberal Utilitarian | Harm principle | *On Liberty* |
-| 58 | Harriet Taylor Mill | 1807–1858 | 19th c. / Liberal Feminist | Enfranchisement of women | "The Enfranchisement of Women" (1851) |
-| 59 | Kierkegaard | 1813–1855 | 19th c. / Proto-existentialist | Stages, anxiety, subjective truth | *Fear and Trembling* (guided) |
-| 60 | Marx | 1818–1883 | 19th c. / Historical Materialist | Alienation, surplus value, ideology | *1844 Manuscripts*; *Manifesto* |
-| 61 | Franz Brentano | 1838–1917 | 19th c. / Descriptive Psychology | Intentionality | *Psychology from an Empirical Standpoint* (1874) |
-| 62 | Henry Sidgwick | 1838–1900 | 19th c. / Utilitarian | Methods of ethics, dualism of practical reason | *The Methods of Ethics* |
-| 63 | Peirce | 1839–1914 | 19th c. / Pragmatist | Pragmatic maxim | "How to Make Our Ideas Clear" |
-| 64 | James | 1842–1910 | 19th–20th c. / Pragmatist | Truth as verified, will to believe | *Pragmatism* lectures |
-| 65 | Nietzsche | 1844–1900 | 19th c. / Genealogist | God is dead, slave morality, recurrence | *Genealogy of Morals* |
-| 66 | Frege | 1848–1925 | 20th c. / Logic | Sense/reference, predicate logic | *Foundations of Arithmetic* |
-| 67 | John Dewey | 1859–1952 | 20th c. / Pragmatist | Inquiry, education as growth | *Democracy and Education* |
-| 68 | Husserl | 1859–1938 | 20th c. / Phenomenologist | Intentionality, lifeworld | *Cartesian Meditations* excerpts |
-| 69 | Henri Bergson | 1859–1941 | 20th c. / French Philosophy | Duration, intuition, élan vital | *Creative Evolution* |
-| 70 | Russell | 1872–1970 | 20th c. / Analytic | Descriptions, logical atomism | *Problems of Philosophy* |
-| 71 | G. E. Moore | 1873–1958 | 20th c. / Analytic | Open-question argument, common sense | *Principia Ethica* (selections) |
-| 72 | Wittgenstein | 1889–1951 | 20th c. / Analytic | Picture theory → language-games | *Investigations* §§1–65 |
-| 73 | Heidegger | 1889–1976 | 20th c. / Continental | Being, Dasein, authenticity | Secondary + excerpts first |
-| 74 | Gilbert Ryle | 1900–1976 | 20th c. / Analytic | Category mistakes, knowing-how | *The Concept of Mind* |
-| 75 | Hans-Georg Gadamer | 1900–2002 | 20th c. / Hermeneutics | Fusion of horizons, prejudice | *Truth and Method* (selections) |
-| 76 | Popper | 1902–1994 | 20th c. / Phil. of Science | Falsifiability, open society | *Conjectures and Refutations* |
-| 77 | Thomas Kuhn | 1922–1996 | 20th c. / Philosophy of Science | Paradigms, scientific revolutions | *The Structure of Scientific Revolutions* |
-| 78 | (School entry) Vienna Circle | 1924–1936 | 20th c. / Logical Positivism | Verification principle | Ayer, *Language, Truth and Logic* |
-| 79 | Sartre | 1905–1980 | 20th c. / Existentialist | Bad faith, radical freedom | *Existentialism Is a Humanism* |
-| 80 | Arendt | 1906–1975 | 20th c. / Political Theory | Action, banality of evil | *Human Condition* excerpts |
-| 81 | Emmanuel Levinas | 1906–1995 | 20th c. / Ethics & Phenomenology | The Face, ethics as first philosophy | *Totality and Infinity* (selections) |
-| 82 | Beauvoir | 1908–1986 | 20th c. / Existential Feminist | The Other, situated freedom | *Second Sex*, Introduction |
-| 83 | Simone Weil | 1909–1943 | 20th c. / French Philosophy | Attention, affliction (malheur) | *Gravity and Grace* |
-| 84 | Maurice Merleau-Ponty | 1908–1961 | 20th c. / Phenomenology | Embodied perception, body-subject | *Phenomenology of Perception* (selections) |
-| 85 | Quine | 1908–2000 | 20th c. / Analytic Naturalist | Web of belief, two dogmas | "Two Dogmas" (1951) |
-| 86 | Adorno | 1903–1969 | 20th c. / Frankfurt School | Culture industry, negative dialectics | *Minima Moralia* (selections) |
-| 87 | Horkheimer | 1895–1973 | 20th c. / Frankfurt School | Critical vs traditional theory | "Traditional and Critical Theory" |
-| 88 | Habermas | b. 1929 | 20th–21st c. / Frankfurt II | Communicative action, public sphere | *Public Sphere* excerpts |
-| 89 | Anscombe & Foot | 1919–2001 / 1920–2010 | 20th c. / Virtue Ethics | Intention, natural goodness, tram problem | Anscombe, "Modern Moral Philosophy" (1958) |
-| 90 | Rawls | 1921–2002 | 20th c. / Political Liberal | Veil of ignorance, difference principle | *Theory of Justice* §§1–4 |
-| 91 | Foucault | 1926–1984 | 20th c. / Genealogist | Power/knowledge, discipline | *Discipline and Punish* Pt III |
-| 92 | Alasdair MacIntyre | 1929–2025 | 20th c. / Virtue Ethics | Practices, narrative, tradition | *After Virtue* |
-| 93 | Bernard Williams | 1929–2003 | 20th c. / Ethics | Moral luck, integrity, internal reasons | *Ethics and the Limits of Philosophy* |
-| 94 | Judith Jarvis Thomson | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
-| 95 | Derrida | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
-| 96 | Derek Parfit | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
-| 97 | Peter Singer | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
-| 98 | (School entry) Frankfurt School | 1923– | 20th c. / Critical Theory | Instrumental reason, emancipation | See Adorno / Horkheimer / Habermas |
+| 48 | Diderot | 1713–1784 | Early Modern / French Enlightenment | Encyclopédie, materialism | *Rameau's Nephew* |
+| 49 | Adam Smith | 1723–1790 | Early Modern / Moral Philosophy | Sympathy, impartial spectator | *Theory of Moral Sentiments* |
+| 50 | Kant | 1724–1804 | Early Modern / Critical | Categories, categorical imperative | *Groundwork*; *Prolegomena* |
+| 51 | Mary Wollstonecraft | 1759–1797 | Early Modern / Enlightenment Feminism | Rights of woman, education | *A Vindication of the Rights of Woman* |
+| 52 | Bentham | 1748–1832 | 19th c. / Utilitarian | Utility principle | *Principles* excerpts |
+| 53 | Johann Gottlieb Fichte | 1762–1814 | 19th c. / German Idealist | Self-positing I, striving | *The Vocation of Man* |
+| 54 | Hegel | 1770–1831 | 19th c. / Absolute Idealist | Dialectic, recognition, Geist | *Phenomenology* Preface (guided) |
+| 55 | Schelling | 1775–1854 | 19th c. / German Idealist | Naturphilosophie, identity philosophy | *Philosophical Investigations into the Essence of Human Freedom* |
+| 56 | Schopenhauer | 1788–1860 | 19th c. / Pessimist | Will, suffering, compassion | *World as Will* excerpts |
+| 57 | Auguste Comte | 1798–1857 | 19th c. / Positivist | Law of three stages, positivism | *Course of Positive Philosophy* (excerpts) |
+| 58 | Emerson & Thoreau | 1803–1882 / 1817–1862 | 19th c. / American Transcendentalism | Self-reliance, civil disobedience | Emerson, "Self-Reliance"; Thoreau, *Walden* (selections) |
+| 59 | Alexis de Tocqueville | 1805–1859 | 19th c. / Political Theory | Tyranny of the majority, soft despotism | *Democracy in America* (selections) |
+| 60 | Mill | 1806–1873 | 19th c. / Liberal Utilitarian | Harm principle | *On Liberty* |
+| 61 | Harriet Taylor Mill | 1807–1858 | 19th c. / Liberal Feminist | Enfranchisement of women | "The Enfranchisement of Women" (1851) |
+| 62 | Kierkegaard | 1813–1855 | 19th c. / Proto-existentialist | Stages, anxiety, subjective truth | *Fear and Trembling* (guided) |
+| 63 | Marx | 1818–1883 | 19th c. / Historical Materialist | Alienation, surplus value, ideology | *1844 Manuscripts*; *Manifesto* |
+| 64 | Franz Brentano | 1838–1917 | 19th c. / Descriptive Psychology | Intentionality | *Psychology from an Empirical Standpoint* (1874) |
+| 65 | Henry Sidgwick | 1838–1900 | 19th c. / Utilitarian | Methods of ethics, dualism of practical reason | *The Methods of Ethics* |
+| 66 | Peirce | 1839–1914 | 19th c. / Pragmatist | Pragmatic maxim | "How to Make Our Ideas Clear" |
+| 67 | James | 1842–1910 | 19th–20th c. / Pragmatist | Truth as verified, will to believe | *Pragmatism* lectures |
+| 68 | Nietzsche | 1844–1900 | 19th c. / Genealogist | God is dead, slave morality, recurrence | *Genealogy of Morals* |
+| 69 | Frege | 1848–1925 | 20th c. / Logic | Sense/reference, predicate logic | *Foundations of Arithmetic* |
+| 70 | John Dewey | 1859–1952 | 20th c. / Pragmatist | Inquiry, education as growth | *Democracy and Education* |
+| 71 | Husserl | 1859–1938 | 20th c. / Phenomenologist | Intentionality, lifeworld | *Cartesian Meditations* excerpts |
+| 72 | Henri Bergson | 1859–1941 | 20th c. / French Philosophy | Duration, intuition, élan vital | *Creative Evolution* |
+| 73 | Russell | 1872–1970 | 20th c. / Analytic | Descriptions, logical atomism | *Problems of Philosophy* |
+| 74 | G. E. Moore | 1873–1958 | 20th c. / Analytic | Open-question argument, common sense | *Principia Ethica* (selections) |
+| 75 | Wittgenstein | 1889–1951 | 20th c. / Analytic | Picture theory → language-games | *Investigations* §§1–65 |
+| 76 | Heidegger | 1889–1976 | 20th c. / Continental | Being, Dasein, authenticity | Secondary + excerpts first |
+| 77 | Gilbert Ryle | 1900–1976 | 20th c. / Analytic | Category mistakes, knowing-how | *The Concept of Mind* |
+| 78 | Hans-Georg Gadamer | 1900–2002 | 20th c. / Hermeneutics | Fusion of horizons, prejudice | *Truth and Method* (selections) |
+| 79 | Popper | 1902–1994 | 20th c. / Phil. of Science | Falsifiability, open society | *Conjectures and Refutations* |
+| 80 | Thomas Kuhn | 1922–1996 | 20th c. / Philosophy of Science | Paradigms, scientific revolutions | *The Structure of Scientific Revolutions* |
+| 81 | (School entry) Vienna Circle | 1924–1936 | 20th c. / Logical Positivism | Verification principle | Ayer, *Language, Truth and Logic* |
+| 82 | Sartre | 1905–1980 | 20th c. / Existentialist | Bad faith, radical freedom | *Existentialism Is a Humanism* |
+| 83 | Arendt | 1906–1975 | 20th c. / Political Theory | Action, banality of evil | *Human Condition* excerpts |
+| 84 | Emmanuel Levinas | 1906–1995 | 20th c. / Ethics & Phenomenology | The Face, ethics as first philosophy | *Totality and Infinity* (selections) |
+| 85 | Beauvoir | 1908–1986 | 20th c. / Existential Feminist | The Other, situated freedom | *Second Sex*, Introduction |
+| 86 | Simone Weil | 1909–1943 | 20th c. / French Philosophy | Attention, affliction (malheur) | *Gravity and Grace* |
+| 87 | Maurice Merleau-Ponty | 1908–1961 | 20th c. / Phenomenology | Embodied perception, body-subject | *Phenomenology of Perception* (selections) |
+| 88 | Quine | 1908–2000 | 20th c. / Analytic Naturalist | Web of belief, two dogmas | "Two Dogmas" (1951) |
+| 89 | Paul Ricoeur | 1913–2005 | 20th c. / Hermeneutics | Narrative identity, idem/ipse | *Oneself as Another* (selections) |
+| 90 | Adorno | 1903–1969 | 20th c. / Frankfurt School | Culture industry, negative dialectics | *Minima Moralia* (selections) |
+| 91 | Horkheimer | 1895–1973 | 20th c. / Frankfurt School | Critical vs traditional theory | "Traditional and Critical Theory" |
+| 92 | Habermas | b. 1929 | 20th–21st c. / Frankfurt II | Communicative action, public sphere | *Public Sphere* excerpts |
+| 93 | Anscombe & Foot | 1919–2001 / 1920–2010 | 20th c. / Virtue Ethics | Intention, natural goodness, tram problem | Anscombe, "Modern Moral Philosophy" (1958) |
+| 94 | Iris Murdoch | 1919–1999 | 20th c. / Moral Philosophy | Attention, unselfing, the Good | *The Sovereignty of Good* |
+| 95 | Rawls | 1921–2002 | 20th c. / Political Liberal | Veil of ignorance, difference principle | *Theory of Justice* §§1–4 |
+| 96 | Foucault | 1926–1984 | 20th c. / Genealogist | Power/knowledge, discipline | *Discipline and Punish* Pt III |
+| 97 | Alasdair MacIntyre | 1929–2025 | 20th c. / Virtue Ethics | Practices, narrative, tradition | *After Virtue* |
+| 98 | Bernard Williams | 1929–2003 | 20th c. / Ethics | Moral luck, integrity, internal reasons | *Ethics and the Limits of Philosophy* |
+| 99 | Judith Jarvis Thomson | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
+| 100 | Derrida | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
+| 101 | Derek Parfit | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
+| 102 | Peter Singer | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
+| 103 | Martha Nussbaum | b. 1947 | 20th c. / Ethics & Political Philosophy | Capabilities approach, emotions as judgments | *The Fragility of Goodness*; *Creating Capabilities* |
+| 104 | (School entry) Frankfurt School | 1923– | 20th c. / Critical Theory | Instrumental reason, emancipation | See Adorno / Horkheimer / Habermas |

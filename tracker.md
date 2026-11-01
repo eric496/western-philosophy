@@ -49,14 +49,17 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Émilie du Châtelet** (1706–1749) — Hypotheses, vis viva
 - [ ] **Hume** (1711–1776) — Induction, causation, is–ought
 - [ ] **Rousseau** (1712–1778) — General will, natural goodness
+- [ ] **Diderot** (1713–1784) — Encyclopédie, materialism
 - [ ] **Adam Smith** (1723–1790) — Sympathy, impartial spectator
 - [ ] **Kant** (1724–1804) — Categories, categorical imperative
 - [ ] **Mary Wollstonecraft** (1759–1797) — Rights of woman, education
 - [ ] **Bentham** (1748–1832) — Utility principle
 - [ ] **Johann Gottlieb Fichte** (1762–1814) — Self-positing I, striving
 - [ ] **Hegel** (1770–1831) — Dialectic, recognition, Geist
+- [ ] **Schelling** (1775–1854) — Naturphilosophie, identity philosophy
 - [ ] **Schopenhauer** (1788–1860) — Will, suffering, compassion
 - [ ] **Auguste Comte** (1798–1857) — Law of three stages, positivism
+- [ ] **Emerson & Thoreau** (1803–1882 / 1817–1862) — Self-reliance, civil disobedience
 - [ ] **Alexis de Tocqueville** (1805–1859) — Tyranny of the majority, soft despotism
 - [ ] **Mill** (1806–1873) — Harm principle
 - [ ] **Harriet Taylor Mill** (1807–1858) — Enfranchisement of women
@@ -87,10 +90,12 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Simone Weil** (1909–1943) — Attention, affliction (malheur)
 - [ ] **Maurice Merleau-Ponty** (1908–1961) — Embodied perception, body-subject
 - [ ] **Quine** (1908–2000) — Web of belief, two dogmas
+- [ ] **Paul Ricoeur** (1913–2005) — Narrative identity, idem/ipse
 - [ ] **Adorno** (1903–1969) — Culture industry, negative dialectics
 - [ ] **Horkheimer** (1895–1973) — Critical vs traditional theory
 - [ ] **Habermas** (b. 1929) — Communicative action, public sphere
 - [ ] **Anscombe & Foot** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
+- [ ] **Iris Murdoch** (1919–1999) — Attention, unselfing, the Good
 - [ ] **Rawls** (1921–2002) — Veil of ignorance, difference principle
 - [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
 - [ ] **Alasdair MacIntyre** (1929–2025) — Practices, narrative, tradition
@@ -99,4 +104,5 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Derrida** (1930–2004) — Différance, binary oppositions
 - [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
 - [ ] **Peter Singer** (b. 1946) — Speciesism, drowning child
+- [ ] **Martha Nussbaum** (b. 1947) — Capabilities approach, emotions as judgments
 - [ ] **(School entry) Frankfurt School** (1923–) — Instrumental reason, emancipation
