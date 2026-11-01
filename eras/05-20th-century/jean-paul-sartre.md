@@ -91,5 +91,7 @@ The coherence of radical freedom is the perennial objection: if situation genuin
 3. *Nausea* — the feel of contingency that the concepts formalise.
 4. Selections from *Being and Nothingness* on bad faith and freedom, ideally with a commentary; save the *Critique* for a later, Marx-focused pass.
 
+**Study guide:** [*Existentialism Is a Humanism* and *Being and Nothingness* (selections) — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/sartre-existentialism.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
