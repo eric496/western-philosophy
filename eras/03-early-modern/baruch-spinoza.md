@@ -96,5 +96,7 @@ Other debates: whether necessitarianism can accommodate an ethics of striving �
 3. *Theological-Political Treatise*, chapters 16–20 — political philosophy and the defence of freedom to philosophise.
 4. *Ethics* Part II and Part V, with commentary — parallelism first, then freedom and the intellectual love of God.
 
+**Study guide:** [*Ethics* Part I — proposition-by-proposition guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/spinoza-ethics-part1.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -78,5 +78,7 @@ Critics from several directions have pressed *The Second Sex*. Some argue Beauvo
 3. Then Volume I’s chapters on myth and history, or Volume II on childhood and the married woman, according to interest.
 4. *Memoirs of a Dutiful Daughter* alongside, for the formation behind the philosophy — read, as all memoirs should be, as an account rather than a transcript.
 
+**Study guide:** [*The Second Sex* Introduction and Volume II opening — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/beauvoir-second-sex.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

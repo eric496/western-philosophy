@@ -85,5 +85,7 @@ The debates remain live and should be read as debates, not verdicts. Libertarian
 2. *A Theory of Justice*, §§1–4, 11–13, and 24 — the original position and two principles in the classic text, once the Restatement has given you the map.
 3. Nozick, *Anarchy, State, and Utopia*, selections — the great rival; reading Rawls against Nozick is the fastest way to see what is at stake.
 
+**Study guide:** [*A Theory of Justice* §§1–4 and the difference principle — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/rawls-theory-of-justice.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

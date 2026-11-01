@@ -81,4 +81,6 @@ Contemporaries charged atheism, reduction of morality to self-interest, and excu
 3. *De Cive*, Preface and chapters 1–3 — a shorter restatement.
 4. *Leviathan*, chapters 21 and 29 — liberty of subjects, and how commonwealths dissolve.
 
+**Study guide:** [*Leviathan* chapters 13–17 and following — chapter-by-chapter guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/hobbes-leviathan.md).
+
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
