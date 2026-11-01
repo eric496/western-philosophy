@@ -57,6 +57,7 @@ SEP entries for Descartes (+life/works), Spinoza, Leibniz, Locke, Berkeley, Hume
 - [Denis Diderot](denis-diderot.md)
 - [Adam Smith](adam-smith.md)
 - [Immanuel Kant](immanuel-kant.md)
+- [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md)
 - [Mary Wollstonecraft](mary-wollstonecraft.md)
 
 ---
