@@ -52,9 +52,11 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1713–1784 — Diderot** (Early Modern / French Enlightenment): Encyclopédie, materialism
 - **1723–1790 — Adam Smith** (Early Modern / Moral Philosophy): Sympathy, impartial spectator
 - **1724–1804 — Kant** (Early Modern / Critical): Categories, categorical imperative
+- **1729–1781 — Lessing** (Early Modern / German Enlightenment): Ring parable, "ugly broad ditch", Laocoön
 - **1759–1797 — Mary Wollstonecraft** (Early Modern / Enlightenment Feminism): Rights of woman, education
 - **1748–1832 — Bentham** (19th c. / Utilitarian): Utility principle
 - **1762–1814 — Johann Gottlieb Fichte** (19th c. / German Idealist): Self-positing I, striving
+- **1768–1834 — Schleiermacher** (19th c. / Hermeneutics & Romanticism): Hermeneutics, feeling of absolute dependence
 - **1770–1831 — Hegel** (19th c. / Absolute Idealist): Dialectic, recognition, Geist
 - **1775–1854 — Schelling** (19th c. / German Idealist): Naturphilosophie, identity philosophy
 - **1788–1860 — Schopenhauer** (19th c. / Pessimist): Will, suffering, compassion
@@ -74,10 +76,14 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1859–1952 — John Dewey** (20th c. / Pragmatist): Inquiry, education as growth
 - **1859–1938 — Husserl** (20th c. / Phenomenologist): Intentionality, lifeworld
 - **1859–1941 — Henri Bergson** (20th c. / French Philosophy): Duration, intuition, élan vital
+- **1861–1947 — Alfred North Whitehead** (20th c. / Process Philosophy): Actual occasions, prehension, misplaced concreteness
 - **1872–1970 — Russell** (20th c. / Analytic): Descriptions, logical atomism
 - **1873–1958 — G. E. Moore** (20th c. / Analytic): Open-question argument, common sense
+- **1883–1969 — Karl Jaspers** (20th c. / Existential Philosophy): Boundary situations, the Encompassing, Axial Age
 - **1889–1951 — Wittgenstein** (20th c. / Analytic): Picture theory → language-games
 - **1889–1976 — Heidegger** (20th c. / Continental): Being, Dasein, authenticity
+- **1895–1985 — Susanne Langer** (20th c. / Philosophy of Art & Mind): Presentational symbols, feeling and form
+- **1899–1973 — Leo Strauss** (20th c. / Political Philosophy): Esoteric writing, ancients vs moderns
 - **1900–1976 — Gilbert Ryle** (20th c. / Analytic): Category mistakes, knowing-how
 - **1900–2002 — Hans-Georg Gadamer** (20th c. / Hermeneutics): Fusion of horizons, prejudice
 - **1902–1994 — Popper** (20th c. / Phil. of Science): Falsifiability, open society
@@ -96,12 +102,14 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **b. 1929 — Habermas** (20th–21st c. / Frankfurt II): Communicative action, public sphere
 - **1919–2001 / 1920–2010 — Anscombe & Foot** (20th c. / Virtue Ethics): Intention, natural goodness, tram problem
 - **1919–1999 — Iris Murdoch** (20th c. / Moral Philosophy): Attention, unselfing, the Good
+- **1919–2018 — Mary Midgley** (20th c. / Moral Philosophy): Human nature, anti-reductionism
 - **1921–2002 — Rawls** (20th c. / Political Liberal): Veil of ignorance, difference principle
 - **1926–1984 — Foucault** (20th c. / Genealogist): Power/knowledge, discipline
 - **1929–2025 — Alasdair MacIntyre** (20th c. / Virtue Ethics): Practices, narrative, tradition
 - **1929–2003 — Bernard Williams** (20th c. / Ethics): Moral luck, integrity, internal reasons
 - **1929–2020 — Judith Jarvis Thomson** (20th c. / Ethics & Rights): Violinist argument, trolley problem
 - **1930–2004 — Derrida** (20th c. / Deconstruction): Différance, binary oppositions
+- **1931–2023 — Hannah Pitkin** (20th c. / Political Theory): The concept of representation
 - **1942–2017 — Derek Parfit** (20th c. / Ethics): Identity not what matters, non-identity problem
 - **b. 1946 — Peter Singer** (Contemporary / Utilitarian): Speciesism, drowning child
 - **b. 1947 — Martha Nussbaum** (20th c. / Ethics & Political Philosophy): Capabilities approach, emotions as judgments

@@ -52,9 +52,11 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Diderot** (1713–1784) — Encyclopédie, materialism
 - [ ] **Adam Smith** (1723–1790) — Sympathy, impartial spectator
 - [ ] **Kant** (1724–1804) — Categories, categorical imperative
+- [ ] **Lessing** (1729–1781) — Ring parable, "ugly broad ditch", Laocoön
 - [ ] **Mary Wollstonecraft** (1759–1797) — Rights of woman, education
 - [ ] **Bentham** (1748–1832) — Utility principle
 - [ ] **Johann Gottlieb Fichte** (1762–1814) — Self-positing I, striving
+- [ ] **Schleiermacher** (1768–1834) — Hermeneutics, feeling of absolute dependence
 - [ ] **Hegel** (1770–1831) — Dialectic, recognition, Geist
 - [ ] **Schelling** (1775–1854) — Naturphilosophie, identity philosophy
 - [ ] **Schopenhauer** (1788–1860) — Will, suffering, compassion
@@ -74,10 +76,14 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **John Dewey** (1859–1952) — Inquiry, education as growth
 - [ ] **Husserl** (1859–1938) — Intentionality, lifeworld
 - [ ] **Henri Bergson** (1859–1941) — Duration, intuition, élan vital
+- [ ] **Alfred North Whitehead** (1861–1947) — Actual occasions, prehension, misplaced concreteness
 - [ ] **Russell** (1872–1970) — Descriptions, logical atomism
 - [ ] **G. E. Moore** (1873–1958) — Open-question argument, common sense
+- [ ] **Karl Jaspers** (1883–1969) — Boundary situations, the Encompassing, Axial Age
 - [ ] **Wittgenstein** (1889–1951) — Picture theory → language-games
 - [ ] **Heidegger** (1889–1976) — Being, Dasein, authenticity
+- [ ] **Susanne Langer** (1895–1985) — Presentational symbols, feeling and form
+- [ ] **Leo Strauss** (1899–1973) — Esoteric writing, ancients vs moderns
 - [ ] **Gilbert Ryle** (1900–1976) — Category mistakes, knowing-how
 - [ ] **Hans-Georg Gadamer** (1900–2002) — Fusion of horizons, prejudice
 - [ ] **Popper** (1902–1994) — Falsifiability, open society
@@ -96,12 +102,14 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Habermas** (b. 1929) — Communicative action, public sphere
 - [ ] **Anscombe & Foot** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
 - [ ] **Iris Murdoch** (1919–1999) — Attention, unselfing, the Good
+- [ ] **Mary Midgley** (1919–2018) — Human nature, anti-reductionism
 - [ ] **Rawls** (1921–2002) — Veil of ignorance, difference principle
 - [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
 - [ ] **Alasdair MacIntyre** (1929–2025) — Practices, narrative, tradition
 - [ ] **Bernard Williams** (1929–2003) — Moral luck, integrity, internal reasons
 - [ ] **Judith Jarvis Thomson** (1929–2020) — Violinist argument, trolley problem
 - [ ] **Derrida** (1930–2004) — Différance, binary oppositions
+- [ ] **Hannah Pitkin** (1931–2023) — The concept of representation
 - [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
 - [ ] **Peter Singer** (b. 1946) — Speciesism, drowning child
 - [ ] **Martha Nussbaum** (b. 1947) — Capabilities approach, emotions as judgments

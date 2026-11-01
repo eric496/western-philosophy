@@ -23,4 +23,24 @@ Work-level guides to read alongside the primary text, not instead of it. Each gu
 | Foucault, *Discipline and Punish* (1975; Part Three in full + opening and close) | [foucault-discipline.md](foucault-discipline.md) | [Foucault](../eras/05-20th-century/michel-foucault.md), learning path Stage 5 |
 | MacIntyre, *After Virtue* (1981; 3rd ed. 2007, read whole) | [macintyre-after-virtue.md](macintyre-after-virtue.md) | [MacIntyre](../eras/05-20th-century/alasdair-macintyre.md), learning path Stage 5 |
 
+## Worked answer keys
+
+Model answers to the Study questions at the end of the core entries — attempt each question book-closed first, then compare.
+
+| Entries covered | Answer key |
+|---|---|
+| 19th century: Hegel, Kierkegaard, Mill, Marx, Nietzsche | [answers-19th-century.md](answers-19th-century.md) |
+| 20th century: Frege, Russell, Wittgenstein (early and late), Vienna Circle, Quine, Heidegger, Sartre, Beauvoir, Thomson, Singer, Rawls | [answers-20th-century.md](answers-20th-century.md) |
+
+## Answer keys to the entries' Study questions
+
+Worked model answers for the Study questions sections in the core entries (added round 3, C3). Attempt each question in writing first, then compare — the same reconstruction-before-comparison rule as the guides above. Where scholarship is divided, the keys give the main positions rather than a verdict.
+
+| Entries covered | Answer key |
+|---|---|
+| Ancient and medieval core entries (the 7 Presocratics, Socrates, Plato, Aristotle, Epicurus, the Roman Stoics, Augustine, Anselm, Aquinas) | [answers-ancient-medieval.md](answers-ancient-medieval.md) |
+| Early modern core entries (Machiavelli, Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, Rousseau, Kant) | [answers-early-modern.md](answers-early-modern.md) |
+
+Flashcard decks (Anki-importable argument and checkpoint cards, built from the entries and guides above): see [cards/README.md](cards/README.md).
+
 More guides are planned as later batches; this folder grows with the library.
