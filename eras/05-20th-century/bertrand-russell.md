@@ -55,6 +55,32 @@ A companion method was *logical construction*: replace inferred entities with co
 
 In *The Problems of Philosophy* (1912), Russell distinguished *knowledge by acquaintance* — direct awareness of sense-data and universals — from *knowledge by description*, of things picked out as "the so-and-so," such as Bismarck for those who never met him. Most knowledge of the physical world is by description, anchored in acquaintance. The distinction gave analytic epistemology its vocabulary, even as later philosophers rejected its sense-data foundation.
 
+## Signature arguments
+
+**The theory of descriptions**
+
+1. Sentences containing definite descriptions, such as “the present King of France is bald,” seem to refer to a present King of France — yet France has no king, and there is no such object to refer to.
+2. If referring required an object, we would face a bad choice: call the sentence meaningless, or populate reality with nonexistent objects for descriptions to stand for.
+3. On Russell's analysis in “On Denoting” (1905), a description is not a referring expression at all, but part of a quantificational structure: the sentence says that there is exactly one present King of France, and that whatever is one is bald.
+4. Since the existence and uniqueness clauses are false, the whole sentence is false.
+Therefore, no mysterious nonexistent entities are needed, and such sentences are simply false — meaningful, but false.
+
+**Objection.** P. F. Strawson, in “On Referring” (1950), argued that Russell confuses sentences with their uses. Uttering “the King of France” does not assert that a king exists; it presupposes it, and when there is no king the utterance fails to make a true-or-false statement at all, rather than making a false one.
+
+**Reply.** Russellians reply that the quantificational analysis captures the logic needed for inference and mathematics, where descriptions must combine, take scope, and enter proofs. Presupposition, they argue, can be layered on top of that logical form as a fact about use, without displacing the analysis. The Russell–Strawson dispute remains a standard reference point in the philosophy of language, presented as a live disagreement rather than a settled victory for either side.
+
+**Russell's paradox**
+
+1. Naive set theory assumes unrestricted comprehension: any property or condition defines a set — the set of all things satisfying that condition.
+2. Apply that assumption to the property of not being a member of oneself, and consider the set of all sets that are not members of themselves.
+3. Ask whether that set is a member of itself: if it is, then by its defining condition it is not; and if it is not, then by that same condition it is.
+4. Both answers yield a contradiction.
+Therefore, unrestricted comprehension is false, and set theory — and with it Frege's logicist foundations, to whom Russell reported the paradox in a letter of 1902 — must be rebuilt; Russell's own answer was the theory of types.
+
+**Objection.** Type theory can look ad hoc. It bans the paradox by grammatical fiat, stratifying entities so that self-membership is ill-formed, and in doing so it also bans apparently harmless forms of self-reference that mathematics and language seem to need.
+
+**Reply.** Defenders reply that the restrictions are independently motivated by the iterative conception of set: sets are formed in stages, each stage collecting only objects already available at earlier stages. On that picture, there is no stage at which a set could contain itself, and “all sets” cannot be treated like one set among others. The paradox, on this reading, taught a genuine lesson about sets, not merely a need for a technical patch.
+
 ## Key works
 
 - ***The Principles of Mathematics*** (1903) — The first statement of his logicism, confronting the paradox's consequences.

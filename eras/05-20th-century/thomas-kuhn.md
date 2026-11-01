@@ -34,6 +34,32 @@ The most contested claim is that rival paradigms can be *incommensurable*. Kuhn 
 
 Incommensurability does *not* mean scientists cannot understand each other at all, or that choice is irrational, or that “anything goes” — that slogan belongs to Paul Feyerabend, not Kuhn. Kuhn insisted paradigm choice is guided by shared values — accuracy, consistency, scope, simplicity, fruitfulness — but argued these values can be weighted differently by reasonable people. In later work he narrowed the claim considerably, to local failures of translation between taxonomies of terms, and described himself as a firm believer in scientific progress — progress *from* earlier paradigms, if not straightforward progress *toward* one final true description.
 
+## Signature arguments
+
+**The incommensurability argument**
+
+1. Rival paradigms define their key terms differently: "mass" in Newtonian physics is constant and conserved, while in Einsteinian physics it varies with velocity and is related to energy.
+2. Rival paradigms also set different standards and problems: they disagree about which questions most need solving and about what an acceptable solution must look like.
+3. There is no paradigm-neutral observation language into which both sides can be fully translated, and no algorithm for theory choice that compels every rational scientist to reach the same verdict.
+Therefore, proponents of rival paradigms partly talk past each other, and paradigm choice in *The Structure of Scientific Revolutions* cannot be settled by proof alone; it also involves persuasion and the weighting of shared values such as accuracy, scope, simplicity, and fruitfulness.
+
+This is an argument about comparison across a revolutionary divide, not a claim that rival scientists literally cannot understand one another at all. Kuhn's point is that understanding, translation, and agreement come apart: a scientist may learn the other paradigm like a new language while still judging by standards the other side does not share in the same way.
+
+**Objection.** Critics charge that this slides into relativism: if paradigms are incommensurable and choice is not settled by proof, scientific change looks irrational — a matter, in Imre Lakatos's famous gibe at the position, of "mob psychology" rather than reasons.
+
+**Reply.** Kuhn insisted that theory choice is guided by shared cognitive values and is not arbitrary, even though those values can be weighted differently by reasonable scientists. In his later work he narrowed incommensurability considerably, to local untranslatability between taxonomies of terms, which he held to be fully compatible with rational comparison. The shift from the early, broader claim to the later, local one should be kept explicit when his view is stated.
+
+**The historical argument against the cumulative image**
+
+1. The textbook picture says science grows by steady accumulation: facts are added, errors discarded, and knowledge moves in a straight line toward truth.
+2. The historical record instead shows long periods of normal science, in which researchers solve puzzles inside a paradigm and resist treating failures as falsifying the paradigm itself.
+3. The same record shows anomalies accumulating into crisis, followed by revolutions that rewrite a field's standards, its prized problems, and even how its phenomena are perceived and described.
+Therefore, scientific development is not simple accumulation; it is punctuated by revolutions, and progress must be understood as progress away from past problems as much as progress toward a final truth.
+
+**Objection.** The model fits some episodes — the Copernican and chemical revolutions — better than others, and its central term is used so elastically that Margaret Masterman famously counted 21 senses of "paradigm" in the book. A thesis built on a term that vague, critics argue, risks explaining everything and nothing.
+
+**Reply.** Kuhn accepted much of the multiplicity and, in the 1970 Postscript and later work, organised the term around exemplars: shared concrete problem-solutions, learned in training, that show students how to do further work. Even where historians qualify the strict sequence of normal science, crisis, and revolution, the framework survives as a tool for historical analysis — for asking what a community shared, what it counted as a problem, and what changed when that changed.
+
 ## Key works
 
 - *The Copernican Revolution* (1957) — an accessible case study of a revolution spanning science, philosophy, and theology.

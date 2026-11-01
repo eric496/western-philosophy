@@ -41,6 +41,32 @@ The moral is foundational: selfhood is social. We become selves only through rec
 
 Hegel reads world history as "progress in the consciousness of freedom": ancient Eastern worlds knew that *one* (the ruler) is free; the Greek and Roman worlds knew that *some* are free; the modern world, in principle, knows that *all* are free. Individuals pursue their own passions — ambition, greed, glory — yet reason achieves its ends through them: this is the "cunning of reason," as when a conqueror's vanity unintentionally spreads legal and political forms that outlast him. Freedom is realised concretely in *Sittlichkeit*, "ethical life": the institutions of family, civil society (markets, professions, law), and the constitutional state, within which alone individual liberty is more than an empty wish.
 
+## Signature arguments
+
+**The master–slave dialectic**
+
+1. Self-consciousness needs recognition from another self-consciousness to be certain of itself: it cannot confirm its freedom entirely alone.
+2. When two self-consciousnesses first meet, each seeks recognition from the other, and the encounter becomes a struggle in which one submits through fear of death — the slave, or bondsman — while the other dominates as master, or lord.
+3. The master receives recognition only from a dependent he himself deems inferior and unfree, so that recognition cannot satisfy the demand that produced the struggle.
+4. The slave, through fear and through formative work on resistant things, learns discipline and sees his own mind made durable in what he shapes, achieving a mind of his own.
+Therefore, recognition must be mutual: one-sided domination defeats its own aim, because the recognition it extracts is worthless to the one who extracts it.
+
+**Objection.** Read as history, the passage is speculative anthropology. There is no evidence that human selfhood actually arose through a life-and-death struggle followed by slavery and labour, and the “argument” can look like narrative rather than proof.
+
+**Reply.** On the standard defence, Hegel's phenomenology is not empirical history but a reconstruction of the logic of self-consciousness. Its force is conceptual: whatever the actual prehistory, domination structurally cannot supply the recognition it seeks, since recognition counts only from someone recognised as free. That conceptual point, more than any historical claim, is what launched Alexandre Kojève's famous lectures and recognition theory since.
+
+**The argument for ethical life over abstract morality**
+
+1. Kantian morality (*Moralität*), taken alone, is an abstract “ought”: the test of whether a maxim can be willed as universal law does not by itself determine concrete duties.
+2. An agent who consults only that test is left with empty formalism — or quietly smuggles in duties borrowed from the social world around him.
+3. Duties become determinate only within ethical life (*Sittlichkeit*): the institutions of family, civil society, and the state, which form agents' characters and specify what fidelity, honesty, and responsibility actually require here.
+4. Freedom, correspondingly, is not merely the capacity to will abstractly, but is actual when agents find their own purposes realised in such institutions.
+Therefore, freedom is actual only as participation in rational institutions, not as abstract willing.
+
+**Objection.** This seems to baptise existing institutions. If duties are whatever family, market, and state happen to demand, then “rational” becomes a compliment paid to the status quo — the conservative reading pressed by critics from Marx onward.
+
+**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualise freedom, and his slogan that “what is rational is actual” expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
+
 ## Key works
 
 - *Phenomenology of Spirit* (1807) — A "ladder" for ordinary consciousness: a tour through forms of awareness (perception, master and slave, morality, religion) each collapsing under its own contradictions until absolute knowing. Famously difficult; enter with a guide.

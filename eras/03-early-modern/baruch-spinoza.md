@@ -58,6 +58,32 @@ A free thing, by Spinoza's definition, "exists from the necessity of its nature 
 
 Its culmination is the **intellectual love of God** (*amor Dei intellectualis*): the joy, accompanied by the idea of God as its cause, that arises when the mind understands itself and its affects under a species of eternity (*sub specie aeternitatis*). This love is not devotion to a person who might love us back — "He who loves God cannot strive that God should love him in return" — but steady, active joy in the necessary order of which we are a mode. Spinoza calls it blessedness, and insists it is not a reward for virtue but virtue itself. Part V's claims about the mind's eternity — as distinct from personal immortality, which he denies — remain among his most contested passages.
 
+## Signature arguments
+
+**Substance monism (*Ethics* I)**
+
+1. A substance is what is in itself and conceived through itself: it depends on nothing else in order to exist or to be understood.
+2. Two substances cannot share an attribute or nature, for if they did they could not be distinguished from one another as substances conceived wholly through themselves.
+3. God is, by definition, a substance consisting of infinite attributes, each expressing an eternal and infinite essence.
+Therefore, no substance other than God can exist, since any other would have to share an attribute with God; everything else is a mode of God.
+
+**Objection.** The argument turns on contested definitions. A critic such as Leibniz can simply reject the claim that substances cannot share an attribute, and monism seems in any case to erase real distinctions between things, making individual bodies and minds unreal.
+
+**Reply.** Spinoza offers his definitions as capturing what "being in itself" must mean, not as arbitrary stipulations, so a critic owes an alternative account of that notion. Modes, meanwhile, are real affections of substance, not illusions: distinctions between things survive, but as modal distinctions within the one substance rather than distinctions between substances. That is also why the geometrical presentation matters to him: if the definitions genuinely capture essences, the conclusions should follow with the same necessity as properties follow from the essence of a triangle — which is why scholarly argument about the *Ethics* so often returns to those opening definitions.
+
+**The *conatus* argument (*Ethics* III, propositions 6–7)**
+
+1. Each thing, insofar as it is in itself, strives to persevere in its being.
+2. This striving — *conatus* — is not an added feature of a thing but its actual essence.
+3. In human beings, striving of which we are conscious is appetite or desire, the primary affect from which our other drives follow.
+Therefore, striving, not reason or uncaused free will, is fundamental to human nature, and what is good for us is what aids our striving and increases our power of acting.
+
+**Objection.** Things seem sometimes to destroy themselves — in suicide or self-sacrifice, for example — which looks like the opposite of persevering. And "striving" may merely redescribe behaviour we already observe rather than explain it, since anything a thing does can be counted as its striving.
+
+**Reply.** For Spinoza a thing can be overcome only by external causes stronger than its *conatus*. Suicide, on this account, is the external world overpowering a person's striving, never the person's essence itself willing its own destruction; self-destruction under compulsion or delusion is still externally driven. Critics may find that reply too convenient — every apparent counterexample is reassigned to external causes — and the charge is worth weighing. The doctrine nonetheless does real explanatory work elsewhere in the system, grounding the affects and the definitions of good and evil in Part IV.
+
+Fuller reconstructions of the monism argument are in the study guide: [*Ethics* Part I](../../study/spinoza-ethics-part1.md).
+
 ## Key works
 
 - *Short Treatise on God, Man, and His Well-Being* (c. 1660; unpublished until the 19th century) — The earliest surviving statement of his system, written in Dutch for his circle.

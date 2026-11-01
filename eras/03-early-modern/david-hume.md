@@ -76,6 +76,33 @@ Hume held the dispute about liberty and necessity to be largely verbal. Everyone
 
 His overall stance is **mitigated scepticism**: the doubts are real, but nature cures what reason cannot — we dine, play backgammon, and believe — and awareness of reason's limits should make us modest rather than paralysed.
 
+## Signature arguments
+
+**The problem of induction (*Enquiry* IV)**
+
+1. All reasoning about unobserved matters of fact rests on the relation of cause and effect.
+2. Knowledge of cause and effect comes only from experience, never from reasoning alone.
+3. Inferring the unobserved from the observed therefore presupposes that the future will resemble the past — that nature's course will continue uniformly.
+4. That presupposition cannot be proved demonstratively, since its denial is conceivable without contradiction, nor proved from experience, since that would assume exactly what is in question.
+Therefore, inductive inference has no rational justification; it is the work of custom or habit, not of reason.
+
+**Objection.** This sets the bar for justification too high. A practice need not be provable, demonstratively or otherwise, to be reasonable: reliabilists argue that induction is justified if it in fact reliably produces true beliefs, and pragmatic vindications argue it is the best strategy available whatever nature does.
+
+**Reply.** Hume largely agrees about practice. His "sceptical solution" is that nature, through custom, cures what reason cannot justify: we cannot help expecting the future to resemble the past, and we should go on doing so. The argument targets rational foundations — a proof reason could give itself — not whether to rely on induction in life or science. Whether reliabilist and pragmatic replies answer Hume, or instead change the subject from justification to usefulness, is itself part of the continuing debate the argument started.
+
+**The is–ought passage (*Treatise* 3.1.1)**
+
+1. Moral systems proceed, for a while, from propositions about what is or is not the case.
+2. They then switch, often imperceptibly, to propositions about what ought or ought not to be.
+3. This "ought" expresses a new relation or affirmation, entirely different from the relations stated in the earlier propositions.
+Therefore, anyone who derives an "ought" must explain how it follows from premises containing only "is"; until then, the deduction seems altogether inconceivable.
+
+**Objection.** Hume may not be banning all derivations of ought from is. Naturalists — and some readings of Hume himself — argue that some oughts do follow from facts about human nature: claims about virtues as useful or agreeable to ourselves and others, for instance, are factual claims from which Hume's own moral conclusions appear to flow.
+
+**Reply.** The enduring point, on this reading, is a demand for an explanation of the inference, not necessarily proof of an unbridgeable gap. Which reading is Hume's — a strict barrier or a challenge to explain the transition — remains a scholarly debate, and his own sentimentalist ethics can be recruited on both sides of it. What is not in dispute is the passage's effect: after Hume, a moral argument that slides from facts to values without marking the step looks unfinished, whatever one's theory says about whether the step can be justified.
+
+Fuller reconstructions of the argument on induction are in the study guide: [*An Enquiry Concerning Human Understanding*](../../study/hume-enquiry.md).
+
 ## Key works
 
 - *A Treatise of Human Nature* (1739–40) — Anonymous; the masterpiece that "fell dead-born from the press."

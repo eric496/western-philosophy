@@ -59,6 +59,32 @@ His other image is the beetle in the box (§293): if everyone has a box with a "
 
 Philosophical problems arise "when language goes on holiday" (§38) — when words are lifted from their ordinary work and idled. The task is not to build theories but to assemble reminders of use, returning words "from their metaphysical to their everyday use" (§116), until the confusion dissolves and the problem disappears rather than being solved. "The philosopher treats a question; like an illness" (§255). Whether this quietism is liberation or abdication is one of the central arguments about the late work.
 
+## Signature arguments
+
+**The rule-following argument**
+
+1. To follow a rule, such as continuing a number series, seems to require grasping what the rule demands in new, unencountered cases.
+2. Whatever is offered to fix that demand — a formula, a mental picture, or a set of past examples — can itself be interpreted in more than one way, so that on some interpretation almost any next step can be made to accord with it.
+3. An interpretation is only another sign, and it would in turn need a further interpretation to fix how it is to be applied.
+Therefore, meaning and correct action cannot be fixed by interpretation alone; interpretations hang in the air unless they already rest on a practice of use.
+
+Wittgenstein's resolution in *Philosophical Investigations* §§185–201 is that there is a way of grasping a rule that is not an interpretation but is shown in practice: in training, custom, and shared responses within a form of life. When I obey a rule, I do not choose at each step; I go on as I have been trained to go on. Meaning is therefore grounded in use within practices, not in mental items or in further interpretations stacked behind them.
+
+**Objection.** Saul Kripke's influential reading turns this into a sceptical paradox about meaning, to be met by a "sceptical solution" in which correctness is fixed by agreement within a community. Many scholars object that this imports a scepticism Wittgenstein never endorsed, making him offer a theory of meaning where he meant only to dissolve a confused picture.
+
+**Reply.** On the Wittgensteinian reply, the paradox arises only if we demand that every grasp of a rule must be an interpretation. Justification runs out at practice — the bedrock where, in his image elsewhere, my spade is turned — and describing that bedrock is not a concession that language fails. Whether Kripke's reading is faithful to Wittgenstein or a creative distortion of him remains an open scholarly dispute.
+
+**The private language argument**
+
+1. Suppose a language whose words refer to sensations that only the speaker can know, so that no one else could in principle understand it (*Philosophical Investigations* §243).
+2. The speaker tries to fix a sign "S" by concentrating on a particular sensation and resolving to use "S" for that same sensation again.
+3. With no public technique of use and no independent check, there is later no difference between using "S" rightly and merely seeming to oneself to use it rightly (§258).
+Therefore, such a supposed language has no criterion of correct use, and a necessarily private language is impossible.
+
+**Objection.** Surely I can name my own pains, and a solitary person such as a Robinson Crusoe seems able to keep a meaningful diary of his sensations. Memory, the objector adds, could itself supply the missing check, by comparing a present sensation with how the earlier one is remembered.
+
+**Reply.** Wittgenstein replies that memory cannot check itself independently in this set-up: appealing only to another impression of memory is like buying several copies of the same newspaper to confirm a report (§265). The argument does not deny that we talk, in public language, about sensations that only we experience. It targets the picture of meaning as inner ostensive definition, in which a private mental pointing is supposed to do all the work on its own.
+
 ## Key works
 
 - ***Philosophical Investigations*** (posthumous, 1953), edited by G. E. M. Anscombe and Rush Rhees, translated by Anscombe. Part I: 693 numbered remarks, essentially ready by 1946; Part II (now often published as *Philosophy of Psychology — A Fragment*) is later material. The central late text.

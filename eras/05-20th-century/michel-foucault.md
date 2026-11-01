@@ -52,6 +52,32 @@ From the 18th century a second power joined discipline. *Biopower* takes the *po
 
 Victorian sexuality, Foucault argued, was not simply silenced. Against the *repressive hypothesis* — power mainly says "no" to sex, so liberation means speaking freely — he showed an explosion of discourse *about* sex: medical, pedagogical, psychiatric. Power is *productive*: it produces categories, pleasures, and selves. His late work turned to *technologies of the self*: practices such as self-examination, letter-writing, and care of the self (*epimeleia heautou*) by which people shape their own conduct — not a retreat from politics, but a search for how subjects might form themselves less governably: ethics as a practice of freedom.
 
+## Signature arguments
+
+**The disciplinary-power argument**
+
+1. Pre-modern punishment displayed sovereign power on the body: public execution, as in the spectacle with which *Discipline and Punish* opens, made the ruler's vengeance visible to all.
+2. Modern institutions work differently: prisons, schools, barracks, hospitals, and factories train bodies through surveillance, timetables, examinations, and normalising judgement — constant comparison of each person against a norm.
+3. Bentham's Panopticon is the diagram of this power: inmates in cells around a central tower are visible at any moment but cannot tell when they are being watched, so they come to police themselves.
+Therefore, modern power works less by repression from above than by producing disciplined, self-monitoring subjects whose habits and capacities it has itself formed.
+
+The claim is about a technology of power, not only about prisons. The examination, the dossier, and the timetable travel: what was perfected in enclosed institutions becomes a general way of managing people in offices, clinics, and classrooms.
+
+**Objection.** The history is one-sided, critics object: public and sovereign violence did not vanish with modernity, and discipline itself long predates the modern prison — monasteries and armies trained bodies by rule and schedule centuries earlier, a point Foucault himself notes.
+
+**Reply.** The reply is that Foucault's claim concerns the dominant diagram of power and its spread, not the total disappearance of sovereign violence. In his fuller account, sovereign, disciplinary, and later security mechanisms coexist and overlap, with discipline becoming the characteristic modern technology as it migrates across schools, hospitals, factories, and prisons. Read as a claim about a shift in emphasis and reach, rather than a clean replacement, the argument survives the counterexamples.
+
+**The argument against the repressive hypothesis**
+
+1. The received story — the *repressive hypothesis* — says that Victorian power dealt with sex mainly by silencing it, so that liberation would consist in speaking freely about a natural secret.
+2. The record examined in *The History of Sexuality, Vol. I* shows instead a multiplication of discourses about sex: medicine, psychiatry, pedagogy, and demography talked about it incessantly, classifying perversions and measuring populations.
+3. That talk was productive rather than merely censoring: it created "sexuality" as an object of knowledge and a core of personal identity, in the pattern Foucault calls power/knowledge.
+Therefore, sexuality is not simply a natural secret repressed by power; it is partly an effect of the very apparatuses that claim only to police it or to liberate it.
+
+**Objection.** Nancy Fraser, Jürgen Habermas, and others press a charge of normative confusion: if power is everywhere and productive of everything, Foucault seems to give no standpoint from which domination is objectionable. His critique appears to rely on values — freedom, resistance to subjugation — that his own framework cannot avow.
+
+**Reply.** Defenders reply that genealogy criticises by showing contingency: arrangements presented as natural or necessary are shown to be historical, and therefore changeable, which reopens space for action without needing a universal foundation. Foucault also points to resistance as internal to every power relation, not imported from outside it. Whether this answers the normative charge, or restates it in other terms, is a standing debate in the literature.
+
 ## Key works
 
 - **Madness and Civilization (*Folie et déraison*, 1961; abridged version 1964, English 1965)** — Confinement of the mad and the birth of psychiatry; the book that launched him.

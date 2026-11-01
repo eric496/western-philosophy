@@ -33,6 +33,30 @@ From the Necessary Existent, the world proceeds eternally by **emanation**: beca
 
 Beneath these doctrines sits Avicenna's systematic modal framework — necessary, possible, impossible — worked into every branch of philosophy, and a logic of his own: he reformed Aristotelian syllogistic with a sophisticated theory of temporal and modal propositions, treated in the huge *Logic* of the *Healing*, long overshadowed in the West by his metaphysics but increasingly studied. He also fixed the "common nature" analysis of essences — horseness is just horseness, in itself neither one nor many, neither in souls nor in things — which, transmitted through Latin translation, became Scotus's doctrine of the common nature.
 
+## Signature arguments
+
+**The proof of the Necessary Existent**
+
+1. Some things exist contingently: considered in themselves, they are possible — they might exist or might not — so their essence alone does not settle that they exist.
+2. A contingent thing that does exist needs a cause to tip it from possibility into actual existence, since its own essence is neutral between existing and not existing.
+3. The totality of contingent things is itself contingent: nothing in the whole collection explains why there is existence rather than none, and essentially ordered causes, each depending here and now on the next, cannot regress infinitely.
+Therefore, there exists a Necessary Existent, outside the totality of contingent things, whose essence is its existence and which needs no cause.
+
+**Objection.** Why, critics ask, cannot the series of contingent causes simply run back infinitely, each member explained by an earlier one, with no first term required? And if the series as a whole has no explanation, perhaps that is just a brute fact about the universe: asking for a cause of the totality may be illegitimate, since "cause" applies within the series, not to it.
+
+**Reply.** Avicenna's answer is that length does not remove the problem. Even an infinite series consists entirely of members none of which explains existence as such, so the aggregate still needs a ground outside itself — each member, and the whole, remain merely possible until something makes them necessary. This is usually read through the distinction, formalised by later thinkers, between *per se* (essentially ordered, simultaneous) and *per accidens* (accidentally ordered, temporal) series: the prohibition on regress applies to the first, not the second. That reading is the standard one, though scholars debate how sharply Avicenna himself draws the distinction.
+
+**The Flying Man**
+
+1. Imagine a person created all at once, fully formed, suspended in air, limbs spread so that nothing touches anything, eyes covered and ears hearing nothing, receiving no sensation from outside or from his own body.
+2. Such a person, Avicenna claims, would not doubt the existence of his own self, even while affirming nothing of his limbs, his body, or any external thing.
+3. Self-awareness is thus present in the complete absence of bodily sensation, and does not depend on awareness of any bodily organ.
+Therefore, the soul — the self affirmed in the experiment — is distinct from the body and is not identical with any part of it.
+
+**Objection.** The experiment, critics argue, shows less than Avicenna needs. At most it establishes that self-awareness does not depend on *currently sensing* the body — not that the soul is a separate immaterial substance. A thoroughly embodied self might still be aware of itself while its sensory channels are idle or blocked, just as a machine can register its own state without receiving outside input.
+
+**Reply.** Avicenna's claim rests on the asymmetry the experiment is meant to expose: the self is grasped directly and with certainty, while the body is not grasped at all — and what is known, while the other is wholly unknown, is distinct from that other. Presented as his argument, this is a claim about what the thought experiment discloses, not merely about missing sensations. Its contested status should be kept in view: interpreters still debate whether Avicenna intended a proof of the soul's substantial distinctness, or the more modest conclusion that self-awareness is primitive and underived from sense.
+
 ## Key works
 
 - **The Book of Healing** (*Kitāb al-Shifāʾ*, c. 1020–27) — vast encyclopedia in four parts: logic, natural philosophy, mathematics, metaphysics. Despite the title it is not a medical book; the "healing" is of the soul from ignorance. Its *Metaphysics* (*Ilāhiyyāt*) contains the essence/existence doctrine and Necessary Existent proof.

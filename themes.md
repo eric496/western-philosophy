@@ -1,18 +1,125 @@
-# Thematic Map — The Recurring Big Questions
+# Thematic Map — A Problem-Based Index
 
-Use this as the repo's `themes.md`: a learner who finishes a chronological pass should do a **second, thematic pass** through the same figures rearranged by question.
+The library's other maps are chronological ([index.md](index.md), [timeline.md](timeline.md)). This one is organised by **problem**: nine questions that recur for 2,500 years, each with the figures whose entries substantially address it, in chronological order, and one line stating each figure's position.
 
-| Big question (branch) | Core sub-questions | Key philosophers & concepts in this report |
-|---|---|---|
-| **Metaphysics** — What is there, fundamentally? | One or many? Change or permanence? Matter, form, substance, God? | Heraclitus (flux) vs Parmenides (Being); Plato (Forms); Aristotle (form/matter, four causes); Democritus (atoms); Plotinus (the One); Avicenna (essence/existence); Descartes/Spinoza/Leibniz (substance: two / one / many monads); Hegel (Geist in history); Schopenhauer (Will); Heidegger (Being itself) |
-| **Epistemology** — What can we know, and how? | Innate ideas or experience? Certainty possible? Induction justified? | Sophists & Pyrrho/Sextus (skepticism); Plato (knowledge vs opinion, recollection); Aristotle (abstraction); Locke (tabula rasa); Berkeley; Hume (induction, causation); Kant (categories, phenomena/noumena); Peirce/James (inquiry, pragmatism); Popper (falsification); Quine (holism); Husserl (first-person description) |
-| **Ethics** — How should I live? What is right? | Pleasure, virtue, duty, consequences, authenticity? | Socrates (virtue is knowledge); Plato/Aristotle (virtue, eudaimonia, mean); Epicurus (ataraxia); Stoics (virtue as only good); Aquinas (natural law); Hume (sentiment); Kant (duty, categorical imperative); Bentham/Mill/Singer (consequences); Kierkegaard/Nietzsche/Sartre/Beauvoir (commitment, revaluation, freedom); MacIntyre (virtue revived) |
-| **Political philosophy** — How should we live together? Who may rule? | Authority's source; freedom vs order; justice and distribution | Plato (philosopher-kings); Aristotle (*Politics*); Machiavelli (realism, republics); Hobbes/Locke/Rousseau (social contract, three ways); Mill (harm principle); Marx (class, ideology); Arendt (action, totalitarianism); Rawls vs Nozick (justice vs liberty of holdings); Habermas (public sphere); Foucault (power in institutions) |
-| **Philosophy of mind** — What is mind, and how does it relate to body? | Dualism, materialism, consciousness, personal identity | Plato/Aristotle (soul: tripartite / form of body); Avicenna (Flying Man); Descartes (dualism); Spinoza (dual aspect); Locke (identity as memory); Hume (bundle self); Kant (unity of apperception); James (stream of consciousness); Husserl (intentionality); Wittgenstein (private language); behaviourism/functionalism as further reading |
-| **Logic & philosophy of language** — How does thought/language hook onto the world? | Meaning, reference, truth, valid inference | Aristotle (syllogism, *Organon*); Boethius/medieval logic; Ockham; Frege (sense/reference, quantifiers); Russell (descriptions); Wittgenstein early (picture) & late (use); Quine (translation); Derrida (différance — the continental counterpoint); Peirce (signs) |
-| **Aesthetics** — What is art/beauty, and what are they for? | Imitation, expression, judgment of taste, art's social role | Plato (art as imitation, censorship worries); Aristotle (*Poetics*, catharsis); Kant (judgment, purposiveness without purpose, the sublime); Hegel (art as Spirit's self-expression, "end of art" thesis); Schopenhauer (music, release from Will); Nietzsche (Apollo/Dionysus); Adorno (culture industry, autonomous art); Beauvoir/Foucault-era critiques as extension |
-| **Philosophy of religion** — Does God exist? What is faith? | Arguments for God; evil; faith vs reason | Augustine (evil as privation, time); Anselm (ontological argument); Avicenna (Necessary Existent); Aquinas (Five Ways); Maimonides (negative theology); Descartes/Leibniz (ontological/cosmological variants); Hume (*Dialogues Concerning Natural Religion* — essential further reading); Kant (limits + moral postulates); Kierkegaard (leap); Nietzsche (death of God); James (will to believe) |
-| **Philosophy of science** *(cross-cutting)* | Method; demarcation; progress | Bacon (idols, induction); Hume (induction problem); Kant (conditions of Newtonian science); Mill (methods); Popper (falsifiability) → Kuhn/Lakatos/Feyerabend; Quine (science-continuous philosophy); Foucault (sciences of man as power/knowledge) |
+How to use it: pick a problem, read down its list, and you can watch a single argument evolve — who introduces a distinction, who radicalises it, who dissolves it. Then open the linked entries for the full treatment. Inclusion here means the figure's entry genuinely works on the problem, not merely touches it; grouped entries (Roman Stoics, Vienna Circle, Frankfurt School, Anscombe & Foot) get one line per group. The learning path's five threads (knowledge, mind, God, ethics, politics) are a working subset of these nine.
 
 ---
-Use this file sideways: pick a question, then read the figures listed under it across eras to watch the argument evolve.
+
+## 1. Knowledge & Scepticism — What can we know, and how do we know it?
+
+- **[Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)** (c. 540–c. 480 BCE) — Eyes and ears are bad witnesses: sense reports mislead unless the soul grasps the *logos* structuring them.
+- **[Parmenides](eras/01-ancient/parmenides-of-elea.md)** (b. c. 515 BCE) — Trust reason, not the senses: deduction shows what-is cannot not-be; the perceived world is the way of mere opinion.
+- **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — The senses deliver "bastard" knowledge of qualities that exist by convention; genuine knowledge reaches atoms and void by reason.
+- **[Protagoras (with Gorgias)](eras/01-ancient/protagoras-and-the-sophists.md)** (c. 490–c. 420 BCE) — "Man is the measure": what seems true to each perceiver is true for them; Gorgias adds that nothing can be known, nor communicated if known.
+- **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — Knowledge begins in confessed ignorance; the elenchus cross-examines definitions until the false conceit of knowledge collapses.
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — Knowledge is of the unchanging Forms, not of changing particulars; true opinion is unstable until tied down by an account.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — All knowledge starts in perception; the intellect abstracts forms and demonstrates conclusions from self-evident first principles.
+- **[Pyrrho](eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)** (c. 360–c. 270 BCE) — For every claim, equal counter-claims: suspend judgement (*epochē*), live by appearances — and tranquillity follows.
+- **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — Sensations, preconceptions, and feelings are the criteria of truth: sensation never lies; error enters only in judgement.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Against the Academic sceptics: "if I am deceived, I exist"; beyond that, the mind knows by divine illumination.
+- **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The intellect knows material things by abstracting intelligible forms from sense images; faith completes reason without contradicting it.
+- **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "Que sçay-je?" Reason is wax worked by custom and the body; Pyrrhonian doubt clears ground for faith and self-study.
+- **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Knowledge is blocked by four idols of the mind; a disciplined induction from experience can clear them away.
+- **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Doubt everything dubitable until the *cogito*; whatever is perceived clearly and distinctly, guaranteed by God, is true.
+- **[Pascal](eras/03-early-modern/blaise-pascal.md)** (1623–1662) — Reason is real but limited: first principles are known by the heart, and the *esprit de finesse* corrects mere geometry.
+- **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Three kinds of knowledge: confused imagination, adequate reason, and intuitive science, which sees things under a species of eternity.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — No innate ideas: all materials of knowledge come from sensation and reflection; knowledge is perceiving agreement among ideas.
+- **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Necessary truths are innate as dispositions of the mind; contingent truths rest on sufficient reason, fully surveyed only by God.
+- **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — All we ever perceive are ideas; abstract ideas and material substance are fictions generated by careless language.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Ideas copy impressions; induction has no rational warrant; scepticism is cured not by argument but by nature and custom.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — The mind's categories and forms make experience possible: knowledge is secure within phenomena, impossible of things in themselves.
+- **[Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — Experience itself is deduced from the I's self-positing activity: knowing is a free act, not a passive reception.
+- **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — Scepticism is a necessary station: consciousness tests its own standards and is driven beyond each shape toward absolute knowing.
+- **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — The world as representation obeys the principle of sufficient reason; only the body's inner knowledge escapes it, revealing Will.
+- **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Knowledge matures through theological and metaphysical stages to the positive: only observable relations and laws count as knowing.
+- **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — No cognition is certain; communal, self-correcting inquiry settles belief, and truth is its ideal limit.
+- **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Truth "happens" to ideas as they are verified in experience; where evidence cannot decide, the will to believe may lawfully act.
+- **[Dewey](eras/05-20th-century/john-dewey.md)** (1859–1952) — Knowing is a mode of doing: inquiry transforms an indeterminate situation into a resolved one, and ideas are instruments.
+- **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Bracket the natural attitude and describe how objects are given to consciousness; evidence is intuitive fulfilment of an intention.
+- **[Bergson](eras/05-20th-century/henri-bergson.md)** (1859–1941) — Intellect spatialises and falsifies duration; intuition — a sympathy entering the object — is the second, deeper way of knowing.
+- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Distinguish knowledge by acquaintance from knowledge by description; logical analysis shows what our claims really commit us to.
+- **[Moore](eras/05-20th-century/g-e-moore.md)** (1873–1958) — Common-sense certainties — here is a hand — are more secure than any sceptical or idealist premise raised against them.
+- **[Wittgenstein](eras/05-20th-century/wittgenstein-late.md)** (1889–1951) — Doubt needs grounds and hinges: some certainties stand fast not as conclusions but as the riverbed of our questioning.
+- **[Heidegger](eras/05-20th-century/martin-heidegger.md)** (1889–1976) — Truth is first *aletheia*, unconcealment: Dasein's disclosedness precedes and makes possible any correct proposition.
+- **[Ryle](eras/05-20th-century/gilbert-ryle.md)** (1900–1976) — Knowing-how is not a ghostly inner knowing-that: intelligence shows in performances, not in a prior private episode.
+- **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Knowledge grows by bold conjectures and severe refutations; nothing is ever verified, but error can genuinely be eliminated.
+- **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — A statement is meaningful only if verifiable; epistemology becomes the logical analysis of the language of unified science.
+- **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — No analytic/synthetic line, no statement immune to revision: belief faces experience as a corporate web; epistemology is naturalised.
+- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Paradigms supply a science's standards, problems, and perceived facts; rival paradigms can be incommensurable.
+- **[Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — Understanding is never presuppositionless: historically effected prejudice is its condition, corrected through fusion of horizons.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Each epoch has a regime of truth: what counts as knowledge is produced together with the power that certifies it.
+
+---
+
+## 2. Mind & Body — What is mind, and how does it relate to the body?
+
+- **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — The soul is an immortal traveller imprisoned in the body, transmigrating between lives until purified.
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The soul is tripartite and immortal, at once the body's pilot and its prisoner; philosophy practises its release.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Soul is the form (entelechy) of the living body, not a second thing in it — though the active intellect may be separable.
+- **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — Soul too is atoms — fine, spherical, fiery — dispersed at death; no immaterial remainder survives.
+- **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — The soul is a body of fine atoms spread through the frame; when it disperses, sensation ends — death is nothing to us.
+- **[Plotinus](eras/01-ancient/plotinus.md)** (c. 204/205–270) — Soul descends from the intelligible world into body without ceasing to belong above; contemplation turns it back toward the One.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The soul is immaterial and self-present — it knows itself even in doubt — yet the body's resurrection, not escape, completes the person.
+- **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man, suspended without sensation, still knows himself: self-awareness, and so the soul, are independent of body.
+- **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The human soul is the body's substantial form yet subsists on its own; the separated soul is not the whole person.
+- **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Mind (thinking, unextended) and body (extended, unthinking) are really distinct substances, united in the embodied human.
+- **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Mind and body are one and the same thing conceived under the attributes of thought and extension — no interaction problem arises.
+- **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Windowless monads — perceiving, mind-like substances — keep body and soul in step by pre-established harmony, not causal traffic.
+- **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — There are no material bodies at all: only spirits, and the ideas they perceive, sustained in being by God's perception.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — No impression of a mental substance exists: the mind is a bundle of perceptions in perpetual flux.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — A substantial, simple, identical soul is a paralogism: the "I think" is a formal unity of experience, not an object of knowledge.
+- **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — We know our body twice: as representation among objects, and from within as Will; the body is the Will made visible.
+- **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Consciousness is a stream, not a chain of mental atoms; study its functions and uses, not a hypothetical soul-stuff.
+- **[Brentano](eras/04-19th-century/franz-brentano.md)** (1838–1917) — Intentionality — every mental act is of or about something — is the mark distinguishing the mental from the physical.
+- **[Bergson](eras/05-20th-century/henri-bergson.md)** (1859–1941) — The brain is an organ of action, not a storehouse: memory endures in duration, contracting into the present for use.
+- **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Consciousness is essentially intentional, and its zero-point of orientation is the lived body (*Leib*), not the physical body.
+- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — In his later neutral monism, mind and matter are alike logical constructions out of neutral events; neither is fundamental.
+- **[Ryle](eras/05-20th-century/gilbert-ryle.md)** (1900–1976) — The "ghost in the machine" is a category mistake: mental talk describes dispositions and abilities, not occult inner processes.
+- **[Wittgenstein](eras/05-20th-century/wittgenstein-late.md)** (1889–1951) — A private language for inner sensations is impossible: meaning needs public criteria, so mind is not a hidden inner chamber.
+- **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Consciousness, the for-itself, is a nothingness at the heart of being: it is what it is not, and is not what it is.
+- **[Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (1908–1961) — The body is our subject, not an object we own: perception is the body's operative intentionality toward a world.
+- **[Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md)** (1919–2001 / 1920–2010) — Anscombe's *Intention* anchors intention and action in the descriptions under which behaviour is done, not in private mental mechanisms.
+
+---
+
+## 3. God & Religion — Does God exist, and what follows for faith and reason?
+
+- **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — Number is divine order; philosophy itself is a purifying way of life within a religious brotherhood honouring cosmic harmony.
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The Demiurge fashions the cosmos looking to the Good; the *Laws* argues that gods exist, care for us, and cannot be bought.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — The unmoved mover — thought thinking itself — moves all things by being loved: theology crowns first philosophy.
+- **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — Gods exist as blessed, imperishable beings in the spaces between worlds — and take no notice of us whatever.
+- **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — The cosmos is one rational, providential *Logos* — Zeus, nature, or fate — and piety is consenting to its order.
+- **[Plotinus](eras/01-ancient/plotinus.md)** (c. 204/205–270) — Beyond gods and being stands the One, source of all, approachable only by negation and by ecstatic union.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — God creates from nothing and outside time; evil is no substance but a privation of good; faith seeks understanding.
+- **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — God sees all time in an eternal present, so foreknowledge no more compels events than your seeing an act compels it.
+- **[Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c. 800–c. 877) — God is the superessential Nothing from which nature proceeds and to which it returns, beyond every name we predicate.
+- **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — From the contingency of everything else: there must be a Necessary Existent, one and simple — the God of the philosophers.
+- **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — God is that than which nothing greater can be conceived; existing in reality is greater — so God exists.
+- **[Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (1098–1179) — God is known through vision: the living light speaks, and cosmology, medicine, and music all answer to what was seen.
+- **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Scripture and demonstration cannot conflict; where they seem to, scripture is read allegorically — the *Decisive Treatise* makes this a legal duty.
+- **[Maimonides](eras/02-medieval/maimonides.md)** (c. 1138–1204) — We can say only what God is *not*: any attribute shared with creatures would be a likeness where none exists.
+- **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The Five Ways argue from motion, causation, contingency, gradation, and governance to God; philosophy and sacred doctrine harmonise.
+- **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1266–1308) — "Being" is said univocally of God and creatures — otherwise natural theology could prove nothing about God at all.
+- **[Ockham](eras/02-medieval/william-of-ockham.md)** (c. 1287–1347) — Reason proves far less about God than the schools claimed: his existence is held by faith, and omnipotence bows to no created order.
+- **[Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (1401–1464) — Learned ignorance: God is the coincidence of opposites, beyond affirmation and negation, glimpsed through mathematical symbols.
+- **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — Judge religion by its political fruits: Rome's cult made armies obedient and republics durable — its truth is not the statesman's question.
+- **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — Natural theology collapses under Pyrrhonian audit: we believe by grace and custom, not by proofs our reason supplies.
+- **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — God is proven from the idea of perfection stamped in me (the "trademark") and from his essence — and God underwrites truth itself.
+- **[Pascal](eras/03-early-modern/blaise-pascal.md)** (1623–1662) — The God of Abraham hides himself; where proofs end, the Wager addresses the libertine: you must bet — bet on God.
+- **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — *Deus sive Natura*: God is the one infinite substance; scripture teaches obedience, not philosophy; miracles betray ignorance of causes.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Christianity is reasonable and its core minimal; coercion cannot manufacture faith — hence toleration in church and state.
+- **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — God, surveying possible worlds, chose the best; evil is permitted only as the condition of an optimal whole — theodicy.
+- **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Immaterialism is an anti-atheist argument: a world always perceived is a world held in being by God's mind.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — The *Dialogues* leave the design argument in ruins, testimony never outweighs experience for miracles, and religion's roots are fear and hope.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Speculative proofs fail, but practical reason postulates God and immortality; religion within reason is morality recognised as divine command.
+- **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — The Savoyard Vicar believes by sentiment, moved by nature's order — while the state still requires a civil religion of its own.
+- **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — Religion and philosophy have the same content: religion pictures the Absolute, philosophy comprehends in concepts what faith represents.
+- **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Humanity itself becomes the object of worship: the positivist Religion of Humanity completes the law of three stages.
+- **[Kierkegaard](eras/04-19th-century/soren-kierkegaard.md)** (1813–1855) — Faith is passionate inwardness holding fast an objective uncertainty — Abraham's suspension of the ethical, not a conclusion from evidence.
+- **[Marx](eras/04-19th-century/karl-marx.md)** (1818–1883) — Religion is the opium of the people: an illusory happiness to be abolished by abolishing the conditions that require illusions.
+- **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — God is dead — killed by our own truthfulness; Christian morality stands exposed as the slave revolt in values.
+- **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Where an option is live, forced, and momentous, and evidence is indecisive, our passional nature may lawfully decide to believe.
+- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — *Why I Am Not a Christian*: the arguments fail, the historical record is cruel, and fear — not reason — is religion's root.
+- **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — God is met by attention, and in affliction (*malheur*): decreation empties the self so that grace can pass through.
+- **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — God comes to mind in the face of the other person: transcendence is ethics before it is doctrine or cult.

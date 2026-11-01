@@ -49,6 +49,33 @@ Aquinas's ethics joins Aristotle's virtue theory to a theory of law. The **etern
 
 Against both Platonic dualism and Averroes' single shared intellect, Aquinas's Aristotelian hylomorphism holds that the rational soul is the substantial *form* of the human body — the principle that makes this body a living human body. Unlike other forms, however, the rational soul is also subsistent: it has an operation (thinking) not performed through a bodily organ, so it can survive death — but the separated soul is not the complete person: "my soul is not I." Full personal survival therefore requires the resurrection of the body, a conclusion where philosophy hands over to theology. Individuation within a species comes from designated matter, which raises the tricky problem of how angels (immaterial) differ from one another — Aquinas answers that each angel is its own species.
 
+## Signature arguments
+
+**The First Way: from motion (*Summa Theologiae* I q.2 a.3)**
+
+1. Some things are in motion — in Aquinas's sense, changing, being reduced from potency to act: wood that can be hot becomes actually hot.
+2. Whatever is changed is changed by another: a thing cannot actualise its own potency in the same respect at the same time, since it would have to be both in act and in potency in that respect.
+3. In an essentially ordered series of changers — where each member changes another only insofar as it is itself being changed here and now — the series cannot regress infinitely, or there would be no first source of the change and hence no change at all.
+Therefore, there exists a first changer, itself unchanged by anything else — and this everyone understands to be God.
+
+**Objection.** Modern physics seems to cut the ground away: Newton's first law says a body in motion stays in motion without any continuing mover, so motion needs no present cause. And even granting the regress must stop, why stop at God — what changed God?
+
+**Reply.** Thomists reply that "motion" here is change in general — the actualisation of potency — not just local motion needing a push, so inertia, a law about velocity, does not address it: what needs explanation is a potency being actualised at all, here and now, in a *per se* series. The question "what changed God?" then misapplies: the first changer is defined as pure act, not the kind of thing that has potency to be actualised, so it is not one more member of the series awaiting a changer. The other four Ways — from efficient causation, contingency, degrees of perfection, and governance — follow similar patterns, moving from an observed feature of the world to a first principle in its order; the Third Way is reconstructed next.
+
+**The Third Way: from contingency**
+
+1. Some things are contingent: they are generated and corrupted, and so can be and can fail to be.
+2. If everything were contingent in this way, then — given infinite time — at some time nothing would exist, since what can fail to exist at some time does not exist.
+3. From nothing, nothing comes: if nothing had ever existed, nothing could exist now either.
+4. But things plainly exist now.
+Therefore, not everything is contingent: a necessary being exists, and a being that is necessary through itself, receiving its necessity from nothing else, is God.
+
+**Objection.** The classic objection is that the argument commits a quantifier shift. From "for each contingent thing, there is some time at which it does not exist" it does not follow that "there is some time at which every contingent thing does not exist": the failures could be staggered forever, like members of a relay team, so that something always exists even though nothing always does. Step 2, on this reading, trades on an illicit move between "each" and "all at once."
+
+**Reply.** Defenders reply that the premise concerns the whole order of contingent being over infinite time, not a shift between individual times: if the totality's existence is at every point merely possible, then over an infinite span the possibility of its non-existence must somewhere be realised, leaving nothing from which present things could derive. Critics respond that this defence needs its own defence — probabilities over infinite time do not settle metaphysical possibility so easily. The dispute is live and unresolved in the scholarship, and the Third Way is best studied as an open argument, not a closed one.
+
+Fuller reconstructions of the *Summa Theologiae*'s arguments are in the study guide: [Summa study guide](../../study/aquinas-summa.md).
+
 ## Key works
 
 - **On Being and Essence** (*De Ente et Essentia*, c. 1252–56) — short early treatise; the best single entry to his metaphysics of essence and existence.

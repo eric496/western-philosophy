@@ -35,6 +35,31 @@ Within Anselm's lifetime, the monk Gaunilo of Marmoutiers answered *In Behalf of
 
 Anselm's methodological novelty: in the *Monologion* he undertakes to establish the central doctrines "by reason alone" (*sola ratione*), bracketing scriptural authority — not to replace faith but to display its intelligibility. This disciplined separation of the argument from appeals to authority, pursued inside a monastic culture of prayer, is why Anselm is credited with founding scholasticism, the university tradition of the next centuries: theology done by question, objection, and rational resolution.
 
+## Signature arguments
+
+**The ontological argument (*Proslogion* II)**
+
+1. God is that than which nothing greater can be conceived — a being even the fool who denies God understands when he hears the phrase.
+2. That than which nothing greater can be conceived therefore exists at least in the understanding.
+3. To exist in reality as well as in the understanding is greater than to exist in the understanding alone.
+4. Suppose it existed only in the understanding: then a greater could be conceived, namely the same being also existing in reality.
+Therefore, that than which nothing greater can be conceived cannot exist only in the understanding; God exists in reality.
+
+**Objection.** Gaunilo's lost island parodies the form: take an island more excellent than all other lands, existing in the understanding; by the same reasoning it must exist in reality, or a greater, really existing island could be conceived — yet plainly it need not exist. If the reasoning proves too much, something in its form must be wrong.
+
+**Reply.** Anselm replies that the cases are not parallel. An island, however excellent, is the kind of thing that can always be conceived to be greater than any island so far conceived, and can without contradiction be conceived not to exist at all, so the reasoning never gets a grip on it. His argument is claimed to work uniquely for that than which nothing greater can be conceived, whose non-existence is supposed to be inconceivable. Whether that uniqueness claim succeeds, or simply asserts what the parody disputes, remains the crux of the debate.
+
+**The necessary-existence argument (*Proslogion* III)**
+
+1. A being that cannot be conceived not to exist is greater than a being that can be conceived not to exist.
+2. Suppose that than which nothing greater can be conceived could be conceived not to exist.
+3. Then a greater could be conceived — one that cannot be conceived not to exist — which contradicts its being that than which nothing greater can be conceived.
+Therefore, that than which nothing greater can be conceived so truly exists that it cannot even be conceived not to exist: God exists necessarily.
+
+**Objection.** Kant's later objection is that existence is not a real predicate or perfection: the concept of a thing — his example is a hundred thalers — is not enlarged by adding that it exists, so no amount of analysis of a concept, however exalted, can settle whether anything answers to it. On this view, *Proslogion* II's crucial step, treating existing in reality as a greatness, is a mistake, and the same mistake carries into the modal version.
+
+**Reply.** The standard reply on Anselm's behalf is that the point at issue is not bare existence but *necessary* existence: Anselm is not adding a property to a list, but arguing that a being whose non-existence is inconceivable cannot be treated as one more contingent item whose concept leaves reality open. Defenders add that Kant's thalers are contingent things, where the reply concedes his point. Scholars debate whether this answers Kant — a critic may grant the concept of necessary existence while denying that anything instantiates it, or that the concept is even coherent — so the exchange is best presented as an open dispute, not a settled verdict either way.
+
 ## Key works
 
 - **Monologion** (1076) — a "meditation" proving God's existence and attributes by reason alone; the long way round that the *Proslogion* sought to replace with one argument.

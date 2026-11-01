@@ -67,6 +67,30 @@ If government breaks the trust, who shall judge? “The people shall be judge.�
 
 The *Letter Concerning Toleration* (1689) argues the magistrate’s business is civil interests — life, liberty, property — not salvation. True religion is inward persuasion, which force cannot produce: a church is a voluntary society, and coercion manufactures hypocrisy, not faith. Locke’s own limits are revealing and much debated: he excluded atheists, whose oaths he thought could not bind them, and distrusted groups he believed owed allegiance to a foreign power — limits his own principles have since been used to criticise and extend beyond.
 
+## Signature arguments
+
+**The argument against innate ideas (*Essay*, Book I)**
+
+1. A truth counts as innate only if it is universally assented to, at least once it is understood.
+2. Children and people with severe cognitive impairments assent to no speculative or practical principles — not even to the principle of non-contradiction or to basic moral rules.
+3. What is assented to only later, after teaching and reasoning, is acquired in the ordinary way, not discovered already stamped on the mind.
+Therefore, no ideas or principles are innate, and the mind begins as "white paper," furnished thereafter by experience.
+
+**Objection.** Ideas could be innate dispositionally: present not as conscious assent but as capacities or tendencies, assented to when reason matures. This is the line Leibniz later developed against Locke in the *New Essays*, comparing the mind to veined marble predisposed to one shape rather than another.
+
+**Reply.** Locke answers that a disposition to acquire an idea from experience is just the mind's general capacity to learn, which nobody denies. If every idea we are capable of forming thereby counts as innate, the doctrine loses its content: it no longer marks off a special stock of God-given truths needing no experience. The dispute is partly about what "innate" must mean to be worth defending, and Leibniz's more sophisticated dispositional version — tendencies and inclinations rather than ready-made thoughts — is generally treated as a genuine advance in the debate, not a mere restatement of the position Locke attacked.
+
+**Personal identity as consciousness (*Essay* II.xxvii)**
+
+1. A person is a thinking being that can consider itself as itself, the same thinking thing, at different times and places.
+2. Personal identity consists in sameness of consciousness: I am the same person as the doer of a past action insofar as I can remember that experience or action as my own, from the inside.
+3. Consciousness can in principle accompany a different body, or fail to connect stages of the same body or immaterial substance.
+Therefore, identity of person can diverge both from identity of body and from identity of immaterial substance; being the same person is a separate question from being the same living organism or soul.
+
+**Objection.** Memory looks circular and gappy. Butler charged that consciousness of personal identity presupposes the very identity it is meant to constitute, since genuine remembering already assumes the experience was mine. Reid's "brave officer" case adds that memory-chains can break transitivity: the old general remembers the officer, the officer remembered the boy, but the general cannot remember the boy — yet identity, unlike remembered connection, must be transitive.
+
+**Reply.** Lockeans distinguish the evidence for identity from what constitutes it, arguing that apparent memory can misfire without undermining consciousness as the criterion. Others move to psychological continuity with overlapping memory chains — the modern descendant of Locke's view — so direct recall of every stage is not required. On the brave-officer case, that continuity view answers Reid by chaining the general to the boy through the officer, even though no single memory spans the whole distance. Both moves are best presented as a debate Locke started rather than settled, since each revision moves some distance from the letter of II.xxvii.
+
 ## Key works
 
 - *Essay Concerning Human Understanding* (1689; some cite 1690 — title pages straddle the publication winter of 1689–90; this entry follows the 1689 convention) — Against innate ideas; the sources of ideas; words and their abuses; knowledge and probability.

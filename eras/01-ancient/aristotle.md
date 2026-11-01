@@ -61,6 +61,32 @@ Humans are by nature political animals (*zōa politika*): speech lets us debate 
 
 The *Poetics* analyses tragedy: plot unified around an action, a protagonist falling through error (*hamartia*), and *catharsis* — a contested term, meaning purging, purification, or clarification of pity and fear. Its account of plot still structures writing manuals.
 
+## Signature arguments
+
+**The function argument (*Nicomachean Ethics* I.7)**
+
+1. For anything that has a function (*ergon*) — a flautist, a sculptor, an eye — its good lies in performing that function well.
+2. If human beings as such have a function, it must be what is distinctive to them, not life as nutrition and growth, which plants share, nor perception, which other animals share.
+3. What is distinctive is activity of the soul in accordance with reason — and, where several kinds of excellence are possible, in accordance with the best and most complete of them.
+Therefore, the human good, *eudaimonia*, is activity of the soul in accordance with virtue over a complete life: our characteristic activity, performed excellently.
+
+**Objection.** Humans, critics object, do not obviously have a function at all: tools and organs have functions because they are made or used for something, but no maker assigns a purpose to a whole human life. And even granting that rational activity is distinctive of us, distinctiveness alone does not show it is our *good* — a capacity might be peculiar to humans without its exercise being what makes a life go well.
+
+**Reply.** On Aristotle's behalf, his function is not a purpose imposed by a maker, as a knife's is imposed by a craftsman. It is internal to a life-form: the characteristic activity whose good performance just *is* that form of life going well, as seeing well is the eye's flourishing. Whether rationality can play this role depends on Aristotle's wider teleology of nature, and scholars still debate whether the move from "distinctive" to "good" is earned or assumed — but the argument is not the crude claim that humans were designed for a job.
+
+**The unmoved mover (*Physics* VIII, *Metaphysics* XII)**
+
+1. Motion — change in general — is eternal: it has no beginning and no end, since any supposed first change would already require a prior change in conditions.
+2. Whatever is moved is moved by something else, and a series of movers each of which is itself only moved by another would leave the motion unexplained.
+3. The series must therefore terminate in something that moves other things without itself being moved, as an object of desire moves a desirer without changing.
+Therefore, a first, unmoved mover exists: pure actuality with no unrealised potentiality, moving the heavens as a final cause.
+
+**Objection.** Why must the regress of movers stop at all — why not an eternal series with no first member? And why *one* mover? Aristotle's own astronomy assigns separate movers to the many celestial spheres, so his argument seems at most to establish many unmoved movers, not a single first principle.
+
+**Reply.** The standard defence, developed carefully by later scholastic readers, turns on the kind of series at issue: in a *per se* ordered series, where each member moves only insofar as it is being moved here and now, an infinite regress would leave nothing with underived power to move, so the series cannot regress infinitely. Aristotle's prime mover is then first in order and dignity — the mover of the outermost heaven, on which the whole cosmic order depends — which is compatible with subordinate unmoved movers for the inner spheres. Whether this fully answers the objection, or instead imports later metaphysics into Aristotle, remains a matter of scholarly dispute.
+
+Fuller reconstructions of the *Nicomachean Ethics*' arguments are in the study guide: [Nicomachean Ethics study guide](../../study/aristotle-nicomachean-ethics.md).
+
 ## Key works
 
 Dates are approximate; most treatises took shape during the Lyceum years, 335–322 BCE.

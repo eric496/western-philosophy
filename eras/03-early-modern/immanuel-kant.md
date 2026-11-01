@@ -69,6 +69,32 @@ Theoretical reason could not prove freedom, God, or immortality — and critique
 
 *Toward Perpetual Peace* (1795) sketches a federation of republican states, cosmopolitan right limited to hospitality, and public law as conditions for ending war — an ancestor of liberal internationalism. The *Critique of Judgment* (1790) analyses beauty as “purposiveness without a purpose” — pleasing universally yet without a concept — and teleological judgment as our necessary but regulative way of thinking about organisms.
 
+## Signature arguments
+
+**The universal-law test (*Groundwork*)**
+
+1. Act only on that maxim — your subjective principle of action — through which you can at the same time will that it become a universal law.
+2. Take the test case of a lying promise: universalised, everyone makes promises they do not intend to keep whenever it suits them.
+3. Universalised in that way, the maxim destroys the practice of promising it depends on, since no one would believe promises any longer — a contradiction in conception.
+Therefore, a maxim that fails the test is contrary to duty, and the moral law is the categorical imperative: act only on universalizable maxims.
+
+**Objection.** Hegel's charge of empty formalism: universalizability alone yields no determinate duties. Cleverly framed maxims describing bad acts in very specific terms may pass the test, while innocent maxims, described unluckily, may fail it — so the test seems to license too much and condemn too much.
+
+**Reply.** Kantians reply that the test works on honestly described maxims, not on descriptions gerrymandered to escape it, and that it does not work alone. The formula of humanity — treat persons always also as ends, never merely as means — supplies content the universal-law formula leaves abstract. Kant presents the formulas as one moral law viewed from different sides, not as rival tests. Whether that defence fully answers Hegel — or quietly concedes that universalizability needs supplementing — remains a live question in Kant scholarship, and the two formulas are often taught together for exactly that reason.
+
+**The transcendental argument (*Critique of Pure Reason*)**
+
+1. We have unified, objective experience: a world of enduring objects standing in an objective temporal and causal order, not a mere stream of private impressions.
+2. Such experience is possible only if the mind structures appearances under a priori concepts — the categories — as when causality is required to distinguish an objective succession of events from a merely subjective sequence of perceptions.
+3. These concepts are contributed by the understanding itself, not derived from the experience they make possible.
+Therefore, the categories legitimately apply to everything that can be an object of experience — but only to appearances, never to things in themselves beyond possible experience.
+
+**Objection.** Barry Stroud's famous challenge to transcendental arguments: at most, such an argument shows that we must *believe* the world is causally ordered, or experience it *as if* it were. It does not follow, without a further bridge principle, that the world actually is as we must conceive it to be.
+
+**Reply.** For Kant, within his system, the gap the objection opens collapses. Objects of experience just are appearances structured by the mind's forms and categories, so a condition necessary for experiencing objects at all is thereby a condition those objects, as experienced, genuinely satisfy. The conclusion is deliberately modest in scope: it holds for the only "world" we can meaningfully discuss, the world of possible experience. Stroud's challenge has nonetheless proved durable as a test for transcendental arguments generally — later philosophers who borrow Kant's strategy, without his idealism, have to find their own bridge from "we must think it so" to "it is so."
+
+Fuller reconstructions are in the study guide: [*Groundwork*](../../study/kant-groundwork.md).
+
 ## Key works
 
 - *Critique of Pure Reason* (1781, “A”; substantially revised 1787, “B”) — The masterwork on the structure and limits of theoretical knowledge; cited by A/B page.

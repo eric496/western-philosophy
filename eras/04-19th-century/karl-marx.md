@@ -43,6 +43,32 @@ The first chapter of *Capital* argues that under capitalism, social relations be
 
 In the *Theses on Feuerbach* (1845, published by Engels in 1888), Marx breaks with both idealism and contemplative materialism: truth is a practical question, and human beings make themselves by transforming their world. The eleventh thesis became the movement's motto: "The philosophers have only *interpreted* the world, in various ways; the point is to *change* it."
 
+## Signature arguments
+
+**The alienation argument**
+
+1. Labour, for Marx, is the distinctively human activity: in free, conscious production, human beings realise themselves and express their *species-being* — their capacity to create deliberately, in common with others.
+2. Under private property and wage labour, the worker is separated from the product of labour, which belongs to another and confronts him as an alien power.
+3. He is also separated from the activity itself, since labour is forced and external — a means of survival, not self-expression — and thereby from his species-being, which is degraded into mere subsistence.
+4. Finally, he is separated from other people, who meet him as owners, managers, and competitors rather than as fellow producers.
+Therefore, wage labour under capitalism is alienated labour: the worker's own activity confronts him as an alien power.
+
+**Objection.** The argument seems to depend on an essentialist picture of human nature — a fixed species-being against which actual labour is measured. On some readings, notably Louis Althusser's thesis of an “epistemological break” around 1845, the later Marx abandoned that humanist essence, and without it “alienation” loses its standard.
+
+**Reply.** Defenders argue that the critique survives in the later work in altered form, above all as the analysis of commodity fetishism and of workers dominated by the products of their own labour in *Capital*. On this continuity reading, the vocabulary changes more than the underlying charge. The break reading itself is contested, and scholars present the young-versus-mature Marx question as a genuine debate, not a settled division.
+
+**The exploitation argument**
+
+1. In *Capital*, Vol. 1, the value of a commodity is determined by the socially necessary labour time embodied in it.
+2. Labour-power — the worker's capacity to work, which is what he actually sells — is itself a commodity, whose value is the cost of reproducing the worker: the labour time needed for his subsistence and training.
+3. Labour-power has the peculiar property that its use creates more value than it costs: the worker can work longer in a day than the time required to produce the equivalent of his wage.
+4. The capitalist, who buys labour-power at its value and owns the product, appropriates the difference.
+Therefore, that difference — surplus value — is appropriated by the capitalist, and profit rests on unpaid labour time.
+
+**Objection.** The labour theory of value faces two standard challenges. Marginalist economics explains prices by supply, demand, and marginal utility rather than embodied labour, and the transformation problem notes that, in Marx's own later volumes, prices systematically diverge from values.
+
+**Reply.** Defenders distinguish value from price and read *Capital*'s value theory as an account of the social form of labour under capitalism, not a simple price formula. Others take a different route: analytical Marxists such as John Roemer restate exploitation through unequal property relations, without relying on the labour theory of value. Whether exploitation needs Marx's value theory, or survives its abandonment, remains part of the debate.
+
 ## Key works
 
 - *Economic and Philosophic Manuscripts of 1844* (written 1844; published 1932) — The alienation analysis; the key text for the "young Marx."
