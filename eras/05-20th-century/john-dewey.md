@@ -15,7 +15,7 @@
 
 Dewey was born in Burlington, Vermont, in 1859, the year Darwin published *On the Origin of Species* — a coincidence he liked, since Darwin's rethinking of fixed species shaped his own rejection of fixed essences and eternal truths. After studying at the University of Vermont, he took his PhD at Johns Hopkins in 1884, in an intellectual atmosphere still dominated by German idealism; the young Dewey wrote as a Hegelian.
 
-The Hegelianism gradually fell away as Darwin, William James's *Principles of Psychology* (1890), and his own experimental work took hold. At the University of Chicago (1894–1904) he founded the Laboratory School, where his educational ideas were tested on real children rather than merely theorised, and published the landmark 1896 paper "The Reflex Arc Concept in Psychology," an early shot in his campaign against carving mind and world into separate pieces. A quarrel with the university president pushed him out; he moved to Columbia University in New York (1904–1930) and became the most famous public intellectual in America: lecturing in China (1919–21, where he influenced a generation of reformers) and Japan, chairing the 1937 commission that investigated the Moscow Trials' charges against Trotsky, and writing on nearly every public question of the age.
+The Hegelianism gradually fell away as Darwin, William James's *Principles of Psychology* (1890), and his own experimental work took hold. At the University of Chicago (1894–1904) he founded the Laboratory School, where his educational ideas were tested on real children rather than merely theorized, and published the landmark 1896 paper "The Reflex Arc Concept in Psychology," an early shot in his campaign against carving mind and world into separate pieces. A quarrel with the university president pushed him out; he moved to Columbia University in New York (1904–1930) and became the most famous public intellectual in America: lecturing in China (1919–21, where he influenced a generation of reformers) and Japan, chairing the 1937 commission that investigated the Moscow Trials' charges against Trotsky, and writing on nearly every public question of the age.
 
 He retired from Columbia in 1930 but kept writing — *Art as Experience* and the *Logic* came after — and died in New York in 1952, aged 92, still at work.
 
@@ -35,7 +35,7 @@ In *Human Nature and Conduct* (1922), morality is rebuilt on **habits**: not mec
 
 ### Education as growth
 
-*Democracy and Education* (1916) argues that education is not preparation for life but life itself: growth is its only end ("the educational process has no end beyond itself"). Hence learning by doing, curricula organised around occupations and problems rather than isolated subjects, and hostility both to rote traditional schooling and to undisciplined "child-centred" romanticism (he criticised both in *Experience and Education*, 1938). The school should be an embryonic democratic community.
+*Democracy and Education* (1916) argues that education is not preparation for life but life itself: growth is its only end ("the educational process has no end beyond itself"). Hence learning by doing, curricula organized around occupations and problems rather than isolated subjects, and hostility both to rote traditional schooling and to undisciplined "child-centred" romanticism (he criticized both in *Experience and Education*, 1938). The school should be an embryonic democratic community.
 
 ### Democracy and the public
 
@@ -71,8 +71,8 @@ Progressive education worldwide drew on Dewey, sometimes faithfully, often in di
 
 ## Misreadings to avoid
 
-- Dewey did **not** say children should just do whatever they like; he criticised laissez-faire classrooms as firmly as rote ones.
-- "Learning by doing" does not mean activity without content — the doing must be organised around genuine problems with real subject matter.
+- Dewey did **not** say children should just do whatever they like; he criticized laissez-faire classrooms as firmly as rote ones.
+- "Learning by doing" does not mean activity without content — the doing must be organized around genuine problems with real subject matter.
 - Pragmatism in Dewey's hands is not "whatever works for me": inquiry is social, experimental, and answerable to consequences anyone can check.
 
 ## What to read first

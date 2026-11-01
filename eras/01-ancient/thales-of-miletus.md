@@ -19,7 +19,7 @@ The plausible core is this. Thales lived in Miletus around 600 BCE, when it was 
 
 Two famous stories illustrate the problem. Herodotus says Thales predicted a solar eclipse that stopped a battle between the Lydians and the Medes, traditionally dated to 585 BCE. Babylonian astronomers knew cycles that made a *possible* eclipse year predictable, so the story has a plausible core — but predicting a total eclipse visible at a particular place was beyond anyone then, and many scholars think luck or later embroidery did the rest. The second story, told by Aristotle, is frankly a parable: mocked as an impractical stargazer, Thales supposedly rented all the olive presses cheaply before a bumper harvest, then charged what he liked — proving, Aristotle says, that philosophers could be rich if they cared to be. Plato's companion tale has him falling into a well while stargazing. Both anecdotes tell us how later Greeks *thought* about the first philosopher; neither can be trusted as biography.
 
-His death, c. 546 BCE, is equally obscure. What is firm is his succession: Anaximander, a younger Milesian, is said to have been his pupil or associate, and Anaximenes followed. Through them, his questions became a research programme. His work "survives" only as attributed doctrines filtered through Aristotle — who himself signals uncertainty, reconstructing Thales' reasons with phrases like "perhaps he got the idea from seeing that…".
+His death, c. 546 BCE, is equally obscure. What is firm is his succession: Anaximander, a younger Milesian, is said to have been his pupil or associate, and Anaximenes followed. Through them, his questions became a research program. His work "survives" only as attributed doctrines filtered through Aristotle — who himself signals uncertainty, reconstructing Thales' reasons with phrases like "perhaps he got the idea from seeing that…".
 
 ## Major theories and concepts
 
@@ -44,16 +44,16 @@ Later writers credited Thales with several theorems: that a circle is bisected b
 ## Contributions
 
 - **The archē question itself.** Asking "what single natural principle underlies the variety of things?" set the agenda for a century of Presocratic thought, even for those who answered it differently.
-- **Natural explanation as a public activity.** Causes were to be found in the world, stated openly, and criticised by others — a break, in method if not always in content, with mythic accounts in which events happen because a god wills them.
+- **Natural explanation as a public activity.** Causes were to be found in the world, stated openly, and criticized by others — a break, in method if not always in content, with mythic accounts in which events happen because a god wills them.
 - **A bridge for Eastern knowledge.** Whether or not he proved theorems, the tradition correctly remembers Miletus, and Thales with it, as a conduit through which Babylonian astronomy and Egyptian geometry entered Greek thought and were transformed there.
 
 ## Impact and legacy
 
-Thales' direct influence ran through Anaximander and Anaximenes, whose rival archai — the indefinite, air — show his question being argued with rather than repeated. Aristotle placed him at the head of the first history of philosophy, as founder of the search for material causes, and that placement stuck: for over two thousand years he has served as the symbolic starting point of Western philosophy and science. The honour is partly a construction — non-Greek traditions asked cosmological questions too — but it marks something real: in Miletus we first see, in the Greek record, explanation offered as argument, open to replacement by a better argument.
+Thales' direct influence ran through Anaximander and Anaximenes, whose rival archai — the indefinite, air — show his question being argued with rather than repeated. Aristotle placed him at the head of the first history of philosophy, as founder of the search for material causes, and that placement stuck: for over two thousand years he has served as the symbolic starting point of Western philosophy and science. The honor is partly a construction — non-Greek traditions asked cosmological questions too — but it marks something real: in Miletus we first see, in the Greek record, explanation offered as argument, open to replacement by a better argument.
 
 ## Criticisms and debates
 
-Aristotle himself found a single material cause insufficient, since it cannot explain change or form. Modern debates are mostly about evidence. Did Thales hold the water doctrine as Aristotle reports, or did Aristotle systematise a vaguer claim? Did he write anything? Could he have predicted the 585 BCE eclipse? Scholars also debate how sharp the "break with myth" was: a thinker who says all things are full of gods has not left religion behind. None of these can be settled from new evidence; they turn on how much trust to place in Aristotle.
+Aristotle himself found a single material cause insufficient, since it cannot explain change or form. Modern debates are mostly about evidence. Did Thales hold the water doctrine as Aristotle reports, or did Aristotle systematize a vaguer claim? Did he write anything? Could he have predicted the 585 BCE eclipse? Scholars also debate how sharp the "break with myth" was: a thinker who says all things are full of gods has not left religion behind. None of these can be settled from new evidence; they turn on how much trust to place in Aristotle.
 
 ## Misreadings to avoid
 

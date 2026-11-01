@@ -9,7 +9,7 @@
 - **School/tradition:** German Idealism; the culmination of post-Kantian philosophy
 - **Known for:** The claim that reality, history, and mind are one self-developing whole, which comes to understand itself through conflict and reconciliation.
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md)
 
 ## Biography
 
@@ -35,13 +35,13 @@ His slogan "the real is rational and the rational is real" needs care. "Actualit
 
 ### Lordship and Bondage
 
-In the *Phenomenology*'s famous section, two self-consciousnesses meet and struggle for recognition: each wants to be confirmed as free and independent by another. One risks death and becomes lord; the other, fearing death, submits and becomes bondsman (Knecht — often translated "slave"). The outcome reverses itself. The lord gets recognition only from someone he treats as a thing, so the recognition is worthless. The bondsman, by contrast, must work on resistant material; in forming objects durably he sees his own mind made objective, and through fear and disciplined labour achieves a deeper self-relation than the lord ever reaches.
+In the *Phenomenology*'s famous section, two self-consciousnesses meet and struggle for recognition: each wants to be confirmed as free and independent by another. One risks death and becomes lord; the other, fearing death, submits and becomes bondsman (Knecht — often translated "slave"). The outcome reverses itself. The lord gets recognition only from someone he treats as a thing, so the recognition is worthless. The bondsman, by contrast, must work on resistant material; in forming objects durably he sees his own mind made objective, and through fear and disciplined labor achieves a deeper self-relation than the lord ever reaches.
 
-The moral is foundational: selfhood is social. We become selves only through recognition by others, and through work that shapes a shared world. This single passage — a small part of a huge book — was taken up by Marx (labour), by Kojève's influential lectures in 1930s Paris, and by existentialists and theorists of recognition ever since.
+The moral is foundational: selfhood is social. We become selves only through recognition by others, and through work that shapes a shared world. This single passage — a small part of a huge book — was taken up by Marx (labor), by Kojève's influential lectures in 1930s Paris, and by existentialists and theorists of recognition ever since.
 
 ### Philosophy of history and the cunning of reason
 
-Hegel reads world history as "progress in the consciousness of freedom": ancient Eastern worlds knew that *one* (the ruler) is free; the Greek and Roman worlds knew that *some* are free; the modern world, in principle, knows that *all* are free. Individuals pursue their own passions — ambition, greed, glory — yet reason achieves its ends through them: this is the "cunning of reason," as when a conqueror's vanity unintentionally spreads legal and political forms that outlast him. Freedom is realised concretely in *Sittlichkeit*, "ethical life": the institutions of family, civil society (markets, professions, law), and the constitutional state, within which alone individual liberty is more than an empty wish.
+Hegel reads world history as "progress in the consciousness of freedom": ancient Eastern worlds knew that *one* (the ruler) is free; the Greek and Roman worlds knew that *some* are free; the modern world, in principle, knows that *all* are free. Individuals pursue their own passions — ambition, greed, glory — yet reason achieves its ends through them: this is the "cunning of reason," as when a conqueror's vanity unintentionally spreads legal and political forms that outlast him. Freedom is realized concretely in *Sittlichkeit*, "ethical life": the institutions of family, civil society (markets, professions, law), and the constitutional state, within which alone individual liberty is more than an empty wish.
 
 ## Signature arguments
 
@@ -53,33 +53,33 @@ Hegel reads world history as "progress in the consciousness of freedom": ancient
 4. The slave, through fear and through formative work on resistant things, learns discipline and sees his own mind made durable in what he shapes, achieving a mind of his own.
 Therefore, recognition must be mutual: one-sided domination defeats its own aim, because the recognition it extracts is worthless to the one who extracts it.
 
-**Objection.** Read as history, the passage is speculative anthropology. There is no evidence that human selfhood actually arose through a life-and-death struggle followed by slavery and labour, and the “argument” can look like narrative rather than proof.
+**Objection.** Read as history, the passage is speculative anthropology. There is no evidence that human selfhood actually arose through a life-and-death struggle followed by slavery and labor, and the “argument” can look like narrative rather than proof.
 
-**Reply.** On the standard defence, Hegel's phenomenology is not empirical history but a reconstruction of the logic of self-consciousness. Its force is conceptual: whatever the actual prehistory, domination structurally cannot supply the recognition it seeks, since recognition counts only from someone recognised as free. That conceptual point, more than any historical claim, is what launched Alexandre Kojève's famous lectures and recognition theory since.
+**Reply.** On the standard defense, Hegel's phenomenology is not empirical history but a reconstruction of the logic of self-consciousness. Its force is conceptual: whatever the actual prehistory, domination structurally cannot supply the recognition it seeks, since recognition counts only from someone recognized as free. That conceptual point, more than any historical claim, is what launched Alexandre Kojève's famous lectures and recognition theory since.
 
 **The argument for ethical life over abstract morality**
 
 1. Kantian morality (*Moralität*), taken alone, is an abstract “ought”: the test of whether a maxim can be willed as universal law does not by itself determine concrete duties.
 2. An agent who consults only that test is left with empty formalism — or quietly smuggles in duties borrowed from the social world around him.
 3. Duties become determinate only within ethical life (*Sittlichkeit*): the institutions of family, civil society, and the state, which form agents' characters and specify what fidelity, honesty, and responsibility actually require here.
-4. Freedom, correspondingly, is not merely the capacity to will abstractly, but is actual when agents find their own purposes realised in such institutions.
+4. Freedom, correspondingly, is not merely the capacity to will abstractly, but is actual when agents find their own purposes realized in such institutions.
 Therefore, freedom is actual only as participation in rational institutions, not as abstract willing.
 
-**Objection.** This seems to baptise existing institutions. If duties are whatever family, market, and state happen to demand, then “rational” becomes a compliment paid to the status quo — the conservative reading pressed by critics from Marx onward.
+**Objection.** This seems to baptize existing institutions. If duties are whatever family, market, and state happen to demand, then “rational” becomes a compliment paid to the status quo — the conservative reading pressed by critics from Marx onward.
 
-**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualise freedom, and his slogan that “what is rational is actual” expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
+**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualize freedom, and his slogan that “what is rational is actual” expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
 
 ## Key works
 
 - *Phenomenology of Spirit* (1807) — A "ladder" for ordinary consciousness: a tour through forms of awareness (perception, master and slave, morality, religion) each collapsing under its own contradictions until absolute knowing. Famously difficult; enter with a guide.
 - *Science of Logic* (1812–16) — Hegel's attempt to derive the basic categories of thought (being, essence, concept) from one another. The engine room of the system, and its hardest book.
-- *Encyclopaedia of the Philosophical Sciences* (1817; revised 1827, 1830) — The whole system in outline: logic, philosophy of nature, philosophy of spirit. The most manageable overview he published.
+- *Encyclopedia of the Philosophical Sciences* (1817; revised 1827, 1830) — The whole system in outline: logic, philosophy of nature, philosophy of spirit. The most manageable overview he published.
 - *Elements of the Philosophy of Right* (published late 1820; title page dated 1821) — His political philosophy: property, contract, crime, family, civil society, and the state, with the famous Preface containing the "rational/actual" slogan and the image of philosophy as "the owl of Minerva" that flies at dusk, understanding an age only as it ends.
 - *Lecture courses* (delivered repeatedly 1818–31; published posthumously from student transcripts) — The *Lectures on the Philosophy of History*, *Lectures on Aesthetics*, *Lectures on the Philosophy of Religion*, and *Lectures on the History of Philosophy*: enormously influential, but editorial reconstructions rather than texts Hegel himself published — read them with that caution.
 
 ## Contributions
 
-Hegel made philosophy irretrievably historical and social. Before him, Kant had asked what the mind must be like for experience to be possible; Hegel asked how mind itself is formed by history, language, labour, and institutions. He gave philosophy a developmental logic — concepts and societies understood through their internal tensions and transformations — and a model of selfhood as recognised, embodied, and institutional. He also effectively invented the modern history of philosophy and the systematic philosophy of art and history as academic fields.
+Hegel made philosophy irretrievably historical and social. Before him, Kant had asked what the mind must be like for experience to be possible; Hegel asked how mind itself is formed by history, language, labor, and institutions. He gave philosophy a developmental logic — concepts and societies understood through their internal tensions and transformations — and a model of selfhood as recognized, embodied, and institutional. He also effectively invented the modern history of philosophy and the systematic philosophy of art and history as academic fields.
 
 ## Impact and legacy
 
@@ -93,7 +93,7 @@ Schopenhauer despised him as a charlatan obscurantist — a charge of deliberate
 
 - "Thesis–antithesis–synthesis" is not Hegel's formula or method in that mechanical form.
 - "The real is rational" does not mean "whatever exists is good or justified"; "actuality" is a technical subset of existence.
-- Lordship and Bondage is one passage about recognition and labour, not the whole system and not a literal theory of historical slavery.
+- Lordship and Bondage is one passage about recognition and labor, not the whole system and not a literal theory of historical slavery.
 - Hegel was not simply a court philosopher rubber-stamping Prussia; his actual politics remain debated.
 
 ## What to read first

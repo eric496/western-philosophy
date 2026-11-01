@@ -13,9 +13,9 @@
 
 ## Biography
 
-Anselm was born in 1033 in Aosta, in the Italian Alps, to a Lombard noble family. His pious mother drew him toward religion; his worldly father opposed a monastic vocation, and after a period of youthful wandering — studying in Burgundy and France and living, by his own later account, carelessly — Anselm arrived at the abbey of Bec in Normandy, drawn by the fame of its prior, Lanfranc, the leading scholar-teacher of the day. He entered the monastery in 1060, succeeded Lanfranc as prior and then as abbot (1078), and made Bec a centre of learning. It was in these monastic years that he wrote his philosophical works, as meditations for his monks: the *Monologion* (1076), an attempt to prove God's existence and attributes by reason alone without quoting Scripture, and the *Proslogion* (1077–78), which reduced that whole investigation to a single argument he had been seeking — one consideration, he says, that by itself suffices.
+Anselm was born in 1033 in Aosta, in the Italian Alps, to a Lombard noble family. His pious mother drew him toward religion; his worldly father opposed a monastic vocation, and after a period of youthful wandering — studying in Burgundy and France and living, by his own later account, carelessly — Anselm arrived at the abbey of Bec in Normandy, drawn by the fame of its prior, Lanfranc, the leading scholar-teacher of the day. He entered the monastery in 1060, succeeded Lanfranc as prior and then as abbot (1078), and made Bec a center of learning. It was in these monastic years that he wrote his philosophical works, as meditations for his monks: the *Monologion* (1076), an attempt to prove God's existence and attributes by reason alone without quoting Scripture, and the *Proslogion* (1077–78), which reduced that whole investigation to a single argument he had been seeking — one consideration, he says, that by itself suffices.
 
-When Lanfranc, by then Archbishop of Canterbury, died, Anselm was drafted as his successor in 1093 — he claimed, with evident sincerity, against his will. His archiepiscopate was consumed by conflict with two kings, William Rufus and Henry I, over the rights of the church: royal control of appointments (investiture), church revenues, and obedience to the pope. Twice Anselm went into exile (1097–1100, 1103–1106), travelling to Rome and writing, in the first exile, his *Cur Deus Homo* ("Why God Became Man"). He returned, reached a settlement on investiture, and died at Canterbury in 1109. His works were preserved by his monks and his biographer Eadmer; he was canonised in 1494 and named a Doctor of the Church in 1720.
+When Lanfranc, by then Archbishop of Canterbury, died, Anselm was drafted as his successor in 1093 — he claimed, with evident sincerity, against his will. His archiepiscopate was consumed by conflict with two kings, William Rufus and Henry I, over the rights of the church: royal control of appointments (investiture), church revenues, and obedience to the pope. Twice Anselm went into exile (1097–1100, 1103–1106), traveling to Rome and writing, in the first exile, his *Cur Deus Homo* ("Why God Became Man"). He returned, reached a settlement on investiture, and died at Canterbury in 1109. His works were preserved by his monks and his biographer Eadmer; he was canonized in 1494 and named a Doctor of the Church in 1720.
 
 ## Major theories and concepts
 
@@ -31,7 +31,7 @@ Within Anselm's lifetime, the monk Gaunilo of Marmoutiers answered *In Behalf of
 
 ### Satisfaction theory of the atonement
 
-*Cur Deus Homo* asks, by reasoned dialogue (Anselm's student Boso voices the objections), why the Incarnation and death of Christ were necessary rather than arbitrary. The feudal-flavoured model: sin is failing to render God the honour due to him; the offence is measured by the dignity of the one offended, so humanity's debt is infinite, and mere repentance does not restore the order of justice — satisfaction must be made, or punishment follow. No mere human can make proportionate satisfaction for an infinite debt; God owes nothing and can give freely. Only a God-man — fully God, fully human — can both owe (as man) and pay (as God). The Incarnation is thus shown to be rationally "fitting," indeed necessary given God's purposes. Tensions: does this bind God to a justice above himself? Anselm answers that God's honour is God's own order and God cannot act against himself — but critics from the twelfth century (Abelard emphasised instead the cross as a demonstration of love awakening love in us) to today debate whether the model makes God look vindictive or the necessity genuine.
+*Cur Deus Homo* asks, by reasoned dialogue (Anselm's student Boso voices the objections), why the Incarnation and death of Christ were necessary rather than arbitrary. The feudal-flavoured model: sin is failing to render God the honor due to him; the offense is measured by the dignity of the one offended, so humanity's debt is infinite, and mere repentance does not restore the order of justice — satisfaction must be made, or punishment follow. No mere human can make proportionate satisfaction for an infinite debt; God owes nothing and can give freely. Only a God-man — fully God, fully human — can both owe (as man) and pay (as God). The Incarnation is thus shown to be rationally "fitting," indeed necessary given God's purposes. Tensions: does this bind God to a justice above himself? Anselm answers that God's honor is God's own order and God cannot act against himself — but critics from the twelfth century (Abelard emphasized instead the cross as a demonstration of love awakening love in us) to today debate whether the model makes God look vindictive or the necessity genuine.
 
 ### Method: faith seeking understanding, reason alone
 
@@ -79,7 +79,7 @@ Here is the ontological argument in its original form. Watch the engine: God is 
 
 ## Contributions
 
-Anselm produced the single most discussed argument in the history of philosophy — a two-page proof that has occupied Aquinas, Descartes, Leibniz, Kant, and Plantinga — and a theory of the atonement that structured Western soteriology for centuries. Methodologically, he pioneered arguing "by reason alone" within theology and the tightly dialogic, objection-driven style that scholasticism institutionalised.
+Anselm produced the single most discussed argument in the history of philosophy — a two-page proof that has occupied Aquinas, Descartes, Leibniz, Kant, and Plantinga — and a theory of the atonement that structured Western soteriology for centuries. Methodologically, he pioneered arguing "by reason alone" within theology and the tightly dialogic, objection-driven style that scholasticism institutionalized.
 
 ## Impact and legacy
 
@@ -87,7 +87,7 @@ Aquinas rejected the ontological argument (we do not know God's essence, so his 
 
 ## Criticisms and debates
 
-Beyond Gaunilo and Kant: does the argument illicitly move from concept to reality? Is "greater" well-defined across the mind/reality boundary? Plantinga himself concedes his modal version is rationally acceptable rather than coercive. The satisfaction theory has been criticised since Abelard for foregrounding honour and debt over love, and contemporary theologians debate whether its feudal imagery distorts its deeper claim about the costliness of forgiveness. Scholars also debate how to read the *Proslogion* — proof, prayer, or a prayer that is a proof — with consequences for what would count as refuting it.
+Beyond Gaunilo and Kant: does the argument illicitly move from concept to reality? Is "greater" well-defined across the mind/reality boundary? Plantinga himself concedes his modal version is rationally acceptable rather than coercive. The satisfaction theory has been criticized since Abelard for foregrounding honor and debt over love, and contemporary theologians debate whether its feudal imagery distorts its deeper claim about the costliness of forgiveness. Scholars also debate how to read the *Proslogion* — proof, prayer, or a prayer that is a proof — with consequences for what would count as refuting it.
 
 ## Misreadings to avoid
 
@@ -106,7 +106,7 @@ Beyond Gaunilo and Kant: does the argument illicitly move from concept to realit
 1. Reconstruct *Proslogion* II premise by premise: God is that than which nothing greater can be conceived; that being exists in the understanding; existing in reality is greater. Identify exactly which step a critic should attack, and why.
 2. State Gaunilo's lost-island parody at full strength, then Anselm's reply — an island can always be conceived greater and can be conceived not to exist, unlike that than which nothing greater can be conceived. Does the reply prove the argument's unique application, or merely assert it?
 3. Compare chapter 3's necessary-existence version with chapter 2's: what extra claim does it add, and does recasting greatness as necessary existence escape Kant's objection that existence is not a real predicate?
-4. Apply the satisfaction theory to a restorative-justice scheme that cancels a wrongdoer's debt without payment: what, for Anselm, remains unsatisfied, and how would Abelard's love-centred alternative answer?
+4. Apply the satisfaction theory to a restorative-justice scheme that cancels a wrongdoer's debt without payment: what, for Anselm, remains unsatisfied, and how would Abelard's love-centered alternative answer?
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

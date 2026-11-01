@@ -13,11 +13,11 @@
 
 ## Biography
 
-The Frankfurt School is an institution and a lineage: the Institute for Social Research, founded in Frankfurt in 1923 with an endowment from Felix Weil, who wanted Marxist scholarship with university standing. Its distinctive identity arrived with director Max Horkheimer (1895–1973, from 1930), who gathered Theodor W. Adorno (1903–1969) — philosopher, sociologist, trained composer — plus Erich Fromm, Franz Neumann, Friedrich Pollock, and, at its edges, Walter Benjamin, whose work it funded. Horkheimer's programme joined philosophy to empirical research in one inquiry into why societies hold together and emancipation stalls.
+The Frankfurt School is an institution and a lineage: the Institute for Social Research, founded in Frankfurt in 1923 with an endowment from Felix Weil, who wanted Marxist scholarship with university standing. Its distinctive identity arrived with director Max Horkheimer (1895–1973, from 1930), who gathered Theodor W. Adorno (1903–1969) — philosopher, sociologist, trained composer — plus Erich Fromm, Franz Neumann, Friedrich Pollock, and, at its edges, Walter Benjamin, whose work it funded. Horkheimer's program joined philosophy to empirical research in one inquiry into why societies hold together and emancipation stalls.
 
 The School's founding problem was stark. Orthodox Marxism had expected revolution in advanced capitalism; instead fascism triumphed and Stalinism disgraced the alternative. When the Nazis seized the Institute in 1933 — most members were Jewish and Marxist, a double target — its endowment had already been moved abroad. It re-established itself in Geneva, then from 1934 at Columbia University. Exile gave it a second object of study: America's commercial mass culture, experienced in wartime Los Angeles, where Horkheimer and Adorno wrote *Dialectic of Enlightenment* (circulated 1944, published 1947). In America the Institute also produced *The Authoritarian Personality* (1950). Herbert Marcuse (1898–1979), who stayed in the US, wrote its other bestseller, *One-Dimensional Man* (1964), becoming a hero of the New Left.
 
-Horkheimer and Adorno returned to Frankfurt in 1949–50, refounded the Institute, and became public figures — until 1968–69, when student radicals, some their own students, occupied the Institute and treated Adorno as establishment. Adorno, who had called the police during the occupation, died in 1969. A second generation formed around Jürgen Habermas (born 1929), who redirected critical theory toward communication, law, and democracy; a third, including Axel Honneth, centres it on recognition. "Frankfurt School" thus names both an interwar circle and a continuing tradition.
+Horkheimer and Adorno returned to Frankfurt in 1949–50, refounded the Institute, and became public figures — until 1968–69, when student radicals, some their own students, occupied the Institute and treated Adorno as establishment. Adorno, who had called the police during the occupation, died in 1969. A second generation formed around Jürgen Habermas (born 1929), who redirected critical theory toward communication, law, and democracy; a third, including Axel Honneth, centers it on recognition. "Frankfurt School" thus names both an interwar circle and a continuing tradition.
 
 ## Major theories and concepts
 
@@ -31,17 +31,17 @@ Example: a traditional economist might measure whether a new shift system raises
 
 Why did the most rationalised century produce fascism and the Holocaust? *Dialectic of Enlightenment* answers with a paradox. Enlightenment reason began as liberation from fear and myth. But shrunk to *instrumental reason* — calculating efficient means to given ends, indifferent to whether the ends are sane — it treats nature and people as material to control. "What men want to learn from nature," they wrote, "is how to use it in order wholly to dominate it and other men." Domination of outer nature rebounds as domination of inner nature and of others; enlightenment become total administration "reverts to mythology."
 
-Their Odysseus is the prototype: bound to the mast to hear the Sirens, while his rowers labour with wax-plugged ears — cunning, self-denial, and class division in one image. The sweep connecting Homer, Kant, and Hollywood is both strength and vulnerability: critics ask what could disconfirm so elastic a thesis. Habermas charged that it totalises reason, leaving no standpoint for its own critique.
+Their Odysseus is the prototype: bound to the mast to hear the Sirens, while his rowers labor with wax-plugged ears — cunning, self-denial, and class division in one image. The sweep connecting Homer, Kant, and Hollywood is both strength and vulnerability: critics ask what could disconfirm so elastic a thesis. Habermas charged that it totalises reason, leaving no standpoint for its own critique.
 
 ### The culture industry
 
-"The Culture Industry: Enlightenment as Mass Deception" argues that under monopoly capitalism culture is produced industrially — film, radio, pop manufactured as commodities, standardised in form while marketed as diverse. *Pseudo-individuality* names the fake variation — the interchangeable twist, the star's trademark quirk — that makes standard products feel personal. Amusement, they claimed, trains passivity: leisure becomes a continuation of work. "The culture industry perpetually cheats its consumers of what it perpetually promises."
+"The Culture Industry: Enlightenment as Mass Deception" argues that under monopoly capitalism culture is produced industrially — film, radio, pop manufactured as commodities, standardized in form while marketed as diverse. *Pseudo-individuality* names the fake variation — the interchangeable twist, the star's trademark quirk — that makes standard products feel personal. Amusement, they claimed, trains passivity: leisure becomes a continuation of work. "The culture industry perpetually cheats its consumers of what it perpetually promises."
 
-A modern streaming franchise is a useful test case: dozens of titles, one narrative grammar, algorithmic promotion. The lens asks who produces the forms and what sameness hides under variety — not whether audiences are fools. The thesis targets *production* and standardisation, not taste. Its tension is real: it can sound as if reception is fully determined by production, an assumption later audience research put under strong pressure. Adorno's essays on jazz — improvisation as standardised ornament — are its weakest link, widely criticised for judging a Black American art form by unexamined European criteria.
+A modern streaming franchise is a useful test case: dozens of titles, one narrative grammar, algorithmic promotion. The lens asks who produces the forms and what sameness hides under variety — not whether audiences are fools. The thesis targets *production* and standardization, not taste. Its tension is real: it can sound as if reception is fully determined by production, an assumption later audience research put under strong pressure. Adorno's essays on jazz — improvisation as standardized ornament — are its weakest link, widely criticized for judging a Black American art form by unexamined European criteria.
 
 ### Reification, authoritarianism, and one-dimensionality
 
-*Reification*, adapted from Lukács and Marx, names how human relations come to appear as things with natural properties — "the market demands it," as if a market were weather. *The Authoritarian Personality* project built scales (the F-scale) measuring submission to authority, aggression toward out-groups, and rigid conventionalism; criticised for response bias, it still founded a continuing research programme. Marcuse's *one-dimensional man* described society absorbing opposition: advertising manufactures "false needs," protest is commodified, and thought loses its negative dimension — imagining society fundamentally otherwise.
+*Reification*, adapted from Lukács and Marx, names how human relations come to appear as things with natural properties — "the market demands it," as if a market were weather. *The Authoritarian Personality* project built scales (the F-scale) measuring submission to authority, aggression toward out-groups, and rigid conventionalism; criticized for response bias, it still founded a continuing research program. Marcuse's *one-dimensional man* described society absorbing opposition: advertising manufactures "false needs," protest is commodified, and thought loses its negative dimension — imagining society fundamentally otherwise.
 
 Habermas rebuilt the project: in *The Theory of Communicative Action* (1981), the problem is not reason itself but its one-sided development — strategic action "colonising" a *lifeworld* held together by *communicative action* oriented to mutual understanding. His first book (1962) traced the *public sphere*, still the standard framework for judging mass and platform media.
 
@@ -58,11 +58,11 @@ Habermas rebuilt the project: in *The Theory of Communicative Action* (1981), th
 
 ## Contributions
 
-The School contributed a programme, not just books: critical theory as interdisciplinary, historically reflexive inquiry aimed at emancipation. Its durable concepts include instrumental reason, the culture industry, reification, the authoritarian personality, one-dimensionality, and, from Habermas, the public sphere and communicative action. It preserved a non-Stalinist, undogmatic Marxism when that was hardest.
+The School contributed a program, not just books: critical theory as interdisciplinary, historically reflexive inquiry aimed at emancipation. Its durable concepts include instrumental reason, the culture industry, reification, the authoritarian personality, one-dimensionality, and, from Habermas, the public sphere and communicative action. It preserved a non-Stalinist, undogmatic Marxism when that was hardest.
 
 ## Impact and legacy
 
-Critical theory shaped the New Left and 1968, and founded debates across media studies: Stuart Hall's Birmingham school both inherited and corrected the culture industry thesis. Habermas's public sphere remains the default framework for arguments about media and democracy. Frankfurt categories have had a second life in the platform era — feeds as standardisation with pseudo-individuality, the attention economy as amusement integrated with work. Those applications are by contemporary writers, not Adorno, but the fit explains why *Dialectic of Enlightenment* is re-read in each media era.
+Critical theory shaped the New Left and 1968, and founded debates across media studies: Stuart Hall's Birmingham school both inherited and corrected the culture industry thesis. Habermas's public sphere remains the default framework for arguments about media and democracy. Frankfurt categories have had a second life in the platform era — feeds as standardization with pseudo-individuality, the attention economy as amusement integrated with work. Those applications are by contemporary writers, not Adorno, but the fit explains why *Dialectic of Enlightenment* is re-read in each media era.
 
 ## Criticisms and debates
 
@@ -70,9 +70,9 @@ Pessimism comes first: Habermas's objection — that the first generation's crit
 
 ## Misreadings to avoid
 
-- The culture industry thesis is **not** "popular culture is bad and its fans are dupes." It concerns production, standardisation, and leisure's integration with work.
+- The culture industry thesis is **not** "popular culture is bad and its fans are dupes." It concerns production, standardization, and leisure's integration with work.
 - The School was **not** a unified doctrine: its figures disagreed about Freud, hope, and democracy itself.
-- Critical theory is **not** just "criticising things"; it is a self-reflective, emancipatory programme.
+- Critical theory is **not** just "criticising things"; it is a self-reflective, emancipatory program.
 - They did not reject Enlightenment wholesale; they sought to rescue its promise of freedom.
 
 ## What to read first

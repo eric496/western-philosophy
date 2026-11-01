@@ -27,7 +27,7 @@ In his 1976 paper "Moral Luck" (Thomas Nagel's companion paper gave the phenomen
 
 ### Integrity, ground projects, and "one thought too many"
 
-Against utilitarianism Williams pressed the **integrity objection**, first through two famous cases. Jim, a traveller in a South American town, is offered a "deal": shoot one Indian and the other nineteen prisoners go free. George, a chemist out of work, is offered a job in a chemical-weapons laboratory that a less scrupulous man will take if he refuses. Utilitarian calculation may direct both to comply, but Williams argued it treats the agent's own deepest commitments — his **ground projects**, the projects and relationships around which a life is built and which give it meaning — as just more entries in an impersonal ledger, demanding that the agent regard his own actions and responsibilities with an alien detachment ("negative responsibility" for everything he could have prevented). His later formulation is the most quoted sentence in the debate: a husband who, before rescuing his drowning wife rather than a stranger, pauses to check that impartial morality *permits* preferring her has had "**one thought too many**." The point is not that the calculation gives the wrong answer, but that needing it reveals a corruption of the ethical motive itself — the thought that should move him is simply that it is his wife.
+Against utilitarianism Williams pressed the **integrity objection**, first through two famous cases. Jim, a traveler in a South American town, is offered a "deal": shoot one Indian and the other nineteen prisoners go free. George, a chemist out of work, is offered a job in a chemical-weapons laboratory that a less scrupulous man will take if he refuses. Utilitarian calculation may direct both to comply, but Williams argued it treats the agent's own deepest commitments — his **ground projects**, the projects and relationships around which a life is built and which give it meaning — as just more entries in an impersonal ledger, demanding that the agent regard his own actions and responsibilities with an alien detachment ("negative responsibility" for everything he could have prevented). His later formulation is the most quoted sentence in the debate: a husband who, before rescuing his drowning wife rather than a stranger, pauses to check that impartial morality *permits* preferring her has had "**one thought too many**." The point is not that the calculation gives the wrong answer, but that needing it reveals a corruption of the ethical motive itself — the thought that should move him is simply that it is his wife.
 
 ### Internal and external reasons
 
@@ -48,7 +48,7 @@ Williams's most influential technical thesis: a statement that an agent **has a 
 
 ## Contributions
 
-Williams changed what moral philosophy argues about. After him, no defence of utilitarianism or Kantianism could ignore the costs of impartiality for integrity and personal projects; "moral luck" became a permanent category of the subject; and the internal-reasons thesis set the terms for metaethical debate about normativity. He also restored the history of ethics — the Greeks, Nietzsche — as a live philosophical resource inside the analytic tradition, and demonstrated that analytic rigour and literary irony could inhabit the same prose.
+Williams changed what moral philosophy argues about. After him, no defense of utilitarianism or Kantianism could ignore the costs of impartiality for integrity and personal projects; "moral luck" became a permanent category of the subject; and the internal-reasons thesis set the terms for metaethical debate about normativity. He also restored the history of ethics — the Greeks, Nietzsche — as a live philosophical resource inside the analytic tradition, and demonstrated that analytic rigor and literary irony could inhabit the same prose.
 
 ## Impact and legacy
 
@@ -70,7 +70,7 @@ His influence is visible wherever ethics is done with suspicion of systems: in t
 
 ## What to read first
 
-Start with "Moral Luck" and "Persons, Character and Morality" in *Moral Luck* — the Gauguin, Jim, and George cases and the integrity argument in their original form. Then *Ethics and the Limits of Philosophy*, chapters 1, 6, and 10, for the systematic statement. *Morality* (1972) is the quickest way in if time is short. Finish with *Truth and Truthfulness* chapters 1–2 to see the late method — genealogy in defence of truth — at work.
+Start with "Moral Luck" and "Persons, Character and Morality" in *Moral Luck* — the Gauguin, Jim, and George cases and the integrity argument in their original form. Then *Ethics and the Limits of Philosophy*, chapters 1, 6, and 10, for the systematic statement. *Morality* (1972) is the quickest way in if time is short. Finish with *Truth and Truthfulness* chapters 1–2 to see the late method — genealogy in defense of truth — at work.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

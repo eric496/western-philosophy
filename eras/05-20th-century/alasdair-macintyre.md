@@ -23,7 +23,7 @@ His early books included *A Short History of Ethics* (1966), already showing the
 
 ### The disaster and the fragments
 
-*After Virtue* opens with a thought experiment: imagine the natural sciences destroyed by catastrophe and later reassembled from surviving fragments — instruments without their purposes, theorems without their proofs — producing confident nonsense. MacIntyre's claim is that this has already happened to morality. Modern moral discourse consists of **fragments of older schemes** — concepts like *rights*, *utility*, *duty*, and *virtue* torn from the contexts (an Aristotelian teleology, a divine law, a shared social order) in which they made sense together. That is why modern moral argument is interminable: the parties argue from incommensurable premises borrowed from different fragments, and no shared standard exists to settle the matter. The characteristic moral philosophy of the age, **emotivism** — moral judgements as mere expressions of preference — is false as a theory of meaning, he argued, but true as a description of how the fragments are actually used.
+*After Virtue* opens with a thought experiment: imagine the natural sciences destroyed by catastrophe and later reassembled from surviving fragments — instruments without their purposes, theorems without their proofs — producing confident nonsense. MacIntyre's claim is that this has already happened to morality. Modern moral discourse consists of **fragments of older schemes** — concepts like *rights*, *utility*, *duty*, and *virtue* torn from the contexts (an Aristotelian teleology, a divine law, a shared social order) in which they made sense together. That is why modern moral argument is interminable: the parties argue from incommensurable premises borrowed from different fragments, and no shared standard exists to settle the matter. The characteristic moral philosophy of the age, **emotivism** — moral judgments as mere expressions of preference — is false as a theory of meaning, he argued, but true as a description of how the fragments are actually used.
 
 ### The failure of the Enlightenment project
 
@@ -35,24 +35,24 @@ A **practice** is a coherent, complex, socially established cooperative activity
 
 ### Narrative unity and tradition
 
-A single life, against the modern tendency to chop it into disconnected segments (work self, family self, leisure self), is intelligible as a **narrative quest**: actions make sense within the story of a life, and a life makes sense within the stories of the communities that formed it. And a **tradition** is a historically extended, socially embodied argument — about the goods that constitute it — in which rationality itself is at home. Traditions can flourish, stagnate, or fall into epistemological crisis; a tradition vindicates itself when it can both solve its own crises and explain why its rivals could not solve theirs. This is his answer to relativism: rationality is tradition-constituted, but traditions are not sealed — they can lose, and be seen to lose, on terms they themselves must recognise.
+A single life, against the modern tendency to chop it into disconnected segments (work self, family self, leisure self), is intelligible as a **narrative quest**: actions make sense within the story of a life, and a life makes sense within the stories of the communities that formed it. And a **tradition** is a historically extended, socially embodied argument — about the goods that constitute it — in which rationality itself is at home. Traditions can flourish, stagnate, or fall into epistemological crisis; a tradition vindicates itself when it can both solve its own crises and explain why its rivals could not solve theirs. This is his answer to relativism: rationality is tradition-constituted, but traditions are not sealed — they can lose, and be seen to lose, on terms they themselves must recognize.
 
 ### The communitarian reply — with a caveat
 
-In the liberal–communitarian debate of the 1980s, MacIntyre was grouped with Michael Sandel, Charles Taylor, and Michael Walzer against John Rawls's picture of the self as prior to its ends — a chooser who could stand behind every commitment. MacIntyre's counter-picture: we are born into networks of giving and receiving, with particular obligations (to family, craft, place, the dead and the unborn) that are not chosen and cannot be traded in a social contract. **He resisted the communitarian label**, however — regarding "community" talk in modern politics as mostly nostalgia or worse, and his own allegiance as Aristotelian and Thomist rather than communitarian. His famous closing image is not a programme but a wait: modernity's dark age calls, he wrote, for "the construction of local forms of community" — "we are waiting not for a Godot, but for another — doubtless very different — St. Benedict."
+In the liberal–communitarian debate of the 1980s, MacIntyre was grouped with Michael Sandel, Charles Taylor, and Michael Walzer against John Rawls's picture of the self as prior to its ends — a chooser who could stand behind every commitment. MacIntyre's counter-picture: we are born into networks of giving and receiving, with particular obligations (to family, craft, place, the dead and the unborn) that are not chosen and cannot be traded in a social contract. **He resisted the communitarian label**, however — regarding "community" talk in modern politics as mostly nostalgia or worse, and his own allegiance as Aristotelian and Thomist rather than communitarian. His famous closing image is not a program but a wait: modernity's dark age calls, he wrote, for "the construction of local forms of community" — "we are waiting not for a Godot, but for another — doubtless very different — St. Benedict."
 
 ## Key works
 
 - *A Short History of Ethics* (1966) — Moral concepts tracked through their social settings; the later project in embryo.
 - *After Virtue* (1981) — The famous one: the catastrophe hypothesis, emotivism, practices, narrative, tradition.
 - *Whose Justice? Which Rationality?* (1988) — Tradition-constituted rationality worked through rival traditions (Aristotelian, Augustinian, Humean, liberal).
-- *Three Rival Versions of Moral Enquiry* (1990) — Encyclopaedia, genealogy, and tradition as competing modes of enquiry; his defence of Thomism.
+- *Three Rival Versions of Moral Enquiry* (1990) — Encyclopedia, genealogy, and tradition as competing modes of enquiry; his defense of Thomism.
 - *Dependent Rational Animals* (1999) — Vulnerability, disability, and dependence as the ground of the virtues of acknowledged dependence.
 - *Ethics in the Conflicts of Modernity* (2016) — The final restatement, engaging his critics.
 
 ## Contributions
 
-MacIntyre supplied the virtue-ethics revival with its historical engine: Anscombe (1958) and Foot had argued that moral philosophy needed better psychology and a return to the virtues; MacIntyre explained *how* the older framework had been lost and what a social theory capable of supporting it would have to look like. His practice/institution distinction, narrative account of the self, and theory of traditions each became research programmes in their own right — in business ethics, medical ethics, education, and political theory as much as in philosophy.
+MacIntyre supplied the virtue-ethics revival with its historical engine: Anscombe (1958) and Foot had argued that moral philosophy needed better psychology and a return to the virtues; MacIntyre explained *how* the older framework had been lost and what a social theory capable of supporting it would have to look like. His practice/institution distinction, narrative account of the self, and theory of traditions each became research programs in their own right — in business ethics, medical ethics, education, and political theory as much as in philosophy.
 
 ## Impact and legacy
 
@@ -61,13 +61,13 @@ MacIntyre supplied the virtue-ethics revival with its historical engine: Anscomb
 ## Criticisms and debates
 
 - **Is the catastrophe story true?** Historians and philosophers (J. B. Schneewind most prominently) have argued that early modern moral philosophy was more self-aware and less fragmentary than the parable allows, and that Kant and the utilitarians were creative reformers, not curators of debris. MacIntyre's reply — that creativity exercised on fragments is still fragmentation — and the scholarly argument continue.
-- **Relativism.** If rationality is internal to traditions, can cross-tradition judgement be more than conversion or conquest? His theory of epistemological crisis is meant to answer this; critics (and some sympathetic readers) judge it the least finished part of the system.
+- **Relativism.** If rationality is internal to traditions, can cross-tradition judgment be more than conversion or conquest? His theory of epistemological crisis is meant to answer this; critics (and some sympathetic readers) judge it the least finished part of the system.
 - **Which communities?** The politics is contested from both sides: liberals detect nostalgia for hierarchical orders; Marxists note the early MacIntyre's disappearance into Thomism; some Thomists find the Marxist never fully left. He accepted elements of all three charges at various times, which his readers variously treat as depth or evasion.
 - **The label debate.** Sandel and Taylor accepted "communitarian" descriptions of their projects more readily; MacIntyre's refusal reminds readers that his unit of analysis is the tradition and the practice, not "the community" as political slogan.
 
 ## Misreadings to avoid
 
-- **"MacIntyre wants to go back to the Middle Ages."** The Benedict line closes a diagnosis, not a restoration programme; *After Virtue* explicitly says the barbarians "have already been governing us for quite some time" and the task is local resistance, not time travel.
+- **"MacIntyre wants to go back to the Middle Ages."** The Benedict line closes a diagnosis, not a restoration program; *After Virtue* explicitly says the barbarians "have already been governing us for quite some time" and the task is local resistance, not time travel.
 - **"He is a relativist."** The theory of traditions is designed as an *answer* to relativism — traditions can rationally defeat one another. Whether it succeeds is the debate, not the intention.
 - **"Communitarian" as his self-description.** He rejected the label and the movement; use it only with his caveat attached.
 - **"Emotivism is his theory of morality."** Emotivism is his diagnosis of modern moral *culture*; his own theory is the Aristotelian one of virtues, practices, and narrative.

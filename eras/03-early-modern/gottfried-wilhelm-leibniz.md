@@ -17,7 +17,7 @@ Leibniz was born in Leipzig in 1646, near the end of the Thirty Years’ War. Hi
 
 He declined an academic post and entered service — first in Mainz, then for most of his life at Hanover, as diplomat, librarian, counsellor, and engineer. In Paris (1672–76) he studied under Huygens and made his calculus breakthroughs. In 1676 he visited Spinoza and read his manuscripts closely; that influence is still debated. At Hanover he ran the ducal library, pursued an unfinished history of the ruling house, and spent years on a failed Harz mining project. He corresponded with over a thousand people — a one-man research network.
 
-A universal polymath, he worked seriously in logic, mathematics, physics, geology, law, linguistics, and theology, much of it left in manuscript. He died in Hanover in 1716, out of favour: his employer had become George I of England and left for London, where Leibniz — embroiled in the calculus dispute — was not welcome. His reputation was rebuilt as his papers were edited in the nineteenth and twentieth centuries.
+A universal polymath, he worked seriously in logic, mathematics, physics, geology, law, linguistics, and theology, much of it left in manuscript. He died in Hanover in 1716, out of favor: his employer had become George I of England and left for London, where Leibniz — embroiled in the calculus dispute — was not welcome. His reputation was rebuilt as his papers were edited in the nineteenth and twentieth centuries.
 
 ## Major theories and concepts
 
@@ -31,7 +31,7 @@ Why, then, does my willing to raise my arm coincide with my arm rising? *Pre-est
 
 ### Contradiction and sufficient reason
 
-Leibniz organises reasoning around two principles. The *principle of contradiction* governs necessary truths: a proposition is necessary if its denial implies a contradiction, as in mathematics and logic. The *principle of sufficient reason* governs contingent truths and existence: nothing is true or exists “without a sufficient reason why it is so and not otherwise.”
+Leibniz organizes reasoning around two principles. The *principle of contradiction* governs necessary truths: a proposition is necessary if its denial implies a contradiction, as in mathematics and logic. The *principle of sufficient reason* governs contingent truths and existence: nothing is true or exists “without a sufficient reason why it is so and not otherwise.”
 
 That second principle drives his metaphysics. Contingent things cannot supply their own ultimate reason, so the reason for the whole series of contingent things must lie in a necessary being — God. Whether the principle is self-evident, provable, or a rationalist article of faith is still debated.
 
@@ -43,7 +43,7 @@ If two things shared *every* property, there would be no sufficient reason to pl
 
 Why would a perfect God permit evil? The *Theodicy* (1710) — the work that gave the genre its name — argues God chose the best among infinitely many possible worlds. “Best” is technical: the best *compossible package*. A world is a complete, mutually compatible set of things and events; some evils may be inseparable from a whole that is overall the best combination of variety, order, and perfection. Leibniz distinguishes metaphysical evil (finitude itself), physical evil (suffering), and moral evil (sin), and holds that God *permits* rather than wills evil, as a condition of the best whole.
 
-So the phrase does **not** mean every event is good, or that suffering should be passively approved. Voltaire’s *Candide* (1759), after the Lisbon earthquake, satirises a popularised, Panglossian version — brilliant satire of a vulgarisation, not a refutation. Leibniz’s real difficulties lie in how finite minds could verify a global optimum, and whether “best” is coherent if worlds could improve indefinitely.
+So the phrase does **not** mean every event is good, or that suffering should be passively approved. Voltaire’s *Candide* (1759), after the Lisbon earthquake, satirises a popularized, Panglossian version — brilliant satire of a vulgarization, not a refutation. Leibniz’s real difficulties lie in how finite minds could verify a global optimum, and whether “best” is coherent if worlds could improve indefinitely.
 
 ### Innate ideas as dispositions: the veined marble
 
@@ -51,7 +51,7 @@ Leibniz agreed with Locke that no ideas are present fully formed — and disagre
 
 ### Possible worlds
 
-A possible world is a complete way things could have been — a maximal set of compossible individuals and events. For Leibniz these exist as *ideas in God’s mind*, from which he chose one to actualise. They are not parallel universes alongside ours. Modern possible-worlds talk descends from Leibniz, usually with the theology stripped out.
+A possible world is a complete way things could have been — a maximal set of compossible individuals and events. For Leibniz these exist as *ideas in God’s mind*, from which he chose one to actualize. They are not parallel universes alongside ours. Modern possible-worlds talk descends from Leibniz, usually with the theology stripped out.
 
 ### Calculus and the Newton dispute
 
@@ -71,16 +71,16 @@ Leibniz made sufficient reason a central metaphysical tool, put individuality an
 
 ## Impact and legacy
 
-In his own century his influence ran mainly through Wolff’s textbooks — the system Kant inherited and reacted against — while *Candide* fixed a misleading popular image. The deeper recovery came as his logical papers were published: Russell’s study of 1900 presented him as a founder of modern logic. Possible-worlds semantics, analytic metaphysics, and philosophy-of-mind debates about representation are all recognisably Leibnizian, often rediscovered before they were recognised as his.
+In his own century his influence ran mainly through Wolff’s textbooks — the system Kant inherited and reacted against — while *Candide* fixed a misleading popular image. The deeper recovery came as his logical papers were published: Russell’s study of 1900 presented him as a founder of modern logic. Possible-worlds semantics, analytic metaphysics, and philosophy-of-mind debates about representation are all recognisably Leibnizian, often rediscovered before they were recognized as his.
 
 ## Criticisms and debates
 
-The monadology strikes many as extravagant: infinitely many windowless minds, coordinated without interaction, can look like a device for avoiding problems rather than solving them. Sufficient reason is contested — many deny every fact must have an explanation, or that the universe as a whole could have one. The theodicy faces the evidential problem of evil: even granting compossibility, critics argue the scale of suffering makes “best package” implausible. Scholars also debate whether the *Monadology*’s system was present from the 1680s or a late crystallisation.
+The monadology strikes many as extravagant: infinitely many windowless minds, coordinated without interaction, can look like a device for avoiding problems rather than solving them. Sufficient reason is contested — many deny every fact must have an explanation, or that the universe as a whole could have one. The theodicy faces the evidential problem of evil: even granting compossibility, critics argue the scale of suffering makes “best package” implausible. Scholars also debate whether the *Monadology*’s system was present from the 1680s or a late crystallization.
 
 ## Misreadings to avoid
 
 - “Best of all possible worlds” means best compossible whole — not that every event is good.
-- *Candide* satirises a popularised version, not Leibniz’s argument.
+- *Candide* satirises a popularized version, not Leibniz’s argument.
 - Possible worlds are ideas in God’s mind, not parallel universes.
 - Monads are not physical atoms, and “windowless” does not mean ignorant: each represents the whole universe internally.
 - Leibniz was not a cloistered professor; he wrote amid diplomacy, librarianship, and court service.

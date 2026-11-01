@@ -25,7 +25,7 @@ The problem, as Boethius had posed it: when we say "Socrates is human" and "Plat
 
 ### Sic et Non: contradiction as method
 
-The *Sic et Non* ("Yes and No," c. 1120–21) assembles 158 theological questions — was God able to do otherwise? is lying ever permitted? — each furnished with apparently contradictory quotations from Scripture and the Fathers, ranged pro and contra, with no resolutions given. Its prologue, however, supplies the resolution *rules*: check whether a word is used in different senses; whether a passage is authentic or corrupt; whether an author retracted or spoke under dispensation; attend to context and to the difference between command, counsel, and permission. This is not scepticism: it is training in **dialectic** — disagreement among authorities is reframed from an embarrassment into the engine of inquiry, "for by doubting we come to inquiry, and by inquiring we perceive the truth" (a sentiment the prologue endorses from Augustine and Aristotle). The *Sic et Non* is the founding document of the scholastic *quaestio*, and Peter Lombard's *Sentences* systematised its approach into the textbook on which Aquinas, Scotus, and Ockham all later commented.
+The *Sic et Non* ("Yes and No," c. 1120–21) assembles 158 theological questions — was God able to do otherwise? is lying ever permitted? — each furnished with apparently contradictory quotations from Scripture and the Fathers, ranged pro and contra, with no resolutions given. Its prologue, however, supplies the resolution *rules*: check whether a word is used in different senses; whether a passage is authentic or corrupt; whether an author retracted or spoke under dispensation; attend to context and to the difference between command, counsel, and permission. This is not skepticism: it is training in **dialectic** — disagreement among authorities is reframed from an embarrassment into the engine of inquiry, "for by doubting we come to inquiry, and by inquiring we perceive the truth" (a sentiment the prologue endorses from Augustine and Aristotle). The *Sic et Non* is the founding document of the scholastic *quaestio*, and Peter Lombard's *Sentences* systematized its approach into the textbook on which Aquinas, Scotus, and Ockham all later commented.
 
 ### Intention ethics
 
@@ -66,7 +66,7 @@ Bernard's campaign (and the condemnations at Soissons and Sens) charged Abelard'
 
 1. *Historia Calamitatum* — short, vivid autobiography.
 2. *Sic et Non*, the Prologue plus two or three questions, to see the method.
-3. Universals excerpts in an anthology (Spade, *Five Texts on Mediaeval Problem of Universals*) to compare his position against the realists and later nominalists.
+3. Universals excerpts in an anthology (Spade, *Five Texts on Medieval Problem of Universals*) to compare his position against the realists and later nominalists.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

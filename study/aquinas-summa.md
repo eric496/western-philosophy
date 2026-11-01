@@ -174,12 +174,12 @@ Each reconstruction below follows the learning path's discipline: premises, then
 
 1. Things that lack intelligence — natural bodies — act regularly for ends: they behave in consistent, predictable ways that achieve results (the acorn grows toward the oak, heavy bodies fall).
 2. What lacks intelligence does not tend toward an end by itself; it does so only as directed by something intelligent, as an arrow flies toward its target only as aimed by an archer.
-3. Regular, end-directed behaviour in non-intelligent things therefore requires an ordering intelligence that directs them, as the archer directs the arrow.
+3. Regular, end-directed behavior in non-intelligent things therefore requires an ordering intelligence that directs them, as the archer directs the arrow.
 4. This intelligence cannot itself be one more non-intelligent thing directed by another, on pain of regress; it must be an intelligence that directs without being directed.
 
 **Conclusion:** There exists an intelligent being by whom all natural things are directed to their ends, and this everyone understands to be God.
 
-**Objection:** The argument anthropomorphises nature. Regular behaviour in non-intelligent things is explained by natural laws and physical dispositions, not by purposes: an acorn grows into an oak because of its genetic and chemical constitution, not because it aims at oakhood. To call this "acting for an end" is to project human intention onto processes that need none. Modern science, on this objection, explains the regularities without an ordering mind.
+**Objection:** The argument anthropomorphises nature. Regular behavior in non-intelligent things is explained by natural laws and physical dispositions, not by purposes: an acorn grows into an oak because of its genetic and chemical constitution, not because it aims at oakhood. To call this "acting for an end" is to project human intention onto processes that need none. Modern science, on this objection, explains the regularities without an ordering mind.
 
 **Reply:** Aquinas's notion of an end is broader than conscious purpose: a thing acts for an end when its activity is ordered toward a determinate outcome rather than happening at random, and the question is what explains that orderedness. The defender replies that laws of nature describe regularities but do not explain why matter behaves regularly at all. Critics respond that this moves the argument from observed directedness to a demand for ultimate explanation that the Way itself does not supply. The dispute turns on whether "acting for an end" is a real feature of nature or a metaphor — which is why the Fifth Way is best read alongside Aristotle's *Physics*, where final causation is defended on its own terms.
 
@@ -194,7 +194,7 @@ Each reconstruction below follows the learning path's discipline: premises, then
 
 **Conclusion:** Natural law consists of a hierarchy of precepts, all specifications of the first principle that good is to be done and evil avoided, ordered according to the inclinations of human nature rightly understood by reason.
 
-**Objection:** The argument slides from "is" to "ought": that human beings have inclinations does not show those inclinations ought to be followed — we have inclinations toward aggression and domination as well, and reason's job might be to restrain inclinations rather than to ratify them. If the derivation merely baptises whatever humans tend to do, it cannot criticise corrupt inclinations, and it collapses into the naturalistic fallacy.
+**Objection:** The argument slides from "is" to "ought": that human beings have inclinations does not show those inclinations ought to be followed — we have inclinations toward aggression and domination as well, and reason's job might be to restrain inclinations rather than to ratify them. If the derivation merely baptizes whatever humans tend to do, it cannot criticize corrupt inclinations, and it collapses into the naturalistic fallacy.
 
 **Reply:** Aquinas's reply, as developed in question 94 as a whole, is that the inclinations count only as apprehended by reason — reason grasps them as goods, ordered and judged, not as brute urges to be obeyed. Aggression is an inclination of the sensitive appetite, but it is not an inclination reason apprehends as a human good in the relevant sense, and the order among inclinations is reason's ordering, not nature's raw list. Whether this distinction is principled or question-begging — whether reason can identify "inclinations of human nature rightly understood" without already knowing the moral conclusions — is the central modern criticism of natural law.
 

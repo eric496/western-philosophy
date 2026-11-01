@@ -27,11 +27,11 @@ Atomism is an engineered answer to Parmenides, who had shown that what is cannot
 
 ### Motion, necessity, and the vortex
 
-Atoms have always been in motion in the infinite void — no first push, no designer. Collisions sort them, like to like, and in places the motion forms a vortex, at whose centre concentrations gather to make a world. Worlds are innumerable: wherever a vortex forms, a cosmos grows and eventually decays. Everything happens by necessity — the mechanical consequences of atomic shapes and collisions — and nothing by purpose. Democritus allowed no teleology, no cosmic mind (contrast Anaxagoras), and no governing gods. The tension was spotted early: if everything happens by necessity, what room is left for chance — and for responsibility? Aristotle complained that atomism invokes spontaneity for the vortex while preaching necessity, and whether his necessity leaves ethics standing has been debated ever since.
+Atoms have always been in motion in the infinite void — no first push, no designer. Collisions sort them, like to like, and in places the motion forms a vortex, at whose center concentrations gather to make a world. Worlds are innumerable: wherever a vortex forms, a cosmos grows and eventually decays. Everything happens by necessity — the mechanical consequences of atomic shapes and collisions — and nothing by purpose. Democritus allowed no teleology, no cosmic mind (contrast Anaxagoras), and no governing gods. The tension was spotted early: if everything happens by necessity, what room is left for chance — and for responsibility? Aristotle complained that atomism invokes spontaneity for the vortex while preaching necessity, and whether his necessity leaves ethics standing has been debated ever since.
 
 ### Knowledge: "by convention"
 
-Democritus distinguished two kinds of cognition. In his most famous fragment (B9): "By convention sweet and by convention bitter, by convention hot, by convention cold, by convention colour; in reality, atoms and void." Colour and taste are not properties of atoms; they are effects in perceivers when atoms impinge on the sense organs. Hence "bastard" knowledge, from the senses, versus "legitimate" knowledge, reason's grasp of the atomic reality beneath appearances (B11). Sceptics later exploited the tension: if the senses are unreliable, and reason builds on their evidence, how secure is atomism? A fragment dramatises it — the senses answer the mind: "Wretched mind, do you take your proofs from us and then overthrow us? Our overthrow is your fall" (B125).
+Democritus distinguished two kinds of cognition. In his most famous fragment (B9): "By convention sweet and by convention bitter, by convention hot, by convention cold, by convention colour; in reality, atoms and void." Color and taste are not properties of atoms; they are effects in perceivers when atoms impinge on the sense organs. Hence "bastard" knowledge, from the senses, versus "legitimate" knowledge, reason's grasp of the atomic reality beneath appearances (B11). Skeptics later exploited the tension: if the senses are unreliable, and reason builds on their evidence, how secure is atomism? A fragment dramatizes it — the senses answer the mind: "Wretched mind, do you take your proofs from us and then overthrow us? Our overthrow is your fall" (B125).
 
 Democritus also gave a mechanism for how the senses get their material. Objects constantly shed fine films of atoms — *eidōla*, "images" — that preserve the object's surface structure, travel through the air, and enter the sense organs; vision occurs when such a film reaches and imprints the eye, and the other senses work by analogous effluences. Theophrastus' *On the Senses* preserves the fullest account, including Democritus' difficulty in explaining how a film larger than the pupil shrinks to fit it. The theory makes perception a literal physical contact with the object itself — which is why its deliverances, though only "bastard" knowledge, are real effects and not mere illusions. (Compare Empedocles' effluences, a rival version of the same idea.)
 
@@ -48,7 +48,7 @@ Democritus' ethical fragments aim at *euthymia* — cheerfulness, a steady, untr
 
 - **The first fully mechanical world-picture.** Visible reality explained by invisible structures and their motions, with no purpose or divine intervention required — antiquity's most striking anticipation of the scientific outlook.
 - **A solution to the Eleatic problem that preserves change.** Multiplying Parmenidean Being into infinitely many atoms showed how permanence and change could both be real, at different levels.
-- **The primary/secondary quality distinction in embryo.** "By convention" colour versus real atomic structure anticipates the distinction Galileo and Locke made central to modern science.
+- **The primary/secondary quality distinction in embryo.** "By convention" color versus real atomic structure anticipates the distinction Galileo and Locke made central to modern science.
 
 ## Impact and legacy
 
@@ -56,12 +56,12 @@ Democritus was partly eclipsed: Plato ignored him, Aristotle refuted him, and at
 
 ## Criticisms and debates
 
-Aristotle's criticisms set the agenda: atoms explain arrangement but not the *source* of motion, nor nature's directedness — seeds grow into organisms, not random heaps — and indivisibility conflicts with mathematics, since any extended body is conceptually divisible. Epicurus' swerve is itself an implicit criticism of Democritean necessity. Modern debates include: how much of atomism is Leucippus'; whether Democritus was a determinist and how his ethics survives if so; whether "atoms and void" makes him an eliminativist about colour; how authentic the ethical fragments are; and whether his response to Parmenides succeeds — treating the void as "what is not" that exists may concede the point at issue.
+Aristotle's criticisms set the agenda: atoms explain arrangement but not the *source* of motion, nor nature's directedness — seeds grow into organisms, not random heaps — and indivisibility conflicts with mathematics, since any extended body is conceptually divisible. Epicurus' swerve is itself an implicit criticism of Democritean necessity. Modern debates include: how much of atomism is Leucippus'; whether Democritus was a determinist and how his ethics survives if so; whether "atoms and void" makes him an eliminativist about color; how authentic the ethical fragments are; and whether his response to Parmenides succeeds — treating the void as "what is not" that exists may concede the point at issue.
 
 ## Misreadings to avoid
 
 - **"Democritus discovered the modern atom."** His atoms are a philosophical hypothesis: solid, indivisible, differing only in shape and size, moving in a void — not the divisible, mostly empty atoms of physics. Credit the strategy, not the details.
-- **"By convention" means colours are fake or unimportant.** It means they are relational effects of atomic structure on perceivers — real effects, explained rather than denied.
+- **"By convention" means colors are fake or unimportant.** It means they are relational effects of atomic structure on perceivers — real effects, explained rather than denied.
 - **The Laughing Philosopher as biography.** The laughing/weeping pairing with Heraclitus is a later literary device; *euthymia* is a considered ethical ideal, not a giggling temperament.
 - **Calling him simply a Presocratic contemporary of Thales.** He overlapped Socrates and Plato; atomism is a late, sophisticated response in a debate already a century old.
 
@@ -77,7 +77,7 @@ Aristotle's criticisms set the agenda: atoms explain arrangement but not the *so
 1. Reconstruct atomism as an engineered answer to Parmenides: each atom has the properties B8 demands of Being, yet reality is many and moves. State exactly which Parmenidean premise the void forces Democritus to reject, and his justification for rejecting it.
 2. In fragment B125 the senses protest: "Wretched mind, do you take your proofs from us and then overthrow us? Our overthrow is your fall." Press this self-undermining objection, then reply using Democritus' distinction between "bastard" and "legitimate" knowledge.
 3. Compare Democritus with Empedocles: both keep eternal ingredients and explain change as rearrangement. What do atoms-and-void explain that four qualitative roots cannot — and what, if anything, do the roots explain better?
-4. Apply "by convention sweet, in reality atoms and void" (B9) to a colour that looks different under different lighting. Is the colour unreal, relational, or explained? Use Democritus' account of *eidōla* in your answer.
+4. Apply "by convention sweet, in reality atoms and void" (B9) to a color that looks different under different lighting. Is the color unreal, relational, or explained? Use Democritus' account of *eidōla* in your answer.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

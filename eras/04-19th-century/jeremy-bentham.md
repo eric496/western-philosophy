@@ -19,13 +19,13 @@ That standard was utility. Backed by an inheritance that freed him from earning 
 
 Bentham was more than a desk philosopher. He designed the Panopticon, a circular prison in which a single unseen inspector might be watching any inmate at any time, and spent years and much of his fortune trying to get it built — corresponding with governments, buying land, lobbying Parliament — before the project collapsed, leaving him embittered and convinced of the "sinister interests" that block reform. (He received substantial compensation, and the idea outlived the building; see the legacy section.) He wrote codification proposals for Russia, France, the United States, Spain, and the new Latin American republics, believing rational law codes were exportable goods. Around him gathered the "Philosophic Radicals" — James Mill above all, and through James, his son John Stuart Mill, raised inside the movement — who carried Benthamism into Parliament, the East India Company, and the press.
 
-His private life was eccentric and warm in unexpected ways: he kept pet animals, invented words by the hundred (codify, international, maximise, minimise), and arranged the century's strangest memorial to himself. By his will, his body was dissected for science and his skeleton dressed in his own clothes, seated in a mahogany case with a wax head — the "Auto-Icon," still displayed at University College London, the institution whose founding he inspired (he was its spiritual, not literal, founder). He died in 1832, on the eve of the Great Reform Act his followers had helped bring about.
+His private life was eccentric and warm in unexpected ways: he kept pet animals, invented words by the hundred (codify, international, maximize, minimize), and arranged the century's strangest memorial to himself. By his will, his body was dissected for science and his skeleton dressed in his own clothes, seated in a mahogany case with a wax head — the "Auto-Icon," still displayed at University College London, the institution whose founding he inspired (he was its spiritual, not literal, founder). He died in 1832, on the eve of the Great Reform Act his followers had helped bring about.
 
 ## Major theories and concepts
 
 ### The principle of utility
 
-"Nature has placed mankind under the governance of two sovereign masters, *pain* and *pleasure*," the *Introduction* opens. The principle of utility judges every action, law, and institution by a single standard: does it augment or diminish the happiness of those affected? An action conforming to the principle may be called right; a law that fails the test deserves reform or repeal, whatever its pedigree. The maxim associated with the doctrine — the greatest happiness of the greatest number — makes the test radically impartial: the ruler's pleasure counts for no more than the labourer's, and (Bentham insisted, against the moral common sense of his age) no one's suffering is discounted because of who they are.
+"Nature has placed mankind under the governance of two sovereign masters, *pain* and *pleasure*," the *Introduction* opens. The principle of utility judges every action, law, and institution by a single standard: does it augment or diminish the happiness of those affected? An action conforming to the principle may be called right; a law that fails the test deserves reform or repeal, whatever its pedigree. The maxim associated with the doctrine — the greatest happiness of the greatest number — makes the test radically impartial: the ruler's pleasure counts for no more than the laborer's, and (Bentham insisted, against the moral common sense of his age) no one's suffering is discounted because of who they are.
 
 ### The felicific calculus
 
@@ -37,7 +37,7 @@ Bentham was a fierce enemy of the language of natural and imprescriptible rights
 
 ### Punishment and the Panopticon
 
-Since punishment is itself an evil (it inflicts pain), it is justified only where it excludes some greater evil: deterrence, incapacitation, and reform, calibrated to the minimum necessary — an early, systematic statement of parsimony in sentencing. The Panopticon applied the same engineering to inspection: architecture that makes power visible-but-unverifiable, so the watched internalise the watcher.
+Since punishment is itself an evil (it inflicts pain), it is justified only where it excludes some greater evil: deterrence, incapacitation, and reform, calibrated to the minimum necessary — an early, systematic statement of parsimony in sentencing. The Panopticon applied the same engineering to inspection: architecture that makes power visible-but-unverifiable, so the watched internalize the watcher.
 
 ## Key works
 
@@ -48,7 +48,7 @@ Since punishment is itself an evil (it inflicts pain), it is justified only wher
 
 ## Contributions
 
-Bentham invented the doctrine his century then argued about: a single, public, impartial standard for morals and law, a theory of legislation as a science, and a vocabulary of reform. He founded no successful prison, but he founded a way of evaluating institutions that underlies cost–benefit analysis, welfare economics, and modern public policy. He supported, far ahead of respectable opinion, the decriminalisation of homosexuality (in unpublished essays), animal welfare ("The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"), near-universal manhood suffrage in his late radical phase, and the abolition of the death penalty in most cases.
+Bentham invented the doctrine his century then argued about: a single, public, impartial standard for morals and law, a theory of legislation as a science, and a vocabulary of reform. He founded no successful prison, but he founded a way of evaluating institutions that underlies cost–benefit analysis, welfare economics, and modern public policy. He supported, far ahead of respectable opinion, the decriminalization of homosexuality (in unpublished essays), animal welfare ("The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"), near-universal manhood suffrage in his late radical phase, and the abolition of the death penalty in most cases.
 
 ## Impact and legacy
 
@@ -56,7 +56,7 @@ Through James Mill and the Philosophic Radicals, Benthamism shaped Victorian adm
 
 ## Criticisms and debates
 
-The classic objection targets the calculus: pleasures are not commensurable units, and pretending otherwise smuggles in the very judgements the calculus was meant to replace. Rights theorists reverse his slogan — some things (torturing an innocent, say) seem wrong even if useful, which is exactly what "nonsense upon stilts" was meant to dismiss. Marx dismissed him as a "genius in the way of bourgeois stupidity"; John Stuart Mill's essay "Bentham" (1838) judged his knowledge of human nature fatally narrow — a judgement from inside the family that still frames his reputation. Scholars also debate the "two Benthams": the liberal reformer of the early works versus the increasingly authoritarian administrative engineer of the later *Constitutional Code*.
+The classic objection targets the calculus: pleasures are not commensurable units, and pretending otherwise smuggles in the very judgments the calculus was meant to replace. Rights theorists reverse his slogan — some things (torturing an innocent, say) seem wrong even if useful, which is exactly what "nonsense upon stilts" was meant to dismiss. Marx dismissed him as a "genius in the way of bourgeois stupidity"; John Stuart Mill's essay "Bentham" (1838) judged his knowledge of human nature fatally narrow — a judgment from inside the family that still frames his reputation. Scholars also debate the "two Benthams": the liberal reformer of the early works versus the increasingly authoritarian administrative engineer of the later *Constitutional Code*.
 
 ## Misreadings to avoid
 

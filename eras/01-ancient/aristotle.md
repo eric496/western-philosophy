@@ -29,13 +29,13 @@ His writings divide sharply. The polished published dialogues are lost. What sur
 
 ### Hylomorphism: matter and form
 
-Aristotle's central metaphysical claim is that an ordinary substance — a statue, a tree, a person — is a compound of matter (*hylē*) and form (*morphē* or *eidos*). Hence *hylomorphism*. Matter is what something is made of; form is its structure, organisation, and what makes it the kind of thing it is. Bronze is the matter of a statue; the shape of Hermes is its form. A living body is matter; the soul, for Aristotle, is its form — the organisation that makes it alive.
+Aristotle's central metaphysical claim is that an ordinary substance — a statue, a tree, a person — is a compound of matter (*hylē*) and form (*morphē* or *eidos*). Hence *hylomorphism*. Matter is what something is made of; form is its structure, organization, and what makes it the kind of thing it is. Bronze is the matter of a statue; the shape of Hermes is its form. A living body is matter; the soul, for Aristotle, is its form — the organization that makes it alive.
 
 This directly answers Plato. A Form of Man existing separately, Aristotle argues, explains nothing about actual men and cannot cause them. Form must be in the thing, studied by observing things. The tension: if form is inseparable from matter, what status do mathematical objects have, and can form be defined without reference to matter? Aristotle's answers shift across the *Metaphysics*, which is partly why that work remains contested.
 
 ### The four causes
 
-To know a thing, Aristotle says, is to know its causes (*aitiai*) — better rendered "explanations" — and there are four kinds. The **material cause** is what it is made of (bronze). The **formal cause** is its form or essence (the statue's shape). The **efficient cause** is what brings it about (the sculptor). The **final cause** is its end or purpose, its *telos* (honouring the god).
+To know a thing, Aristotle says, is to know its causes (*aitiai*) — better rendered "explanations" — and there are four kinds. The **material cause** is what it is made of (bronze). The **formal cause** is its form or essence (the statue's shape). The **efficient cause** is what brings it about (the sculptor). The **final cause** is its end or purpose, its *telos* (honoring the god).
 
 A house illustrates all four: bricks and timber, the plan, the builder, and shelter. Final causes matter most in biology: an eye is *for* seeing, roots are *for* nourishment. This teleology — explaining by purposes — proved immensely fruitful for biology and immensely controversial for physics. Is the telos in nature itself, or a projection of human craftsmanship onto nature? Aristotle insists nature acts for ends without deliberating, as habit does; modern critics divide over whether this is deep insight or systematic anthropomorphism.
 
@@ -59,7 +59,7 @@ Judging the right amount requires *phronēsis*, practical wisdom: the trained ca
 
 ### Politics and the Poetics
 
-Humans are by nature political animals (*zōa politika*): speech lets us debate justice, not merely signal pain, so the city (*polis*) exists not just for living but for living well. In the *Politics* Aristotle classifies constitutions, studies real ones — his school compiled 158 — and favours a broad middle-class polity as most stable. The work also contains his defences of natural slavery and of women's inferiority, which the source entry rightly notes are rejected today; they contradict, many argue, his own principles about reason and flourishing.
+Humans are by nature political animals (*zōa politika*): speech lets us debate justice, not merely signal pain, so the city (*polis*) exists not just for living but for living well. In the *Politics* Aristotle classifies constitutions, studies real ones — his school compiled 158 — and favors a broad middle-class polity as most stable. The work also contains his defenses of natural slavery and of women's inferiority, which the source entry rightly notes are rejected today; they contradict, many argue, his own principles about reason and flourishing.
 
 The *Poetics* analyses tragedy: plot unified around an action, a protagonist falling through error (*hamartia*), and *catharsis* — a contested term, meaning purging, purification, or clarification of pity and fear. Its account of plot still structures writing manuals.
 
@@ -85,7 +85,7 @@ Therefore, a first, unmoved mover exists: pure actuality with no unrealised pote
 
 **Objection.** Why must the regress of movers stop at all — why not an eternal series with no first member? And why *one* mover? Aristotle's own astronomy assigns separate movers to the many celestial spheres, so his argument seems at most to establish many unmoved movers, not a single first principle.
 
-**Reply.** The standard defence, developed carefully by later scholastic readers, turns on the kind of series at issue: in a *per se* ordered series, where each member moves only insofar as it is being moved here and now, an infinite regress would leave nothing with underived power to move, so the series cannot regress infinitely. Aristotle's prime mover is then first in order and dignity — the mover of the outermost heaven, on which the whole cosmic order depends — which is compatible with subordinate unmoved movers for the inner spheres. Whether this fully answers the objection, or instead imports later metaphysics into Aristotle, remains a matter of scholarly dispute.
+**Reply.** The standard defense, developed carefully by later scholastic readers, turns on the kind of series at issue: in a *per se* ordered series, where each member moves only insofar as it is being moved here and now, an infinite regress would leave nothing with underived power to move, so the series cannot regress infinitely. Aristotle's prime mover is then first in order and dignity — the mover of the outermost heaven, on which the whole cosmic order depends — which is compatible with subordinate unmoved movers for the inner spheres. Whether this fully answers the objection, or instead imports later metaphysics into Aristotle, remains a matter of scholarly dispute.
 
 Fuller reconstructions of the *Nicomachean Ethics*' arguments are in the study guide: [Nicomachean Ethics study guide](../../study/aristotle-nicomachean-ethics.md).
 
@@ -100,7 +100,7 @@ Dates are approximate; most treatises took shape during the Lyceum years, 335–
 - **History of Animals**, **Parts of Animals**, **Generation of Animals** — The biological corpus: observation and classification on a scale unmatched until the early modern period.
 - **Nicomachean Ethics** — Eudaimonia, virtue, the mean, practical wisdom, friendship, and contemplation. His most read work today.
 - **Politics** — The city, constitutions, citizenship, slavery, household, and education; companion and corrective to Plato's *Republic*.
-- **Rhetoric** — The art of persuasion analysed through *ethos*, *pathos*, and *logos*.
+- **Rhetoric** — The art of persuasion analyzed through *ethos*, *pathos*, and *logos*.
 - **Poetics** — Tragedy, plot, and catharsis; incomplete (the book on comedy is lost), yet foundational for literary theory.
 - **Constitution of the Athenians** — A historical and institutional survey, attributed to Aristotle's school; recovered from an Egyptian papyrus in 1890 and first published in 1891.
 
@@ -116,13 +116,13 @@ These are the first lines of the *Ethics*, and the whole book unfolds from them.
 
 ## Contributions
 
-Aristotle is philosophy's great systematiser. He defined most sub-fields — logic, metaphysics, ethics, politics, poetics, rhetoric, philosophy of mind and science — and supplied much of their vocabulary: substance, category, essence, actuality, potentiality, cause. He founded formal logic, created empirical biology as a research programme, and insisted, against Plato, that knowledge begins from attention to how things appear. His method of starting from *endoxa* — reputable opinions — and testing them remains a model procedure.
+Aristotle is philosophy's great systematizer. He defined most sub-fields — logic, metaphysics, ethics, politics, poetics, rhetoric, philosophy of mind and science — and supplied much of their vocabulary: substance, category, essence, actuality, potentiality, cause. He founded formal logic, created empirical biology as a research program, and insisted, against Plato, that knowledge begins from attention to how things appear. His method of starting from *endoxa* — reputable opinions — and testing them remains a model procedure.
 
 ## Impact and legacy
 
 No philosopher except Plato rivals his reach. Commentators carried his system through late antiquity; when his works were partly lost to the Latin West, Arabic philosophers — al-Fārābī, Avicenna, Averroes — preserved and transformed them, calling him simply "the Philosopher." Re-translated into Latin in the 12th–13th centuries, his corpus was integrated into Christian theology above all by Thomas Aquinas, making Aristotelian categories the framework of medieval universities. His physics was authoritative until Galileo and Newton dismantled it; Darwin praised Linnaeus and Cuvier as "mere schoolboys" beside Aristotle the biologist.
 
-In the 20th century his ethics returned to the centre: the virtue-ethics movement, from Elizabeth Anscombe and Philippa Foot to Alasdair MacIntyre's *After Virtue* (1981), revives eudaimonia, habit, and practical wisdom against rule-based moral theories.
+In the 20th century his ethics returned to the center: the virtue-ethics movement, from Elizabeth Anscombe and Philippa Foot to Alasdair MacIntyre's *After Virtue* (1981), revives eudaimonia, habit, and practical wisdom against rule-based moral theories.
 
 ## Criticisms and debates
 
@@ -153,7 +153,7 @@ His ethics attracts two objections. The mean can look empty unless phronēsis fi
 1. Reconstruct the function argument (*Nicomachean Ethics* I.7): a thing's good lies in performing its *ergon* well; humanity's distinctive activity is reason; therefore *eudaimonia* is rational activity in accordance with virtue over a complete life. Mark each inferential step.
 2. Object that humans, unlike knives or eyes, have no maker-assigned function, and that being distinctive does not make rational activity our *good*. Then give Aristotle's reply — function as internal to a life-form — and judge whether it earns the move.
 3. Compare Aristotle with Plato on form: separate Forms versus form inseparable from matter. How does each answer Parmenides on change, and whose account better explains this particular horse, acorn, or statue?
-4. Apply the doctrine of the mean to a manager deciding how bluntly to criticise an employee's failed project. Identify cowardice, recklessness, and courage relative to this agent and situation — and explain why the mean is not the midpoint.
+4. Apply the doctrine of the mean to a manager deciding how bluntly to criticize an employee's failed project. Identify cowardice, recklessness, and courage relative to this agent and situation — and explain why the mean is not the midpoint.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

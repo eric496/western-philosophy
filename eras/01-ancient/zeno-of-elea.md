@@ -53,17 +53,17 @@ Zeno effectively invented the philosophical paradox as an instrument: an argumen
 
 ## Impact and legacy
 
-The paradoxes have never been put down. Aristotle's solution — the infinite is traversed only *potentially*, since the points on a line are not actually marked off until someone divides it — governed discussion for two millennia. The nineteenth-century mathematisation of the continuum (Dedekind, Cantor) and the theory of convergent series gave the Dichotomy and Achilles a standard arithmetical answer: infinitely many intervals can sum to a finite length, and the series of tasks can be completed in finite time. Bertrand Russell called the paradoxes "immeasurably subtle and profound" and used the Arrow to motivate his "at-at" theory of motion — to move is simply to be at different places at different times, with no extra state of motion at an instant. Twentieth-century debates about "supertasks" (machines performing infinitely many operations in finite time) and non-standard analysis show the problems are still productive. Zeno is the rare philosopher whose arguments are assigned in mathematics and physics courses as well as philosophy ones.
+The paradoxes have never been put down. Aristotle's solution — the infinite is traversed only *potentially*, since the points on a line are not actually marked off until someone divides it — governed discussion for two millennia. The nineteenth-century mathematization of the continuum (Dedekind, Cantor) and the theory of convergent series gave the Dichotomy and Achilles a standard arithmetical answer: infinitely many intervals can sum to a finite length, and the series of tasks can be completed in finite time. Bertrand Russell called the paradoxes "immeasurably subtle and profound" and used the Arrow to motivate his "at-at" theory of motion — to move is simply to be at different places at different times, with no extra state of motion at an instant. Twentieth-century debates about "supertasks" (machines performing infinitely many operations in finite time) and non-standard analysis show the problems are still productive. Zeno is the rare philosopher whose arguments are assigned in mathematics and physics courses as well as philosophy ones.
 
 ## Criticisms and debates
 
-The standing criticism is Aristotle's in embryo: the paradoxes trade on equivocations — between potential and actual division, between "completing an infinity of sub-intervals" and "performing an infinity of separate acts," between an instant and a duration. Whether the calculus *solves* the paradoxes or merely formalises motion without answering Zeno's metaphysical worry — how a finite motion can be composed of infinitely many parts, or of instantaneous rests — remains genuinely debated. Scholars also debate the paradoxes' target: Plato says they defend Parmenides; some modern readers think Zeno was attacking specific Pythagorean theories of units instead; the Stadium argument's meaning, and even its text, is still contested.
+The standing criticism is Aristotle's in embryo: the paradoxes trade on equivocations — between potential and actual division, between "completing an infinity of sub-intervals" and "performing an infinity of separate acts," between an instant and a duration. Whether the calculus *solves* the paradoxes or merely formalizes motion without answering Zeno's metaphysical worry — how a finite motion can be composed of infinitely many parts, or of instantaneous rests — remains genuinely debated. Scholars also debate the paradoxes' target: Plato says they defend Parmenides; some modern readers think Zeno was attacking specific Pythagorean theories of units instead; the Stadium argument's meaning, and even its text, is still contested.
 
 ## Misreadings to avoid
 
-- Zeno was not a fool who thought races were rigged or arrows froze in the sky: the paradoxes are deliberate arguments aimed at the *assumptions* behind motion, offered in defence of a teacher.
+- Zeno was not a fool who thought races were rigged or arrows froze in the sky: the paradoxes are deliberate arguments aimed at the *assumptions* behind motion, offered in defense of a teacher.
 - The tortoise paradox is not refuted by pointing out that Achilles obviously catches up — Zeno knew that; the question is how our concepts of space, time, and infinity permit it.
-- He is not defending scepticism for its own sake; within the Eleatic project the absurdities are meant to leave Parmenides' One as the last position standing.
+- He is not defending skepticism for its own sake; within the Eleatic project the absurdities are meant to leave Parmenides' One as the last position standing.
 
 ## What to read first
 
@@ -72,7 +72,7 @@ Start with Aristotle's *Physics* VI, where the four motion paradoxes are stated 
 ## Study questions
 
 1. Reconstruct Achilles and the tortoise as a *reductio*: state the assumptions about infinite divisibility and completing infinitely many stages that generate the absurd conclusion, and explain why Zeno, defending Parmenides, is entitled to premises he himself rejects.
-2. Aristotle replies that a line is only *potentially* infinitely divided, while the calculus adds that infinitely many shrinking intervals can sum to a finite distance. Do these replies solve Zeno's metaphysical worry or merely formalise motion? Construct Zeno's counter-reply.
+2. Aristotle replies that a line is only *potentially* infinitely divided, while the calculus adds that infinitely many shrinking intervals can sum to a finite distance. Do these replies solve Zeno's metaphysical worry or merely formalize motion? Construct Zeno's counter-reply.
 3. Compare the Dichotomy with the Arrow: the first attacks infinitely divisible space, the second time composed of indivisible instants. Why does Zeno need both, and what does Russell's "at-at" theory concede to the Arrow?
 4. Apply the Dichotomy's structure to a machine instructed to perform infinitely many ever-faster checks before acting. Does a "supertask" genuinely parallel the runner's case, or does the difference matter?
 

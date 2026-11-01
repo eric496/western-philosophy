@@ -54,7 +54,7 @@ His late ethics distinguishes **closed morality** — the pressure society exert
 
 ## Contributions
 
-Bergson restored time — lived, irreversible, creative time — to the centre of philosophy at the moment physics and psychology were both redefining it. He gave philosophy a worked-out critique of the spatialising intellect, a sophisticated defence of the reality of free agency, and one of the few genuinely original philosophies of biology. His account of memory and of the brain as filter rather than store remains a live reference point in philosophy of mind.
+Bergson restored time — lived, irreversible, creative time — to the center of philosophy at the moment physics and psychology were both redefining it. He gave philosophy a worked-out critique of the spatialising intellect, a sophisticated defense of the reality of free agency, and one of the few genuinely original philosophies of biology. His account of memory and of the brain as filter rather than store remains a live reference point in philosophy of mind.
 
 ## Impact and legacy
 

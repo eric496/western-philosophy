@@ -15,9 +15,9 @@
 
 Kant was born in Königsberg in 1724, the fourth of nine children of a harness-maker. The household was shaped by Pietism, a devout, inward-looking Lutheranism stressing conscience and moral discipline over ceremony. Kant later left Pietist practice behind, but its seriousness about self-examination marks his ethics.
 
-He entered the University of Königsberg at sixteen, studying philosophy, mathematics, and natural science under teachers formed by Christian Wolff, the German heir of Leibniz, and by Newtonian physics. After several years as a private tutor — one of his few periods away from Königsberg — he became a *Privatdozent* in 1755, an unsalaried lecturer paid by his students. That year he also published his *Universal Natural History*, whose nebular hypothesis — the solar system condensing from a rotating cloud of matter — anticipated the Kant–Laplace theory of planetary origins. He lectured for fifteen years on logic, metaphysics, ethics, geography, anthropology, and physics before receiving a professorship in 1770, aged forty-six. Stories of walks so regular that neighbours set their watches by them caricature a genuinely disciplined later life; students remembered a lively, witty teacher. He never married.
+He entered the University of Königsberg at sixteen, studying philosophy, mathematics, and natural science under teachers formed by Christian Wolff, the German heir of Leibniz, and by Newtonian physics. After several years as a private tutor — one of his few periods away from Königsberg — he became a *Privatdozent* in 1755, an unsalaried lecturer paid by his students. That year he also published his *Universal Natural History*, whose nebular hypothesis — the solar system condensing from a rotating cloud of matter — anticipated the Kant–Laplace theory of planetary origins. He lectured for fifteen years on logic, metaphysics, ethics, geography, anthropology, and physics before receiving a professorship in 1770, aged forty-six. Stories of walks so regular that neighbors set their watches by them caricature a genuinely disciplined later life; students remembered a lively, witty teacher. He never married.
 
-The decisive change was his “critical turn,” roughly 1770–81. Kant later said reading Hume interrupted his “dogmatic slumber”: Hume’s scepticism about causation showed that the Wolffian metaphysics he had been taught assumed what needed proving. His inaugural dissertation of 1770 began separating sensibility from understanding, and after a decade of near-silence in print he published the *Critique of Pure Reason* in 1781. Misunderstood at first, it prompted the clearer *Prolegomena* (1783) and a substantially revised second edition in 1787.
+The decisive change was his “critical turn,” roughly 1770–81. Kant later said reading Hume interrupted his “dogmatic slumber”: Hume’s skepticism about causation showed that the Wolffian metaphysics he had been taught assumed what needed proving. His inaugural dissertation of 1770 began separating sensibility from understanding, and after a decade of near-silence in print he published the *Critique of Pure Reason* in 1781. Misunderstood at first, it prompted the clearer *Prolegomena* (1783) and a substantially revised second edition in 1787.
 
 The practical philosophy followed: *Groundwork* (1785), *Critique of Practical Reason* (1788), and *Critique of Judgment* (1790). Late in life he collided with the state. *Religion within the Bounds of Bare Reason* (1793), which treated revealed religion as a vehicle for moral faith, drew an order from the Prussian authorities under Frederick William II, in a period of censorship, not to write or lecture further on religion. Kant complied while that king lived — arguing his promise had been made to that king personally — and resumed after the king’s death in 1797. He retired in 1796 and died in Königsberg in 1804.
 
@@ -29,7 +29,7 @@ A judgment is *analytic* if the predicate is already contained in the subject (�
 
 ### The Copernican revolution
 
-Earlier philosophy assumed cognition must conform to objects. Kant proposes the reverse: objects *of experience* conform to our cognition — as Copernicus explained the heavens better by moving the observer rather than the stars. A camera does not invent a scene, but every photo bears the marks of its lens and format. Likewise the mind does not create the world, but anything we can experience must arrive in a form our faculties can receive and organise. Hence we can know a priori the *structure* experience must have — because we contribute it — while its content comes from outside us.
+Earlier philosophy assumed cognition must conform to objects. Kant proposes the reverse: objects *of experience* conform to our cognition — as Copernicus explained the heavens better by moving the observer rather than the stars. A camera does not invent a scene, but every photo bears the marks of its lens and format. Likewise the mind does not create the world, but anything we can experience must arrive in a form our faculties can receive and organize. Hence we can know a priori the *structure* experience must have — because we contribute it — while its content comes from outside us.
 
 ### Forms of intuition and the categories
 
@@ -53,7 +53,7 @@ When reason treats the world as a completed totality beyond possible experience,
 
 Some requirements, Kant thinks, are not merely advisable but unconditional. A *hypothetical* imperative says: if you want X, do Y. A *categorical* imperative commands regardless of your wants.
 
-Its universal-law formulation: “Act only in accordance with that maxim through which you can at the same time will that it become a universal law.” A *maxim* is your act’s subjective principle — “In circumstances C, I will do A to achieve P.” The test asks whether you can consistently will everyone to act on it. A lying promise fails: universalised, promises would cease to be believed, so the maxim destroys the practice it depends on.
+Its universal-law formulation: “Act only in accordance with that maxim through which you can at the same time will that it become a universal law.” A *maxim* is your act’s subjective principle — “In circumstances C, I will do A to achieve P.” The test asks whether you can consistently will everyone to act on it. A lying promise fails: universalized, promises would cease to be believed, so the maxim destroys the practice it depends on.
 
 Its humanity formulation: “Act in such a way that you treat humanity, whether in your own person or in the person of any other, always at the same time as an end and never merely as a means.” Using someone as a means is ordinary — you use a taxi driver’s services — but never *merely* as a means: deception and coercion bypass rational consent and treat a person as a tool only.
 
@@ -76,13 +76,13 @@ Theoretical reason could not prove freedom, God, or immortality — and critique
 **The universal-law test (*Groundwork*)**
 
 1. Act only on that maxim — your subjective principle of action — through which you can at the same time will that it become a universal law.
-2. Take the test case of a lying promise: universalised, everyone makes promises they do not intend to keep whenever it suits them.
-3. Universalised in that way, the maxim destroys the practice of promising it depends on, since no one would believe promises any longer — a contradiction in conception.
+2. Take the test case of a lying promise: universalized, everyone makes promises they do not intend to keep whenever it suits them.
+3. Universalized in that way, the maxim destroys the practice of promising it depends on, since no one would believe promises any longer — a contradiction in conception.
 Therefore, a maxim that fails the test is contrary to duty, and the moral law is the categorical imperative: act only on universalizable maxims.
 
 **Objection.** Hegel's charge of empty formalism: universalizability alone yields no determinate duties. Cleverly framed maxims describing bad acts in very specific terms may pass the test, while innocent maxims, described unluckily, may fail it — so the test seems to license too much and condemn too much.
 
-**Reply.** Kantians reply that the test works on honestly described maxims, not on descriptions gerrymandered to escape it, and that it does not work alone. The formula of humanity — treat persons always also as ends, never merely as means — supplies content the universal-law formula leaves abstract. Kant presents the formulas as one moral law viewed from different sides, not as rival tests. Whether that defence fully answers Hegel — or quietly concedes that universalizability needs supplementing — remains a live question in Kant scholarship, and the two formulas are often taught together for exactly that reason.
+**Reply.** Kantians reply that the test works on honestly described maxims, not on descriptions gerrymandered to escape it, and that it does not work alone. The formula of humanity — treat persons always also as ends, never merely as means — supplies content the universal-law formula leaves abstract. Kant presents the formulas as one moral law viewed from different sides, not as rival tests. Whether that defense fully answers Hegel — or quietly concedes that universalizability needs supplementing — remains a live question in Kant scholarship, and the two formulas are often taught together for exactly that reason.
 
 **The transcendental argument (*Critique of Pure Reason*)**
 
@@ -122,7 +122,7 @@ Kant’s first contribution is the critical method: before asking what we know, 
 
 ## Impact and legacy
 
-Almost every later movement defines itself through or against Kant. Fichte, Schelling, and Hegel tried to remove the unknowable thing in itself and complete his system; Schopenhauer kept it and rebuilt around the will. Neo-Kantian schools dominated German universities in the late nineteenth century, and analytic philosophy inherited his questions about the a priori and the limits of sense. In ethics he underlies modern deontology, human-rights talk of dignity, and Rawls’s political liberalism; his peace proposals fed liberal international theory. Even naturalised modern claims that experience is actively structured are recognisably Kantian in shape.
+Almost every later movement defines itself through or against Kant. Fichte, Schelling, and Hegel tried to remove the unknowable thing in itself and complete his system; Schopenhauer kept it and rebuilt around the will. Neo-Kantian schools dominated German universities in the late nineteenth century, and analytic philosophy inherited his questions about the a priori and the limits of sense. In ethics he underlies modern deontology, human-rights talk of dignity, and Rawls’s political liberalism; his peace proposals fed liberal international theory. Even naturalized modern claims that experience is actively structured are recognisably Kantian in shape.
 
 ## Criticisms and debates
 
@@ -148,7 +148,7 @@ Early critics objected that the thing in itself is incoherent: Kant says it affe
 
 ## Study questions
 
-1. State the categorical imperative in its universal-law and humanity formulations, then apply both to Kant's lying promise: what contradiction arises when the maxim is universalised, and in what way is the deceived promisee treated merely as a means?
+1. State the categorical imperative in its universal-law and humanity formulations, then apply both to Kant's lying promise: what contradiction arises when the maxim is universalized, and in what way is the deceived promisee treated merely as a means?
 2. Contrast Mill on the same lying promise: how would a utilitarian justification proceed, what would it weigh that Kant excludes, and under what circumstances might the two verdicts diverge?
 3. Explain “every event has a cause” as synthetic a priori: it is neither true by definition nor learned from any particular experience, yet Hume showed experience never yields necessity. How does Kant's Copernican turn make such a judgment possible?
 4. Unpack “thoughts without content are empty; intuitions without concepts are blind” with Descartes and Hume as foils: which side of experience does each predecessor overplay, and what does Kant claim each faculty contributes that the other cannot?

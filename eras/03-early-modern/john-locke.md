@@ -31,7 +31,7 @@ For Locke denies innate *ideas and principles*, not innate *faculties*. Percepti
 
 ### Sensation and reflection
 
-All ideas come from two sources. *Sensation* supplies ideas of external things: colours, sounds, solidity, motion. *Reflection* is the mind’s notice of its own operations — perceiving, doubting, believing, willing. Reflection is not an innate stock; it is experience turned inward.
+All ideas come from two sources. *Sensation* supplies ideas of external things: colors, sounds, solidity, motion. *Reflection* is the mind’s notice of its own operations — perceiving, doubting, believing, willing. Reflection is not an innate stock; it is experience turned inward.
 
 From *simple* ideas received through these sources, the mind actively builds *complex* ideas by combining, comparing, and abstracting. This yields Locke’s “historical, plain method”: for any contested concept — substance, cause, infinity — ask how the idea could have been assembled from experience. If no such history can be given, suspect a word being used without a clear idea, a diagnosis he applies relentlessly to scholastic jargon.
 
@@ -39,7 +39,7 @@ From *simple* ideas received through these sources, the mind actively builds *co
 
 In *Essay* II.8, Locke develops a distinction associated with Galileo and Boyle. *Primary qualities* — solidity, extension, figure, motion or rest, number — are really in objects whether perceived or not, and our ideas of them *resemble* them: the idea of a shape is genuinely like the shape.
 
-*Secondary qualities* — colours, sounds, tastes, smells — do not resemble anything in the object as they appear to us. They are *powers* in objects, grounded in the primary qualities of their minute parts, to produce ideas in us. The same water feels warm to one hand and cold to the other, so warmth as felt cannot simply reside in the water as it appears. The distinction was meant to reconcile everyday experience with the new corpuscular science — though Berkeley argued Locke had not followed it far enough.
+*Secondary qualities* — colors, sounds, tastes, smells — do not resemble anything in the object as they appear to us. They are *powers* in objects, grounded in the primary qualities of their minute parts, to produce ideas in us. The same water feels warm to one hand and cold to the other, so warmth as felt cannot simply reside in the water as it appears. The distinction was meant to reconcile everyday experience with the new corpuscular science — though Berkeley argued Locke had not followed it far enough.
 
 ### Material substance: “something, I know not what”
 
@@ -55,9 +55,9 @@ His thought experiments still structure the field. If a prince’s consciousness
 
 The *Second Treatise* begins before government, in a *state of nature* where people are free and equal, bound by a law of nature — reason — teaching that no one ought to harm another in his life, health, liberty, or possessions. These *natural rights* are held independently of government. Locke’s state of nature is not Hobbesian war, but it has “inconveniences”: no settled known law, no impartial judge, no reliable executive. Everyone must enforce the law of nature themselves, and partiality predictably corrupts that arrangement.
 
-### Property: labour mixing
+### Property: labor mixing
 
-If the earth was originally given to mankind in common, how can anything become privately owned? Locke’s answer in chapter V is *labour*. Each person owns his own person, and therefore his labour. By mixing that labour with something unowned — gathering acorns, tilling a field — he joins to it something that is his and makes it his property, provided (the famous provisos) that “enough, and as good” is left for others and nothing spoils in his possession. Money, introduced by tacit consent, later allows accumulation beyond the spoilage limit. Whether labour-mixing justifies extensive private property, and how the provisos fare amid scarcity, has been debated ever since — including sharply critical readings of the theory’s use in justifying seizure of Indigenous land in America.
+If the earth was originally given to mankind in common, how can anything become privately owned? Locke’s answer in chapter V is *labor*. Each person owns his own person, and therefore his labor. By mixing that labor with something unowned — gathering acorns, tilling a field — he joins to it something that is his and makes it his property, provided (the famous provisos) that “enough, and as good” is left for others and nothing spoils in his possession. Money, introduced by tacit consent, later allows accumulation beyond the spoilage limit. Whether labor-mixing justifies extensive private property, and how the provisos fare amid scarcity, has been debated ever since — including sharply critical readings of the theory’s use in justifying seizure of Indigenous land in America.
 
 ### Consent, limited government, and dissolution
 
@@ -67,7 +67,7 @@ If government breaks the trust, who shall judge? “The people shall be judge.�
 
 ### Toleration
 
-The *Letter Concerning Toleration* (1689) argues the magistrate’s business is civil interests — life, liberty, property — not salvation. True religion is inward persuasion, which force cannot produce: a church is a voluntary society, and coercion manufactures hypocrisy, not faith. Locke’s own limits are revealing and much debated: he excluded atheists, whose oaths he thought could not bind them, and distrusted groups he believed owed allegiance to a foreign power — limits his own principles have since been used to criticise and extend beyond.
+The *Letter Concerning Toleration* (1689) argues the magistrate’s business is civil interests — life, liberty, property — not salvation. True religion is inward persuasion, which force cannot produce: a church is a voluntary society, and coercion manufactures hypocrisy, not faith. Locke’s own limits are revealing and much debated: he excluded atheists, whose oaths he thought could not bind them, and distrusted groups he believed owed allegiance to a foreign power — limits his own principles have since been used to criticize and extend beyond.
 
 ## Signature arguments
 
@@ -111,20 +111,20 @@ Locke's answer to where ideas come from became the charter of empiricism. Notice
 
 ## Contributions
 
-Locke set empiricism’s research programme: trace every idea to experience, and suspect concepts that cannot survive that audit. He made personal identity as psychological continuity a central, still-open problem. He articulated the grammar of modern liberalism — pre-political rights, government by consent, power as trust, and a principled right to replace a government that betrays it. And he gave toleration a systematic defence grounded in the nature of belief itself, not merely political convenience.
+Locke set empiricism’s research program: trace every idea to experience, and suspect concepts that cannot survive that audit. He made personal identity as psychological continuity a central, still-open problem. He articulated the grammar of modern liberalism — pre-political rights, government by consent, power as trust, and a principled right to replace a government that betrays it. And he gave toleration a systematic defense grounded in the nature of belief itself, not merely political convenience.
 
 ## Impact and legacy
 
-The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; Voltaire popularised him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
+The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; Voltaire popularized him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
 
 ## Criticisms and debates
 
-Berkeley argued the primary/secondary distinction collapses — extension and figure vary with perspective just as colour does — and that material substance is an idea Locke’s own principles cannot license. Hume pressed the empiricist audit further, to causation, the self, and induction. On politics, scholars debate whether Locke’s *tacit* consent — inferred from merely living under a government — is too thin to legitimise anything. Critical historians read the property chapter as ideology for enclosure and colonialism; others stress the provisos as real constraints much modern accumulation violates. Twentieth-century scholarship also transformed the *Two Treatises* themselves, showing they were Exclusion Crisis works, not a post-1688 afterthought.
+Berkeley argued the primary/secondary distinction collapses — extension and figure vary with perspective just as color does — and that material substance is an idea Locke’s own principles cannot license. Hume pressed the empiricist audit further, to causation, the self, and induction. On politics, scholars debate whether Locke’s *tacit* consent — inferred from merely living under a government — is too thin to legitimise anything. Critical historians read the property chapter as ideology for enclosure and colonialism; others stress the provisos as real constraints much modern accumulation violates. Twentieth-century scholarship also transformed the *Two Treatises* themselves, showing they were Exclusion Crisis works, not a post-1688 afterthought.
 
 ## Misreadings to avoid
 
 - “Tabula rasa” is later shorthand; Locke’s image is “white paper,” and he denies innate *ideas*, not innate faculties or tendencies.
-- Locke is not a behaviourist or crude blank-slate determinist; reflection, reasoning, and active combination are built into his account.
+- Locke is not a behaviorist or crude blank-slate determinist; reflection, reasoning, and active combination are built into his account.
 - The state of nature is primarily an analytical device about authority and obligation, not simply a claim about prehistory.
 - The right of revolution is not a licence to rebel at any grievance; Locke stresses long abuse, a broken trust, and the people as judge.
 
@@ -138,7 +138,7 @@ Berkeley argued the primary/secondary distinction collapses — extension and fi
 ## Study questions
 
 1. Reconstruct Locke's primary/secondary quality distinction using the water that feels warm to one hand and cold to the other: which qualities resemble features of the object, and which are merely powers to produce ideas in us?
-2. Press Berkeley's collapse objection — extension, figure, and motion vary with perspective just as colour does — and assess whether anything of Locke's distinction survives it.
+2. Press Berkeley's collapse objection — extension, figure, and motion vary with perspective just as color does — and assess whether anything of Locke's distinction survives it.
 3. Reconstruct Locke's consciousness criterion through the prince-and-cobbler case, explaining why “person” is a forensic term. Then press Butler's circularity charge and Reid's brave-officer case: does the psychological-continuity reply save Locke, or revise him?
 4. Apply Locke's criterion to a fresh case: a defendant who genuinely cannot remember a crime committed years earlier. Is he, for Locke, the same person who acted, and how do body-based and soul-based criteria answer differently?
 5. Compare Leibniz's veined-marble dispositions with Locke's attack on innate ideas: is a predisposition to form a truth an innate idea, or exactly the general capacity Locke says makes “innate” empty?

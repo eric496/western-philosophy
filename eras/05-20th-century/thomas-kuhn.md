@@ -23,7 +23,7 @@ The book became one of the most cited academic works of the twentieth century, a
 
 ### Paradigms and normal science
 
-Kuhn’s key term is *paradigm*: in his clarified sense, a concrete scientific achievement — Newton’s *Principia* is the standard example — that is sufficiently unprecedented to attract a lasting group of adherents and sufficiently open-ended to leave them plenty of work to do. Around such an exemplar grows what Kuhn later called a *disciplinary matrix*: shared symbolic generalisations, models, values such as accuracy and simplicity, and standard examples learned in training.
+Kuhn’s key term is *paradigm*: in his clarified sense, a concrete scientific achievement — Newton’s *Principia* is the standard example — that is sufficiently unprecedented to attract a lasting group of adherents and sufficiently open-ended to leave them plenty of work to do. Around such an exemplar grows what Kuhn later called a *disciplinary matrix*: shared symbolic generalizations, models, values such as accuracy and simplicity, and standard examples learned in training.
 
 Most science, most of the time, is *normal science*: puzzle-solving within a paradigm. The paradigm supplies the problems, the methods, and the criteria for an acceptable solution, much as a jigsaw’s picture on the box tells you what a solution looks like — except the scientist, Kuhn noted, is far more confident the puzzle *has* a solution. Failure normally reflects on the scientist, not the paradigm. This is not an insult. Kuhn argued that this focused, even dogmatic phase is what lets a field accumulate precise, deep results: without commitment to a framework, every experiment would be a dispute about foundations.
 
@@ -63,7 +63,7 @@ Therefore, scientific development is not simple accumulation; it is punctuated b
 
 **Objection.** The model fits some episodes — the Copernican and chemical revolutions — better than others, and its central term is used so elastically that Margaret Masterman famously counted 21 senses of "paradigm" in the book. A thesis built on a term that vague, critics argue, risks explaining everything and nothing.
 
-**Reply.** Kuhn accepted much of the multiplicity and, in the 1970 Postscript and later work, organised the term around exemplars: shared concrete problem-solutions, learned in training, that show students how to do further work. Even where historians qualify the strict sequence of normal science, crisis, and revolution, the framework survives as a tool for historical analysis — for asking what a community shared, what it counted as a problem, and what changed when that changed.
+**Reply.** Kuhn accepted much of the multiplicity and, in the 1970 Postscript and later work, organized the term around exemplars: shared concrete problem-solutions, learned in training, that show students how to do further work. Even where historians qualify the strict sequence of normal science, crisis, and revolution, the framework survives as a tool for historical analysis — for asking what a community shared, what it counted as a problem, and what changed when that changed.
 
 ## Key works
 
@@ -81,7 +81,7 @@ Inside philosophy, Kuhn made a purely cumulative, purely logical picture of scie
 
 ## Criticisms and debates
 
-Margaret Masterman famously counted more than twenty senses of “paradigm” in *Structure*, a vagueness Kuhn tried to repair in the Postscript. Popperians object that normal science, as Kuhn describes it, celebrates the dogmatism good science should resist, and that crisis-and-conversion makes theory change look irrational. Philosophers such as Donald Davidson argued that the very idea of mutually untranslatable conceptual schemes is incoherent, since recognising a scheme as a language already requires largely understanding it. Historians have questioned whether Kuhn’s pattern fits biology or the social sciences as well as physics and chemistry, and whether revolutions are really as abrupt and total as his early rhetoric suggested. Kuhn conceded ground on several points across his career; whether the concessions leave a strong thesis or a modest one is itself a live debate.
+Margaret Masterman famously counted more than twenty senses of “paradigm” in *Structure*, a vagueness Kuhn tried to repair in the Postscript. Popperians object that normal science, as Kuhn describes it, celebrates the dogmatism good science should resist, and that crisis-and-conversion makes theory change look irrational. Philosophers such as Donald Davidson argued that the very idea of mutually untranslatable conceptual schemes is incoherent, since recognizing a scheme as a language already requires largely understanding it. Historians have questioned whether Kuhn’s pattern fits biology or the social sciences as well as physics and chemistry, and whether revolutions are really as abrupt and total as his early rhetoric suggested. Kuhn conceded ground on several points across his career; whether the concessions leave a strong thesis or a modest one is itself a live debate.
 
 ## Misreadings to avoid
 

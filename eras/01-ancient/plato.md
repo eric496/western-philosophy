@@ -17,7 +17,7 @@ Plato was born into a wealthy Athenian family. His mother Perictione's family wa
 
 The decisive event of his youth was meeting Socrates (c. 470–399 BCE), who wrote nothing and spent his time questioning Athenians about courage, piety, justice, and wisdom. Plato became his devoted follower. Socrates' execution in 399 BCE — condemned by Athens' democracy for impiety and corrupting the youth — turned Plato permanently against existing politics. According to the *Phaedo*, Plato was absent through illness on the day Socrates drank the hemlock, but the trial frames his conviction that cities will not be just until philosophy gains power or rulers learn philosophy.
 
-After Socrates' death Plato travelled to Megara, and reportedly to Egypt, Italy, and Sicily. His visits to Syracuse matter most: he tried and failed to steer the tyrants Dionysius I and Dionysius II toward philosophical rule. The *Seventh Letter*, widely but not universally accepted as genuine, gives his frustrated account and his famous conclusion that evils will not cease until philosophers rule as kings or kings philosophise.
+After Socrates' death Plato traveled to Megara, and reportedly to Egypt, Italy, and Sicily. His visits to Syracuse matter most: he tried and failed to steer the tyrants Dionysius I and Dionysius II toward philosophical rule. The *Seventh Letter*, widely but not universally accepted as genuine, gives his frustrated account and his famous conclusion that evils will not cease until philosophers rule as kings or kings philosophise.
 
 Around c. 387 BCE Plato founded the Academy in a grove outside Athens. Often called the first university in the Western tradition — though not a university in the modern sense — it attracted students in philosophy, mathematics, and astronomy. Aristotle joined at about seventeen and stayed twenty years. The Academy endured, in changing forms, for centuries.
 
@@ -29,7 +29,7 @@ Plato wrote dialogues, not treatises. Socrates speaks in most early and middle w
 
 Plato holds that the sensible world — what we see, touch, and measure — is not fully real or intelligible on its own. Behind unstable particulars stand Forms: eternal, changeless patterns that particular things imperfectly share in, or "participate in."
 
-A beautiful painting fades and a beautiful person ages, yet we judge both by a standard, Beauty itself, that does not fade. Many different actions are called just, but we could not recognise them as just, Plato argues, unless there were Justice itself to measure them against. No two physical sticks are perfectly equal, yet we understand perfect equality — and that understanding cannot come from the sticks alone.
+A beautiful painting fades and a beautiful person ages, yet we judge both by a standard, Beauty itself, that does not fade. Many different actions are called just, but we could not recognize them as just, Plato argues, unless there were Justice itself to measure them against. No two physical sticks are perfectly equal, yet we understand perfect equality — and that understanding cannot come from the sticks alone.
 
 The theory solves two inherited problems at once. Heraclitus stressed flux: sensible things constantly change. Parmenides argued that what truly *is* cannot change. Plato splits the difference: sensibles are in flux, Forms are changeless being. Knowledge (*epistēmē*) in the strict sense must be of what is stable, so knowledge is of Forms; about the shifting world we have only belief or opinion (*doxa*). In the *Republic* the Form of the Good stands above the rest, compared to the sun: as the sun makes visible things visible, the Good makes intelligible things intelligible.
 
@@ -51,7 +51,7 @@ You need not accept literal pre-existence to see the move: some knowledge, Plato
 
 ### The tripartite soul and justice
 
-The *Republic* divides the soul into reason (which seeks truth), spirit (anger, shame, competitiveness, love of honour), and appetite (desires for food, sex, money). The division is argued: a person can thirst yet refuse to drink, so appetite and reason pull apart and cannot be identical. Spirit is separate when we grow angry at our own appetites — reason's ally, unless corrupted.
+The *Republic* divides the soul into reason (which seeks truth), spirit (anger, shame, competitiveness, love of honor), and appetite (desires for food, sex, money). The division is argued: a person can thirst yet refuse to drink, so appetite and reason pull apart and cannot be identical. Spirit is separate when we grow angry at our own appetites — reason's ally, unless corrupted.
 
 Justice is defined in parallel for city and soul. A just city has producers, soldier-auxiliaries, and philosopher-guardians, each doing its own work. A just soul has reason ruling, spirit assisting, appetite obeying. Justice is thus internal order — psychological health — not just a list of external acts. The tyrant of Book IX, outwardly all-powerful, is inwardly enslaved to a master appetite and is therefore the most miserable of men. Critics have always asked whether the city–soul analogy proves this, or is merely a suggestive metaphor.
 
@@ -61,14 +61,14 @@ If knowledge of the Good is possible but rare, and ruling well requires it, the 
 
 ### Eros and the ascent to Beauty
 
-In the *Symposium*, love (*erōs*) is a ladder. In the speech given to the priestess Diotima, the lover begins with one beautiful body, recognises beauty in all bodies, then turns to beauty of souls, laws, and knowledge, and finally contemplates Beauty itself. Desire, properly educated, carries the soul from particulars to Forms. Critics such as Martha Nussbaum press the tension: does the individual beloved survive the ascent as more than a discarded rung?
+In the *Symposium*, love (*erōs*) is a ladder. In the speech given to the priestess Diotima, the lover begins with one beautiful body, recognizes beauty in all bodies, then turns to beauty of souls, laws, and knowledge, and finally contemplates Beauty itself. Desire, properly educated, carries the soul from particulars to Forms. Critics such as Martha Nussbaum press the tension: does the individual beloved survive the ascent as more than a discarded rung?
 
 ## Signature arguments
 
 **The argument for the Forms**
 
 1. Sensible things called equal or beautiful are deficient: two sticks may be equal in length yet unequal in another respect, and no sensible beautiful thing is beautiful in every respect, at every time, to every observer.
-2. We recognise this deficiency, judging sensible equals and beautifuls against a standard they fall short of — Equality itself and Beauty itself.
+2. We recognize this deficiency, judging sensible equals and beautifuls against a standard they fall short of — Equality itself and Beauty itself.
 3. That standard cannot itself be supplied by the senses, since no sensible instance presents equality or beauty perfectly and without qualification.
 Therefore, Forms such as Equality itself and Beauty itself exist apart from their sensible instances, and knowledge (*epistēmē*) in the strict sense is of these Forms, not of fluctuating particulars.
 
@@ -84,15 +84,15 @@ Therefore, Forms such as Equality itself and Beauty itself exist apart from thei
 4. A person can also grow angry at his own appetites, as Leontius is angry at his desire to stare at corpses, so the spirited source of anger is distinct from appetite too.
 Therefore, the soul has at least three distinct parts or sources of motivation: appetite, spirit, and reason.
 
-**Objection.** Inner conflict, critics object, shows only that a single agent can have competing desires and judgements, not that the soul literally contains separate parts, each a kind of mini-agent. On this reading the parallel with the three classes of the city is a suggestive metaphor doing work it cannot do as proof, and Plato has mistaken a way of talking about conflict for a division in the soul's structure.
+**Objection.** Inner conflict, critics object, shows only that a single agent can have competing desires and judgments, not that the soul literally contains separate parts, each a kind of mini-agent. On this reading the parallel with the three classes of the city is a suggestive metaphor doing work it cannot do as proof, and Plato has mistaken a way of talking about conflict for a division in the soul's structure.
 
-**Reply.** Plato's conclusion can be defended in a more modest form. He needs functionally distinct sources of motivation, each with its characteristic objects — appetite aiming at pleasure and bodily satisfaction, spirit at honour and victory, reason at truth and the good of the whole — and the conflict cases do establish at least that much. Whether these sources are literally parts, rather than aspects of one soul, remains debated among scholars; the functional division, and the account of justice as their proper ordering, can survive either way.
+**Reply.** Plato's conclusion can be defended in a more modest form. He needs functionally distinct sources of motivation, each with its characteristic objects — appetite aiming at pleasure and bodily satisfaction, spirit at honor and victory, reason at truth and the good of the whole — and the conflict cases do establish at least that much. Whether these sources are literally parts, rather than aspects of one soul, remains debated among scholars; the functional division, and the account of justice as their proper ordering, can survive either way.
 
 Fuller reconstructions of the Republic's arguments are in the study guide: [Republic study guide](../../study/plato-republic.md).
 
 ## Key works
 
-- **Apology** (early; dramatic date 399 BCE) — Socrates' defence at his trial: his mission, his professed ignorance, his refusal to stop philosophising.
+- **Apology** (early; dramatic date 399 BCE) — Socrates' defense at his trial: his mission, his professed ignorance, his refusal to stop philosophising.
 - **Crito** (early) — Socrates refuses escape from prison, arguing through the personified Laws of Athens that agreements bind even at the cost of life.
 - **Euthyphro** (early) — On piety; ends without a definition but poses the Euthyphro dilemma: is the pious loved by the gods because it is pious, or pious because loved?
 - **Meno** (transitional) — Whether virtue can be taught; the slave-boy scene and recollection.
@@ -126,7 +126,7 @@ Aristotle founded a rival school in critical dialogue with him. In the 3rd centu
 
 Aristotle is Plato's first and greatest critic: separate Forms, he argued, double the world without explaining it, and their separation makes it obscure how they explain particulars at all. His alternative — form *in* things — structures later metaphysics. The Third Man Argument remains live: does participation generate a regress, and did Plato answer it?
 
-Scholars debate the "unwritten doctrines": Aristotle reports Plato lecturing on first principles — the One and the Indefinite Dyad — absent from the dialogues. The Tübingen school treats these as the key to Plato; most Anglophone scholars are sceptical. Chronology is also contested: stylometry (statistical analysis of Plato's Greek) supports a rough late group, but unitarians resist extracting an evolution of doctrine from dramatically unified works. Popper charged Plato with hostility to the open society; others reply that he misread the *Republic*'s context — a city in speech, built to illuminate the soul. Feminist readers note the *Republic* admits women to the guardian class and education, while subordinating family life entirely to the city: an emancipation and an erasure at once.
+Scholars debate the "unwritten doctrines": Aristotle reports Plato lecturing on first principles — the One and the Indefinite Dyad — absent from the dialogues. The Tübingen school treats these as the key to Plato; most Anglophone scholars are skeptical. Chronology is also contested: stylometry (statistical analysis of Plato's Greek) supports a rough late group, but unitarians resist extracting an evolution of doctrine from dramatically unified works. Popper charged Plato with hostility to the open society; others reply that he misread the *Republic*'s context — a city in speech, built to illuminate the soul. Feminist readers note the *Republic* admits women to the guardian class and education, while subordinating family life entirely to the city: an emancipation and an erasure at once.
 
 ## Misreadings to avoid
 

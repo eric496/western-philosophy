@@ -15,7 +15,7 @@
 
 Epicurus was born on the island of Samos in c. 341 BCE to Athenian parents. Tradition presents him as largely self-formed, though he encountered Democritean atomism, probably through Nausiphanes, and reacted against Plato's Academy and against popular religion. After teaching in Mytilene and Lampsacus, he bought a house and garden in Athens in c. 306 BCE and founded the community simply known as the Garden.
 
-The Garden mattered as much as the doctrines. Unlike Plato's Academy or Aristotle's Lyceum, it admitted women and enslaved people as philosophical companions, and it was organised around friendship, shared simple meals, and withdrawal from competitive public life. Members memorised concise summaries and treated philosophy as a daily practice rather than a lecture subject. Epicurus lived the frugality he preached, suffered chronic ill health, and met death in c. 270 BCE with a famously composed letter claiming a happy final day despite severe pain.
+The Garden mattered as much as the doctrines. Unlike Plato's Academy or Aristotle's Lyceum, it admitted women and enslaved people as philosophical companions, and it was organized around friendship, shared simple meals, and withdrawal from competitive public life. Members memorized concise summaries and treated philosophy as a daily practice rather than a lecture subject. Epicurus lived the frugality he preached, suffered chronic ill health, and met death in c. 270 BCE with a famously composed letter claiming a happy final day despite severe pain.
 
 He was extraordinarily prolific — about 300 works, almost all lost. What survives does so by two accidents. First, Diogenes Laertius (3rd century CE) copied three letters and a set of maxims into Book X of his *Lives*. Second, Lucretius (1st century BCE) turned Epicurean physics and ethics into the Latin poem *On the Nature of Things*, preserving the system in fuller detail. Charred papyri from Herculaneum have added fragments, but our picture still depends heavily on summaries made for insiders.
 
@@ -35,13 +35,13 @@ He adds one famous modification: atoms falling through the void occasionally swe
 
 ### The tetrapharmakos and the fear of the gods
 
-Later Epicureans summarised the therapy as the *tetrapharmakos*, the "four-fold remedy": do not fear god; do not worry about death; good things are easy to get; terrible things are easy to endure.
+Later Epicureans summarized the therapy as the *tetrapharmakos*, the "four-fold remedy": do not fear god; do not worry about death; good things are easy to get; terrible things are easy to endure.
 
 Epicurus does not deny the gods. He argues they exist as blessed, imperishable beings, and precisely because they are perfectly blessed they cannot be troubled by managing the universe, rewarding worshippers, or punishing sinners. Storms and diseases are natural events with natural causes. The point is therapeutic: if the gods do not intervene, religious fear loses its object.
 
 ### Death is nothing to us
 
-The second remedy is the most quoted argument in the school: "Death is nothing to us, since when we are, death has not come, and when death has come, we are not." Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgement. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
+The second remedy is the most quoted argument in the school: "Death is nothing to us, since when we are, death has not come, and when death has come, we are not." Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
 
 ### Friendship, justice, and withdrawal
 
@@ -52,7 +52,7 @@ Friendship is the greatest security a life can have, and the Garden embodied it.
 - **Letter to Menoeceus** (date uncertain; preserved in Diogenes Laertius X) — The short ethics letter: pleasure, desire, death, and the gods. The best primary text to start with.
 - **Letter to Herodotus** (preserved in Diogenes Laertius X) — Not the historian: a summary of physics — atoms, void, and perception — written for students who could not study the longer works. (The swerve, discussed above, appears in none of Epicurus' surviving writings.)
 - **Letter to Pythocles** (preserved in Diogenes Laertius X) — On celestial and meteorological phenomena, offering multiple natural explanations rather than one mythic cause; its authorship in detail is debated.
-- **Principal Doctrines** (40 short maxims, preserved in Diogenes Laertius X) — The authorised catechism of the school, meant to be memorised.
+- **Principal Doctrines** (40 short maxims, preserved in Diogenes Laertius X) — The authorized catechism of the school, meant to be memorized.
 - **On Nature** (Epicurus' major work in 37 books; lost except for Herculaneum fragments) — The full system from which the letters are abridgements.
 - **Lucretius, *On the Nature of Things*** (1st century BCE) — Not by Epicurus, but the fullest surviving exposition of his school, and a masterpiece in its own right.
 
@@ -66,7 +66,7 @@ This is the most famous piece of Epicurean therapy: the argument meant to remove
 
 ## Contributions
 
-Epicurus fused physics and ethics into a therapeutic system in which natural science exists chiefly to dissolve fear. He offered the ancient world's most fully secular, naturalistic answer to living without anxiety: no providence, no immortal soul, no post-mortem judgement — yet a positive account of happiness. He also modelled an unusually inclusive philosophical community and built an early form of hedonistic consequentialism, weighing actions by long-term effects on pain and pleasure.
+Epicurus fused physics and ethics into a therapeutic system in which natural science exists chiefly to dissolve fear. He offered the ancient world's most fully secular, naturalistic answer to living without anxiety: no providence, no immortal soul, no post-mortem judgment — yet a positive account of happiness. He also modelled an unusually inclusive philosophical community and built an early form of hedonistic consequentialism, weighing actions by long-term effects on pain and pleasure.
 
 ## Impact and legacy
 
@@ -74,7 +74,7 @@ Epicurean communities lasted centuries across the Roman world; his doctrine was 
 
 ## Criticisms and debates
 
-Ancient rivals, especially Stoics and Cicero, objected that pleasure is too base a goal, that a painless condition is not pleasure but a neutral state, and that withdrawal abandons civic duty. Plutarch argued it makes a rich life impossible by ruling out honour and public service.
+Ancient rivals, especially Stoics and Cicero, objected that pleasure is too base a goal, that a painless condition is not pleasure but a neutral state, and that withdrawal abandons civic duty. Plutarch argued it makes a rich life impossible by ruling out honor and public service.
 
 Modern debates cluster around the swerve (physics, free will, or both?), whether "katastematic" (static) pleasures such as ataraxia can outrank active enjoyments, and whether the death argument confuses *experiencing* harm with *being harmed* by deprivation.
 

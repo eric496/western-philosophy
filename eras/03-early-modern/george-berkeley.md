@@ -17,7 +17,7 @@ George Berkeley was born on 12 March 1685 at Kilcrin, County Kilkenny, Ireland. 
 
 His philosophy came early: the *Essay Towards a New Theory of Vision* (1709) at twenty-four, the *Treatise Concerning the Principles of Human Knowledge* (1710), and the *Three Dialogues between Hylas and Philonous* (1713). The *Principles* was widely misunderstood — readers took him to deny the existence of everything — and the *Dialogues* were his clearer rewrite for a general audience. After travel in England and on the Continent, he devoted himself to a practical scheme: a college in Bermuda for colonial and Indigenous American students.
 
-Berkeley won a charter and promises of funding, resigned his Irish posts, and sailed in 1728, settling at Newport, Rhode Island, to await the money. It never came — Walpole’s government let the grant lapse — and he returned in 1731, donating his farm and library to Yale. The American years produced *Alciphron* (1732), a defence of Christianity.
+Berkeley won a charter and promises of funding, resigned his Irish posts, and sailed in 1728, settling at Newport, Rhode Island, to await the money. It never came — Walpole’s government let the grant lapse — and he returned in 1731, donating his farm and library to Yale. The American years produced *Alciphron* (1732), a defense of Christianity.
 
 In 1734 he became Bishop of Cloyne, serving as pastor and local improver for the rest of his life. Later works include *The Analyst* (1734), attacking the foundations of Newton’s calculus, and *Siris* (1744). He died in Oxford on 14 January 1753.
 
@@ -25,19 +25,19 @@ In 1734 he became Bishop of Cloyne, serving as pastor and local improver for the
 
 ### *Esse est percipi*: to be is to be perceived
 
-For sensible things, Berkeley holds (§3 of the *Principles*) that *esse est percipi* — their being is to be perceived. What is a table, tree, or stone except a collection of sensible qualities — colour, shape, hardness — perceived together and marked with one name? An idea, his term for anything immediately perceived, can exist only in a perceiving mind. Try to conceive a tree existing unperceived, he challenges, and notice: you have conceived it, so it is present to your mind after all. Absolute existence “without the mind” is, he concludes, meaningless or contradictory.
+For sensible things, Berkeley holds (§3 of the *Principles*) that *esse est percipi* — their being is to be perceived. What is a table, tree, or stone except a collection of sensible qualities — color, shape, hardness — perceived together and marked with one name? An idea, his term for anything immediately perceived, can exist only in a perceiving mind. Try to conceive a tree existing unperceived, he challenges, and notice: you have conceived it, so it is present to your mind after all. Absolute existence “without the mind” is, he concludes, meaningless or contradictory.
 
 Spirits — active minds, ours and God’s — are the exception: their being is to perceive, not to be perceived. We know our own mind by “notion,” direct reflexive awareness, not by an idea. Tension: if all we know is ideas, how do we know minds at all? Berkeley’s answer strains, some readers think, his own empiricist rules.
 
 ### Immaterialism: denying material substance, not the world
 
-Berkeley denies *material substance* — the hypothesised mind-independent “something, I know not what” (Locke’s phrase) supporting qualities and causing our ideas. He does **not** deny the things we see and touch. Houses, mountains, and bodies are fully real: orderly collections of ideas, exactly as they appear. He claims common sense against the philosophers: scepticism begins only when philosophers insert an unperceivable original behind the perceived copy and worry whether copy matches original.
+Berkeley denies *material substance* — the hypothesised mind-independent “something, I know not what” (Locke’s phrase) supporting qualities and causing our ideas. He does **not** deny the things we see and touch. Houses, mountains, and bodies are fully real: orderly collections of ideas, exactly as they appear. He claims common sense against the philosophers: skepticism begins only when philosophers insert an unperceivable original behind the perceived copy and worry whether copy matches original.
 
 His arguments: material substance is never perceived; it explains nothing (how inert matter causes ideas in a mind is never made intelligible); and the idea of it is contradictory once examined. Remove the phantom and the experienced world stands entire, grounded in minds.
 
 ### The collapse of Locke’s primary/secondary distinction
 
-Locke distinguished secondary qualities (colour, taste, sound — powers to produce sensations) from primary qualities (extension, figure, motion, solidity — supposedly resembling qualities in objects themselves). Berkeley argues the distinction collapses. Extension and figure vary with position and condition just as colour does: a coin looks round from above, elliptical from the side; apparent size changes with distance; motion seems faster or slower with the succession of ideas in a mind. If variability puts colour only in the mind, it does the same for shape and size. Nor can primary qualities be abstracted even in thought from all sensible quality — a shape that is no colour and tangible in no way leaves nothing to conceive. Tension: Berkeley must still explain why some ideas feel more robust and law-governed than others; his answer — the coherence God imposes — shifts the system’s weight onto theology.
+Locke distinguished secondary qualities (color, taste, sound — powers to produce sensations) from primary qualities (extension, figure, motion, solidity — supposedly resembling qualities in objects themselves). Berkeley argues the distinction collapses. Extension and figure vary with position and condition just as color does: a coin looks round from above, elliptical from the side; apparent size changes with distance; motion seems faster or slower with the succession of ideas in a mind. If variability puts color only in the mind, it does the same for shape and size. Nor can primary qualities be abstracted even in thought from all sensible quality — a shape that is no color and tangible in no way leaves nothing to conceive. Tension: Berkeley must still explain why some ideas feel more robust and law-governed than others; his answer — the coherence God imposes — shifts the system’s weight onto theology.
 
 ### The attack on abstract general ideas
 
@@ -47,7 +47,7 @@ This is no side issue. Berkeley thinks abstraction generates material substance 
 
 ### God as permanent perceiver: continuity and order
 
-Do things vanish when no human perceives them? No: God, an omnipresent eternal mind, perceives them continuously, so my desk persists when I leave my study. The order of nature is also God’s doing. Ideas of sense, unlike imagination, arrive unbidden, vivid, and law-governed; “laws of nature” are the regular grammar by which God presents ideas to us, and science studies that grammar. This is Berkeley’s payoff: materialism, he charged, supported scepticism and atheism, while immaterialism makes God the immediately governing presence in every perception. Tension: critics ask whether an unperceived God does the same work as the unperceived matter Berkeley rejected. He replies that we infer spirits, our own included, from their effects and by analogy with ourselves — a different, legitimate route.
+Do things vanish when no human perceives them? No: God, an omnipresent eternal mind, perceives them continuously, so my desk persists when I leave my study. The order of nature is also God’s doing. Ideas of sense, unlike imagination, arrive unbidden, vivid, and law-governed; “laws of nature” are the regular grammar by which God presents ideas to us, and science studies that grammar. This is Berkeley’s payoff: materialism, he charged, supported skepticism and atheism, while immaterialism makes God the immediately governing presence in every perception. Tension: critics ask whether an unperceived God does the same work as the unperceived matter Berkeley rejected. He replies that we infer spirits, our own included, from their effects and by analogy with ourselves — a different, legitimate route.
 
 ## Key works
 
@@ -72,7 +72,7 @@ Berkeley added a new metaphysical option: a fully empiricist idealism in which t
 
 ## Impact and legacy
 
-Hume reported that Berkeley’s arguments produced a scepticism Berkeley never intended, praising them as great discoveries while doubting they admitted an answer. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
+Hume reported that Berkeley’s arguments produced a skepticism Berkeley never intended, praising them as great discoveries while doubting they admitted an answer. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
 
 ## Criticisms and debates
 
@@ -83,7 +83,7 @@ Classic objections recur. Inference: does Berkeley slide illegitimately from “
 - **“Things stop existing when you stop looking.”** No — God perceives continuously; existence is being perceived by *some* mind.
 - **“Berkeley denied the physical world.”** He denied a substance *behind* the experienced world; that world itself he defended as fully real.
 - **“Johnson’s stone refuted him.”** It refutes a position Berkeley explicitly disavowed.
-- **“Berkeley was a dreamy mystic.”** His motives were empiricist rigour and an anti-sceptical, pro-science defence of religion.
+- **“Berkeley was a dreamy mystic.”** His motives were empiricist rigor and an anti-skeptical, pro-science defense of religion.
 
 ## What to read first
 
@@ -95,7 +95,7 @@ Classic objections recur. Inference: does Berkeley slide illegitimately from “
 ## Study questions
 
 1. Reconstruct Berkeley's master argument: try to conceive a tree existing unperceived, and notice you have conceived it. What inference does Berkeley draw to *esse est percipi*, and where does the objection locate a slide — from “cannot conceive unconceived” to “cannot exist unconceived”?
-2. Rebuild his collapse of Locke's primary/secondary distinction from variability and inseparability: a shape that is no colour and tangible in no way leaves what, exactly, to conceive?
+2. Rebuild his collapse of Locke's primary/secondary distinction from variability and inseparability: a shape that is no color and tangible in no way leaves what, exactly, to conceive?
 3. Compare Locke's material substratum, “something, I know not what,” with Berkeley's God as permanent perceiver: does God do the same unexplained work Berkeley rejected in matter? Construct Berkeley's reply from our knowledge of spirits by notion and their effects.
 4. Apply Berkeley to a fresh case — an unobserved valley no human has ever visited: what exists there, on his account, what guarantees its continuity, and how does Samuel Johnson's kicked stone miss the answer?
 

@@ -15,7 +15,7 @@
 
 Merleau-Ponty was born on 14 March 1908 in Rochefort, on France's Atlantic coast. His father, a colonial artillery captain, died in 1913, when Maurice was five; Maurice was raised in Paris by his mother in close, happy circumstances he later described as an enchanted childhood he never fully left. After the lycée he entered the École Normale Supérieure in 1926, in the same milieu as Jean-Paul Sartre and Simone de Beauvoir — fellow students whose lives his would cross for three decades. He passed the agrégation in philosophy in 1930, taught in provincial lycées, and returned to the ENS as a tutor.
 
-The decisive formation was phenomenological. In 1939 Merleau-Ponty was among the first French philosophers to visit the Husserl Archives at Louvain, reading unpublished manuscripts — including Husserl's late work on the lifeworld — that most German readers had not seen. Mobilised in 1939, he served until France's collapse in 1940, then taught under the Occupation and moved in Resistance circles, writing for clandestine publications. His two doctoral works appeared in 1942 and 1945: *The Structure of Behaviour* (1942), a critique of reflexology and Gestalt psychology, and *Phenomenology of Perception* (1945), which made his reputation at thirty-seven.
+The decisive formation was phenomenological. In 1939 Merleau-Ponty was among the first French philosophers to visit the Husserl Archives at Louvain, reading unpublished manuscripts — including Husserl's late work on the lifeworld — that most German readers had not seen. Mobilised in 1939, he served until France's collapse in 1940, then taught under the Occupation and moved in Resistance circles, writing for clandestine publications. His two doctoral works appeared in 1942 and 1945: *The Structure of Behavior* (1942), a critique of reflexology and Gestalt psychology, and *Phenomenology of Perception* (1945), which made his reputation at thirty-seven.
 
 Postwar Paris made him public. With Sartre and Beauvoir he co-founded the journal *Les Temps modernes* (1945) and served as its political editor, defending a non-communist but Marxist-leaning "wait-and-see" stance toward the Soviet Union. The friendship broke in the early 1950s — over Korea, the camps question, and Sartre's turn toward the Communist Party: Merleau-Ponty resigned from the journal in 1952 and dissected his former position in *Adventures of the Dialectic* (1955), drawing public attacks from Sartre and Beauvoir in return. A partial reconciliation came late; Sartre's obituary essay on him is generous and self-critical.
 
@@ -29,7 +29,7 @@ The *Phenomenology of Perception* argues that both classical accounts of percept
 
 ### The lived body, habit, and the flesh
 
-Because the body is our standpoint, it has a double nature no other thing has: it is both sensing and sensible — my hand touching can itself be touched, my seeing eye is visible. **Habit** is this body's way of learning: the practised typist does not memorise positions but incorporates the keyboard into the body schema; Merleau-Ponty's famous example is the blind man's cane, which ceases to be an object he perceives *with* and becomes an extension of touch itself. In the late, unfinished work this doubleness becomes an ontology. The **flesh** (*la chair*) names the element — not matter, not mind — of which both seer and seen are made, such that vision can occur: the touching and the touched **intertwine** (the **chiasm**) and reverse into each other. Visibility is thus not a property of objects before a subject but a texture of being itself. The work is fragmentary — working notes alongside chapters — and readers debate how far its ontology fulfils, revises, or abandons the earlier phenomenology.
+Because the body is our standpoint, it has a double nature no other thing has: it is both sensing and sensible — my hand touching can itself be touched, my seeing eye is visible. **Habit** is this body's way of learning: the practiced typist does not memorize positions but incorporates the keyboard into the body schema; Merleau-Ponty's famous example is the blind man's cane, which ceases to be an object he perceives *with* and becomes an extension of touch itself. In the late, unfinished work this doubleness becomes an ontology. The **flesh** (*la chair*) names the element — not matter, not mind — of which both seer and seen are made, such that vision can occur: the touching and the touched **intertwine** (the **chiasm**) and reverse into each other. Visibility is thus not a property of objects before a subject but a texture of being itself. The work is fragmentary — working notes alongside chapters — and readers debate how far its ontology fulfills, revises, or abandons the earlier phenomenology.
 
 ### Expression, language, and painting
 
@@ -41,7 +41,7 @@ Politically, *Humanism and Terror* (1947) asked whether revolutionary violence c
 
 ## Key works
 
-- *The Structure of Behaviour* (1942) — The critique of mechanistic psychology and defence of structure/form; groundwork for everything after.
+- *The Structure of Behavior* (1942) — The critique of mechanistic psychology and defense of structure/form; groundwork for everything after.
 - *Phenomenology of Perception* (1945) — The masterpiece: embodiment, perception, space, sexuality, speech, and freedom in one arc.
 - *Humanism and Terror* (1947) — The controversial essay on political violence and the Moscow trials; his postwar position at its most exposed.
 - *Sense and Non-Sense* (1948) — Collected essays, including "Cézanne's Doubt" and "The Child's Relations with Others" (in later selections).
@@ -51,7 +51,7 @@ Politically, *Humanism and Terror* (1947) asked whether revolutionary violence c
 
 ## Contributions
 
-Merleau-Ponty put the body at the centre of phenomenology and thereby of much subsequent philosophy. He showed perception could receive a rigorous first-person account that neither reduces it to mechanism nor dissolves it into judgment, and he made the pre-reflective — habit, posture, the "I can" — respectable philosophical subject matter. He was French phenomenology's chief importer of Husserl's late thought (the *Lebenswelt* entered France through his Louvain visit) and its chief internal reformer, correcting Sartre's dualism of being-for-itself and being-in-itself with a philosophy of ambiguity and intertwining. His accounts of expression bridged philosophy, psychology, linguistics, and aesthetics just as the analytic tradition was sealing those borders.
+Merleau-Ponty put the body at the center of phenomenology and thereby of much subsequent philosophy. He showed perception could receive a rigorous first-person account that neither reduces it to mechanism nor dissolves it into judgment, and he made the pre-reflective — habit, posture, the "I can" — respectable philosophical subject matter. He was French phenomenology's chief importer of Husserl's late thought (the *Lebenswelt* entered France through his Louvain visit) and its chief internal reformer, correcting Sartre's dualism of being-for-itself and being-in-itself with a philosophy of ambiguity and intertwining. His accounts of expression bridged philosophy, psychology, linguistics, and aesthetics just as the analytic tradition was sealing those borders.
 
 ## Impact and legacy
 
@@ -68,7 +68,7 @@ For a generation Merleau-Ponty was eclipsed in France by structuralism, whose pr
 ## Misreadings to avoid
 
 - Merleau-Ponty is not "Sartre-lite": he rejected the for-itself/in-itself dualism at the heart of *Being and Nothingness* and replaced radical freedom with situated, embodied freedom — the famous quarrel was philosophical before it was personal.
-- Embodiment does not mean the mind is "really just the body" in a materialist sense; he criticised physiological reductionism as firmly as dualism.
+- Embodiment does not mean the mind is "really just the body" in a materialist sense; he criticized physiological reductionism as firmly as dualism.
 - The flesh (*la chair*) is not flesh-and-blood in the anatomical sense but an ontological "element" — reading it biologically flattens the late work.
 - He was not an irrationalist: his lifelong partners of argument were the sciences of his day (Gestalt psychology, neurology, linguistics), which he read closely in order to correct their philosophical interpretations.
 

@@ -39,7 +39,7 @@ A theory that survives severe tests is, in Popper’s term, *corroborated*. Corr
 
 The obvious objection, associated with Pierre Duhem and later W. V. O. Quine, is that no theory is tested alone. Tests involve auxiliary hypotheses about instruments, background conditions, and other theories. When a prediction fails, logic alone does not say whether the main theory is false or an auxiliary was wrong: astronomers who found Uranus off its predicted orbit did not abandon Newton; they posited an unseen planet — Neptune — and were right.
 
-Popper replied with methodological rules: decide in advance what would count as falsification, and do not rescue a theory with *ad hoc* modifications adding no new testable content. Critics reply that this turns falsification into communal decision, weakening his clean logic. Lakatos developed the tension most fruitfully: research programmes rationally protect a hard core for a time and are judged by whether they predict novel facts, not by single failures. The popular image — one failed test and the theory dies — is *naive falsificationism*, a position Popper himself did not quite hold.
+Popper replied with methodological rules: decide in advance what would count as falsification, and do not rescue a theory with *ad hoc* modifications adding no new testable content. Critics reply that this turns falsification into communal decision, weakening his clean logic. Lakatos developed the tension most fruitfully: research programs rationally protect a hard core for a time and are judged by whether they predict novel facts, not by single failures. The popular image — one failed test and the theory dies — is *naive falsificationism*, a position Popper himself did not quite hold.
 
 ### Historicism and the open society
 
@@ -78,7 +78,7 @@ The practical conclusion of *The Poverty of Historicism* is negative and positiv
 ## Key works
 
 - *Logik der Forschung* (1934; English as *The Logic of Scientific Discovery*, 1959) — the founding statement of falsificationism and the critique of induction.
-- *The Open Society and Its Enemies* (1945) — a two-volume attack on Plato, Hegel, and Marx as historicists, and a defence of liberal democracy.
+- *The Open Society and Its Enemies* (1945) — a two-volume attack on Plato, Hegel, and Marx as historicists, and a defense of liberal democracy.
 - *The Poverty of Historicism* (articles 1944–45; book 1957) — the concise, technical version of the anti-historicist argument.
 - *Conjectures and Refutations* (1963) — the most accessible collection of his essays, including his account of Einstein versus Marx, Freud, and Adler.
 - *Objective Knowledge* (1972) — his later evolutionary epistemology and theory of “World 3,” the world of objective contents of thought.

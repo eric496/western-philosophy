@@ -13,7 +13,7 @@
 
 ## Biography
 
-Ludwig Wittgenstein was born on 26 April 1889 in Vienna, the youngest of eight children in one of the wealthiest families in the Austro-Hungarian Empire. His father Karl was a steel magnate; his mother Leopoldine was musical, and the family home was a centre of Viennese cultural life visited by Brahms and Mahler. The household was also intense and demanding. Three of Wittgenstein's brothers died by suicide, and Wittgenstein himself struggled with suicidal thoughts throughout his life. Any honest biography holds both parts together: immense privilege, and a severe, restless temperament that never let him settle comfortably inside it.
+Ludwig Wittgenstein was born on 26 April 1889 in Vienna, the youngest of eight children in one of the wealthiest families in the Austro-Hungarian Empire. His father Karl was a steel magnate; his mother Leopoldine was musical, and the family home was a center of Viennese cultural life visited by Brahms and Mahler. The household was also intense and demanding. Three of Wittgenstein's brothers died by suicide, and Wittgenstein himself struggled with suicidal thoughts throughout his life. Any honest biography holds both parts together: immense privilege, and a severe, restless temperament that never let him settle comfortably inside it.
 
 Educated at home until fourteen, then at a technical school in Linz, he first pursued engineering: Berlin, then Manchester in 1908 for aeronautics research. The mathematics it required led him to its foundations. Reading Russell's *The Principles of Mathematics* (1903) and Frege changed his direction. In 1911 Frege advised him to study with Russell at Cambridge. He arrived unannounced and argued so well that Russell quickly judged him a genius — "the most perfect example I have ever known of genius as traditionally conceived, passionate, profound, intense, and dominating."
 
@@ -39,7 +39,7 @@ Which objects are truly simple was never settled by Wittgenstein — he gave no 
 
 A proposition with sense is a *picture* of a possible state of affairs. A picture need not look like what it depicts. A musical score, a gramophone record, and a performed symphony share, Wittgenstein argued, an internal structure that lets one be projected onto another. In the same way, a proposition shares *logical form* with the fact it pictures. Its elements (names) correspond to objects, and their arrangement mirrors a possible arrangement of those objects in the world.
 
-Consider "The cat is on the mat." On an early-Wittgensteinian analysis, a fully analysed version would arrange names in a way that mirrors a possible arrangement of things. If the cat really is on the mat, the pictured state of affairs obtains and the proposition is true; if not, it is false but still meaningful, because it still pictures a possibility. This bipolarity — capable of truth and capable of falsity — is the mark of a genuine factual proposition.
+Consider "The cat is on the mat." On an early-Wittgensteinian analysis, a fully analyzed version would arrange names in a way that mirrors a possible arrangement of things. If the cat really is on the mat, the pictured state of affairs obtains and the proposition is true; if not, it is false but still meaningful, because it still pictures a possibility. This bipolarity — capable of truth and capable of falsity — is the mark of a genuine factual proposition.
 
 Everyday language, Wittgenstein thought, disguises this structure. Philosophical confusion arises when we mistake surface grammar for real logical form. Clarification means analysis: breaking a proposition down until its picturing relation becomes perspicuous.
 
@@ -71,7 +71,7 @@ Before Wittgenstein, Frege and Russell had shown that modern logic could clarify
 1. **A unified picture of language, thought, and world.** One theory — picturing through shared logical form — was meant to explain meaning, truth, and the limits of both at a stroke.
 2. **The saying/showing distinction.** The idea that some things are manifested by language rather than stated in it reshaped debates about logic, ethics, and religion.
 3. **Philosophy as clarification, not doctrine.** The *Tractatus* declares that philosophy is not a body of propositions but an activity of clarifying thoughts (4.112). That conception became a lasting analytic ideal, even for those who rejected the picture theory.
-4. **A limit drawn from inside.** Earlier thinkers had limited knowledge; Wittgenstein tried to limit *sense* itself, from within language, and to honour what lay beyond the limit rather than debunk it.
+4. **A limit drawn from inside.** Earlier thinkers had limited knowledge; Wittgenstein tried to limit *sense* itself, from within language, and to honor what lay beyond the limit rather than debunk it.
 
 ## Impact and legacy
 
@@ -81,7 +81,7 @@ In Britain, Ramsey helped transmit Wittgenstein's ideas, and the *Tractatus* set
 
 ## Criticisms and debates
 
-**Ramsey's early objections.** Frank Ramsey pressed, among other points, that Wittgenstein's treatment of identity, of mathematics, and of colour-exclusion did not work as stated. "This is red and green all over" is a problem because elementary propositions were supposed to be independent, yet colours exclude each other. That problem was one acknowledged pressure that helped push Wittgenstein back to philosophy in 1929.
+**Ramsey's early objections.** Frank Ramsey pressed, among other points, that Wittgenstein's treatment of identity, of mathematics, and of color-exclusion did not work as stated. "This is red and green all over" is a problem because elementary propositions were supposed to be independent, yet colors exclude each other. That problem was one acknowledged pressure that helped push Wittgenstein back to philosophy in 1929.
 
 **The simple objects.** Critics ask what the simple objects and elementary names actually are. Wittgenstein demanded them on theoretical grounds — without simples, sense would not be determinate — but never produced a settled example. Defenders reply that the demand is structural, not an inventory; critics reply that a theory of meaning should not rest on items no one can exhibit.
 
@@ -94,7 +94,7 @@ In Britain, Ramsey helped transmit Wittgenstein's ideas, and the *Tractatus* set
 - **"Wittgenstein proved ethics and religion are worthless."** Almost the reverse. He held that what cannot be said was the important part of life; silence was reverence, not contempt.
 - **"He was a logical positivist."** He influenced the Vienna Circle deeply but was not a member and not an empiricist.
 - **"The picture theory is about mental images."** A picture here is a logical model sharing form with a fact, not a photograph in the mind.
-- **"Russell's introduction explains the book."** Wittgenstein thought it misunderstood him. Read it, if at all, as Russell's view, not an authorised summary.
+- **"Russell's introduction explains the book."** Wittgenstein thought it misunderstood him. Read it, if at all, as Russell's view, not an authorized summary.
 - **"The *Tractatus* is a consistent system to memorise."** Its author included instructions for discarding it. Read it as a work in productive tension with itself.
 
 ## What to read first
@@ -107,7 +107,7 @@ In Britain, Ramsey helped transmit Wittgenstein's ideas, and the *Tractatus* set
 ## Study questions
 
 1. Using "The cat is on the mat," reconstruct the picture theory: what corresponds to what, what does the proposition share with the fact, and why is bipolarity — being capable of truth and of falsity — the mark of a genuine factual proposition?
-2. State Ramsey's colour-exclusion objection: "this is red all over" and "this is green all over" exclude each other, yet elementary propositions were meant to be independent. Why is this a problem inside the system rather than an external quibble?
+2. State Ramsey's color-exclusion objection: "this is red all over" and "this is green all over" exclude each other, yet elementary propositions were meant to be independent. Why is this a problem inside the system rather than an external quibble?
 3. The Vienna Circle read the *Tractatus* as licensing the dismissal of ethics as nonsense. Using proposition 6.421 and the Ficker letter, argue whether that reading captures or betrays the book's point about what cannot be said.
 4. Apply the ladder (6.54) to the sentence "A proposition shares logical form with the fact it pictures." By the book's own standard, can it be said? Defend either the resolute or the traditional reading of your answer.
 

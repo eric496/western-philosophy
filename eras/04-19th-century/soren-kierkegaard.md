@@ -7,19 +7,19 @@
 - **Dates:** 1813–1855
 - **Place:** Copenhagen, Denmark
 - **School/tradition:** Christian existential thought; a precursor (retrospectively) of existentialism
-- **Known for:** Re-centring philosophy on the single existing individual — choice, anxiety, despair, and faith — against Hegel's system and Denmark's complacent state Christianity.
+- **Known for:** Re-centering philosophy on the single existing individual — choice, anxiety, despair, and faith — against Hegel's system and Denmark's complacent state Christianity.
 
-**Responds to:** [Hegel](g-w-f-hegel.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md)
+**Responds to:** [Hegel](g-w-f-hegel.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md), [Jaspers](../05-20th-century/karl-jaspers.md)
 
 ## Biography
 
-Søren Aabye Kierkegaard was born in Copenhagen in 1813, the youngest of seven children of Michael Pedersen Kierkegaard, a self-made wool merchant of fierce, melancholic pietism. The father believed a curse lay on the family: he had as a starving shepherd boy on the Jutland heath cursed God, and he outlived his wife and five of his children, reading their deaths as judgement. Søren grew up brilliant, frail, sharp-tongued, and haunted — the father's confession of that early "great earthquake" revelation shadowed the son's whole authorship, and something he called his "thorn in the flesh" (never identified with certainty: guesses range from illness to a sexual secret) convinced him he would not live long and could not marry.
+Søren Aabye Kierkegaard was born in Copenhagen in 1813, the youngest of seven children of Michael Pedersen Kierkegaard, a self-made wool merchant of fierce, melancholic pietism. The father believed a curse lay on the family: he had as a starving shepherd boy on the Jutland heath cursed God, and he outlived his wife and five of his children, reading their deaths as judgment. Søren grew up brilliant, frail, sharp-tongued, and haunted — the father's confession of that early "great earthquake" revelation shadowed the son's whole authorship, and something he called his "thorn in the flesh" (never identified with certainty: guesses range from illness to a sexual secret) convinced him he would not live long and could not marry.
 
-At Copenhagen University he idled productively for a decade — theatre, cafés, debts — studying theology while gravitating to philosophy and literature, writing a dissertation on Socratic irony (1841). The decisive event was his engagement to Regine Olsen, aged fifteen when they met in 1837. He proposed in 1840, then, convinced his melancholy and secret made marriage impossible, broke the engagement in 1841 by deliberately playing the scoundrel so that she would blame him rather than doubt herself. She married another man; he wrote, obsessively and forever, to and about her — "my reader," the occasion of the authorship, and its intended inheritor: his will left her everything. Whether the broken engagement was sacrifice, self-dramatisation, or both is still argued; it is certainly the hinge of his life.
+At Copenhagen University he idled productively for a decade — theater, cafés, debts — studying theology while gravitating to philosophy and literature, writing a dissertation on Socratic irony (1841). The decisive event was his engagement to Regine Olsen, aged fifteen when they met in 1837. He proposed in 1840, then, convinced his melancholy and secret made marriage impossible, broke the engagement in 1841 by deliberately playing the scoundrel so that she would blame him rather than doubt herself. She married another man; he wrote, obsessively and forever, to and about her — "my reader," the occasion of the authorship, and its intended inheritor: his will left her everything. Whether the broken engagement was sacrifice, self-dramatization, or both is still argued; it is certainly the hinge of his life.
 
 What followed was one of the most concentrated writing careers in philosophy. Living on inherited wealth, walking Copenhagen's streets daily as a beloved public eccentric, he published volume after volume between 1843 and 1846 — *Either/Or*, *Fear and Trembling*, *Repetition*, *Philosophical Fragments*, *The Concept of Anxiety*, *Stages on Life's Way*, and the enormous *Concluding Unscientific Postscript* — much of it under pseudonyms, alongside signed "upbuilding discourses" under his own name. He planned to stop, become a rural pastor, and failed to. A feud with the satirical journal *The Corsair* in 1846 turned Copenhagen's mockery on his trousers, his spine, his voice — a humiliation he courted and bitterly recorded.
 
-His final campaign (1854–55) was an open attack on the Danish state church — "Christendom," as he called the comfortable fiction that a whole baptised nation is thereby Christian — in pamphlets of escalating ferocity (*The Moment*). He collapsed in the street in October 1855 and died weeks later, aged forty-two, having refused communion from a state pastor. He was little read outside Denmark in his lifetime. Rediscovery came in the early twentieth century, in German translation, where he detonated inside theology and philosophy alike.
+His final campaign (1854–55) was an open attack on the Danish state church — "Christendom," as he called the comfortable fiction that a whole baptized nation is thereby Christian — in pamphlets of escalating ferocity (*The Moment*). He collapsed in the street in October 1855 and died weeks later, aged forty-two, having refused communion from a state pastor. He was little read outside Denmark in his lifetime. Rediscovery came in the early twentieth century, in German translation, where he detonated inside theology and philosophy alike.
 
 ## Major theories and concepts
 
@@ -53,14 +53,14 @@ The pseudonyms are not disguises but positions: Johannes the Seducer, Judge Will
 - *Fear and Trembling* (1843) — Abraham and the knight of faith; the most famous single volume.
 - *Philosophical Fragments* (1844) and *Concluding Unscientific Postscript* (1846) — The Climacus books: the learner and the god, truth as subjectivity, an assault on Hegelian system-building.
 - *The Concept of Anxiety* (1844) — Freedom's dizziness; hugely influential on later psychology of anxiety.
-- *Works of Love* (1847, signed) — His own-name ethics: neighbour-love as duty, against romantic and preferential love.
+- *Works of Love* (1847, signed) — His own-name ethics: neighbor-love as duty, against romantic and preferential love.
 - *The Sickness Unto Death* (1849) — The anatomy of despair and the self.
 - *Practice in Christianity* (1850) — Published under the Anti-Climacus pseudonym: the major work of the "second authorship," setting the rigorous ideal of following Christ against comfortable established Christianity — the bridge to his final attack on Christendom.
 - *The Moment* (1855) — The final pamphlets against the state church.
 
 ## Contributions
 
-Kierkegaard restored the existing individual — choosing, anxious, despairing, believing — to the centre of philosophy at the height of system-building. He invented or sharpened concepts (anxiety as freedom's symptom, despair as self-misrelation, the leap, indirect communication) that became the vocabulary of existentialism and existential psychology, and he modelled a religious writing that refuses institutional comfort. The label "father of existentialism" is retrospective; the SEP warns it "obscures at least as much as it reveals," since he understood himself as a Christian religious writer, not the founder of a movement whose later stars were often atheists.
+Kierkegaard restored the existing individual — choosing, anxious, despairing, believing — to the center of philosophy at the height of system-building. He invented or sharpened concepts (anxiety as freedom's symptom, despair as self-misrelation, the leap, indirect communication) that became the vocabulary of existentialism and existential psychology, and he modelled a religious writing that refuses institutional comfort. The label "father of existentialism" is retrospective; the SEP warns it "obscures at least as much as it reveals," since he understood himself as a Christian religious writer, not the founder of a movement whose later stars were often atheists.
 
 ## Impact and legacy
 
@@ -68,7 +68,7 @@ Almost unread in the nineteenth century outside Scandinavia, he arrived in the t
 
 ## Criticisms and debates
 
-Adorno's study charged that the inwardness Kierkegaard absolutised was the inwardness of the bourgeois interior — politically quietist, fleeing the social world. Feminist readers have questioned the Regine story and the Seducer as material. Theologians dispute whether the "suspension of the ethical" licenses fanaticism (Kierkegaard's Abraham hears God; how would we know?) — defenders stress the category's singularity and terror, not a general permission. Scholars still argue about the unity of the pseudonymous authorship, the nature of the "thorn in the flesh," and whether the late attack on Christendom contradicts or fulfils the early works.
+Adorno's study charged that the inwardness Kierkegaard absolutised was the inwardness of the bourgeois interior — politically quietist, fleeing the social world. Feminist readers have questioned the Regine story and the Seducer as material. Theologians dispute whether the "suspension of the ethical" licenses fanaticism (Kierkegaard's Abraham hears God; how would we know?) — defenders stress the category's singularity and terror, not a general permission. Scholars still argue about the unity of the pseudonymous authorship, the nature of the "thorn in the flesh," and whether the late attack on Christendom contradicts or fulfills the early works.
 
 ## Misreadings to avoid
 
@@ -81,14 +81,14 @@ Adorno's study charged that the inwardness Kierkegaard absolutised was the inwar
 ## What to read first
 
 1. *Fear and Trembling* — short, searing, and central (remember: de Silentio speaks, and says he cannot do what Abraham did).
-2. Selections from *Either/Or* Part II — Judge William's defence of the ethical life.
+2. Selections from *Either/Or* Part II — Judge William's defense of the ethical life.
 3. *The Sickness Unto Death*, Part One — despair and the structure of the self.
-4. The *Postscript* later, with stamina, for the full anti-Hegelian programme.
+4. The *Postscript* later, with stamina, for the full anti-Hegelian program.
 
 ## Study questions
 
 1. Reconstruct the teleological suspension of the ethical in *Fear and Trembling*: what does the ethical demand of Abraham, what does faith demand instead, and why can de Silentio neither mediate Abraham's act nor explain his silence?
-2. Explain why this scandalises a Kantian. For Kant, what must be done with a supposed divine command that violates universal moral law? Does Kierkegaard's Abraham have any check against mistaking his own desire for God's voice, and if not, is that a defect or the point?
+2. Explain why this scandalizes a Kantian. For Kant, what must be done with a supposed divine command that violates universal moral law? Does Kierkegaard's Abraham have any check against mistaking his own desire for God's voice, and if not, is that a defect or the point?
 3. Compare Judge William's ethical life with the knight of faith: what does each standpoint choose and renounce, and why is the religious not simply a higher rung that ethical reasoning can climb to by its own logic?
 4. Apply the stages to a hard personal decision: breaking a solemn promise because keeping it would seriously harm the person you made it to. Work through the decision from aesthetic, ethical, and religious standpoints. Which, if any, could suspend the ethical here, and what would distinguish that from self-serving exception-making?
 

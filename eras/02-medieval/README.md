@@ -12,14 +12,14 @@ Faith/reason spectrum (not a war):
 - Eriugena: true authority and right reason can never conflict, since both flow from the same divine wisdom — and reason ends in negative theology, knowing God as beyond being
 - Anselm: faith seeks rational proof of what it already holds — fides quaerens intellectum
 - Abelard: put authorities side by side, let logic arbitrate — Sic et Non ("Yes and No")
-- Hildegard: knowledge by vision — revelation experienced directly, then authorised by the Church; reason's role is to receive, test, and expound what the "living light" shows
+- Hildegard: knowledge by vision — revelation experienced directly, then authorized by the Church; reason's role is to receive, test, and expound what the "living light" shows
 - Avicenna: reason/demonstration reaches certain truth about God/soul independently — Necessary Existent
 - Averroes, Maimonides: philosophy and revelation can't ultimately contradict; clashes are interpretation problems — one truth, different routes/audiences
 - Aquinas: distinct harmonious domains; reason proves some (God exists), revelation others (Trinity) — "Grace does not destroy nature, but perfects it"
 - Scotus: reason needs one shared concept of "being" to say anything about God — univocity of being
 - Ockham: reason's reach shrinks; many doctrines faith-only; logic should stop inventing entities — nominalism + parsimony
 - Cusa: learned ignorance — reason measures its own limit exactly, and knows God precisely by knowing it cannot comprehend him; opposites coincide in the infinite
-Real tension existed (Condemnations of 1270 and 1277, Bishop of Paris, against radical Aristotelian/Averroist theses; 219 theses in 1277) but default project was harmonisation, not warfare.
+Real tension existed (Condemnations of 1270 and 1277, Bishop of Paris, against radical Aristotelian/Averroist theses; 219 theses in 1277) but default project was harmonization, not warfare.
 
 Problem of universals (era's longest argument; Boethius via Porphyry posed it):
 - Extreme realism: universals exist as separate real things (William of Champeaux, Abelard's teacher, refuted by Abelard)
@@ -28,14 +28,14 @@ Problem of universals (era's longest argument; Boethius via Porphyry posed it):
 - Nominalism: only individuals exist; universals are signs standing for many individuals (Ockham, building on Roscelin)
 Arc: Boethius framed; Abelard made hot; Aquinas/Scotus gave realist answers of increasing subtlety; Ockham dissolved. Best single thread through era.
 
-Scholastic method: lectio (close commentary on authoritative text — Aristotle, Scripture, Boethius, Peter Lombard's Sentences); quaestio (isolated disputed question from conflicting authorities); disputatio (formal debate); written article shape (Aquinas): Objections → Sed contra → Respondeo → Replies to objections one by one. Teach beginner to recognise skeleton and Summa stops looking like a wall. Much best work done inside commentaries — vehicle for original thought, not summary.
+Scholastic method: lectio (close commentary on authoritative text — Aristotle, Scripture, Boethius, Peter Lombard's Sentences); quaestio (isolated disputed question from conflicting authorities); disputatio (formal debate); written article shape (Aquinas): Objections → Sed contra → Respondeo → Replies to objections one by one. Teach beginner to recognize skeleton and Summa stops looking like a wall. Much best work done inside commentaries — vehicle for original thought, not summary.
 Other recurring questions: proofs of God (Anselm, Avicenna, Aquinas, Scotus — four strategies); foreknowledge vs freedom (Augustine, Boethius, Aquinas, Scotus, Ockham); eternity of world vs creation (Avicenna emanation/eternal; Maimonides undecidable by reason; Aquinas creation in time by faith, eternity not disprovable); soul/intellect (Avicenna floating man; Averroes one intellect vs Aquinas refutation); cognition — how we know that singular things exist (Scotus's intuitive vs abstractive cognition; Ockham's intuitive cognition as the foundation of knowledge, the second great Scotus→Ockham thread alongside universals); evil/providence; law/ethics (Aquinas natural law; Abelard intention ethics).
 
 ## Learning order
 Recommended "reception order" (how ideas arrived/collided in Latin Europe):
 1. Augustine — sets every question; readable primary.
 2. Boethius — bridge; universals + foreknowledge.
-3. Eriugena — the Carolingian system-builder; Greek negative theology enters the Latin West (read after Boethius, whose Platonism he radicalises).
+3. Eriugena — the Carolingian system-builder; Greek negative theology enters the Latin West (read after Boethius, whose Platonism he radicalizes).
 4. Anselm — first real argument; tiny texts + Gaunilo.
 5. Abelard — method era; universals round 2; intention ethics.
 6. Hildegard — the visionary counterpoint: knowledge by experience and authority, written from the cloister while the schools argue.
@@ -49,7 +49,7 @@ Alternative strict chronology: Augustine → Boethius → Eriugena → Avicenna 
 Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 
 ## Oversimplifications (general)
-- "Dark Ages: faith crushed reason 1,000 years" FALSE — era invented university, formal disputation, much of logic; thinkers argued relentlessly, sometimes against authority's preferred answers and paid for it (Abelard condemned twice, Ockham excommunicated, 219 theses condemned Paris 1277). Project was harmonisation, not suppression.
+- "Dark Ages: faith crushed reason 1,000 years" FALSE — era invented university, formal disputation, much of logic; thinkers argued relentlessly, sometimes against authority's preferred answers and paid for it (Abelard condemned twice, Ockham excommunicated, 219 theses condemned Paris 1277). Project was harmonization, not suppression.
 - Faith vs reason is spectrum, not two-sided war (Aquinas limits both rationalism and fideism).
 - Realists mostly MODERATE (natures in things), not floating Plato Forms.
 - Avicenna/Averroes/Maimonides were original system-builders, not mere transmitters; wrote Arabic/Judeo-Arabic in Islamic/Jewish worlds — inclusion needs transmission story, not silent absorption as "Europeans".
