@@ -48,6 +48,14 @@ The old Stoic physics survives as an ethical frame: the universe is a rational, 
 - Epictetus, ***Enchiridion*** (Arrian's abridgement) — fifty-three short chapters; the dichotomy of control in pocket form.
 - Marcus Aurelius, ***Meditations*** (written 170s CE; Greek title, if any, unknown — "to himself") — twelve books of private self-address from the frontier wars.
 
+## In their own words
+
+> Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. But I who have seen the nature of the good that it is beautiful, and of the bad that it is ugly, and the nature of him who does wrong, that it is akin to me, not only of the same blood or seed, but that it participates in the same intelligence and the same portion of the divinity, I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him.
+
+— Marcus Aurelius, *Meditations* II.1, trans. George Long (1862; public domain)
+
+Marcus opens Book II with a morning rehearsal: expect difficult people, and decide in advance how to meet them. The move to notice is the double step — first the diagnosis (they act from ignorance of good and evil), then the refusal of anger grounded in kinship: the wrongdoer shares the same reason and divinity. This is Stoicism as daily practice, written by an emperor to himself, not a treatise for the public.
+
 ## Contributions
 
 The Roman Stoics transformed Stoicism from a technical system into a portable practice. The founders' logic and physics recede; what advances is moral psychology — the analysis of impressions, judgements, and passions as things we do and can retrain — and a literature of spiritual exercises unmatched in antiquity. Epictetus' dichotomy of control is arguably the most influential single distinction in the history of practical philosophy. Seneca effectively created the personal letter as a moral instrument, and gave Latin its classic vocabulary of time, conscience, and self-scrutiny.

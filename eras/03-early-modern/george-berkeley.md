@@ -55,6 +55,14 @@ Do things vanish when no human perceives them? No: God, an omnipresent eternal m
 - *Alciphron, or the Minute Philosopher* (1732) — His longest work: dialogues defending Christianity against the freethinkers, carrying the attack on abstract ideas into moral and religious thought.
 - *The Analyst* (1734) — A challenge to the foundations of Newton's calculus: are its "fluxions" and infinitesimals any clearer than the mysteries of religion they were used to mock?
 
+## In their own words
+
+> It is indeed an opinion strangely prevailing amongst men, that houses, mountains, rivers, and in a word all sensible objects, have an existence, natural or real, distinct from their being perceived by the understanding. […] For what are the forementioned objects but the things we perceive by sense? and what do we perceive besides our own ideas or sensations? and is it not plainly repugnant that any one of these, or any combination of them, should exist unperceived?
+
+— George Berkeley, *A Treatise Concerning the Principles of Human Knowledge* §3 (1710; public domain)
+
+Berkeley's idealism starts from a question that sounds innocent: what do we actually perceive? His answer — only our own ideas and sensations — makes "existence distinct from being perceived" look like a contradiction for sensible things, summed up in his formula *esse est percipi*, to be is to be perceived. Notice he presents this not as a paradox but as common sense rescued from philosophers: the "strangely prevailing" opinion is the materialists', not his.
+
 ## Contributions
 
 Berkeley added a new metaphysical option: a fully empiricist idealism in which the physical world is real but mind-dependent. He turned empiricism against itself, showing Locke’s principles, honestly followed, do not stop at material substance. His critique of abstract ideas reshaped theories of language and concepts; his theory of vision opened modern inquiry into learned perception; his analysis of forces as useful fictions fed phenomenalism, positivism, and Mach.

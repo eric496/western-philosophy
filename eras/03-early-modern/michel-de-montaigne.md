@@ -52,6 +52,14 @@ Against the philosophical tradition he is ambivalent about its most famous maxim
 - "Of Experience" (III.13) — The summation: body, law, custom, self.
 - *Travel Journal* (written 1580–81; published 1774) — His secretary's and partly his own record of the Italian journey; Montaigne unbuttoned.
 
+## In their own words
+
+> Now, to return to my subject, I find that there is nothing barbarous and savage in this nation, by anything that I can gather, excepting, that every one gives the title of barbarism to everything that is not in use in his own country. As, indeed, we have no other level of truth and reason than the example and idea of the opinions and customs of the place wherein we live: there is always the perfect religion, there the perfect government, there the most exact and accomplished usage of all things.
+
+— Michel de Montaigne, "Of Cannibals," *Essays* I.30, trans. Charles Cotton (1685; public domain)
+
+Writing about the Tupinambá of Brazil — who did, in fact, eat their enemies — Montaigne turns the mirror on Europe. The key term is *custom*: his sceptical point is that our standard of "truth and reason" is usually just the habits of home dressed up as nature. It is one of the earliest and sharpest statements of cultural relativism, delivered a century before anthropology existed.
+
 ## Contributions
 
 Montaigne created a genre. The essay — personal, provisional, digressive, testing ideas against lived experience — became a permanent instrument of thought, carried forward by Bacon, Locke, Hume, Hazlitt, Emerson, and Woolf. Philosophically, he reintroduced Pyrrhonian scepticism into European thought at full strength, and that injection is one of the triggers of modern philosophy: Descartes's method of doubt, and his project of finding an indubitable foundation, are best read as a response to the crisis Montaigne had made vivid. He also pioneered a naturalistic, first-person study of mind and body — self-observation as evidence — that anticipates both the memoir and moral psychology.

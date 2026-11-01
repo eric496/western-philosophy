@@ -97,6 +97,14 @@ Fuller reconstructions are in the study guide: [*Meditations on First Philosophy
 - *The World* (*Le Monde*) (written 1632–33; published posthumously, 1664) — His treatise on physics and the cosmos, suppressed after Galileo's condemnation; much of its physics was absorbed into the *Principles*.
 - *Rules for the Direction of the Mind* (written c. 1628; published posthumously, 1701) — An unfinished early treatise on method.
 
+## In their own words
+
+> But what then am I? A thing which thinks. What is a thing which thinks? It is a thing which doubts, understands, [conceives], affirms, denies, wills, refuses, which also imagines and feels.
+
+— René Descartes, *Meditations* II, trans. Elizabeth Haldane and G. R. T. Ross (1911; public domain)
+
+Having doubted everything that can be doubted, Descartes asks what survives — and the answer is this list. Notice that "thinking" for him is far wider than reasoning: doubting, willing, imagining, and even seeming-to-feel all count, because all are modes of consciousness he cannot deny while experiencing them. The self he has recovered is very thin — a thing which thinks — but it is, he claims, known more certainly than any body, including his own.
+
 ## Contributions
 
 Descartes made the **first-person problem of knowledge** philosophy's starting point: before asking what the world is like, ask how any claim to know it can be justified, building from what a single subject cannot doubt. He supplied the modern vocabulary of mind and matter — the mental as private and certain, the physical as public and measurable — within which philosophy of mind still operates, even when rejecting his answers. His analytic geometry fused algebra and geometry. His systematic doubt set a new standard for what a foundation must survive. And by writing major philosophy in French, in a literary first-person voice, he created the modern philosophical author: not a commentator on authorities, but a thinker answerable to any attentive reader.

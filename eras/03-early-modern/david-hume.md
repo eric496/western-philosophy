@@ -113,6 +113,14 @@ Fuller reconstructions of the argument on induction are in the study guide: [*An
 - *Dialogues Concerning Natural Religion* (posthumous, 1779) — On arguments for God's existence, especially design; who speaks for Hume is debated, by design.
 - *Essays* and *History of England* (1754–62) — The writings that made him famous in his lifetime.
 
+## In their own words
+
+> Every one will readily allow, that there is a considerable difference between the perceptions of the mind, when a man feels the pain of excessive heat, or the pleasure of moderate warmth, and when he afterwards recalls to his memory this sensation, or anticipates it by his imagination. These faculties may mimic or copy the perceptions of the senses; but they never can entirely reach the force and vivacity of the original sentiment.
+
+— David Hume, *An Enquiry Concerning Human Understanding* §II (1748; public domain)
+
+Hume opens the *Enquiry* with the distinction everything else depends on: impressions (live perceptions) versus ideas (their fainter copies in memory and imagination). Notice the deliberately homely test — the felt difference between pain and the thought of pain is something every reader can verify at once. From this modest starting point Hume will build his copy principle, and then use it as a detector: any philosophical term that cannot be traced to an impression is suspect.
+
 ## Contributions
 
 Hume formulated the **problem of induction** canonically; reanalysed **causation** as regularity plus habit; dissolved the **self** into a bundle of perceptions; posed the **is–ought** challenge; founded modern **sentimentalist ethics**; gave **compatibilism** its modern form; and set the terms for assessing **miracle testimony** and the **design argument**. Underlying all is a method: test every concept by the impressions it copies, and where reason overreaches, give a natural history of why we believe anyway.

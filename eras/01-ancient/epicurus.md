@@ -56,6 +56,14 @@ Friendship is the greatest security a life can have, and the Garden embodied it.
 - **On Nature** (Epicurus' major work in 37 books; lost except for Herculaneum fragments) — The full system from which the letters are abridgements.
 - **Lucretius, *On the Nature of Things*** (1st century BCE) — Not by Epicurus, but the fullest surviving exposition of his school, and a masterpiece in its own right.
 
+## In their own words
+
+> Accustom yourself to believe that death is nothing to us, for good and evil imply awareness, and death is the privation of all awareness; therefore a right understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life an unlimited time, but by taking away the yearning after immortality. […] Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.
+
+— Epicurus, *Letter to Menoeceus* §124–125, trans. Robert Drew Hicks (1925; public domain)
+
+This is the most famous piece of Epicurean therapy: the argument meant to remove the fear of death. Notice the logic is strictly materialist — good and evil exist only where there is sensation, and death is the end of sensation, so there is no subject left for death to harm. The payoff is not gloom but enjoyment: once the craving for immortality is gone, a finite life can be savoured as complete in itself.
+
 ## Contributions
 
 Epicurus fused physics and ethics into a therapeutic system in which natural science exists chiefly to dissolve fear. He offered the ancient world's most fully secular, naturalistic answer to living without anxiety: no providence, no immortal soul, no post-mortem judgement — yet a positive account of happiness. He also modelled an unusually inclusive philosophical community and built an early form of hedonistic consequentialism, weighing actions by long-term effects on pain and pleasure.

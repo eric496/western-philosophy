@@ -96,6 +96,14 @@ Fuller reconstructions of the monism argument are in the study guide: [*Ethics* 
 - *Political Treatise* (unfinished, posthumous, 1677) — A realistic theory of the state built on power and affect.
 - Letters (posthumous) — Including the letter on freedom and the conscious stone.
 
+## In their own words
+
+> Most writers on the emotions and on human conduct seem to be treating rather of matters outside nature than of natural phenomena following nature's general laws. […] I shall, therefore, treat of the nature and strength of the emotions according to the same method, as I employed heretofore in my investigations concerning God and the mind. I shall consider human actions and desires in exactly the same manner, as though I were concerned with lines, planes, and solids.
+
+— Baruch Spinoza, *Ethics* Part III, Preface, trans. R. H. M. Elwes (1883; public domain)
+
+Spinoza announces the most audacious method in early modern philosophy: no moralising, no exceptions for human beings. Other writers treat man as a "kingdom within a kingdom," exempt from nature's laws; Spinoza will explain love, hatred, and envy with the same necessity as geometry. The famous last sentence is not a metaphor for coldness — it is his determinism applied to the passions, so that understanding them becomes possible at all.
+
 ## Contributions
 
 Spinoza produced the era's most consistent **monism**: one substance, not Descartes's three kinds. He gave a **naturalistic, historical method for reading Scripture**, founding modern biblical criticism. His political writings made an early case for **freedom of thought and speech, democracy, and separating religious authority from state power**. His psychology offered a **deterministic yet therapeutic theory of emotion**. And his identification of God with nature permanently changed philosophy of religion: after Spinoza, "God" could name nature's order itself.

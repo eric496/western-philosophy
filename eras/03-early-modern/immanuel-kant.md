@@ -108,6 +108,14 @@ Fuller reconstructions are in the study guide: [*Groundwork*](../../study/kant-g
 - *Religion within the Bounds of Bare Reason* (1793) — Moral faith versus revealed religion; triggered Prussian censorship.
 - *Toward Perpetual Peace* (1795) — Conditions for lasting international peace, in a partly ironic treaty format.
 
+## In their own words
+
+> Nothing can possibly be conceived in the world, or even out of it, which can be called good, without qualification, except a good will. Intelligence, wit, judgement, and the other talents of the mind, however they may be named, or courage, resolution, perseverance, as qualities of temperament, are undoubtedly good and desirable in many respects; but these gifts of nature may also become extremely bad and mischievous if the will which is to make use of them, and which, therefore, constitutes what is called character, is not good.
+
+— Immanuel Kant, *Groundwork of the Metaphysic of Morals*, First Section, trans. Thomas Kingsmill Abbott (public domain, Project Gutenberg)
+
+The *Groundwork* begins by sweeping the board: talents, temperament, even happiness are only conditionally good, because a bad will can turn every one of them to harm. The good will is Kant's one exception — good not because of what it achieves but because of its willing itself. Notice that this is presented as common moral consciousness clarified, not a new invention: the whole first section claims merely to unpack what ordinary reason already thinks.
+
 ## Contributions
 
 Kant’s first contribution is the critical method: before asking what we know, ask what makes such knowledge possible and where its jurisdiction ends. Second, he made the mind active in knowledge — neither a passive copy of the world nor spinning truth from reason alone, experience is given content in contributed form. Third, he gave modern ethics its most influential non-consequentialist foundation: morality grounded in autonomy and dignity, not divine command, happiness, or sentiment. Fourth, he showed how questions about God, freedom, and the soul could be neither answered by theory nor dismissed, but relocated to the practical standpoint.

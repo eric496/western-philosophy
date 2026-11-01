@@ -55,6 +55,14 @@ Written in 1861 and published 1869, *The Subjection of Women* argues that the le
 - *The Subjection of Women* (1869) — The landmark argument for sex equality.
 - *Autobiography* (1873, posthumous) — The education, the mental crisis, and Harriet: indispensable and artful.
 
+## In their own words
+
+> The sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of any of their number, is self-protection. That the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.
+
+— John Stuart Mill, *On Liberty*, ch. 1 (1859; public domain)
+
+This is the harm principle stated in Mill's own words, "one very simple principle" meant to govern all coercion of competent adults. Notice the two exclusions he builds in from the start: your own good — even your real good — is "not a sufficient warrant" for forcing you, and the principle applies only to members of a "civilized community," a qualification his critics have pressed ever since. Everything else in *On Liberty* is defence and application of this single paragraph.
+
 ## Contributions
 
 Mill gave utilitarianism its most durable and humane form and liberalism its canonical arguments for free expression, individuality, and limited government. He systematised inductive logic for the empiricist tradition, brought women’s equality into mainstream political philosophy, and modelled a public philosophy that was also a life of reform. The idea that rights can be grounded in utility — security interests too vital to trade away — remains a live option in ethics.

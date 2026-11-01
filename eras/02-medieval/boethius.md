@@ -42,6 +42,14 @@ Book 5 of the *Consolation* poses the era's sharpest modal problem: if God infal
 - **Opuscula Sacra** (c. 512–522) — short theological tractates, including *On the Trinity*, applying logical distinctions to doctrine; source of the rule that faith and reason's questions must be carefully sorted.
 - **On Arithmetic** and **On Music** (c. 500–510) — textbooks, adapted from Greek sources, that (with his planned geometry and astronomy) defined the *quadrivium* — the four mathematical arts of the medieval curriculum.
 
+## In their own words
+
+> While I was thus mutely pondering within myself, and recording my sorrowful complainings with my pen, it seemed to me that there appeared above my head a woman of a countenance exceeding venerable. Her eyes were bright as fire, and of a more than human keenness; her complexion was lively, her vigour showed no trace of enfeeblement; and yet her years were right full, and she plainly seemed not of our age and time. Her stature was difficult to judge. At one moment it exceeded not the common height, at another her forehead seemed to strike the sky; and whenever she raised her head higher, she began to pierce within the very heavens, and to baffle the eyes of them that looked upon her.
+
+— Boethius, *The Consolation of Philosophy* I, prose 1, trans. H. R. James (1897; public domain)
+
+Boethius writes from prison, awaiting execution, lamenting his fall — and Lady Philosophy appears. Notice how her shifting height pictures philosophy itself: it meets us at human scale, yet reaches to the heavens when we follow it upward. She has come not to rescue his fortunes but to diagnose his real illness, which is forgetfulness of what he once knew. The dialogue that follows is the therapy.
+
 ## Contributions
 
 Boethius was the transmission belt between Greek philosophy and the Latin Middle Ages: translator, vocabulary-maker, textbook author, and question-setter. He framed the problem of universals, gave the canonical definition of eternity, the standard definition of "person," and the foreknowledge solution that structured debate for a millennium. The *Consolation* additionally created a genre: philosophy as therapy for the soul under catastrophe.
