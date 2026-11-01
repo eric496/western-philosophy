@@ -92,6 +92,8 @@ Habermas and others charge that his critique of reason is itself irrationalist a
 2. *The Gay Science* §§125, 276, 341 — the madman, amor fati, eternal recurrence.
 3. *Beyond Good and Evil* selections — then, and only then, *Zarathustra*, ideally with a commentary.
 
+**Study guide:** [*On the Genealogy of Morals* — essay-by-essay guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/nietzsche-genealogy.md).
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
