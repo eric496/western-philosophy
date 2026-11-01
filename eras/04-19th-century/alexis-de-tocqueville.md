@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1805–1859
+- **Dates:** 1805–1859
 - **Place:** Paris and Normandy, France; travelled in the United States (1831–32) and Algeria
-- **Movement / tradition:** Liberal political thought; founder of modern political sociology
+- **School/tradition:** Liberal political thought; founder of modern political sociology
 - **Known for:** *Democracy in America* (1835/1840) — the classic analysis of how equality transforms politics and character, including the "tyranny of the majority" and the danger of a mild, tutelary "soft despotism."
 
 **Responds to:** the French Revolution and the old regime whose centralising work it completed · **Answered by:** [J. S. Mill](john-stuart-mill.md)

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** c. 1266 – 1308
+- **Dates:** c. 1266 – 1308
 - **Place:** Born at Duns, Scotland; studied and taught at Oxford and Paris; died at Cologne.
-- **Tradition:** Latin Christian; Franciscan friar, the "Subtle Doctor" (*Doctor Subtilis*) — head of the Scotist school, scholasticism's second great system after Aquinas.
+- **School/tradition:** Latin Christian; Franciscan friar, the "Subtle Doctor" (*Doctor Subtilis*) — head of the Scotist school, scholasticism's second great system after Aquinas.
 - **Known for:** Univocity of being, haecceity ("thisness"), the formal distinction, and the primacy of the will.
 
 **Responds to:** [Thomas Aquinas](thomas-aquinas.md), [Avicenna](avicenna.md) · **Answered by:** [William of Ockham](william-of-ockham.md)

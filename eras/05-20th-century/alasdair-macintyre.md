@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1929–2025.
+- **Dates:** 1929–2025.
 - **Place:** Born in Glasgow, Scotland; taught in Britain and, for most of his later career, in the United States, principally at the University of Notre Dame.
-- **Tradition:** Aristotelian and Thomist virtue ethics; historian of morality. Often grouped with the communitarians, a label he resisted.
+- **School/tradition:** Aristotelian and Thomist virtue ethics; historian of morality. Often grouped with the communitarians, a label he resisted.
 - **Known for:** *After Virtue* (1981) — the argument that modern moral discourse is a heap of fragments from older, broken schemes, and that moral rationality lives inside practices, narratives, and traditions.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md), [Anscombe & Foot](anscombe-and-foot.md), [John Rawls](john-rawls.md) · **Answered by:** liberal and Marxist critics of his Aristotelian revival — no single entry in this repo takes up his case

@@ -6,7 +6,7 @@
 
 - **Dates:** 1908–2000
 - **Place:** Born in Akron, Ohio, USA; spent his career at Harvard
-- **Tradition:** Analytic philosophy; logical empiricism's heir and internal critic
+- **School/tradition:** Analytic philosophy; logical empiricism's heir and internal critic
 - **Known for:** "Two Dogmas of Empiricism" and the naturalisation of epistemology — pulling philosophy down into science
 
 **Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md) · **Answered by:** post-Quinean analytic philosophy, from Kripke onward — outside this repo's entries

@@ -54,9 +54,9 @@ In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single colour
 All Plotinus wrote is in the *Enneads*: treatises of 253–270 CE ordered thematically by Porphyry.
 
 - **Ennead I.6, *On Beauty* (c. 253–263).** The first treatise written, placed as a gentle entry: beauty, the soul's kinship with Form, and ascent to Beauty itself.
-- **Ennead V.1, *On the Three Primary Hypostases* (c. 263–268).** The clearest map of One, Intellect, and Soul — the system's best summary.
+- **Ennead V.1, *On the Three Primary Hypostases* (c. 253–263).** The clearest map of One, Intellect, and Soul — the system's best summary.
 - **Ennead II.9, *Against the Gnostics* (c. 263–268).** A defence of the cosmos against world-despising rivals; Plotinus arguing, not just contemplating.
-- **Ennead VI.9, *On the Good or the One* (c. 263–268).** Placed last as the destination: the One's transcendence and union with it.
+- **Ennead VI.9, *On the Good or the One* (c. 253–263).** Placed last as the destination: the One's transcendence and union with it.
 - **Porphyry, *Life of Plotinus* (c. 301 CE).** Indispensable preface: biography and publication history.
 
 ## Contributions

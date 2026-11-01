@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1900–2002.
+- **Dates:** 1900–2002.
 - **Place:** Born in Marburg, Germany; professor at Leipzig, Frankfurt, and for most of his career Heidelberg.
-- **Tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, Dilthey, and the classical tradition.
+- **School/tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, Dilthey, and the classical tradition.
 - **Known for:** *Truth and Method* (1960) and the **fusion of horizons**: understanding as an event in which the interpreter's historically formed outlook and the text's or tradition's outlook merge into a new one.
 
 **Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Derrida](jacques-derrida.md)
@@ -45,10 +45,10 @@ Borrowing from Aristotle's *phronesis* (practical wisdom), Gadamer argued that u
 
 - *Truth and Method* (1960) — The masterwork: art, history, language, and the fusion of horizons. Dense but the whole theory is here.
 - *Philosophical Hermeneutics* (essays, collected in English 1976) — Shorter, clearer statements, including "The Universality of the Hermeneutical Problem."
-- *Dialogue and Dialectic* (1980) — Essays on Plato showing his classical roots in action.
-- *Reason in the Age of Science* (1981) — Essays on method, expertise, and practical reason.
-- *The Relevance of the Beautiful* (1986) — His aesthetics in brief compass: art as play, symbol, and festival.
-- *Philosophical Apprenticeships* (1985) — A memoir of his teachers, including Heidegger — valuable biography as well as philosophy.
+- *Dialogue and Dialectic* (English ed. 1980) — Essays on Plato showing his classical roots in action.
+- *Reason in the Age of Science* (English ed. 1981) — Essays on method, expertise, and practical reason.
+- *The Relevance of the Beautiful* (English ed. 1986) — His aesthetics in brief compass: art as play, symbol, and festival.
+- *Philosophical Apprenticeships* (English ed. 1985) — A memoir of his teachers, including Heidegger — valuable biography as well as philosophy.
 
 ## Contributions
 

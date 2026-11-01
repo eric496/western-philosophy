@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1762–1814
+- **Dates:** 1762–1814
 - **Place:** Rammenau, Saxony; taught at Jena, Erlangen, and Berlin, Germany
-- **Movement / tradition:** German Idealism; founder of the first post-Kantian system
+- **School/tradition:** German Idealism; founder of the first post-Kantian system
 - **Known for:** Deriving experience from the self-positing "I" of his *Wissenschaftslehre* ("Doctrine of Science") — the bridge from Kant to Hegel.
 
 **Responds to:** [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [Hegel](g-w-f-hegel.md), [Schopenhauer](arthur-schopenhauer.md)

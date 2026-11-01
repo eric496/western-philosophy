@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 354 – 430 CE
+- **Dates:** 354 – 430 CE
 - **Place:** Born in Thagaste (Numidia, modern Algeria); educated in Carthage and Rome; taught rhetoric in Milan; bishop of Hippo Regius from 396 until his death.
-- **Tradition:** Latin Christian, writing in the Roman North African church as the Western Empire collapsed around him.
+- **School/tradition:** Latin Christian, writing in the Roman North African church as the Western Empire collapsed around him.
 - **Known for:** Original sin and grace, the divided will, the two cities, and a philosophy of time and memory that still anchors modern discussions.
 
 **Responds to:** [Plato](../01-ancient/plato.md), [Plotinus](../01-ancient/plotinus.md) · **Answered by:** [Anselm](anselm-of-canterbury.md), [Thomas Aquinas](thomas-aquinas.md)

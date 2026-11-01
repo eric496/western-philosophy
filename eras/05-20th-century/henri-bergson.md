@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1859–1941.
+- **Dates:** 1859–1941.
 - **Place:** Born in Paris, France; taught at the Collège de France and became the most famous living philosopher of his generation.
-- **Tradition:** French spiritualism and philosophy of life; a major influence on phenomenology, process thought, and Gilles Deleuze.
+- **School/tradition:** French spiritualism and philosophy of life; a major influence on phenomenology, process thought, and Gilles Deleuze.
 - **Known for:** Duration (*la durée*) — time as lived, indivisible flow rather than clock-time; intuition as a philosophical method; and the *élan vital* of *Creative Evolution*.
 
 **Responds to:** the spatialised time of the physics and psychology he inherited — no single predecessor entry in this repo · **Answered by:** [Russell](bertrand-russell.md)

@@ -4,7 +4,10 @@
 
 ## At a glance
 
-Karl Popper (1902–1994), born in Vienna and later based in New Zealand and London, was a philosopher of science and political philosopher in the analytic, liberal tradition. He is known for replacing verification with falsifiability as the mark of science, and for defending the “open society” against historicism.
+- **Dates:** 1902–1994
+- **Place:** Born in Vienna, later based in New Zealand and London
+- **School/tradition:** Analytic, liberal tradition; philosopher of science and political philosopher
+- **Known for:** Replacing verification with falsifiability as the mark of science, and for defending the “open society” against historicism
 
 **Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Marx](../04-19th-century/karl-marx.md) · **Answered by:** [Kuhn](thomas-kuhn.md)
 

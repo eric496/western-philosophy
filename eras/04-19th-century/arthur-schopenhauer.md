@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1788–1860
+- **Dates:** 1788–1860
 - **Place:** Danzig (Gdańsk), Hamburg, Weimar, Berlin, and finally Frankfurt am Main, Germany
-- **Movement / tradition:** Post-Kantian idealism; philosophical pessimism
+- **School/tradition:** Post-Kantian idealism; philosophical pessimism
 - **Known for:** The doctrine that the world's inner nature is a blind, aimless Will, and that life is therefore structured by suffering — with release possible through art, compassion, and renunciation.
 
 **Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Hegel](g-w-f-hegel.md), [Fichte](johann-gottlieb-fichte.md) · **Answered by:** [Nietzsche](friedrich-nietzsche.md)
@@ -40,7 +40,7 @@ Three exits are offered, ascending in completeness. First, *aesthetic contemplat
 ## Key works
 
 - *On the Fourfold Root of the Principle of Sufficient Reason* (1813) — His dissertation: everything explicable falls under four forms of the principle of sufficient reason. The foundation stone of the system.
-- *The World as Will and Representation* (completed 1818; published December 1818 with an 1819 title page; greatly expanded second volume, 1844) — The masterwork: Books 1–2 on representation and Will, Book 3 on art, Book 4 on ethics and salvation.
+- *The World as Will and Representation* (completed 1818; published December 1818, title page dated 1819; second edition 1844, with a new supplementary second volume) — The masterwork: Books 1–2 on representation and Will, Book 3 on art, Book 4 on ethics and salvation.
 - *Parerga and Paralipomena* (1851) — "By-works and things left out": the essays and aphorisms, including the wise, quotable pieces on reading, noise, fame, and women (the latter notoriously hostile), that finally made him famous.
 
 ## Contributions

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1126 – 1198
+- **Dates:** 1126 – 1198
 - **Place:** Born in Córdoba, al-Andalus (Muslim Spain); worked in Seville, Córdoba, and Marrakech. Wrote in Arabic.
-- **Tradition:** Islamic philosophy (*falsafa*) and Islamic law (Mālikī jurisprudence); chief qāḍī (judge) of Córdoba.
+- **School/tradition:** Islamic philosophy (*falsafa*) and Islamic law (Mālikī jurisprudence); chief qāḍī (judge) of Córdoba.
 - **Known for:** The great commentaries on Aristotle — in Latin he is simply "the Commentator" — and the doctrine of the unity of the intellect.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md), [Avicenna](avicenna.md) · **Answered by:** [Thomas Aquinas](thomas-aquinas.md)
@@ -41,7 +41,7 @@ Less famous but genuinely scientific: Averroes rejected Ptolemaic epicycles and 
 
 ## Key works
 
-- **Long Commentaries** on the *Physics*, *Metaphysics*, *De Caelo*, and especially *De Anima* (mostly 1170s–80s) — the line-by-line exegeses through which Latin Europe read Aristotle; the *De Anima* commentary contains the unity-of-intellect doctrine.
+- **Long Commentaries** on the *Physics*, *Metaphysics*, *De Caelo*, and especially *De Anima* (mostly 1180s–90s) — the line-by-line exegeses through which Latin Europe read Aristotle; the *De Anima* commentary contains the unity-of-intellect doctrine.
 - **Decisive Treatise** (c. 1179–80) — the legal ruling that philosophy is obligatory for the qualified and that Scripture and demonstration harmonise.
 - **Incoherence of the Incoherence** (c. 1180) — defence of philosophy and natural causation against al-Ghazālī.
 - **The Distinguished Jurist's Primer** (*Bidāyat al-Mujtahid*) — a comparative-law classic still read in Mālikī jurisprudence; a reminder that he was a working chief judge, not only a philosopher.

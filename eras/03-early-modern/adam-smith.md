@@ -3,7 +3,10 @@
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Adam Smith (1723–1790), Scotland; moral philosopher of the Scottish Enlightenment who held chairs of logic and moral philosophy at Glasgow. Known for: *The Theory of Moral Sentiments* (1759), which grounds morality in sympathy disciplined by an "impartial spectator," and *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), the founding text of classical economics — which Smith himself understood as one part of a larger science of human nature and society.
+- **Dates:** 1723–1790
+- **Place:** Scotland; held chairs of logic and moral philosophy at Glasgow
+- **School/tradition:** Moral philosopher of the Scottish Enlightenment
+- **Known for:** *The Theory of Moral Sentiments* (1759), which grounds morality in sympathy disciplined by an "impartial spectator," and *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), the founding text of classical economics — which Smith himself understood as one part of a larger science of human nature and society
 
 **Responds to:** [Hume](david-hume.md), [Montesquieu](montesquieu.md) · **Answered by:** [J. S. Mill](../04-19th-century/john-stuart-mill.md), [Marx](../04-19th-century/karl-marx.md)
 

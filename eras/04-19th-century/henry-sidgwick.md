@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1838–1900
+- **Dates:** 1838–1900
 - **Place:** Skipton, Yorkshire; Trinity College, Cambridge, England
-- **Movement / tradition:** Utilitarianism; Cambridge moral philosophy
+- **School/tradition:** Utilitarianism; Cambridge moral philosophy
 - **Known for:** *The Methods of Ethics* (1874), the summit of classical utilitarianism — famous for ending not in triumph but in the unresolved "dualism of practical reason," and for quietly shaping Moore, Parfit, and Singer.
 
 **Responds to:** [Bentham](jeremy-bentham.md), [J. S. Mill](john-stuart-mill.md) · **Answered by:** [G. E. Moore](../05-20th-century/g-e-moore.md), [Parfit](../05-20th-century/derek-parfit.md), [Singer](../05-20th-century/peter-singer.md)

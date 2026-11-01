@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1689–1755
+- **Dates:** 1689–1755
 - **Place:** Born at the Château de La Brède, near Bordeaux, France; long periods in Paris
-- **Tradition:** Enlightenment; comparative political sociology and liberal constitutional theory
+- **School/tradition:** Enlightenment; comparative political sociology and liberal constitutional theory
 - **Known for:** The separation of powers — legislative, executive, and judicial — as the institutional condition of political liberty, and for founding a comparative science of laws shaped by climate, commerce, religion, and custom
 
 **Responds to:** Roman history and the English constitution, his comparative materials — no single predecessor figure has an entry in this repo · **Answered by:** [Hume](david-hume.md), [Adam Smith](adam-smith.md)

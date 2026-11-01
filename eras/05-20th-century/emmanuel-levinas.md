@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Emmanuel Levinas, 1906–1995.
+- **Dates:** Emmanuel Levinas, 1906–1995.
 - **Place:** Born in Kaunas (Kovno), Lithuania; educated in Strasbourg and Freiburg; settled in Paris, where he taught at the Sorbonne and Paris Nanterre.
-- **Tradition:** Phenomenology, transformed into an ethics; also a major figure in modern Jewish thought.
+- **School/tradition:** Phenomenology, transformed into an ethics; also a major figure in modern Jewish thought.
 - **Known for:** The thesis that **ethics is first philosophy** — prior to ontology and knowledge: the face of the Other (*le visage d'Autrui*) commands "thou shalt not kill" before any theory, and the self is responsible for the Other before it is free.
 
 **Responds to:** [Husserl](edmund-husserl.md), [Heidegger](martin-heidegger.md) · **Answered by:** [Derrida](jacques-derrida.md)
@@ -44,7 +44,7 @@ Levinas ranked *Being and Time* among the century's indispensable books; his tho
 ## Key works
 
 - *The Theory of Intuition in Husserl's Phenomenology* (1930) — His thesis; the book that introduced Husserl to France.
-- *Existence and Existents* (1947) and *Time and the Other* (1948) — The early original work: the *il y a*, insomnia, eros, fecundity, and time as the relation to the Other.
+- *Existence and Existents* (1947) and *Time and the Other* (1947/48; lectures delivered 1946/47) — The early original work: the *il y a*, insomnia, eros, fecundity, and time as the relation to the Other.
 - *Totality and Infinity* (1961) — The major statement: totality vs infinity, the face, and ethics as first philosophy.
 - *Difficult Freedom* (1963) — Essays on Judaism for a general reader; the most accessible Levinas.
 - *Otherwise than Being, or Beyond Essence* (1974) — The second magnum opus: substitution, the hostage, Saying and Said.

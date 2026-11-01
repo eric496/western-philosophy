@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1098 – 1179
+- **Dates:** 1098 – 1179
 - **Place:** Bermersheim in the Rhineland, Germany; head of the women's community at Disibodenberg, then founder and abbess of Rupertsberg near Bingen
-- **Tradition:** Benedictine monasticism; visionary theology, natural philosophy, and medicine in the monastic tradition
+- **School/tradition:** Benedictine monasticism; visionary theology, natural philosophy, and medicine in the monastic tradition
 - **Known for:** The visionary trilogy beginning with *Scivias*, her concept of *viriditas* ("greening power"), among the largest surviving bodies of medieval monophonic song attributed to one composer, and practising natural philosophy and medicine as a twelfth-century abbess
 
 **Responds to:** [Plato](../01-ancient/plato.md) · **Answered by:** no direct successor in this collection — her influence was regional in her lifetime and her wider revival came much later
@@ -46,7 +46,7 @@ Hildegard's *Physica* (Book of Simple Medicine) catalogues plants, trees, animal
 - **Physica** (*Liber simplicis medicinae*, c. 1151–1158) — nine books on the healing properties of the natural world.
 - **Causae et Curae** (*Liber compositae medicinae*, c. 1151–1158) — the causes and cures of diseases, integrating cosmology, humoral theory, and practical remedies. (The transmitted text may be a compilation from her materials assembled by others; its authorship has been questioned.)
 - **Liber Vitae Meritorum** (Book of Life's Merits, 1158–1163) — a visionary dialogue of virtues and vices on moral choice and its consequences.
-- **Liber Divinorum Operum** (Book of Divine Works, 1163–1173) — her final, most ambitious visionary work: cosmology, the human being as microcosm, history, and last things.
+- **Liber Divinorum Operum** (Book of Divine Works, 1163–1173/74) — her final, most ambitious visionary work: cosmology, the human being as microcosm, history, and last things.
 - **Letters (*Epistolarium*)** — correspondence with popes, emperors, and abbots, including the rebukes to Barbarossa; some 300 letters survive.
 - **Lingua ignota** — an invented language of roughly a thousand words with its own alphabet, the earliest known constructed language attributed to a named author; its purpose is still debated.
 

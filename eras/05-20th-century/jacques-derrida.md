@@ -4,7 +4,10 @@
 
 ## At a glance
 
-**Lifespan:** 1930–2004 · **Place:** Born in El Biar, Algeria; career mainly in Paris, with long teaching ties to the United States · **Tradition:** Phenomenology, post-structuralism · **Known for:** Founding deconstruction — a reading practice showing how texts depend on oppositions they cannot keep stable — and *différance*, how meaning works by difference and deferral.
+- **Dates:** 1930–2004
+- **Place:** Born in El Biar, Algeria; career mainly in Paris, with long teaching ties to the United States
+- **School/tradition:** Phenomenology, post-structuralism
+- **Known for:** Founding deconstruction — a reading practice showing how texts depend on oppositions they cannot keep stable — and *différance*, how meaning works by difference and deferral
 
 **Responds to:** [Levinas](emmanuel-levinas.md), [Foucault](michel-foucault.md), [Gadamer](hans-georg-gadamer.md) · **Answered by:** his critics across the analytic–continental divide — debate ongoing, no single entry in this repo
 

@@ -3,7 +3,10 @@
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Francis Bacon (1561–1626), England; lawyer, courtier, and statesman who became Lord Chancellor, and in his philosophical work the great herald of the new experimental science. Known for: diagnosing the "idols of the mind" that distort inquiry, and proposing a reformed method of induction meant to replace scholastic logic with systematic observation — "knowledge itself is power."
+- **Dates:** 1561–1626
+- **Place:** England
+- **School/tradition:** The new experimental science — its great herald; lawyer, courtier, and statesman who became Lord Chancellor
+- **Known for:** Diagnosing the "idols of the mind" that distort inquiry, and proposing a reformed method of induction meant to replace scholastic logic with systematic observation — "knowledge itself is power"
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md), [Montaigne](michel-de-montaigne.md) · **Answered by:** [Vico](giambattista-vico.md), [J. S. Mill](../04-19th-century/john-stuart-mill.md)
 

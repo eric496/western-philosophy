@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1842–1910
+- **Dates:** 1842–1910
 - **Place:** New York City and Cambridge, Massachusetts, USA
-- **Movement / tradition:** Pragmatism (its great populariser); founder of American psychology
+- **School/tradition:** Pragmatism (its great populariser); founder of American psychology
 - **Known for:** Making pragmatism a public philosophy — truth as what proves itself in experience, the will to believe, and the stream of consciousness.
 
 **Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md)

@@ -4,7 +4,10 @@
 
 ## At a glance
 
-**Lifespan:** 1926–1984 · **Place:** Poitiers and Paris; posts in Sweden, Poland, Tunisia, and the United States · **Tradition:** French philosophy, history of systems of thought · **Known for:** Showing that power produces knowledge, institutions, and kinds of people — not only represses — through discipline, surveillance, and biopolitics.
+- **Dates:** 1926–1984
+- **Place:** Poitiers and Paris; posts in Sweden, Poland, Tunisia, and the United States
+- **School/tradition:** French philosophy, history of systems of thought
+- **Known for:** Showing that power produces knowledge, institutions, and kinds of people — not only represses — through discipline, surveillance, and biopolitics
 
 **Responds to:** [Nietzsche](../04-19th-century/friedrich-nietzsche.md), [Bentham](../04-19th-century/jeremy-bentham.md) · **Answered by:** [Derrida](jacques-derrida.md)
 

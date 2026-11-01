@@ -6,7 +6,7 @@
 
 - **Figures:** Ludwig Feuerbach (1804–1872) and Max Stirner (1806–1856, pseudonym of Johann Kaspar Schmidt)
 - **Place:** Germany — Feuerbach in Landshut, Heidelberg, and rural Franconia; Stirner in Bayreuth and Berlin
-- **Movement / tradition:** Young Hegelians; the radical aftermath of Hegel
+- **School/tradition:** Young Hegelians; the radical aftermath of Hegel
 - **Known for:** Feuerbach: God as humanity's projection of its own essence. Stirner: every abstraction enthroned over the individual is a "spook"; only the self-owning individual is real.
 
 **Responds to:** [Hegel](g-w-f-hegel.md) · **Answered by:** [Marx](karl-marx.md)

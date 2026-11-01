@@ -4,7 +4,10 @@
 
 ## At a glance
 
-Thomas Kuhn (1922–1996), an American physicist turned historian and philosopher of science, is known for *The Structure of Scientific Revolutions* (1962) and its claims that science develops through paradigms, normal science, crises, and revolutionary shifts — not by steady accumulation of facts.
+- **Dates:** 1922–1996
+- **Place:** United States (American)
+- **School/tradition:** Physicist turned historian and philosopher of science
+- **Known for:** *The Structure of Scientific Revolutions* (1962) and its claims that science develops through paradigms, normal science, crises, and revolutionary shifts — not by steady accumulation of facts
 
 **Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Popper](karl-popper.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** later historians and sociologists of science — debate ongoing, no single entry in this repo
 

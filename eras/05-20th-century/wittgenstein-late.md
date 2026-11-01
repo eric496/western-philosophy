@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Ludwig Wittgenstein, 1889–1951. The "late" Wittgenstein is the philosopher from his return to Cambridge in 1929 until his death, above all of the *Philosophical Investigations*.
+- **Dates:** Ludwig Wittgenstein, 1889–1951. The "late" Wittgenstein is the philosopher from his return to Cambridge in 1929 until his death, above all of the *Philosophical Investigations*.
 - **Place:** Vienna-born; worked mainly in Cambridge, with periods in Ireland and wartime work in London and Newcastle.
-- **Tradition:** Analytic philosophy — but as its internal critic, turning it from logical construction toward ordinary language, practice, and forms of life.
+- **School/tradition:** Analytic philosophy — but as its internal critic, turning it from logical construction toward ordinary language, practice, and forms of life.
 - **Known for:** Meaning as use, language-games, family resemblance, and the private language argument — and for repudiating his own earlier *Tractatus*.
 
 **Responds to:** [Wittgenstein (early)](wittgenstein-early.md), [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Ryle](gilbert-ryle.md), [Anscombe & Foot](anscombe-and-foot.md), [Kuhn](thomas-kuhn.md)

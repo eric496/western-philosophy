@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1138 – 1204 (born 1135 on some traditional datings; 1138 is the more common scholarly dating)
+- **Dates:** 1138 – 1204 (born 1135 on some traditional datings; 1138 is the more common scholarly dating)
 - **Place:** Born in Córdoba, al-Andalus; exiled across North Africa; settled in Fustat (Old Cairo), Egypt. Wrote the *Guide* in Judeo-Arabic, his legal works in Hebrew.
-- **Tradition:** Jewish philosophy and law — a rabbinic jurist, physician, and Aristotelian philosopher in the Arabic tradition of al-Fārābī and Avicenna.
+- **School/tradition:** Jewish philosophy and law — a rabbinic jurist, physician, and Aristotelian philosopher in the Arabic tradition of al-Fārābī and Avicenna.
 - **Known for:** The *Guide of the Perplexed*, negative theology, and the *Mishneh Torah*, the great code of Jewish law.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md), [Avicenna](avicenna.md) · **Answered by:** [Spinoza](../03-early-modern/baruch-spinoza.md)
@@ -35,7 +35,7 @@ The *Guide* is framed as a letter to a student "perplexed" between philosophy an
 
 ## Key works
 
-- **Guide of the Perplexed** (*Dalālat al-Ḥāʾirīn*, completed 1190) — three parts: I, language about God and negative theology; II, creation, prophecy, angels; III, providence, evil, and the reasons for the commandments. Translated into Hebrew in his lifetime (Samuel ibn Tibbon, in correspondence with the author), into Latin in the thirteenth century.
+- **Guide of the Perplexed** (*Dalālat al-Ḥāʾirīn*, completed c. 1190) — three parts: I, language about God and negative theology; II, creation, prophecy, angels; III, providence, evil, and the reasons for the commandments. Translated into Hebrew in his lifetime (Samuel ibn Tibbon, in correspondence with the author), into Latin in the thirteenth century.
 - **Mishneh Torah** (c. 1170–80) — fourteen books codifying the whole of Jewish law in lucid Mishnaic Hebrew, requiring no recourse to the Talmud's debates. Its first book, the *Book of Knowledge*, opens with philosophical foundations — God's existence and unity, ethics, study — a manifesto that law begins in metaphysics.
 - **Commentary on the Mishnah** (c. 1168) — written in his twenties; its introduction to the tractate *Sanhedrin* contains the famous **Thirteen Principles** of Jewish faith.
 - **Eight Chapters** (*Shemonah Perakim*) — the introduction to tractate *Avot* in that commentary: his classic short work on ethics and moral psychology — the health of the soul, virtue as a mean, and free will.

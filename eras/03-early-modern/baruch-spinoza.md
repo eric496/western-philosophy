@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1632–1677 · Amsterdam and The Hague · Rationalist monism · Known for identifying God with Nature — *Deus sive Natura* — in a system with exactly one substance, from which everything follows by necessity.
+- **Dates:** 1632–1677
+- **Place:** Amsterdam and The Hague
+- **School/tradition:** Rationalist monism
+- **Known for:** Identifying God with Nature — *Deus sive Natura* — in a system with exactly one substance, from which everything follows by necessity
 
 **Responds to:** [Descartes](rene-descartes.md), [Maimonides](../02-medieval/maimonides.md), [Hobbes](thomas-hobbes.md) · **Answered by:** [Hegel](../04-19th-century/g-w-f-hegel.md)
 

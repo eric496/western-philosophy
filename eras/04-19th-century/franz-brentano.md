@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1838–1917
+- **Dates:** 1838–1917
 - **Place:** Born in Marienberg am Rhein, Germany; worked mainly in Würzburg and Vienna
-- **Movement / tradition:** Act psychology — its founder, and reviver of the scholastic concept of **intentionality**, the "aboutness" of mental phenomena
+- **School/tradition:** Act psychology — its founder, and reviver of the scholastic concept of **intentionality**, the "aboutness" of mental phenomena
 - **Known for:** Less a finished system than the extraordinary generation of students he trained, above all Edmund Husserl, founder of phenomenology.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Husserl](../05-20th-century/edmund-husserl.md), [Heidegger](../05-20th-century/martin-heidegger.md)

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Bertrand Arthur William Russell, 1872–1970 — a life spanning Victorian Britain to the nuclear age.
+- **Dates:** Bertrand Arthur William Russell, 1872–1970 — a life spanning Victorian Britain to the nuclear age.
 - **Place:** Born at Trellech, Wales; raised at Pembroke Lodge, Richmond, England; worked mainly at Cambridge, with periods of lecturing and activism in Britain and the United States.
-- **Tradition:** Analytic philosophy — one of its founders, alongside Frege, Moore, and Wittgenstein.
+- **School/tradition:** Analytic philosophy — one of its founders, alongside Frege, Moore, and Wittgenstein.
 - **Known for:** Russell's paradox, the theory of descriptions, and logicism — and, to the wider public, a century of lucid, controversial writing on religion, war, education, and politics.
 
 **Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md)

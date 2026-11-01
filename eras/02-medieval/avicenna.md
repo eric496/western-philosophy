@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 980 – 1037
+- **Dates:** 980 – 1037
 - **Place:** Born near Bukhara (modern Uzbekistan); worked across Persia, dying in Hamadan. Wrote in Arabic (and some Persian).
-- **Tradition:** Islamic philosophy (*falsafa*) — the Arabic Aristotelian tradition inherited from al-Kindī and al-Fārābī, systematised with Neoplatonic elements.
+- **School/tradition:** Islamic philosophy (*falsafa*) — the Arabic Aristotelian tradition inherited from al-Kindī and al-Fārābī, systematised with Neoplatonic elements.
 - **Known for:** The essence/existence distinction and proof of the Necessary Existent; the Flying Man argument; the *Canon of Medicine*.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Averroes](averroes.md), [Maimonides](maimonides.md), [Duns Scotus](john-duns-scotus.md)

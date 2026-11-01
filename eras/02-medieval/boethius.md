@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** c. 477 – 524/5 (birth year uncertain; c. 480 is also often given; death dated 524 or 525)
+- **Dates:** c. 477 – 524/5 (birth year uncertain; c. 480 is also often given; death dated 524 or 525)
 - **Place:** Rome; last great scholar of the Roman senatorial aristocracy, serving — and executed by — the Ostrogothic king Theodoric.
-- **Tradition:** Latin Christian, formed by Greek Neoplatonism and Aristotelian logic.
+- **School/tradition:** Latin Christian, formed by Greek Neoplatonism and Aristotelian logic.
 - **Known for:** The *Consolation of Philosophy*, translating Aristotle's logic into Latin, and framing the medieval problem of universals.
 
 **Responds to:** [Plato](../01-ancient/plato.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Abelard](peter-abelard.md)

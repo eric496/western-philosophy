@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1623–1662 · France (Clermont-Ferrand, Rouen, Paris) · Mathematician, physicist, and Jansenist Christian thinker · Known for the *Pensées*: fragments on reason’s limits, human wretchedness and greatness, diversion, and the Wager.
+- **Dates:** 1623–1662
+- **Place:** France (Clermont-Ferrand, Rouen, Paris)
+- **School/tradition:** Mathematician, physicist, and Jansenist Christian thinker
+- **Known for:** The *Pensées*: fragments on reason’s limits, human wretchedness and greatness, diversion, and the Wager
 
 **Responds to:** [Montaigne](michel-de-montaigne.md), [Descartes](rene-descartes.md), [Augustine](../02-medieval/augustine-of-hippo.md) · **Answered by:** [Kierkegaard](../04-19th-century/soren-kierkegaard.md), [William James](../04-19th-century/william-james.md)
 

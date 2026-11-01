@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1929–2003.
+- **Dates:** 1929–2003.
 - **Place:** Born in Westcliff-on-Sea, England; taught at Cambridge (Knightbridge Professor), Oxford, and Berkeley.
-- **Tradition:** Analytic philosophy in a humanist, historically minded key — the most formidable internal critic of systematic moral theory in late twentieth-century Anglophone philosophy.
+- **School/tradition:** Analytic philosophy in a humanist, historically minded key — the most formidable internal critic of systematic moral theory in late twentieth-century Anglophone philosophy.
 - **Known for:** Moral luck, the integrity objection to utilitarianism ("one thought too many"), internal reasons, and *Ethics and the Limits of Philosophy* (1985), his argument that moral theory itself distorts ethical life.
 
 **Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Nietzsche](../04-19th-century/friedrich-nietzsche.md) · **Answered by:** [Singer](peter-singer.md), [Parfit](derek-parfit.md)

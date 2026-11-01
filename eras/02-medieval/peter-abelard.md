@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1079 – 1142
+- **Dates:** 1079 – 1142
 - **Place:** Born at Le Pallet, Brittany; taught in and around Paris; died at the priory of St Marcel, Chalon-sur-Saône.
-- **Tradition:** Latin Christian; the great dialectician of the twelfth-century schools, before the universities proper.
+- **School/tradition:** Latin Christian; the great dialectician of the twelfth-century schools, before the universities proper.
 - **Known for:** His solution to the problem of universals, the *Sic et Non* method, intention-based ethics — and the love affair with Héloïse.
 
 **Responds to:** [Boethius](boethius.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** the scholastic quaestio tradition carried forward through Peter Lombard's *Sentences*, with no single successor in this collection
@@ -41,7 +41,7 @@ Beyond universals, Abelard's logical writings develop an influential semantics: 
 - **Sic et Non** (c. 1120–21) — 158 questions with contradictory authorities and a methodological prologue.
 - **Logica Ingredientibus / Glosses on Porphyry** (c. 1119–20) — the universals theory in his commentary on the *Isagoge*.
 - **Ethica (Scito te ipsum)** (c. 1138–39, unfinished) — intention ethics.
-- **Collationes (Dialogue Between a Philosopher, a Jew, and a Christian)** (c. 1139–41) — an interreligious dialogue on the highest good, and Abelard's fullest statement of his natural-law ethics.
+- **Collationes (Dialogue Between a Philosopher, a Jew, and a Christian)** (c. 1125–35; dating debated) — an interreligious dialogue on the highest good, and Abelard's fullest statement of his natural-law ethics.
 - **Letters of Abelard and Héloïse** — the correspondence following the *Historia*, including Héloïse's formidable letters of argument and grief.
 
 ## Contributions

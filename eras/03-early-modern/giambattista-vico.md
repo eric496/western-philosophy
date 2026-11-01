@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1668–1744
+- **Dates:** 1668–1744
 - **Place:** Naples, Kingdom of Naples (then under Spanish, then Austrian, rule)
-- **Tradition:** Anti-Cartesian humanism; founder of the philosophy of history and an early theorist of culture
+- **School/tradition:** Anti-Cartesian humanism; founder of the philosophy of history and an early theorist of culture
 - **Known for:** The principle *verum factum* — we can truly know only what we have made — applied to the "civil world" of nations: since humans made history, history can be known from inside, through language, myth, law, and custom. His *New Science* traces all nations through three ages — of gods, of heroes, of men — in cycles (*corsi e ricorsi*)
 
 **Responds to:** [Descartes](rene-descartes.md), [Francis Bacon](francis-bacon.md) · **Answered by:** [Marx](../04-19th-century/karl-marx.md)

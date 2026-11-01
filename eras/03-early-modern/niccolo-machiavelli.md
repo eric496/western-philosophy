@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1469–1527
+- **Dates:** 1469–1527
 - **Place:** Florence, Italy
-- **Tradition:** Renaissance humanism; founder of modern political realism and a major republican theorist
+- **School/tradition:** Renaissance humanism; founder of modern political realism and a major republican theorist
 - **Known for:** Analysing politics as it actually works rather than as it ought to work — virtù against fortuna, the "effectual truth," and a deep argument, in the *Discourses*, that republics with armed, participating citizens outlast and outfight principalities
 
 **Responds to:** [Plato](../01-ancient/plato.md) · **Answered by:** [Hobbes](thomas-hobbes.md), [Rousseau](jean-jacques-rousseau.md)
@@ -50,7 +50,7 @@ Running through both works is the maxim that good laws require good arms, and go
 - *The Prince* (written 1513; published 1532) — Short, dense, shocking advice to a new prince; read alongside, not instead of, the *Discourses*.
 - *Discourses on Livy* (written c. 1513–19; published 1531) — The republican masterpiece: Rome as model, conflict as productive, liberty as non-domination.
 - *The Art of War* (1521) — The only major prose work published in his lifetime; dialogue arguing for citizen armies, drawing on Roman practice.
-- *Florentine Histories* (written 1520–25; presented 1525) — Commissioned by the Medici; a brilliant, pointed history of Florence's factionalism.
+- *Florentine Histories* (written 1520–25; presented 1525, some accounts May 1526) — Commissioned by the Medici; a brilliant, pointed history of Florence's factionalism.
 - *The Mandrake* (performed c. 1518) — A comedy of deception and desire that mirrors his political themes; still performed.
 - *Letters*, especially to Vettori (10 December 1513) — The single best short route into his mind and working method.
 

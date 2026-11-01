@@ -6,7 +6,7 @@
 
 - **Dates:** 1909–1943
 - **Place:** Born in Paris, France; died in Ashford, England
-- **Tradition:** Independent — philosopher, political writer, and religious thinker at the crossings of Marxism, Platonism, and Christian mysticism
+- **School/tradition:** Independent — philosopher, political writer, and religious thinker at the crossings of Marxism, Platonism, and Christian mysticism
 - **Known for:** The philosophy of attention and affliction, written from inside factory labour, war, and political exile
 
 **Responds to:** [Plato](../01-ancient/plato.md), [Marx](../04-19th-century/karl-marx.md) · **Answered by:** Iris Murdoch and later philosophers of attention — outside this repo's entries

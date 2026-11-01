@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1798–1857 (full name: Isidore-Auguste-Marie-François-Xavier Comte)
+- **Dates:** 1798–1857 (full name: Isidore-Auguste-Marie-François-Xavier Comte)
 - **Place:** Montpellier, France (later Paris)
-- **Movement / tradition:** Positivism — its founder, and coiner of the word **sociology**
+- **School/tradition:** Positivism — its founder, and coiner of the word **sociology**
 - **Known for:** The "law of three stages," the hierarchy of the sciences, and — in his later work — the Religion of Humanity.
 
 **Responds to:** Henri de Saint-Simon, his employer and collaborator of 1817–1824 · **Answered by:** [J. S. Mill](john-stuart-mill.md), [Vienna Circle](../05-20th-century/vienna-circle-logical-positivism.md)

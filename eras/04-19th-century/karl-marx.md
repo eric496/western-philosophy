@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1818–1883
+- **Dates:** 1818–1883
 - **Place:** Trier and Bonn/Cologne, Germany; exile in Paris, Brussels, and London
-- **Movement / tradition:** Historical materialism; co-founder (with Engels) of the theory later called Marxism
+- **School/tradition:** Historical materialism; co-founder (with Engels) of the theory later called Marxism
 - **Known for:** The analysis of capitalism as a historically specific system built on the exploitation of wage labour, and of history as shaped by modes of production and class struggle.
 
 **Responds to:** [Hegel](g-w-f-hegel.md), [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md) · **Answered by:** [Frankfurt School](../05-20th-century/frankfurt-school.md), [Popper](../05-20th-century/karl-popper.md)
@@ -79,7 +79,7 @@ Therefore, that difference — surplus value — is appropriated by the capitali
 - *The Eighteenth Brumaire of Louis Bonaparte* (1852) — Marx as concrete political analyst: Louis-Napoléon's coup explained through class fractions and their illusions, and the source of the line that history repeats itself, "the first time as tragedy, the second time as farce." Routinely counted among his finest works.
 - *A Contribution to the Critique of Political Economy* (1859) — Contains the Preface stating historical materialism in canonical form.
 - *Capital, Vol. 1* (1867) — The masterwork: commodity, value, surplus value, accumulation. Vols. 2–3 were edited by Engels from drafts (1885, 1894).
-- *Grundrisse* (written 1857–58; first published 1939) — The vast notebooks behind *Capital*: the method of political economy, the "Fragment on Machines," and pre-capitalist economic forms; central evidence in debates over the mature Marx.
+- *Grundrisse* (written 1857–58; first published 1939–41) — The vast notebooks behind *Capital*: the method of political economy, the "Fragment on Machines," and pre-capitalist economic forms; central evidence in debates over the mature Marx.
 
 ## Contributions
 

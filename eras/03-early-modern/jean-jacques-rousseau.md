@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1712–1778 · Geneva and France · Social-contract theorist, philosopher of education and human nature · Known for “Man is born free, and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*.
+- **Dates:** 1712–1778
+- **Place:** Geneva and France
+- **School/tradition:** Social-contract theorist, philosopher of education and human nature
+- **Known for:** “Man is born free, and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*
 
 **Responds to:** [Hobbes](thomas-hobbes.md), [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Wollstonecraft](mary-wollstonecraft.md)
 

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1839–1914
+- **Dates:** 1839–1914
 - **Place:** Cambridge, Massachusetts, USA; later Milford, Pennsylvania
-- **Movement / tradition:** Pragmatism (founder); logic, semeiotic, philosophy of science
+- **School/tradition:** Pragmatism (founder); logic, semeiotic, philosophy of science
 - **Known for:** The pragmatic maxim — clarify a concept by its conceivable practical effects — and a fallibilist theory of inquiry that made truth the long-run destination of a community of investigators.
 
 **Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [William James](william-james.md), [Dewey](../05-20th-century/john-dewey.md)

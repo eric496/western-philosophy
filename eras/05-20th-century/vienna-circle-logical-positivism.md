@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** A movement, not a person — active in Vienna from the mid-1920s until its dispersal in the late 1930s; its influence runs through the rest of the twentieth century.
+- **Dates:** A movement, not a person — active in Vienna from the mid-1920s until its dispersal in the late 1930s; its influence runs through the rest of the twentieth century.
 - **Place:** Vienna, Austria; with a parallel group in Berlin and, after emigration, centres in Britain and the United States.
-- **Tradition:** Analytic philosophy and philosophy of science; the Circle's doctrine is called logical positivism, or logical empiricism.
+- **School/tradition:** Analytic philosophy and philosophy of science; the Circle's doctrine is called logical positivism, or logical empiricism.
 - **Known for:** The verification principle — meaningful statements must be analytic or empirically verifiable — and the programme of a unified science clarified by logic.
 
 **Responds to:** [Russell](bertrand-russell.md), [Wittgenstein (early)](wittgenstein-early.md) · **Answered by:** [Popper](karl-popper.md), [Quine](w-v-o-quine.md), [Kuhn](thomas-kuhn.md)
@@ -56,7 +56,7 @@ Other tensions accumulated: universal laws, weak verification, Karl Popper's riv
 - **Carnap, *The Logical Structure of the World* (1928)** — Construction of all concepts from elementary experiences using Russellian logic.
 - ***The Scientific Conception of the World*** (1929), by Hahn, Neurath, and Carnap — The manifesto; the best short statement of aims and the unity-of-science programme.
 - **Carnap, "The Elimination of Metaphysics"** (1932) — The verificationist attack on Heidegger; the clearest exhibition of the method.
-- **Schlick, "Positivism and Realism"** (1930/31) — The founder's calmer statement, useful against caricatures from Carnap alone.
+- **Schlick, "Positivism and Realism"** (1932/33) — The founder's calmer statement, useful against caricatures from Carnap alone.
 - **Ayer, *Language, Truth and Logic*** (1936) — Chapters 1 and 6: elimination of metaphysics and emotivism. Read as a manifesto, not settled doctrine.
 
 ## Contributions

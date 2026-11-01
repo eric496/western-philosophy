@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1844–1900
+- **Dates:** 1844–1900
 - **Place:** Röcken and Naumburg, Germany; professor at Basel, Switzerland; then a wandering life in Switzerland and Italy
-- **Movement / tradition:** No school in his lifetime; later claimed by existentialism and post-structuralism
+- **School/tradition:** No school in his lifetime; later claimed by existentialism and post-structuralism
 - **Known for:** The diagnosis that European culture's Christian values have collapsed ("God is dead"), and the demand to create new values through genealogy, self-overcoming, and affirmation of life as it is.
 
 **Responds to:** [Schopenhauer](arthur-schopenhauer.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md), [Foucault](../05-20th-century/michel-foucault.md)
