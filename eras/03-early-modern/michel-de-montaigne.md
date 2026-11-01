@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1533–1592
+- **Dates:** 1533–1592
 - **Place:** Château de Montaigne, near Bordeaux, France
-- **Tradition:** Renaissance humanism; Pyrrhonian scepticism revived for the modern world
+- **School/tradition:** Renaissance humanism; Pyrrhonian scepticism revived for the modern world
 - **Known for:** Inventing the essay as a literary-philosophical form; radical scepticism summed up in his motto "Que sçay-je?" ("What do I know?"); and turning the study of himself — body, moods, ignorance and all — into a way of doing philosophy
 
 **Responds to:** [Pyrrho & the Skeptics](../01-ancient/pyrrho-of-elis-and-the-skeptics.md) · **Answered by:** [Francis Bacon](francis-bacon.md), [Descartes](rene-descartes.md), [Pascal](blaise-pascal.md)

@@ -4,7 +4,10 @@
 
 ## At a glance
 
-G. E. M. (Elizabeth) Anscombe (1919–2001) and Philippa Foot (1920–2010) were British philosophers in the analytic tradition, shaped by Aristotle, Aquinas, and Wittgenstein. They are known for reviving virtue ethics: Anscombe for *Intention* (1957) and “Modern Moral Philosophy” (1958), Foot for natural goodness and the trolley problem.
+- **Dates:** G. E. M. (Elizabeth) Anscombe (1919–2001) and Philippa Foot (1920–2010)
+- **Place:** Britain
+- **School/tradition:** Analytic tradition, shaped by Aristotle, Aquinas, and Wittgenstein
+- **Known for:** Reviving virtue ethics: Anscombe for *Intention* (1957) and “Modern Moral Philosophy” (1958), Foot for natural goodness and the trolley problem
 
 **Responds to:** [Wittgenstein (late)](wittgenstein-late.md), [Aristotle](../01-ancient/aristotle.md), [Sidgwick](../04-19th-century/henry-sidgwick.md) · **Answered by:** [MacIntyre](alasdair-macintyre.md), [Thomson](judith-jarvis-thomson.md)
 

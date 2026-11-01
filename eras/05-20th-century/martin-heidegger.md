@@ -3,7 +3,10 @@
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Martin Heidegger (1889–1976), born in Meßkirch, Germany, and based mainly at Freiburg. A philosopher in the phenomenological and hermeneutic tradition who reopened the question of Being. Known for *Being and Time* (1927), the analysis of human existence as *Dasein*, and a later, influential critique of modern technology.
+- **Dates:** 1889–1976
+- **Place:** Born in Meßkirch, Germany, and based mainly at Freiburg
+- **School/tradition:** Phenomenological and hermeneutic tradition; reopened the question of Being
+- **Known for:** *Being and Time* (1927), the analysis of human existence as *Dasein*, and a later, influential critique of modern technology
 
 **Responds to:** [Husserl](edmund-husserl.md), [Nietzsche](../04-19th-century/friedrich-nietzsche.md) · **Answered by:** [Levinas](emmanuel-levinas.md), [Gadamer](hans-georg-gadamer.md), [Sartre](jean-paul-sartre.md)
 

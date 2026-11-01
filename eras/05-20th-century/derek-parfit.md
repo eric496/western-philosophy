@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Derek Parfit, 1942–2017.
+- **Dates:** Derek Parfit, 1942–2017.
 - **Place:** Born in Chengdu, China, to British medical missionaries; educated in England and based at Oxford for his entire career.
-- **Tradition:** Analytic moral philosophy and metaphysics of persons.
+- **School/tradition:** Analytic moral philosophy and metaphysics of persons.
 - **Known for:** Arguing that personal identity is not what matters in survival — what matters is psychological continuity — and for founding modern population ethics through the non-identity problem and the Repugnant Conclusion.
 
 **Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Bernard Williams](bernard-williams.md) · **Answered by:** a generation of population and applied ethicists — debate ongoing

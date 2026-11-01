@@ -3,7 +3,10 @@
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Gabrielle Émilie Le Tonnelier de Breteuil, marquise du Châtelet (1706–1749), France; mathematician, physicist, and philosopher working at the intersection of Newtonian science and Leibnizian metaphysics. Known for: her *Institutions de Physique* (1740), her defence of *vis viva* (living force, proportional to mass times velocity squared) against the Cartesian measure of force, and the French translation of Newton's *Principia* — with her own commentary — that remained the standard French version for centuries.
+- **Dates:** 1706–1749 (Gabrielle Émilie Le Tonnelier de Breteuil, marquise du Châtelet)
+- **Place:** France
+- **School/tradition:** Mathematician, physicist, and philosopher working at the intersection of Newtonian science and Leibnizian metaphysics
+- **Known for:** Her *Institutions de Physique* (1740), her defence of *vis viva* (living force, proportional to mass times velocity squared) against the Cartesian measure of force, and the French translation of Newton's *Principia* — with her own commentary — that remained the standard French version for centuries
 
 **Responds to:** [Leibniz](gottfried-wilhelm-leibniz.md) · **Answered by:** [Kant](immanuel-kant.md)
 

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** c. 800 – c. 877 (dates are conventional)
+- **Dates:** c. 800 – c. 877 (dates are conventional)
 - **Place:** Born in Ireland ("Scotus Eriugena" means roughly "the Irishman, born in Ireland"); worked in Francia, at the court of Charles the Bald
-- **Tradition:** Latin Christian Neoplatonism; the outstanding thinker of the Carolingian Renaissance
+- **School/tradition:** Latin Christian Neoplatonism; the outstanding thinker of the Carolingian Renaissance
 - **Known for:** The *Periphyseon*, which divides all of "nature" — God and creation together — into four species, and for bringing Greek negative (apophatic) theology into the Latin West
 
 **Responds to:** Pseudo-Dionysius and the Greek Christian Platonists he translated, who have no entry in this collection · **Answered by:** later Latin readers of his Dionysius translation, with no direct successor in this collection

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** George Edward Moore, 1873–1958.
+- **Dates:** George Edward Moore, 1873–1958.
 - **Place:** Born in Upper Norwood, London; educated at Dulwich College and Trinity College, Cambridge, where he spent most of his career and edited the journal *Mind* for over two decades.
-- **Tradition:** Co-founder, with Russell, of analytic philosophy; a central figure of Cambridge moral philosophy.
+- **School/tradition:** Co-founder, with Russell, of analytic philosophy; a central figure of Cambridge moral philosophy.
 - **Known for:** *Principia Ethica* (1903) and the "naturalistic fallacy"; the open-question argument against defining "good"; and the plain-speaking defence of common sense — "Here is one hand" — against philosophical scepticism and idealism.
 
 **Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Berkeley](../03-early-modern/george-berkeley.md) · **Answered by:** [Russell](bertrand-russell.md)

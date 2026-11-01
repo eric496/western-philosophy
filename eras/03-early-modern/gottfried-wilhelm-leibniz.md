@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1646–1716
+- **Dates:** 1646–1716
 - **Place:** Leipzig and Hanover, Germany; travel across Europe
-- **Tradition:** Rationalism
+- **School/tradition:** Rationalism
 - **Known for:** Monads and pre-established harmony, sufficient reason, the “best of all possible worlds,” and — independently of Newton — the calculus
 
 **Responds to:** [Locke](john-locke.md) · **Answered by:** [Kant](immanuel-kant.md), [Émilie du Châtelet](emilie-du-chatelet.md)
@@ -63,7 +63,7 @@ Leibniz published the first account of the differential calculus in 1684. Newton
 - *Theodicy* (1710) — On God’s goodness, freedom, and the origin of evil. The only full-length book published in his lifetime.
 - *New Essays on Human Understanding* (written 1704, published 1765) — A chapter-by-chapter dialogue reply to Locke, withheld after Locke’s death in 1704. Locke never saw it.
 - *Monadology* (written 1714, posthumous) — About ninety short paragraphs; the purest summary of the monad system. No single Leibniz book contains his whole system.
-- *Principles of Nature and Grace* (1714) — A companion summary, often read with the *Monadology*.
+- *Principles of Nature and Grace* (written 1714; first published 1718) — A companion summary, often read with the *Monadology*.
 
 ## Contributions
 

@@ -3,7 +3,10 @@
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Jean-Paul Sartre (1905–1980), Parisian, France. The leading public figure of existentialism — philosopher, novelist, playwright, and political activist. Known for “existence precedes essence,” radical freedom, and the analysis of bad faith.
+- **Dates:** 1905–1980
+- **Place:** Paris, France
+- **School/tradition:** Existentialism — its leading public figure; philosopher, novelist, playwright, and political activist
+- **Known for:** “Existence precedes essence,” radical freedom, and the analysis of bad faith
 
 **Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Merleau-Ponty](maurice-merleau-ponty.md), [Beauvoir](simone-de-beauvoir.md)
 

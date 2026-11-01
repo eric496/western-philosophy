@@ -96,7 +96,7 @@ Fuller reconstructions of the Republic's arguments are in the study guide: [Repu
 - **Crito** (early) — Socrates refuses escape from prison, arguing through the personified Laws of Athens that agreements bind even at the cost of life.
 - **Euthyphro** (early) — On piety; ends without a definition but poses the Euthyphro dilemma: is the pious loved by the gods because it is pious, or pious because loved?
 - **Meno** (transitional) — Whether virtue can be taught; the slave-boy scene and recollection.
-- **Phaedo** (middle; 399 BCE) — On Socrates' death day: arguments for the soul's immortality and an early full statement of the Forms.
+- **Phaedo** (middle; dramatic date 399 BCE) — On Socrates' death day: arguments for the soul's immortality and an early full statement of the Forms.
 - **Republic** (c. 375 BCE) — The masterpiece: justice in city and soul, Forms, Cave, philosopher-kings, and the attack on imitative poetry.
 - **Symposium** (c. 385–370 BCE) — Speeches on love at a drinking party, culminating in Diotima's ladder.
 - **Phaedrus** (middle–late) — Love, rhetoric, the soul as charioteer with two horses, and the dangers of writing.

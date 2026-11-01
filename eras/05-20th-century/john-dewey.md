@@ -6,7 +6,7 @@
 
 - **Dates:** 1859–1952
 - **Place:** Born in Burlington, Vermont, USA; worked mainly at Chicago and Columbia University, New York
-- **Tradition:** American pragmatism (with Peirce and James the third classical pragmatist)
+- **School/tradition:** American pragmatism (with Peirce and James the third classical pragmatist)
 - **Known for:** Rebuilding philosophy around experience and inquiry — and turning that into the most influential philosophy of education and of democracy of his century
 
 **Responds to:** [Hegel](../04-19th-century/g-w-f-hegel.md), [Peirce](../04-19th-century/charles-sanders-peirce.md), [William James](../04-19th-century/william-james.md) · **Answered by:** Richard Rorty and later democratic and embodied-cognition theorists — outside this repo's entries

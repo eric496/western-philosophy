@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Ludwig Wittgenstein, 1889–1951. The "early" Wittgenstein is the philosopher of roughly 1911–1929, above all of the *Tractatus Logico-Philosophicus*.
+- **Dates:** Ludwig Wittgenstein, 1889–1951. The "early" Wittgenstein is the philosopher of roughly 1911–1929, above all of the *Tractatus Logico-Philosophicus*.
 - **Place:** Born in Vienna, Austria-Hungary; worked mainly in Cambridge, England, with formative periods in Norway and Austria.
-- **Tradition:** Analytic philosophy, at its founding moment — logic, language, and the limits of thought.
+- **School/tradition:** Analytic philosophy, at its founding moment — logic, language, and the limits of thought.
 - **Known for:** The picture theory of meaning, and the claim that what cannot be said clearly must be passed over in silence — because the most important things lie beyond factual speech.
 
 **Responds to:** [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md)

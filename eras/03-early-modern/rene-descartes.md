@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1596–1650 · France, the Netherlands, and Sweden · Early modern rationalism · Known for founding modern philosophy on the cogito — "I think, therefore I am" — and for splitting reality into thinking mind and extended matter.
+- **Dates:** 1596–1650
+- **Place:** France, the Netherlands, and Sweden
+- **School/tradition:** Early modern rationalism
+- **Known for:** Founding modern philosophy on the cogito — "I think, therefore I am" — and for splitting reality into thinking mind and extended matter
 
 **Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Spinoza](baruch-spinoza.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
 
@@ -95,7 +98,7 @@ Fuller reconstructions are in the study guide: [*Meditations on First Philosophy
 - *Principles of Philosophy* (1644) — A systematic textbook of metaphysics and physics; the clearest statement of the full system.
 - *The Passions of the Soul* (1649) — His last published work, on the emotions as products of the mind–body union.
 - *The World* (*Le Monde*) (written 1632–33; published posthumously, 1664) — His treatise on physics and the cosmos, suppressed after Galileo's condemnation; much of its physics was absorbed into the *Principles*.
-- *Rules for the Direction of the Mind* (written c. 1628; published posthumously, 1701) — An unfinished early treatise on method.
+- *Rules for the Direction of the Mind* (written c. 1628; first published in Dutch translation 1684; Latin original 1701) — An unfinished early treatise on method.
 
 ## In their own words
 

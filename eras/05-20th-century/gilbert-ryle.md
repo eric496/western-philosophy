@@ -6,7 +6,7 @@
 
 - **Dates:** 1900–1976
 - **Place:** Born in Brighton, England; spent his career at Oxford
-- **Tradition:** Analytic philosophy; central figure of postwar "ordinary language" philosophy
+- **School/tradition:** Analytic philosophy; central figure of postwar "ordinary language" philosophy
 - **Known for:** *The Concept of Mind* (1949) — the attack on Descartes's "ghost in the machine" and the distinction between knowing-how and knowing-that
 
 **Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** later philosophers of mind who defined themselves against him — no single entry in this repo

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1225 – 1274
+- **Dates:** 1225 – 1274
 - **Place:** Born at Roccasecca, near Aquino, Italy; studied in Naples and Paris; taught in Paris, Rome, and Naples.
-- **Tradition:** Latin Christian; Dominican friar and the pre-eminent figure of scholasticism — the university method of rigorous question-and-disputation theology and philosophy.
+- **School/tradition:** Latin Christian; Dominican friar and the pre-eminent figure of scholasticism — the university method of rigorous question-and-disputation theology and philosophy.
 - **Known for:** The grand synthesis of Aristotelian philosophy with Christian theology; the Five Ways; the essence/existence distinction; natural law theory.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md), [Augustine](augustine-of-hippo.md), [Averroes](averroes.md) · **Answered by:** [Duns Scotus](john-duns-scotus.md), [William of Ockham](william-of-ockham.md)

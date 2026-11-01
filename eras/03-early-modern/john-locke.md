@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1632–1704
+- **Dates:** 1632–1704
 - **Place:** Somerset, Oxford, and London, England; exile in the Netherlands, 1683–89
-- **Tradition:** Empiricism; early liberal political theory
+- **School/tradition:** Empiricism; early liberal political theory
 - **Known for:** All ideas come from experience; personal identity rests on consciousness; legitimate government rests on consent and protects natural rights to life, liberty, and property
 
 **Responds to:** [Hobbes](thomas-hobbes.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md)
@@ -95,7 +95,7 @@ Therefore, identity of person can diverge both from identity of body and from id
 
 ## Key works
 
-- *Essay Concerning Human Understanding* (1689; some cite 1690 — title pages straddle the publication winter of 1689–90; this entry follows the 1689 convention) — Against innate ideas; the sources of ideas; words and their abuses; knowledge and probability.
+- *Essay Concerning Human Understanding* (first published Dec 1689, title page dated 1690) — Against innate ideas; the sources of ideas; words and their abuses; knowledge and probability.
 - *Two Treatises of Government* (1689, but written c. 1679–83 during the Exclusion Crisis) — The *First* refutes Filmer’s divine-right monarchy; the *Second* gives the positive account of rights, property, consent, and dissolution.
 - *A Letter Concerning Toleration* (1689) — First published in Latin in the Netherlands; the classic argument separating civil authority from religious coercion.
 - *Some Thoughts Concerning Education* (1693) — Habit, example, and esteem over rote and the rod; widely influential.

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Peter Singer, born 1946.
+- **Dates:** Peter Singer, born 1946.
 - **Place:** Born in Melbourne, Australia; educated in Melbourne and at Oxford; taught in Australia and the United States, most prominently at Princeton (from 1999).
-- **Tradition:** Utilitarian ethics — for most of his career a preference utilitarian, later defending a hedonistic utilitarianism.
+- **School/tradition:** Utilitarian ethics — for most of his career a preference utilitarian, later defending a hedonistic utilitarianism.
 - **Known for:** The drowning-child argument for a demanding duty to aid the global poor, *Animal Liberation* (1975) and the modern animal rights movement, and as a founding influence on effective altruism — and for controversies that have followed several of his conclusions about the value of life.
 
 **Responds to:** [Sidgwick](../04-19th-century/henry-sidgwick.md), [Bernard Williams](bernard-williams.md) · **Answered by:** a generation of applied ethicists and effective altruists — debate ongoing

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1748–1832
+- **Dates:** 1748–1832
 - **Place:** London, England
-- **Movement / tradition:** Utilitarianism (founder); legal and political reform
+- **School/tradition:** Utilitarianism (founder); legal and political reform
 - **Known for:** Founding modern utilitarianism — the principle that actions and laws are right insofar as they promote "the greatest happiness of the greatest number."
 
 **Responds to:** Blackstone's *Commentaries* and the unreformed English common law · **Answered by:** [J. S. Mill](john-stuart-mill.md), [Foucault](../05-20th-century/michel-foucault.md)

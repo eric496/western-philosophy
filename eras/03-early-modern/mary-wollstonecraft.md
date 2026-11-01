@@ -3,7 +3,10 @@
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Mary Wollstonecraft (1759–1797), England; writer and philosopher of the Enlightenment and the French Revolutionary era. Known for: *A Vindication of the Rights of Woman* (1792), the founding text of modern feminism, which argues that women's apparent inferiority is the product of denied education, not nature, and demands equal schooling so women can become rational, independent citizens.
+- **Dates:** 1759–1797
+- **Place:** England
+- **School/tradition:** Writer and philosopher of the Enlightenment and the French Revolutionary era
+- **Known for:** *A Vindication of the Rights of Woman* (1792), the founding text of modern feminism, which argues that women's apparent inferiority is the product of denied education, not nature, and demands equal schooling so women can become rational, independent citizens
 
 **Responds to:** [Rousseau](jean-jacques-rousseau.md) · **Answered by:** the suffrage and women's-education movements and the twentieth-century feminists who recovered her — no single successor figure has an entry in this repo
 

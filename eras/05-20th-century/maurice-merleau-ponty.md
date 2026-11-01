@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Maurice Merleau-Ponty, 1908–1961.
+- **Dates:** Maurice Merleau-Ponty, 1908–1961.
 - **Place:** Born in Rochefort-sur-Mer, France; educated at the École Normale Supérieure, Paris; taught at Lyon, the Sorbonne, and finally the Collège de France.
-- **Tradition:** Phenomenology — the French heir of Husserl and critic of Heidegger and Sartre from within the movement.
+- **School/tradition:** Phenomenology — the French heir of Husserl and critic of Heidegger and Sartre from within the movement.
 - **Known for:** *Phenomenology of Perception* (1945) and the philosophy of embodiment: perception is not something a mind does to data but something a lived body *is*; later, the unfinished ontology of "the flesh" (*la chair*) in *The Visible and the Invisible*.
 
 **Responds to:** [Husserl](edmund-husserl.md), [Sartre](jean-paul-sartre.md) · **Answered by:** embodied and enactive cognitive science and feminist philosophers — no single entry in this repo

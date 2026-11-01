@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1813–1855
+- **Dates:** 1813–1855
 - **Place:** Copenhagen, Denmark
-- **Movement / tradition:** Christian existential thought; a precursor (retrospectively) of existentialism
+- **School/tradition:** Christian existential thought; a precursor (retrospectively) of existentialism
 - **Known for:** Re-centring philosophy on the single existing individual — choice, anxiety, despair, and faith — against Hegel's system and Denmark's complacent state Christianity.
 
 **Responds to:** [Hegel](g-w-f-hegel.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md)

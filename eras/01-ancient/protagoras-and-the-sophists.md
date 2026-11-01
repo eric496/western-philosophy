@@ -41,7 +41,7 @@ Across sophistic writing runs the contrast between *nomos* (law, custom, convent
 
 - Protagoras, ***Truth* / *Refutations*** and ***On the Gods*** (mid–late 5th century BCE) — the man-measure doctrine and a famous agnostic opening: "Concerning the gods I cannot know either that they exist or that they do not." Lost except for fragments and reports (Diels–Kranz 80).
 - Protagoras, ***Antilogiae*** — model opposing arguments on standard questions. Lost.
-- Gorgias, ***On Non-Being*** (later 5th century BCE) — the threefold anti-Eleatic treatise; survives in two paraphrases, by Sextus Empiricus and in the pseudo-Aristotelian *On Melissus, Xenophanes, and Gorgias*.
+- Gorgias, ***On Non-Being*** (mid–late 5th century BCE; ancient testimony dates it c. 444 BCE) — the threefold anti-Eleatic treatise; survives in two paraphrases, by Sextus Empiricus and in the pseudo-Aristotelian *On Melissus, Xenophanes, and Gorgias*.
 - Gorgias, ***Encomium of Helen*** and ***Defence of Palamedes*** — surviving display speeches; the primary evidence for his theory of persuasion.
 - Anonymous, ***Dissoi Logoi*** (c. 400 BCE) — a surviving workbook of two-sided arguments, the closest thing to a sophistic textbook we possess.
 

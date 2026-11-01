@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1807–1858
+- **Dates:** 1807–1858
 - **Place:** London, England
-- **Movement / tradition:** Liberal feminism and social reform
+- **School/tradition:** Liberal feminism and social reform
 - **Known for:** Author of "The Enfranchisement of Women" (1851) and intellectual partner — and later wife — of John Stuart Mill; she pushed liberalism toward full equality of the sexes a generation before organised suffragism took it up.
 
 **Responds to:** [J. S. Mill](john-stuart-mill.md) · **Answered by:** the early suffragists who cited her essay and the feminist scholars who later recovered her work

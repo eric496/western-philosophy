@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1033 – 1109
+- **Dates:** 1033 – 1109
 - **Place:** Born in Aosta (Piedmont, Italy); monk and abbot of Bec in Normandy; Archbishop of Canterbury from 1093.
-- **Tradition:** Latin Christian; Benedictine monk in the Augustinian tradition; often called the founder of scholasticism.
+- **School/tradition:** Latin Christian; Benedictine monk in the Augustinian tradition; often called the founder of scholasticism.
 - **Known for:** The ontological argument for God's existence and the satisfaction theory of the atonement.
 
 **Responds to:** [Augustine](augustine-of-hippo.md) · **Answered by:** [Descartes](../03-early-modern/rene-descartes.md), [Kant](../03-early-modern/immanuel-kant.md)
@@ -64,7 +64,7 @@ Therefore, that than which nothing greater can be conceived so truly exists that
 
 ## Key works
 
-- **Monologion** (1076) — a "meditation" proving God's existence and attributes by reason alone; the long way round that the *Proslogion* sought to replace with one argument.
+- **Monologion** (c. 1076) — a "meditation" proving God's existence and attributes by reason alone; the long way round that the *Proslogion* sought to replace with one argument.
 - **Proslogion** (1077–78) — chapters 2–4 contain the ontological argument; traditionally printed together with Gaunilo's critique and Anselm's reply.
 - **On Truth**, **On Free Will**, **On the Fall of the Devil** (c. 1080s) — dialogues clarifying truth as "rectitude," freedom as the power to keep rectitude for its own sake.
 - **Cur Deus Homo** (c. 1094–98) — the satisfaction theory, worked out in exile; his most influential theological work in the Middle Ages.

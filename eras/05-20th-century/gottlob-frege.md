@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Friedrich Ludwig Gottlob Frege, 1848–1925.
+- **Dates:** Friedrich Ludwig Gottlob Frege, 1848–1925.
 - **Place:** Born in Wismar, on the Baltic coast of Germany; spent nearly his whole career at the University of Jena.
-- **Tradition:** Founder of modern mathematical logic and a founding figure of analytic philosophy and the philosophy of language.
+- **School/tradition:** Founder of modern mathematical logic and a founding figure of analytic philosophy and the philosophy of language.
 - **Known for:** The *Begriffsschrift* (1879) and modern predicate logic; the distinction between sense and reference; logicism — the attempt to found arithmetic on logic alone; and the paradox, discovered by Russell, that brought that project down at the moment of its completion.
 
 **Responds to:** [Aristotle](../01-ancient/aristotle.md), [Kant](../03-early-modern/immanuel-kant.md), [J. S. Mill](../04-19th-century/john-stuart-mill.md) · **Answered by:** [Russell](bertrand-russell.md), [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md)

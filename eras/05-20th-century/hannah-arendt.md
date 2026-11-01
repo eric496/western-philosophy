@@ -4,7 +4,10 @@
 
 ## At a glance
 
-**Lifespan:** 1906–1975 · **Place:** Born in Linden (Hanover), Germany; exiled to Paris then New York · **Tradition:** Political theory, phenomenology · **Known for:** Politics as public speech and action among distinct equals; totalitarianism as a new form of rule; and the "banality of evil" — great crimes committed by thoughtless bureaucrats.
+- **Dates:** 1906–1975
+- **Place:** Born in Linden (Hanover), Germany; exiled to Paris then New York
+- **School/tradition:** Political theory, phenomenology
+- **Known for:** Politics as public speech and action among distinct equals; totalitarianism as a new form of rule; and the "banality of evil" — great crimes committed by thoughtless bureaucrats
 
 **Responds to:** [Augustine](../02-medieval/augustine-of-hippo.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** Jürgen Habermas and later theorists of the public sphere — outside this repo's entries
 

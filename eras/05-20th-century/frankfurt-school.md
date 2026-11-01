@@ -4,7 +4,10 @@
 
 ## At a glance
 
-**Lifespan:** Institute founded 1923 in Frankfurt; first generation active 1930s–1970s · **Place:** Frankfurt; exile in Geneva, New York, Los Angeles · **Tradition:** Western Marxism, critical theory · **Known for:** Asking why Enlightenment reason and mass culture produced domination instead of freedom — the dialectic of Enlightenment and the culture industry.
+- **Dates:** Institute founded 1923 in Frankfurt; first generation active 1930s–1970s
+- **Place:** Frankfurt; exile in Geneva, New York, Los Angeles
+- **School/tradition:** Western Marxism, critical theory
+- **Known for:** Asking why Enlightenment reason and mass culture produced domination instead of freedom — the dialectic of Enlightenment and the culture industry
 
 **Responds to:** [Marx](../04-19th-century/karl-marx.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** later critical theorists and media scholars — debate ongoing
 
@@ -45,7 +48,7 @@ Habermas rebuilt the project: in *The Theory of Communicative Action* (1981), th
 ## Key works
 
 - **Horkheimer, "Traditional and Critical Theory" (1937)** — The founding manifesto.
-- **Benjamin, "The Work of Art in the Age of Mechanical Reproduction" (1935/36)** — Aura decays under mechanical reproducibility, and art's function turns political; the canonical counterweight and complement to the culture-industry thesis.
+- **Benjamin, "The Work of Art in the Age of Mechanical Reproduction" (written 1935; first published in French translation 1936; third version 1939)** — Aura decays under mechanical reproducibility, and art's function turns political; the canonical counterweight and complement to the culture-industry thesis.
 - **Horkheimer & Adorno, *Dialectic of Enlightenment* (1944/1947)** — Instrumental reason and the culture industry. The central text.
 - **Adorno et al., *The Authoritarian Personality* (1950)** — Landmark study of prejudice and fascist potential.
 - **Adorno, *Minima Moralia* (1951)** — Aphorisms "from damaged life"; his most readable book.

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1724–1804
+- **Dates:** 1724–1804
 - **Place:** Königsberg, East Prussia (now Kaliningrad) — born, educated, taught, and died there
-- **Tradition:** Critical philosophy; a synthesis of rationalism and empiricism
+- **School/tradition:** Critical philosophy; a synthesis of rationalism and empiricism
 - **Known for:** The mind structures experience through space, time, and the categories; morality as a law rational agents give themselves; reason learning its own limits
 
 **Responds to:** [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Émilie du Châtelet](emilie-du-chatelet.md) · **Answered by:** [Fichte](../04-19th-century/johann-gottlieb-fichte.md), [Hegel](../04-19th-century/g-w-f-hegel.md), [Schopenhauer](../04-19th-century/arthur-schopenhauer.md)

@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1711–1776 · Edinburgh, Scotland · Empiricism and mitigated scepticism · Known for showing that beliefs about cause, self, and morality rest on custom and sentiment, not reason — and for waking Kant from his "dogmatic slumber."
+- **Dates:** 1711–1776
+- **Place:** Edinburgh, Scotland
+- **School/tradition:** Empiricism and mitigated scepticism
+- **Known for:** Showing that beliefs about cause, self, and morality rest on custom and sentiment, not reason — and for waking Kant from his "dogmatic slumber"
 
 **Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
 
@@ -111,7 +114,7 @@ Fuller reconstructions of the argument on induction are in the study guide: [*An
 - *Enquiry Concerning Human Understanding* (1748) — The clearer recasting of *Treatise* Book I; the best entry point.
 - *Enquiry Concerning the Principles of Morals* (1751) — His ethics recast; the work he considered his best.
 - *Dialogues Concerning Natural Religion* (posthumous, 1779) — On arguments for God's existence, especially design; who speaks for Hume is debated, by design.
-- *Essays* and *History of England* (1754–62) — The writings that made him famous in his lifetime.
+- *Essays* (1741–42 and later) and *History of England* (1754–62) — The writings that made him famous in his lifetime.
 
 ## In their own words
 

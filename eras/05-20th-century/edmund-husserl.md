@@ -3,7 +3,10 @@
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
-Edmund Husserl (1859–1938), born in Proßnitz, Moravia (now Prostějov, Czech Republic), active in Germany. Founder of phenomenology. Known for describing experience exactly as it is lived — “back to the things themselves” — before explaining it away with science or theory.
+- **Dates:** 1859–1938
+- **Place:** Born in Proßnitz, Moravia (now Prostějov, Czech Republic), active in Germany
+- **School/tradition:** Founder of phenomenology
+- **Known for:** Describing experience exactly as it is lived — “back to the things themselves” — before explaining it away with science or theory
 
 **Responds to:** [Brentano](../04-19th-century/franz-brentano.md) · **Answered by:** [Heidegger](martin-heidegger.md), [Merleau-Ponty](maurice-merleau-ponty.md), [Levinas](emmanuel-levinas.md)
 

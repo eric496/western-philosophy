@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1401 – 1464
+- **Dates:** 1401 – 1464
 - **Place:** Born at Kues (Latin: Cusa) on the Moselle, Germany; educated at Heidelberg, Padua, and Cologne; cardinal and bishop of Brixen
-- **Tradition:** Late medieval Latin Christianity, deeply shaped by Neoplatonism and by mathematics; a bridge figure to the Renaissance
+- **School/tradition:** Late medieval Latin Christianity, deeply shaped by Neoplatonism and by mathematics; a bridge figure to the Renaissance
 - **Known for:** *Learned ignorance* (*docta ignorantia*) and the *coincidence of opposites* (*coincidentia oppositorum*) — the claims that precise knowledge of God is impossible for us, and that in God all opposites are one
 
 **Responds to:** the Neoplatonic and Dionysian tradition he inherited, whose transmitters have no entry in this collection · **Answered by:** later readers such as Bruno and Kepler, who have no entry in this collection

@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** c. 1287 – 1347
+- **Dates:** c. 1287 – 1347
 - **Place:** Born at Ockham, Surrey; studied at Oxford; spent his later life at the Franciscan convent in Munich under imperial protection.
-- **Tradition:** Latin Christian; Franciscan friar, the "Venerable Inceptor" (*Venerabilis Inceptor* — he completed the requirements for the theology degree but never "incepted" as master, hence the title).
+- **School/tradition:** Latin Christian; Franciscan friar, the "Venerable Inceptor" (*Venerabilis Inceptor* — he completed the requirements for the theology degree but never "incepted" as master, hence the title).
 - **Known for:** Nominalism, Ockham's Razor, a powerful theory of logic and mental language, and the separation of faith from demonstration.
 
 **Responds to:** [Duns Scotus](john-duns-scotus.md), [Thomas Aquinas](thomas-aquinas.md) · **Answered by:** the *via moderna* that followed him, with no direct successor in this collection
@@ -44,7 +44,7 @@ The poverty controversy radicalised into political theory. Defending the Francis
 ## Key works
 
 - **Summa of Logic** (c. 1323) — the complete rebuild of logic: terms, supposition, propositions, consequences. Part I is the accessible core.
-- **Ordinatio** (Sentences commentary, c. 1318–24) — nominalism and the parsimony arguments in theological setting.
+- **Ordinatio** (from his *Sentences* lectures, 1317–19; the author-revised Book I) — nominalism and the parsimony arguments in theological setting.
 - **Quodlibetal Questions** (c. 1322–25) — open-floor disputations on anything asked ("quodlibet" = "whatever you please"); lively, wide-ranging.
 - **Short Discourse on Tyrannical Government** and the **Dialogue** (1330s–40s) — the Munich political writings against papal plenitude of power.
 

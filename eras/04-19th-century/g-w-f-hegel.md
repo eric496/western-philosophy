@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** 1770–1831
+- **Dates:** 1770–1831
 - **Place:** Stuttgart and Tübingen, later Bamberg, Nuremberg, Heidelberg, and Berlin, Germany
-- **Movement / tradition:** German Idealism; the culmination of post-Kantian philosophy
+- **School/tradition:** German Idealism; the culmination of post-Kantian philosophy
 - **Known for:** The claim that reality, history, and mind are one self-developing whole, which comes to understand itself through conflict and reconciliation.
 
 **Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md)

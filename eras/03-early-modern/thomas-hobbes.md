@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1588–1679 · England, with long exile in Paris · Materialist and founder of modern social-contract theory · Known for deriving absolute authority from fear and rational self-preservation in *Leviathan*.
+- **Dates:** 1588–1679
+- **Place:** England, with long exile in Paris
+- **School/tradition:** Materialist and founder of modern social-contract theory
+- **Known for:** Deriving absolute authority from fear and rational self-preservation in *Leviathan*
 
 **Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md)
 

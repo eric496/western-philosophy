@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **Lifespan:** Judith Jarvis Thomson, 1929–2020.
+- **Dates:** Judith Jarvis Thomson, 1929–2020.
 - **Place:** Born in New York City; educated at Barnard and Cambridge; taught at MIT for most of her career.
-- **Tradition:** Analytic moral philosophy, especially the theory of rights.
+- **School/tradition:** Analytic moral philosophy, especially the theory of rights.
 - **Known for:** "A Defense of Abortion" (1971) and its famous violinist thought experiment, and for naming and shaping the trolley problem — philosophy's most famous moral dilemma.
 
 **Responds to:** [Anscombe & Foot](anscombe-and-foot.md) · **Answered by:** the trolley-problem literature she launched — debate ongoing, no single entry in this repo

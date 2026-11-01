@@ -4,7 +4,10 @@
 
 ## At a glance
 
-1685–1753 · Ireland and England, with years in Rhode Island · Anglican bishop and immaterialist · Known for *esse est percipi* — “to be is to be perceived” — and for arguing the experienced world needs no material substance behind it.
+- **Dates:** 1685–1753
+- **Place:** Ireland and England, with years in Rhode Island
+- **School/tradition:** Anglican bishop and immaterialist
+- **Known for:** *Esse est percipi* — “to be is to be perceived” — and for arguing the experienced world needs no material substance behind it
 
 **Responds to:** [Locke](john-locke.md) · **Answered by:** [Hume](david-hume.md)
 
