@@ -154,5 +154,12 @@ Approach these as open. First, the **"New Hume" debate**: did Hume merely say we
 
 **Study guide:** [*An Enquiry Concerning Human Understanding* — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/hume-enquiry.md).
 
+## Study questions
+
+1. Reconstruct the problem of induction premise by premise: inference to the unobserved presupposes that the future will resemble the past; that presupposition can be proved neither demonstratively nor from experience without circularity. Then assess one reply — reliabilist or pragmatic: does it justify induction, or change the subject?
+2. Using the billiard balls, reconstruct causation as constant conjunction: what is actually perceived, and where does the idea of necessary connection come from, on Hume's account? How does this differ from saying causes are merely one thing after another?
+3. Apply the miracles maxim to a fresh case: well-attested witnesses report an event violating a firmly established law of nature. Weigh the falsehood of the testimony against the fact reported, as Hume directs, and state what a wise person should believe.
+4. Take a policy report establishing only that a programme reduces suffering. Using the is–ought passage, explain what further step its author needs before concluding the programme ought to be adopted — and how Hume's own appeal to sentiment supplies, or complicates, that step.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

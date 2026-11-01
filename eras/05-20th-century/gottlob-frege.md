@@ -76,5 +76,12 @@ Frege's influence ran through conduits: Russell publicised him; Wittgenstein abs
 3. *The Basic Writings of Bertrand Russell* or Russell's *Introduction to Mathematical Philosophy* (1919), chs. I and XVII, for a friendly account of what the paradox destroyed and what survived.
 4. Then Michael Dummett's *Frege: Philosophy of Mathematics* or Anthony Kenny's *Frege* (in the Routledge Philosophers series) for a guided tour of the logic itself.
 
+## Study questions
+
+1. Reconstruct Frege's solution to the puzzle of identity: why is "the Morning Star is the Evening Star" a discovery while "the Morning Star is the Morning Star" is trivial, when both are true? Which work is done by sense, and which by reference?
+2. Russell's paradox contradicts Basic Law V. Reconstruct the contradiction, then assess the neo-Fregean reply that Hume's Principle alone can carry the derivation of arithmetic: has logicism been rescued, or has the assumption just been relocated?
+3. Frege rejects both Kant's synthetic a priori arithmetic and Mill's empirical generalisations. Reconstruct his case against each. Which opponent is more directly hit by the context principle, and why?
+4. A headline reads: "The author of the next bestselling novel is already rich." Give the Fregean analysis: the sense and (if any) reference of the description, and whether the sentence can express a true thought before any such novel exists.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

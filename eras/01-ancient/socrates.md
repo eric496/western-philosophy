@@ -111,5 +111,12 @@ Socrates became the archetype of the philosopher: a questioner, martyr, and sain
 4. **Xenophon, *Memorabilia* Book I** — a contrasting portrait, to feel the Socratic problem directly.
 5. **Aristophanes, *The Clouds*** (selections) — the hostile caricature Athens laughed at in 423 BCE.
 
+## Study questions
+
+1. Reconstruct the Euthyphro Dilemma: piety is either loved by the gods because it is pious, or pious because it is loved. Show why the first horn fails as a definition and the second makes piety arbitrary, leaving Euthyphro in *aporia*.
+2. Aristotle objects that Socratic intellectualism "plainly contradicts the phenomena": people know the better and do the worse. Construct Socrates' reply — that such "knowledge" was not full, present knowledge — and judge whether it saves the doctrine or empties it.
+3. Compare Socrates with Aristotle on how virtue is acquired: knowledge grasped through examination versus character formed by habit and *phronēsis*. What case of wrongdoing does each account handle better?
+4. Apply the Euthyphro Dilemma to a modern authority: is an action right because a law, manager, or AI system approves it, or approved because it is right? Work through both horns for your chosen case.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

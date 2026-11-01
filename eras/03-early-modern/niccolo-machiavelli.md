@@ -91,5 +91,12 @@ The reception was immediate and violent. The Church placed his works on the Inde
 3. *The Prince* entire, then *Discourses* Book I in full — now the two halves of the thought are visible.
 4. Skinner's *Machiavelli: A Very Short Introduction* or Viroli's biography — to place him in the humanist and Florentine context.
 
+## Study questions
+
+1. Reconstruct the *virtù*/*fortuna* argument from the river image in *The Prince* XXV: fortune governs roughly half our actions, yet dikes built in calm weather change the outcome. Why is this neither fatalism nor a claim about moral virtue?
+2. Press the *Prince*-versus-*Discourses* objection: how can one thinker advise a prince to be feared and praise the people as liberty's guard? Build the coherence reply — different remedies for founding and maintaining — and test it against both texts.
+3. Compare Machiavelli's “effectual truth” with Plato's imagined republic: what does each think political theory loses by starting from how people ought to live?
+4. Apply *Discourses* I.4 to a modern state suppressing noisy protests in the name of order: when, by Machiavelli's criteria, do tumults produce liberty-guarding laws rather than corruption, and what institutional channels would he demand?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

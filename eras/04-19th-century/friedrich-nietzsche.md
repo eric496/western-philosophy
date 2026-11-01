@@ -130,6 +130,14 @@ Habermas and others charge that his critique of reason is itself irrationalist a
 
 **Study guide:** [*On the Genealogy of Morals* — essay-by-essay guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/nietzsche-genealogy.md).
 
+## Study questions
+
+1. Reconstruct the First Essay's argument: how does slave morality arise from *ressentiment*, creatively inverting the noble's "good/bad" into "good/evil"? What exactly is creative about the slave revolt, and what evidence does Nietzsche offer for it?
+2. Reconstruct the Second Essay's account of bad conscience: trace the steps from enclosed, civilised society and instincts of cruelty blocked from outward discharge to guilt and the soul torturing itself. Which step is most vulnerable, and why?
+3. Press the genetic-fallacy objection: even if pity and humility arose from resentment, why should that discredit them now? Give the defender's reply — that genealogy destroys morality's aura and forces the question of the value of values — and judge it.
+4. Explain, using perspectivism, why "Nietzsche thinks morality is just relative" misstates his critique. If more perspectives make a judgement more objective, by what standard does he still rank master above slave morality?
+5. Apply Essay II to a contemporary guilt-and-shame practice — for example, public apology rituals on social media. Where is cruelty turned inward, what meaning does the practice give suffering, and would Nietzsche call it bad conscience, an ascetic ideal, or something else?
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

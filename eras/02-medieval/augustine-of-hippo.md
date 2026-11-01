@@ -85,5 +85,13 @@ Pelagius contested the grace doctrine in Augustine's own lifetime, charging that
 
 **Study guide:** [*Confessions* Books I–VIII and XI — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/augustine-confessions.md).
 
+## Study questions
+
+1. Reconstruct Augustine's account of time in *Confessions* XI in five sentences: the past and future do not exist, the present has no duration, yet we measure time. How does time as a *distentio animi* — present memory, attention, and expectation — solve that puzzle?
+2. State the problem of evil as a triad — God is omnipotent, God is wholly good, evil exists — then show how evil as privation and the will's deficient turning answer it. What does privation arguably fail to explain about the felt positivity of cruelty and pain?
+3. Press Pelagius's objection: if the will is wounded by inherited sin, why are we responsible, and why is moral effort not pointless? Build Augustine's best reply from grace and *libertas*, then assess it.
+4. Compare Manichaean dualism with privation: what does each preserve about God's goodness, and what does each sacrifice about creaturely responsibility?
+5. Apply ordered love to a modern institution torn between earthly peace and a higher good: which loves are disordered, by Augustine's measure?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

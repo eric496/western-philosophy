@@ -71,5 +71,12 @@ The oldest criticism, sharpened by Aristotle and the pluralists, is that the arg
 3. Plato, *Sophist* 241d–259b, the great ancient reply on non-being.
 4. Zeno's paradoxes next: they show what defending Parmenides forced philosophy to invent.
 
+## Study questions
+
+1. Reconstruct the deduction in fragment B8 step by step: from "what is not cannot be thought or said," derive why Being must be ungenerated, imperishable, indivisible, and changeless. Identify the single premise on which the whole chain most depends.
+2. Plato's *Sophist* objects that Parmenides equivocates: "what is not" can mean *different from*, not *nothing at all*, so false speech and change remain possible. State this objection precisely, then construct Parmenides' best reply.
+3. Compare Parmenides with Democritus: the atomist accepts the ban on generation from nothing yet asserts the void — "what is not" — exists. Is this a refutation, an evasion, or a legitimate revision of Parmenides' premises?
+4. Apply Parmenides' test to the claim that a new idea, company, or universe "came from nothing." What would he require you to show about its supposed starting point, and where might his reasoning overreach?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -90,5 +90,13 @@ Philosophical criticisms are independent and substantial: Levinas charged that H
 3. Then Division II on death, conscience, and temporality.
 4. Read a sober account of 1933–45 alongside, not afterwards — for example from a reputable biography or encyclopedia entry — so the philosophy and the record are held together from the start.
 
+## Study questions
+
+1. A carpenter's hammer breaks mid-task. Reconstruct, in Heidegger's terms, what changes in how the hammer shows up, and why he treats the present-at-hand stance of detached theory as derivative from ready-to-hand involvement rather than primary.
+2. Death is called Dasein's ownmost, non-relational, unsurpassable possibility. Explain each term, and show how anticipating death differs from merely expecting that one will die someday — and what the They does to tranquillise it.
+3. Critics object that authenticity carries no moral content: one could resolutely own a terrible choice. State the objection, the defender's reply that the analysis is formal rather than a moral code, and judge whether the reply is enough.
+4. Contrast being-in-the-world with the Cartesian picture of a subject that must first prove an external world exists. Which familiar philosophical problem does Heidegger claim simply fails to arise on his account, and why?
+5. Apply enframing to a fresh case: a river administered solely as hydroelectric capacity, its valley's other meanings treated as obstacles. What, for Heidegger, is the danger — and why is it not a complaint about machinery?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

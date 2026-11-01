@@ -136,5 +136,12 @@ Beyond the circle and the interaction problem: does the cogito prove too little 
 
 **Study guide:** [*Meditations on First Philosophy* — meditation-by-meditation guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/descartes-meditations.md).
 
+## Study questions
+
+1. Reconstruct the cogito as an immediate intuition rather than a syllogism. What exactly does it secure — a thinker in the act of thinking — and what does it not yet secure about body, duration, or an enduring soul?
+2. Press Lichtenberg's objection: the evidence shows only that thinking is occurring, not an “I” who thinks. Give Descartes's first-person reply, then judge whether even the modest “I” is entitled.
+3. State Arnauld's Cartesian-circle charge premise by premise: God is proved by clear and distinct ideas, which God then guarantees. Assess the defence distinguishing present intuitions from remembered ones — does it save, or shrink, the guarantee?
+4. Apply Princess Elisabeth's interaction objection to Descartes's pineal-gland proposal, then compare one successor solution — Spinoza's parallelism or Leibniz's harmony: which problem does each remove, and at what cost?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

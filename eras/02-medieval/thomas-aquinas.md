@@ -123,5 +123,12 @@ Scotus contested analogy, the primacy of intellect over will in Aquinas's ethics
 
 **Study guide:** [*Summa Theologiae* selections (Ia q.2; Ia–IIae qq. 90–97) — question-by-question guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/aquinas-summa.md).
 
+## Study questions
+
+1. Reconstruct the First Way premise by premise, explaining potency and act, an essentially ordered series, and why the conclusion is a first changer that is pure act. Why does “who changed God?” misfire, on Aquinas's terms?
+2. Reconstruct the Third Way, then press the quantifier-shift objection: from each contingent thing failing at some time, it does not follow that all fail at once. Evaluate the defender's reply about contingent being as a whole over infinite time.
+3. Formulate the objection Hume and Kant later press against such reasoning — experience presents succession, never necessary connection, and causality arguably governs only possible experience — then build the strongest Thomist response you can.
+4. Apply the Fifth Way to a fresh case, such as a self-regulating artificial system that reliably achieves an end: does its directedness require an ordering intelligence, or can a purely naturalistic explanation do the work Aquinas assigns to one?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

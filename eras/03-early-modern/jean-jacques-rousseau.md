@@ -121,4 +121,11 @@ The charged debate is the “totalitarian Rousseau”: the twentieth-century rea
 3. *Émile*, Books I–III (selections) — natural education and the delaying of *amour-propre*.
 4. *Confessions*, Book I — the voice behind the system.
 
+## Study questions
+
+1. Reconstruct the *Discourse on Inequality* argument: natural humans are moved by *amour de soi* and pity; comparison, property, and dependence generate *amour-propre* and lasting inequality. Why does it matter that the state of nature is a diagnostic model, not a historical claim?
+2. Reconstruct the general-will argument, carefully distinguishing the general will from the will of all. If voting asks “what is the common good?” rather than “what do I want?”, how can a majority be wrong — and what would its error show the minority?
+3. Press the “forced to be free” objection associated with Talmon and Berlin: a power claiming to embody the general will coerces dissenters and calls it freedom. Build the defenders' reply from generality of law and Rousseau's ban on anyone representing sovereignty, then assess it.
+4. Apply Rousseau's conditions to a modern referendum shaped by wealthy factions and a law naming one group: could its outcome express a general will, by his criteria? Compare his verdict with Locke's on government by consent.
+
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -148,5 +148,12 @@ His ethics attracts two objections. The mean can look empty unless phronēsis fi
 
 **Study guide:** [*Nicomachean Ethics* — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/aristotle-nicomachean-ethics.md).
 
+## Study questions
+
+1. Reconstruct the function argument (*Nicomachean Ethics* I.7): a thing's good lies in performing its *ergon* well; humanity's distinctive activity is reason; therefore *eudaimonia* is rational activity in accordance with virtue over a complete life. Mark each inferential step.
+2. Object that humans, unlike knives or eyes, have no maker-assigned function, and that being distinctive does not make rational activity our *good*. Then give Aristotle's reply — function as internal to a life-form — and judge whether it earns the move.
+3. Compare Aristotle with Plato on form: separate Forms versus form inseparable from matter. How does each answer Parmenides on change, and whose account better explains this particular horse, acorn, or statue?
+4. Apply the doctrine of the mean to a manager deciding how bluntly to criticise an employee's failed project. Identify cowardice, recklessness, and courage relative to this agent and situation — and explain why the mean is not the midpoint.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

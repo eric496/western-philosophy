@@ -101,5 +101,12 @@ Beyond Gaunilo and Kant: does the argument illicitly move from concept to realit
 2. *Cur Deus Homo* Book I, selected chapters, for the satisfaction theory's logic.
 3. The SEP entry "Anselm" for the modern state of the argument.
 
+## Study questions
+
+1. Reconstruct *Proslogion* II premise by premise: God is that than which nothing greater can be conceived; that being exists in the understanding; existing in reality is greater. Identify exactly which step a critic should attack, and why.
+2. State Gaunilo's lost-island parody at full strength, then Anselm's reply — an island can always be conceived greater and can be conceived not to exist, unlike that than which nothing greater can be conceived. Does the reply prove the argument's unique application, or merely assert it?
+3. Compare chapter 3's necessary-existence version with chapter 2's: what extra claim does it add, and does recasting greatness as necessary existence escape Kant's objection that existence is not a real predicate?
+4. Apply the satisfaction theory to a restorative-justice scheme that cancels a wrongdoer's debt without payment: what, for Anselm, remains unsatisfied, and how would Abelard's love-centred alternative answer?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -93,5 +93,12 @@ The coherence of radical freedom is the perennial objection: if situation genuin
 
 **Study guide:** [*Existentialism Is a Humanism* and *Being and Nothingness* (selections) — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/sartre-existentialism.md).
 
+## Study questions
+
+1. Reconstruct "existence precedes essence" through the paper-knife contrast: for the artefact, a maker's concept comes first; why, on Sartre's atheism, can no blueprint precede a human life — and what fills the gap left by the absent blueprint?
+2. Analyse the café waiter and the claim "I couldn't help it — that's just how I'm wired" as opposite forms of bad faith. Which pole of the human condition — freedom or facticity — does each deny, and why is bad faith not simply lying?
+3. Press the standard objection: if a prisoner remains free in the stance he takes, does radical freedom trivialise real oppression? Then give Sartre's best reply, drawing on facticity and the later turn toward scarcity and the practico-inert.
+4. A student says: "I'm just not a maths person, so there's no point in trying." Analyse the remark in Sartre's terms: what belongs to facticity, where bad faith enters, and what would anguish consist in here?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

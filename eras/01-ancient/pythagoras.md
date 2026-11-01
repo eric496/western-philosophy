@@ -72,5 +72,12 @@ Heraclitus sneered that Pythagoras practised inquiry "more than anyone" but made
 3. Plato, *Phaedo*, to feel Pythagoreanism's influence from inside.
 4. A modern scholarly account before Porphyry or Iamblichus — read the miracle stories last, as reception history.
 
+## Study questions
+
+1. Reconstruct the inference from musical ratios — octave 2:1, fifth 3:2, fourth 4:3 — to "all is number." Which premise generalises from harmony to the whole *kosmos*, and what observation is supposed to support that bold step?
+2. Aristotle objects that Pythagoreans slide between numbers as patterns things imitate and numbers as stuff things are made of. Add the crisis of √2, inexpressible as a whole-number ratio. Can a Pythagorean reply to both without abandoning the slogan?
+3. Compare Pythagoras with Thales: how does replacing a material *archē* with number change what explanation is — and what new problem about the relation between number and physical things does it create?
+4. A streaming service reduces a song entirely to numbers and predicts listeners' responses from them. Apply Aristotle's distinction: has it shown the music *is* number, is *modelled by* number, or something else? Defend your verdict.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

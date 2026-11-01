@@ -103,6 +103,14 @@ Schopenhauer despised him as a charlatan obscurantist — a charge of deliberate
 3. The Lordship and Bondage section (Phenomenology §§178–196).
 4. The Preface to the *Philosophy of Right* for the political philosophy in miniature.
 
+## Study questions
+
+1. Reconstruct the master–slave dialectic in numbered steps: why does the recognition the master extracts fail to satisfy him, and how do fear and formative work give the bondsman a deeper self-relation than the master achieves?
+2. State the objection that this passage is speculative anthropology rather than proof, and give Hegel's best conceptual reply. Which side is stronger, and why?
+3. Compare Hegel's ethical life (*Sittlichkeit*) with Kant's abstract morality (*Moralität*): what determinacy does Hegel claim family, civil society, and the state add to duty, and at what risk of sanctifying existing institutions?
+4. Reconstruct "the real is rational" using Hegel's distinction between mere existence and actuality (*Wirklichkeit*). How far does that distinction answer the charge that he simply blesses the status quo?
+5. Apply the dialectic to workplace recognition: a manager seeks status only from junior staff she treats as interchangeable. Using Hegel, explain why that recognition cannot satisfy her, and what mutual recognition would require changing.
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -135,5 +135,13 @@ Berkeley argued the primary/secondary distinction collapses — extension and fi
 3. *Essay* II.27 — personal identity, his most influential single chapter.
 4. *Second Treatise*, chapters II, V, VII–IX — state of nature, property, and political power.
 
+## Study questions
+
+1. Reconstruct Locke's primary/secondary quality distinction using the water that feels warm to one hand and cold to the other: which qualities resemble features of the object, and which are merely powers to produce ideas in us?
+2. Press Berkeley's collapse objection — extension, figure, and motion vary with perspective just as colour does — and assess whether anything of Locke's distinction survives it.
+3. Reconstruct Locke's consciousness criterion through the prince-and-cobbler case, explaining why “person” is a forensic term. Then press Butler's circularity charge and Reid's brave-officer case: does the psychological-continuity reply save Locke, or revise him?
+4. Apply Locke's criterion to a fresh case: a defendant who genuinely cannot remember a crime committed years earlier. Is he, for Locke, the same person who acted, and how do body-based and soul-based criteria answer differently?
+5. Compare Leibniz's veined-marble dispositions with Locke's attack on innate ideas: is a predisposition to form a truth an innate idea, or exactly the general capacity Locke says makes “innate” empty?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

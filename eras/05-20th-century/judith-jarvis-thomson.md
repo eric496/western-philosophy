@@ -71,5 +71,12 @@ Few philosophers have shaped public argument as directly. The violinist appears 
 
 Read "A Defense of Abortion" first — it is short, self-contained, and shows the method at its best. Then read Foot's original 1967 tram passage alongside Thomson's "The Trolley Problem" (1985) to see exactly what she added, and finish with "Turning the Trolley" (2008) for her reversal. *The Realm of Rights* is for after the papers have made you want the theory behind them.
 
+## Study questions
+
+1. Reconstruct the violinist argument, noting its granted premise: Thomson concedes the foetus is a person with a right to life. Why does she deny that this right includes a right to use another's body — and how does her distinction between what morality requires and what decency asks limit the conclusion?
+2. Critics press disanalogies: the foetus is not a stranger, and the mother may be responsible for its dependence. State the strongest version of this objection and Thomson's likely reply. Do the differences defeat the argument, or only narrow its scope?
+3. Foot's 1967 tram case asked the driver to choose between five deaths and one. What contrast did Thomson's bystander and footbridge variants isolate that Foot's case did not, and why has no agreed principle yet explained both judgements?
+4. Apply Thomson's rights framework to a fresh case: a surgeon could save five dying patients by taking organs from one healthy patient. What, on her view, blocks the numbers from settling the matter — and how would her 2008 reversal on the switch bear on a bystander version?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

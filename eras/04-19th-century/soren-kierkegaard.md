@@ -85,6 +85,13 @@ Adorno's study charged that the inwardness Kierkegaard absolutised was the inwar
 3. *The Sickness Unto Death*, Part One — despair and the structure of the self.
 4. The *Postscript* later, with stamina, for the full anti-Hegelian programme.
 
+## Study questions
+
+1. Reconstruct the teleological suspension of the ethical in *Fear and Trembling*: what does the ethical demand of Abraham, what does faith demand instead, and why can de Silentio neither mediate Abraham's act nor explain his silence?
+2. Explain why this scandalises a Kantian. For Kant, what must be done with a supposed divine command that violates universal moral law? Does Kierkegaard's Abraham have any check against mistaking his own desire for God's voice, and if not, is that a defect or the point?
+3. Compare Judge William's ethical life with the knight of faith: what does each standpoint choose and renounce, and why is the religious not simply a higher rung that ethical reasoning can climb to by its own logic?
+4. Apply the stages to a hard personal decision: breaking a solemn promise because keeping it would seriously harm the person you made it to. Work through the decision from aesthetic, ethical, and religious standpoints. Which, if any, could suspend the ethical here, and what would distinguish that from self-serving exception-making?
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

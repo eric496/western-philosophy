@@ -136,5 +136,13 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 
 **Study guide:** [*Philosophical Investigations* — section-by-section guide to the Part I selections, with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/wittgenstein-investigations.md).
 
+## Study questions
+
+1. Work through the builders of §2 ("block," "pillar," "slab," "beam") twice: first as the *Tractatus* would analyse it — names standing for objects in a pictured arrangement — then as the *Investigations* redescribes it, meaning as a role in an activity. What must the assistant learn, on each account?
+2. Reconstruct the private language argument using the diarist of §258: what goes wrong when "S" is fixed by private ostension alone, and why does the failure turn on the collapse of "seems right" into "is right"?
+3. An objector replies that memory can check the diarist, and that a solitary Crusoe could keep a sensation diary. Give Wittgenstein's newspaper reply (§265), and judge whether it meets the Crusoe case.
+4. Use the beetle in the box (§293) to explain why the private contents of each box drop out of sensation-talk. What picture of the mind is being rejected — and is pain itself being denied?
+5. Apply family resemblance to a fresh case: competitive speedrunning of a video game, with no opponent and no winner beyond a fastest time. Decide whether it is a game, without appealing to any essence of games.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

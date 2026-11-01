@@ -69,5 +69,12 @@ Aristotle objected that radical flux destroys knowledge and speech: if everythin
 3. Plato, *Cratylus* (439c–440e) and *Theaetetus*, for the earliest reception — and distortion — of flux.
 4. Then Parmenides: the twin poles between which later Greek philosophy steered.
 
+## Study questions
+
+1. Reconstruct Heraclitus' flux doctrine from the river fragment (B12) and fire "kindled in measures" (B30): how can a river stay the same *because* its waters change, and what work does the *logos* do in preventing flux from becoming chaos?
+2. Aristotle objects that universal flux destroys knowledge and speech: nothing can be truly stated about what always changes. Distinguish Heraclitus from Cratylus' radical version, then assess whether measured change is a sufficient reply.
+3. Set Heraclitus against Parmenides: for each, what is fundamental — becoming or being — and what does each think the senses get wrong? Whose premises better survive the other's strongest argument?
+4. Apply the unity of opposites to a hospital, university, or sports team whose members gradually all change. Using Heraclitus' river, argue when it remains the same institution and when replacement becomes a different one.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

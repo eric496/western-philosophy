@@ -120,5 +120,13 @@ The debates remain live and should be read as debates, not verdicts. Libertarian
 
 **Study guide:** [*A Theory of Justice* §§1–4 and the difference principle — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/rawls-theory-of-justice.md).
 
+## Study questions
+
+1. Reconstruct the route from the original position to the two principles: what does the veil of ignorance exclude and permit, and how does maximin reasoning under uncertainty — rather than expected-utility calculation — deliver the difference principle?
+2. State Harsanyi's objection that Rawls smuggles in extreme risk-aversion, and Rawls's reply from the strains of commitment: principles govern a whole life and cannot be renegotiated. Which side better fits a choice that is one-shot and irrevocable?
+3. Nozick's Wilt Chamberlain example: fans voluntarily pay a star player, producing inequality from an equal start. Reconstruct his objection that patterned principles require continual interference with liberty, and Rawls's reply that the principles govern the basic structure's background conditions, not each transaction.
+4. Contrast Rawls with Singer: Singer's pond principle binds individuals directly; Rawls's principles bind institutions. Why, then, does Rawls's theory by itself not tell you what to give to charity — gap, or deliberate division of labour?
+5. Apply the two principles, in lexical order: a city funds elite sports facilities by cutting library hours in its poorest districts, citing rising total welfare. Which principle is engaged first, does the difference principle permit this, and what change would make it permissible?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

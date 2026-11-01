@@ -104,5 +104,12 @@ In Britain, Ramsey helped transmit Wittgenstein's ideas, and the *Tractatus* set
 3. **The *Notebooks 1914–1916*, selections** — to see war, ethics, and logic growing together.
 4. **Then the Ficker letter and propositions 6.54–7 again** — and decide for yourself between the traditional and resolute readings before moving to the late work.
 
+## Study questions
+
+1. Using "The cat is on the mat," reconstruct the picture theory: what corresponds to what, what does the proposition share with the fact, and why is bipolarity — being capable of truth and of falsity — the mark of a genuine factual proposition?
+2. State Ramsey's colour-exclusion objection: "this is red all over" and "this is green all over" exclude each other, yet elementary propositions were meant to be independent. Why is this a problem inside the system rather than an external quibble?
+3. The Vienna Circle read the *Tractatus* as licensing the dismissal of ethics as nonsense. Using proposition 6.421 and the Ficker letter, argue whether that reading captures or betrays the book's point about what cannot be said.
+4. Apply the ladder (6.54) to the sentence "A proposition shares logical form with the fact it pictures." By the book's own standard, can it be said? Defend either the resolute or the traditional reading of your answer.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

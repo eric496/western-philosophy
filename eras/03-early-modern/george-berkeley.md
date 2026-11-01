@@ -92,4 +92,11 @@ Classic objections recur. Inference: does Berkeley slide illegitimately from “
 3. *Essay Towards a New Theory of Vision*, selections — the empiricist machinery on a concrete problem.
 4. *De Motu* — for readers drawn to his philosophy of science.
 
+## Study questions
+
+1. Reconstruct Berkeley's master argument: try to conceive a tree existing unperceived, and notice you have conceived it. What inference does Berkeley draw to *esse est percipi*, and where does the objection locate a slide — from “cannot conceive unconceived” to “cannot exist unconceived”?
+2. Rebuild his collapse of Locke's primary/secondary distinction from variability and inseparability: a shape that is no colour and tangible in no way leaves what, exactly, to conceive?
+3. Compare Locke's material substratum, “something, I know not what,” with Berkeley's God as permanent perceiver: does God do the same unexplained work Berkeley rejected in matter? Construct Berkeley's reply from our knowledge of spirits by notion and their effects.
+4. Apply Berkeley to a fresh case — an unobserved valley no human has ever visited: what exists there, on his account, what guarantees its continuity, and how does Samuel Johnson's kicked stone miss the answer?
+
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

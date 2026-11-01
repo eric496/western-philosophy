@@ -147,5 +147,12 @@ Scholars debate the "unwritten doctrines": Aristotle reports Plato lecturing on 
 
 **Study guide:** [*Republic* — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/plato-republic.md).
 
+## Study questions
+
+1. Reconstruct Plato's argument for the Forms: sensible equals and beautifuls are deficient in some respect, time, or observer, yet we judge them against Equality and Beauty themselves — standards no sensible instance supplies. Why must those standards exist apart from particulars?
+2. State the Third Man objection from the *Parmenides*: if a particular and its Form are both large, a further Form seems needed to explain their likeness, endlessly. Then give the standard reply distinguishing participation from ordinary resemblance, and assess it.
+3. Compare Plato with Aristotle on universals: Forms separate from things versus form *in* things. What does each position gain and lose for explaining knowledge, change, and why particulars are intelligible?
+4. Read the Cave as an argument that education turns the whole soul rather than pouring in information. Apply it to a social-media feed: identify the shadows, chains, and painful turning — then object that the "freed" prisoner may only have exchanged one cave for another.
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

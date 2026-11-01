@@ -92,5 +92,12 @@ The monadology strikes many as extravagant: infinitely many windowless minds, co
 3. *Theodicy*, selections on evil — the “best world” claim in actual form.
 4. Leibniz–Clarke correspondence, first letters.
 
+## Study questions
+
+1. Reconstruct Leibniz's argument from the principle of sufficient reason: contingent things cannot supply their own ultimate reason, so the reason for the whole series must lie in a necessary being. Where exactly can a critic refuse to follow — the principle itself, or its application to the whole series?
+2. Derive the identity of indiscernibles from sufficient reason, then apply it to Newton's universe shifted three feet in absolute space, as in the Leibniz–Clarke correspondence. Why, for Leibniz, would the shift be no difference at all?
+3. Press the strongest objection to the best of all possible worlds — the scale of suffering, or the thought that any world could be improved — then build Leibniz's reply using compossibility and God's permitting rather than willing evil. Does the reply answer, or relocate, the difficulty?
+4. Compare pre-established harmony with Descartes's interaction and Spinoza's parallelism on one case, your willing raising your arm: what coincides, what causes what, in each system?
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
