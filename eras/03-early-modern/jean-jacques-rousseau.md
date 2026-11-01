@@ -46,6 +46,34 @@ Whoever refuses the general will, Rousseau says, shall be “forced to be free.�
 
 Government, finally, is strictly subordinate. Sovereignty — legislative authority expressing the general will — belongs inalienably to the assembled people and cannot be represented: deputies are agents, never substitutes. (The English, he says, are free only during elections.) Government is a mere executive commission applying the laws, revocable at the people’s pleasure. Magistrates who legislate usurp sovereignty and dissolve the compact.
 
+## Signature arguments
+
+**The argument of the *Discourse on Inequality***
+
+1. In the state of nature, humans are solitary and self-sufficient, moved by self-preservation (*amour de soi*) and pity, without settled comparison or vanity.
+2. Comparison, dependence, and *amour-propre* — self-love that lives through others' eyes and demands rank — arise only when people live together and judge themselves against one another.
+3. Settled life, property, and the division of labour make people dependent on one another for both material needs and esteem, and turn differences of strength or talent into differences of wealth and power.
+4. Law, introduced to protect property, then fixes and legitimises that dependence as lasting inequality.
+Therefore, inequality is not natural but a historical product of social development: natural man is good, and society corrupts.
+
+Rousseau is explicit that the state of nature is a conjectural device — in the *Discourse*'s preface he proposes “setting aside the facts” — not a historical claim about how humans actually lived.
+
+**Objection.** The story looks like an unfalsifiable just-so story. Anthropology suggests early humans were social, cooperative, and status-conscious, not solitary wanderers, so the supposed starting point never existed.
+
+**Reply.** Defenders reply that falsifying the starting point misses its function. The *Discourse* works as a diagnostic model, isolating which traits need a social explanation and which do not. Its target is the claim that present inequality is natural or deserved, and that target stands even if the model is read as an idealisation, like a physicist's frictionless plane.
+
+**The general-will argument**
+
+1. Legitimate authority cannot rest on force, which creates no right, or on nature, which gives no one a title to rule another.
+2. Authority must therefore rest on convention — an agreement in which each person, uniting with all, gives himself to the whole community rather than to a master.
+3. To remain free under such an agreement, each citizen must obey only a law he prescribes to himself as a member of the sovereign people.
+4. The source of such law is the general will: citizens willing the common good *as citizens*, not the “will of all,” which is merely the sum of private preferences.
+Therefore, a people is free and legitimately governed when its laws express the general will.
+
+**Objection.** The doctrine seems to license tyranny. A majority, a party, or a ruler claiming to embody the general will can coerce dissenters and call the coercion freedom — the thought behind Rousseau's phrase “forced to be free.” This is Jacob Talmon's influential “totalitarian democracy” reading.
+
+**Reply.** Defenders reply that the general will is tightly constrained in Rousseau's own text. Laws must be general in form and origin, come from all and apply to all equally, and concern common interests rather than named persons or factions. Whether those constraints are enough to block the abusive use remains, as this entry's debate section notes, an ongoing argument rather than a settled verdict.
+
 ## Key works
 
 - *Discourse on the Sciences and Arts* (1750) — The prize essay that made him famous: the arts and sciences corrupt rather than purify morals, and luxury dissolves civic virtue.

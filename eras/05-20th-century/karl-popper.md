@@ -42,6 +42,34 @@ Popper extended fallibilism into politics. *Historicism*, as he defined it, is t
 
 Against this he set the *open society*: a society in which no one — ruler, party, or philosopher — is treated as possessing final truth, institutions allow criticism, and governments can be removed without violence. Democracy mattered to Popper not because the people are wise, but because it is the system that lets us get rid of bad rulers peacefully. The corresponding method in social policy is *piecemeal engineering*: small, reversible reforms whose effects can be monitored and corrected, rather than utopian blueprints for remaking society whole.
 
+## Signature arguments
+
+**The demarcation argument**
+
+1. Induction cannot justify a universal scientific claim: no number of observed white swans proves that all swans are white, because the next observation might always differ.
+2. A single genuine counter-instance, by contrast, falsifies a universal claim: one black swan, if accepted, refutes "all swans are white."
+3. What gives a theory scientific content is therefore that it forbids observable states of affairs and takes risks: the more it rules out, the more it says and the more severely it can be tested.
+Therefore, falsifiability, not verification, is the criterion of the scientific status of a theory, and science proceeds by bold conjecture followed by attempted refutation.
+
+Popper's contrast cases, from his experience in Vienna in 1919, were Marxist history and psychoanalysis as he encountered them. On his telling, they could explain any outcome after the fact and so risked nothing, whereas Einstein's general relativity staked itself on a precise prediction about starlight bending near the Sun. A theory that explains everything, he concluded, explains nothing in the scientific sense — though he insisted that non-scientific did not mean meaningless or worthless.
+
+**Objection.** The Duhem–Quine problem is that no theory is tested alone: every test also assumes auxiliary hypotheses about instruments, background conditions, and other theories. A failed prediction therefore never conclusively falsifies the theory itself, since scientists can always blame an auxiliary instead.
+
+**Reply.** Popper concedes the logical point and answers methodologically. Science, on his proposal, adopts rules against immunising stratagems: decide in advance what would count as a refutation, and do not rescue a theory with ad hoc changes that add no new testable content. The criterion is thus a proposal for honest scientific practice, not a logical guarantee that refutation will ever be forced.
+
+**The argument against historicism**
+
+1. The course of human history depends strongly on the growth of human knowledge, including future scientific discoveries and inventions.
+2. We cannot predict today, by rational or scientific methods, what we will only know tomorrow: if we could state that future knowledge now, we would already possess it.
+3. Predicting the future course of history would therefore require predicting future knowledge, which the previous step shows to be impossible in principle.
+Therefore, we cannot predict the future course of history, and there can be no scientific theory of historical destiny or inevitable stages.
+
+The practical conclusion of *The Poverty of Historicism* is negative and positive at once: no large-scale historical prophecy, but instead *piecemeal social engineering* — small, reversible reforms whose results can be observed and corrected.
+
+**Objection.** Unpredictability of knowledge does not block all social prediction: demography and economics make useful bounded forecasts, for instance about ageing populations or the effects of a tax change. Popper's argument, the objector says, may prove too much, ruling out ordinary social science along with prophecy.
+
+**Reply.** Popper's target is prophecy in the historicist sense — unconditional claims about laws or stages of historical development — not conditional, short-range forecasting. His own framework expressly allows piecemeal prediction tied to institutions: if we do this, under these conditions, that is likely to follow, and we can check and revise. The distinction between prophecy and piecemeal forecasting is therefore central to the argument, not an afterthought.
+
 ## Key works
 
 - *Logik der Forschung* (1934; English as *The Logic of Scientific Discovery*, 1959) — the founding statement of falsificationism and the critique of induction.

@@ -52,6 +52,34 @@ Rawls’s later work confronts a problem his theory itself exposed. A just socie
 
 His answer in *Political Liberalism* (1993) is to make the political conception *freestanding*: justice as fairness, restated as a political rather than comprehensive doctrine, can be the object of an *overlapping consensus*, endorsed by citizens from within their own different worldviews — as a Kantian on grounds of autonomy, a religious believer on grounds of the dignity of persons, a utilitarian on grounds of its good effects. When citizens and officials justify coercive laws to one another on constitutional essentials, they should offer *public reasons* — reasons drawn from the shared political conception, not solely from their own comprehensive doctrine. In *The Law of Peoples* (1999) Rawls extended the approach internationally, arguing liberal peoples owe toleration to decent non-liberal peoples and a duty of assistance to burdened societies, but not a global version of the difference principle.
 
+## Signature arguments
+
+**The original-position argument**
+
+1. Principles of justice are fair if they would be chosen by parties choosing under fair conditions, in which no one is advantaged or disadvantaged by morally arbitrary facts about themselves.
+2. The original position models those conditions with a veil of ignorance: the parties know general facts about society and human psychology, but not their own place in society, class, talents, health, or conception of the good (*A Theory of Justice* §§3–4, 24).
+3. Behind the veil, no one can tailor principles to their own advantage, because no one knows which person in the society they will turn out to be.
+Therefore, the parties would choose equal basic liberties for all, and would arrange social and economic inequalities only to the greatest benefit of the least advantaged — Rawls's two principles of justice.
+
+The reasoning for the second principle is *maximin* reasoning under deep uncertainty: with no usable probabilities, grave possible outcomes, and a choice that is one-shot and irrevocable, the parties protect the worst position they might occupy rather than gambling on the average.
+
+**Objection.** John Harsanyi argued that the parties' extreme risk-aversion is smuggled in rather than derived: rational parties, he held, would maximise expected utility and choose average utilitarianism instead. A related objection is that abstracting away everything distinctive about persons may abstract away too much to yield determinate results at all.
+
+**Reply.** Rawls replies that this choice situation is special: the principles govern a whole life, cannot be renegotiated, and must satisfy the strains of commitment — you must be able to honour them even if you turn out worst off. Where the possible losses are that grave and probabilities cannot responsibly be assigned, guaranteeing a decent minimum is, he argues, the rational stance. Whether maximin or expected-utility reasoning is right here remains a live debate.
+
+**The argument against utilitarianism: the separateness of persons**
+
+1. Utilitarianism extends to society the principle of choice for one person: within a single life, it is rational to accept a loss now for a greater gain later, because the same person both loses and gains.
+2. Utilitarian aggregation applies the same balancing across a society, summing gains and losses that fall on different people.
+3. But there is no social super-person who experiences the total: one person's loss is not automatically compensated by another person's gain, because they are not the same subject.
+Therefore, utilitarianism does not take seriously the distinction between persons, and a just society may not sacrifice one person's basic rights for a greater total of welfare.
+
+**Objection.** Consequentialists reply that separateness is a slogan, not an argument: each person's suffering matters equally, and only aggregation counts every person's good impartially. Side-constraints on aggregation, they add, can themselves license terrible outcomes, as when refusing to infringe one right allows far greater harms to many others.
+
+**Reply.** Rawls's point is about the structure of justification: principles must be justifiable in terms each person can accept, and in the original position no party would gamble basic liberties for aggregate gains they might never share. Modern contractualism develops the same thought as justifiability to each person, rather than justification by appeal to the total. The dispute with consequentialism is continuing, and should be read as such.
+
+Fuller reconstructions are in the study guide: [*A Theory of Justice* §§1–4 and the difference principle — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/rawls-theory-of-justice.md).
+
 ## Key works
 
 - *A Theory of Justice* (1971; revised ed. 1999) — the masterwork: original position, two principles, and the systematic alternative to utilitarianism.

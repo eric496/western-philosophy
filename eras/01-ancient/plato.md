@@ -61,6 +61,33 @@ If knowledge of the Good is possible but rare, and ruling well requires it, the 
 
 In the *Symposium*, love (*erōs*) is a ladder. In the speech given to the priestess Diotima, the lover begins with one beautiful body, recognises beauty in all bodies, then turns to beauty of souls, laws, and knowledge, and finally contemplates Beauty itself. Desire, properly educated, carries the soul from particulars to Forms. Critics such as Martha Nussbaum press the tension: does the individual beloved survive the ascent as more than a discarded rung?
 
+## Signature arguments
+
+**The argument for the Forms**
+
+1. Sensible things called equal or beautiful are deficient: two sticks may be equal in length yet unequal in another respect, and no sensible beautiful thing is beautiful in every respect, at every time, to every observer.
+2. We recognise this deficiency, judging sensible equals and beautifuls against a standard they fall short of — Equality itself and Beauty itself.
+3. That standard cannot itself be supplied by the senses, since no sensible instance presents equality or beauty perfectly and without qualification.
+Therefore, Forms such as Equality itself and Beauty itself exist apart from their sensible instances, and knowledge (*epistēmē*) in the strict sense is of these Forms, not of fluctuating particulars.
+
+**Objection.** Plato himself presses the Third Man regress in the *Parmenides*. If a particular and its Form are alike — both, say, large — then by the same reasoning that introduced the Form we need a further Form over both to explain their likeness, and then another, infinitely. The theory would generate the very multitude it was meant to explain away.
+
+**Reply.** The standard reply distinguishes participation from ordinary resemblance between two things of the same kind: a particular is not large in the way the Form is, so the two do not straightforwardly form a pair needing a third. Scholars also note that the regress needs two assumptions — that a Form is itself an instance of what it names (self-predication) and that it is distinct from its instances (non-identity) — and that Plato can give up or qualify one while keeping the other. Plato presents the theory as revisable, and the regress is usually read as targeting a naive version of it rather than every version.
+
+**The tripartite soul argument (*Republic* IV)**
+
+1. By the principle of opposites, the same thing cannot do or suffer opposites at the same time, in the same respect, and in relation to the same thing.
+2. A thirsty person can desire to drink and at the same time refuse to drink — appetite urges acceptance while something else in him forbids it.
+3. Desire and refusal are opposites directed at the same act, so they cannot come from the soul as an undifferentiated whole in the same respect; they come from distinct sources within it.
+4. A person can also grow angry at his own appetites, as Leontius is angry at his desire to stare at corpses, so the spirited source of anger is distinct from appetite too.
+Therefore, the soul has at least three distinct parts or sources of motivation: appetite, spirit, and reason.
+
+**Objection.** Inner conflict, critics object, shows only that a single agent can have competing desires and judgements, not that the soul literally contains separate parts, each a kind of mini-agent. On this reading the parallel with the three classes of the city is a suggestive metaphor doing work it cannot do as proof, and Plato has mistaken a way of talking about conflict for a division in the soul's structure.
+
+**Reply.** Plato's conclusion can be defended in a more modest form. He needs functionally distinct sources of motivation, each with its characteristic objects — appetite aiming at pleasure and bodily satisfaction, spirit at honour and victory, reason at truth and the good of the whole — and the conflict cases do establish at least that much. Whether these sources are literally parts, rather than aspects of one soul, remains debated among scholars; the functional division, and the account of justice as their proper ordering, can survive either way.
+
+Fuller reconstructions of the Republic's arguments are in the study guide: [Republic study guide](../../study/plato-republic.md).
+
 ## Key works
 
 - **Apology** (early; dramatic date 399 BCE) — Socrates' defence at his trial: his mission, his professed ignorance, his refusal to stop philosophising.

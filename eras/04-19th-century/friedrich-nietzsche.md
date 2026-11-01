@@ -55,6 +55,32 @@ Knowledge, for Nietzsche, is always from a perspective, structured by drives, af
 
 The early *Birth of Tragedy* (1872) opposes Apollo — form, image, individuation, dream — to Dionysus — intoxication, dissolution of the individual, the primal unity of suffering and joy. Greek tragedy, at its peak, fused both; Socratic rationalism, he argues, killed tragedy by insisting that existence must be intelligible to be justified.
 
+## Signature arguments
+
+**The genealogical argument on slave morality**
+
+1. Priestly and noble valuations begin, in the First Essay of *On the Genealogy of Morals*, as “good/bad”: the noble calls himself and his like “good” spontaneously, and only secondarily calls the low and common “bad.”
+2. The powerless, unable to act on their *ressentiment* directly, creatively invert those values: the noble's strength becomes “evil,” and their own humility, patience, and weakness become “good.”
+3. This slave revolt in morality, carried — on Nietzsche's provocative historical claim — by Judaism and then by Christianity, triumphs over noble valuation and shapes modern egalitarian morality.
+Therefore, modern morality is not a timeless discovery but the victory of one evaluative party, whose self-image — humility and pity as virtues — conceals its origin in resentment.
+
+**Objection.** Even if the history is right, condemning a value by its origin commits the genetic fallacy. Humility or pity might have disreputable ancestors and still be worth affirming now, since origins do not by themselves settle worth.
+
+**Reply.** Defenders reply that genealogy's aim is subtler than a refutation by origin. By showing a contingent, interested history, it destroys morality's aura of purity and self-evidence and forces a new question: what is the value of these values themselves? Whether genealogy also refutes the values it unmasks, or only clears the ground for revaluing them, is debated among scholars.
+
+**Eternal recurrence as a test**
+
+1. In *The Gay Science* §341, imagine a demon proposing that your life, exactly as you have lived it, will recur eternally, in every detail, with nothing new in it.
+2. The thought is either crushing — you throw yourself down and curse the demon — or transforming, if you can answer that you have never heard anything more divine.
+3. What decides between those responses is whether you can will your life again as it was, without editing out its suffering, failure, and loss.
+Therefore, recurrence functions as a selective test of life-affirmation — a formula for *amor fati*, love of one's fate — rather than, on the standard reading, a cosmological doctrine about how the universe actually repeats.
+
+**Objection.** As a test, recurrence may be psychologically rigged, and morally troubling. Willing everything again seems to require affirming not only one's own suffering but also the suffering of others, which can look monstrous rather than life-affirming.
+
+**Reply.** Defenders read the test as addressed to one's own life and to one's stance toward it: a discipline against regret, and against what Nietzsche calls revenge against time and its “it was.” So read, it asks whether *you* can stop wishing your past away, not whether you should approve of everything that happens to others. Whether the test can bear even that more limited weight is contested.
+
+Fuller reconstructions are in the study guide: [*On the Genealogy of Morals* — essay-by-essay guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/nietzsche-genealogy.md).
+
 ## Key works
 
 - *The Birth of Tragedy* (1872) — The Apollonian/Dionysian account of Greek art and its death by Socratism; flawed scholarship, electrifying philosophy.

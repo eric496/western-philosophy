@@ -60,6 +60,32 @@ Once matter is defined as extension alone, nature contains no hidden qualities o
 
 The vortex theory was ingenious and, within decades, superseded: Newton's *Principia* (1687) showed its predictions failed where gravitation succeeded. But the deeper mechanistic programme — explain nature mathematically, without final causes — won even as his specific physics lost.
 
+## Signature arguments
+
+**The cogito**
+
+1. Suppose a powerful evil demon deceives me about everything — the external world, my body, and even apparently self-evident truths.
+2. Deception requires something that is deceived: if I am deceived, then I must exist as the subject of that deception.
+3. Doubting, being deceived, and being mistaken are forms of thinking, and thinking is occurring in this very act of doubt.
+Therefore, whenever I think, I exist — "I think, I am" — and this holds even on the demon hypothesis.
+
+**Objection.** The conclusion smuggles in a substantial self. All that is strictly given, as Lichtenberg later put it, is that thinking is happening; nothing yet shows a single, enduring "I" who owns the thoughts, let alone an immaterial soul.
+
+**Reply.** Descartes' point is a direct intuition, not a syllogism whose premises could hide the extra assumption. By "I" he means, at this stage, just whatever is doing this thinking; its nature, duration, and relation to a body are questions to be investigated afterwards. The cogito secures a thinker in the act, not a finished theory of the self. Whether even that modest "I" is entitled — whether first-person presentation is itself enough to establish a subject — remains debated, but the debate starts from Descartes' ground: the occurrence of thought is the one thing doubt cannot coherently deny while it is being thought.
+
+**The causal argument for God (the "trademark" argument, *Meditation* III)**
+
+1. I have an idea of God: a substance that is infinite, eternal, omniscient, omnipotent, and supremely perfect.
+2. An idea's cause must contain at least as much reality as the idea represents — the causal adequacy principle: nothing comes from nothing, and the more perfect cannot be produced by the less perfect.
+3. I am a finite, imperfect, doubting being, so neither I nor the finite things I encounter can be the cause of an idea representing infinite perfection.
+Therefore, an infinite and perfect being — God — exists, and, like a craftsman's trademark on his work, placed this idea in me.
+
+**Objection.** The idea of the infinite could be built from the finite: negate our limits, or magnify finite perfections indefinitely, and no infinite cause is needed. The causal adequacy principle, moreover, looks like scholastic baggage — a hierarchy of degrees of reality that a modern reader need not accept.
+
+**Reply.** For Descartes the idea of the infinite is positive and prior to that of the finite, not constructed by negation: we recognise our own finitude and imperfection only against infinity and perfection already conceived. And some causal principle, he would add, is needed by any explanation, since an effect cannot contain reality that came from nowhere at all. Modern readers often grant the ingenuity while rejecting the machinery — the distinction between an idea's represented ("objective") reality and its cause's ("formal") reality does much of the work, and it is precisely that machinery the objection targets.
+
+Fuller reconstructions are in the study guide: [*Meditations on First Philosophy*](../../study/descartes-meditations.md).
+
 ## Key works
 
 - *Discourse on the Method* (1637) — In French, with three scientific essays; the accessible, autobiographical entry point, with the four rules of method and the cogito.
