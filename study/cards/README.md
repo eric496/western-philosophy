@@ -9,7 +9,7 @@ Anki-importable card decks built from material already in this repository. Follo
 | `argument-cards-core.tsv` | 40 | One card per signature argument of the 20 core entries — two per figure. Front: "Reconstruct X's argument …: numbered premises, conclusion, then the standard objection and the reply." Back: a compact model answer (premises in brief, conclusion, one objection, one reply), 107–125 words. |
 | `checkpoint-cards.tsv` | 278 | One card per checkpoint question in the 18 study guides. Front: the guide's question. Back: the guide's own answer, lightly condensed (7–86 words; all under ~120). |
 
-The learning path budgets roughly 150 argument cards across the whole course (~5 per core author). The 40-card argument deck is the *core* deck — the two signature arguments per entry that the entries themselves single out — and is the one to keep up with daily. The checkpoint deck is a larger companion for use while working through each guide; treat it as per-guide revision material rather than a second daily obligation.
+The learning path budgets roughly 150 argument cards across the whole course (~5 per core author, the rest self-made). The 40-card argument deck is the *core* deck — the two signature arguments per entry that the entries themselves single out — and is the one to keep up with daily. The checkpoint deck is a larger companion for use while working through each guide; treat it as per-guide revision material rather than a second daily obligation. Import each figure's cards **when you finish that figure** (or its guide), never as a day-one dump of all 318.
 
 ## Format and importing into Anki
 
@@ -28,14 +28,16 @@ To import: in Anki, *File → Import*, choose the `.tsv`, set the separator to *
 
 Import each deck into its own Anki deck (or one deck with the tags above — the tags are enough to build filtered decks per figure or per guide).
 
-## Review cadence
+## Review cadence — FSRS and the daily queue
 
-The learning path's schedule for a figure's argument cards is: **+2 days, +1 week, +3 weeks after finishing the figure, and once more at the end of the stage**. Two workable ways to run that:
+The learning path (round 6 revision, §2.1–§2.2) schedules these cards with **FSRS**, Anki's current scheduler — *not* with the hand-run +2d/+1wk/+3wk marks an earlier version of the path prescribed for cards. Those marks now govern blank-page reconstructions and checkpoints only (successive relearning, learning-path §2.3); they no longer schedule cards, and hand-scheduling cards fights the scheduler. Run it like this:
 
-- **Simplest (recommended):** add a figure's cards to your rotation when you finish the entry (and the guide, if it has one), and let Anki's spaced-repetition scheduler handle the intervals. Its expanding schedule approximates the path's cadence without manual bookkeeping.
-- **Literal cadence:** use the tags to pull one figure's cards into a filtered/custom-study deck at the +2-day, +1-week, and +3-week marks, and run a stage-end filtered deck over the whole stage's `era::` or `figure::` tags before moving on.
+- **Setup (once, in Deck Options):** turn **FSRS on** — it is a toggle; do not assume it is already active. **Desired retention 0.90** (do not raise it; workload climbs steeply above 0.90). **Learning and relearning steps short — `10m` (or the default `1m 10m`), never 1 day or more.** Leave maximum reviews uncapped; control intake through new cards, not by hiding due reviews. After your first ~300–400 reviews, click **Optimize** in the FSRS section, and re-optimize about monthly. Do not copy anyone else's parameters.
+- **Daily queue:** clear the due queue in **~10 minutes, ~6 days a week**, separate from your study sessions. At this plan's pace — a handful of new cards in a week, far under the ~5/day cap — the queue stays small. **If a backlog ever forms, stop adding new cards until it clears.**
+- **Buttons:** press **Again** on any failed recall, always. Pressing *Hard* for a failure makes FSRS record a successful-but-effortful recall and inflates all future intervals.
+- **Filtered decks still have a job — the reconstruction session's job, not the scheduler's.** Pulling a stage's `era::` or `figure::` tags into a custom-study deck is a fine way to run a stage-end review sweep alongside the §2.3 spaced reconstructions. Just don't use them to impose a manual calendar on the cards themselves.
 
-Either way, review actively, as the path insists: reconstruct the argument aloud or on paper *before* flipping the card, then compare against the back — including the objection and the reply, which are part of the answer, not optional extras.
+However you review, review actively, as the path insists: reconstruct the argument aloud or on paper *before* flipping the card, then compare against the back — including the objection and the reply, which are part of the answer, not optional extras.
 
 ## How the decks were generated
 
