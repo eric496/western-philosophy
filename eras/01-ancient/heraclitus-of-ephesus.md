@@ -27,7 +27,7 @@ That book — traditionally titled *On Nature*, a conventional label — was com
 
 ### Flux — measured, not chaotic
 
-Heraclitus is the philosopher of change: day passes into night, living into dead, waking into sleeping; a river flows. In the famous image (B12), "on those stepping into rivers staying the same other and other waters flow" — the river *is* the same precisely because new waters replace the old. Identity is not absence of change but a stable pattern *within* change, like a flame. Crucially, change is measured: fire is "kindled in measures and extinguished in measures" (B30). Flux is not chaos; it is law-governed transformation, the logos at work. Later followers radicalised it — Plato reports Cratylus pushing it until you cannot step in even once, and finally refusing to speak, only wagging his finger — but that extremity is Cratylus', not Heraclitus'.
+Heraclitus is the philosopher of change: day passes into night, living into dead, waking into sleeping; a river flows. In the famous image (B12), "on those stepping into rivers staying the same other and other waters flow" — the river *is* the same precisely because new waters replace the old. Identity is not absence of change but a stable pattern *within* change, like a flame. Crucially, change is measured: fire is "kindled in measures and extinguished in measures" (B30). Flux is not chaos; it is law-governed transformation, the logos at work. Later followers radicalized it — Plato reports Cratylus pushing it until you cannot step in even once, and finally refusing to speak, only wagging his finger — but that extremity is Cratylus', not Heraclitus'.
 
 ### The unity of opposites
 

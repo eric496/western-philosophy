@@ -37,18 +37,18 @@ Al-Ghazālī's *Incoherence of the Philosophers* had attacked the philosophers o
 
 ### Astronomy and the critique of Ptolemy
 
-Less famous but genuinely scientific: Averroes rejected Ptolemaic epicycles and eccentrics as physically impossible fictions, demanding an astronomy of concentric spheres consistent with Aristotelian physics. His programme failed to produce a working model, but it set the agenda that drove Iberian and later European astronomers toward reform — an interesting case of philosophical purity obstructing and inspiring science at once.
+Less famous but genuinely scientific: Averroes rejected Ptolemaic epicycles and eccentrics as physically impossible fictions, demanding an astronomy of concentric spheres consistent with Aristotelian physics. His program failed to produce a working model, but it set the agenda that drove Iberian and later European astronomers toward reform — an interesting case of philosophical purity obstructing and inspiring science at once.
 
 ## Key works
 
 - **Long Commentaries** on the *Physics*, *Metaphysics*, *De Caelo*, and especially *De Anima* (mostly 1180s–90s) — the line-by-line exegeses through which Latin Europe read Aristotle; the *De Anima* commentary contains the unity-of-intellect doctrine.
-- **Decisive Treatise** (c. 1179–80) — the legal ruling that philosophy is obligatory for the qualified and that Scripture and demonstration harmonise.
-- **Incoherence of the Incoherence** (c. 1180) — defence of philosophy and natural causation against al-Ghazālī.
+- **Decisive Treatise** (c. 1179–80) — the legal ruling that philosophy is obligatory for the qualified and that Scripture and demonstration harmonize.
+- **Incoherence of the Incoherence** (c. 1180) — defense of philosophy and natural causation against al-Ghazālī.
 - **The Distinguished Jurist's Primer** (*Bidāyat al-Mujtahid*) — a comparative-law classic still read in Mālikī jurisprudence; a reminder that he was a working chief judge, not only a philosopher.
 
 ## Contributions
 
-Averroes created the medieval Aristotle commentary as a rigorous discipline, recalibrated the tradition away from Avicenna's Neoplatonised reading, and posed — in the unity of the intellect and the harmony treatise — the questions about mind, immortality, and faith/reason that Latin scholasticism organised itself around answering. His insistence that truth is one, with public and philosophical registers of discourse, remains a landmark in the philosophy of religion. His commentary on Plato's *Republic* — his principal work of political philosophy, whose Arabic original is lost and which survives in Hebrew — extends his range well beyond commentary on Aristotle.
+Averroes created the medieval Aristotle commentary as a rigorous discipline, recalibrated the tradition away from Avicenna's Neoplatonised reading, and posed — in the unity of the intellect and the harmony treatise — the questions about mind, immortality, and faith/reason that Latin scholasticism organized itself around answering. His insistence that truth is one, with public and philosophical registers of discourse, remains a landmark in the philosophy of religion. His commentary on Plato's *Republic* — his principal work of political philosophy, whose Arabic original is lost and which survives in Hebrew — extends his range well beyond commentary on Aristotle.
 
 ## Impact and legacy
 
@@ -56,13 +56,13 @@ In Paris and the other universities, "the Commentator" was cited as routinely as
 
 ## Criticisms and debates
 
-The unity-of-intellect doctrine is the eternal flashpoint: Aquinas argued it makes *this man thinks* inexplicable and destroys responsibility and immortality; modern scholars debate whether Averroes changed his mind across his career (early/middle commentaries are more Avicennan) and how the conjunction theory is even supposed to work. The "double truth" question persists as a labelling debate — the consensus now is that it misdescribes Averroes himself, fitting some Latin followers better. His harmony thesis is pressed from both sides: theologians found it subordinated Scripture to philosophy; philosophers note the elitism of reserving interpretation to a demonstrative class. Historians also reconsider his disgrace — theology, court faction, and caliphal politics are all in play.
+The unity-of-intellect doctrine is the eternal flashpoint: Aquinas argued it makes *this man thinks* inexplicable and destroys responsibility and immortality; modern scholars debate whether Averroes changed his mind across his career (early/middle commentaries are more Avicennan) and how the conjunction theory is even supposed to work. The "double truth" question persists as a labeling debate — the consensus now is that it misdescribes Averroes himself, fitting some Latin followers better. His harmony thesis is pressed from both sides: theologians found it subordinated Scripture to philosophy; philosophers note the elitism of reserving interpretation to a demonstrative class. Historians also reconsider his disgrace — theology, court faction, and caliphal politics are all in play.
 
 ## Misreadings to avoid
 
 - That Averroes taught "double truth": he taught the opposite — one truth, two registers of expression, and allegorical interpretation where needed.
 - That he was a marginal heretic in his own society: he was chief judge of Córdoba and court physician; the disgrace came late and was reversed.
-- That his commentaries are passive summaries: they argue, correct, and systematise — the Latin Aristotle is partly his construction.
+- That his commentaries are passive summaries: they argue, correct, and systematize — the Latin Aristotle is partly his construction.
 - That he single-handedly "saved" Aristotle for Europe: the Arabic tradition and the translators of Toledo and Sicily share the story; his distinction is the commentary's authority.
 
 ## What to read first

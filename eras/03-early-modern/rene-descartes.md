@@ -15,7 +15,7 @@
 
 René Descartes was born on 31 March 1596 in La Haye en Touraine, France, into a family of minor nobility. His mother died when he was an infant. At about ten he was sent to the Jesuit college of La Flèche, where he received a thorough scholastic education in Aristotelian philosophy, mathematics, and classical languages — the very tradition he would later set out to replace. He often said it left him embarrassed by how little of it seemed certain.
 
-After a law degree at Poitiers in 1616, Descartes did not settle into a profession. He travelled, served briefly as a gentleman volunteer in armies in the Netherlands and Germany, and pursued mathematics and natural philosophy. A famous episode from November 1619, when he spent a day shut in a stove-heated room in Germany, became in his own telling the moment he conceived a unified method for all knowledge.
+After a law degree at Poitiers in 1616, Descartes did not settle into a profession. He traveled, served briefly as a gentleman volunteer in armies in the Netherlands and Germany, and pursued mathematics and natural philosophy. A famous episode from November 1619, when he spent a day shut in a stove-heated room in Germany, became in his own telling the moment he conceived a unified method for all knowledge.
 
 From 1628 he lived mostly in the Netherlands, moving frequently and guarding his privacy. The Dutch Republic offered relative freedom to publish, though not complete safety. He worked across analytic geometry, optics, meteorology, physiology, and philosophy, and corresponded indefatigably — with Marin Mersenne as his hub.
 
@@ -23,7 +23,7 @@ That caution shaped his career. He had completed *Le Monde* when news reached hi
 
 The *Meditations on First Philosophy* (1641) was written in Latin for a learned audience and published with Objections by contemporaries including Thomas Hobbes, Pierre Gassendi, and Antoine Arnauld, together with Descartes's Replies — a format that is part of the philosophy, staging the system under attack. The *Principles of Philosophy* (1644) recast his metaphysics and physics as a textbook to replace scholastic ones.
 
-Controversy followed anyway. Orthodox Calvinist theologians at Utrecht and Leiden accused him of atheism, forcing public defences. His correspondence with Princess Elisabeth of Bohemia, beginning in 1643, is among the finest exchanges of the century: she was not a pupil but a sharp critic, as the interaction problem below shows.
+Controversy followed anyway. Orthodox Calvinist theologians at Utrecht and Leiden accused him of atheism, forcing public defenses. His correspondence with Princess Elisabeth of Bohemia, beginning in 1643, is among the finest exchanges of the century: she was not a pupil but a sharp critic, as the interaction problem below shows.
 
 In 1649, reluctantly, Descartes accepted Queen Christina of Sweden's invitation to Stockholm. The winter, philosophy lessons at five in the morning in a cold library, and court life took their toll. He contracted pneumonia and died in Stockholm on 11 February 1650, aged 53. *Le Monde*, the early *Rules for the Direction of the Mind*, and his correspondence appeared only after his death.
 
@@ -31,9 +31,9 @@ In 1649, reluctantly, Descartes accepted Queen Christina of Sweden's invitation 
 
 ### Methodic doubt
 
-Descartes begins by demolishing in order to rebuild. If a belief can be doubted, he will treat it, temporarily and methodically, as if false — not because he thinks everything is false, but because he wants a foundation that cannot be shaken. The doubt proceeds in widening waves. First, the senses: they sometimes deceive us, about distant towers or sticks bent in water, so why trust them completely? Second, the dream argument: there are no certain marks by which waking experience can be distinguished, while it is happening, from a vivid dream. Third, the deceiving demon: Descartes supposes a malicious demon of utmost power bent on deceiving him, so that even apparently self-evident judgements — that two and three make five — might be systematically false.
+Descartes begins by demolishing in order to rebuild. If a belief can be doubted, he will treat it, temporarily and methodically, as if false — not because he thinks everything is false, but because he wants a foundation that cannot be shaken. The doubt proceeds in widening waves. First, the senses: they sometimes deceive us, about distant towers or sticks bent in water, so why trust them completely? Second, the dream argument: there are no certain marks by which waking experience can be distinguished, while it is happening, from a vivid dream. Third, the deceiving demon: Descartes supposes a malicious demon of utmost power bent on deceiving him, so that even apparently self-evident judgments — that two and three make five — might be systematically false.
 
-The image is architectural: a builder who suspects the foundations does not patch the walls; he clears the site. Methodic doubt is a tool, not a destination. Descartes is not a sceptic concluding that nothing can be known; he is looking for the one thing the demon cannot take away. The tension is deliberate: the doubt is so powerful it threatens any escape route, including logic itself. His answer depends on the next two ideas — and on God, where critics press hardest.
+The image is architectural: a builder who suspects the foundations does not patch the walls; he clears the site. Methodic doubt is a tool, not a destination. Descartes is not a skeptic concluding that nothing can be known; he is looking for the one thing the demon cannot take away. The tension is deliberate: the doubt is so powerful it threatens any escape route, including logic itself. His answer depends on the next two ideas — and on God, where critics press hardest.
 
 ### The cogito
 
@@ -63,7 +63,7 @@ Princess Elisabeth put this in 1643 with unmatched clarity. One body moves anoth
 
 Once matter is defined as extension alone, nature contains no hidden qualities or purposes of the scholastic kind — only size, shape, position, and motion, governed by laws God maintains. Animals are elaborate machines; the human body, apart from the rational soul, is a machine too. To explain planetary motion without empty space (a plenum, since extension *is* matter), Descartes proposed **vortices**: vast whirlpools of subtle matter carrying the planets around the sun as straws are carried in an eddy.
 
-The vortex theory was ingenious and, within decades, superseded: Newton's *Principia* (1687) showed its predictions failed where gravitation succeeded. But the deeper mechanistic programme — explain nature mathematically, without final causes — won even as his specific physics lost.
+The vortex theory was ingenious and, within decades, superseded: Newton's *Principia* (1687) showed its predictions failed where gravitation succeeded. But the deeper mechanistic program — explain nature mathematically, without final causes — won even as his specific physics lost.
 
 ## Signature arguments
 
@@ -87,7 +87,7 @@ Therefore, an infinite and perfect being — God — exists, and, like a craftsm
 
 **Objection.** The idea of the infinite could be built from the finite: negate our limits, or magnify finite perfections indefinitely, and no infinite cause is needed. The causal adequacy principle, moreover, looks like scholastic baggage — a hierarchy of degrees of reality that a modern reader need not accept.
 
-**Reply.** For Descartes the idea of the infinite is positive and prior to that of the finite, not constructed by negation: we recognise our own finitude and imperfection only against infinity and perfection already conceived. And some causal principle, he would add, is needed by any explanation, since an effect cannot contain reality that came from nowhere at all. Modern readers often grant the ingenuity while rejecting the machinery — the distinction between an idea's represented ("objective") reality and its cause's ("formal") reality does much of the work, and it is precisely that machinery the objection targets.
+**Reply.** For Descartes the idea of the infinite is positive and prior to that of the finite, not constructed by negation: we recognize our own finitude and imperfection only against infinity and perfection already conceived. And some causal principle, he would add, is needed by any explanation, since an effect cannot contain reality that came from nowhere at all. Modern readers often grant the ingenuity while rejecting the machinery — the distinction between an idea's represented ("objective") reality and its cause's ("formal") reality does much of the work, and it is precisely that machinery the objection targets.
 
 Fuller reconstructions are in the study guide: [*Meditations on First Philosophy*](../../study/descartes-meditations.md).
 
@@ -122,7 +122,7 @@ Beyond the circle and the interaction problem: does the cogito prove too little 
 
 ## Misreadings to avoid
 
-- **"Descartes was a sceptic."** No: doubt is his tool for defeating scepticism, not his conclusion.
+- **"Descartes was a sceptic."** No: doubt is his tool for defeating skepticism, not his conclusion.
 - **"The cogito is a syllogism."** Descartes explicitly denied this and called it an immediate intuition performed in thinking; whether his denial settles the matter is still debated by scholars (his own texts also use "ergo" formulations).
 - **"Dualism means mind and body never interact."** He insisted they form a union and interact constantly; the problem is explaining *how*.
 - **"Cartesian means cold and disembodied."** *The Passions of the Soul* is a rich, embodied account of emotion.
@@ -140,7 +140,7 @@ Beyond the circle and the interaction problem: does the cogito prove too little 
 
 1. Reconstruct the cogito as an immediate intuition rather than a syllogism. What exactly does it secure — a thinker in the act of thinking — and what does it not yet secure about body, duration, or an enduring soul?
 2. Press Lichtenberg's objection: the evidence shows only that thinking is occurring, not an “I” who thinks. Give Descartes's first-person reply, then judge whether even the modest “I” is entitled.
-3. State Arnauld's Cartesian-circle charge premise by premise: God is proved by clear and distinct ideas, which God then guarantees. Assess the defence distinguishing present intuitions from remembered ones — does it save, or shrink, the guarantee?
+3. State Arnauld's Cartesian-circle charge premise by premise: God is proved by clear and distinct ideas, which God then guarantees. Assess the defense distinguishing present intuitions from remembered ones — does it save, or shrink, the guarantee?
 4. Apply Princess Elisabeth's interaction objection to Descartes's pineal-gland proposal, then compare one successor solution — Spinoza's parallelism or Leibniz's harmony: which problem does each remove, and at what cost?
 
 ---

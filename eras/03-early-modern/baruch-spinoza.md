@@ -27,7 +27,7 @@ Spinoza died on 21 February 1677 in The Hague, aged 44, probably of a lung condi
 
 ### Substance monism: Deus sive Natura
 
-The *Ethics* rests on one claim: there is exactly **one substance**. A substance, following but radicalising Descartes, is what exists in itself and is conceived through itself — it needs nothing else to exist or to be understood. Spinoza argues that no two substances can share an attribute, that a substance cannot be produced by another, and that existence belongs to a substance's nature. The conclusion: substance is infinite, self-caused, and necessarily existing — and there can be only one. That substance he calls **God, or Nature**: *Deus sive Natura*.
+The *Ethics* rests on one claim: there is exactly **one substance**. A substance, following but radicalizing Descartes, is what exists in itself and is conceived through itself — it needs nothing else to exist or to be understood. Spinoza argues that no two substances can share an attribute, that a substance cannot be produced by another, and that existence belongs to a substance's nature. The conclusion: substance is infinite, self-caused, and necessarily existing — and there can be only one. That substance he calls **God, or Nature**: *Deus sive Natura*.
 
 God is not a kingly person outside the world, creating it at a moment and intervening thereafter. God *is* the single, infinite, eternal system of reality, of which everything else is a part or aspect. Spinoza distinguishes *Natura naturans* — Nature naturing, God as active, self-caused essence — from *Natura naturata* — Nature natured, the totality of things following from that essence. Creation is not an event but an eternal relation: the world flows from God's nature as properties flow from a triangle's essence, timelessly and necessarily. There is no "outside" to nature from which miracles or purposes could enter. Whether this makes Spinoza a pantheist or an atheist is a live scholarly debate, taken up below; the system itself is clear that nothing exists except God/Nature and its modifications.
 
@@ -49,7 +49,7 @@ Spinoza's example, in a letter, is a stone thrown through the air which, if cons
 
 The Appendix to Part I of the *Ethics* is the era's most accessible demolition of **teleology** — explanation by purposes. Humans, born ignorant of causes but conscious of their appetites, imagine nature shares their structure: eyes are *for* seeing, rain *for* crops, gods *for* rewarding and punishing. "All final causes are nothing but human fictions." When a tile falls and kills a passer-by, people ask what the death was *for*; finding no purpose, they retreat to "the will of God — the sanctuary of ignorance."
 
-The argument is not merely that particular purposes are false. Purposive explanation inverts reality: nature does not act for ends; ends are projections of desire, and doctrines of providence, reward, and punishment rest on that projection. The replacement is explanation by efficient causes alone — the programme of modern science, stated as metaphysics. A felt tension — does Spinoza's own language of striving smuggle purposes back in? — leads to his psychology.
+The argument is not merely that particular purposes are false. Purposive explanation inverts reality: nature does not act for ends; ends are projections of desire, and doctrines of providence, reward, and punishment rest on that projection. The replacement is explanation by efficient causes alone — the program of modern science, stated as metaphysics. A felt tension — does Spinoza's own language of striving smuggle purposes back in? — leads to his psychology.
 
 ### Conatus and the affects
 
@@ -83,7 +83,7 @@ Therefore, no substance other than God can exist, since any other would have to 
 3. In human beings, striving of which we are conscious is appetite or desire, the primary affect from which our other drives follow.
 Therefore, striving, not reason or uncaused free will, is fundamental to human nature, and what is good for us is what aids our striving and increases our power of acting.
 
-**Objection.** Things seem sometimes to destroy themselves — in suicide or self-sacrifice, for example — which looks like the opposite of persevering. And "striving" may merely redescribe behaviour we already observe rather than explain it, since anything a thing does can be counted as its striving.
+**Objection.** Things seem sometimes to destroy themselves — in suicide or self-sacrifice, for example — which looks like the opposite of persevering. And "striving" may merely redescribe behavior we already observe rather than explain it, since anything a thing does can be counted as its striving.
 
 **Reply.** For Spinoza a thing can be overcome only by external causes stronger than its *conatus*. Suicide, on this account, is the external world overpowering a person's striving, never the person's essence itself willing its own destruction; self-destruction under compulsion or delusion is still externally driven. Critics may find that reply too convenient — every apparent counterexample is reassigned to external causes — and the charge is worth weighing. The doctrine nonetheless does real explanatory work elsewhere in the system, grounding the affects and the definitions of good and evil in Part IV.
 
@@ -93,7 +93,7 @@ Fuller reconstructions of the monism argument are in the study guide: [*Ethics* 
 
 - *Short Treatise on God, Man, and His Well-Being* (c. 1660; unpublished until the 19th century) — The earliest surviving statement of his system, written in Dutch for his circle.
 - *Principles of Descartes' Philosophy* (1663) — Descartes in geometrical order; the only book under his name in his lifetime.
-- *Theological-Political Treatise* (1670) — Anonymous; founding text of biblical criticism and defence of freedom of thought.
+- *Theological-Political Treatise* (1670) — Anonymous; founding text of biblical criticism and defense of freedom of thought.
 - *Treatise on the Emendation of the Intellect* (unfinished; posthumous, 1677) — His methodological introduction: how the intellect purifies itself and learns to form adequate ideas.
 - *Ethics, Demonstrated in Geometrical Order* (posthumous, 1677) — The masterwork: five parts, from God to freedom, in geometrical form.
 - *Political Treatise* (unfinished, posthumous, 1677) — A realistic theory of the state built on power and affect.
@@ -125,14 +125,14 @@ Other debates: whether necessitarianism can accommodate an ethics of striving �
 
 - **"Spinoza was simply an atheist" / "simply a pantheist."** Both are contested scholarly positions, not settled facts; his God is impersonal and non-purposive, and his attitude to that God is love and reverence.
 - **"Spinoza denied freedom, full stop."** He denied free will as uncaused choice and *redefined* freedom as rational self-determination through understanding necessity.
-- **"The Ethics is cold geometry without feeling."** Its centre is a passionate psychology of joy, love, and liberation; the geometrical form claims certainty, not absence of feeling.
+- **"The Ethics is cold geometry without feeling."** Its center is a passionate psychology of joy, love, and liberation; the geometrical form claims certainty, not absence of feeling.
 - **"God or Nature means he worshipped trees and stones."** Modes are not God considered as substance; the slogan identifies God with nature's infinite, self-caused order, not with any collection of objects.
 
 ## What to read first
 
 1. *Ethics* Part I, with a guided commentary (Beth Lord's or Clare Carlisle's), and the Appendix to Part I in full — the demolition of teleology in plain prose.
 2. *Ethics* Parts III–IV selections — conatus, the affects, and human bondage.
-3. *Theological-Political Treatise*, chapters 16–20 — political philosophy and the defence of freedom to philosophise.
+3. *Theological-Political Treatise*, chapters 16–20 — political philosophy and the defense of freedom to philosophise.
 4. *Ethics* Part II and Part V, with commentary — parallelism first, then freedom and the intellectual love of God.
 
 **Study guide:** [*Ethics* Part I — proposition-by-proposition guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/spinoza-ethics-part1.md).
@@ -142,7 +142,7 @@ Other debates: whether necessitarianism can accommodate an ethics of striving �
 1. Reconstruct the substance-monism argument of *Ethics* I from its definitions: a substance is in itself and conceived through itself; substances cannot share an attribute; God has infinite attributes. Which premise could Leibniz reject, and what alternative account of substance would he owe?
 2. Press the objection that monism erases real distinctions and makes individual things illusory. Rebuild Spinoza's reply that modes are real affections of the one substance, then assess whether modal distinction is distinction enough.
 3. Reconstruct the *conatus* argument (*Ethics* III, propositions 6–7), then test it against suicide or self-sacrifice. Does assigning self-destruction to external causes answer the counterexample, or make the doctrine unfalsifiable?
-4. Apply the affects to a fresh case — say, anger at a colleague: analyse it as a passive affect, show what changes when adequate ideas of its causes form, and explain why that counts as greater freedom although the outcome remains necessitated. Compare Descartes on mastering the passions.
+4. Apply the affects to a fresh case — say, anger at a colleague: analyze it as a passive affect, show what changes when adequate ideas of its causes form, and explain why that counts as greater freedom although the outcome remains necessitated. Compare Descartes on mastering the passions.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

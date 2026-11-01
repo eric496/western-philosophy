@@ -25,7 +25,7 @@ Frege's personal life darkened alongside the professional blow. His wife Margare
 
 ### The Begriffsschrift and predicate logic
 
-Aristotelian logic, essentially unchanged for two thousand years, could analyse "Socrates is mortal" but choked on relational and multiply general statements: "every farmer who owns a donkey beats it," or "for every number there is a larger one." Frege's breakthrough was to import the mathematical idea of a **function** into logic. Instead of subject and predicate, a proposition is analysed as a function taking arguments: "x beats y" is a two-place relation awaiting saturation by names. Onto this he built the **quantifier** — a notation for "for all x" and "for some x" that nests inside itself, so statements with *scope* (the two readings of "everyone loves someone") can finally be written exactly. The result is modern predicate logic, the working tool of philosophy, mathematics, linguistics, and computer science. Almost everything in it is still Frege's design, though his two-dimensional notation was abandoned for the linear notation of Peano and Russell.
+Aristotelian logic, essentially unchanged for two thousand years, could analyze "Socrates is mortal" but choked on relational and multiply general statements: "every farmer who owns a donkey beats it," or "for every number there is a larger one." Frege's breakthrough was to import the mathematical idea of a **function** into logic. Instead of subject and predicate, a proposition is analyzed as a function taking arguments: "x beats y" is a two-place relation awaiting saturation by names. Onto this he built the **quantifier** — a notation for "for all x" and "for some x" that nests inside itself, so statements with *scope* (the two readings of "everyone loves someone") can finally be written exactly. The result is modern predicate logic, the working tool of philosophy, mathematics, linguistics, and computer science. Almost everything in it is still Frege's design, though his two-dimensional notation was abandoned for the linear notation of Peano and Russell.
 
 ### Sense and reference
 
@@ -33,7 +33,7 @@ In "On Sense and Reference" (1892) Frege asks why "the Morning Star is the Eveni
 
 ### Logicism and the Foundations of Arithmetic
 
-Frege's logicism holds that arithmetic is not synthetic knowledge grounded in Kantian intuition, nor empirical generalisation (Mill), nor a description of mental processes, but **analytic**: derivable from logic plus definitions. The *Foundations* (1884) clears the ground with three methodological principles — separate the psychological from the logical, ask for the meaning of a word only in the context of a proposition (the **context principle**), and keep concept and object distinct — and then defines the number belonging to a concept as the extension of "equinumerous to that concept": two concepts have the same number when their instances can be paired one-to-one (the insight now called **Hume's Principle**). Zero is the number of the concept "not identical with itself"; each successor is defined in turn, and the infinity of the number series becomes a theorem rather than an intuition. The *Grundgesetze* then undertook the formal derivation. Modern "neo-Fregean" logicists have shown that Hume's Principle, added to second-order logic, suffices to derive the Peano axioms — a result known as **Frege's Theorem** — so the programme, minus Law V, has been partly revived.
+Frege's logicism holds that arithmetic is not synthetic knowledge grounded in Kantian intuition, nor empirical generalization (Mill), nor a description of mental processes, but **analytic**: derivable from logic plus definitions. The *Foundations* (1884) clears the ground with three methodological principles — separate the psychological from the logical, ask for the meaning of a word only in the context of a proposition (the **context principle**), and keep concept and object distinct — and then defines the number belonging to a concept as the extension of "equinumerous to that concept": two concepts have the same number when their instances can be paired one-to-one (the insight now called **Hume's Principle**). Zero is the number of the concept "not identical with itself"; each successor is defined in turn, and the infinity of the number series becomes a theorem rather than an intuition. The *Grundgesetze* then undertook the formal derivation. Modern "neo-Fregean" logicists have shown that Hume's Principle, added to second-order logic, suffices to derive the Peano axioms — a result known as **Frege's Theorem** — so the program, minus Law V, has been partly revived.
 
 ### Russell's paradox and Frege's response
 
@@ -45,7 +45,7 @@ Frege's logicism holds that arithmetic is not synthetic knowledge grounded in Ka
 - *The Foundations of Arithmetic* (1884) — The prose masterpiece: anti-psychologism, the context principle, and the logicist definition of number. The best entry point.
 - "On Sense and Reference" (1892) — Morning Star / Evening Star; the sense–reference distinction and a theory of indirect discourse.
 - *Basic Laws of Arithmetic*, vols. I–II (1893, 1903) — The formal logicist derivation, with the famous appendix on Russell's paradox.
-- *Philosophical Writings* (posthumous selections) — Includes "The Thought" (1918), his late defence of objective, timeless thoughts — a "third realm" neither physical nor mental.
+- *Philosophical Writings* (posthumous selections) — Includes "The Thought" (1918), his late defense of objective, timeless thoughts — a "third realm" neither physical nor mental.
 
 ## Contributions
 
@@ -80,7 +80,7 @@ Frege's influence ran through conduits: Russell publicised him; Wittgenstein abs
 
 1. Reconstruct Frege's solution to the puzzle of identity: why is "the Morning Star is the Evening Star" a discovery while "the Morning Star is the Morning Star" is trivial, when both are true? Which work is done by sense, and which by reference?
 2. Russell's paradox contradicts Basic Law V. Reconstruct the contradiction, then assess the neo-Fregean reply that Hume's Principle alone can carry the derivation of arithmetic: has logicism been rescued, or has the assumption just been relocated?
-3. Frege rejects both Kant's synthetic a priori arithmetic and Mill's empirical generalisations. Reconstruct his case against each. Which opponent is more directly hit by the context principle, and why?
+3. Frege rejects both Kant's synthetic a priori arithmetic and Mill's empirical generalizations. Reconstruct his case against each. Which opponent is more directly hit by the context principle, and why?
 4. A headline reads: "The author of the next bestselling novel is already rich." Give the Fregean analysis: the sense and (if any) reference of the description, and whether the sentence can express a true thought before any such novel exists.
 
 ---

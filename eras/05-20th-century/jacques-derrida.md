@@ -19,19 +19,19 @@ After the war he prepared for the École Normale Supérieure, failing the entran
 
 1967 brought three books — *Of Grammatology*, *Writing and Difference*, and *Speech and Phenomena* — introducing deconstruction. A 1966 Johns Hopkins lecture had already made him prominent in the US, where his influence on literary studies long outpaced his French reception. His 1963 critique of Foucault's reading of Descartes on madness, and Foucault's fierce 1972 reply, showed the method at its most forensic: three pages of Descartes carrying an argument about reason itself.
 
-Derrida was also an institution-builder: he campaigned through GREPH against cuts to school philosophy teaching, co-founded the Collège International de Philosophie (1983), and taught regularly in America, notably at Yale — where a "Yale School" formed around him and Paul de Man — and at UC Irvine, which holds his archive. Later work turned to ethics and politics: hospitality, forgiveness, law and justice, animal ethics, and *Specters of Marx* (1993). A contested 1992 Cambridge honorary doctorate — opposed in a public letter, then awarded — crystallised the analytic–continental divide. He died in Paris in October 2004 of pancreatic cancer.
+Derrida was also an institution-builder: he campaigned through GREPH against cuts to school philosophy teaching, co-founded the Collège International de Philosophie (1983), and taught regularly in America, notably at Yale — where a "Yale School" formed around him and Paul de Man — and at UC Irvine, which holds his archive. Later work turned to ethics and politics: hospitality, forgiveness, law and justice, animal ethics, and *Specters of Marx* (1993). A contested 1992 Cambridge honorary doctorate — opposed in a public letter, then awarded — crystallized the analytic–continental divide. He died in Paris in October 2004 of pancreatic cancer.
 
 ## Major theories and concepts
 
 ### Logocentrism and the metaphysics of presence
 
-Derrida argued Western philosophy is organised by a longing for *presence*: meaning or selfhood fully present to itself, without mediation. Privileging speech as presence's home is *logocentrism*; the broader pattern is the *metaphysics of presence*.
+Derrida argued Western philosophy is organized by a longing for *presence*: meaning or selfhood fully present to itself, without mediation. Privileging speech as presence's home is *logocentrism*; the broader pattern is the *metaphysics of presence*.
 
-Plato's *Phaedrus* is his classic exhibit: Socrates ranks speech above writing because the speaker is present to correct misunderstanding, while a text "rolls around everywhere," defenceless in its author's absence. Derrida's counter-move is to show that writing's supposed flaws — working in the author's absence, repeatable in new contexts, escaping intended meaning — are already features of speech. A spoken sentence also works when the speaker leaves and can be quoted against intent. Writing in this generalised sense is not a fallen copy but a condition of all language.
+Plato's *Phaedrus* is his classic exhibit: Socrates ranks speech above writing because the speaker is present to correct misunderstanding, while a text "rolls around everywhere," defenseless in its author's absence. Derrida's counter-move is to show that writing's supposed flaws — working in the author's absence, repeatable in new contexts, escaping intended meaning — are already features of speech. A spoken sentence also works when the speaker leaves and can be quoted against intent. Writing in this generalized sense is not a fallen copy but a condition of all language.
 
 ### Binary oppositions and deconstruction
 
-Texts organise themselves through *binary oppositions*: speech/writing, presence/absence, nature/culture. One term is presented as original, the other as secondary. *Deconstruction* is a double reading: first reconstruct the opposition faithfully; then show, from evidence inside the text, that the privileged term depends on the subordinate one, so the hierarchy cannot stay stable.
+Texts organize themselves through *binary oppositions*: speech/writing, presence/absence, nature/culture. One term is presented as original, the other as secondary. *Deconstruction* is a double reading: first reconstruct the opposition faithfully; then show, from evidence inside the text, that the privileged term depends on the subordinate one, so the hierarchy cannot stay stable.
 
 His reading of Rousseau is the textbook case. Rousseau condemns writing as a dangerous "supplement" to natural speech. But a supplement both adds to something supposedly complete and replaces something supposedly lacking. If speech needs supplementing, it was never self-complete: the lesser term conditions the greater. The result is not a reversed hierarchy but *undecidability* — at key points (aporias) the text sustains two incompatible readings no internal rule settles. A contract shows the stakes: it aims to fix meaning by present intentions, yet works because clauses are invoked years later, in unforeseen disputes, by people the signers never met. Deconstruction is therefore not destruction, nor "a text means anything": it is painstaking close reading, beginning in fidelity.
 
@@ -47,7 +47,7 @@ The argument follows Saussure: in language there are only differences. "Cat" mea
 
 ### Justice, hospitality, and the later ethics
 
-From the 1980s Derrida centred aporias in ethics and politics. Law (*droit*) is deconstructible, but *justice*, he argued in "Force of Law" (1989–90), is not: justice is the undeconstructible demand that makes deconstructing law worthwhile, and every legal decision passes through an undecidable moment no rule fully justifies. Similarly, unconditional hospitality — welcoming the stranger without demanding identity or reciprocity — cannot be practised purely, yet conditional, legal hospitality both needs and betrays it. These are not policy programmes; they show why ethical decisions remain risky decisions, not calculations.
+From the 1980s Derrida centered aporias in ethics and politics. Law (*droit*) is deconstructible, but *justice*, he argued in "Force of Law" (1989–90), is not: justice is the undeconstructible demand that makes deconstructing law worthwhile, and every legal decision passes through an undecidable moment no rule fully justifies. Similarly, unconditional hospitality — welcoming the stranger without demanding identity or reciprocity — cannot be practiced purely, yet conditional, legal hospitality both needs and betrays it. These are not policy programs; they show why ethical decisions remain risky decisions, not calculations.
 
 ## Key works
 
@@ -70,14 +70,14 @@ His largest early impact was in literary studies, via the Yale School and Gayatr
 
 ## Criticisms and debates
 
-Style: John Searle's sharp 1977 exchange with Derrida over J. L. Austin charged him with misreading and needless obscurity; defenders reply that his early work is demonstrably precise and the difficulty tracks real difficulty. The dispute, partly about what prose owes readers, remains unsettled. Relativism: scholars reject the "anything goes" charge, pointing to his text-bound method — but popular use of "deconstruct" to mean "debunk" keeps the misunderstanding alive. Politics: Marxist and liberal critics long called deconstruction evasive; his late writings answered in analysis rather than programme, satisfying some, not others. The Paul de Man affair — the 1987 discovery of de Man's wartime journalism for a collaborationist newspaper — forced a debate in which Derrida's contextual defence of his friend was praised as rigour by some, judged special pleading by others.
+Style: John Searle's sharp 1977 exchange with Derrida over J. L. Austin charged him with misreading and needless obscurity; defenders reply that his early work is demonstrably precise and the difficulty tracks real difficulty. The dispute, partly about what prose owes readers, remains unsettled. Relativism: scholars reject the "anything goes" charge, pointing to his text-bound method — but popular use of "deconstruct" to mean "debunk" keeps the misunderstanding alive. Politics: Marxist and liberal critics long called deconstruction evasive; his late writings answered in analysis rather than program, satisfying some, not others. The Paul de Man affair — the 1987 discovery of de Man's wartime journalism for a collaborationist newspaper — forced a debate in which Derrida's contextual defense of his friend was praised as rigor by some, judged special pleading by others.
 
 ## Misreadings to avoid
 
 - Deconstruction is **not** destruction or debunking; it begins with fidelity to the text.
 - It does **not** mean texts mean whatever a reader likes. Undecidability is a specific, argued finding about specific points — the opposite of free association.
 - "There is nothing outside the text" does **not** deny the world; see above.
-- Derrida was **not** a relativist or nihilist; his late work centres justice and responsibility.
+- Derrida was **not** a relativist or nihilist; his late work centers justice and responsibility.
 
 ## What to read first
 

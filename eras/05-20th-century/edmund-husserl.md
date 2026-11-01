@@ -8,7 +8,7 @@
 - **School/tradition:** Founder of phenomenology
 - **Known for:** Describing experience exactly as it is lived — “back to the things themselves” — before explaining it away with science or theory
 
-**Responds to:** [Brentano](../04-19th-century/franz-brentano.md) · **Answered by:** [Heidegger](martin-heidegger.md), [Merleau-Ponty](maurice-merleau-ponty.md), [Levinas](emmanuel-levinas.md)
+**Responds to:** [Brentano](../04-19th-century/franz-brentano.md) · **Answered by:** [Heidegger](martin-heidegger.md), [Merleau-Ponty](maurice-merleau-ponty.md), [Levinas](emmanuel-levinas.md), [Jaspers](karl-jaspers.md), [Ricoeur](paul-ricoeur.md)
 
 ## Biography
 
@@ -34,7 +34,7 @@ The tension is obvious: if philosophy studies objects only as they appear, does 
 
 ### The epoché and the phenomenological reduction
 
-How do you study appearance without smuggling in your usual assumptions? Husserl’s answer is the *epoché*, Greek for suspension. In ordinary life we live in the “natural attitude”: we assume the world exists independently and science explains it. The epoché does not deny any of that, as a sceptic might. It *brackets* it — puts it out of play — so we can describe only what is actually given in experience, and how.
+How do you study appearance without smuggling in your usual assumptions? Husserl’s answer is the *epoché*, Greek for suspension. In ordinary life we live in the “natural attitude”: we assume the world exists independently and science explains it. The epoché does not deny any of that, as a skeptic might. It *brackets* it — puts it out of play — so we can describe only what is actually given in experience, and how.
 
 Carried further, this becomes the phenomenological reduction: turning attention from the object to the act in which it is given. Husserl hoped such description would reveal *essences* — invariant structures any experience of that kind must have. Any perception of a physical thing, for example, shows one side while co-implying hidden sides, and appears in a temporal flow, never a frozen instant. His method for finding essences was imaginative variation: change an example in your mind until a feature can no longer be removed without the thing ceasing to be that kind of thing.
 
@@ -42,7 +42,7 @@ Critics inside phenomenology objected that the epoché is unperformable: Heidegg
 
 ### The life-world (Lebenswelt)
 
-In his final, unfinished work, the *Crisis of European Sciences*, Husserl turned to history. His charge was not that modern science is false, but that it has forgotten its own foundation. Since Galileo, science has replaced the world as we actually live in it with a mathematical idealisation, then treated the idealisation as the only reality.
+In his final, unfinished work, the *Crisis of European Sciences*, Husserl turned to history. His charge was not that modern science is false, but that it has forgotten its own foundation. Since Galileo, science has replaced the world as we actually live in it with a mathematical idealization, then treated the idealization as the only reality.
 
 Underneath every theory lies the *Lebenswelt*, the life-world: the pre-scientific, everyday world of tools, streets, and other people that scientists themselves inhabit outside the laboratory, and from which all abstractions draw their meaning. A physicist measuring length still relies on seeing pointers, trusting colleagues, and handling instruments. If philosophy forgets the life-world, science becomes a technique that no longer understands itself — Husserl’s diagnosis of a broader cultural “crisis” in 1930s Europe.
 
@@ -57,7 +57,7 @@ Underneath every theory lies the *Lebenswelt*, the life-world: the pre-scientifi
 
 ## Contributions
 
-Husserl handed down not doctrines but a method and distinctions that did not exist in usable form before him. Intentionality became a permanent topic in philosophy of mind; the distinction between an experience, its act, and its object-as-meant gave even his critics a shared vocabulary. His analyses of internal time-consciousness remain a reference point for cognitive science, and the life-world gave philosophy and sociology a way to ask what formal knowledge presupposes without denying that it works. Most originally, he showed that rigour in philosophy need not mean imitating physics: it could mean description that refuses to add anything not actually given in experience.
+Husserl handed down not doctrines but a method and distinctions that did not exist in usable form before him. Intentionality became a permanent topic in philosophy of mind; the distinction between an experience, its act, and its object-as-meant gave even his critics a shared vocabulary. His analyses of internal time-consciousness remain a reference point for cognitive science, and the life-world gave philosophy and sociology a way to ask what formal knowledge presupposes without denying that it works. Most originally, he showed that rigor in philosophy need not mean imitating physics: it could mean description that refuses to add anything not actually given in experience.
 
 ## Impact and legacy
 
@@ -71,7 +71,7 @@ Three debates recur. First, obscurity: Husserl published little, restarted const
 
 - Husserl was not a subjectivist saying “everything is just your perspective.” His project aimed at structures *any* experience must share.
 - The epoché is not Cartesian doubt and does not deny the external world. It suspends assumptions to describe appearance.
-- Do not start with the *Logical Investigations* expecting an introduction; it is a specialised polemic, not a primer.
+- Do not start with the *Logical Investigations* expecting an introduction; it is a specialized polemic, not a primer.
 - The life-world is not nostalgia for a pre-technical past. It names a foundation of meaning science presupposes even now.
 
 ## What to read first

@@ -9,19 +9,19 @@
 - **School/tradition:** Analytic philosophy — one of its founders, alongside Frege, Moore, and Wittgenstein.
 - **Known for:** Russell's paradox, the theory of descriptions, and logicism — and, to the wider public, a century of lucid, controversial writing on religion, war, education, and politics.
 
-**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md)
+**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md)
 
 ## Biography
 
 Bertrand Russell was born on 18 May 1872 into the British aristocracy; his grandfather, Lord John Russell, had twice been Prime Minister. His radical parents — advocates of birth control and atheists — died young (1874 and 1876), and Russell was raised at Pembroke Lodge by his grandmother, Countess Russell, in strict Victorian piety he experienced as lonely and oppressive. Educated at home, he found two rescues: Euclid, discovered at eleven and experienced as dazzling as first love, and the secret loss of his religious faith in adolescence, recorded in a journal in Greek letters to hide it.
 
-At Trinity College, Cambridge, from 1890, Russell found his intellectual home, took first-class honours in mathematics and the Moral Sciences, and fell in with G. E. Moore. With Moore he led the revolt against British Idealism (Bradley, McTaggart), which held reality is a single Absolute. Russell's revolt was pluralist and realist: the world consists of many independent things, knowable piece by piece, and logic is the instrument for understanding its structure — a founding moment of analytic philosophy.
+At Trinity College, Cambridge, from 1890, Russell found his intellectual home, took first-class honors in mathematics and the Moral Sciences, and fell in with G. E. Moore. With Moore he led the revolt against British Idealism (Bradley, McTaggart), which held reality is a single Absolute. Russell's revolt was pluralist and realist: the world consists of many independent things, knowable piece by piece, and logic is the instrument for understanding its structure — a founding moment of analytic philosophy.
 
 The decade after 1900 brought extraordinary technical achievement, driven by the attempt to show that mathematics rests on logic alone. In 1901 he discovered the paradox that bears his name, which undermined Gottlob Frege's system just as Frege was completing it. *The Principles of Mathematics* appeared in 1903. Then came "On Denoting" (1905), his most famous short paper, and the monumental *Principia Mathematica* (1910, 1912, 1913), written with Alfred North Whitehead — three vast volumes deriving mathematics from logical axioms, so austere that the proof that 1 + 1 = 2 arrives hundreds of pages in, with the dry comment that "the above proposition is occasionally useful."
 
 Russell married four times (Alys Pearsall Smith, 1894; Dora Black, 1921, with whom he ran a school; Patricia Spence, 1936; Edith Finch, 1952). He stood unsuccessfully for Parliament as a women's suffrage candidate in 1907. Opposition to the First World War cost him his Trinity lectureship in 1916, and in 1918 he was sentenced to six months in Brixton Prison for a pacifist article, serving about four months of it (May–September) — composing the *Introduction to Mathematical Philosophy* there.
 
-Between the wars he became a famous public intellectual — books on education, marriage, religion, and politics, and lecture tours of America and China. In 1940 his appointment at the City College of New York was revoked by a court after a campaign against his views on sexual morality — a cause célèbre for academic freedom. He returned to Trinity in 1944 and to public honour: the Order of Merit in 1949 and the Nobel Prize in Literature in 1950. His most commercially successful book, *A History of Western Philosophy* (1945), is also among his most disputed by scholars.
+Between the wars he became a famous public intellectual — books on education, marriage, religion, and politics, and lecture tours of America and China. In 1940 his appointment at the City College of New York was revoked by a court after a campaign against his views on sexual morality — a cause célèbre for academic freedom. He returned to Trinity in 1944 and to public honor: the Order of Merit in 1949 and the Nobel Prize in Literature in 1950. His most commercially successful book, *A History of Western Philosophy* (1945), is also among his most disputed by scholars.
 
 His final decades were dominated by politics. With Einstein he issued the Russell–Einstein Manifesto (1955), leading to the Pugwash Conferences; he was a founding figure of the Campaign for Nuclear Disarmament (1958) and was imprisoned briefly in 1961, at eighty-nine, for civil disobedience. He opposed the Vietnam War and convened the Russell Tribunal (1966–67) with Sartre — supporters saw moral witness, critics a show trial; his political legacy is still argued between them. He died in Wales on 2 February 1970, aged ninety-seven.
 
@@ -31,7 +31,7 @@ His final decades were dominated by politics. With Einstein he issued the Russel
 
 *Logicism* is the thesis that mathematics is, at bottom, logic: mathematical concepts can be defined in purely logical terms and mathematical theorems derived from purely logical axioms. If true, it would explain mathematics' certainty — logic is certain — without Kant's appeal to a special faculty of intuition.
 
-Russell's route ran through Peano's notation (Paris, 1900) and Frege, who had pursued logicism independently. *Principia Mathematica* was the great attempt. Two tensions dogged it. First, axioms such as infinity and reducibility look more like substantive assumptions than pure logic. Second, Gödel's incompleteness theorems (1931) showed any consistent system strong enough for arithmetic cannot prove all arithmetical truths, limiting the *Principia* project. Logicism in its original form is generally considered to have failed; in revised "neo-logicist" forms it remains a live programme.
+Russell's route ran through Peano's notation (Paris, 1900) and Frege, who had pursued logicism independently. *Principia Mathematica* was the great attempt. Two tensions dogged it. First, axioms such as infinity and reducibility look more like substantive assumptions than pure logic. Second, Gödel's incompleteness theorems (1931) showed any consistent system strong enough for arithmetic cannot prove all arithmetical truths, limiting the *Principia* project. Logicism in its original form is generally considered to have failed; in revised "neo-logicist" forms it remains a live program.
 
 ### Russell's paradox and the theory of types
 
@@ -49,7 +49,7 @@ The payoffs were wide, and the method mattered as much as the result: *show that
 
 ### Logical atomism and logical construction
 
-In lectures of 1918, Russell developed *logical atomism*: the world, and language fully analysed, resolve into logical atoms — particulars, qualities, and relations — combined in atomic facts, pictured by atomic propositions. It paralleled Wittgenstein's *Tractatus*; each man influenced the other, and assigning priority on individual doctrines is contested.
+In lectures of 1918, Russell developed *logical atomism*: the world, and language fully analyzed, resolve into logical atoms — particulars, qualities, and relations — combined in atomic facts, pictured by atomic propositions. It paralleled Wittgenstein's *Tractatus*; each man influenced the other, and assigning priority on individual doctrines is contested.
 
 A companion method was *logical construction*: replace inferred entities with constructions out of things directly known. Tables are constructions from sense-data; numbers are classes of classes; matter, in his later *neutral monism*, is constructed from events neither purely mental nor purely physical. Its tension is fruitful: constructions are only as secure as their data, and Russell changed his mind repeatedly about what those data are.
 
@@ -97,14 +97,14 @@ Therefore, unrestricted comprehension is false, and set theory — and with it F
 
 ## Contributions
 
-1. **Modern logic as a philosophical instrument.** With Whitehead he gave the Fregean revolution its most influential textbook form and proved, by example, what formalisation could do.
+1. **Modern logic as a philosophical instrument.** With Whitehead he gave the Fregean revolution its most influential textbook form and proved, by example, what formalization could do.
 2. **A paradox that rebuilt foundations.** Russell's paradox forced the reconstruction of set theory and logic and still introduces every foundations course.
 3. **The theory of descriptions.** A single analysis that became the model of philosophical analysis itself and founded modern philosophy of language.
 4. **A bridge between technical and public philosophy.** No comparable logician has also been a Nobel laureate in literature and a global political campaigner; he created the modern figure of the public philosopher, for better and for worse.
 
 ## Impact and legacy
 
-Inside philosophy, Russell's influence is structural: he taught Wittgenstein (and was then displaced by him), inspired Carnap and the Vienna Circle, and set the problems Ayer imported into British logical positivism. Much later work, from Strawson to Kripke, is written in explicit argument with him. In computer science, type theory descends from his remedy for the paradox. Outside philosophy, his popular books shaped generations of readers, and the Russell–Einstein Manifesto and Pugwash gave scientists a durable model for organised political responsibility.
+Inside philosophy, Russell's influence is structural: he taught Wittgenstein (and was then displaced by him), inspired Carnap and the Vienna Circle, and set the problems Ayer imported into British logical positivism. Much later work, from Strawson to Kripke, is written in explicit argument with him. In computer science, type theory descends from his remedy for the paradox. Outside philosophy, his popular books shaped generations of readers, and the Russell–Einstein Manifesto and Pugwash gave scientists a durable model for organized political responsibility.
 
 ## Criticisms and debates
 
@@ -135,7 +135,7 @@ Inside philosophy, Russell's influence is structural: he taught Wittgenstein (an
 ## Study questions
 
 1. Reconstruct Russell's analysis of "The present King of France is bald" as existence, uniqueness, and predication clauses. Why does this make the sentence false rather than meaningless, and why does it need no non-existent king?
-2. Analyse "The first person to set foot on Mars will be famous" twice: as Frege would, the description a term with sense and possibly no reference; as Russell would, quantificational structure. Which analysis better explains why the sentence is already meaningful, and plausibly true?
+2. Analyze "The first person to set foot on Mars will be famous" twice: as Frege would, the description a term with sense and possibly no reference; as Russell would, quantificational structure. Which analysis better explains why the sentence is already meaningful, and plausibly true?
 3. State Strawson's objection: "the King of France" presupposes rather than asserts existence, so the utterance is neither true nor false. Then give the Russellian reply about logical form and inference. Which side better handles the sentence inside a proof?
 4. "The present King of France is not bald" has two Russellian readings. State both, using scope, say which is true, and what the ambiguity shows about surface grammar.
 5. Reconstruct the paradox from unrestricted comprehension, then evaluate the charge that type theory merely bans it by grammatical fiat: does the iterative conception of set answer that charge?

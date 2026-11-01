@@ -21,11 +21,11 @@
 
 ### Feuerbach: God as projection
 
-Feuerbach's central claim in *The Essence of Christianity* (1841) is disarmingly simple: theology is anthropology. The divine being is nothing but the essence of man objectified and contemplated as another, separate being. Humanity takes its own best collective qualities — reason, will, love — purifies them of limits, projects them outward onto a God, and then relates to its own essence as to a master. The cost is impoverishment by transfer: "to enrich God, man must become poor; that God may be all, man must be nothing." The cure is not sheer unbelief but repossession: the predicates assigned to God are to be recognised as the *species-essence* (Gattungswesen) of humanity itself, and love between human beings — "man is the God of man" (*homo homini Deus*) — takes the place of worship. His later work pushed toward a philosophy of sensuous embodiment, summed up in his pun: *Der Mensch ist, was er isst* — man is what he eats.
+Feuerbach's central claim in *The Essence of Christianity* (1841) is disarmingly simple: theology is anthropology. The divine being is nothing but the essence of man objectified and contemplated as another, separate being. Humanity takes its own best collective qualities — reason, will, love — purifies them of limits, projects them outward onto a God, and then relates to its own essence as to a master. The cost is impoverishment by transfer: "to enrich God, man must become poor; that God may be all, man must be nothing." The cure is not sheer unbelief but repossession: the predicates assigned to God are to be recognized as the *species-essence* (Gattungswesen) of humanity itself, and love between human beings — "man is the God of man" (*homo homini Deus*) — takes the place of worship. His later work pushed toward a philosophy of sensuous embodiment, summed up in his pun: *Der Mensch ist, was er isst* — man is what he eats.
 
 ### Feuerbach: transformative criticism — and its limits
 
-Feuerbach's method inverted Hegel: wherever speculative philosophy finds Spirit realising itself, Feuerbach finds human essence alienated from itself, waiting to be reclaimed by inverting subject and predicate (God did not make man; man makes God). Marx absorbed this in 1843–44 and then, in the *Theses on Feuerbach* (1845), turned on his teacher: Feuerbach's humanity remains an abstract essence contemplated passively, not real people changing their world through practice. That critique — contemplative versus practical materialism — is the birth-certificate of Marx's own theory, which is why Feuerbach, though a "sidebar," stands at the crossroads of the era.
+Feuerbach's method inverted Hegel: wherever speculative philosophy finds Spirit realizing itself, Feuerbach finds human essence alienated from itself, waiting to be reclaimed by inverting subject and predicate (God did not make man; man makes God). Marx absorbed this in 1843–44 and then, in the *Theses on Feuerbach* (1845), turned on his teacher: Feuerbach's humanity remains an abstract essence contemplated passively, not real people changing their world through practice. That critique — contemplative versus practical materialism — is the birth-certificate of Marx's own theory, which is why Feuerbach, though a "sidebar," stands at the crossroads of the era.
 
 ### Stirner: spooks and the unique one
 
@@ -38,7 +38,7 @@ Politically Stirner rejects both the state (which rests on my reverence and will
 ## Key works
 
 - Ludwig Feuerbach, *The Essence of Christianity* (1841) — The projection theory of religion; Part I is the essential reading.
-- Ludwig Feuerbach, *Principles of the Philosophy of the Future* (1843) — His positive programme: sensuous, embodied, communal humanity.
+- Ludwig Feuerbach, *Principles of the Philosophy of the Future* (1843) — His positive program: sensuous, embodied, communal humanity.
 - Max Stirner, *The Ego and Its Own* (published late 1844; title page 1845) — His only book; the case against all spooks, Feuerbach's included.
 
 ## Contributions

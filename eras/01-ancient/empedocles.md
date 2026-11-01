@@ -46,11 +46,11 @@ In the *Purifications* the physics becomes a religion. The soul is an exiled spi
 
 ## Contributions
 
-Empedocles invented the template of classical physics: a small set of permanent elements whose combinations explain all change. By making motion and plurality compatible with Parmenidean permanence, he set the programme that the atomists and Plato would follow — every later pluralist system is a variation on his move. His four elements, mediated by Aristotle and Galenic medicine, structured natural science into the seventeenth century. He also gave Greek thought its most influential image of cosmic history as an eternal cycle driven by opposed principles of attraction and repulsion.
+Empedocles invented the template of classical physics: a small set of permanent elements whose combinations explain all change. By making motion and plurality compatible with Parmenidean permanence, he set the program that the atomists and Plato would follow — every later pluralist system is a variation on his move. His four elements, mediated by Aristotle and Galenic medicine, structured natural science into the seventeenth century. He also gave Greek thought its most influential image of cosmic history as an eternal cycle driven by opposed principles of attraction and repulsion.
 
 ## Impact and legacy
 
-Aristotle treated Empedocles as a major predecessor — criticising him constantly, which is its own kind of honour — and adopted his four elements into the physics of the sublunary world. Plato's *Timaeus* builds on the four roots. Lucretius praised him in verse as almost divine, and the *Purifications* shaped Orphic and Pythagorean revival currents for centuries. The zoogony fragments made him a touchstone in nineteenth-century debates about evolution's Greek anticipations. The Strasbourg Papyrus made him, unusually for a Presocratic, a philosopher whose text is still growing.
+Aristotle treated Empedocles as a major predecessor — criticizing him constantly, which is its own kind of honor — and adopted his four elements into the physics of the sublunary world. Plato's *Timaeus* builds on the four roots. Lucretius praised him in verse as almost divine, and the *Purifications* shaped Orphic and Pythagorean revival currents for centuries. The zoogony fragments made him a touchstone in nineteenth-century debates about evolution's Greek anticipations. The Strasbourg Papyrus made him, unusually for a Presocratic, a philosopher whose text is still growing.
 
 ## Criticisms and debates
 
@@ -59,7 +59,7 @@ Aristotle's standing objection is that Empedocles names Love and Strife as cause
 ## Misreadings to avoid
 
 - Love and Strife are not simply "good" and "evil": both are necessary, and both can destroy.
-- The four roots are not the claim that matter comes in exactly four flavours of stuff we would recognise — they are eternal, qualitatively distinct, unchanging beings in the Parmenidean sense.
+- The four roots are not the claim that matter comes in exactly four flavours of stuff we would recognize — they are eternal, qualitatively distinct, unchanging beings in the Parmenidean sense.
 - The Etna suicide is legend, not biography.
 - His monster-sorting is not Darwinism: there is no heredity and no adaptation, only random combination and survival.
 

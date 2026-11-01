@@ -47,11 +47,11 @@ With Aquinas, Scotus contrasts the intellect as a "natural" power (determined to
 
 ## Contributions
 
-Scotus re-founded metaphysics on univocal being and modal possibility, gave the individual metaphysical standing through haecceity, forged a new grade of distinction, and built the most sophisticated medieval account of free will — a parallel system to Thomism, point-by-point different (analogy vs univocity, intellect vs will, matter vs haecceity as individuator). The Scotist school institutionalised the system; Franciscan theology ran on it for centuries.
+Scotus re-founded metaphysics on univocal being and modal possibility, gave the individual metaphysical standing through haecceity, forged a new grade of distinction, and built the most sophisticated medieval account of free will — a parallel system to Thomism, point-by-point different (analogy vs univocity, intellect vs will, matter vs haecceity as individuator). The Scotist school institutionalized the system; Franciscan theology ran on it for centuries.
 
 ## Impact and legacy
 
-Scotism became one of the two great scholastic systems (Thomism its rival), taught in universities into the seventeenth century and kept alive in the Franciscan order; Suárez and through him early modern metaphysics absorbed Scotist elements wholesale (univocity and modal theory reach Descartes and Leibniz partly by this channel). Modern metaphysics' possible-worlds idiom has deep Scotist roots (his synchronic contingency). Deleuze celebrated univocity as philosophy's great emancipation; Heidegger's early career began with a habilitation on (what he took to be) Scotus; Hopkins turned haecceity into poetry of "inscape." In Catholic theology he is also remembered for his defence of the Immaculate Conception — a position long contested, dogmatised in 1854; he was beatified in 1993.
+Scotism became one of the two great scholastic systems (Thomism its rival), taught in universities into the seventeenth century and kept alive in the Franciscan order; Suárez and through him early modern metaphysics absorbed Scotist elements wholesale (univocity and modal theory reach Descartes and Leibniz partly by this channel). Modern metaphysics' possible-worlds idiom has deep Scotist roots (his synchronic contingency). Deleuze celebrated univocity as philosophy's great emancipation; Heidegger's early career began with a habilitation on (what he took to be) Scotus; Hopkins turned haecceity into poetry of "inscape." In Catholic theology he is also remembered for his defense of the Immaculate Conception — a position long contested, dogmatised in 1854; he was beatified in 1993.
 
 ## Criticisms and debates
 

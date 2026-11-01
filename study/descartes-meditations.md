@@ -69,7 +69,7 @@ Even under the demon's assault, one thing survives: "I am, I exist, is necessari
 
 But what *is* this "I"? Descartes proceeds by stripping away everything the demon could falsify: body, senses, imagination, memory of a past life. What remains is a thinking thing — *res cogitans* — a thing that doubts, understands, affirms, denies, wills, refuses, imagines, and has sensory perceptions. Note the breadth: "thinking" here covers far more than reasoning. It includes willing, feeling, and seeming to see. Even if nothing I seem to see exists, the *seeming* is a thought, and the thought is mine.
 
-The wax passage then shows why the mind is better known than the body. A piece of wax has every sensory quality — taste, smell, colour, shape, hardness, sound when tapped — and then, held near a fire, loses all of them while remaining the same wax. What survives is not any sensory quality but something grasped by the intellect alone: the wax as an extended, flexible, changeable thing. Two conclusions follow. First, bodies are known not by the senses but by the mind. Second, the mind itself is known more directly than any body, because every perception of a body is also, and first, an awareness of the mind perceiving.
+The wax passage then shows why the mind is better known than the body. A piece of wax has every sensory quality — taste, smell, color, shape, hardness, sound when tapped — and then, held near a fire, loses all of them while remaining the same wax. What survives is not any sensory quality but something grasped by the intellect alone: the wax as an extended, flexible, changeable thing. Two conclusions follow. First, bodies are known not by the senses but by the mind. Second, the mind itself is known more directly than any body, because every perception of a body is also, and first, an awareness of the mind perceiving.
 
 ### Key passages
 
@@ -87,21 +87,21 @@ The cogito (reconstructed formally in §"Argument reconstructions" below) establ
 
 ### Summary
 
-Having secured the thinking self, Descartes looks for a way out of the self. He classifies his thoughts: ideas (images of things), volitions and emotions, and judgements (which combine ideas with affirmation or denial, and are where error lives). Then he asks: where do my ideas come from? Some seem invented (a chimera), some adventitious (arriving from outside, like the heat of a fire), some innate (like the idea of God).
+Having secured the thinking self, Descartes looks for a way out of the self. He classifies his thoughts: ideas (images of things), volitions and emotions, and judgments (which combine ideas with affirmation or denial, and are where error lives). Then he asks: where do my ideas come from? Some seem invented (a chimera), some adventitious (arriving from outside, like the heat of a fire), some innate (like the idea of God).
 
 The argument turns on a scholastic distinction between two kinds of reality. A thing has *formal* reality by existing in its own right; an idea has *objective* reality by representing something. Descartes's causal principle: there must be at least as much reality in the cause as in the effect, and in particular the objective reality of an idea must have a cause with at least as much formal reality as the idea has objective reality. A finite mind cannot be the cause of the idea of an infinite, perfect being, because the effect would exceed the cause. Therefore the idea of God must have been placed in me by a being that actually possesses the perfections the idea represents: God exists.
 
-Descartes then answers the obvious objection: could I have derived the idea of God by negating my own finitude, or by augmenting my own qualities? No, he argues — I recognise my own imperfections *by comparison* with the idea of perfection, so the idea of perfection must come first; and negation of the finite does not yield the positive content of infinity. He also answers a second objection: could I, as a finite being, be the cause of my own existence, and so the author of the idea? No — self-creation would require perfections I plainly lack, and conservation through time is itself a kind of continuous creation requiring the same power.
+Descartes then answers the obvious objection: could I have derived the idea of God by negating my own finitude, or by augmenting my own qualities? No, he argues — I recognize my own imperfections *by comparison* with the idea of perfection, so the idea of perfection must come first; and negation of the finite does not yield the positive content of infinity. He also answers a second objection: could I, as a finite being, be the cause of my own existence, and so the author of the idea? No — self-creation would require perfections I plainly lack, and conservation through time is itself a kind of continuous creation requiring the same power.
 
 ### Key passages
 
-- The classification of thoughts into ideas, volitions/affections, and judgements.
+- The classification of thoughts into ideas, volitions/affections, and judgments.
 - The causal principle: the cause must contain at least as much reality as the effect.
 - The reply to the "negation" objection: I know my defects only by comparison with perfection.
 
 ### The main argument
 
-The causal argument for God (reconstructed in §"Argument reconstructions" below) is the load-bearing argument of the book. Everything after it — the criterion of clear and distinct perception, the real distinction, the external world — depends on God's existence and non-deceptive nature. That is precisely why it is the most attacked argument in the book, and why the Cartesian circle objection (below) is aimed at it. Its weakest joint, for most modern readers, is the causal principle itself: the claim that degrees of reality behave like quantities that a cause must match or exceed is a piece of scholastic metaphysics that few philosophers now accept. Descartes's defenders reply that within his framework the principle is principled, not ad hoc — but that defence concedes that the argument's force depends on accepting the framework.
+The causal argument for God (reconstructed in §"Argument reconstructions" below) is the load-bearing argument of the book. Everything after it — the criterion of clear and distinct perception, the real distinction, the external world — depends on God's existence and non-deceptive nature. That is precisely why it is the most attacked argument in the book, and why the Cartesian circle objection (below) is aimed at it. Its weakest joint, for most modern readers, is the causal principle itself: the claim that degrees of reality behave like quantities that a cause must match or exceed is a piece of scholastic metaphysics that few philosophers now accept. Descartes's defenders reply that within his framework the principle is principled, not ad hoc — but that defense concedes that the argument's force depends on accepting the framework.
 
 ---
 
@@ -141,7 +141,7 @@ Present the circle as a debate: it is one of the most discussed problems in earl
 
 ### Summary
 
-Descartes returns to the wax argument's lesson and generalises it: the essence of material things is extension — length, breadth, depth, shape, position, motion — and these are known clearly and distinctly by the intellect, not the senses. Mathematical truths about bodies (that a triangle's angles sum to two right angles) are certain because they concern essences grasped by reason.
+Descartes returns to the wax argument's lesson and generalizes it: the essence of material things is extension — length, breadth, depth, shape, position, motion — and these are known clearly and distinctly by the intellect, not the senses. Mathematical truths about bodies (that a triangle's angles sum to two right angles) are certain because they concern essences grasped by reason.
 
 He then offers a second proof of God, the **ontological argument**: existence belongs to the idea of a supremely perfect being just as necessarily as having angles summing to two right angles belongs to the idea of a triangle. To think of God as not existing is as contradictory as thinking of a mountain without a valley. Where the Third Meditation argued from the *cause* of an idea, the Fifth argues from the *content* of the idea itself: a being with all perfections who lacked existence would lack a perfection, and so would not be supremely perfect.
 
@@ -205,7 +205,7 @@ The real distinction (reconstructed in §"Argument reconstructions" below) is th
 
 **Standard objection (Hobbes, Gassendi, and most modern critics):** The causal principle (premise 2) is undefended and implausible. Ideas do not carry measurable quantities of "reality" that a cause must match; a finite mind can form the idea of infinity by negating finitude or by extrapolating from finite perfections, without any infinite cause. The argument also assumes the scholastic hierarchy of degrees of reality that the new science was abandoning.
 
-**Reply (Descartes's line, and its defenders):** The idea of God is not a negation or an extrapolation. Negation yields only "not-finite," which is not the positive content of infinity; and I recognise my own finitude only by comparison with a prior idea of the infinite, so the infinite idea cannot be derived from the finite one. Within Descartes's framework, the causal principle is not an ad hoc device but a general metaphysical principle (nothing comes from nothing, and an effect cannot exceed its cause) applied to ideas. The reply's force therefore depends on accepting that framework — which is why the argument persuades those who share Descartes's metaphysics and leaves others cold.
+**Reply (Descartes's line, and its defenders):** The idea of God is not a negation or an extrapolation. Negation yields only "not-finite," which is not the positive content of infinity; and I recognize my own finitude only by comparison with a prior idea of the infinite, so the infinite idea cannot be derived from the finite one. Within Descartes's framework, the causal principle is not an ad hoc device but a general metaphysical principle (nothing comes from nothing, and an effect cannot exceed its cause) applied to ideas. The reply's force therefore depends on accepting that framework — which is why the argument persuades those who share Descartes's metaphysics and leaves others cold.
 
 ### (c) The real distinction between mind and body (Meditation VI)
 
@@ -218,7 +218,7 @@ The real distinction (reconstructed in §"Argument reconstructions" below) is th
 
 **Standard objection (Arnauld, Fourth Objections, and Elisabeth's correspondence):** Clear and distinct conceivability is not a reliable guide to real separability. I can clearly conceive a right triangle without conceiving the Pythagorean theorem, yet the theorem belongs to the triangle's nature; likewise, my incomplete knowledge of myself may conceal a dependence on body that conceivability misses. And even if the distinction holds, it leaves the interaction problem: how does an unextended mind move an extended body?
 
-**Reply (Descartes's line, and its defenders):** The triangle objection trades on incomplete knowledge, but Descartes claims *complete* knowledge of the relevant kind: I understand my essence as thinking through and through, and body's essence as extension through and through, with nothing left over that could hide a connection. The conceivability here is not mere imaginability but clear and distinct intellectual perception of essences. As for interaction, Descartes appeals to the union as a primitive notion — known by living it, not by analysing it into its parts. Defenders concede this is the weakest joint in the system; critics regard it as naming the mystery rather than solving it. Either way, the distinction argument is what makes the interaction problem unavoidable, and that problem shaped the next century of philosophy.
+**Reply (Descartes's line, and its defenders):** The triangle objection trades on incomplete knowledge, but Descartes claims *complete* knowledge of the relevant kind: I understand my essence as thinking through and through, and body's essence as extension through and through, with nothing left over that could hide a connection. The conceivability here is not mere imaginability but clear and distinct intellectual perception of essences. As for interaction, Descartes appeals to the union as a primitive notion — known by living it, not by analyzing it into its parts. Defenders concede this is the weakest joint in the system; critics regard it as naming the mystery rather than solving it. Either way, the distinction argument is what makes the interaction problem unavoidable, and that problem shaped the next century of philosophy.
 
 ---
 
@@ -226,7 +226,7 @@ The real distinction (reconstructed in §"Argument reconstructions" below) is th
 
 Answer these from memory before looking at the answers at the end of this guide. They are ordered by meditation.
 
-1. What is the difference between methodic doubt and scepticism as a conclusion, and which does Descartes practise?
+1. What is the difference between methodic doubt and skepticism as a conclusion, and which does Descartes practice?
 2. The dream argument targets which class of beliefs, and what, if anything, does Descartes think survives it?
 3. Why does Descartes introduce the evil demon after the dream argument — what does the demon threaten that dreaming does not?
 4. State the cogito in Descartes's Meditation II formulation, and explain why its scope is limited to the moment of thinking.
@@ -245,11 +245,11 @@ Answer these from memory before looking at the answers at the end of this guide.
 
 1. **"I think, therefore I am" is a syllogism.** Descartes explicitly denied this. The cogito is not an inference from the premise "everything that thinks exists" — that premise would itself need justification and would be a target for the demon. It is an immediate intuition, performed in the act of thinking. (The *Discourse* formulation "I think, therefore I am" is a compressed slogan; the *Meditations* formulation, "I am, I exist," is the careful one.)
 
-2. **Descartes's doubt is sceptical despair.** No — doubt is his method, not his conclusion. He doubts in order to find what cannot be doubted, and the whole book after Meditation I is a reconstruction. A sceptic ends where Descartes begins.
+2. **Descartes's doubt is skeptical despair.** No — doubt is his method, not his conclusion. He doubts in order to find what cannot be doubted, and the whole book after Meditation I is a reconstruction. A skeptic ends where Descartes begins.
 
 3. **The cogito proves an immaterial soul.** Not by itself. The cogito proves only that a thinker exists while thinking. That the thinker is an immaterial substance, distinct from body, is argued much later, in Meditation VI, with God's guarantee in between. Collapsing the two steps makes the argument look both stronger and weaker than it is.
 
-4. **Descartes denies that the body exists.** The opposite: Meditation VI is devoted to proving that material things exist. What Descartes denies is that the *essence* of body is its sensory qualities. Bodies exist; they are extension, not colour, taste, or smell.
+4. **Descartes denies that the body exists.** The opposite: Meditation VI is devoted to proving that material things exist. What Descartes denies is that the *essence* of body is its sensory qualities. Bodies exist; they are extension, not color, taste, or smell.
 
 5. **The evil demon is a theological claim.** It is a hypothesis, not a doctrine. Descartes does not assert that a demon exists, still less that God is a deceiver. The demon is a device for testing which beliefs survive the strongest possible doubt. Confusing the device with a belief is the same error as confusing a thought experiment with a creed.
 
@@ -263,21 +263,21 @@ Answer these from memory before looking at the answers at the end of this guide.
 
 ## Answers to checkpoint questions
 
-1. **Methodic doubt is a procedure; scepticism is a conclusion.** Descartes suspends beliefs that admit of doubt in order to find a foundation, not because he holds that nothing can be known. The book's trajectory — from doubt to God to the external world — is an anti-sceptical project.
+1. **Methodic doubt is a procedure; skepticism is a conclusion.** Descartes suspends beliefs that admit of doubt in order to find a foundation, not because he holds that nothing can be known. The book's trajectory — from doubt to God to the external world — is an anti-skeptical project.
 
-2. **The dream argument targets beliefs about the present environment** — that you are sitting by a fire, holding paper, and so on. What survives, Descartes suggests, are the simplest general elements out of which both waking and dreaming experience are composed: extension, shape, quantity, number. These are like the colours on a painter's palette.
+2. **The dream argument targets beliefs about the present environment** — that you are sitting by a fire, holding paper, and so on. What survives, Descartes suggests, are the simplest general elements out of which both waking and dreaming experience are composed: extension, shape, quantity, number. These are like the colors on a painter's palette.
 
 3. **The demon threatens reason itself.** Dreaming casts doubt on the senses and on particular present experiences, but arithmetic and geometry seem to hold even in dreams. The demon hypothesis extends doubt to those: a supremely powerful deceiver could make you go wrong even when you judge that two and three make five.
 
 4. **"I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind"** (Cottingham trans.). Its scope is momentary: it secures existence only while the thinking occurs. It does not prove persistence through time, a body, a past, or anything else.
 
-5. **Everything sensory changes** — taste, smell, colour, shape, hardness, sound — **while the wax remains the same wax.** Descartes concludes that what we know of the wax is not delivered by the senses but grasped by the intellect: the wax as an extended, flexible, changeable thing. Bodies are known by the mind, not the senses.
+5. **Everything sensory changes** — taste, smell, color, shape, hardness, sound — **while the wax remains the same wax.** Descartes concludes that what we know of the wax is not delivered by the senses but grasped by the intellect: the wax as an extended, flexible, changeable thing. Bodies are known by the mind, not the senses.
 
 6. **Objective reality** is the reality a thing has as represented in an idea; **formal reality** is the reality a thing has by existing in its own right. The distinction lets Descartes argue that an idea with infinite objective reality (the idea of God) needs a cause with infinite formal reality — and only God qualifies.
 
 7. **The causal principle:** there must be at least as much reality in the cause as in the effect; in particular, the objective reality of an idea must be caused by something with at least as much formal reality. Its most vulnerable premise is the principle itself — the claim that "degrees of reality" behave like quantities a cause must match is a piece of scholastic metaphysics most modern readers reject.
 
-8. **Negation yields only "not-finite,"** not the positive content of infinity. And Descartes argues the order runs the other way: I recognise my own defects and finitude only by comparison with a prior idea of perfection, so the idea of perfection cannot be derived from the finite mind it is used to judge.
+8. **Negation yields only "not-finite,"** not the positive content of infinity. And Descartes argues the order runs the other way: I recognize my own defects and finitude only by comparison with a prior idea of perfection, so the idea of perfection cannot be derived from the finite mind it is used to judge.
 
 9. **Error is my misuse of good faculties, not a defect in them.** The intellect is finite; the will is effectively unlimited in scope. Error occurs when the will judges about matters the intellect does not clearly and distinctly perceive. God gave faculties that, used within their limits, do not err; the fault lies in my free assent beyond those limits.
 

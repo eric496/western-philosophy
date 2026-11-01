@@ -29,7 +29,7 @@ His most important pupil was Crates of Thebes, whose pupil in turn was Zeno of C
 
 The Cynic axis is *physis* (nature) versus *nomos* (convention, custom, law). Much of what cities prize — wealth, status, refined manners, elaborate dress — is convention: it exists because people agree to value it, and it makes them anxious, dependent, and hypocritical. What nature actually requires is little: food, shelter from weather, freedom, and moral purpose. Animals and, in Cynic rhetoric, "uncorrupted" peoples show that humans can live with far less.
 
-Example: owning one cloak that is also your bedding is not poverty theatre alone; it is a proof, performed daily, that the conventions of household property are optional. The internal tension is that the performance depends on the city it rejects — an audience, alms, and public spaces to perform in.
+Example: owning one cloak that is also your bedding is not poverty theater alone; it is a proof, performed daily, that the conventions of household property are optional. The internal tension is that the performance depends on the city it rejects — an audience, alms, and public spaces to perform in.
 
 ### Virtue is the only good, and autarkeia its condition
 
@@ -57,7 +57,7 @@ Asked where he came from, Diogenes reportedly replied that he was a *kosmopolit�
 
 ## Contributions
 
-The Cynics invented philosophy as embodied public critique: the argument *is* a life, staged where everyone can test it. They contributed self-sufficiency as freedom, cosmopolitan identity, and fearless speech to power, and established the anecdote and public stunt as philosophical instruments. Through Crates they seeded Stoicism, which systematised Cynic ethics while softening its performance.
+The Cynics invented philosophy as embodied public critique: the argument *is* a life, staged where everyone can test it. They contributed self-sufficiency as freedom, cosmopolitan identity, and fearless speech to power, and established the anecdote and public stunt as philosophical instruments. Through Crates they seeded Stoicism, which systematized Cynic ethics while softening its performance.
 
 ## Impact and legacy
 
@@ -67,7 +67,7 @@ Stoicism is the largest legacy: Zeno took over virtue's sufficiency, indifferenc
 
 Ancient critics charged the Cynics with having a negation but no system: no physics, no logic, no positive account of the community a good life needs. Plato's "Socrates gone mad" and later complaints about filth, begging, and indecency ask whether autarkeia bought at the price of ordinary human attachments — family, friendship beyond utility, civic responsibility — is freedom or impoverishment. Hipparchia, who married Crates and lived the Cynic life herself, is a partial ancient counter-example to the charge that the life was only for unattached men, though sources on her are also anecdotal.
 
-Scholarly debates include whether "Cynicism" was ever a school with doctrines, or rather a way of life transmitted by example; how much of Diogenes Laertius Book VI is recoverable history; and whether Diogenes' *Republic* really held the extreme positions attributed to it, or whether scandalised reporters exaggerated.
+Scholarly debates include whether "Cynicism" was ever a school with doctrines, or rather a way of life transmitted by example; how much of Diogenes Laertius Book VI is recoverable history; and whether Diogenes' *Republic* really held the extreme positions attributed to it, or whether scandalized reporters exaggerated.
 
 ## Misreadings to avoid
 

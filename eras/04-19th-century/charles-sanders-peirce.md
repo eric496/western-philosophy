@@ -68,7 +68,7 @@ Peirce founded America's first original philosophical movement in its most rigor
 
 ## Impact and legacy
 
-William James popularised pragmatism from 1898, crediting Peirce by name — though Peirce, disgusted by looser versions of the doctrine, renamed his own "pragmaticism" in 1905, a word, he said, "ugly enough to be safe from kidnappers." Through Dewey, pragmatism entered education and democratic theory; his sign theory seeded modern semiotics (Morris, Eco), and his logic and theory of inquiry remain live in philosophy of science. His reputation has climbed for a century: first read as a precursor, he is now increasingly read as a contemporary.
+William James popularized pragmatism from 1898, crediting Peirce by name — though Peirce, disgusted by looser versions of the doctrine, renamed his own "pragmaticism" in 1905, a word, he said, "ugly enough to be safe from kidnappers." Through Dewey, pragmatism entered education and democratic theory; his sign theory seeded modern semiotics (Morris, Eco), and his logic and theory of inquiry remain live in philosophy of science. His reputation has climbed for a century: first read as a precursor, he is now increasingly read as a contemporary.
 
 ## Criticisms and debates
 
@@ -76,7 +76,7 @@ Interpreters disagree about how his pieces fit — whether the pragmatic maxim o
 
 ## Misreadings to avoid
 
-- The pragmatic maxim is a rule for clarifying meaning, not the claim that "whatever works is true"; that is closer to the popularised James.
+- The pragmatic maxim is a rule for clarifying meaning, not the claim that "whatever works is true"; that is closer to the popularized James.
 - Truth as long-run agreement is not majority opinion at a moment; it is the ideal limit of self-correcting inquiry.
 - Peirce did not write a finished system; the *Collected Papers* is an editorial construction, not his book.
 - Paper doubt (Cartesian pretended doubt) is exactly what he rejected; inquiry starts from real belief and real doubt.

@@ -10,7 +10,7 @@ Read the *Critique* in the translation by Paul Guyer and Allen W. Wood (Cambridg
 
 Learn to navigate by those numbers from the first day: they are how the *Critique* is cited everywhere. **A** followed by a number is a page of the first edition of 1781; **B** followed by a number is a page of the second, revised edition of 1787. A citation such as A51/B75 — "thoughts without content are empty, intuitions without concepts are blind" — points to a passage appearing in both editions. Where a passage exists in only one, you get a single letter: the Refutation of Idealism is B274–279, because Kant added it in 1787.
 
-Do not use Norman Kemp Smith's translation (1929) or J. M. D. Meiklejohn's (1855) as a first read, and do not use an unlabelled Gutenberg text. Both are older translations whose terminology can mislead a beginner, and cheap reprints of them often lack the A/B pagination altogether.
+Do not use Norman Kemp Smith's translation (1929) or J. M. D. Meiklejohn's (1855) as a first read, and do not use an unlabeled Gutenberg text. Both are older translations whose terminology can mislead a beginner, and cheap reprints of them often lack the A/B pagination altogether.
 
 The A/B problem needs stating plainly. There are not two books here: there is one book, published in 1781, which Kant revised — in places heavily — for 1787, partly in response to early reviewers who had mistaken him for a Berkeley-style idealist. Large stretches are identical in both, but three parts were substantially rewritten. The **Preface** is new in B — it contains the Copernican analogy and the remark about denying knowledge to make room for faith. The **Transcendental Deduction** was rewritten wholesale: the A and B Deductions are different arguments in structure and emphasis, not two printings of one. And the **Paralogisms** chapter was recast in B, in shorter and quite different form. Smaller additions matter too, notably the Refutation of Idealism, new in B.
 
@@ -43,7 +43,7 @@ The selections come to roughly 250–300 pages in the Guyer and Wood edition. At
 | 1 | A Preface, B Preface, Introduction | The tribunal of reason, the Copernican turn, the question of the synthetic a priori |
 | 2 | Transcendental Aesthetic | Space and time as a priori forms of intuition; transcendental idealism stated |
 | 3 | Analytic of Concepts: the clue to the categories; the Transcendental Deduction (B), in outline | The twelve categories, and why they legitimately apply to experience: the unity of apperception |
-| 4 | Schematism (brief); Analytic of Principles in outline (Analogies, Refutation of Idealism) | How categories meet time; permanence, causality, and the answer to the sceptic about the outer world |
+| 4 | Schematism (brief); Analytic of Principles in outline (Analogies, Refutation of Idealism) | How categories meet time; permanence, causality, and the answer to the skeptic about the outer world |
 | 5 | Paralogisms (selection); Antinomies (selection: First and Third required); Canon of Pure Reason | Reason overreaching: the soul, the world as a whole, freedom — and what may I hope? |
 
 Read the B Preface twice — in Week 1, and again after Week 2 — and do not let Week 3 expand: if the Deduction is still murky, mark it for the buffer-week second pass.
@@ -54,7 +54,7 @@ Read the B Preface twice — in Week 1, and again after Week 2 — and do not le
 
 Read both Prefaces in full — together under fifty pages, and the book's most accessible programmatic writing. The **A Preface** presents the *Critique* as a tribunal: reason itself is to sit in judgment on reason's own claims, deciding which metaphysical questions it may legitimately answer and which it must permanently abandon. Human reason, Kant says, is burdened by questions its own nature sets but which exceed its powers to answer. Pre-Kantian metaphysics is the battlefield on which those questions are fought without decision; the *Critique* is the court meant to end the fighting by fixing the jurisdiction.
 
-The **B Preface** restates the project for readers who had misunderstood the first edition, and gives it its famous image. The sciences, Kant argues, became secure only when they stopped assuming that cognition must conform to objects and recognised that we know a priori of things only what we ourselves put into them. His analogy is Copernicus: when astronomy failed on the assumption that the heavens revolve around the observer, Copernicus tried making the observer revolve instead. Kant proposes the same reversal — objects of experience must conform to our cognition — and the whole *Critique* works out that hypothesis. The B Preface also contains the book's most quoted sentence of intent: Kant had to *deny knowledge in order to make room for faith* (Bxxx) — a demarcation, not a surrender: theory cannot reach God, freedom, and immortality, so critique relocates them to practical reason.
+The **B Preface** restates the project for readers who had misunderstood the first edition, and gives it its famous image. The sciences, Kant argues, became secure only when they stopped assuming that cognition must conform to objects and recognized that we know a priori of things only what we ourselves put into them. His analogy is Copernicus: when astronomy failed on the assumption that the heavens revolve around the observer, Copernicus tried making the observer revolve instead. Kant proposes the same reversal — objects of experience must conform to our cognition — and the whole *Critique* works out that hypothesis. The B Preface also contains the book's most quoted sentence of intent: Kant had to *deny knowledge in order to make room for faith* (Bxxx) — a demarcation, not a surrender: theory cannot reach God, freedom, and immortality, so critique relocates them to practical reason.
 
 **What to watch for:** the Copernican analogy concerns the *form* of experience, not a claim that the mind invents the world: Kant is an empirical realist, and objects of experience are public, law-governed, and independent of any particular mind.
 
@@ -66,7 +66,7 @@ The **B Preface** restates the project for readers who had misunderstood the fir
 
 The Introduction poses the question the entire book answers: **how are synthetic a priori judgments possible?** Unpack the two distinctions slowly; everything later presupposes them. A judgment is **analytic** if its predicate is already contained in the concept of its subject — "all bachelors are unmarried" adds nothing — and **synthetic** if it genuinely extends knowledge. Independently, knowledge is **a posteriori** if it rests on experience, and **a priori** if it does not depend on any particular experience — shown in necessity and strict universality, which experience alone can never supply.
 
-Mathematics and natural science appear to contain judgments that are synthetic yet a priori: that 7 + 5 = 12, that every event has a cause. Hume's scepticism is the pressure behind the question: Hume had shown, to Kant's satisfaction, that experience supplies no necessity — we observe one billiard ball follow another, never the *must* connecting them. If such judgments come neither from experience nor from unpacking concepts, where does their necessity come from? Kant's answer, in one sentence, is the book: they articulate the structure our faculties contribute to experience — hence necessary for any experience we can have, and valid only within it. The Introduction also maps the work ahead: the **Aesthetic** studies sensibility; the **Transcendental Logic** the understanding, subdivided into the **Analytic** (conditions of possible experience) and the **Dialectic** (reason's overreach beyond it).
+Mathematics and natural science appear to contain judgments that are synthetic yet a priori: that 7 + 5 = 12, that every event has a cause. Hume's skepticism is the pressure behind the question: Hume had shown, to Kant's satisfaction, that experience supplies no necessity — we observe one billiard ball follow another, never the *must* connecting them. If such judgments come neither from experience nor from unpacking concepts, where does their necessity come from? Kant's answer, in one sentence, is the book: they articulate the structure our faculties contribute to experience — hence necessary for any experience we can have, and valid only within it. The Introduction also maps the work ahead: the **Aesthetic** studies sensibility; the **Transcendental Logic** the understanding, subdivided into the **Analytic** (conditions of possible experience) and the **Dialectic** (reason's overreach beyond it).
 
 **Difficulty warning:** low to moderate. Keep the two-by-two grid (analytic/synthetic × a priori/a posteriori), with Kant's examples, on a card.
 
@@ -111,14 +111,14 @@ A short chapter with a real problem and a forbidding presentation; read it once,
 
 ### Analytic of Principles (A148/B187 – A309/B366): A note — mostly skippable on a first pass
 
-The honest instruction here is: **take it in outline, and in full only two things**. The chapter systematises the principles resulting when the categories are applied under the conditions of sensibility — the Axioms of Intuition, the Anticipations of Perception, the Analogies of Experience, and the Postulates of Empirical Thought — and much of it works out machinery you already have, at a level of detail a first pass does not need (see "What to skip" below).
+The honest instruction here is: **take it in outline, and in full only two things**. The chapter systematizes the principles resulting when the categories are applied under the conditions of sensibility — the Axioms of Intuition, the Anticipations of Perception, the Analogies of Experience, and the Postulates of Empirical Thought — and much of it works out machinery you already have, at a level of detail a first pass does not need (see "What to skip" below).
 
 The two exceptions matter. First, the **Analogies of Experience**, in outline. Objective temporal relations cannot be read off perception, since time itself cannot be perceived, so they must be determined by rules: permanence of substance (First Analogy), succession according to the law of cause and effect (Second Analogy), and thoroughgoing interaction (Third Analogy). The Second Analogy is the one to reconstruct: Kant's direct answer to Hume, arguing that we can distinguish an objective succession — an *event* — from the merely subjective order of our perceptions only if the succession is conceived as following a rule. Causality is thus a condition of experiencing events at all, not a habit. Second, the **Refutation of Idealism** (B274–279), new in B: consciousness of my own existence as determined in time presupposes the perception of something permanent *outside* me — so inner experience, Descartes' starting point, is possible only through outer experience. It is reconstructed as argument (d) below.
 
 **Difficulty warning:** the Analogies reward slow reading in outline; the surrounding system is where readers drown in completeness.
 
 
-### Paralogisms (A341/B399 onwards; B version prioritised): The soul
+### Paralogisms (A341/B399 onwards; B version prioritized): The soul
 
 The Dialectic begins here, and the reading gets easier even as the stakes rise. Transcendental Dialectic studies reason's characteristic illusion: reason demands the *unconditioned* — the complete, ultimate ground — and mistakes that demand for knowledge of objects beyond experience. Its first target is **rational psychology**, which argued from the "I think" to the soul as a simple, persisting substance, naturally immortal.
 
@@ -131,7 +131,7 @@ Read a selection: the opening and the first paralogism in full, the rest in summ
 
 ### Antinomies (A426/B454 onwards; selection: First and Third required): The world as a whole
 
-The Antinomies are the Dialectic's centrepiece and, for many readers, its most enjoyable stretch. When reason treats the **world** — the totality of appearances — as a completed object that could be known, it generates four pairs of apparently rigorous proofs for contradictory conclusions, **thesis** against **antithesis**; the collision itself is the datum to be explained.
+The Antinomies are the Dialectic's centerpiece and, for many readers, its most enjoyable stretch. When reason treats the **world** — the totality of appearances — as a completed object that could be known, it generates four pairs of apparently rigorous proofs for contradictory conclusions, **thesis** against **antithesis**; the collision itself is the datum to be explained.
 
 The **First Antinomy** concerns the world's limits: thesis, the world has a beginning in time and is enclosed in spatial limits; antithesis, it is infinite in both. The **Second** concerns divisibility: whether everything composite consists of simple parts, or nothing simple exists. Kant calls these the *mathematical* antinomies, and resolves them by holding **both sides false**: both assume the world as a whole is an object given in itself, whereas it exists only in the regress of our experience, never as a completed totality — so it is neither finite nor infinite. The **Third Antinomy**, required in full alongside the First, concerns causality: thesis, a causality through **freedom** must be assumed alongside causality according to laws of nature; antithesis, there is no freedom, and everything takes place solely according to laws of nature. The **Fourth** concerns a necessary being. These two are the *dynamical* antinomies, resolved differently: **both sides can be true**, from different standpoints — the antithesis true of appearances, the thesis possibly true of things in themselves.
 
@@ -145,7 +145,7 @@ Read the First and Third Antinomies with their resolutions; take the Second and 
 
 ### The Canon of Pure Reason (A795/B823 – A831/B859): What may I hope?
 
-Close the selection where Kant closes the book's argument: the Canon, first chapter of the Doctrine of Method. Kant asks what pure reason is *for*, organising philosophy around three questions (A805/B833): **What can I know? What ought I to do? What may I hope?** The first is speculative, and the *Critique* has answered it. The second is practical, and belongs to the *Groundwork*. The third is both at once, and the Canon is Kant's compressed answer to it.
+Close the selection where Kant closes the book's argument: the Canon, first chapter of the Doctrine of Method. Kant asks what pure reason is *for*, organizing philosophy around three questions (A805/B833): **What can I know? What ought I to do? What may I hope?** The first is speculative, and the *Critique* has answered it. The second is practical, and belongs to the *Groundwork*. The third is both at once, and the Canon is Kant's compressed answer to it.
 
 The reasoning runs through the **highest good**. If I do what I ought — if I make myself worthy of happiness — what may I then hope? Kant's answer: happiness in proportion to worthiness, but only on the supposition of a moral author of the world who can guarantee that proportion, since nature distributes happiness without regard to virtue. God and a future life appear here not as objects of knowledge — the Dialectic's critique of rational theology has closed that road — but as presuppositions of practical reason: articles of rational **faith**, in Kant's taxonomy of opining, believing, and knowing. The Canon thus states, inside the first *Critique* itself, the doctrine the *Critique of Practical Reason* will develop as the postulates: freedom, God, and immortality rationally believed, never known.
 
@@ -157,7 +157,7 @@ The reasoning runs through the **highest good**. If I do what I ought — if I m
 
 Skipping, in this book, is a strategy, not a confession. Everything below is skipped because its conclusion is covered elsewhere in the selection or matters only once the outline is secure.
 
-- **Most of the Analytic of Principles beyond the Analogies in outline** — the Axioms, Anticipations, and Postulates systematise results you already have; the detail pays only on a return visit.
+- **Most of the Analytic of Principles beyond the Analogies in outline** — the Axioms, Anticipations, and Postulates systematize results you already have; the detail pays only on a return visit.
 - **The Amphiboly of the Concepts of Reflection** — a technical polemic against Leibniz on identity and difference; fascinating, and entirely detachable on a first pass.
 - **The A Deduction, as required reading** — a famous alternative route to the Deduction's conclusion, not a second required argument (unless the B Deduction defeats you, per Week 3).
 - **The Second and Fourth Antinomies in full** — their resolutions repeat the First and Third's patterns (both false; both possibly true); summary gives you the pattern.
@@ -186,7 +186,7 @@ Each reconstruction follows the learning path's discipline: premises, conclusion
 
 **Objection:** Premises 3 and 4 lean on Euclidean geometry as unique and necessary. Non-Euclidean geometries, unknown to Kant, show alternative spatial structures are consistently thinkable, and modern physics treats physical space empirically — so Kantian space looks like one geometry among others, not a necessary form of all intuition.
 
-**Reply:** Kantians distinguish the *form of intuition* — spatiality as such — from the determinate metric geometry Kant took to articulate it. His Euclidean claims may fall while the core claim survives: outer experience still requires *some* a priori spatial form, contributed by sensibility rather than read off the world. Whether that retreat saves the argument or concedes its centre is a live dispute.
+**Reply:** Kantians distinguish the *form of intuition* — spatiality as such — from the determinate metric geometry Kant took to articulate it. His Euclidean claims may fall while the core claim survives: outer experience still requires *some* a priori spatial form, contributed by sensibility rather than read off the world. Whether that retreat saves the argument or concedes its center is a live dispute.
 
 ### (b) The Deduction's unity-of-apperception argument, in outline (B, §§16–26)
 
@@ -225,7 +225,7 @@ Each reconstruction follows the learning path's discipline: premises, conclusion
 2. All time-determination presupposes something permanent in perception, against which succession and duration can be determined.
 3. This permanent thing cannot be found in me — in my representations, which are in constant flux — nor be a mere representation of an outer thing; it must be a thing outside me, actually perceived.
 
-**Conclusion:** Consciousness of my own existence in time is possible only through the existence and perception of things outside me; inner experience presupposes outer experience, and the sceptical idealism that doubts the outer world while trusting the inner is refuted.
+**Conclusion:** Consciousness of my own existence in time is possible only through the existence and perception of things outside me; inner experience presupposes outer experience, and the skeptical idealism that doubts the outer world while trusting the inner is refuted.
 
 **Objection:** Premises 2 and 3 may carry more weight than they can bear: a determinate temporal order might require only a stable *framework* of representations, not actually existing outer things. Kant's slide from "something permanent" to "a permanent *thing outside me*" has struck critics since his contemporaries as the vulnerable joint.
 

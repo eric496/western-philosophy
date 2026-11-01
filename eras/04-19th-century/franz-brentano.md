@@ -15,7 +15,7 @@
 
 Brentano came from an intellectual Catholic family of Italian-German descent — the Romantic writer Clemens Brentano was his uncle, and his brother Lujo Brentano became a leading economist. He studied philosophy and theology at Munich, Würzburg, Berlin, and Münster, steeping himself in Aristotle and the medieval scholastics at a time when German universities largely ignored them. Ordained a Catholic priest in 1864, he qualified as a lecturer (*Privatdozent*) at Würzburg in 1866 — extraordinary professor in 1872, full professor in 1873 — and wrote a respected early study of Aristotle's psychology.
 
-His career then collided with the Church. Brentano rejected the doctrine of papal infallibility proclaimed in 1870 and, in 1873, resigned his chair and left the priesthood (he formally left the Church in 1879). Appointed professor at the University of Vienna in 1874, he became one of the most magnetic lecturers in Europe — but when he married Ida von Lieben in 1880, Austrian law, treating him still as a priest, would not recognise the marriage in his university capacity, and he was forced to resign his chair, continuing for fifteen years as a mere *Privatdozent*. The injustice rankled for the rest of his life; in 1895 he left Vienna, settling in Florence in 1896, and after Italy entered the First World War he moved to Zurich, where he died in 1917, blind and dictating revisions to the end.
+His career then collided with the Church. Brentano rejected the doctrine of papal infallibility proclaimed in 1870 and, in 1873, resigned his chair and left the priesthood (he formally left the Church in 1879). Appointed professor at the University of Vienna in 1874, he became one of the most magnetic lecturers in Europe — but when he married Ida von Lieben in 1880, Austrian law, treating him still as a priest, would not recognize the marriage in his university capacity, and he was forced to resign his chair, continuing for fifteen years as a mere *Privatdozent*. The injustice rankled for the rest of his life; in 1895 he left Vienna, settling in Florence in 1896, and after Italy entered the First World War he moved to Zurich, where he died in 1917, blind and dictating revisions to the end.
 
 His fame rests disproportionately on his teaching. His Viennese students included Edmund Husserl, Alexius Meinong, Christian von Ehrenfels, Kazimierz Twardowski, and (in his lecture audience) the young Sigmund Freud, who had attended Brentano's courses and translated a volume of Mill at his recommendation. Through Twardowski, Brentano's ideas seeded the great Lvov–Warsaw school of Polish logic; through Husserl, phenomenology; through Meinong and Ehrenfels, Gestalt psychology and the theory of objects.
 
@@ -23,7 +23,7 @@ His fame rests disproportionately on his teaching. His Viennese students include
 
 ### Intentionality
 
-Brentano's most famous idea appears in *Psychology from an Empirical Standpoint* (1874). Every mental phenomenon, he wrote, "includes something as object within itself": in presentation something is presented, in judgment something is affirmed or denied, in love something is loved, in hate hated. He called this the **intentional inexistence** of an object — "intentional" revives the scholastic *intentio*, the mind's directedness toward a thing; "inexistence" means the object's existing *in* the act, not that it exists in the world (you can fear a ghost that isn't there). This aboutness, Brentano claimed, marks off the mental from the physical: no merely physical phenomenon is *about* anything. The thesis raises hard questions he and his students wrestled with: what exactly is the status of non-existent objects of thought, and is aboutness really absent from the physical world? Those questions became research programmes for a century.
+Brentano's most famous idea appears in *Psychology from an Empirical Standpoint* (1874). Every mental phenomenon, he wrote, "includes something as object within itself": in presentation something is presented, in judgment something is affirmed or denied, in love something is loved, in hate hated. He called this the **intentional inexistence** of an object — "intentional" revives the scholastic *intentio*, the mind's directedness toward a thing; "inexistence" means the object's existing *in* the act, not that it exists in the world (you can fear a ghost that isn't there). This aboutness, Brentano claimed, marks off the mental from the physical: no merely physical phenomenon is *about* anything. The thesis raises hard questions he and his students wrestled with: what exactly is the status of non-existent objects of thought, and is aboutness really absent from the physical world? Those questions became research programs for a century.
 
 ### Descriptive psychology
 
@@ -31,7 +31,7 @@ Brentano distinguished two psychological sciences. **Genetic psychology** explai
 
 ### The four phases of philosophy
 
-Brentano also taught a philosophy of history: each cultural era cycles through a rising phase of rigorous, science-like inquiry, then decline through mysticism and scepticism. He placed himself — and his Aristotelian-scholastic training — as the agent of a new rising phase. This is why his revival of scholastic distinctions was not nostalgia: he believed the medievals at their best had done philosophy with scientific seriousness.
+Brentano also taught a philosophy of history: each cultural era cycles through a rising phase of rigorous, science-like inquiry, then decline through mysticism and skepticism. He placed himself — and his Aristotelian-scholastic training — as the agent of a new rising phase. This is why his revival of scholastic distinctions was not nostalgia: he believed the medievals at their best had done philosophy with scientific seriousness.
 
 ### Ethics and the theory of value
 
@@ -46,7 +46,7 @@ Brentano grounded value in the emotions: we call something good when it is the o
 
 ## Contributions
 
-Brentano contributed a question more than a doctrine: *what makes a state mental?* By reviving intentionality he gave philosophers of mind their central problem in modern form, and he built the institutional and conceptual bridge between scholastic philosophy and the two great successor movements of the 20th century — phenomenology and analytic philosophy of mind. His demand that philosophy proceed with the rigour of a science, and his descriptive method, are the common root of both. He also pioneered the rigorous classroom as a philosophical instrument: the Brentano school is a large part of why Vienna became a philosophical capital.
+Brentano contributed a question more than a doctrine: *what makes a state mental?* By reviving intentionality he gave philosophers of mind their central problem in modern form, and he built the institutional and conceptual bridge between scholastic philosophy and the two great successor movements of the 20th century — phenomenology and analytic philosophy of mind. His demand that philosophy proceed with the rigor of a science, and his descriptive method, are the common root of both. He also pioneered the rigorous classroom as a philosophical instrument: the Brentano school is a large part of why Vienna became a philosophical capital.
 
 ## Impact and legacy
 
@@ -62,7 +62,7 @@ Husserl transformed the descriptive psychology he learned from Brentano into phe
 
 - Brentano was not a phenomenologist; phenomenology is his student's transformation of his method, with crucial changes he did not live to endorse.
 - "Intentional" in Brentano has nothing to do with intentions or doing things on purpose in the everyday sense; it means directedness or aboutness.
-- He was not a laboratory experimentalist manqué. His "empirical standpoint" meant grounding psychology in careful first-person description and inner perception, and he was pointedly sceptical of reducing psychology to physiology.
+- He was not a laboratory experimentalist manqué. His "empirical standpoint" meant grounding psychology in careful first-person description and inner perception, and he was pointedly skeptical of reducing psychology to physiology.
 
 ## What to read first
 

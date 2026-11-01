@@ -9,7 +9,7 @@
 - **School/tradition:** No school in his lifetime; later claimed by existentialism and post-structuralism
 - **Known for:** The diagnosis that European culture's Christian values have collapsed ("God is dead"), and the demand to create new values through genealogy, self-overcoming, and affirmation of life as it is.
 
-**Responds to:** [Schopenhauer](arthur-schopenhauer.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md), [Foucault](../05-20th-century/michel-foucault.md)
+**Responds to:** [Schopenhauer](arthur-schopenhauer.md), [Emerson & Thoreau](emerson-and-thoreau.md) · **Answered by:** [Heidegger](../05-20th-century/martin-heidegger.md), [Sartre](../05-20th-century/jean-paul-sartre.md), [Foucault](../05-20th-century/michel-foucault.md)
 
 ## Biography
 
@@ -35,7 +35,7 @@ In *The Gay Science* §125 (1882), a madman announces to amused market-goers tha
 
 The *Genealogy of Morals* (1887) asks a new kind of question about morality: not "is it true?" but "where did it come from, and whom does it serve?" In the First Essay, Nietzsche contrasts *master morality* — the self-valuing of the noble, who calls himself and his like "good" spontaneously and only secondarily calls the low and common "bad" — with *slave morality*, born of *ressentiment*: the powerless creatively invert the masters' values, redefining the masters' strength as "evil" and their own humility, patience, pity, and weakness as "good." The slave revolt in morality (which Nietzsche traces to priestly Judaism and its heir, Christianity) is, in his telling, a triumph of spiritual revenge that conquered the Roman world and still defines European conscience. Note: this master/slave pair is a typology of value-creation, not Hegel's lordship-and-bondage dialectic; the two are often confused and must be kept apart.
 
-The Second Essay traces *bad conscience*: instincts of cruelty that a civilised, enclosed society can no longer discharge outward turn inward, and the soul learns to torture itself — the raw material of guilt. The Third examines the *ascetic ideal* — the priestly, scholarly, and philosophical glorification of self-denial — which gave suffering a meaning ("man prefers to will nothingness than not will") while poisoning life in the process.
+The Second Essay traces *bad conscience*: instincts of cruelty that a civilized, enclosed society can no longer discharge outward turn inward, and the soul learns to torture itself — the raw material of guilt. The Third examines the *ascetic ideal* — the priestly, scholarly, and philosophical glorification of self-denial — which gave suffering a meaning ("man prefers to will nothingness than not will") while poisoning life in the process.
 
 ### Will to power
 
@@ -47,7 +47,7 @@ Introduced in *The Gay Science* §341 ("the greatest weight") and at the heart o
 
 ### Übermensch and the last man
 
-Zarathustra's *Übermensch* (overman) is the figure who creates values after the death of God, remaining "faithful to the earth" rather than inventing heavens. He is an aspiration or regulative ideal, not a biological master race and not a programme. His opposite is the *last man*: the comfortable, riskless, medicated creature of modern mediocrity who "invented happiness" and blinks.
+Zarathustra's *Übermensch* (overman) is the figure who creates values after the death of God, remaining "faithful to the earth" rather than inventing heavens. He is an aspiration or regulative ideal, not a biological master race and not a program. His opposite is the *last man*: the comfortable, riskless, medicated creature of modern mediocrity who "invented happiness" and blinks.
 
 ### Perspectivism
 
@@ -107,7 +107,7 @@ Nietzsche added the *genealogical method* — unmasking ideals by their origins 
 
 ## Impact and legacy
 
-His influence runs through existentialism (Heidegger, Sartre, Camus), psychoanalysis (Freud insisted he had "more penetrating knowledge of himself than any other man"), French post-structuralism (Foucault took genealogy directly from him; Deleuze and Derrida rebuilt readings of him), and modernist literature from Mann to Musil. The Nazi appropriation, engineered by his sister's archive and selective editing, collapsed under post-war scholarship but still colours his popular image.
+His influence runs through existentialism (Heidegger, Sartre, Camus), psychoanalysis (Freud insisted he had "more penetrating knowledge of himself than any other man"), French post-structuralism (Foucault took genealogy directly from him; Deleuze and Derrida rebuilt readings of him), and modernist literature from Mann to Musil. The Nazi appropriation, engineered by his sister's archive and selective editing, collapsed under post-war scholarship but still colors his popular image.
 
 ## Criticisms and debates
 
@@ -133,9 +133,9 @@ Habermas and others charge that his critique of reason is itself irrationalist a
 ## Study questions
 
 1. Reconstruct the First Essay's argument: how does slave morality arise from *ressentiment*, creatively inverting the noble's "good/bad" into "good/evil"? What exactly is creative about the slave revolt, and what evidence does Nietzsche offer for it?
-2. Reconstruct the Second Essay's account of bad conscience: trace the steps from enclosed, civilised society and instincts of cruelty blocked from outward discharge to guilt and the soul torturing itself. Which step is most vulnerable, and why?
+2. Reconstruct the Second Essay's account of bad conscience: trace the steps from enclosed, civilized society and instincts of cruelty blocked from outward discharge to guilt and the soul torturing itself. Which step is most vulnerable, and why?
 3. Press the genetic-fallacy objection: even if pity and humility arose from resentment, why should that discredit them now? Give the defender's reply — that genealogy destroys morality's aura and forces the question of the value of values — and judge it.
-4. Explain, using perspectivism, why "Nietzsche thinks morality is just relative" misstates his critique. If more perspectives make a judgement more objective, by what standard does he still rank master above slave morality?
+4. Explain, using perspectivism, why "Nietzsche thinks morality is just relative" misstates his critique. If more perspectives make a judgment more objective, by what standard does he still rank master above slave morality?
 5. Apply Essay II to a contemporary guilt-and-shame practice — for example, public apology rituals on social media. Where is cruelty turned inward, what meaning does the practice give suffering, and would Nietzsche call it bad conscience, an ascetic ideal, or something else?
 
 ---

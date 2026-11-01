@@ -27,7 +27,7 @@ Comte's most famous claim is that every branch of human knowledge — and human 
 
 ### Positivism
 
-"Positive" philosophy (from *positif*: certain, useful, constructive) is both an epistemology and a programme. Epistemologically, genuine knowledge is confined to what can be observed and stated as law-like regularities; unobservable entities and ultimate causes are not false but meaningless as objects of inquiry. As a programme, positivism was meant to end the intellectual "anarchy" of post-Revolutionary Europe: once social questions are settled scientifically, society can be reorganised on a rational basis — "order and progress," a motto later inscribed on the flag of Brazil under positivist influence.
+"Positive" philosophy (from *positif*: certain, useful, constructive) is both an epistemology and a program. Epistemologically, genuine knowledge is confined to what can be observed and stated as law-like regularities; unobservable entities and ultimate causes are not false but meaningless as objects of inquiry. As a program, positivism was meant to end the intellectual "anarchy" of post-Revolutionary Europe: once social questions are settled scientifically, society can be reorganized on a rational basis — "order and progress," a motto later inscribed on the flag of Brazil under positivist influence.
 
 ### The hierarchy of the sciences
 
@@ -47,11 +47,11 @@ In the *System of Positive Polity* (1851–1854), Comte argued that positivism m
 
 ## Contributions
 
-Comte gave the social sciences their name, their self-image, and their first grand theory. "Sociology" is his coinage, and Émile Durkheim's founding of academic sociology is unintelligible without him. His classification of the sciences shaped how universities and curricula were organised, and his insistence that knowledge be confined to observable regularities fed directly into the logical positivism of the Vienna Circle (see the 20th-century entries) and into modern philosophy of science. The very word "altruism" is also his.
+Comte gave the social sciences their name, their self-image, and their first grand theory. "Sociology" is his coinage, and Émile Durkheim's founding of academic sociology is unintelligible without him. His classification of the sciences shaped how universities and curricula were organized, and his insistence that knowledge be confined to observable regularities fed directly into the logical positivism of the Vienna Circle (see the 20th-century entries) and into modern philosophy of science. The very word "altruism" is also his.
 
 ## Impact and legacy
 
-Positivism became one of the most influential ideologies of the later 19th century: it shaped republican politics in France, modernising movements in Brazil and Mexico, and the Turkish reforms of the Young Turks. In Britain, Harriet Martineau's condensed translation of the *Course* (1853) made Comte famous; Mill, George Eliot, and George Henry Lewes all engaged seriously with him. In the 20th century his reputation narrowed: philosophers of science kept the epistemology and dropped the religion, while sociologists kept the ambition for a science of society and dropped the three stages.
+Positivism became one of the most influential ideologies of the later 19th century: it shaped republican politics in France, modernizing movements in Brazil and Mexico, and the Turkish reforms of the Young Turks. In Britain, Harriet Martineau's condensed translation of the *Course* (1853) made Comte famous; Mill, George Eliot, and George Henry Lewes all engaged seriously with him. In the 20th century his reputation narrowed: philosophers of science kept the epistemology and dropped the religion, while sociologists kept the ambition for a science of society and dropped the three stages.
 
 ## Criticisms and debates
 
@@ -63,7 +63,7 @@ Positivism became one of the most influential ideologies of the later 19th centu
 ## Misreadings to avoid
 
 - Positivism is not the claim that "science can answer everything." Comte himself insisted that once knowledge is positive, the deepest *why* questions are not answered but dissolved — and he built a religion precisely because he thought facts alone cannot hold a society together.
-- Comte did not invent the idea of stages of history from nothing; he systematised ideas circulating in Saint-Simon's circle, which is why the priority quarrel matters to his biography.
+- Comte did not invent the idea of stages of history from nothing; he systematized ideas circulating in Saint-Simon's circle, which is why the priority quarrel matters to his biography.
 - The later religious writings are not an embarrassing appendix his followers invented — Comte regarded the *Polity*, not the *Course*, as his crowning work.
 
 ## What to read first

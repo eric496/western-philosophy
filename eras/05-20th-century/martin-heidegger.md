@@ -8,7 +8,7 @@
 - **School/tradition:** Phenomenological and hermeneutic tradition; reopened the question of Being
 - **Known for:** *Being and Time* (1927), the analysis of human existence as *Dasein*, and a later, influential critique of modern technology
 
-**Responds to:** [Husserl](edmund-husserl.md), [Nietzsche](../04-19th-century/friedrich-nietzsche.md) · **Answered by:** [Levinas](emmanuel-levinas.md), [Gadamer](hans-georg-gadamer.md), [Sartre](jean-paul-sartre.md)
+**Responds to:** [Husserl](edmund-husserl.md), [Nietzsche](../04-19th-century/friedrich-nietzsche.md) · **Answered by:** [Levinas](emmanuel-levinas.md), [Gadamer](hans-georg-gadamer.md), [Sartre](jean-paul-sartre.md), [Jaspers](karl-jaspers.md), [Strauss](leo-strauss.md)
 
 ## Biography
 
@@ -44,7 +44,7 @@ Existence lived wholly under the They, fleeing its own finitude into distraction
 
 What can individuate Dasein — pull it out of the They — is confronting mortality in a specific way. Death, in Heidegger’s analysis, is my *ownmost* possibility: no one can die my death for me. It is *non-relational* for the same reason, and *not to be outstripped*: every other project ends there. It is also indefinite in its “when,” and always possible.
 
-Ordinarily the They tranquillises this: “one dies, eventually, but not yet, and not me in particular.” *Being-toward-death* (*Sein zum Tode*) reverses the evasion. If I understand my existence as finite through and through — if I *anticipate* death rather than merely expecting it as a future event — my other possibilities change character. They become visibly mine, limited, and urgent. This owning of finitude, joined with taking over one’s thrown situation rather than disowning it, is *authenticity* (*Eigentlichkeit*). A related experience is the call of conscience and *resoluteness*: not a dramatic self-invention, but a readiness to act in one’s concrete situation without the alibi that the They decided.
+Ordinarily the They tranquillizes this: “one dies, eventually, but not yet, and not me in particular.” *Being-toward-death* (*Sein zum Tode*) reverses the evasion. If I understand my existence as finite through and through — if I *anticipate* death rather than merely expecting it as a future event — my other possibilities change character. They become visibly mine, limited, and urgent. This owning of finitude, joined with taking over one’s thrown situation rather than disowning it, is *authenticity* (*Eigentlichkeit*). A related experience is the call of conscience and *resoluteness*: not a dramatic self-invention, but a readiness to act in one’s concrete situation without the alibi that the They decided.
 
 Internal tensions are real. Critics ask whether an account built on *my* death can do justice to other people as more than background, and whether authenticity has any moral content at all — a resolute person, on the bare analysis, could resolutely choose something terrible. Heidegger’s defenders argue the analysis is formally about owning choices, not a moral code, and that later work supplies more on others, history, and ethics. The gap remains one of the most discussed in the literature.
 
@@ -52,7 +52,7 @@ Internal tensions are real. Critics ask whether an account built on *my* death c
 
 After a “turn” (*Kehre*) much debated by scholars, the later Heidegger shifts emphasis from Dasein’s analysis to the history of Being itself — how different epochs disclose beings in different ways. Language becomes central: in the “Letter on Humanism” (1947) he calls language “the house of Being,” and rejects Sartre’s humanist existentialism as still trapped in metaphysics.
 
-The best-known late essay, “The Question Concerning Technology” (lectured 1953, published 1954), argues that the essence of modern technology is not machines. It is a way of revealing the world he calls *enframing* (*Gestell*): nature and even people show up as *standing-reserve* (*Bestand*) — a river as hydroelectric capacity, a forest as timber inventory, workers as human resources — stock to be ordered and optimised. The danger is not any single device but that this one way of revealing crowds out all others, including our sense of ourselves. His counter-words — *poiesis*, bringing-forth, and later *Gelassenheit*, releasement — point to a more receptive relation to things, though critics find the practical conclusions thin.
+The best-known late essay, “The Question Concerning Technology” (lectured 1953, published 1954), argues that the essence of modern technology is not machines. It is a way of revealing the world he calls *enframing* (*Gestell*): nature and even people show up as *standing-reserve* (*Bestand*) — a river as hydroelectric capacity, a forest as timber inventory, workers as human resources — stock to be ordered and optimized. The danger is not any single device but that this one way of revealing crowds out all others, including our sense of ourselves. His counter-words — *poiesis*, bringing-forth, and later *Gelassenheit*, releasement — point to a more receptive relation to things, though critics find the practical conclusions thin.
 
 ## Key works
 
@@ -93,7 +93,7 @@ Philosophical criticisms are independent and substantial: Levinas charged that H
 ## Study questions
 
 1. A carpenter's hammer breaks mid-task. Reconstruct, in Heidegger's terms, what changes in how the hammer shows up, and why he treats the present-at-hand stance of detached theory as derivative from ready-to-hand involvement rather than primary.
-2. Death is called Dasein's ownmost, non-relational, unsurpassable possibility. Explain each term, and show how anticipating death differs from merely expecting that one will die someday — and what the They does to tranquillise it.
+2. Death is called Dasein's ownmost, non-relational, unsurpassable possibility. Explain each term, and show how anticipating death differs from merely expecting that one will die someday — and what the They does to tranquillize it.
 3. Critics object that authenticity carries no moral content: one could resolutely own a terrible choice. State the objection, the defender's reply that the analysis is formal rather than a moral code, and judge whether the reply is enough.
 4. Contrast being-in-the-world with the Cartesian picture of a subject that must first prove an external world exists. Which familiar philosophical problem does Heidegger claim simply fails to arise on his account, and why?
 5. Apply enframing to a fresh case: a river administered solely as hydroelectric capacity, its valley's other meanings treated as obstacles. What, for Heidegger, is the danger — and why is it not a complaint about machinery?

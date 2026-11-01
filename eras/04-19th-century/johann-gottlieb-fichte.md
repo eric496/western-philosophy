@@ -9,13 +9,13 @@
 - **School/tradition:** German Idealism; founder of the first post-Kantian system
 - **Known for:** Deriving experience from the self-positing "I" of his *Wissenschaftslehre* ("Doctrine of Science") — the bridge from Kant to Hegel.
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [Hegel](g-w-f-hegel.md), [Schopenhauer](arthur-schopenhauer.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [Hegel](g-w-f-hegel.md), [Schopenhauer](arthur-schopenhauer.md), [Schelling](friedrich-schelling.md)
 
 ## Biography
 
 Fichte was born in 1762 in the Saxon village of Rammenau, the son of a poor ribbon-weaver. His memory and intelligence caught the eye of a local nobleman, who paid for his schooling — an origin story Fichte never forgot, and one reason his philosophy always insists that the self is made by its own activity, not by its circumstances. He studied theology at Jena and Leipzig, then scraped a living as a private tutor.
 
-His life changed in 1790, when a tutoring pupil asked for help understanding Kant. Reading the *Critique of Practical Reason* converted him: Fichte later wrote that he had been living in a new world ever since. In 1791 he travelled to Königsberg hoping to meet Kant and presented him with a manuscript, the *Attempt at a Critique of All Revelation* (1792). Kant was impressed enough to arrange its publication. Through a mix-up the book appeared anonymously, reviewers assumed it was by Kant himself, and when the authorship emerged Fichte was famous overnight.
+His life changed in 1790, when a tutoring pupil asked for help understanding Kant. Reading the *Critique of Practical Reason* converted him: Fichte later wrote that he had been living in a new world ever since. In 1791 he traveled to Königsberg hoping to meet Kant and presented him with a manuscript, the *Attempt at a Critique of All Revelation* (1792). Kant was impressed enough to arrange its publication. Through a mix-up the book appeared anonymously, reviewers assumed it was by Kant himself, and when the authorship emerged Fichte was famous overnight.
 
 The fame won him a chair at Jena in 1794, where his lectures were a sensation and where he produced the *Foundations of the Entire Wissenschaftslehre* (1794/95) and major works on natural right and ethics. His Jena career ended in the "atheism dispute" of 1798–99: an essay suggesting that God should be identified with the moral order of the world drew charges of atheism, and Fichte's combative handling of the affair forced his dismissal in 1799. He moved to Berlin, lectured privately to packed rooms, held a chair briefly at Erlangen, and in 1811 was elected the first rector of the new University of Berlin, which he had helped to plan.
 
@@ -33,7 +33,7 @@ A self that posited only itself would have no world and no consciousness of anyt
 
 ### Striving (Streben)
 
-Because the I is checked, it never simply coincides with itself: it experiences itself as a drive to overcome the limit, to make the Not-I conform to its rational purposes. This endless **striving** is, for Fichte, the deepest fact about us — more basic than knowing. Theoretical reason is subordinate to practical reason, and the complete identity of I and world is an ideal approached infinitely, never reached. Hence many readers take Fichte, not Kant, as the true philosopher of freedom and effort — and Schopenhauer, who hated his system, still inherited its picture of the world as the theatre of a striving will.
+Because the I is checked, it never simply coincides with itself: it experiences itself as a drive to overcome the limit, to make the Not-I conform to its rational purposes. This endless **striving** is, for Fichte, the deepest fact about us — more basic than knowing. Theoretical reason is subordinate to practical reason, and the complete identity of I and world is an ideal approached infinitely, never reached. Hence many readers take Fichte, not Kant, as the true philosopher of freedom and effort — and Schopenhauer, who hated his system, still inherited its picture of the world as the theater of a striving will.
 
 ### Intersubjectivity and right
 
@@ -69,7 +69,7 @@ Schelling began as Fichte's disciple and Hegel as Schelling's collaborator; neit
 
 - **The Anstoß problem:** if everything is posited by the I, what checks it? Critics since Jacobi have held that Fichte either smuggles in the thing-in-itself or collapses into solipsism; defenders treat the check as internal to the I's own finite structure.
 - **Obscurity and revision:** Fichte restated the system so often that scholars debate whether there is one Wissenschaftslehre or several; the 1794 version and the late Berlin versions differ in emphasis and method.
-- **The atheism dispute:** whether identifying God with the moral world-order is pantheism, atheism, or a legitimate radicalisation of Kant's moral theology remains contested.
+- **The atheism dispute:** whether identifying God with the moral world-order is pantheism, atheism, or a legitimate radicalization of Kant's moral theology remains contested.
 - **The Addresses:** resistance literature under occupation, or seed-text of ethnic nationalism? The debate turns on how one reads his language-based account of peoplehood and his educational authoritarianism.
 
 ## Misreadings to avoid

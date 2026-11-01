@@ -6,7 +6,7 @@
 
 - **Dates:** 1842–1910
 - **Place:** New York City and Cambridge, Massachusetts, USA
-- **School/tradition:** Pragmatism (its great populariser); founder of American psychology
+- **School/tradition:** Pragmatism (its great popularizer); founder of American psychology
 - **Known for:** Making pragmatism a public philosophy — truth as what proves itself in experience, the will to believe, and the stream of consciousness.
 
 **Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md)
@@ -17,7 +17,7 @@ William James was born in New York in 1842 into one of America's most remarkable
 
 His path to a vocation was indirect. He studied painting, switched to science at Harvard, then medicine, interrupting everything with an expedition to Brazil with the naturalist Louis Agassiz and with bouts of depression and neurasthenic collapse. His private crisis around 1870 — recorded in a diary entry after reading the French philosopher Charles Renouvier — became his personal proof of free will: "My first act of free will shall be to believe in free will." The episode underlies both his psychology of habit and his later doctrine of the will to believe.
 
-Harvard gave him a lectureship in physiology in 1872; he migrated to psychology — teaching the first American course in the new subject and founding one of its first laboratories, though he disliked lab work — and then to philosophy. His *Principles of Psychology* (1890), twelve years in the writing, was instantly a classic. Thereafter came the works that made him a public sage: *The Will to Believe* (1897), the Gifford Lectures published as *The Varieties of Religious Experience* (1902), and *Pragmatism* (1907). He championed Peirce — crediting him as pragmatism's originator in an 1898 Berkeley address — while popularising a warmer version Peirce resisted. He opposed American imperialism in the Philippines loudly and publicly, and died of heart trouble in 1910 at Chocorua, New Hampshire. Russell and Wittgenstein both read him closely; Wittgenstein's esteem for the *Varieties* is only the most surprising instance.
+Harvard gave him a lectureship in physiology in 1872; he migrated to psychology — teaching the first American course in the new subject and founding one of its first laboratories, though he disliked lab work — and then to philosophy. His *Principles of Psychology* (1890), twelve years in the writing, was instantly a classic. Thereafter came the works that made him a public sage: *The Will to Believe* (1897), the Gifford Lectures published as *The Varieties of Religious Experience* (1902), and *Pragmatism* (1907). He championed Peirce — crediting him as pragmatism's originator in an 1898 Berkeley address — while popularizing a warmer version Peirce resisted. He opposed American imperialism in the Philippines loudly and publicly, and died of heart trouble in 1910 at Chocorua, New Hampshire. Russell and Wittgenstein both read him closely; Wittgenstein's esteem for the *Varieties* is only the most surprising instance.
 
 ## Major theories and concepts
 
@@ -31,7 +31,7 @@ In the 1896 address "The Will to Believe," James defends a narrow permission: wh
 
 ### The stream of consciousness and the self
 
-The *Principles* replaced the picture of the mind as a chain of discrete ideas with the *stream of thought*: consciousness is personal, continuous, always changing, selectively interested, and deals with objects independent of itself. Its "fringes" — the felt penumbra of relations, tendencies, and meanings around clear foci — matter as much as its bright centres. James's self is layered: the material self, the social selves (as many as there are audiences), and the spiritual self, unified only as a passing Thought that appropriates its predecessors.
+The *Principles* replaced the picture of the mind as a chain of discrete ideas with the *stream of thought*: consciousness is personal, continuous, always changing, selectively interested, and deals with objects independent of itself. Its "fringes" — the felt penumbra of relations, tendencies, and meanings around clear foci — matter as much as its bright centers. James's self is layered: the material self, the social selves (as many as there are audiences), and the spiritual self, unified only as a passing Thought that appropriates its predecessors.
 
 ### The James–Lange theory of emotion
 
@@ -48,7 +48,7 @@ His late metaphysics held that relations are themselves given in experience, not
 ## Key works
 
 - *The Principles of Psychology* (1890) — The founding text of American psychology; chapters on habit, the stream of thought, and the self are still read.
-- *The Will to Believe and Other Essays* (1897) — Contains the title address and his defence of passional decision in undecidable, momentous options.
+- *The Will to Believe and Other Essays* (1897) — Contains the title address and his defense of passional decision in undecidable, momentous options.
 - *The Varieties of Religious Experience* (1902) — The Gifford Lectures (1901–02): psychology and philosophy of religion via case study.
 - *Pragmatism* (1907) — Eight lectures; the popular statement of the method and the truth theory (Lectures 2 and 6 are the core).
 - *The Meaning of Truth* (1909) — His replies to critics of the truth theory.

@@ -5,17 +5,17 @@
 ## At a glance
 
 - **Dates:** A movement, not a person — active in Vienna from the mid-1920s until its dispersal in the late 1930s; its influence runs through the rest of the twentieth century.
-- **Place:** Vienna, Austria; with a parallel group in Berlin and, after emigration, centres in Britain and the United States.
+- **Place:** Vienna, Austria; with a parallel group in Berlin and, after emigration, centers in Britain and the United States.
 - **School/tradition:** Analytic philosophy and philosophy of science; the Circle's doctrine is called logical positivism, or logical empiricism.
-- **Known for:** The verification principle — meaningful statements must be analytic or empirically verifiable — and the programme of a unified science clarified by logic.
+- **Known for:** The verification principle — meaningful statements must be analytic or empirically verifiable — and the program of a unified science clarified by logic.
 
 **Responds to:** [Russell](bertrand-russell.md), [Wittgenstein (early)](wittgenstein-early.md) · **Answered by:** [Popper](karl-popper.md), [Quine](w-v-o-quine.md), [Kuhn](thomas-kuhn.md)
 
 ## Biography
 
-The Vienna Circle grew out of discussions Moritz Schlick (1882–1936) began after his appointment in 1922 to a Vienna chair once held by Ernst Mach. From about 1924 a group met on Thursday evenings around Schlick: Rudolf Carnap (1891–1970), its leading theorist; mathematician Hans Hahn; sociologist Otto Neurath, its organiser; Herbert Feigl; Friedrich Waismann; and others, including Kurt Gödel as an occasional participant. A parallel Berlin group gathered around Hans Reichenbach. In "Red Vienna," several members — Neurath above all — saw the scientific world-conception as part of a broader project of public enlightenment.
+The Vienna Circle grew out of discussions Moritz Schlick (1882–1936) began after his appointment in 1922 to a Vienna chair once held by Ernst Mach. From about 1924 a group met on Thursday evenings around Schlick: Rudolf Carnap (1891–1970), its leading theorist; mathematician Hans Hahn; sociologist Otto Neurath, its organizer; Herbert Feigl; Friedrich Waismann; and others, including Kurt Gödel as an occasional participant. A parallel Berlin group gathered around Hans Reichenbach. In "Red Vienna," several members — Neurath above all — saw the scientific world-conception as part of a broader project of public enlightenment.
 
-Two inheritances converged: empiricism modernised by science (Mach, relativity, Frege and Russell's logic), and Wittgenstein's *Tractatus* (1921/1922), read line by line in 1926–27 for its line between science and metaphysical nonsense. Wittgenstein kept his distance — he was not an empiricist or a member — and the Circle's Wittgenstein was partly its own construction.
+Two inheritances converged: empiricism modernized by science (Mach, relativity, Frege and Russell's logic), and Wittgenstein's *Tractatus* (1921/1922), read line by line in 1926–27 for its line between science and metaphysical nonsense. Wittgenstein kept his distance — he was not an empiricist or a member — and the Circle's Wittgenstein was partly its own construction.
 
 In 1929 the group announced itself with the manifesto *The Scientific Conception of the World* (mainly Carnap, Hahn, and Neurath): a unified science, clarified by logical analysis. Expansion followed — *Erkenntnis*, unity-of-science congresses, and Ayer, whose *Language, Truth and Logic* (1936) carried positivism into English.
 
@@ -37,7 +37,7 @@ Kant had held that some truths are *synthetic a priori*: informative about the w
 
 ### Philosophy as logical clarification; the unity of science
 
-Positivists demoted rather than abolished philosophy: it is not a science delivering facts about a higher realm, but an *activity* — the logical clarification of the language of science. Its programme was *unified science*: Neurath's encyclopedia project and the physicalist thesis that scientific statements can be translated into a common physical language. A famous internal dispute concerned *protocol sentences*, the observation statements on which testing rests. Neurath denied any incorrigible foundations — sailors rebuilding their ship at sea, never able to start from dry dock. Schlick sought firm affirmations tied directly to experience. The Circle was never a monolith.
+Positivists demoted rather than abolished philosophy: it is not a science delivering facts about a higher realm, but an *activity* — the logical clarification of the language of science. Its program was *unified science*: Neurath's encyclopedia project and the physicalist thesis that scientific statements can be translated into a common physical language. A famous internal dispute concerned *protocol sentences*, the observation statements on which testing rests. Neurath denied any incorrigible foundations — sailors rebuilding their ship at sea, never able to start from dry dock. Schlick sought firm affirmations tied directly to experience. The Circle was never a monolith.
 
 ### The emotive theory of ethics
 
@@ -54,7 +54,7 @@ Other tensions accumulated: universal laws, weak verification, Karl Popper's riv
 ## Key works
 
 - **Carnap, *The Logical Structure of the World* (1928)** — Construction of all concepts from elementary experiences using Russellian logic.
-- ***The Scientific Conception of the World*** (1929), by Hahn, Neurath, and Carnap — The manifesto; the best short statement of aims and the unity-of-science programme.
+- ***The Scientific Conception of the World*** (1929), by Hahn, Neurath, and Carnap — The manifesto; the best short statement of aims and the unity-of-science program.
 - **Carnap, "The Elimination of Metaphysics"** (1932) — The verificationist attack on Heidegger; the clearest exhibition of the method.
 - **Schlick, "Positivism and Realism"** (1932/33) — The founder's calmer statement, useful against caricatures from Carnap alone.
 - **Ayer, *Language, Truth and Logic*** (1936) — Chapters 1 and 6: elimination of metaphysics and emotivism. Read as a manifesto, not settled doctrine.
@@ -63,8 +63,8 @@ Other tensions accumulated: universal laws, weak verification, Karl Popper's riv
 
 1. **A criterion-driven philosophy of meaning.** The demand — say what would count for or against your claim — permanently raised analytic philosophy's standard of clarity.
 2. **Logic applied to science.** Carnap and Reichenbach founded modern philosophy of science as a technical discipline.
-3. **The linguistic turn, institutionalised.** Journals and congresses made language and logic philosophy's common currency across two continents.
-4. **Metaethics as a field.** Emotivism, even as a target, set the questions metaethics still organises itself around.
+3. **The linguistic turn, institutionalized.** Journals and congresses made language and logic philosophy's common currency across two continents.
+4. **Metaethics as a field.** Emotivism, even as a target, set the questions metaethics still organizes itself around.
 
 ## Impact and legacy
 
@@ -85,7 +85,7 @@ In America, the émigrés trained the generation that made philosophy of science
 - **"The positivists proved metaphysics is false."** Their claim was stronger: metaphysical sentences are *meaningless*, lacking cognitive content.
 - **"The principle refutes itself, so there is nothing to learn."** The objection opens a genuine debate about proposals and conventions.
 - **"Popper was a member who improved the principle."** Popper was never a member; falsifiability was a criterion of scientific status, not meaning.
-- **"The Circle was just Ayer's book."** Ayer popularised one strand; Schlick, Carnap, and Neurath disagreed on foundations and politics.
+- **"The Circle was just Ayer's book."** Ayer popularized one strand; Schlick, Carnap, and Neurath disagreed on foundations and politics.
 - **"Wittgenstein founded the Circle."** He inspired it and resisted its reading of him. Inspiration is not membership.
 - **"Positivism died, so it failed."** Its project collapsed, but it set the agenda its successors still work within.
 

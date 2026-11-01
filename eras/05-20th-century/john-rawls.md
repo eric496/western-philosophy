@@ -9,11 +9,11 @@
 - **School/tradition:** Kantian and social-contract traditions
 - **Known for:** *A Theory of Justice* (1971) and its account of “justice as fairness” — principles chosen behind a veil of ignorance, including equal basic liberties and the difference principle
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [MacIntyre](alasdair-macintyre.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [MacIntyre](alasdair-macintyre.md), [Nussbaum](martha-nussbaum.md)
 
 ## Biography
 
-John Bordley Rawls was born in Baltimore, Maryland, in 1921, the second of five sons in a comfortable, politically engaged family. His childhood was marked by losses biographers treat as formative: two younger brothers died of infections contracted, in each case, from Rawls himself — one of diphtheria, one of pneumonia — leaving him with a lasting awareness of how arbitrary fortune is. That no one deserves the accidents of birth that shape a life sits at the centre of his philosophy.
+John Bordley Rawls was born in Baltimore, Maryland, in 1921, the second of five sons in a comfortable, politically engaged family. His childhood was marked by losses biographers treat as formative: two younger brothers died of infections contracted, in each case, from Rawls himself — one of diphtheria, one of pneumonia — leaving him with a lasting awareness of how arbitrary fortune is. That no one deserves the accidents of birth that shape a life sits at the center of his philosophy.
 
 Rawls studied at Princeton, graduating in 1943, and served as an infantry soldier in the Pacific during the Second World War, and in the occupation of Japan, where he saw the aftermath of Hiroshima. He had entered the war considering the ministry; he left it having lost his orthodox faith, partly in response to a chaplain’s sermon suggesting God had protected some soldiers and not others, and to knowledge of the Holocaust. He returned to Princeton for a doctorate in moral philosophy (1950), held posts at Princeton, Cornell, MIT, and briefly Oxford, and joined Harvard in 1962, where he remained until retirement.
 
@@ -29,7 +29,7 @@ Rawls revives the social contract tradition of Locke, Rousseau, and Kant, but tr
 
 Imagine representatives choosing the basic principles that will govern their society’s main institutions — its constitution, property system, and economy — behind a *veil of ignorance*. They do not know their class, wealth, race, sex, natural talents, health, religion, or conception of the good life. They do know general facts: how societies and economies work, that resources are moderately scarce, that people have differing life plans, and that they themselves must live with whatever principles they choose, whoever they turn out to be.
 
-The veil does the moral work. Because no one can tailor principles to favour a position they might not occupy, the choice is forced to be impartial. Principles chosen under these conditions, Rawls argues, are fair — hence “justice as fairness.” The device models an idea most readers already hold: that advantages of birth are morally arbitrary and should not by themselves determine a person’s life prospects or political standing.
+The veil does the moral work. Because no one can tailor principles to favor a position they might not occupy, the choice is forced to be impartial. Principles chosen under these conditions, Rawls argues, are fair — hence “justice as fairness.” The device models an idea most readers already hold: that advantages of birth are morally arbitrary and should not by themselves determine a person’s life prospects or political standing.
 
 ### The two principles of justice
 
@@ -45,11 +45,11 @@ A common beginner’s example helps. Two tax-and-enterprise regimes are on offer
 
 ### Reflective equilibrium
 
-How do we know the original position is set up correctly, or that its output is right? Rawls’s method is *reflective equilibrium*. We start with our *considered judgements* — convictions about justice in which we have confidence, such as that slavery and religious persecution are unjust — and with candidate principles, and adjust each in light of the other until they cohere. If a principle condemns a judgement we cannot give up, we revise the principle; if a principle we trust exposes a judgement as a prejudice of our upbringing, we revise the judgement. There is no foundation outside this process of mutual adjustment — no self-evident axioms from which justice is deduced. Critics ask whether coherence merely systematises the prejudices we started with; Rawls’s reply is that wide reflective equilibrium, which also tests our judgements against rival theories and background facts, is the best justification moral and political philosophy can honestly offer.
+How do we know the original position is set up correctly, or that its output is right? Rawls’s method is *reflective equilibrium*. We start with our *considered judgments* — convictions about justice in which we have confidence, such as that slavery and religious persecution are unjust — and with candidate principles, and adjust each in light of the other until they cohere. If a principle condemns a judgment we cannot give up, we revise the principle; if a principle we trust exposes a judgment as a prejudice of our upbringing, we revise the judgment. There is no foundation outside this process of mutual adjustment — no self-evident axioms from which justice is deduced. Critics ask whether coherence merely systematizes the prejudices we started with; Rawls’s reply is that wide reflective equilibrium, which also tests our judgments against rival theories and background facts, is the best justification moral and political philosophy can honestly offer.
 
 ### The argument against utilitarianism
 
-Rawls’s chief rival is utilitarianism: maximise total or average welfare, even at serious cost to individuals. Rawls objects that utilitarianism “does not take seriously the distinction between persons.” What is rational for one person — accepting a present pain for a greater future gain within a single life — is transferred to society, as if losses to some were automatically compensated by gains to others. But there is no single social person who experiences the total. Behind the veil, Rawls argues, no one would accept principles that might license sacrificing their basic liberties for a larger sum of welfare for strangers. Justice as fairness is built instead on the inviolability of each person and on reciprocity among free and equal citizens.
+Rawls’s chief rival is utilitarianism: maximize total or average welfare, even at serious cost to individuals. Rawls objects that utilitarianism “does not take seriously the distinction between persons.” What is rational for one person — accepting a present pain for a greater future gain within a single life — is transferred to society, as if losses to some were automatically compensated by gains to others. But there is no single social person who experiences the total. Behind the veil, Rawls argues, no one would accept principles that might license sacrificing their basic liberties for a larger sum of welfare for strangers. Justice as fairness is built instead on the inviolability of each person and on reciprocity among free and equal citizens.
 
 ### Political liberalism, overlapping consensus, and public reason
 
@@ -68,9 +68,9 @@ Therefore, the parties would choose equal basic liberties for all, and would arr
 
 The reasoning for the second principle is *maximin* reasoning under deep uncertainty: with no usable probabilities, grave possible outcomes, and a choice that is one-shot and irrevocable, the parties protect the worst position they might occupy rather than gambling on the average.
 
-**Objection.** John Harsanyi argued that the parties' extreme risk-aversion is smuggled in rather than derived: rational parties, he held, would maximise expected utility and choose average utilitarianism instead. A related objection is that abstracting away everything distinctive about persons may abstract away too much to yield determinate results at all.
+**Objection.** John Harsanyi argued that the parties' extreme risk-aversion is smuggled in rather than derived: rational parties, he held, would maximize expected utility and choose average utilitarianism instead. A related objection is that abstracting away everything distinctive about persons may abstract away too much to yield determinate results at all.
 
-**Reply.** Rawls replies that this choice situation is special: the principles govern a whole life, cannot be renegotiated, and must satisfy the strains of commitment — you must be able to honour them even if you turn out worst off. Where the possible losses are that grave and probabilities cannot responsibly be assigned, guaranteeing a decent minimum is, he argues, the rational stance. Whether maximin or expected-utility reasoning is right here remains a live debate.
+**Reply.** Rawls replies that this choice situation is special: the principles govern a whole life, cannot be renegotiated, and must satisfy the strains of commitment — you must be able to honor them even if you turn out worst off. Where the possible losses are that grave and probabilities cannot responsibly be assigned, guaranteeing a decent minimum is, he argues, the rational stance. Whether maximin or expected-utility reasoning is right here remains a live debate.
 
 **The argument against utilitarianism: the separateness of persons**
 
@@ -95,7 +95,7 @@ Fuller reconstructions are in the study guide: [*A Theory of Justice* §§1–4 
 
 ## Contributions
 
-Rawls restored systematic normative political philosophy to the centre of Anglophone philosophy after decades in which it had been marginal. He gave liberal egalitarianism its most influential modern argument: a rigorous case that combines inviolable basic liberties with fair opportunity and a principled limit on economic inequality, without appeal to utility or to natural rights as unexplained givens. His tools — the original position, the veil of ignorance, reflective equilibrium — became standard equipment, used even by those who reject his conclusions. And by shifting attention to the *basic structure* of society — the institutions that distribute rights, opportunities, and prospects — he set the questions subsequent theories of justice have had to answer.
+Rawls restored systematic normative political philosophy to the center of Anglophone philosophy after decades in which it had been marginal. He gave liberal egalitarianism its most influential modern argument: a rigorous case that combines inviolable basic liberties with fair opportunity and a principled limit on economic inequality, without appeal to utility or to natural rights as unexplained givens. His tools — the original position, the veil of ignorance, reflective equilibrium — became standard equipment, used even by those who reject his conclusions. And by shifting attention to the *basic structure* of society — the institutions that distribute rights, opportunities, and prospects — he set the questions subsequent theories of justice have had to answer.
 
 ## Impact and legacy
 
@@ -109,7 +109,7 @@ The debates remain live and should be read as debates, not verdicts. Libertarian
 
 - The veil of ignorance is a device for choosing principles, not a policy proposal to ignore real differences between people in everyday life; the parties behind it use full general knowledge about society.
 - The difference principle does not demand equal incomes. It *permits* inequalities under two strict conditions, including greatest benefit to the least advantaged.
-- Rawls is not a utilitarian with extra safeguards. Priority of liberty over welfare gains is a structural rejection of maximising trade-offs.
+- Rawls is not a utilitarian with extra safeguards. Priority of liberty over welfare gains is a structural rejection of maximizing trade-offs.
 - The original position is not a claim that any such agreement historically happened, nor a negotiation in which the strong bargain from advantage — the veil removes exactly that.
 
 ## What to read first
@@ -125,7 +125,7 @@ The debates remain live and should be read as debates, not verdicts. Libertarian
 1. Reconstruct the route from the original position to the two principles: what does the veil of ignorance exclude and permit, and how does maximin reasoning under uncertainty — rather than expected-utility calculation — deliver the difference principle?
 2. State Harsanyi's objection that Rawls smuggles in extreme risk-aversion, and Rawls's reply from the strains of commitment: principles govern a whole life and cannot be renegotiated. Which side better fits a choice that is one-shot and irrevocable?
 3. Nozick's Wilt Chamberlain example: fans voluntarily pay a star player, producing inequality from an equal start. Reconstruct his objection that patterned principles require continual interference with liberty, and Rawls's reply that the principles govern the basic structure's background conditions, not each transaction.
-4. Contrast Rawls with Singer: Singer's pond principle binds individuals directly; Rawls's principles bind institutions. Why, then, does Rawls's theory by itself not tell you what to give to charity — gap, or deliberate division of labour?
+4. Contrast Rawls with Singer: Singer's pond principle binds individuals directly; Rawls's principles bind institutions. Why, then, does Rawls's theory by itself not tell you what to give to charity — gap, or deliberate division of labor?
 5. Apply the two principles, in lexical order: a city funds elite sports facilities by cutting library hours in its poorest districts, citing rising total welfare. Which principle is engaged first, does the difference principle permit this, and what change would make it permissible?
 
 ---

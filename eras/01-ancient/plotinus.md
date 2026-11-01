@@ -27,7 +27,7 @@ Porphyry arranged the 54 treatises written between 253 and 270 not chronological
 
 ### The One and the hypostases
 
-Plotinus organises reality into three *hypostases* — fundamental levels, literally "things standing under." First is the One, also called the Good: absolutely simple, with no parts or internal distinction — not even between being and thinking. It is "beyond being" and strictly indescribable; we can say what it is not more easily than what it is. Second is Intellect (*Nous*): where Plato's Forms exist not as inert blueprints but as living thoughts in a mind where being and thinking are identical. Third is Soul (*Psychē*): Intellect's image turned outward, which reasons step by step, moves through time, and animates the material world. Below Soul lies matter, the last and faintest level, barely real.
+Plotinus organizes reality into three *hypostases* — fundamental levels, literally "things standing under." First is the One, also called the Good: absolutely simple, with no parts or internal distinction — not even between being and thinking. It is "beyond being" and strictly indescribable; we can say what it is not more easily than what it is. Second is Intellect (*Nous*): where Plato's Forms exist not as inert blueprints but as living thoughts in a mind where being and thinking are identical. Third is Soul (*Psychē*): Intellect's image turned outward, which reasons step by step, moves through time, and animates the material world. Below Soul lies matter, the last and faintest level, barely real.
 
 *Tension:* if the One is beyond description, how can Plotinus write treatises calling it "the Good" and cause of all? He accepts the paradox: language points and negates rather than describes, and the One is known finally by union, not argument.
 
@@ -47,7 +47,7 @@ Evil is not a substance or rival power. It is privation — distance from the Go
 
 ### Beauty and contemplation
 
-In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single colour can be beautiful, and a living face outshines a symmetrical corpse. Beauty is presence of Form, recognised because the soul is akin to Form. Contemplation (*theōria*) is not passive: things produce *by* contemplating — nature contemplates silently, and production is its overflow. Contemplation, not action, is the universe's most fundamental activity.
+In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single color can be beautiful, and a living face outshines a symmetrical corpse. Beauty is presence of Form, recognized because the soul is akin to Form. Contemplation (*theōria*) is not passive: things produce *by* contemplating — nature contemplates silently, and production is its overflow. Contemplation, not action, is the universe's most fundamental activity.
 
 ## Key works
 
@@ -55,21 +55,21 @@ All Plotinus wrote is in the *Enneads*: treatises of 253–270 CE ordered themat
 
 - **Ennead I.6, *On Beauty* (c. 253–263).** The first treatise written, placed as a gentle entry: beauty, the soul's kinship with Form, and ascent to Beauty itself.
 - **Ennead V.1, *On the Three Primary Hypostases* (c. 253–263).** The clearest map of One, Intellect, and Soul — the system's best summary.
-- **Ennead II.9, *Against the Gnostics* (c. 263–268).** A defence of the cosmos against world-despising rivals; Plotinus arguing, not just contemplating.
+- **Ennead II.9, *Against the Gnostics* (c. 263–268).** A defense of the cosmos against world-despising rivals; Plotinus arguing, not just contemplating.
 - **Ennead VI.9, *On the Good or the One* (c. 253–263).** Placed last as the destination: the One's transcendence and union with it.
 - **Porphyry, *Life of Plotinus* (c. 301 CE).** Indispensable preface: biography and publication history.
 
 ## Contributions
 
-Plotinus fused Plato, Aristotle, and Stoic materials into a single graded metaphysics centred on a first principle more radically transcendent than Plato's Form of the Good or Aristotle's God — a principle beyond being itself. He gave philosophy a rigorous account of mystical union as its goal, a privation theory of evil, and a model of production by contemplation.
+Plotinus fused Plato, Aristotle, and Stoic materials into a single graded metaphysics centered on a first principle more radically transcendent than Plato's Form of the Good or Aristotle's God — a principle beyond being itself. He gave philosophy a rigorous account of mystical union as its goal, a privation theory of evil, and a model of production by contemplation.
 
 ## Impact and legacy
 
-Porphyry spread the system; Iamblichus and Proclus developed it into late-antique pagan theology. Its larger afterlife was in monotheisms it did not belong to: Augustine read Plotinus in Latin translation and took from him the privation theory of evil and the inward turn, reshaping Western Christianity. Pseudo-Dionysius (c. 500) baptised Neoplatonic hierarchy and negative theology; Arabic transmission through the paraphrase known as the *Theology of Aristotle* structured medieval Islamic and Jewish metaphysics; Eriugena, Eckhart, and Cusanus carried its mystical line forward. The Renaissance Plato revival — Ficino translated the complete *Enneads* (1492) — ran on Plotinian rails.
+Porphyry spread the system; Iamblichus and Proclus developed it into late-antique pagan theology. Its larger afterlife was in monotheisms it did not belong to: Augustine read Plotinus in Latin translation and took from him the privation theory of evil and the inward turn, reshaping Western Christianity. Pseudo-Dionysius (c. 500) baptized Neoplatonic hierarchy and negative theology; Arabic transmission through the paraphrase known as the *Theology of Aristotle* structured medieval Islamic and Jewish metaphysics; Eriugena, Eckhart, and Cusanus carried its mystical line forward. The Renaissance Plato revival — Ficino translated the complete *Enneads* (1492) — ran on Plotinian rails.
 
 ## Criticisms and debates
 
-Aristotelians resisted Forms as thoughts in an Intellect; Christians who used him most — Augustine included — rejected emanation's necessity in favour of free creation. Modern debates include: does the self survive *henōsis*, or is union dissolution? Is part of the soul really always undescended? Does "beyond being" collapse into incoherence or form a disciplined negative theology? And how far is the *Enneads'* system Plotinus's versus Porphyry's arrangement? The thin evidence for Ammonius, who wrote nothing, makes Plotinus's originality versus inheritance hard to apportion.
+Aristotelians resisted Forms as thoughts in an Intellect; Christians who used him most — Augustine included — rejected emanation's necessity in favor of free creation. Modern debates include: does the self survive *henōsis*, or is union dissolution? Is part of the soul really always undescended? Does "beyond being" collapse into incoherence or form a disciplined negative theology? And how far is the *Enneads'* system Plotinus's versus Porphyry's arrangement? The thin evidence for Ammonius, who wrote nothing, makes Plotinus's originality versus inheritance hard to apportion.
 
 ## Misreadings to avoid
 

@@ -13,7 +13,7 @@
 
 ## Biography
 
-When Wittgenstein returned to Cambridge in 1929, he was already a legend: author of the *Tractatus* (1921/1922), who had declared philosophy finished and disappeared into village schoolrooms and designing a house in Vienna for his sister. He came back because the solution had stopped satisfying him. Conversations with Schlick and Waismann, Ramsey's criticisms, and difficulties such as colour-exclusion — "this is red all over" and "this is green all over" exclude each other, though the *Tractatus* required elementary propositions to be independent — convinced him central parts of his early system were wrong.
+When Wittgenstein returned to Cambridge in 1929, he was already a legend: author of the *Tractatus* (1921/1922), who had declared philosophy finished and disappeared into village schoolrooms and designing a house in Vienna for his sister. He came back because the solution had stopped satisfying him. Conversations with Schlick and Waismann, Ramsey's criticisms, and difficulties such as color-exclusion — "this is red all over" and "this is green all over" exclude each other, though the *Tractatus* required elementary propositions to be independent — convinced him central parts of his early system were wrong.
 
 Cambridge awarded him a PhD in 1929 on the strength of the *Tractatus* itself, examined by Russell and Moore, and a Trinity fellowship. What followed was not a second system, but two decades of dictations, notebooks, and revised typescripts. The *Blue Book* (1933–34) and *Brown Book* (1934–35) already contain, in embryo, language-games and meaning as use.
 
@@ -23,7 +23,7 @@ During the Second World War he left Cambridge, unwilling to remain a professor w
 
 Part I of the *Investigations* was essentially ready by 1946 — Wittgenstein tried to publish it, then withdrew it. It appeared posthumously in 1953, edited and translated by Anscombe with Rhees. A vast *Nachlass* of some twenty thousand pages has since appeared in selections: *Remarks on the Foundations of Mathematics* (1956), *Zettel* (1967), *On Certainty* (1969). The late Wittgenstein we read is therefore partly an editorial construction, and scholars debate how to weigh typescripts against notebooks never prepared for publication.
 
-The early/late split is a scholarly framing, not Wittgenstein's own title. The break is real — he called his earlier view a grave mistake in the preface to the *Investigations* — but continuity is also real: both periods treat philosophy as a struggle against bewitchment by language and aim at clarity rather than new doctrines. Whether to emphasise rupture or continuity is a live debate. For learning, it helps to treat Wittgenstein I and II almost as two philosophers in argument with each other — remembering that the argument was internal, and lifelong.
+The early/late split is a scholarly framing, not Wittgenstein's own title. The break is real — he called his earlier view a grave mistake in the preface to the *Investigations* — but continuity is also real: both periods treat philosophy as a struggle against bewitchment by language and aim at clarity rather than new doctrines. Whether to emphasize rupture or continuity is a live debate. For learning, it helps to treat Wittgenstein I and II almost as two philosophers in argument with each other — remembering that the argument was internal, and lifelong.
 
 ## Major theories and concepts
 
@@ -49,13 +49,13 @@ The moral is anti-essentialist: the craving to state necessary and sufficient co
 
 ### Forms of life
 
-Language-games are embedded in a *form of life* — the shared background of practices and reactions within which speaking makes sense. "To imagine a language means to imagine a form of life" (§19). Agreement in language (§§241–242) is not agreement in opinions but in judgements — shared responses that must be in place before truth and falsity can be discussed. If a lion could talk, we could not understand him, because his form of life is not ours. Scholars debate whether the term is mainly biological, mainly cultural, or both; Wittgenstein offers it as a reminder of where explanations run out: "What has to be accepted, the given, is — so one could say — forms of life."
+Language-games are embedded in a *form of life* — the shared background of practices and reactions within which speaking makes sense. "To imagine a language means to imagine a form of life" (§19). Agreement in language (§§241–242) is not agreement in opinions but in judgments — shared responses that must be in place before truth and falsity can be discussed. If a lion could talk, we could not understand him, because his form of life is not ours. Scholars debate whether the term is mainly biological, mainly cultural, or both; Wittgenstein offers it as a reminder of where explanations run out: "What has to be accepted, the given, is — so one could say — forms of life."
 
 ### The private language argument
 
 In §243 and following, Wittgenstein asks whether a language could refer only to the speaker's private sensations, so no one else could understand it. His test case (§258) is a diarist who writes "S" whenever a sensation occurs, with no public criterion for using "S" correctly next time. Where whatever seems right is right, we cannot talk about *right* at all: a rule needs a distinction between following it and merely seeming to.
 
-His other image is the beetle in the box (§293): if everyone has a box with a "beetle" only they can see, the thing may change or be absent — it drops out as irrelevant to how the word is used. The argument's scope is disputed: private languages only, or also a Cartesian picture of mind? Kripke's influential, contested reading recasts it as a sceptical paradox about rule-following (§§185–242); whether Kripke's "Wittgenstein" is Wittgenstein is itself a standing debate.
+His other image is the beetle in the box (§293): if everyone has a box with a "beetle" only they can see, the thing may change or be absent — it drops out as irrelevant to how the word is used. The argument's scope is disputed: private languages only, or also a Cartesian picture of mind? Kripke's influential, contested reading recasts it as a skeptical paradox about rule-following (§§185–242); whether Kripke's "Wittgenstein" is Wittgenstein is itself a standing debate.
 
 ### Philosophy as therapy
 
@@ -72,7 +72,7 @@ Therefore, meaning and correct action cannot be fixed by interpretation alone; i
 
 Wittgenstein's resolution in *Philosophical Investigations* §§185–201 is that there is a way of grasping a rule that is not an interpretation but is shown in practice: in training, custom, and shared responses within a form of life. When I obey a rule, I do not choose at each step; I go on as I have been trained to go on. Meaning is therefore grounded in use within practices, not in mental items or in further interpretations stacked behind them.
 
-**Objection.** Saul Kripke's influential reading turns this into a sceptical paradox about meaning, to be met by a "sceptical solution" in which correctness is fixed by agreement within a community. Many scholars object that this imports a scepticism Wittgenstein never endorsed, making him offer a theory of meaning where he meant only to dissolve a confused picture.
+**Objection.** Saul Kripke's influential reading turns this into a skeptical paradox about meaning, to be met by a "sceptical solution" in which correctness is fixed by agreement within a community. Many scholars object that this imports a skepticism Wittgenstein never endorsed, making him offer a theory of meaning where he meant only to dissolve a confused picture.
 
 **Reply.** On the Wittgensteinian reply, the paradox arises only if we demand that every grasp of a rule must be an interpretation. Justification runs out at practice — the bedrock where, in his image elsewhere, my spade is turned — and describing that bedrock is not a concession that language fails. Whether Kripke's reading is faithful to Wittgenstein or a creative distortion of him remains an open scholarly dispute.
 
@@ -104,7 +104,7 @@ Therefore, such a supposed language has no criterion of correct use, and a neces
 
 ## Impact and legacy
 
-Inside philosophy, the *Investigations* redirected the analytic tradition. Austin's speech-act theory, Ryle's *The Concept of Mind* (1949), Anscombe's *Intention*, and Strawson's work all bear its mark. Through Thomas Kuhn, who drew on family resemblance, its influence reached philosophy of science; through Stanley Cavell, literary studies; and the idea that concepts can cohere without essences travelled into psychology's prototype theory of categorisation.
+Inside philosophy, the *Investigations* redirected the analytic tradition. Austin's speech-act theory, Ryle's *The Concept of Mind* (1949), Anscombe's *Intention*, and Strawson's work all bear its mark. Through Thomas Kuhn, who drew on family resemblance, its influence reached philosophy of science; through Stanley Cavell, literary studies; and the idea that concepts can cohere without essences traveled into psychology's prototype theory of categorization.
 
 ## Criticisms and debates
 
@@ -112,7 +112,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 
 **Conservatism about ordinary language.** Critics in the tradition of Ernest Gellner's *Words and Things* (1959) charged ordinary language philosophy with sanctifying existing usage and evading substantive, including political, questions. Whether that charge fairly hits Wittgenstein himself is debated.
 
-**Kripke's reading.** Kripke's *Wittgenstein on Rules and Private Language* (1982) made rule-following the centre of the late work and proposed a "sceptical solution" grounded in community agreement. Many scholars (notably Baker and Hacker) argue this misrepresents Wittgenstein, importing a scepticism he aimed to dissolve. "Kripkenstein" is now a standard label for the possibly distinct philosopher of that book.
+**Kripke's reading.** Kripke's *Wittgenstein on Rules and Private Language* (1982) made rule-following the center of the late work and proposed a "sceptical solution" grounded in community agreement. Many scholars (notably Baker and Hacker) argue this misrepresents Wittgenstein, importing a skepticism he aimed to dissolve. "Kripkenstein" is now a standard label for the possibly distinct philosopher of that book.
 
 **Continuity vs. rupture.** Some scholars stress two Wittgensteins; others stress one lifelong project against linguistic bewitchment. The preface to the *Investigations*, which proposes publishing old and new thoughts together so the new can be seen "against the background of the old," supports holding both emphases at once.
 
@@ -138,7 +138,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 
 ## Study questions
 
-1. Work through the builders of §2 ("block," "pillar," "slab," "beam") twice: first as the *Tractatus* would analyse it — names standing for objects in a pictured arrangement — then as the *Investigations* redescribes it, meaning as a role in an activity. What must the assistant learn, on each account?
+1. Work through the builders of §2 ("block," "pillar," "slab," "beam") twice: first as the *Tractatus* would analyze it — names standing for objects in a pictured arrangement — then as the *Investigations* redescribes it, meaning as a role in an activity. What must the assistant learn, on each account?
 2. Reconstruct the private language argument using the diarist of §258: what goes wrong when "S" is fixed by private ostension alone, and why does the failure turn on the collapse of "seems right" into "is right"?
 3. An objector replies that memory can check the diarist, and that a solitary Crusoe could keep a sensation diary. Give Wittgenstein's newspaper reply (§265), and judge whether it meets the Crusoe case.
 4. Use the beetle in the box (§293) to explain why the private contents of each box drop out of sensation-talk. What picture of the mind is being rejected — and is pain itself being denied?

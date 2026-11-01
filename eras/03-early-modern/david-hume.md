@@ -6,7 +6,7 @@
 
 - **Dates:** 1711–1776
 - **Place:** Edinburgh, Scotland
-- **School/tradition:** Empiricism and mitigated scepticism
+- **School/tradition:** Empiricism and mitigated skepticism
 - **Known for:** Showing that beliefs about cause, self, and morality rest on custom and sentiment, not reason — and for waking Kant from his "dogmatic slumber"
 
 **Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
@@ -29,7 +29,7 @@ Hume died in Edinburgh on 25 August 1776, with a composure that became famous. T
 
 ### Impressions, ideas, and the copy principle
 
-Hume distinguishes **impressions** from **ideas**. Impressions are perceptions in full force: seeing red, feeling pain, experiencing an emotion. Ideas are the "less lively perceptions" we have in remembering or imagining them. His **copy principle** states that all simple ideas copy corresponding simple impressions. We can combine materials impressions supply — a golden mountain joins gold and mountain — but cannot invent a new simple idea with no experiential source: a blind man has no idea of colour. His own exception, the "missing shade of blue," he candidly offers and dismisses as too singular to overturn the principle.
+Hume distinguishes **impressions** from **ideas**. Impressions are perceptions in full force: seeing red, feeling pain, experiencing an emotion. Ideas are the "less lively perceptions" we have in remembering or imagining them. His **copy principle** states that all simple ideas copy corresponding simple impressions. We can combine materials impressions supply — a golden mountain joins gold and mountain — but cannot invent a new simple idea with no experiential source: a blind man has no idea of color. His own exception, the "missing shade of blue," he candidly offers and dismisses as too singular to overturn the principle.
 
 The principle is an instrument: confronted with a suspect term — substance, necessary connection, the soul — Hume asks, *from what impression is this idea derived?* If none can be produced, the term may be empty noise.
 
@@ -43,7 +43,7 @@ This is **Hume's fork**. A book containing neither abstract reasoning about numb
 
 Reasoning beyond present perception rests on the expectation that the future will resemble the past. What justifies it? Not **deduction**: the contrary — that nature's course might change — is conceivable without contradiction. Not **induction**: arguing induction has worked before assumes exactly what is to be proved. The argument is circular.
 
-This **problem of induction** has never received a universally accepted solution. Hume is not saying induction is unreliable, or that we should stop expecting bread to nourish. He is saying the inference is not performed by reason: nature has determined us, by **custom or habit**, to expect it — sceptical about *justification*, naturalistic about *practice*. A burned child expects fire to burn, without any proof.
+This **problem of induction** has never received a universally accepted solution. Hume is not saying induction is unreliable, or that we should stop expecting bread to nourish. He is saying the inference is not performed by reason: nature has determined us, by **custom or habit**, to expect it — skeptical about *justification*, naturalistic about *practice*. A burned child expects fire to burn, without any proof.
 
 ### Causation: constant conjunction and custom
 
@@ -65,9 +65,9 @@ Crucially, Hume **asks for an explanation of the move**; whether he meant an abs
 
 ### Morality as sentiment, sympathy, and reason as slave of the passions
 
-Hume holds that **moral distinctions are not derived from reason**. Discovering that an act occurred does not pronounce it virtuous or vicious — people can agree on all the facts and still divide morally, and moral judgements *motivate* us, which inert beliefs alone do not. Morality rests on **sentiment**: approbation or blame felt when contemplating a character from a general point of view.
+Hume holds that **moral distinctions are not derived from reason**. Discovering that an act occurred does not pronounce it virtuous or vicious — people can agree on all the facts and still divide morally, and moral judgments *motivate* us, which inert beliefs alone do not. Morality rests on **sentiment**: approbation or blame felt when contemplating a character from a general point of view.
 
-**Sympathy** makes this social: ideas of others' feelings are converted, through resemblance and association, into the feelings themselves in us, more faintly. It explains why others' joy pleases and misery pains us, and why moral judgement can converge.
+**Sympathy** makes this social: ideas of others' feelings are converted, through resemblance and association, into the feelings themselves in us, more faintly. It explains why others' joy pleases and misery pains us, and why moral judgment can converge.
 
 The famous slogan belongs here: "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." This concerns **motivation**, not irrationality. Reason informs us of facts and means and corrects false beliefs, but cannot by itself supply an end or move us; only a passion can. Reason keeps full authority over truth: a passion founded on a false belief dissolves when the belief is corrected.
 
@@ -79,7 +79,7 @@ In Section X of the first *Enquiry*, Hume defines a miracle as a violation of a 
 
 Hume held the dispute about liberty and necessity to be largely verbal. Everyone presupposes that actions show the same uniformity and constant conjunction with motives and character as nature does. **Liberty**, as actually meant, is "a power of acting or not acting, according to the determinations of the will." This is compatible with necessity as regularity, and requires it: an action disconnected from character would be chance, not freedom, and could not be praised or blamed. This **compatibilism** became the template for most later versions.
 
-His overall stance is **mitigated scepticism**: the doubts are real, but nature cures what reason cannot — we dine, play backgammon, and believe — and awareness of reason's limits should make us modest rather than paralysed.
+His overall stance is **mitigated skepticism**: the doubts are real, but nature cures what reason cannot — we dine, play backgammon, and believe — and awareness of reason's limits should make us modest rather than paralyzed.
 
 ## Signature arguments
 
@@ -134,12 +134,12 @@ Kant's testimony is most famous: Hume interrupted his "dogmatic slumber," and Ka
 
 ## Criticisms and debates
 
-Approach these as open. First, the **"New Hume" debate**: did Hume merely say we cannot *know* objective necessary connections while believing they exist, or did he reduce causation to regularity and projection? Passages support both. Second, whether **is–ought** states a strict barrier or demands an explanation remains contested. Third, Thomas Reid charged that Hume escapes scepticism only by inconsistency, trusting "nature" where his arguments forbid trust; defenders reply the naturalism *is* the position. Fourth, Kantians argue causation as a condition of experience answers Hume; Humeans argue it relocates the problem. Fifth, scholars debate who speaks for Hume in the *Dialogues*.
+Approach these as open. First, the **"New Hume" debate**: did Hume merely say we cannot *know* objective necessary connections while believing they exist, or did he reduce causation to regularity and projection? Passages support both. Second, whether **is–ought** states a strict barrier or demands an explanation remains contested. Third, Thomas Reid charged that Hume escapes skepticism only by inconsistency, trusting "nature" where his arguments forbid trust; defenders reply the naturalism *is* the position. Fourth, Kantians argue causation as a condition of experience answers Hume; Humeans argue it relocates the problem. Fifth, scholars debate who speaks for Hume in the *Dialogues*.
 
 ## Misreadings to avoid
 
 - **"Hume disproved causation."** He argued necessary connection has no impression-source in objects and inference rests on custom — while insisting we rightly rely on it.
-- **"Hume said don't trust science."** He practised experimental reasoning; his stance is mitigated scepticism, not rejection.
+- **"Hume said don't trust science."** He practiced experimental reasoning; his stance is mitigated skepticism, not rejection.
 - **"Reason as slave of the passions means be irrational."** It is about motivation: reason alone cannot move us; it still governs truth.
 - **"Is–ought bans all moral reasoning from facts."** It demands an explanation of the transition; whether it bans every derivation is debated.
 - **"Hume proved miracles impossible."** His argument concerns testimony and evidence, not possibility.
@@ -147,8 +147,8 @@ Approach these as open. First, the **"New Hume" debate**: did Hume merely say we
 ## What to read first
 
 1. *Enquiry Concerning Human Understanding*, Sections 2, 4–5 — impressions, the fork, and induction.
-2. *Enquiry*, Sections 7, 10, and 12 — necessary connection, miracles, mitigated scepticism.
-3. *Enquiry Concerning the Principles of Morals*, Sections 1–5 — his own favourite.
+2. *Enquiry*, Sections 7, 10, and 12 — necessary connection, miracles, mitigated skepticism.
+3. *Enquiry Concerning the Principles of Morals*, Sections 1–5 — his own favorite.
 4. *Treatise* 1.3, 1.4.6 with the Appendix, and Book III, Part I — causation, personal identity, is–ought.
 5. *Dialogues Concerning Natural Religion*, Parts II and X–XII — the design argument.
 
@@ -159,7 +159,7 @@ Approach these as open. First, the **"New Hume" debate**: did Hume merely say we
 1. Reconstruct the problem of induction premise by premise: inference to the unobserved presupposes that the future will resemble the past; that presupposition can be proved neither demonstratively nor from experience without circularity. Then assess one reply — reliabilist or pragmatic: does it justify induction, or change the subject?
 2. Using the billiard balls, reconstruct causation as constant conjunction: what is actually perceived, and where does the idea of necessary connection come from, on Hume's account? How does this differ from saying causes are merely one thing after another?
 3. Apply the miracles maxim to a fresh case: well-attested witnesses report an event violating a firmly established law of nature. Weigh the falsehood of the testimony against the fact reported, as Hume directs, and state what a wise person should believe.
-4. Take a policy report establishing only that a programme reduces suffering. Using the is–ought passage, explain what further step its author needs before concluding the programme ought to be adopted — and how Hume's own appeal to sentiment supplies, or complicates, that step.
+4. Take a policy report establishing only that a program reduces suffering. Using the is–ought passage, explain what further step its author needs before concluding the program ought to be adopted — and how Hume's own appeal to sentiment supplies, or complicates, that step.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

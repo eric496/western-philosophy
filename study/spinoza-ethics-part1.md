@@ -28,7 +28,7 @@ The learning path places Spinoza in Stage 3, after Descartes and alongside Locke
 
 ## Reading plan
 
-Part I is short — roughly 40 pages in most editions — but the densest 40 pages in this library. Do not measure progress by pages. At about two hours of primary reading per week, the programme below takes about five weeks.
+Part I is short — roughly 40 pages in most editions — but the densest 40 pages in this library. Do not measure progress by pages. At about two hours of primary reading per week, the program below takes about five weeks.
 
 | Week | Reading | Focus |
 |---|---|---|
@@ -46,7 +46,7 @@ Read the Appendix in Week 4, not as an afterthought: its plain prose states what
 
 ### The apparatus: definitions, axioms, and how to read them
 
-Before any proposition, Spinoza lays down eight definitions and seven axioms. In Euclid, definitions state what terms mean and axioms state what is self-evident; Spinoza borrows the form, but his definitions are not neutral — they already contain his philosophy, and much of the controversy about Part I is about whether he is entitled to them. Read them as claims to be tested, not vocabulary to be memorised.
+Before any proposition, Spinoza lays down eight definitions and seven axioms. In Euclid, definitions state what terms mean and axioms state what is self-evident; Spinoza borrows the form, but his definitions are not neutral — they already contain his philosophy, and much of the controversy about Part I is about whether he is entitled to them. Read them as claims to be tested, not vocabulary to be memorized.
 
 **Definition 1: *causa sui* (self-caused).** By "cause of itself" Spinoza means that whose essence involves existence — that whose nature cannot be conceived unless it exists. This is not the familiar idea of something causing itself to come into being, which would be incoherent (it would have to exist before it existed). It is a claim about essence and existence: for a self-caused thing, to understand what it is just is to understand that it exists. Keep this definition in mind; the whole proof of God's existence in E1p11 turns on it.
 
@@ -177,7 +177,7 @@ Each reconstruction below follows the learning path's discipline: premises, then
 
 **Conclusion:** All final causes are human fictions; nature acts by efficient necessity alone; and the vocabulary of cosmic purpose, providence, reward, and punishment expresses human imagination, not the nature of things.
 
-**Objection:** The argument proves too much, or it begs the question against biology and human action. Living things appear to be organised for ends — hearts pump blood, eyes detect light — and human beings plainly act for purposes, as Spinoza himself acknowledges in his doctrine of striving (*conatus*) in Part III. If purposive language is indispensable for explaining organisms and agents, then dismissing all teleology as fiction either contradicts Spinoza's own psychology or requires a subtler distinction between real and projected purposes than the Appendix supplies.
+**Objection:** The argument proves too much, or it begs the question against biology and human action. Living things appear to be organized for ends — hearts pump blood, eyes detect light — and human beings plainly act for purposes, as Spinoza himself acknowledges in his doctrine of striving (*conatus*) in Part III. If purposive language is indispensable for explaining organisms and agents, then dismissing all teleology as fiction either contradicts Spinoza's own psychology or requires a subtler distinction between real and projected purposes than the Appendix supplies.
 
 **Reply:** Spinoza can distinguish purposes as descriptions of how a thing's nature expresses itself from purposes as external designs imposed on nature. A heart "for" pumping blood is shorthand for circulation following necessarily from the body's structure, not evidence of a designer; and human striving is a mode's necessary expression of its own essence, not deliberation by an uncaused will. The Appendix's target is the designing sense of purpose — a divine craftsman arranging nature for human benefit — not every use of purposive language. Whether that distinction saves the Appendix's unqualified rhetoric, or quietly concedes the objection, is worth pressing as you read Part III.
 
@@ -220,7 +220,7 @@ Spinoza's necessitarianism is stronger than ordinary determinism — nothing cou
 The Appendix and the E1p17 scholia exist to block this reading. God's intellect does not deliberate between alternatives, God's will does not choose, and God does not act for ends, because deliberation, choice, and purpose presuppose lack or uncertainty, which are incompatible with perfection. To imagine God as a king writ large is, for Spinoza, to project human psychology onto the infinite. If your picture of Spinoza's God could also serve as a picture of a very powerful human ruler, you have not yet understood Part I.
 
 **5. "The geometrical order means Part I is proved the way Euclid proves geometry, so doubting it is irrational."**
-The form is a claim about rigour, not a guarantee of it: the demonstrations are only as good as the definitions and axioms they start from, and those — above all Definition 3 — are contestable claims, not self-evident truths. Read the demonstrations as arguments to be assessed, not as immunity from criticism.
+The form is a claim about rigor, not a guarantee of it: the demonstrations are only as good as the definitions and axioms they start from, and those — above all Definition 3 — are contestable claims, not self-evident truths. Read the demonstrations as arguments to be assessed, not as immunity from criticism.
 
 **6. "Because Spinoza denies free will, he denies freedom altogether."**
 He denies free will as uncaused choice — the power to have done otherwise in an absolute sense — and redefines freedom as acting from the necessity of one's own nature alone (E1d7). Strictly, only God is fully free; human freedom is a matter of degree, increasing as our actions follow from adequate understanding rather than from passions imposed by external causes. Parts IV and V develop this redefinition into an ethics. To report Spinoza as "denying freedom, full stop" is to miss the positive doctrine his denial makes room for.

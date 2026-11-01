@@ -5,17 +5,17 @@
 ## At a glance
 
 - **Dates:** Pyrrho, c. 360–c. 270 BCE; Pyrrhonism revived by Aenesidemus (1st century BCE) and codified by Sextus Empiricus (late 2nd century CE)
-- **Place:** Elis, Greece; travelled to India with Alexander the Great's expedition
+- **Place:** Elis, Greece; traveled to India with Alexander the Great's expedition
 - **School/tradition:** Pyrrhonian Skepticism — distinct from the skeptical phase of Plato's Academy under Arcesilaus and Carneades
-- **Known for:** Suspending judgement about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "like a shadow."
+- **Known for:** Suspending judgment about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "like a shadow."
 
 **Responds to:** [Democritus](democritus-of-abdera.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Montaigne](../03-early-modern/michel-de-montaigne.md), [Descartes](../03-early-modern/rene-descartes.md), [Hume](../03-early-modern/david-hume.md)
 
 ## Biography
 
-Pyrrho of Elis began, by ancient report, as a painter, then turned to philosophy, encountering Democritean ideas through Anaxarchus of Abdera. The decisive episode was travel: he accompanied Alexander the Great's expedition as far as India (c. 327–326 BCE), where Greek sources say he met the "gymnosophists" — the naked wise men — and Magi. How deeply Indian thought influenced him is a standing debate (see Criticisms and debates); in antiquity the journey was already the standard explanation for his indifference to pain, honour, and danger.
+Pyrrho of Elis began, by ancient report, as a painter, then turned to philosophy, encountering Democritean ideas through Anaxarchus of Abdera. The decisive episode was travel: he accompanied Alexander the Great's expedition as far as India (c. 327–326 BCE), where Greek sources say he met the "gymnosophists" — the naked wise men — and Magi. How deeply Indian thought influenced him is a standing debate (see Criticisms and debates); in antiquity the journey was already the standard explanation for his indifference to pain, honor, and danger.
 
-Back in Elis he lived modestly, was honoured by his fellow citizens, and taught by example and conversation. He wrote nothing. That shapes everything we know: his thought reaches us through his pupil Timon of Phlius, whose poems survive only in fragments, and then, centuries later, through a systematic revival.
+Back in Elis he lived modestly, was honored by his fellow citizens, and taught by example and conversation. He wrote nothing. That shapes everything we know: his thought reaches us through his pupil Timon of Phlius, whose poems survive only in fragments, and then, centuries later, through a systematic revival.
 
 Pyrrho's line faded; Aenesidemus (1st century BCE) claimed to restore genuine Pyrrhonism and formulated the Ten Modes. Later skeptics added the Five Modes attributed to Agrippa. Our essential surviving text is Sextus Empiricus' *Outlines of Pyrrhonism* (late 2nd century CE), written some five centuries after Pyrrho. When we say "Pyrrho held," we usually mean "the tradition Sextus codifies attributed this to Pyrrho." Whether Sextus' argumentative skeptic is the same figure as the saint-like sage of the anecdotes is a genuine scholarly question.
 
@@ -23,15 +23,15 @@ Those anecdotes, preserved mainly in Diogenes Laertius Book IX, show Pyrrho unmo
 
 ## Major theories and concepts
 
-### Epochē: suspension of judgement
+### Epochē: suspension of judgment
 
-The skeptic's core act is *epochē*, suspension of judgement about everything non-evident — about how things are in their real nature, as opposed to how they appear. Honey appears sweet; whether it *is* sweet by nature, the skeptic neither affirms nor denies. Epochē is not indecision: it is the settled outcome of finding the arguments balanced, held without dogma — the skeptic reports what happens to him, like a man reporting that a medicine worked for him.
+The skeptic's core act is *epochē*, suspension of judgment about everything non-evident — about how things are in their real nature, as opposed to how they appear. Honey appears sweet; whether it *is* sweet by nature, the skeptic neither affirms nor denies. Epochē is not indecision: it is the settled outcome of finding the arguments balanced, held without dogma — the skeptic reports what happens to him, like a man reporting that a medicine worked for him.
 
 ### Isostheneia: equal strength on both sides
 
-The engine of epochē is *isostheneia*, equal strength of opposing arguments and appearances. For every account, the skeptic finds an opposing account of equal persuasiveness: the same tower appears round from a distance and square up close; the same act is honoured in one city and punished in another. When opposition is balanced, assent has nothing to tip toward, and judgement suspends itself — Sextus says tranquillity then follows "as a shadow follows the body," not as a goal pursued but as an unlooked-for result. His image is the painter Apelles, who threw a sponge at his canvas in frustration and accidentally produced the foam on a horse's mouth: *ataraxia*, freedom from disturbance, arrived when striving stopped.
+The engine of epochē is *isostheneia*, equal strength of opposing arguments and appearances. For every account, the skeptic finds an opposing account of equal persuasiveness: the same tower appears round from a distance and square up close; the same act is honored in one city and punished in another. When opposition is balanced, assent has nothing to tip toward, and judgment suspends itself — Sextus says tranquillity then follows "as a shadow follows the body," not as a goal pursued but as an unlooked-for result. His image is the painter Apelles, who threw a sponge at his canvas in frustration and accidentally produced the foam on a horse's mouth: *ataraxia*, freedom from disturbance, arrived when striving stopped.
 
-The tension is classic: is "the arguments are equal" itself a judgement to suspend about? Pyrrhonians answer that their slogans apply to themselves too — like a purgative that expels itself along with everything else.
+The tension is classic: is "the arguments are equal" itself a judgment to suspend about? Pyrrhonians answer that their slogans apply to themselves too — like a purgative that expels itself along with everything else.
 
 ### Not a dogma: "nothing can be known" is not the claim
 
@@ -39,11 +39,11 @@ The Academic skeptics Arcesilaus and Carneades were often read as asserting that
 
 ### Living by appearances: the fourfold observance
 
-How does one act without beliefs about reality? Sextus answers: by following appearances, in a fourfold observance — the guidance of nature (we perceive and think), the compulsion of feelings (hunger drives us to food), the handing down of laws and customs (we live as our community lives, without affirming its values are truly good), and instruction in the arts (we can practise a trade). The skeptic eats, works, and crosses roads like everyone else; what he lacks is not action but the added opinion that things are by nature as they seem. Critics call this a distinction without a difference; defenders reply that anxiety lives in the added opinion, not the appearance.
+How does one act without beliefs about reality? Sextus answers: by following appearances, in a fourfold observance — the guidance of nature (we perceive and think), the compulsion of feelings (hunger drives us to food), the handing down of laws and customs (we live as our community lives, without affirming its values are truly good), and instruction in the arts (we can practice a trade). The skeptic eats, works, and crosses roads like everyone else; what he lacks is not action but the added opinion that things are by nature as they seem. Critics call this a distinction without a difference; defenders reply that anxiety lives in the added opinion, not the appearance.
 
 ### The Modes: tools for producing epochē
 
-Later Pyrrhonists organised their argument-patterns into Modes. **Aenesidemus' Ten Modes** generate opposing appearances from differences among animals, humans, and the senses, in circumstances, positions, quantities, relations, and customs — the same water is pleasure to the thirsty and torment to the drowning. **Agrippa's Five Modes** are more abstract: from *dispute* (undecided conflict everywhere), *regress* (every justification needs a further one, infinitely), *relativity* (things appear only in relation to a perceiver), *hypothesis* (dogmatists stop the regress by assuming a starting point), and *circularity* (the proof assumes what it was meant to prove). Together they pose the criterion problem: by what standard do you justify your standard? Any answer falls into regress, circle, or bare assertion — a trilemma still discussed today (in modern literature, the Münchhausen trilemma — a 20th-century coinage).
+Later Pyrrhonists organized their argument-patterns into Modes. **Aenesidemus' Ten Modes** generate opposing appearances from differences among animals, humans, and the senses, in circumstances, positions, quantities, relations, and customs — the same water is pleasure to the thirsty and torment to the drowning. **Agrippa's Five Modes** are more abstract: from *dispute* (undecided conflict everywhere), *regress* (every justification needs a further one, infinitely), *relativity* (things appear only in relation to a perceiver), *hypothesis* (dogmatists stop the regress by assuming a starting point), and *circularity* (the proof assumes what it was meant to prove). Together they pose the criterion problem: by what standard do you justify your standard? Any answer falls into regress, circle, or bare assertion — a trilemma still discussed today (in modern literature, the Münchhausen trilemma — a 20th-century coinage).
 
 ## Key works
 
