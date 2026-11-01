@@ -7,7 +7,7 @@ Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet E
 ## Start here
 
 1. **Skim `timeline.md`** — 2,500 years on one page; get the shape of the story.
-2. **Follow `learning-path.md`** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 study hours over 64 study weeks — roughly 15–19 calendar months at 4–5 hrs/week with buffer weeks, or a trimmed 12-month version. It is deliberately not a one-year plan at a comfortable pace, and it says so.
+2. **Follow `learning-path.md`** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 desk-study hours over 64 study weeks; counted in full — desk study + the daily Anki (FSRS) card queue + assigned podcasts and lectures — it totals ≈454 hours, i.e. 64 study weeks at ≈7 hrs/week all-in (≈17 calendar months with buffers), the same material at 4–5 hrs/week stretched over roughly two to two-and-a-half years, or a trimmed 12-month version (≈335 hrs). It is deliberately not a one-year plan at a comfortable pace, and it says so.
 3. **Read era overviews in order** (`eras/`), opening a philosopher's entry file when the overview reaches them.
 4. **Tick off `tracker.md`** as you finish each figure.
 
