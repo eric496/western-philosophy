@@ -10,6 +10,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 
 - **[Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)** (c. 540–c. 480 BCE) — Eyes and ears are bad witnesses: sense reports mislead unless the soul grasps the *logos* structuring them.
 - **[Parmenides](eras/01-ancient/parmenides-of-elea.md)** (b. c. 515 BCE) — Trust reason, not the senses: deduction shows what-is cannot not-be; the perceived world is the way of mere opinion.
+- **[Zeno of Elea](eras/01-ancient/zeno-of-elea.md)** (c. 490–c. 430 BCE) — The paradoxes defend Parmenides by reductio: trust the argument that motion and plurality are impossible over the senses that report them.
 - **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — The senses deliver "bastard" knowledge of qualities that exist by convention; genuine knowledge reaches atoms and void by reason.
 - **[Protagoras (with Gorgias)](eras/01-ancient/protagoras-and-the-sophists.md)** (c. 490–c. 420 BCE) — "Man is the measure": what seems true to each perceiver is true for them; Gorgias adds that nothing can be known, nor communicated if known.
 - **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — Knowledge begins in confessed ignorance; the elenchus cross-examines definitions until the false conceit of knowledge collapses.
@@ -123,3 +124,216 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — *Why I Am Not a Christian*: the arguments fail, the historical record is cruel, and fear — not reason — is religion's root.
 - **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — God is met by attention, and in affliction (*malheur*): decreation empties the self so that grace can pass through.
 - **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — God comes to mind in the face of the other person: transcendence is ethics before it is doctrine or cult.
+
+---
+
+## 4. Ethics & the Good Life — How should I live, and what is right?
+
+- **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — Ethics is a whole way of life: communal discipline, dietary rules, and daily self-examination purify the soul.
+- **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — The goal is *euthymia*, cheerfulness of soul, secured by moderation and limiting desire to what nature readily supplies.
+- **[Protagoras (with Gorgias)](eras/01-ancient/protagoras-and-the-sophists.md)** (c. 490–c. 420 BCE) — Virtue can be taught — the city itself is the teacher — but its standards are those of the community that measures.
+- **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — Virtue is knowledge: no one does wrong willingly, and the soul is the one possession worth tending.
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — Justice is the soul's health: reason, spirit, and appetite each doing their proper work under reason's rule.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — *Eudaimonia* is activity of soul in accordance with virtue; virtue is a trained mean, steered by practical wisdom (*phronesis*).
+- **[Diogenes](eras/01-ancient/diogenes-of-sinope-and-the-cynics.md)** (c. 412–323 BCE) — Virtue needs nothing: live according to nature, scorn convention and wealth, and let shamelessness coach self-sufficiency.
+- **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — Pleasure rightly calculated is the good: simple desires, friendship, and freedom from pain and turmoil (*ataraxia*).
+- **[Zeno of Citium](eras/01-ancient/zeno-of-citium-and-the-stoics.md)** (c. 334–c. 262 BCE) — Virtue is the only good; live in agreement with nature's *logos*, treating health and wealth as preferred indifferents.
+- **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — Guard the inner citadel: some things are up to us and the rest are indifferent; play your given role well.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The virtues are loves rightly ordered; sin is loving lesser goods as if greatest, and the heart rests only in God.
+- **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — Fortune's goods — wealth, fame, power — cannot be happiness; the true good is self-sufficient, and it is God.
+- **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Sin lies in intention and consent, not in the outward act: the same deed can be innocent or guilty.
+- **[Maimonides](eras/02-medieval/maimonides.md)** (c. 1138–1204) — Moral virtue is a mean acquired by habit, a preparation: the highest human perfection is intellectual, the knowledge of God.
+- **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Natural law is our share in eternal law — do good, avoid evil — and the virtues order us to beatitude as our final end.
+- **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — The effectual truth: a ruler must learn how *not* to be good, using cruelty and mercy as the occasion demands.
+- **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "To live fittingly" is the great achievement: know yourself, moderate desire, and let the body's wisdom tutor the soul.
+- **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Provisional morality for the journey; the mature ethics crowns his system in *générosité* — the steady resolve to use one's freedom well.
+- **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — "Good" and "bad" name what aids or hinders our power of acting; freedom is understanding the affects, and its fruit is blessedness.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Morals are founded on sentiment, not reason; sympathy, corrected by a general point of view, yields the catalogue of virtues.
+- **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — Conscience and pity precede reason; morality is recovered when self-love's corruptions are ordered by a common moral self.
+- **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — We judge ourselves through an imagined impartial spectator built up from sympathy; propriety, not utility alone, grounds praise and blame.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Act only on maxims you can will as universal law; the categorical imperative treats every person always also as an end.
+- **[Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — Women are made, not born, inferior: virtue is one standard for both sexes, and it requires education and independence.
+- **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — The greatest happiness of the greatest number is the measure of right and wrong; every pleasure counts, none counts for more than one.
+- **[Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — The I's essence is moral striving: conscience is the immediate voice of duty, and one's vocation is self-legislation in a sensible world.
+- **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — Beyond abstract right and Kantian morality stands ethical life (*Sittlichkeit*): freedom actualised in family, civil society, and state.
+- **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — Compassion — suffering another's suffering as one's own — is the sole genuine moral incentive; egoism and malice are its failures.
+- **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Altruism, a word he coined: morality matures as egoism is progressively subordinated to "live for others."
+- **[Mill](eras/04-19th-century/john-stuart-mill.md)** (1806–1873) — Utilitarianism refined: pleasures differ in quality, and character, individuality, and liberty are themselves among utility's greatest goods.
+- **[Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (1807–1858) — Women's enfranchisement and equality are demands of justice and utility alike; subordination corrupts rulers and ruled alike.
+- **[Kierkegaard](eras/04-19th-century/soren-kierkegaard.md)** (1813–1855) — The self is chosen through stages — aesthetic, ethical, religious; the ethical is universal duty, which faith may paradoxically suspend.
+- **[Marx](eras/04-19th-century/karl-marx.md)** (1818–1883) — Alienated labour estranges us from product, activity, species-being, and each other; flourishing means reclaiming human powers in common.
+- **[Sidgwick](eras/04-19th-century/henry-sidgwick.md)** (1838–1900) — Three methods — egoism, intuitionism, universal hedonism — rigorously compared; practical reason is left dual, duty and self-interest unreconciled.
+- **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — Genealogy unmasks "good and evil" as slave morality's invention; beyond it stand self-overcoming and the creation of one's own values.
+- **[Dewey](eras/05-20th-century/john-dewey.md)** (1859–1952) — Moral problems are inquiries: values are hypotheses tested in experience, and growth itself is the only moral end.
+- **[Moore](eras/05-20th-century/g-e-moore.md)** (1873–1958) — "Good" is simple and indefinable: for any natural property proposed, asking whether it is good remains an open question.
+- **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Condemned to be free: in choosing myself I choose an image of man for all; bad faith is fleeing that responsibility.
+- **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Eichmann showed evil can be sheer thoughtlessness: the refusal to think from another's standpoint and to judge for oneself.
+- **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — An ethics of ambiguity: my freedom is real only in willing the freedom of others; oppression freezes transcendence into immanence.
+- **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — Attention is the rarest form of generosity: to look at the afflicted until their reality registers is the core of goodness.
+- **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — Ethics is first philosophy: before freedom and knowledge, the face commands "thou shalt not kill" and makes me responsible.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — The late turn: ethics as self-formation — care of the self and *askēsis* as practices of freedom against subjection.
+- **[Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md)** (1919–2001 / 1920–2010) — Anscombe: the moral "ought" is a survival from a law-conception of ethics — return to virtue and fact; Foot: goodness is natural, as in roots and eyes, and her 1967 tram case launches trolley ethics.
+- **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — Modern moral language is fragments of a lost order; virtues live again inside practices, narrative unity, and traditions.
+- **[Williams](eras/05-20th-century/bernard-williams.md)** (1929–2003) — The "morality system" distorts ethical life: moral luck is real, and integrity and ground projects can rightly resist impartial demands.
+- **[Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (1929–2020) — Rights reframe hard cases: the famous violinist defends abortion through bodily rights; her trolley variants probe when killing is permissible.
+- **[Parfit](eras/05-20th-century/derek-parfit.md)** (1942–2017) — When each is suitably revised, Kantian, contractualist, and consequentialist principles converge — the Triple Theory — and identity is not what matters.
+- **[Singer](eras/05-20th-century/peter-singer.md)** (b. 1946) — If you can prevent something very bad at small cost, you ought to: the drowning child makes global poverty — and animal suffering — your business.
+
+---
+
+## 5. Politics & Justice — How should we live together, and who may rule?
+
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — Justice in the city mirrors the soul: philosopher-kings rule, each class does its own work, and democracy decays toward tyranny.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — The polis exists by nature, for living well; constitutions are judged by whether rulers aim at the common advantage or their own.
+- **[Diogenes](eras/01-ancient/diogenes-of-sinope-and-the-cynics.md)** (c. 412–323 BCE) — "I am a citizen of the world": the only true commonwealth is the cosmos, not the city of one's birth.
+- **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — One law of nature grounds a universal cosmopolis of gods and men; Marcus rules an empire while writing self-exhortations.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Two cities, made by two loves, remain intermingled until the judgment; earthly peace is a real but relative good.
+- **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Law is an ordinance of reason for the common good; an unjust law is a corruption of law and does not bind in conscience.
+- **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — The tumults between plebs and nobles guarded Roman liberty; a republic needs its own arms and periodic returns to its beginnings.
+- **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "Of Cannibals" turns the mirror: Europeans who torture for religion call others barbarous; custom, not reason, rules judgement everywhere.
+- **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Escape the war of all against all by covenanting all power to a sovereign Leviathan — absolute, yet resting on consent.
+- **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Right extends exactly as far as power; the state is strongest when most its own master, and democracy is the most natural regime.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Government rests on consent to protect life, liberty, and estate; tyranny dissolves the government and returns power to the people.
+- **[Montesquieu](eras/03-early-modern/montesquieu.md)** (1689–1755) — Liberty is security under law; it survives only where legislative, executive, and judicial powers are separated and check each other.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Justice is an artificial virtue born of scarcity and convention; and all government rests finally on opinion, not force.
+- **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — The general will makes chains legitimate: each, giving himself to all, obeys only himself and remains as free as before.
+- **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — Justice is the one pillar of society that cannot bend; markets self-order, but merchants' interests always threaten the public good.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Right concerns external freedom under universal law; perpetual peace requires republican states, a peaceful federation, and cosmopolitan hospitality.
+- **[Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — If reason and virtue have no sex, excluding women from rights and education is tyranny; the *Vindication* answers Burke.
+- **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — Utility as a programme of reform: codified law, widening suffrage, and every institution audited by its contribution to happiness.
+- **[Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — The *Addresses* summon a nation into being through education: the state must school its citizens into moral selfhood.
+- **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — The state is the actuality of concrete freedom: within ethical life the individual finds liberation, not restraint.
+- **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Order and progress: a positivist polity, ruled by social physics and a spiritual power, succeeds theological politics.
+- **[Tocqueville](eras/04-19th-century/alexis-de-tocqueville.md)** (1805–1859) — Democracy is dangerous as well as inevitable: majority tyranny and soft despotism are checked by associations, townships, and mores.
+- **[Mill](eras/04-19th-century/john-stuart-mill.md)** (1806–1873) — The harm principle: power may coerce a person only to prevent harm to others; free discussion is truth's engine.
+- **[Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (1807–1858) — Women's votes and eligibility follow from the very principles that condemned every other hereditary exclusion.
+- **[Marx](eras/04-19th-century/karl-marx.md)** (1818–1883) — The state is the executive committee of the ruling class; emancipation requires abolishing private property — and finally the state itself.
+- **[Dewey](eras/05-20th-century/john-dewey.md)** (1859–1952) — Democracy is more than a franchise: a way of associated living, continually rebuilt by education and experimental public inquiry.
+- **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Defend the open society by piecemeal engineering; historicist prophecy, from Plato to Marx, is its intellectual enemy.
+- **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Politics is action in plurality, revealing who we are; totalitarianism destroys spontaneity, and bureaucratic rule enables banal evil.
+- **[Frankfurt School](eras/05-20th-century/frankfurt-school.md)** (1923– ) — Instrumental reason and the culture industry integrate domination into everyday life; Habermas rebuilds legitimacy on communicative action and the public sphere.
+- **[Rawls](eras/05-20th-century/john-rawls.md)** (1921–2002) — Behind a veil of ignorance, parties choose equal basic liberties, and permit inequalities only when they benefit the least advantaged.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Power is capillary and productive: disciplines, surveillance, and biopolitics govern bodies and populations without a single sovereign centre.
+- **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — Woman is constituted as the Other; liberation requires economic independence and the transformation of institutions, not goodwill alone.
+- **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — *The Need for Roots*: obligations precede rights, uprootedness is the modern disease, and political parties and propaganda feed it.
+- **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — With the third party, ethics must become justice: comparison, law, and the state — perpetually corrected by charity toward each face.
+- **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — The liberal state masks competing wills as neutral administration; politics worthy of the virtues survives in local communities of practice.
+
+---
+
+## 6. Self & Identity — What am I, and what makes me the same person over time?
+
+- **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — "Know thyself": the unexamined life is not worth living, and care of the soul outranks wealth and reputation.
+- **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — The self's fortress is choice (*prohairesis*): externals can chain the body, but nothing outside can compel assent.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The self is found by turning inward — memory's vast palace, the restless heart — and is made whole only by grace.
+- **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — A person is "an individual substance of a rational nature": the definition that fixed the terms of debate for a millennium.
+- **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man knows that he exists without knowing that he has a body: self-awareness is immediate and incorporeal.
+- **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "I study myself more than any other subject": the essay portrays a self in motion — inconsistent, embodied, becoming.
+- **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — The self is first known as a thinking thing: the *cogito* makes selfhood certain while body and world remain doubtful.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Personal identity is sameness of consciousness: memory, not soul or substance, makes me the same person — and accountable.
+- **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Each monad is an individual substance mirroring the whole universe from its point of view; no two beings are perfectly alike.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Introspection finds only particular perceptions, never a self: the mind is a bundle, and personal identity is imagination's construction.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — The "I think" must be able to accompany all my representations: the unity of apperception gives identity its form, not a knowable soul.
+- **[Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — The I is not a thing but an act: it posits itself, and becomes a self only through the summons of another I.
+- **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — Self-consciousness exists only in being recognised: the master–slave struggle shows identity is made between persons, not inside one.
+- **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — Individuation is a veil: in truth one Will appears as many separate selves, and compassion is seeing through the division.
+- **[Kierkegaard](eras/04-19th-century/soren-kierkegaard.md)** (1813–1855) — The self is a relation that relates to itself; despair is its sickness — refusing, or frantically willing, to be oneself.
+- **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Distinguish the I, the knower, from the Me, the known: the empirical self spans body, possessions, social roles, and spirit.
+- **[Bergson](eras/05-20th-century/henri-bergson.md)** (1859–1941) — Beneath the social, spatialised self lies the deep self of duration, recovered in intuition and expressed in free acts.
+- **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — The transcendental ego constitutes itself in inner time and constitutes the other as another self — the problem of intersubjectivity.
+- **[Heidegger](eras/05-20th-century/martin-heidegger.md)** (1889–1976) — Dasein is always *mine*: lost in the They (*das Man*), it individuates itself through being-toward-death toward authenticity.
+- **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Existence precedes essence: consciousness is no fixed thing, and the self is a project perpetually made in freedom.
+- **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — One is not born, but rather becomes, a woman: selfhood is formed within situations that make some selves the Other.
+- **[Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (1908–1961) — The embodied self precedes the thinking one: an "I can" underlies every "I think"; my body is my point of view on the world.
+- **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Action and speech disclose *who* someone is — a unique story no one fully authors — as against *what* they are.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — The subject is formed by power, and can re-form itself: technologies of the self make identity a work, not a discovery.
+- **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — A life's unity is narrative: I am a character in enacted stories, accountable within quests I did not wholly choose or write.
+- **[Parfit](eras/05-20th-century/derek-parfit.md)** (1942–2017) — What matters is psychological connectedness and continuity, not identity: the self is less deep — and death less bad — than we think.
+
+---
+
+## 7. Language & Meaning — How do words and thoughts hook onto the world?
+
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The *Cratylus* asks whether names are natural likenesses of things or mere conventions — and ends doubting that names teach us things themselves.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Spoken words symbolise affections of the soul, which are likenesses of things; the syllogism gives reasoning a machinery of proof.
+- **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — His translations and commentaries fixed Latin logic's vocabulary for centuries and posed the problem of universals for the schools.
+- **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Universals are neither things nor empty breath: they are words with a semantics (*sermones*), and realism's puzzle dissolves.
+- **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1266–1308) — "Being" must be univocal — one concept said of God and creatures alike — or every theological argument equivocates.
+- **[Ockham](eras/02-medieval/william-of-ockham.md)** (c. 1287–1347) — Terms stand for things directly (supposition); universals are signs in a mental language — entities are not to be multiplied.
+- **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Beware the idols of the marketplace: words badly defined bewitch the understanding and breed endless empty disputes.
+- **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Reasoning is computation with names; truth consists in the right ordering of words we ourselves have defined.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Words signify ideas, not things directly; most philosophical disputes are verbal — Book III of the *Essay* is therapy for language.
+- **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Abstract general ideas are impossible: language seduces us into positing matter, and examining the words dissolves the phantom.
+- **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — A universal characteristic with a calculus of reasoning would let disputants simply say "let us calculate" — meaning made exact.
+- **[Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — Language is a nation's archive: etymology and poetic logic recover how early peoples thought in imaginative universals.
+- **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — Truths are metaphors worn smooth: language herds experience into common concepts and hides that every concept falsifies becoming.
+- **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Meaning is the conceivable practical effects of a thing; all thought is in signs — icon, index, symbol.
+- **[Frege](eras/05-20th-century/gottlob-frege.md)** (1848–1925) — Sense determines reference: "Morning Star" and "Evening Star" refer alike and differ in meaning; logic needs a purified concept-script.
+- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Descriptions like "the present King of France" are not names: analysis dissolves their apparent reference and its ontological temptations.
+- **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Meanings are ideal unities instantiated in acts; expression must be pried apart from mere indication and communication.
+- **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — The meaning of a statement is its method of verification: metaphysics is not false but literally without sense.
+- **[Wittgenstein](eras/05-20th-century/wittgenstein-early.md)** (1889–1951) — Early work: propositions picture facts, and what cannot be said must be passed over in silence; the [later work](eras/05-20th-century/wittgenstein-late.md) recasts meaning as use within language-games and forms of life, and rules out a private language.
+- **[Heidegger](eras/05-20th-century/martin-heidegger.md)** (1889–1976) — Language is the house of Being: *logos* and poetry disclose a world before words are ever used as tools.
+- **[Ryle](eras/05-20th-century/gilbert-ryle.md)** (1900–1976) — Philosophical confusion is conceptual geography gone wrong: category mistakes map mind-talk onto the grammar of thing-talk.
+- **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — Translation is indeterminate — "gavagai" — and no fact of the matter fixes meaning; reference is relative to a conceptual scheme.
+- **[Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — Language is the universal medium of understanding: being that can be understood is language, and dialogue fuses horizons.
+- **[Derrida](eras/05-20th-century/jacques-derrida.md)** (1930–2004) — *Différance*: meaning is produced by difference and deferral, never by presence; writing exposes speech's borrowed authority.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Discourse determines what can be said and who may speak it: statements, not sentences, are the units in the history of knowledge.
+
+---
+
+## 8. Science & Method — How should inquiry proceed, and what does it prove?
+
+- **[Thales](eras/01-ancient/thales-of-miletus.md)** (c. 624–c. 546 BCE) — Explain nature from nature: water as first principle and a predicted eclipse — the opening move from myth to a testable account.
+- **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — The cosmos is intelligible because it is number: mathematical harmony is both the explanation of things and the evidence for it.
+- **[Empedocles](eras/01-ancient/empedocles.md)** (c. 494–c. 434 BCE) — Four roots mixed and separated by Love and Strife explain all change; his zoogony even sketches the survival of fitting combinations.
+- **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — One explanatory scheme for everything — atoms and void, necessity without purpose: the ancestor of physical reductionism.
+- **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Science (*epistēmē*) demonstrates effects from their causes; his biology models knowledge built patiently from observed differences.
+- **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — The Great Instauration: clear away the idols, compile natural histories, and let induction rebuild learning — knowledge as power.
+- **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — One method for all the sciences, on the model of mathematics: intuition and deduction, and nature as a machine of extension and motion.
+- **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Nature is to be explained geometrically, without final causes: superstition begins where purposes are projected onto necessity.
+- **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Dynamics needs *vis viva*, not Descartes's quantity of motion: metaphysics here corrects physics, not the reverse.
+- **[Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — *Verum factum*: we can truly know what we have made — so the civil world, not nature, is the human science's proper object.
+- **[Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (1706–1749) — Hypotheses are legitimate instruments of physics, and *vis viva* (*mv*²) is motion's true measure — argued in print against the establishment.
+- **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Induction, the engine of all experimental science, has no rational foundation: it is custom — nature's cure for its own scepticism.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Newtonian science is possible because space, time, and the categories are a priori forms that any experience must obey.
+- **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — The sciences reach positivity in a fixed order — astronomy first, sociology last; sociology is founded as social physics.
+- **[Mill](eras/04-19th-century/john-stuart-mill.md)** (1806–1873) — The Methods — agreement, difference, residues, concomitant variation — codify experimental inquiry inside a general logic of proof.
+- **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Science is self-correcting inquiry by an unlimited community: abduction proposes, deduction predicts, induction tests.
+- **[Dewey](eras/05-20th-century/john-dewey.md)** (1859–1952) — The experimental pattern — problem, hypothesis, test in experience — is not confined to laboratories; it is intelligence itself at work.
+- **[Frege](eras/05-20th-century/gottlob-frege.md)** (1848–1925) — Arithmetic is logic: numbers are definable without intuition or psychology — a rebuilt foundation that Russell's paradox would shake.
+- **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — The *Crisis*: modern science has forgotten its ground in the lifeworld; phenomenology restores meaning by returning to lived evidence.
+- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Substitute logical constructions for inferred entities wherever possible: the maxim of a scientific method in philosophy.
+- **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Demarcation by falsifiability: a theory is scientific by the risks it runs; knowledge grows by conjectures and refutations.
+- **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — The scientific world-conception: the unity of science in one physicalist language, with philosophy as its logical clarification.
+- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Science alternates normal puzzle-solving under a paradigm with revolutions that replace it; growth is not simple accumulation.
+- **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — Theories face experience only as a whole (the Duhem–Quine point): philosophy is continuous with science, not its external judge.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Archaeology excavates the *epistemes* that made each era's sciences of man possible: knowledge's history is discontinuous.
+
+---
+
+## 9. History & Progress — Does history have a direction, and can we know it?
+
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — History is linear and once-for-all, against pagan cycles: two cities move through one plot toward a single judgment.
+- **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — Republics decay and renew in cycles; fortune rules half our actions, and returns to first principles restore a state's vigour.
+- **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — The moderns should surpass the ancients: the instauration of learning is history's hinge, and antiquity was the world's youth, not its maturity.
+- **[Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — Nations run an ideal eternal history — ages of gods, heroes, and men — and then *ricorso*; providence works through human passions.
+- **[Montesquieu](eras/03-early-modern/montesquieu.md)** (1689–1755) — A general spirit — climate, laws, religion, maxims, mores — shapes each nation's course: history becomes comparative and lawful.
+- **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — History as corruption: natural goodness is buried under property, comparison, and dependence — a conjectural genealogy of inequality.
+- **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — Society advances through four stages — hunting, pasturage, agriculture, commerce — as modes of subsistence rewrite law and manners.
+- **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Nature's hidden plan works through unsocial sociability toward a cosmopolitan condition: history can be read as progress toward right.
+- **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — World history is progress in the consciousness of freedom: Spirit externalises itself in peoples and states, and comes to know itself.
+- **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — The law of three stages is history's master key: every science, and society with it, passes from theological through metaphysical to positive.
+- **[Tocqueville](eras/04-19th-century/alexis-de-tocqueville.md)** (1805–1859) — Equality of conditions advances over centuries like a providential fact; the statesman's task is to educate democracy, not resist it.
+- **[Marx](eras/04-19th-century/karl-marx.md)** (1818–1883) — History is the succession of modes of production driven by class struggle; communism ends prehistory and begins conscious history.
+- **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — Genealogy is history turned into a critical weapon; his early essay weighs monumental, antiquarian, and critical history by their service to life.
+- **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Historicism — the claim that history obeys laws of destiny — is logically bankrupt and politically poisonous; there are trends, never laws.
+- **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Modernity worships History as a process that devours events; against it stands natality: every birth begins something unpredictably new.
+- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Textbooks rewrite the past as a staircase; revolutions make science's history discontinuous — progress *from* past paradigms, not toward a final truth.
+- **[Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — We stand inside history, not above it: tradition is not an obstacle to understanding but its enabling ground.
+- **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — Moral history is a catastrophe of fragments — yet traditions can rationally defeat rivals by resolving their own crises.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Genealogy against continuous history: descent and emergence reveal contingency exactly where necessities were supposed to reign.
+
+---
+
+*Reading tip: after finishing the chronological pass in [learning-path.md](learning-path.md), take a second pass down one column of this map. The arguments are old; the order in which you meet them changes what they mean.*
