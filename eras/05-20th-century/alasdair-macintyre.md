@@ -76,5 +76,7 @@ MacIntyre supplied the virtue-ethics revival with its historical engine: Anscomb
 
 *After Virtue* itself — unusually for a work of this density, it is written to be read, and chapters 1–3 (the catastrophe, emotivism, the Enlightenment failure) give the thesis whole. Then chapters 14–15 for practices and narrative. *Dependent Rational Animals* chapter 1 is the best short supplement. Leave *Whose Justice? Which Rationality?* until the position is clear, and read Anscombe's "Modern Moral Philosophy" alongside — the two are the twin sources of the virtue revival.
 
+**Study guide:** [*After Virtue* — chapter-by-chapter guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/macintyre-after-virtue.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

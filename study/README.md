@@ -19,5 +19,8 @@ Work-level guides to read alongside the primary text, not instead of it. Each gu
 | Nietzsche, *On the Genealogy of Morals* (1887, all three essays) | [nietzsche-genealogy.md](nietzsche-genealogy.md) | [Nietzsche](../eras/04-19th-century/friedrich-nietzsche.md), learning path Stage 4 |
 | Rawls, *A Theory of Justice* §§1–4 + the difference principle (revised ed. 1999) | [rawls-theory-of-justice.md](rawls-theory-of-justice.md) | [Rawls](../eras/05-20th-century/john-rawls.md), learning path Stage 5 |
 | Beauvoir, *The Second Sex* Introduction + Vol. II opening (Borde & Malovany-Chevallier, 2010/2011) | [beauvoir-second-sex.md](beauvoir-second-sex.md) | [Beauvoir](../eras/05-20th-century/simone-de-beauvoir.md), learning path Stage 5 |
+| Sartre, *Existentialism Is a Humanism* (1946) + *Being and Nothingness* selections | [sartre-existentialism.md](sartre-existentialism.md) | [Sartre](../eras/05-20th-century/jean-paul-sartre.md), learning path Stage 5 |
+| Foucault, *Discipline and Punish* (1975; Part Three in full + opening and close) | [foucault-discipline.md](foucault-discipline.md) | [Foucault](../eras/05-20th-century/michel-foucault.md), learning path Stage 5 |
+| MacIntyre, *After Virtue* (1981; 3rd ed. 2007, read whole) | [macintyre-after-virtue.md](macintyre-after-virtue.md) | [MacIntyre](../eras/05-20th-century/alasdair-macintyre.md), learning path Stage 5 |
 
 More guides are planned as later batches; this folder grows with the library.

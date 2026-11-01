@@ -120,5 +120,7 @@ First, *normative grounding*: Habermas and Nancy Fraser pressed that Foucault co
 3. Pair both with the Stanford Encyclopedia of Philosophy article on Foucault.
 4. Then sample a lecture course — *Society Must Be Defended* — to hear him thinking aloud.
 
+**Study guide:** [*Discipline and Punish* (selections) — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/foucault-discipline.md).
+
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
