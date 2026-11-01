@@ -106,6 +106,14 @@ Fuller reconstructions of the Republic's arguments are in the study guide: [Repu
 - **Timaeus** (late) — Cosmology: a craftsman, the Demiurge, orders the universe on eternal models.
 - **Laws** (last, unfinished) — A detailed legal code for a second-best colony; Plato's most authoritarian political writing.
 
+## In their own words
+
+> And now, I said, let me show in a figure how far our nature is enlightened or unenlightened:—Behold! human beings living in an underground den, which has a mouth open towards the light and reaching all along the den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets.
+
+— Plato, *Republic* VII, trans. Benjamin Jowett (public domain, Project Gutenberg)
+
+This is the opening of the Allegory of the Cave, Plato's most famous image for education itself. Notice that the prisoners are not stupid or deceived by a villain: they are simply chained by habit and upbringing, and they take the shadows on the wall for the whole of reality. The hard part of philosophy, on this picture, is not learning new facts but turning around — a slow, painful reorientation of what you take to be real.
+
 ## Contributions
 
 Plato essentially invents systematic philosophy in the West. The Presocratics wrote on nature, the Sophists on rhetoric, Socrates on ethics — Plato joins metaphysics, epistemology, ethics, politics, psychology, and aesthetics into one enterprise, showing how answers in one area constrain others. He gave canonical form to the dialogue, the appearance/reality distinction, and the Academy as a research institution. He also created the enduring problem-set — universals, innate knowledge, soul and body, political authority, art — on which later philosophers still work while rejecting his answers.

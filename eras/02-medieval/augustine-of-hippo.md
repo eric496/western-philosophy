@@ -49,6 +49,14 @@ In epistemology Augustine held that the mind judges sensible things by standards
 - **On Free Choice of the Will** (begun c. 388, completed c. 395) — early dialogue on evil and free will; contains the *si fallor, sum*.
 - **Anti-Pelagian writings** (c. 412–430) — *On Nature and Grace*, *On Grace and Free Will*, *On the Predestination of the Saints*: the hard edge of the grace doctrine.
 
+## In their own words
+
+> Great art Thou, O Lord, and greatly to be praised; great is Thy power, and Thy wisdom infinite. Thee would man praise; man, but a particle of Thy creation; man, that bears about him his mortality, the witness of his sin, the witness that Thou resistest the proud: yet would man praise Thee; he, but a particle of Thy creation. Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.
+
+— Augustine, *Confessions* I.1, trans. E. B. Pusey (1838; public domain)
+
+The *Confessions* opens as a prayer, not an argument — Augustine is talking to God, and the reader overhears. The famous last sentence states the book's whole plot in advance: human beings are made for God, so every substitute satisfaction leaves the heart "restless." Everything that follows — the pear theft, the Manichees, Monica's tears — is Augustine testing that claim against his own life.
+
 ## Contributions
 
 Augustine essentially created the agenda of Western theology and much of Western philosophy: the problems of evil, will, grace, time, memory, selfhood, and history are posed in his terms for the next thousand years. He fused the biblical narrative with Neoplatonic metaphysics into a single intellectual system. He invented (or decisively shaped) the genre of autobiographical self-examination, gave the Latin West its standard account of original sin, and supplied the conceptual tools — privation, ordered love, the threefold present — that medieval thinkers inherited as common property.

@@ -54,6 +54,14 @@ Running through both works is the maxim that good laws require good arms, and go
 - *The Mandrake* (performed c. 1518) — A comedy of deception and desire that mirrors his political themes; still performed.
 - *Letters*, especially to Vettori (10 December 1513) — The single best short route into his mind and working method.
 
+## In their own words
+
+> Nevertheless, not to extinguish our free will, I hold it to be true that Fortune is the arbiter of one-half of our actions, but that she still leaves us to direct the other half, or perhaps a little less. I compare her to one of those raging rivers, which when in flood overflows the plains, sweeping away trees and buildings, bearing away the soil from place to place; everything flies before it, all yield to its violence, without being able in any way to withstand it; and yet, though its nature be such, it does not follow therefore that men, when the weather becomes fair, shall not make provision, both with defences and barriers, in such a manner that, rising again, the waters may pass away by canal, and their force be neither so unrestrained nor so dangerous.
+
+— Niccolò Machiavelli, *The Prince* XXV, trans. W. K. Marriott (1908; public domain)
+
+Here is the fortuna/virtù pair in Machiavelli's own image. Fortune governs half our actions — but notice the practical turn: a river in flood cannot be resisted *now*, yet dikes and barriers can be built in fair weather. Virtù is exactly that preparation — foresight and energy applied before the crisis. The passage is the antidote to reading Machiavelli as a fatalist: chance is real, and still not an excuse.
+
 ## Contributions
 
 Machiavelli effectively founded the modern study of politics as an autonomous activity, with its own logic, distinct from ethics and theology — Leo Strauss called him the founder of modern political philosophy, and even those who resist that verdict grant the rupture. He gave political theory a durable vocabulary (virtù, fortuna, the effectual truth), relaunched republicanism as a serious research programme, insisted that institutions and conflict — not just rulers' character — determine political outcomes, and made the armed citizen central to the theory of free states. His separation of political analysis from moral prescription, whatever one thinks of it, is the move political science still lives with.

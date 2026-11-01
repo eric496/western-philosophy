@@ -84,6 +84,14 @@ Therefore, a people is free and legitimately governed when its laws express the 
 - *The Social Contract* (1762) — Opens “Man is born free, and everywhere he is in chains”; the systematic account of legitimacy, sovereignty, and the general will.
 - *Confessions* (posthumous, 1782/1789) — The frank autobiography; a primary source for his life and a founding work of modern self-writing.
 
+## In their own words
+
+> Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they. How did this change come about? I do not know. What can make it legitimate? That question I think I can answer.
+
+— Jean-Jacques Rousseau, *The Social Contract* I.1, trans. G. D. H. Cole (1913; public domain)
+
+Probably the most quoted opening in political philosophy — and the most misread. Rousseau is not saying people were once literally unchained; he is setting the book's problem. The distinction to notice is between the two questions: how subjection *came about* (a historical question he sets aside) and what could make it *legitimate* (the normative question the whole *Social Contract* tries to answer, through the general will).
+
 ## Contributions
 
 Rousseau made inequality a problem requiring genealogy rather than justification, gave moral psychology the pair *amour de soi* / *amour-propre*, and gave democracy its most demanding idea: legitimacy as a people legislating for itself under general laws. *Émile* reshaped education by insisting the child is not a miniature adult. The *Confessions* effectively created modern autobiography.

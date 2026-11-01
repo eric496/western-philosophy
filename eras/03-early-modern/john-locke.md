@@ -101,6 +101,14 @@ Therefore, identity of person can diverge both from identity of body and from id
 - *Some Thoughts Concerning Education* (1693) — Habit, example, and esteem over rote and the rod; widely influential.
 - *The Reasonableness of Christianity* (1695) — A minimalist account of Christian belief, controversial in its day.
 
+## In their own words
+
+> Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas; how comes it to be furnished? Whence comes it by that vast store which the busy and boundless fancy of man has painted on it with an almost endless variety? Whence has it all the materials of reason and knowledge? To this I answer, in one word, from EXPERIENCE. In that all our knowledge is founded; and from that it ultimately derives itself.
+
+— John Locke, *An Essay Concerning Human Understanding* II.i.2 (1690; public domain)
+
+Locke's answer to where ideas come from became the charter of empiricism. Notice the care in the image: he says the mind is *supposed* to be white paper "as we say" — the point is not the metaphor but the challenge it issues. If any idea cannot be traced back to sensation or to reflection on our own mental operations, Locke will conclude it is empty noise rather than knowledge.
+
 ## Contributions
 
 Locke set empiricism’s research programme: trace every idea to experience, and suspect concepts that cannot survive that audit. He made personal identity as psychological continuity a central, still-open problem. He articulated the grammar of modern liberalism — pre-political rights, government by consent, power as trust, and a principled right to replace a government that betrays it. And he gave toleration a systematic defence grounded in the nature of belief itself, not merely political convenience.

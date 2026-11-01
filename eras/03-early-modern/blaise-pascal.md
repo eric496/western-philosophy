@@ -52,6 +52,14 @@ The nuance stressed by the Stanford Encyclopedia of Philosophy is essential. Pas
 - *Pensées* (posthumous, 1670) — The unfinished apology: fragments on diversion, disproportion, greatness and wretchedness, and the Wager. Unfinished notebooks, not a finished book.
 - Scientific works (1640s–50s) — Treatises on the vacuum and fluids, and the 1654 Fermat correspondence founding probability theory.
 
+## In their own words
+
+> Let us then examine this point, and say, "God is, or He is not." But to which side shall we incline? Reason can decide nothing here. There is an infinite chaos which separated us. A game is being played at the extremity of this infinite distance where heads or tails will turn up. What will you wager? […] "The true course is not to wager at all." Yes; but you must wager. It is not optional. You are embarked. […] Let us weigh the gain and the loss in wagering that God is. Let us estimate these two chances. If you gain, you gain all; if you lose, you lose nothing. Wager, then, without hesitation that He is.
+
+— Blaise Pascal, *Pensées* §233, trans. W. F. Trotter (1910; public domain)
+
+This is the Wager, and its most radical line is "You are embarked": abstaining is itself a bet, since you must live one way or the other. Notice Pascal concedes the sceptic's premise — reason cannot settle whether God exists — and then changes the question from *what is true?* to *what is it rational to stake?* With an infinite gain on one side and only finite losses on the other, he argues, the calculation is not close.
+
 ## Contributions
 
 Pascal created a mode of philosophy that barely existed before him: mathematically rigorous, experimentally grounded, and existentially intimate. He gave thought a durable vocabulary — heart, diversion, disproportion, thinking reed — and an early philosophy of demonstration’s limits: reasoning rests on unproved principles grasped otherwise. With Fermat he co-founded probability theory, and the Wager is a founding document of decision theory.

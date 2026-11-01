@@ -106,6 +106,14 @@ Dates are approximate; most treatises took shape during the Lyceum years, 335–
 
 Nearly all his published dialogues are lost, surviving only in fragments quoted by later authors — a major gap, since Cicero praised their "river of gold" style.
 
+## In their own words
+
+> Every art, and every science reduced to a teachable form, and in like manner every action and moral choice, aims, it is thought, at some good: for which reason a common and by no means a bad description of the Chief Good is, "that which all things aim at."
+
+— Aristotle, *Nicomachean Ethics* I.1, trans. D. P. Chase (1861; public domain)
+
+These are the first lines of the *Ethics*, and the whole book unfolds from them. Aristotle starts not with a definition of the good life but with an observation about aiming: medicine aims at health, shipbuilding at a vessel, so human life as a whole presumably aims at something too. The key term is *end* (Greek *telos*) — the "that for the sake of which" everything else is done. His question is what that final end is, the one we want for its own sake and never merely as a means.
+
 ## Contributions
 
 Aristotle is philosophy's great systematiser. He defined most sub-fields — logic, metaphysics, ethics, politics, poetics, rhetoric, philosophy of mind and science — and supplied much of their vocabulary: substance, category, essence, actuality, potentiality, cause. He founded formal logic, created empirical biology as a research programme, and insisted, against Plato, that knowledge begins from attention to how things appear. His method of starting from *endoxa* — reputable opinions — and testing them remains a model procedure.

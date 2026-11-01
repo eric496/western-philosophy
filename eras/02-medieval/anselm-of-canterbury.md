@@ -69,6 +69,14 @@ Therefore, that than which nothing greater can be conceived so truly exists that
 - **On Truth**, **On Free Will**, **On the Fall of the Devil** (c. 1080s) — dialogues clarifying truth as "rectitude," freedom as the power to keep rectitude for its own sake.
 - **Cur Deus Homo** (c. 1094–98) — the satisfaction theory, worked out in exile; his most influential theological work in the Middle Ages.
 
+## In their own words
+
+> Hence, even the fool is convinced that something exists in the understanding, at least, than which nothing greater can be conceived. For, when he hears of this, he understands it. And whatever is understood, exists in the understanding. And assuredly that, than which nothing greater can be conceived, cannot exist in the understanding alone. For, suppose it exists in the understanding alone: then it can be conceived to exist in reality; which is greater. Therefore, if that, than which nothing greater can be conceived, exists in the understanding alone, the very being, than which nothing greater can be conceived, is one, than which a greater can be conceived. But obviously this is impossible. Hence, there is no doubt that there exists a being, than which nothing greater can be conceived, and it exists both in the understanding and in reality.
+
+— Anselm, *Proslogion* II, trans. Sidney Norton Deane (1903; public domain)
+
+Here is the ontological argument in its original form. Watch the engine: God is defined as "that than which nothing greater can be conceived," and Anselm then argues that existing in reality is greater than existing only in the mind — so a God who existed only in the mind would not be the greatest conceivable being, a contradiction. The "fool" is the atheist of Psalm 14, whom Anselm traps using nothing but the fool's own understanding of the word "God."
+
 ## Contributions
 
 Anselm produced the single most discussed argument in the history of philosophy — a two-page proof that has occupied Aquinas, Descartes, Leibniz, Kant, and Plantinga — and a theory of the atonement that structured Western soteriology for centuries. Methodologically, he pioneered arguing "by reason alone" within theology and the tightly dialogic, objection-driven style that scholasticism institutionalised.

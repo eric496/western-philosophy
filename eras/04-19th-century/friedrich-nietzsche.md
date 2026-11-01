@@ -93,6 +93,14 @@ Fuller reconstructions are in the study guide: [*On the Genealogy of Morals* —
 - *On the Genealogy of Morals* (1887) — His most systematic and teachable work; three essays on the origins of morality.
 - *Twilight of the Idols*, *The Antichrist*, *Ecce Homo* (all written 1888; published 1889, 1895, 1908) — The final, incandescent year: compressed polemics and a strange, brilliant self-portrait.
 
+## In their own words
+
+> We are unknown, we knowers, ourselves to ourselves: this has its own good reason. We have never searched for ourselves—how should it then come to pass, that we should ever *find* ourselves? Rightly has it been said: "Where your treasure is, there will your heart be also." *Our* treasure is there, where stand the hives of our knowledge. […] Of necessity we remain strangers to ourselves, we understand ourselves not, in ourselves we are bound to be mistaken, for of us holds good to all eternity the motto, "Each one is the farthest away from himself"—as far as ourselves are concerned we are not "knowers."
+
+— Friedrich Nietzsche, *On the Genealogy of Morals*, Preface §1, trans. Horace B. Samuel (1910; public domain)
+
+The *Genealogy* opens by turning its method on the investigators themselves: scholars who know everything except their own motives. That self-suspicion is the book in miniature — Nietzsche will ask not whether our moral values are true, but where they came from and what kind of creature needed them. Watch for the beehive image: knowledge as instinctive gathering, done without ever examining the gatherer.
+
 ## Contributions
 
 Nietzsche added the *genealogical method* — unmasking ideals by their origins and psychological functions — and made suspicion of morality itself philosophically respectable. He diagnosed nihilism as modernity's central problem, anticipated depth psychology's picture of a self driven by unconscious forces, and reinvented philosophical writing as aphorism, mask, and performance. His concepts — ressentiment, bad conscience, slave morality — became permanent tools.

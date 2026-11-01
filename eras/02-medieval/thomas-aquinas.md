@@ -87,6 +87,14 @@ Fuller reconstructions of the *Summa Theologiae*'s arguments are in the study gu
 - **On the Unity of the Intellect** (1270) — polemic against the Averroist doctrine of one intellect for all humans.
 - **Disputed Questions** (on truth, evil, the soul, etc.) — records of live university disputation; often his most exploratory writing.
 
+## In their own words
+
+> The first and more manifest way is the argument from motion. It is certain, and evident to our senses, that in the world some things are in motion. Now whatever is in motion is put in motion by another, for nothing can be in motion except it is in potentiality to that towards which it is in motion; whereas a thing moves inasmuch as it is in act. For motion is nothing else than the reduction of something from potentiality to actuality.
+
+— Thomas Aquinas, *Summa Theologiae* Ia, q. 2, a. 3, trans. Fathers of the English Dominican Province (1920; public domain)
+
+This is the start of the First of the Five Ways, Aquinas's proofs of God's existence. Notice how much machinery two sentences carry: *motion* means any change, and *potentiality/actuality* is Aristotle's pair — a thing can only be changed by something already actual in the relevant respect, as fire (actually hot) makes wood (potentially hot) hot. From that principle Aquinas will argue the chain of movers cannot regress forever and must end in a first mover, "and this everyone understands to be God."
+
 ## Contributions
 
 Aquinas did not merely repeat Aristotle: he forged a new synthesis in which Aristotelian metaphysics, Avicennian essence/existence, Augustinian theology, and Maimonides' careful limits on demonstration were reworked into one system. He gave natural theology its most influential proofs, natural law its canonical formulation, and scholasticism its model format (the *quaestio* article). His act/potency analysis of *esse* — existence as the act of all acts — is an original metaphysical deepening of Aristotle, not a restatement.
