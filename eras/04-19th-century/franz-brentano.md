@@ -9,6 +9,8 @@
 - **Movement / tradition:** Act psychology — its founder, and reviver of the scholastic concept of **intentionality**, the "aboutness" of mental phenomena
 - **Known for:** Less a finished system than the extraordinary generation of students he trained, above all Edmund Husserl, founder of phenomenology.
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Husserl](../05-20th-century/edmund-husserl.md), [Heidegger](../05-20th-century/martin-heidegger.md)
+
 ## Biography
 
 Brentano came from an intellectual Catholic family of Italian-German descent — the Romantic writer Clemens Brentano was his uncle, and his brother Lujo Brentano became a leading economist. He studied philosophy and theology at Munich, Würzburg, Berlin, and Münster, steeping himself in Aristotle and the medieval scholastics at a time when German universities largely ignored them. Ordained a Catholic priest in 1864, he qualified as a lecturer (*Privatdozent*) at Würzburg in 1866 — extraordinary professor in 1872, full professor in 1873 — and wrote a respected early study of Aristotle's psychology.

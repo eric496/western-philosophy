@@ -9,6 +9,8 @@
 - **School/tradition:** Founder of the Academy; student of Socrates
 - **Known for:** Theory of Forms, philosopher-kings, systematic philosophy in dialogue form
 
+**Responds to:** [Socrates](socrates.md), [Heraclitus](heraclitus-of-ephesus.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Aristotle](aristotle.md), [Plotinus](plotinus.md), [Augustine](../02-medieval/augustine-of-hippo.md)
+
 ## Biography
 
 Plato was born into a wealthy Athenian family. His mother Perictione's family was connected to Solon, the great lawgiver, and two uncles, Critias and Charmides, later joined the Thirty Tyrants, the oligarchy that seized Athens after the Peloponnesian War. Tradition says his birth name was Aristocles and "Plato" — from *platys*, broad — was a nickname, though this is uncertain.
@@ -120,7 +122,7 @@ Scholars debate the "unwritten doctrines": Aristotle reports Plato lecturing on 
 
 ## Misreadings to avoid
 
-- **"Forms are perfect copies in heaven."** As the source entry cautions, Forms are explanatory principles — standards making judgment and knowledge possible — not shinier physical objects in a place. Plato's spatial language is metaphorical.
+- **"Forms are perfect copies in heaven."** Forms are mind-independent explanatory principles — standards making judgment and knowledge possible — but they are not shinier physical objects in a place: real, yet non-spatial. Plato's spatial language is metaphorical.
 - **"Platonic love means chaste, non-physical affection."** In Plato *erōs* begins in physical desire and is educated upward.
 - **"The Republic is a straightforward policy blueprint."** Plato calls it a model for seeing justice in the soul. Its authoritarian proposals are real, but treating it as a manifesto flattens its stated purpose.
 - **"The Socrates of every dialogue is the historical Socrates."** In later dialogues he voices Plato's mature theories, which the historical Socrates probably never held.

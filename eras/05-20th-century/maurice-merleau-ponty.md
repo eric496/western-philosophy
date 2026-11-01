@@ -9,6 +9,8 @@
 - **Tradition:** Phenomenology — the French heir of Husserl and critic of Heidegger and Sartre from within the movement.
 - **Known for:** *Phenomenology of Perception* (1945) and the philosophy of embodiment: perception is not something a mind does to data but something a lived body *is*; later, the unfinished ontology of "the flesh" (*la chair*) in *The Visible and the Invisible*.
 
+**Responds to:** [Husserl](edmund-husserl.md), [Sartre](jean-paul-sartre.md) · **Answered by:** embodied and enactive cognitive science and feminist philosophers — no single entry in this repo
+
 ## Biography
 
 Merleau-Ponty was born on 14 March 1908 in Rochefort, on France's Atlantic coast. His father, a colonial artillery captain, died in 1913, when Maurice was five; Maurice was raised in Paris by his mother in close, happy circumstances he later described as an enchanted childhood he never fully left. After the lycée he entered the École Normale Supérieure in 1926, in the same milieu as Jean-Paul Sartre and Simone de Beauvoir — fellow students whose lives his would cross for three decades. He passed the agrégation in philosophy in 1930, taught in provincial lycées, and returned to the ENS as a tutor.

@@ -9,6 +9,8 @@
 - **Movement / tradition:** Utilitarianism (founder); legal and political reform
 - **Known for:** Founding modern utilitarianism — the principle that actions and laws are right insofar as they promote "the greatest happiness of the greatest number."
 
+**Responds to:** Blackstone's *Commentaries* and the unreformed English common law · **Answered by:** [J. S. Mill](john-stuart-mill.md), [Foucault](../05-20th-century/michel-foucault.md)
+
 ## Biography
 
 Jeremy Bentham was born in London in 1748, a prodigy of forbidding precocity: Latin at three or four, Oxford at twelve, called to the bar at twenty-one. Called, but never content: he attended court and was disgusted by what he saw — a legal system of deliberate obscurity, technical fictions, and vested interests ("Judge & Co.") that enriched lawyers and baffled everyone else. He decided, astonishingly early, that the law needed not practitioners but a science: a standard outside itself by which every law could be judged.

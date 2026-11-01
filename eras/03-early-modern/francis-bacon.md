@@ -5,6 +5,8 @@
 ## At a glance
 Francis Bacon (1561–1626), England; lawyer, courtier, and statesman who became Lord Chancellor, and in his philosophical work the great herald of the new experimental science. Known for: diagnosing the "idols of the mind" that distort inquiry, and proposing a reformed method of induction meant to replace scholastic logic with systematic observation — "knowledge itself is power."
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md), [Montaigne](michel-de-montaigne.md) · **Answered by:** [Vico](giambattista-vico.md), [J. S. Mill](../04-19th-century/john-stuart-mill.md)
+
 ## Biography
 Bacon was born in London to a high-ranking family: his father, Sir Nicholas Bacon, was Lord Keeper of the Great Seal under Elizabeth I, and his mother, Anne Cooke Bacon, was a learned translator of religious works. He entered Trinity College, Cambridge, at twelve, and came away unimpressed — he later said the Aristotelian philosophy taught there produced only barren disputation. After legal training at Gray's Inn and a diplomatic posting in France, he entered Parliament in 1584 and began a long, careful climb through the courts of Elizabeth and then James I.
 

@@ -5,6 +5,8 @@
 ## At a glance
 Mary Wollstonecraft (1759–1797), England; writer and philosopher of the Enlightenment and the French Revolutionary era. Known for: *A Vindication of the Rights of Woman* (1792), the founding text of modern feminism, which argues that women's apparent inferiority is the product of denied education, not nature, and demands equal schooling so women can become rational, independent citizens.
 
+**Responds to:** [Rousseau](jean-jacques-rousseau.md) · **Answered by:** the suffrage and women's-education movements and the twentieth-century feminists who recovered her — no single successor figure has an entry in this repo
+
 ## Biography
 Wollstonecraft was born in London into a family sliding down the social scale: her father squandered his inheritance and drank, and violence at home marked her childhood — she later wrote of sleeping outside her mother's door to intercept his rages. Largely self-educated, she worked in the few employments open to respectable women: companion, schoolteacher, governess. In 1784 she founded a school at Newington Green with her sisters and her friend Fanny Blood, whose early death in Lisbon, where Wollstonecraft had travelled to nurse her, haunted her writing. The school failed, and a miserable governess post in Ireland followed — but she had begun to write, encouraged by the radical publisher Joseph Johnson, who published her *Thoughts on the Education of Daughters* (1787) and employed her as a reviewer and translator for his *Analytical Review*. Through Johnson's circle she met Thomas Paine, William Godwin, and other reformers, and argued religion and education with the dissenting minister Richard Price.
 

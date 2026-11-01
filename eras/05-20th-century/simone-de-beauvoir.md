@@ -5,6 +5,8 @@
 ## At a glance
 Simone de Beauvoir (1908–1986), Parisian, France. Existential phenomenologist, novelist, and founder of modern feminist philosophy. Known for *The Second Sex* (1949) and its claim that “one is not born, but rather becomes, a woman,” and for *The Ethics of Ambiguity* (1947).
 
+**Responds to:** [Sartre](jean-paul-sartre.md) · **Answered by:** Betty Friedan, Kate Millett and Judith Butler's generation of feminist theorists — outside this repo's entries
+
 ## Biography
 
 Beauvoir was born in Paris in 1908 into a bourgeois family whose fortunes declined sharply after the First World War, shaping her lifelong suspicion of bourgeois marriage and security. Dutiful and devout as a schoolgirl, she lost her Catholic faith in adolescence and decided to become a writer who would live by her mind.

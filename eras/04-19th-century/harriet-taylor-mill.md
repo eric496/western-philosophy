@@ -9,6 +9,8 @@
 - **Movement / tradition:** Liberal feminism and social reform
 - **Known for:** Author of "The Enfranchisement of Women" (1851) and intellectual partner — and later wife — of John Stuart Mill; she pushed liberalism toward full equality of the sexes a generation before organised suffragism took it up.
 
+**Responds to:** [J. S. Mill](john-stuart-mill.md) · **Answered by:** the early suffragists who cited her essay and the feminist scholars who later recovered her work
+
 ## Biography
 
 Harriet Taylor was born Harriet Hardy in London in 1807, into a prosperous Unitarian family. She married John Taylor, a wholesale druggist, in 1826 at eighteen, and had three children. The marriage was civil but intellectually lonely; through her Unitarian minister W. J. Fox's circle she moved in London's most radical intellectual milieu, publishing poems and discussing the rights of women.

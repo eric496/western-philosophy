@@ -9,6 +9,8 @@
 - **Tradition:** Aristotelian and Thomist virtue ethics; historian of morality. Often grouped with the communitarians, a label he resisted.
 - **Known for:** *After Virtue* (1981) — the argument that modern moral discourse is a heap of fragments from older, broken schemes, and that moral rationality lives inside practices, narratives, and traditions.
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md), [Anscombe & Foot](anscombe-and-foot.md), [John Rawls](john-rawls.md) · **Answered by:** liberal and Marxist critics of his Aristotelian revival — no single entry in this repo takes up his case
+
 ## Biography
 
 Alasdair MacIntyre was born in Glasgow in 1929 and educated at Queen Mary College, London, and at Manchester and Oxford. His intellectual itinerary was unusually restless: he began as a Marxist (and for a time a Trotskyist), wrote on Marxism and Christianity, passed through analytic moral philosophy, and arrived — by way of Aristotle and, eventually, Thomas Aquinas — at the position for which he is known. The itinerary matters: his mature work is a sustained argument, conducted with his own younger selves among others, about why the moral languages of modernity cannot justify themselves.

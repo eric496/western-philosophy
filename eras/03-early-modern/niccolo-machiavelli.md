@@ -9,6 +9,8 @@
 - **Tradition:** Renaissance humanism; founder of modern political realism and a major republican theorist
 - **Known for:** Analysing politics as it actually works rather than as it ought to work — virtù against fortuna, the "effectual truth," and a deep argument, in the *Discourses*, that republics with armed, participating citizens outlast and outfight principalities
 
+**Responds to:** [Plato](../01-ancient/plato.md) · **Answered by:** [Hobbes](thomas-hobbes.md), [Rousseau](jean-jacques-rousseau.md)
+
 ## Biography
 
 Machiavelli was born in Florence in 1469, into a respectable but not wealthy family, at the height of the Italian Renaissance. He received a humanist education — Latin, rhetoric, the Roman historians — and grew up in a peninsula divided among competing city-states, the Papal States, and foreign powers (France, Spain, the Empire) that treated Italy as their battlefield.

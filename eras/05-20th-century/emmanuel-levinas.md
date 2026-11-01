@@ -9,6 +9,8 @@
 - **Tradition:** Phenomenology, transformed into an ethics; also a major figure in modern Jewish thought.
 - **Known for:** The thesis that **ethics is first philosophy** — prior to ontology and knowledge: the face of the Other (*le visage d'Autrui*) commands "thou shalt not kill" before any theory, and the self is responsible for the Other before it is free.
 
+**Responds to:** [Husserl](edmund-husserl.md), [Heidegger](martin-heidegger.md) · **Answered by:** [Derrida](jacques-derrida.md)
+
 ## Biography
 
 Levinas was born on 12 January 1906 (30 December 1905, Old Style) in Kaunas, then in the Russian Empire, into a Lithuanian Jewish family — his father ran a bookshop, and the household combined Jewish observance with Russian literary culture. The First World War displaced the family to Kharkov, where the boy witnessed the revolutions of 1917; they returned to an independent Lithuania in 1920. In 1923 Levinas left for the University of Strasbourg and began the studies that made his career: he was among the first to carry phenomenology into France. His 1930 thesis, *The Theory of Intuition in Husserl's Phenomenology*, introduced Husserl to French readers — Sartre read it in the early 1930s — and in 1928–29 he spent two semesters at Freiburg attending Husserl's last lectures and Heidegger's seminars, an encounter he never ceased to regard as formative even after it became, for him, a wound.

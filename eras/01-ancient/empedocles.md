@@ -9,6 +9,8 @@
 - **School/tradition:** Pluralist response to Parmenides; heir to both the Eleatic and Pythagorean traditions
 - **Known for:** The four "roots" — earth, air, fire, water — eternally mixed and separated by two cosmic forces, Love and Strife
 
+**Responds to:** [Parmenides](parmenides-of-elea.md), [Pythagoras](pythagoras.md) · **Answered by:** [Democritus](democritus-of-abdera.md)
+
 ## Biography
 
 Empedocles was a citizen of Acragas, one of the richest Greek cities of the west, famous for its temples and its Olympic victories. Ancient sources portray a man of extraordinary range: poet, physician, political leader, religious prophet, and self-declared wonder-worker — sometimes in the same paragraph. The biographical tradition credits his grandfather with an Olympic horse-racing victory and his father Meton with helping to overthrow the tyrant Thrasydaeus, after which Empedocles himself became a champion of the democracy. He is said to have refused an offer of kingship, to have melted down his wealth into dowries for poor girls, and to have worn a purple robe, golden wreath, and bronze sandals while proclaiming — in verse that survives — "I go about among you an immortal god, no longer mortal." That self-presentation was deliberate: in a world where expertise and divine authority still overlapped, Empedocles claimed both.

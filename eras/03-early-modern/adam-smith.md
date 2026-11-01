@@ -5,6 +5,8 @@
 ## At a glance
 Adam Smith (1723–1790), Scotland; moral philosopher of the Scottish Enlightenment who held chairs of logic and moral philosophy at Glasgow. Known for: *The Theory of Moral Sentiments* (1759), which grounds morality in sympathy disciplined by an "impartial spectator," and *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), the founding text of classical economics — which Smith himself understood as one part of a larger science of human nature and society.
 
+**Responds to:** [Hume](david-hume.md), [Montesquieu](montesquieu.md) · **Answered by:** [J. S. Mill](../04-19th-century/john-stuart-mill.md), [Marx](../04-19th-century/karl-marx.md)
+
 ## Biography
 Smith was born in Kirkcaldy, a small Fife port town, baptised in June 1723, a few months after his father's death. Raised by his mother, he studied at the University of Glasgow under Francis Hutcheson, whose lectures in moral philosophy set his direction, and then spent six years at Balliol College, Oxford, which he found intellectually deadening and left without a degree. Returning to Scotland, he lectured in Edinburgh before being appointed professor at Glasgow in 1751, first of logic, then of moral philosophy — the chair he held while writing the *Theory of Moral Sentiments*, warmly received on publication in 1759.
 

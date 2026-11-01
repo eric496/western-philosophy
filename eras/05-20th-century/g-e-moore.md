@@ -9,6 +9,8 @@
 - **Tradition:** Co-founder, with Russell, of analytic philosophy; a central figure of Cambridge moral philosophy.
 - **Known for:** *Principia Ethica* (1903) and the "naturalistic fallacy"; the open-question argument against defining "good"; and the plain-speaking defence of common sense — "Here is one hand" — against philosophical scepticism and idealism.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Berkeley](../03-early-modern/george-berkeley.md) · **Answered by:** [Russell](bertrand-russell.md)
+
 ## Biography
 
 Moore was born on 4 November 1873 into a prosperous, devoutly Baptist family; his father was a doctor who had given up practice. At Dulwich College he was educated as a classical scholar, and he went up to Trinity College, Cambridge, in 1892 intending to continue classics. The decisive event was meeting Bertrand Russell, who persuaded him to take the Moral Sciences Tripos; Moore graduated with firsts in both subjects and won a Trinity fellowship in 1898 with a dissertation on Kant's ethics.

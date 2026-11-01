@@ -5,6 +5,8 @@
 ## At a glance
 Jean-Paul Sartre (1905–1980), Parisian, France. The leading public figure of existentialism — philosopher, novelist, playwright, and political activist. Known for “existence precedes essence,” radical freedom, and the analysis of bad faith.
 
+**Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Merleau-Ponty](maurice-merleau-ponty.md), [Beauvoir](simone-de-beauvoir.md)
+
 ## Biography
 
 Sartre was born in Paris in 1905. His father, a naval officer, died when Sartre was fifteen months old, and he was raised in his maternal grandfather’s book-lined household — an upbringing he later anatomised in his memoir *Words* (1964), where the gifted child performs precocity for admiring adults. A childhood eye condition left him with a pronounced squint he would joke about for the rest of his life.

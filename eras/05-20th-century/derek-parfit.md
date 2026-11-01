@@ -9,6 +9,8 @@
 - **Tradition:** Analytic moral philosophy and metaphysics of persons.
 - **Known for:** Arguing that personal identity is not what matters in survival — what matters is psychological continuity — and for founding modern population ethics through the non-identity problem and the Repugnant Conclusion.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Bernard Williams](bernard-williams.md) · **Answered by:** a generation of population and applied ethicists — debate ongoing
+
 ## Biography
 
 Derek Parfit was born on 11 December 1942 in Chengdu, China, where his parents worked as medical missionaries and researchers in preventive medicine. The family returned to England, and Parfit was educated at the Dragon School and Eton College, and then Balliol College, Oxford, where he read history before turning to philosophy. In 1967, still in his twenties, he was elected to a fellowship at All Souls College, Oxford — a research post with no teaching duties — and he remained there, in one form or another, for the rest of his life, later holding visiting positions at Harvard, NYU, and Rutgers.

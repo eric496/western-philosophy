@@ -9,6 +9,8 @@
 - **School/tradition:** Founder of the Eleatic tradition; his pupil Zeno defended it; Melissus of Samos later developed it
 - **Known for:** Arguing by pure deduction that Being is one, eternal, indivisible, and changeless — and that change, motion, and plurality are therefore impossible, however they appear
 
+**Responds to:** Pythagorean teaching and Ionian natural philosophy · **Answered by:** [Zeno of Elea](zeno-of-elea.md), [Empedocles](empedocles.md), [Democritus](democritus-of-abdera.md)
+
 ## Biography
 
 Parmenides came from Elea (Roman Velia), a prosperous Greek colony in southern Italy. Later tradition describes him as wealthy and well-born, a pupil of the Pythagorean Ameinias, and — significantly — a lawgiver: Eleans were said to make their magistrates swear annually to uphold his laws. If roughly right, the most uncompromising metaphysician of antiquity was also a practical civic figure.

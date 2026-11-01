@@ -9,6 +9,8 @@
 - **Tradition:** Analytic moral philosophy, especially the theory of rights.
 - **Known for:** "A Defense of Abortion" (1971) and its famous violinist thought experiment, and for naming and shaping the trolley problem — philosophy's most famous moral dilemma.
 
+**Responds to:** [Anscombe & Foot](anscombe-and-foot.md) · **Answered by:** the trolley-problem literature she launched — debate ongoing, no single entry in this repo
+
 ## Biography
 
 Judith Jarvis Thomson was born on 4 October 1929 in New York City. She studied philosophy at Barnard College, graduating in 1950, and then at Cambridge, where she took a second BA and, in 1959, a PhD at Clare College. After a brief period teaching at Boston University, she joined MIT in 1964 and spent the rest of her career there, becoming one of the most influential moral philosophers in the analytic tradition. She was married to the philosopher James F. Thomson, with whom she also wrote.

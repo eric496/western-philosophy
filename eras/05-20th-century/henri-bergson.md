@@ -9,6 +9,8 @@
 - **Tradition:** French spiritualism and philosophy of life; a major influence on phenomenology, process thought, and Gilles Deleuze.
 - **Known for:** Duration (*la durée*) — time as lived, indivisible flow rather than clock-time; intuition as a philosophical method; and the *élan vital* of *Creative Evolution*.
 
+**Responds to:** the spatialised time of the physics and psychology he inherited — no single predecessor entry in this repo · **Answered by:** [Russell](bertrand-russell.md)
+
 ## Biography
 
 Henri Bergson was born in Paris in 1859 to a Polish-Jewish father, a composer, and an Anglo-Irish Jewish mother. A brilliant student at the Lycée Condorcet and the École Normale Supérieure, he initially excelled in mathematics before turning to philosophy — a double formation that shaped everything he wrote, since his lifelong target was the misuse of mathematical and spatial habits of thought in domains where they do not belong.

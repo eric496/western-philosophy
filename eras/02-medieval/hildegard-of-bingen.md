@@ -9,6 +9,8 @@
 - **Tradition:** Benedictine monasticism; visionary theology, natural philosophy, and medicine in the monastic tradition
 - **Known for:** The visionary trilogy beginning with *Scivias*, her concept of *viriditas* ("greening power"), among the largest surviving bodies of medieval monophonic song attributed to one composer, and practising natural philosophy and medicine as a twelfth-century abbess
 
+**Responds to:** [Plato](../01-ancient/plato.md) · **Answered by:** no direct successor in this collection — her influence was regional in her lifetime and her wider revival came much later
+
 ## Biography
 
 Hildegard was born in 1098 at Bermersheim, the tenth child of a noble Rhineland family — a fact her family read religiously: as a "tithe" child she was offered to the Church, and at about the age of eight she became an oblate — a child dedicated to religious life; she later followed Jutta of Sponheim, a noblewoman living as an anchoress walled into a cell attached to the church of the Benedictine monastery of Disibodenberg, joining her anchorhold there (from 1112, when Hildegard was about fourteen). There Hildegard learned Latin, the psalms, and the monastic round of prayer; by her own account she received only a modest formal education, without training in the dialectical techniques of the schools — a limitation she later turned into a credential: her knowledge, she insisted, came not from human teaching but from vision.

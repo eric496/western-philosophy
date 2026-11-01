@@ -9,6 +9,8 @@
 - **Movement / tradition:** Utilitarianism and classical liberalism
 - **Known for:** Refining utilitarian ethics with qualitative pleasures and defending individual liberty through the harm principle — by common consent (the SEP calls him "the most influential English-speaking philosopher of the 19th century").
 
+**Responds to:** [Bentham](jeremy-bentham.md), [Tocqueville](alexis-de-tocqueville.md), [Comte](auguste-comte.md) · **Answered by:** [Sidgwick](henry-sidgwick.md), [Popper](../05-20th-century/karl-popper.md)
+
 ## Biography
 
 John Stuart Mill was the most famously manufactured mind of his century. His father, James Mill — philosopher, economist, and close ally of Jeremy Bentham — designed his son's education as an experiment: Greek at three, Latin and arithmetic soon after, logic and political economy in early adolescence, no religion, almost no playmates, and holidays spent walking with his father while reciting the previous day's reading. It worked, intellectually: the young Mill was editing Bentham's manuscripts as a teenager and writing for newspapers by seventeen. He joined the East India Company, like his father, and worked there for thirty-five years — a day job that left him time to become the era's leading public intellectual.

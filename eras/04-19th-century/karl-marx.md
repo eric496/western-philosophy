@@ -9,6 +9,8 @@
 - **Movement / tradition:** Historical materialism; co-founder (with Engels) of the theory later called Marxism
 - **Known for:** The analysis of capitalism as a historically specific system built on the exploitation of wage labour, and of history as shaped by modes of production and class struggle.
 
+**Responds to:** [Hegel](g-w-f-hegel.md), [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md) · **Answered by:** [Frankfurt School](../05-20th-century/frankfurt-school.md), [Popper](../05-20th-century/karl-popper.md)
+
 ## Biography
 
 Karl Marx was born in Trier in 1818, the son of a lawyer who had converted from Judaism to Protestantism largely for professional survival in Prussian Germany. He studied law and then philosophy at Bonn and Berlin, falling in with the Young Hegelians — restless intellectuals radicalising Hegel's inheritance — and completing a doctoral dissertation on Democritus and Epicurus in 1841.

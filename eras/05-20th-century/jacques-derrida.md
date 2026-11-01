@@ -6,6 +6,8 @@
 
 **Lifespan:** 1930–2004 · **Place:** Born in El Biar, Algeria; career mainly in Paris, with long teaching ties to the United States · **Tradition:** Phenomenology, post-structuralism · **Known for:** Founding deconstruction — a reading practice showing how texts depend on oppositions they cannot keep stable — and *différance*, how meaning works by difference and deferral.
 
+**Responds to:** [Levinas](emmanuel-levinas.md), [Foucault](michel-foucault.md), [Gadamer](hans-georg-gadamer.md) · **Answered by:** his critics across the analytic–continental divide — debate ongoing, no single entry in this repo
+
 ## Biography
 
 Jacques Derrida was born Jackie Derrida in 1930 in El Biar, near Algiers, into a Sephardic Jewish family in French colonial Algeria. Jews there held citizenship that could be revoked: in 1942, under Vichy's antisemitic laws, he was expelled from his lycée by a quota. He later recalled a complicated relation to French as a language that was his only one and yet not his own.

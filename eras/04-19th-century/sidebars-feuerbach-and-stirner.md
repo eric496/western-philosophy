@@ -9,6 +9,8 @@
 - **Movement / tradition:** Young Hegelians; the radical aftermath of Hegel
 - **Known for:** Feuerbach: God as humanity's projection of its own essence. Stirner: every abstraction enthroned over the individual is a "spook"; only the self-owning individual is real.
 
+**Responds to:** [Hegel](g-w-f-hegel.md) · **Answered by:** [Marx](karl-marx.md)
+
 ## Biography
 
 **Ludwig Feuerbach** was born in Landshut in 1804, son of the famous criminal jurist Anselm Feuerbach. He began in theology at Heidelberg, heard Hegel in Berlin, and defected to philosophy, taking his doctorate in 1828. His first book, *Thoughts on Death and Immortality* (1830), published anonymously, denied personal immortality — and when his authorship became known, his academic career was over; he never held a chair. He married Bertha Löw, whose family porcelain factory at Bruckberg gave him a rural refuge; from that retirement he wrote the books that made him the most famous philosopher in Germany for a decade. *The Essence of Christianity* (1841) was a sensation — read by Marx, Engels, Kierkegaard, and Wagner. When the factory failed, his later years were straitened; German social democrats adopted him as a hero and buried him in Nuremberg in 1872 with a workers' funeral procession.

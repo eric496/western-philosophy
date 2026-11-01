@@ -5,6 +5,8 @@
 ## At a glance
 Edmund Husserl (1859–1938), born in Proßnitz, Moravia (now Prostějov, Czech Republic), active in Germany. Founder of phenomenology. Known for describing experience exactly as it is lived — “back to the things themselves” — before explaining it away with science or theory.
 
+**Responds to:** [Brentano](../04-19th-century/franz-brentano.md) · **Answered by:** [Heidegger](martin-heidegger.md), [Merleau-Ponty](maurice-merleau-ponty.md), [Levinas](emmanuel-levinas.md)
+
 ## Biography
 
 Husserl began not as a philosopher but as a mathematician. He studied mathematics in Leipzig and Berlin, took his doctorate in Vienna in 1883, and briefly worked as an assistant to Karl Weierstrass. In Vienna he attended Franz Brentano’s lectures and converted to philosophy — and, in 1886, to Lutheran Christianity; he had been born into a Jewish family, a fact that would matter cruelly at the end of his life.

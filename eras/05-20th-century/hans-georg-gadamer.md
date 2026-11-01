@@ -9,6 +9,8 @@
 - **Tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, Dilthey, and the classical tradition.
 - **Known for:** *Truth and Method* (1960) and the **fusion of horizons**: understanding as an event in which the interpreter's historically formed outlook and the text's or tradition's outlook merge into a new one.
 
+**Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Derrida](jacques-derrida.md)
+
 ## Biography
 
 Hans-Georg Gadamer was born in Marburg in 1900 and grew up in Breslau, where his father was a professor of pharmaceutical chemistry who hoped his son would follow him into science. The son chose the humanities. Struck by polio in 1922, which left him with lasting physical limitations, he studied at Marburg under the neo-Kantians and then under Martin Heidegger, whose charismatic teaching in the 1920s set the course of his life. His formation, however, was at least as much classical: Greek philosophy, above all Plato and Aristotle, remained his home ground, and his early work was on Plato's dialectical ethics.

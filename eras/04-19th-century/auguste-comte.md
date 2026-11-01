@@ -9,6 +9,8 @@
 - **Movement / tradition:** Positivism — its founder, and coiner of the word **sociology**
 - **Known for:** The "law of three stages," the hierarchy of the sciences, and — in his later work — the Religion of Humanity.
 
+**Responds to:** Henri de Saint-Simon, his employer and collaborator of 1817–1824 · **Answered by:** [J. S. Mill](john-stuart-mill.md), [Vienna Circle](../05-20th-century/vienna-circle-logical-positivism.md)
+
 ## Biography
 
 Comte was a mathematically gifted child of a strict Catholic, royalist family in post-Revolutionary France. At sixteen he entered the École Polytechnique in Paris, the elite training ground for engineers and scientists, but was expelled when the school was temporarily closed by the Bourbon government for its republican sympathies. He never held the secure academic career he wanted, and this outsider status shaped the grandiose, system-building ambition of his work.

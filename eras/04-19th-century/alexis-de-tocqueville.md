@@ -9,6 +9,8 @@
 - **Movement / tradition:** Liberal political thought; founder of modern political sociology
 - **Known for:** *Democracy in America* (1835/1840) — the classic analysis of how equality transforms politics and character, including the "tyranny of the majority" and the danger of a mild, tutelary "soft despotism."
 
+**Responds to:** the French Revolution and the old regime whose centralising work it completed · **Answered by:** [J. S. Mill](john-stuart-mill.md)
+
 ## Biography
 
 Alexis de Tocqueville was born in Paris in 1805 into an old Norman aristocratic family that had barely survived the Revolution: his great-grandfather Malesherbes, Louis XVI's defence lawyer, was guillotined, and his parents escaped the same fate only because Robespierre fell days before their scheduled execution. Tocqueville grew up knowing, in his family's bones, that the old order was finished and that something vast and irreversible was replacing it. He studied law, became a junior magistrate at Versailles, and felt stalled.

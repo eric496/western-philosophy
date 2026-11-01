@@ -9,6 +9,8 @@
 - **Tradition:** Enlightenment; comparative political sociology and liberal constitutional theory
 - **Known for:** The separation of powers — legislative, executive, and judicial — as the institutional condition of political liberty, and for founding a comparative science of laws shaped by climate, commerce, religion, and custom
 
+**Responds to:** Roman history and the English constitution, his comparative materials — no single predecessor figure has an entry in this repo · **Answered by:** [Hume](david-hume.md), [Adam Smith](adam-smith.md)
+
 ## Biography
 
 Charles-Louis de Secondat, Baron de La Brède et de Montesquieu, was born in 1689 into the *noblesse de robe*, the judicial aristocracy of Bordeaux. Orphaned of his mother at seven, he was educated by Oratorian fathers at Juilly, studied law, and in 1714 became a counsellor in the Parlement of Bordeaux; two years later he inherited from his uncle the office of *président à mortier*, one of the parlement's senior judgeships, together with the Montesquieu name and estates. He sold the office in 1726, having found judicial routine dull — but the decade inside a great law court gave him an insider's knowledge of institutions that few philosophers have possessed.

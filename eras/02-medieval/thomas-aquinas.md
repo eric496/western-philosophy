@@ -9,6 +9,8 @@
 - **Tradition:** Latin Christian; Dominican friar and the pre-eminent figure of scholasticism — the university method of rigorous question-and-disputation theology and philosophy.
 - **Known for:** The grand synthesis of Aristotelian philosophy with Christian theology; the Five Ways; the essence/existence distinction; natural law theory.
 
+**Responds to:** [Aristotle](../01-ancient/aristotle.md), [Augustine](augustine-of-hippo.md), [Averroes](averroes.md) · **Answered by:** [Duns Scotus](john-duns-scotus.md), [William of Ockham](william-of-ockham.md)
+
 ## Biography
 
 Thomas was born in 1225 into the landowning d'Aquino family in the Kingdom of Sicily and was placed at age five as an oblate at the Benedictine abbey of Monte Cassino, expected to rise in the church by the respectable route. At the University of Naples — unusually, a state foundation where Aristotle's works, newly translated with Arabic commentaries, were taught openly — he encountered both the new science and the Dominican Order, a recently founded mendicant order of preachers committed to study. At about nineteen he joined the Dominicans, scandalising his family, who kidnapped him on the road to Paris and held him for over a year at Roccasecca hoping he would relent. He did not.

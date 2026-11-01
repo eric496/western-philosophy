@@ -9,6 +9,8 @@
 - **Tradition:** Independent — philosopher, political writer, and religious thinker at the crossings of Marxism, Platonism, and Christian mysticism
 - **Known for:** The philosophy of attention and affliction, written from inside factory labour, war, and political exile
 
+**Responds to:** [Plato](../01-ancient/plato.md), [Marx](../04-19th-century/karl-marx.md) · **Answered by:** Iris Murdoch and later philosophers of attention — outside this repo's entries
+
 ## Biography
 
 Weil was born in Paris in 1909 into a secular Jewish family; her elder brother André became one of the century's great mathematicians. A formidable student — Simone de Beauvoir remembered envying her heart that 'could beat right across the world' — she entered the École Normale Supérieure in 1928, studied under Alain (Émile Chartier), passed the agrégation in philosophy in 1931, and taught in provincial lycées while organising workers' education and writing for revolutionary-syndicalist journals. Her politics were radical but never obedient: an early critic of Soviet communism after travelling in Germany in 1932 and seeing the left's failure before Hitler.

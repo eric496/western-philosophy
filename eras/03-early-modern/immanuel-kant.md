@@ -9,6 +9,8 @@
 - **Tradition:** Critical philosophy; a synthesis of rationalism and empiricism
 - **Known for:** The mind structures experience through space, time, and the categories; morality as a law rational agents give themselves; reason learning its own limits
 
+**Responds to:** [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Émilie du Châtelet](emilie-du-chatelet.md) · **Answered by:** [Fichte](../04-19th-century/johann-gottlieb-fichte.md), [Hegel](../04-19th-century/g-w-f-hegel.md), [Schopenhauer](../04-19th-century/arthur-schopenhauer.md)
+
 ## Biography
 
 Kant was born in Königsberg in 1724, the fourth of nine children of a harness-maker. The household was shaped by Pietism, a devout, inward-looking Lutheranism stressing conscience and moral discipline over ceremony. Kant later left Pietist practice behind, but its seriousness about self-examination marks his ethics.

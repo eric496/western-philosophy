@@ -9,6 +9,8 @@
 - **Tradition:** Latin Christian; the great dialectician of the twelfth-century schools, before the universities proper.
 - **Known for:** His solution to the problem of universals, the *Sic et Non* method, intention-based ethics — and the love affair with Héloïse.
 
+**Responds to:** [Boethius](boethius.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** the scholastic quaestio tradition carried forward through Peter Lombard's *Sentences*, with no single successor in this collection
+
 ## Biography
 
 Peter Abelard was born in 1079 at Le Pallet near Nantes, the eldest son of a knight, Berengar. He renounced his inheritance and military career for study — he speaks of exchanging the camp of Mars for the battles of disputation — and became a wandering student of logic, the prestige discipline of the day, studying under Roscelin of Compiègne, a leading "nominalist." By about 1100 he was in Paris, studying under William of Champeaux, master of the cathedral school of Notre Dame and the era's leading realist on universals. Abelard attacked William's doctrine in public disputation so effectively — forcing him to modify it, by Abelard's own gleeful account in ways that destroyed it — that students flocked to Abelard's rival lectures at Melun and Corbeil, then back in Paris itself. He became the most famous teacher in Europe, master at Notre Dame, his lectures drawing thousands (the numbers are rhetorical, the fame real).

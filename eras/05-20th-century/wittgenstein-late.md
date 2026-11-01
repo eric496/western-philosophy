@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy — but as its internal critic, turning it from logical construction toward ordinary language, practice, and forms of life.
 - **Known for:** Meaning as use, language-games, family resemblance, and the private language argument — and for repudiating his own earlier *Tractatus*.
 
+**Responds to:** [Wittgenstein (early)](wittgenstein-early.md), [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Ryle](gilbert-ryle.md), [Anscombe & Foot](anscombe-and-foot.md), [Kuhn](thomas-kuhn.md)
+
 ## Biography
 
 When Wittgenstein returned to Cambridge in 1929, he was already a legend: author of the *Tractatus* (1921/1922), who had declared philosophy finished and disappeared into village schoolrooms and designing a house in Vienna for his sister. He came back because the solution had stopped satisfying him. Conversations with Schlick and Waismann, Ramsey's criticisms, and difficulties such as colour-exclusion — "this is red all over" and "this is green all over" exclude each other, though the *Tractatus* required elementary propositions to be independent — convinced him central parts of his early system were wrong.

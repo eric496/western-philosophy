@@ -9,6 +9,8 @@
 - **School/tradition:** Stoicism, late ("Roman") phase; heirs of Zeno of Citium, Cleanthes, and Chrysippus through the Greek and early Roman schools
 - **Known for:** Turning Stoic doctrine into a practical discipline of life: the dichotomy of control, philosophy as daily training (*askēsis*), and counsel addressed to slaves and emperors alike
 
+**Responds to:** [Zeno of Citium & the Stoics](zeno-of-citium-and-the-stoics.md) · **Answered by:** [Montaigne](../03-early-modern/michel-de-montaigne.md)
+
 ## Biography
 
 The three great voices of Roman Stoicism span the whole social ladder of the Empire, and their lives test the philosophy in three different currencies: power, slavery, and supreme power.

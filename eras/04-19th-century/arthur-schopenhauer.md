@@ -9,6 +9,8 @@
 - **Movement / tradition:** Post-Kantian idealism; philosophical pessimism
 - **Known for:** The doctrine that the world's inner nature is a blind, aimless Will, and that life is therefore structured by suffering — with release possible through art, compassion, and renunciation.
 
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Hegel](g-w-f-hegel.md), [Fichte](johann-gottlieb-fichte.md) · **Answered by:** [Nietzsche](friedrich-nietzsche.md)
+
 ## Biography
 
 Arthur Schopenhauer was born in Danzig in 1788 into a wealthy merchant family. His father Heinrich, a successful trader, intended him for business and even named him Arthur because the name reads the same in several European languages — practical branding for a future merchant. A long tour of Europe as a teenager, which exposed the boy to the poverty of industrial England and France, seems to have fixed his bleak view of life early. His father died in 1805, possibly by suicide, falling from a warehouse window in Hamburg.

@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy and philosophy of science; the Circle's doctrine is called logical positivism, or logical empiricism.
 - **Known for:** The verification principle — meaningful statements must be analytic or empirically verifiable — and the programme of a unified science clarified by logic.
 
+**Responds to:** [Russell](bertrand-russell.md), [Wittgenstein (early)](wittgenstein-early.md) · **Answered by:** [Popper](karl-popper.md), [Quine](w-v-o-quine.md), [Kuhn](thomas-kuhn.md)
+
 ## Biography
 
 The Vienna Circle grew out of discussions Moritz Schlick (1882–1936) began after his appointment in 1922 to a Vienna chair once held by Ernst Mach. From about 1924 a group met on Thursday evenings around Schlick: Rudolf Carnap (1891–1970), its leading theorist; mathematician Hans Hahn; sociologist Otto Neurath, its organiser; Herbert Feigl; Friedrich Waismann; and others, including Kurt Gödel as an occasional participant. A parallel Berlin group gathered around Hans Reichenbach. In "Red Vienna," several members — Neurath above all — saw the scientific world-conception as part of a broader project of public enlightenment.

@@ -6,6 +6,8 @@
 
 1596–1650 · France, the Netherlands, and Sweden · Early modern rationalism · Known for founding modern philosophy on the cogito — "I think, therefore I am" — and for splitting reality into thinking mind and extended matter.
 
+**Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Spinoza](baruch-spinoza.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
+
 ## Biography
 
 René Descartes was born on 31 March 1596 in La Haye en Touraine, France, into a family of minor nobility. His mother died when he was an infant. At about ten he was sent to the Jesuit college of La Flèche, where he received a thorough scholastic education in Aristotelian philosophy, mathematics, and classical languages — the very tradition he would later set out to replace. He often said it left him embarrassed by how little of it seemed certain.
@@ -110,7 +112,7 @@ Beyond the circle and the interaction problem: does the cogito prove too little 
 ## Misreadings to avoid
 
 - **"Descartes was a sceptic."** No: doubt is his tool for defeating scepticism, not his conclusion.
-- **"The cogito is a syllogism."** He explicitly denied this; it is an immediate intuition performed in thinking.
+- **"The cogito is a syllogism."** Descartes explicitly denied this and called it an immediate intuition performed in thinking; whether his denial settles the matter is still debated by scholars (his own texts also use "ergo" formulations).
 - **"Dualism means mind and body never interact."** He insisted they form a union and interact constantly; the problem is explaining *how*.
 - **"Cartesian means cold and disembodied."** *The Passions of the Soul* is a rich, embodied account of emotion.
 

@@ -6,6 +6,8 @@
 
 **Lifespan:** 1906–1975 · **Place:** Born in Linden (Hanover), Germany; exiled to Paris then New York · **Tradition:** Political theory, phenomenology · **Known for:** Politics as public speech and action among distinct equals; totalitarianism as a new form of rule; and the "banality of evil" — great crimes committed by thoughtless bureaucrats.
 
+**Responds to:** [Augustine](../02-medieval/augustine-of-hippo.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** Jürgen Habermas and later theorists of the public sphere — outside this repo's entries
+
 ## Biography
 
 Hannah Arendt was born Johanna Cohn Arendt in 1906 into a secular Jewish family in Linden, near Hanover, and grew up largely in Königsberg, Kant's city. Her father died when she was seven; she was raised by her mother, Martha. Precocious, she read Kant and Kierkegaard as a teenager and chose philosophy early.

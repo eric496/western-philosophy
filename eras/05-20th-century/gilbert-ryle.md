@@ -9,6 +9,8 @@
 - **Tradition:** Analytic philosophy; central figure of postwar "ordinary language" philosophy
 - **Known for:** *The Concept of Mind* (1949) — the attack on Descartes's "ghost in the machine" and the distinction between knowing-how and knowing-that
 
+**Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** later philosophers of mind who defined themselves against him — no single entry in this repo
+
 ## Biography
 
 Ryle was born in Brighton in 1900 and won scholarships to Queen's College, Oxford, where he read classics and philosophy. He became a lecturer at Christ Church in 1924 and, despite publishing relatively little in the 1930s (a noted paper, "Systematically Misleading Expressions," 1932, and a fine review-essay on Heidegger's *Being and Time* in 1929 showing unusual openness to Continental work), rose steadily. During the Second World War he served in the Welsh Guards and rose to major in intelligence work. In 1945 he succeeded Collingwood as Waynflete Professor of Metaphysical Philosophy at Oxford — the most influential philosophy chair in Britain — and from 1947 to 1971 he edited the journal *Mind*, a post he used to set standards for a generation.
