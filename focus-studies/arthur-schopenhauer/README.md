@@ -26,15 +26,15 @@ The library's [learning path](../../learning-path.md) meets Schopenhauer in **St
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/arthur-schopenhauer/` — about **2 hours 10 minutes** in total:
+This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/arthur-schopenhauer/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v1) (tag `focus-audio-v1`), linked in the table — about **2 hours 10 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|
-| Life & Times | `01-life-and-times.mp3` | 19 min |
-| System & Concepts | `03-system-and-concepts.mp3` | 29 min |
-| Arguments | `04-arguments.mp3` | 44 min |
-| Conversations | `05-conversations.mp3` | 18 min |
-| Reception & Debates | `06-reception-and-debates.mp3` | 20 min |
+| Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-01-life-and-times.mp3) | 19 min |
+| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-03-system-and-concepts.mp3) | 29 min |
+| Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-04-arguments.mp3) | 44 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-05-conversations.mp3) | 18 min |
+| Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-06-reception-and-debates.mp3) | 20 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
 

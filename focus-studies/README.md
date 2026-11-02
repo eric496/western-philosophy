@@ -29,7 +29,7 @@ Depth standard: a dossier typically runs **15,000–30,000 words** across its fi
 
 Every dossier also has a **narrated audio edition** of its five content files — `01` Life & Times, `03` System & Concepts, `04` Arguments, `05` Conversations, `06` Reception & Debates — for listening when reading time is short. The narration is generated from the dossier text itself (markup, tables, and link clutter stripped; citations spoken naturally — "part one, proposition fourteen," not "E1P14"), in a natural production voice. `02` (editions guidance), `07` (the checklist-plan), and `08` (citations) are not narrated: they are reference apparatus, and make poor listening.
 
-The audio files live in Eric's Muse library under `focus-study-audio/<philosopher-slug>/`, not in this git repository — audio binaries would bloat every push of the tree. Each dossier's `README.md` carries an **Audio companion** section listing its five episodes with durations, so the set belonging to a dossier is always findable from the dossier itself.
+The audio files live in two places: Eric's Muse library under `focus-study-audio/<philosopher-slug>/` (for listening in the app), and this repository's [Releases page](https://github.com/eric496/western-philosophy/releases) as downloadable assets (tag `focus-audio-v1`) — the repo's own push channel is text-only, so GitHub Releases are the binaries' home in the repo. Each dossier's `README.md` carries an **Audio companion** section listing its five episodes with durations and download links, so the set belonging to a dossier is always findable from the dossier itself.
 
 ## How a focus study fits the rest of the library
 
