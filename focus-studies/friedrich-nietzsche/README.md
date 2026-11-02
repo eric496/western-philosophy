@@ -22,7 +22,7 @@ This dossier is the second of a pair. Nietzsche's central argument begins as a r
 - [06-reception-and-debates.md](06-reception-and-debates.md) — the fame he never saw, the sister's archive and its damage, the Nazi appropriation and its limits, the live scholarly controversies, and the standard misconceptions in full form.
 - [07-study-plan.md](07-study-plan.md) — the week-by-week working plan: readings with section targets, checkpoints, reconstruction prompts, media, and the capstone essay.
 - [08-bibliography.md](08-bibliography.md) — the annotated reading list beyond the dossier: editions, secondary literature from first book to specialist, reference, and media.
-- [cards.tsv](cards.tsv) — the dossier's Anki deck: argument and concept cards in the repo's standard format, for the FSRS queue.
+- [cards.tsv](cards.tsv) — the dossier's [Anki](https://apps.ankiweb.net) deck: argument and concept cards in the repo's standard format, for the [FSRS](https://docs.ankiweb.net/deck-options.html) queue.
 
 ## The study plan at a glance
 

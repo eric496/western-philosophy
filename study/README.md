@@ -41,6 +41,6 @@ Worked model answers for the Study questions sections in the core entries (added
 | Ancient and medieval core entries (the 7 Presocratics, Socrates, Plato, Aristotle, Epicurus, the Roman Stoics, Augustine, Anselm, Aquinas) | [answers-ancient-medieval.md](answers-ancient-medieval.md) |
 | Early modern core entries (Machiavelli, Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, Rousseau, Kant) | [answers-early-modern.md](answers-early-modern.md) |
 
-Flashcard decks (Anki-importable argument and checkpoint cards, built from the entries and guides above): see [cards/README.md](cards/README.md).
+Flashcard decks ([Anki](https://apps.ankiweb.net)-importable argument and checkpoint cards, built from the entries and guides above): see [cards/README.md](cards/README.md).
 
 More guides are planned as later batches; this folder grows with the library.

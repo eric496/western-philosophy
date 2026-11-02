@@ -67,7 +67,7 @@ Aristotle's criticisms set the agenda: atoms explain arrangement but not the *so
 
 ## What to read first
 
-1. The SEP or IEP entry on Democritus, for the Leucippus problem and the physics.
+1. The [SEP](https://plato.stanford.edu/) or [IEP](https://iep.utm.edu/) entry on Democritus, for the Leucippus problem and the physics.
 2. The fragments — B9, B11, B125 and a selection of ethical sayings.
 3. Aristotle's reports (*On Generation and Corruption*; *Metaphysics* Book 1), our fullest source for the theory.
 4. Pair with Epicurus (*Letter to Herodotus*) and Lucretius Book 2, to see what the tradition kept and changed.

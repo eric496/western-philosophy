@@ -67,7 +67,7 @@ The standing criticism is Aristotle's in embryo: the paradoxes trade on equivoca
 
 ## What to read first
 
-Start with Aristotle's *Physics* VI, where the four motion paradoxes are stated and answered, alongside Simplicius' versions of the plurality arguments in a fragment collection (Diels–Kranz 29). Then read Plato, *Parmenides* 127a–128d for Zeno's own statement of his book's purpose, and a modern treatment such as the Stanford Encyclopedia entry "Zeno's Paradoxes" for the state of play.
+Start with Aristotle's *Physics* VI, where the four motion paradoxes are stated and answered, alongside Simplicius' versions of the plurality arguments in a fragment collection (Diels–Kranz 29). Then read Plato, *Parmenides* 127a–128d for Zeno's own statement of his book's purpose, and a modern treatment such as the [Stanford Encyclopedia](https://plato.stanford.edu/) entry "Zeno's Paradoxes" for the state of play.
 
 ## Study questions
 

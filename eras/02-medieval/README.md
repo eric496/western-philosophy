@@ -57,7 +57,7 @@ Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 - Avicenna's Book of Healing ≠ medical book (that's Canon of Medicine); Healing = healing of soul from ignorance.
 
 ## Sources
-SEP: Medieval Philosophy; Influence of Arabic and Islamic Philosophy on Latin West; Ockham; Maimonides; individual entries Augustine, Boethius, Anselm, Abelard, Ibn Sina, Ibn Rushd, Aquinas, Duns Scotus, Ontological Arguments, Medieval Problem of Universals, Medieval Theories of Haecceity. Britannica: Abelard + entries on all thirteen. IEP: entries on each (beginner-friendlier; good first links for Scotus/Ockham).
+[SEP](https://plato.stanford.edu/): Medieval Philosophy; Influence of Arabic and Islamic Philosophy on Latin West; Ockham; Maimonides; individual entries Augustine, Boethius, Anselm, Abelard, Ibn Sina, Ibn Rushd, Aquinas, Duns Scotus, Ontological Arguments, Medieval Problem of Universals, Medieval Theories of Haecceity. [Britannica](https://www.britannica.com/): Abelard + entries on all thirteen. [IEP](https://iep.utm.edu/): entries on each (beginner-friendlier; good first links for Scotus/Ockham).
 
 ## Philosopher entries in this era
 

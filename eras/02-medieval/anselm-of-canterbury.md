@@ -99,7 +99,7 @@ Beyond Gaunilo and Kant: does the argument illicitly move from concept to realit
 
 1. *Proslogion* chapters 1–4, together with Gaunilo's *In Behalf of the Fool* and Anselm's reply — the exchange, a few pages total, is the real lesson (Davies & Evans, *Anselm: The Major Works*, Oxford).
 2. *Cur Deus Homo* Book I, selected chapters, for the satisfaction theory's logic.
-3. The SEP entry "Anselm" for the modern state of the argument.
+3. The [SEP](https://plato.stanford.edu/) entry "Anselm" for the modern state of the argument.
 
 ## Study questions
 

@@ -2,12 +2,12 @@
 
 A structured way to pick up Western philosophy on your own: **112 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
 
-Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet Encyclopedia of Philosophy (IEP), and Encyclopaedia Britannica — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
+Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP), the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) (IEP), and [Encyclopaedia Britannica](https://www.britannica.com/) — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
 
 ## Start here
 
 1. **Skim `timeline.md`** — 2,500 years on one page; get the shape of the story.
-2. **Follow `learning-path.md`** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 desk-study hours over 64 study weeks; counted in full — desk study + the daily Anki (FSRS) card queue + assigned podcasts and lectures — it totals ≈454 hours, i.e. 64 study weeks at ≈7 hrs/week all-in (≈17 calendar months with buffers), the same material at 4–5 hrs/week stretched over roughly two to two-and-a-half years, or a trimmed 12-month version (≈335 hrs). It is deliberately not a one-year plan at a comfortable pace, and it says so.
+2. **Follow `learning-path.md`** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 desk-study hours over 64 study weeks; counted in full — desk study + the daily [Anki](https://apps.ankiweb.net) ([FSRS](https://docs.ankiweb.net/deck-options.html)) card queue + assigned podcasts and lectures — it totals ≈454 hours, i.e. 64 study weeks at ≈7 hrs/week all-in (≈17 calendar months with buffers), the same material at 4–5 hrs/week stretched over roughly two to two-and-a-half years, or a trimmed 12-month version (≈335 hrs). It is deliberately not a one-year plan at a comfortable pace, and it says so.
 3. **Read era overviews in order** (`eras/`), opening a philosopher's entry file when the overview reaches them.
 4. **Tick off `tracker.md`** as you finish each figure.
 
@@ -26,7 +26,7 @@ Researched against the Stanford Encyclopedia of Philosophy (SEP), the Internet E
 | `misconceptions.md` | 52 errors to unlearn — Stoicism is not emotion suppression, Epicureanism is not indulgence, "God is dead" is a diagnosis, not a celebration |
 | `timeline.md` | Chronological list with signature concepts |
 | `tracker.md` | A checkbox for every figure |
-| `sources.md` | SEP/IEP/Britannica entries, survey books (Kenny, Copleston, Adamson's *History of Philosophy Without Any Gaps*), free course sources |
+| `sources.md` | SEP/IEP/Britannica entries, survey books (Kenny, Copleston, Adamson's [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/)), free course sources |
 | `templates/philosopher-template.md` | The entry template for adding new figures |
 | `notes/` | Space for your own study notes |
 

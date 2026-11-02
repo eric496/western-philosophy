@@ -87,9 +87,9 @@ Al-Ghazālī charged the philosophers with unbelief on three points: the world's
 
 ## What to read first
 
-1. The SEP entry "Ibn Sina," especially the metaphysics sections, for orientation.
+1. The [SEP](https://plato.stanford.edu/) entry "Ibn Sina," especially the metaphysics sections, for orientation.
 2. The Flying Man passage and the Necessary Existent argument in an anthology (McGinnis, *Classical Arabic Philosophy: An Anthology of Sources*; or Adamson & Taylor's *Cambridge Companion to Arabic Philosophy* selections).
-3. Peter Adamson's *Avicenna* (Very Short Introductions-style treatments) or his *History of Philosophy Without Any Gaps* episodes — do not start with the unexcerpted *Healing*.
+3. Peter Adamson's *Avicenna* (Very Short Introductions-style treatments) or his [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/) episodes — do not start with the unexcerpted *Healing*.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -21,7 +21,7 @@ Stirner optional sidebar between 3 and 4.
 Schopenhauer WWR: 1818 (completed/published Dec) vs 1819 (title page). Mill Utilitarianism: 1861 serial / 1863 book. Hegel Science of Logic: 1812–16 (some SEP editions 1812–18). Stirner Ego: 1844 pub / 1845 title page. Marx 1844 Manuscripts and German Ideology unpublished in lifetime, first published 20th c. (1932 for Manuscripts).
 
 ## Sources
-SEP entries: Hegel, Schopenhauer, Kierkegaard, Mill (moral/political), Marx, Nietzsche (life & works), Peirce, Pragmatism, James. Britannica: Bentham.
+[SEP](https://plato.stanford.edu/) entries: Hegel, Schopenhauer, Kierkegaard, Mill (moral/political), Marx, Nietzsche (life & works), Peirce, Pragmatism, James. [Britannica](https://www.britannica.com/): Bentham.
 
 ## Philosopher entries in this era
 

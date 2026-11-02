@@ -78,7 +78,7 @@ Two scholarly debates are live. First, **Indian influence**: Pyrrho's journey is
 
 1. Sextus Empiricus, *Outlines of Pyrrhonism*, Book I — the way itself, in the skeptic's own careful voice.
 2. Diogenes Laertius, *Lives* IX, the life of Pyrrho — the legend, read as legend, for the figure behind the system.
-3. A modern introduction (Stanford Encyclopedia of Philosophy, "Pyrrho" and "Ancient Skepticism") for the Indian-influence and belief debates.
+3. A modern introduction ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/), "Pyrrho" and "Ancient Skepticism") for the Indian-influence and belief debates.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -83,7 +83,7 @@ Style: John Searle's sharp 1977 exchange with Derrida over J. L. Austin charged 
 
 1. Do **not** start with *Of Grammatology* alone. Read the "Différance" essay first.
 2. Read "Letter to a Japanese Friend" (1983), his clearest statement of what deconstruction is and is not.
-3. Read the Stanford Encyclopedia article on Derrida alongside them.
+3. Read the [Stanford Encyclopedia](https://plato.stanford.edu/) article on Derrida alongside them.
 4. Then attempt *Of Grammatology*'s Rousseau chapters, with Spivak's preface as guide.
 
 ---

@@ -80,7 +80,7 @@ Scholarly debates include whether "Cynicism" was ever a school with doctrines, o
 
 1. Diogenes Laertius, *Lives*, Book VI, the Diogenes section — the anecdotes themselves, read with a pinch of salt.
 2. Epictetus, *Discourses* III.22, "On Cynicism" — the most serious ancient account of what the Cynic life demands.
-3. A modern introduction (Stanford Encyclopedia of Philosophy or Internet Encyclopedia of Philosophy, "Cynics") to sort history from legend.
+3. A modern introduction ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) or [Internet Encyclopedia of Philosophy](https://iep.utm.edu/), "Cynics") to sort history from legend.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

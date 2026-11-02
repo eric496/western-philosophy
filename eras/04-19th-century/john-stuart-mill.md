@@ -7,7 +7,7 @@
 - **Dates:** 1806–1873
 - **Place:** London, England; later also Avignon, France
 - **School/tradition:** Utilitarianism and classical liberalism
-- **Known for:** Refining utilitarian ethics with qualitative pleasures and defending individual liberty through the harm principle — by common consent (the SEP calls him "the most influential English-speaking philosopher of the 19th century").
+- **Known for:** Refining utilitarian ethics with qualitative pleasures and defending individual liberty through the harm principle — by common consent (the [SEP](https://plato.stanford.edu/) calls him "the most influential English-speaking philosopher of the 19th century").
 
 **Responds to:** [Bentham](jeremy-bentham.md), [Tocqueville](alexis-de-tocqueville.md), [Comte](auguste-comte.md) · **Answered by:** [Sidgwick](henry-sidgwick.md), [Popper](../05-20th-century/karl-popper.md)
 

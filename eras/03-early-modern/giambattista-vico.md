@@ -84,7 +84,7 @@ The influence was delayed but immense. Michelet's French translation (1827) fed 
 1. *On the Study Methods of Our Time* (1709) — short, lucid, and the best doorway into his quarrel with Descartes.
 2. *New Science*, Book I ("Of the Elements" — the axioms) and §§1–2, 331, 342–45 in the Bergin–Fisch translation — the principles, including *verum factum* and the three ages, in Vico's own numbered paragraphs.
 3. The *Autobiography* — to see the method applied to one life, his own.
-4. Then *New Science* Books II ("Poetic Wisdom") and IV ("The Course the Nations Run") — with Isaiah Berlin's essay "Vico's Concept of Knowledge" or the SEP entry open beside you.
+4. Then *New Science* Books II ("Poetic Wisdom") and IV ("The Course the Nations Run") — with Isaiah Berlin's essay "Vico's Concept of Knowledge" or the [SEP](https://plato.stanford.edu/) entry open beside you.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -85,7 +85,7 @@ Through Jena Romanticism and Coleridge (who borrowed from him liberally, to the 
 2. The Introduction to the *Ideas for a Philosophy of Nature* — the *Naturphilosophie* program in his own slogans and arguments.
 3. The conclusion of the *System of Transcendental Idealism* (Part VI) — the philosophy of art that crowns the early system.
 4. *On the History of Modern Philosophy* (the Munich lectures) — his retrospective on Descartes to Hegel, the clearest map of where he thought he stood.
-5. The SEP entry on Schelling and Andrew Bowie's *Schelling* (or his *Aesthetics and Subjectivity*) — orientation on the phases debate before tackling the *Ages of the World* fragments.
+5. The [SEP](https://plato.stanford.edu/) entry on Schelling and Andrew Bowie's *Schelling* (or his *Aesthetics and Subjectivity*) — orientation on the phases debate before tackling the *Ages of the World* fragments.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

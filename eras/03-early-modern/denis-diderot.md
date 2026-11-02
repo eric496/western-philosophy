@@ -86,7 +86,7 @@ The *Encyclopédie* shaped the century that read it and the revolutions that fol
 2. *D'Alembert's Dream* — the materialist dialogues, in the Penguin *Selected Writings* or a standalone edition; read the egg and the bee-swarm slowly.
 3. The article "Encyclopédie" and a handful of famous articles and plates — to see the machine working, not just described.
 4. *Jacques the Fatalist* (first third) — determinism as comedy; then the *Supplement to Bougainville's Voyage* for the moral edge.
-5. A *Salon* excerpt (1765 or 1767) and the SEP entry on Diderot — for the aesthetics and for orientation on the debates above.
+5. A *Salon* excerpt (1765 or 1767) and the [SEP](https://plato.stanford.edu/) entry on Diderot — for the aesthetics and for orientation on the debates above.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -67,7 +67,7 @@ Heraclitus sneered that Pythagoras practiced inquiry "more than anyone" but made
 
 ## What to read first
 
-1. The SEP entry "Pythagoras" — the clearest guide to separating man from myth.
+1. The [SEP](https://plato.stanford.edu/) entry "Pythagoras" — the clearest guide to separating man from myth.
 2. Early testimony: Xenophanes' puppy fragment and Aristotle in *Metaphysics* Book 1.
 3. Plato, *Phaedo*, to feel Pythagoreanism's influence from inside.
 4. A modern scholarly account before Porphyry or Iamblichus — read the miracle stories last, as reception history.

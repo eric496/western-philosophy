@@ -72,7 +72,7 @@ Scholars debate the sincerity and sufficiency of the *Consolation*'s ending (doe
 
 1. *The Consolation of Philosophy* — the whole book; it is short, literary, and self-contained (Penguin or Oxford World's Classics).
 2. Book 5, prose 6, re-read slowly for the eternity definition and foreknowledge solution.
-3. The SEP entry "Boethius" for the logic and the tractates.
+3. The [SEP](https://plato.stanford.edu/) entry "Boethius" for the logic and the tractates.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

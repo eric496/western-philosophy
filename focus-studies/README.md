@@ -21,7 +21,7 @@ Each dossier lives in `focus-studies/<philosopher-slug>/` and contains:
 | `06-reception-and-debates.md` | Reception history and live controversies: schools formed and broken, the current state of the scholarly debates, the standard misconceptions in their full form |
 | `07-study-plan.md` | The working plan: a week-by-week schedule at the [learning path](../learning-path.md)'s rhythm, primary readings with section targets, mapped podcast episodes and lectures, book-closed checkpoints, reconstruction prompts, a capstone essay, and a "you are done when you can…" mastery checklist |
 | `08-bibliography.md` | Annotated bibliography: primary editions, the best secondary literature from beginner to advanced, SEP/IEP articles, and the verified media list with links |
-| `cards.tsv` | A figure-specific Anki deck (arguments and concepts) in the same tab-separated format as [`study/cards/`](../study/cards/README.md), for the FSRS queue |
+| `cards.tsv` | A figure-specific [Anki](https://apps.ankiweb.net) deck (arguments and concepts) in the same tab-separated format as [`study/cards/`](../study/cards/README.md), for the [FSRS](https://docs.ankiweb.net/deck-options.html) queue |
 
 Depth standard: a dossier typically runs **15,000–30,000 words** across its files — several times the library entry — at SEP/IEP-level accuracy. The repo's standing rules apply throughout: debates presented as debates, conventional dates keep "c.", primary-text quotations short and attributed (longer excerpts only from verified public-domain translations, translator credited), American English.
 

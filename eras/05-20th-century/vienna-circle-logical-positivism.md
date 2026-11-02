@@ -94,7 +94,7 @@ In America, the émigrés trained the generation that made philosophy of science
 1. **Ayer, *Language, Truth and Logic*, chapters 1 and 6** — elimination of metaphysics and emotivism, read as a 1936 manifesto, not current doctrine.
 2. **The 1929 manifesto** — short, programmatic, and surprisingly political; the Circle in its own voice.
 3. **Carnap, "Elimination of Metaphysics" (1932)** — the method applied to a real target.
-4. **The Stanford Encyclopedia article on logical empiricism** — for the self-refutation debate and the Quine/Kuhn aftermath, with the care the slogans lack.
+4. **The [Stanford Encyclopedia](https://plato.stanford.edu/) article on logical empiricism** — for the self-refutation debate and the Quine/Kuhn aftermath, with the care the slogans lack.
 
 ## Study questions
 

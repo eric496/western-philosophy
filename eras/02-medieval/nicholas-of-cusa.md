@@ -71,7 +71,7 @@ His immediate influence was uneven: Wenck's attack shows the suspicion he arouse
 
 ## What to read first
 
-Read *On Learned Ignorance* Book I: the argument for learned ignorance and the mathematical symbolism are all there, in Jasper Hopkins's standard translations, which are freely available. Then take the short *On the Vision of God*, which turns the doctrine into an exercise you can actually perform, and Book II, chs. 11–12, for the cosmology. The *Stanford Encyclopedia of Philosophy* article locates him among his sources and critics.
+Read *On Learned Ignorance* Book I: the argument for learned ignorance and the mathematical symbolism are all there, in Jasper Hopkins's standard translations, which are freely available. Then take the short *On the Vision of God*, which turns the doctrine into an exercise you can actually perform, and Book II, chs. 11–12, for the cosmology. The [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/) article locates him among his sources and critics.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

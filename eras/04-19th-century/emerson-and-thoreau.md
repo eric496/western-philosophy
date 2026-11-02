@@ -89,7 +89,7 @@ Emerson's influence runs through American pragmatism (William James's debt was e
 2. *Walden*, "Economy" and "Conclusion" (Thoreau) — the ledger and the sermon; then "Where I Lived, and What I Lived For."
 3. "Civil Disobedience" (Thoreau) — read it after "Economy," and notice how short the famous night in jail actually is.
 4. *Nature* (1836) and "Experience" (Emerson) — the young manifesto and its chastened sequel, read as a pair.
-5. The SEP entries on Emerson and Thoreau — for the Cavell-era reassessment and the debates above.
+5. The [SEP](https://plato.stanford.edu/) entries on Emerson and Thoreau — for the Cavell-era reassessment and the debates above.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

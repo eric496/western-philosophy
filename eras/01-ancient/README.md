@@ -35,7 +35,7 @@ Habit: one glossary page for Greek terms — archē, logos, eudaimonia, ataraxia
 - Plotinus ≠ vague mysticism/world-hating; emanation = dependence, matter = privation not evil creation.
 
 ## Sources
-SEP: Presocratic Philosophy, Pythagoras, Heraclitus, Plato, Epicurus, Stoicism, Ancient Skepticism, Plotinus. IEP: Presocratics, Democritus/Leucippus, Diogenes/Cynics. Britannica: Democritus, Diogenes.
+[SEP](https://plato.stanford.edu/): Presocratic Philosophy, Pythagoras, Heraclitus, Plato, Epicurus, Stoicism, Ancient Skepticism, Plotinus. [IEP](https://iep.utm.edu/): Presocratics, Democritus/Leucippus, Diogenes/Cynics. [Britannica](https://www.britannica.com/): Democritus, Diogenes.
 Merge note: For Thales, Pythagoras, Socrates, Pyrrho, Diogenes, Zeno — label key works in repo as "no surviving work — read X about them" so beginners don't hunt for non-existent books.
 
 ## Philosopher entries in this era

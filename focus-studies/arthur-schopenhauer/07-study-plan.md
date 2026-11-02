@@ -4,7 +4,7 @@
 
 The [learning path](../../learning-path.md) meets Schopenhauer in Stage 4, week 3, at selections level (marker ◐): enough *World as Will and Representation* (hereafter WWR) to hear what Nietzsche is answering, with the full system left at map level. This focus study replaces that single week with six. Run it when Stage 4 reaches him — Hegel (Stage 4, week 2) behind you, Kierkegaard and Mill still ahead — or as a standalone detour afterward; either way, do not start it before Kant, since every week presupposes the *Critique of Pure Reason*'s appearance/thing-in-itself distinction. When you finish, return to Stage 4, week 4 (Kierkegaard) as normal. The Stage 4 gate essay is unaffected, but the capstone below is the natural place to draft it.
 
-**Total cost, stated honestly: ≈30 hours of scheduled study across six weeks (~5 hrs/week of reading, dossier work, and media), plus the daily Anki queue (~10 minutes, ~6 days a week ≈ 5–6 hrs across the six weeks) — ≈35 hours all-in.** That is roughly six times the learning path's selections budget for this figure, and it buys the whole system: both volumes of WWR in their load-bearing parts, the dissertation, and the ethics essays.
+**Total cost, stated honestly: ≈30 hours of scheduled study across six weeks (~5 hrs/week of reading, dossier work, and media), plus the daily [Anki](https://apps.ankiweb.net) queue (~10 minutes, ~6 days a week ≈ 5–6 hrs across the six weeks) — ≈35 hours all-in.** That is roughly six times the learning path's selections budget for this figure, and it buys the whole system: both volumes of WWR in their load-bearing parts, the dissertation, and the ethics essays.
 
 **Reading texts.** This dossier's ruling (see [02-works-and-texts.md](02-works-and-texts.md)) is the Cambridge edition (Judith Norman, Alistair Welchman, and Christopher Janaway) if you are buying: it is the current scholarly text with the better apparatus. E. F. J. Payne's translation (the two Dover volumes) is equally serviceable if you already own it or find it cheaper — complete, vigorous, and consistent. Pick one and stay in it: the checkpoint answers and [04-arguments.md](04-arguments.md) cite by book and section (§), which are stable across both translations, so nothing in the plan depends on the choice. Week 1's on-ramp is R. J. Hollingdale's Penguin selection, *Essays and Aphorisms* (from *Parerga and Paralipomena*). Full edition guidance is in [08-bibliography.md](08-bibliography.md).
 
@@ -14,8 +14,8 @@ The [learning path](../../learning-path.md) meets Schopenhauer in Stage 4, week 
 
 | Week | Primary reading | Dossier alongside | Media | New cards |
 |---|---|---|---|---|
-| 1. The voice and the tool | *Essays and Aphorisms* selections; *Fourfold Root* on the principle of sufficient reason | 01, 02 | *Philosophize This!* #098 | 6 |
-| 2. Representation and Will | WWR Vol. I, Books 1–2 (§§1–29) | 03, 04 | *In Our Time* (2009) | 7 |
+| 1. The voice and the tool | *Essays and Aphorisms* selections; *Fourfold Root* on the principle of sufficient reason | 01, 02 | [*Philosophize This!*](https://www.philosophizethis.org/) #098 | 6 |
+| 2. Representation and Will | WWR Vol. I, Books 1–2 (§§1–29) | 03, 04 | [*In Our Time*](http://www.bbc.co.uk/programmes/b00nfrrz) (2009) | 7 |
 | 3. Art and release | WWR Vol. I, Book 3 (§§30–52) | 03, 04 | Magee–Copleston (1987) | 5 |
 | 4. Ethics and denial | WWR Vol. I, Book 4 (§§53–71) | 04, 06 | *Philosophize This!* #099 | 5 |
 | 5. The supplements | WWR Vol. II chs. 17, 41, 44, 46; prize-essay selections | 04, 05 | — | 4 |
@@ -65,7 +65,7 @@ Session shape each week follows the learning path: **A — Primary** (~2 hrs, te
 
 **Alongside.** [03-system-and-concepts.md](03-system-and-concepts.md) (the aesthetics sections and the terms *pure subject of knowing*, *genius*, *the sublime*) and [04-arguments.md](04-arguments.md) ("Aesthetic release and music").
 
-**Media.** *The Great Philosophers* (BBC, 1987), episode 10: Bryan Magee in conversation with Frederick Copleston on Schopenhauer (~45 min) — watch *after* Book 3. The Magee format is the learning path's own recommended discussion substitute (§2.6): two people arguing slowly, with Magee interrupting to clarify. Note, for accuracy, that the Schopenhauer conversation belongs to the 1987 series, not to *Men of Ideas* (1978), whose guests discussed contemporary philosophy. Select episodes circulate on YouTube; the dialogue also survives, revised, in the book *The Great Philosophers*.
+**Media.** [*The Great Philosophers*](https://en.wikipedia.org/wiki/The_Great_Philosophers) (BBC, 1987), episode 10: Bryan Magee in conversation with Frederick Copleston on Schopenhauer (~45 min) — watch *after* Book 3. The Magee format is the learning path's own recommended discussion substitute (§2.6): two people arguing slowly, with Magee interrupting to clarify. Note, for accuracy, that the Schopenhauer conversation belongs to the 1987 series, not to *Men of Ideas* (1978), whose guests discussed contemporary philosophy. Select episodes circulate on YouTube; the dialogue also survives, revised, in the book *The Great Philosophers*.
 
 **Checkpoints.**
 1. *What changes, exactly, in aesthetic contemplation?* The knower stops relating the object to his own will (where, when, why — the questions of the principle of sufficient reason) and rests in perception of the Idea; subject and object of ordinary striving both fall away, briefly. [04-arguments.md](04-arguments.md), "Aesthetic release and music."
@@ -125,7 +125,7 @@ Session shape each week follows the learning path: **A — Primary** (~2 hrs, te
 
 **Reconstructions.** Final touches: every core argument should by now have had its three spaced successful reconstructions (+2d/+1wk/+3wk). In Session C, re-run the master argument (Week 2) and the pessimism argument (Week 4) cold; anything that fails goes back into the next stage's Session C rotation, not into extra drilling this week.
 
-**Cards.** +2 (acquired character, the quietive) — deck complete at 29. The deck stays in the daily FSRS queue permanently; Schopenhauer cards will surface during Stage 5 exactly when Nietzsche needs them.
+**Cards.** +2 (acquired character, the quietive) — deck complete at 29. The deck stays in the daily [FSRS](https://docs.ankiweb.net/deck-options.html) queue permanently; Schopenhauer cards will surface during Stage 5 exactly when Nietzsche needs them.
 
 ## The reconstruction cadence (successive relearning)
 
