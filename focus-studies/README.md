@@ -35,3 +35,4 @@ A focus study is a deep detour, not a replacement. It builds on the figure's lib
 |---|---|---|
 | Arthur Schopenhauer (1788–1860) | [arthur-schopenhauer/](arthur-schopenhauer/README.md) | Complete — 9 files, ~26,400 words, 29-card deck; 6-week study plan (~35 hrs all-in) upgrading the learning path's Stage 4 selections treatment |
 | Baruch Spinoza (1632–1677) | [baruch-spinoza/](baruch-spinoza/README.md) | Complete — 9 files, ~30,700 words, 33-card deck; 7-week study plan (~47 hrs all-in) deepening the learning path's Stage 3 core treatment to the whole Ethics and a full TTP reading |
+| Friedrich Nietzsche (1844–1900) | [friedrich-nietzsche/](friedrich-nietzsche/README.md) | Complete — 9 files, ~29,800 words, 34-card deck; 8-week study plan (~58 hrs all-in) following the learning path's Stage 4 order, designed as the Schopenhauer dossier's pair (same diagnosis, refused cure) |
