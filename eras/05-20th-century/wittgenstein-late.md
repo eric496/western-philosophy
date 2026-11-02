@@ -135,6 +135,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 5. **Finally, *On Certainty*, selections** — his last thoughts on doubt and hinge beliefs.
 
 **Study guide:** [*Philosophical Investigations* — section-by-section guide to the Part I selections, with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/wittgenstein-investigations.md).
+**Focus study:** [Ludwig Wittgenstein dossier](../../focus-studies/ludwig-wittgenstein/README.md) — a full deep dive beyond both Wittgenstein entries: both philosophies and their concepts, twelve argument reconstructions, conversations and reception, a seven-week study plan, a card deck, and a narrated audio companion.
 
 ## Study questions
 

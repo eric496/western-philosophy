@@ -3,6 +3,7 @@
 **Work:** *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*) · **Author:** Immanuel Kant (1724–1804) · **Composed:** 1785
 **Covers:** All three sections, with a reading plan, section-by-section guide, argument reconstructions, self-test questions, common misreadings, and a guide to approaching the *Critique of Pure Reason*.
 **Companion entry:** [Immanuel Kant](../eras/03-early-modern/immanuel-kant.md) · **Study plan:** [Learning Path](../learning-path.md)
+**Focus study:** This guide is the Week 5 companion of the [Kant focus-study dossier](../focus-studies/immanuel-kant/README.md), whose eight-week plan builds the whole critical system around the *Groundwork* — the first *Critique* before it, the second *Critique* and *Religion* after it.
 
 ## Edition note
 

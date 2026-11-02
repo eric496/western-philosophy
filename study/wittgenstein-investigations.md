@@ -3,6 +3,7 @@
 **Work:** *Philosophical Investigations* · **Author:** Ludwig Wittgenstein (1889–1951) · **Composed:** Part I essentially complete by 1946; published posthumously 1953
 **Covers:** Part I selections — the Augustinian picture (§§1–38), language-games and family resemblance (§§65–77), method (§§109–133), rule-following (§§185–242), private language (§§243–315), with aspect-seeing from Part II — with a reading plan, section-by-section guide, argument reconstructions, and self-test questions.
 **Companion entry:** [Wittgenstein (late)](../eras/05-20th-century/wittgenstein-late.md) · **Study plan:** [Learning Path](../learning-path.md)
+**Focus study:** This guide is the companion for Weeks 3–6 of the [Wittgenstein focus-study dossier](../focus-studies/ludwig-wittgenstein/README.md), whose seven-week plan reads the *Tractatus* whole before these *Investigations* selections and closes with *On Certainty*.
 
 ## Edition note
 
