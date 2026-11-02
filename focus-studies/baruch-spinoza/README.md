@@ -24,6 +24,20 @@ Three reasons, beyond the library's portrait. First, *totality*: the *Ethics* is
 
 The library's [learning path](../../learning-path.md) meets Spinoza in **Stage 3** (Early Modern to Kant) as a *core* figure: *Ethics* Part I read whole with a guide, Part II in selection, Parts IV–V in selection, and the *Theological-Political Treatise* as a summary pass. This dossier deepens that core treatment into a full one. [07-study-plan.md](07-study-plan.md) lays out a **7-week plan of roughly 40 hours of scheduled study (about 47 hours all-in once the daily card queue is counted)**: the *Ethics* read whole (building on the library's proposition-by-proposition guide to Part I rather than duplicating it), the *Theological-Political Treatise* read properly — its scriptural method and its political chapters in full, not as a summary — the early works that show the system forming, the letters that show it thinking aloud, and selections from the *Political Treatise*. It runs at the learning path's weekly rhythm: primary reading first, reconstruction before commentary, the daily FSRS queue fed by the dossier's cards. It plugs into Stage 3 at the point the path reaches Spinoza; the hours sit on top of the Stage 3 budget, as focus-study hours always do, and the plan document shows the arithmetic week by week.
 
+## Audio companion
+
+This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/baruch-spinoza/` — about **2 hours 46 minutes** in total:
+
+| Episode | File | Duration |
+|---|---|---|
+| Life & Times | `01-life-and-times.mp3` | 18 min |
+| System & Concepts | `03-system-and-concepts.mp3` | 46 min |
+| Arguments | `04-arguments.mp3` | 62 min |
+| Conversations | `05-conversations.mp3` | 20 min |
+| Reception & Debates | `06-reception-and-debates.mp3` | 19 min |
+
+The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally — "part one, proposition fourteen," not "E1P14"). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
+
 ## Start here
 
 - The quick portrait: the library entry, [Baruch Spinoza](../../eras/03-early-modern/baruch-spinoza.md).
