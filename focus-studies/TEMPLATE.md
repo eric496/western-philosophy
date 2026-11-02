@@ -44,6 +44,9 @@ Annotated, tiered: (1) primary texts and editions; (2) first secondary books to 
 ### cards.tsv
 Figure-specific deck in the `study/cards/` format: exactly 3 tab-separated fields (Front, Back, Tags), argument cards built from `04-arguments.md` plus concept cards from `03-system-and-concepts.md`; tags `figure::<slug> type::argument|concept focus::<slug>`. Import and review follow `study/cards/README.md` (FSRS).
 
+### Audio companion (produced with the dossier, stored outside the repo)
+Narrate the five content files (`01`, `03`, `04`, `05`, `06`) from the finished dossier text. Speech prep: strip markup, links (keep link text), tables, and footer navigation; spell section symbols out ("section 52"); expand the figure's citation conventions into speech (Spinoza's E1P14 → "part one, proposition fourteen"; Nietzsche's work abbreviations expanded before section numbers); keep quotations and hedges exactly as written. One natural production voice throughout (Helio, at 90% speed — Eric's chosen voice and pace, set 2026-11-02 after a sample; re-render on request if he changes either). Files land in the Muse library at `focus-study-audio/<slug>/<file-stem>.mp3`, never in the git tree. The dossier `README.md` gains an **Audio companion** section listing the five episodes with their durations. If a narrated file is later substantially revised, regenerate its episode in the same push-cycle and update the listed duration.
+
 ## Standards (all repo rules apply, plus these)
 
 1. Research before writing: the dossier is built from the library entry, any existing `study/` guides, the SEP/IEP articles, and targeted checks of dates, editions, and media availability — the same verification discipline as the repo's audit rounds. Facts that cannot be verified are hedged or omitted, never smoothed over.

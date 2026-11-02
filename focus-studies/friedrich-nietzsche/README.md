@@ -28,6 +28,20 @@ This dossier is the second of a pair. Nietzsche's central argument begins as a r
 
 The library's [learning path](../../learning-path.md) meets Nietzsche in **Stage 4** (Nineteenth Century: System, Revolt, Society), week 11, at *core* level — *Twilight of the Idols* selections, the *Genealogy* whole, *Beyond Good and Evil* selections, *The Gay Science* selections. This dossier follows the path's reading order exactly and **upgrades its selections to full core texts**, adding *The Birth of Tragedy* with its 1886 self-criticism, the free-spirit books, and the two great 1888 texts the path treats only in passing. [07-study-plan.md](07-study-plan.md) lays out an **8-week plan of roughly 50 hours of scheduled study** — run at the learning path's weekly rhythm (primary reading first, reconstruction before commentary, the daily FSRS queue fed by the dossier's cards, and the plan document shows the arithmetic week by week). It plugs into Stage 4 in place of the path's Nietzsche assignment, and its capstone essay is designed to do the stage gate essay's work. The hours sit on top of the Stage 4 budget, as focus-study hours always do.
 
+## Audio companion
+
+This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/friedrich-nietzsche/` — about **2 hours 22 minutes** in total:
+
+| Episode | File | Duration |
+|---|---|---|
+| Life & Times | `01-life-and-times.mp3` | 20 min |
+| System & Concepts | `03-system-and-concepts.mp3` | 30 min |
+| Arguments | `04-arguments.mp3` | 55 min |
+| Conversations | `05-conversations.mp3` | 19 min |
+| Reception & Debates | `06-reception-and-debates.mp3` | 17 min |
+
+The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
+
 ## Start here
 
 - The quick portrait: the library entry, [Friedrich Nietzsche](../../eras/04-19th-century/friedrich-nietzsche.md).
