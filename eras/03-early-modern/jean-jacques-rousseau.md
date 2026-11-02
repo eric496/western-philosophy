@@ -121,6 +121,8 @@ The charged debate is the “totalitarian Rousseau”: the twentieth-century rea
 3. *Émile*, Books I–III (selections) — natural education and the delaying of *amour-propre*.
 4. *Confessions*, Book I — the voice behind the system.
 
+**Study guide:** [*The Social Contract* — book-by-book guide to all four books with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/rousseau-social-contract.md).
+
 ## Study questions
 
 1. Reconstruct the *Discourse on Inequality* argument: natural humans are moved by *amour de soi* and pity; comparison, property, and dependence generate *amour-propre* and lasting inequality. Why does it matter that the state of nature is a diagnostic model, not a historical claim?

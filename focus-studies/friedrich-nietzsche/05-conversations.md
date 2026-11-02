@@ -44,7 +44,7 @@ Max Stirner is the opposite case: an influence perpetually alleged and never doc
 
 **Franz Overbeck** was the truest friend: fellow Basel professor (of church history), housemate, and the man whose loyalty was entirely undogmatic — he never became a disciple, which is why Nietzsche trusted him. In January 1889 Overbeck traveled to Turin and brought his collapsed friend home. His posthumous memoirs are among the most reliable witnesses to the man.
 
-**Lou Andréas-Salomé** belongs here as an intellectual interlocutor, not only as the catastrophe of 1882. The twenty-one-year-old Nietzsche proposed to her — twice, once by proxy through Rée — was part of the famous Lucerne photograph (she holding a whip over the two men harnessed to a cart, a joke the later caricatures never let go of), and her *Friedrich Nietzsche in seinen Werken* (1894) was the first book-length study of his thought: acute, psychological, and still read. Nietzsche's fury at her belongs to the biography; her standing as his first serious interpreter belongs to the reception.
+**Lou Andréas-Salomé** belongs here as an intellectual interlocutor, not only as the catastrophe of 1882. The twenty-one-year-old — to whom Nietzsche proposed twice, once by proxy through Rée — was part of the famous Lucerne photograph (she holding a whip over the two men harnessed to a cart, a joke the later caricatures never let go of), and her *Friedrich Nietzsche in seinen Werken* (1894) was the first book-length study of his thought: acute, psychological, and still read. Nietzsche's fury at her belongs to the biography; her standing as his first serious interpreter belongs to the reception.
 
 ## Forward: the answers
 

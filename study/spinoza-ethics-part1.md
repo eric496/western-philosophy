@@ -3,6 +3,7 @@
 **Work:** *Ethics* Part I, "Of God" (1677, posthumous) · **Author:** Baruch Spinoza (1632–1677) · **Composed:** completed c. 1675; published posthumously in the *Opera Posthuma* (1677)
 **Covers:** Part I in full — Definitions 1–8, Axioms 1–7, Propositions 1–36 with their corollaries and scholia, and the Appendix to Part I in full — with a reading plan, section-by-section guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Baruch Spinoza](../eras/03-early-modern/baruch-spinoza.md) · **Study plan:** [Learning Path](../learning-path.md)
+**Focus study:** This guide is the Week 2 companion of the [Spinoza focus-study dossier](../focus-studies/baruch-spinoza/README.md), whose seven-week plan reads the whole *Ethics* — Parts II–V as well as Part I — and the *Theological-Political Treatise* in full, beyond what this guide covers.
 
 ## Edition note
 

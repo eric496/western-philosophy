@@ -68,6 +68,8 @@ The obvious objection: how can Schopenhauer *know* the thing-in-itself, when his
 2. *The World as Will and Representation*, Book 1 (representation) and the key chapters of Book 2 (the Will).
 3. Book 4 for the ethics of compassion and the denial of the Will — his constructive conclusion.
 
+**Focus study:** [Arthur Schopenhauer dossier](../../focus-studies/arthur-schopenhauer/README.md) — a complete deep dive beyond this entry: the full system and its concepts, twelve argument reconstructions, reception and live debates, a six-week study plan, a card deck, and a narrated audio companion.
+
 ---
 
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

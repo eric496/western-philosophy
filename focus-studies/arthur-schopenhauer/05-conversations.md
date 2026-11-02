@@ -50,7 +50,7 @@ The [early Wittgenstein](../../eras/05-20th-century/wittgenstein-early.md) read 
 
 ### Freud: the acknowledged precursor
 
-Freud — who has no entry in this library — said on the record that Schopenhauer got there first: the "unconscious Will," he wrote in 1924, corresponds to the instincts of psychoanalysis, and the *Autobiographical Study* (1925) acknowledged the broad coincidence, down to repression and the dominance of sexuality, while insisting he had read Schopenhauer only late in life. The passage always cited is *The World as Will and Representation*, Vol. II, ch. 19, where the intellect refuses admission to knowledge that would pain the will — a description of repression in everything but name. Scholars remain divided on whether the convergence was wholly independent; the anticipation itself is not disputed, and Schopenhauer's defenders can fairly note that he, unlike Freud, built the drives into a metaphysics and an ethics.
+Freud — who has no entry in this library — said on the record that Schopenhauer got there first: the "unconscious Will," he wrote in the *Introductory Lectures* (1916–17), is equivalent to the mental instincts of psychoanalysis, and the *Autobiographical Study* (1925) acknowledged the broad coincidence, down to repression and the dominance of sexuality, while insisting he had read Schopenhauer only late in life. The passage always cited is *The World as Will and Representation*, Vol. II, ch. 19, where the intellect refuses admission to knowledge that would pain the will — a description of repression in everything but name. Scholars remain divided on whether the convergence was wholly independent; the anticipation itself is not disputed, and Schopenhauer's defenders can fairly note that he, unlike Freud, built the drives into a metaphysics and an ethics.
 
 ### The literary line
 
@@ -58,7 +58,7 @@ Tolstoy wrote to a friend in 1869, in the middle of *War and Peace*'s aftermath,
 
 ### The pessimist school
 
-Two heirs tried to keep the doctrine and outrun the master. Philipp Mainländer's *Philosophy of Redemption* (1876) inverted the Will-to-live into a cosmic will-to-death — God dead, the universe his slowly decaying corpse, redemption in extinction; Mainländer took his own life weeks after the book appeared. Julius Bahnsen's "Realdialektik" located contradiction in the will itself, denying even the master's exit routes. Neither founded a lasting school, but both show how live an option radical pessimism briefly was.
+Two heirs tried to keep the doctrine and outrun the master. Philipp Mainländer's *Philosophy of Redemption* (1876) inverted the Will-to-live into a cosmic will-to-death — God dead, the universe his slowly decaying corpse, redemption in extinction; Mainländer took his own life the night after the first printed copies of the book reached him. Julius Bahnsen's "Realdialektik" located contradiction in the will itself, denying even the master's exit routes. Neither founded a lasting school, but both show how live an option radical pessimism briefly was.
 
 ### The living presence
 

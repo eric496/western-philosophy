@@ -19,7 +19,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 | `learning-path.md` | The study plan: hybrid-spiral stages with week/hour budgets, core vs map-level figures, per-author primary texts and editions to use (and avoid), can-do checkpoints and gate essays per stage, the spaced-retrieval system, and a failure-mode checklist |
 | `eras/01-ancient/` … `eras/05-20th-century/` | One folder per era: an overview (story of the era, within-era reading order, traps to avoid) plus one entry file per philosopher or school |
 | `philosophers/README.md` | Alphabetical list of all entry files |
-| `study/` | Work-level study guides (18), worked answer keys for the core entries' study questions, and Anki card decks — chapter/section guides with argument reconstructions, checkpoint questions and answers, and common misreadings |
+| `study/` | Work-level study guides (21), worked answer keys for the core entries' study questions, and Anki card decks — chapter/section guides with argument reconstructions, checkpoint questions and answers, and common misreadings |
 | `focus-studies/` | Single-philosopher deep dives, built on request: a multi-file dossier per figure (life, works, system, arguments, conversations, reception, a week-by-week study plan, bibliography, and a figure-specific card deck). See `focus-studies/README.md` for how to request one |
 | `themes.md` | The same history sideways: 9 recurring questions (metaphysics, epistemology, ethics, politics, mind, logic & language, aesthetics, religion, science) and who answered them |
 | `glossary.md` | 84 terms in plain language (*archē*, *eudaimonia*, *epoché*, *différance*, …) |

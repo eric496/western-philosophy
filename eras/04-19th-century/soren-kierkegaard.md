@@ -85,6 +85,8 @@ Adorno's study charged that the inwardness Kierkegaard absolutised was the inwar
 3. *The Sickness Unto Death*, Part One — despair and the structure of the self.
 4. The *Postscript* later, with stamina, for the full anti-Hegelian program.
 
+**Study guide:** [*Fear and Trembling* — part-by-part guide to the whole work with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/kierkegaard-fear-and-trembling.md).
+
 ## Study questions
 
 1. Reconstruct the teleological suspension of the ethical in *Fear and Trembling*: what does the ethical demand of Abraham, what does faith demand instead, and why can de Silentio neither mediate Abraham's act nor explain his silence?

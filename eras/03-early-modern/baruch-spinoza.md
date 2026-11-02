@@ -137,6 +137,8 @@ Other debates: whether necessitarianism can accommodate an ethics of striving �
 
 **Study guide:** [*Ethics* Part I — proposition-by-proposition guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/spinoza-ethics-part1.md).
 
+**Focus study:** [Baruch Spinoza dossier](../../focus-studies/baruch-spinoza/README.md) — a full deep dive beyond this entry: the whole system and its concepts, twelve argument reconstructions, reception and live debates, a seven-week study plan, a card deck, and a narrated audio companion.
+
 ## Study questions
 
 1. Reconstruct the substance-monism argument of *Ethics* I from its definitions: a substance is in itself and conceived through itself; substances cannot share an attribute; God has infinite attributes. Which premise could Leibniz reject, and what alternative account of substance would he owe?

@@ -130,6 +130,8 @@ Habermas and others charge that his critique of reason is itself irrationalist a
 
 **Study guide:** [*On the Genealogy of Morals* — essay-by-essay guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/nietzsche-genealogy.md).
 
+**Focus study:** [Friedrich Nietzsche dossier](../../focus-studies/friedrich-nietzsche/README.md) — the full arc beyond this entry: the system and its concepts, twelve argument reconstructions, conversations and reception, an eight-week study plan, a card deck, and a narrated audio companion.
+
 ## Study questions
 
 1. Reconstruct the First Essay's argument: how does slave morality arise from *ressentiment*, creatively inverting the noble's "good/bad" into "good/evil"? What exactly is creative about the slave revolt, and what evidence does Nietzsche offer for it?
