@@ -11,9 +11,11 @@
 
 **Responds to:** [Socrates](socrates.md), [Heraclitus](heraclitus-of-ephesus.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Aristotle](aristotle.md), [Plotinus](plotinus.md), [Augustine](../02-medieval/augustine-of-hippo.md)
 
+**Focus study:** [Plato dossier](../../focus-studies/plato/README.md) — a full deep dive beyond this entry: the dialogues in the dossier's reading order, eleven argument reconstructions from the Euthyphro dilemma to the *Sophist* on falsehood, the Socratic problem and the unwritten-doctrines debate kept open, a six-week study plan, and a card deck.
+
 ## Biography
 
-Plato was born into a wealthy Athenian family. His mother Perictione's family was connected to Solon, the great lawgiver, and two uncles, Critias and Charmides, later joined the Thirty Tyrants, the oligarchy that seized Athens after the Peloponnesian War. Tradition says his birth name was Aristocles and "Plato" — from *platys*, broad — was a nickname, though this is uncertain.
+Plato was born into a wealthy Athenian family. His mother Perictione's family was connected to Solon, the great lawgiver, and her younger brother Charmides and her first cousin Critias later numbered among the Thirty Tyrants, the oligarchy that seized Athens after the Peloponnesian War. Tradition says his birth name was Aristocles and "Plato" — from *platys*, broad — was a nickname, though this is uncertain.
 
 The decisive event of his youth was meeting Socrates (c. 470–399 BCE), who wrote nothing and spent his time questioning Athenians about courage, piety, justice, and wisdom. Plato became his devoted follower. Socrates' execution in 399 BCE — condemned by Athens' democracy for impiety and corrupting the youth — turned Plato permanently against existing politics. According to the *Phaedo*, Plato was absent through illness on the day Socrates drank the hemlock, but the trial frames his conviction that cities will not be just until philosophy gains power or rulers learn philosophy.
 

@@ -1,5 +1,6 @@
 # Study Guide: Plato's *Republic*
 
+**Focus study:** This guide is the companion of the [Plato focus-study dossier](../focus-studies/plato/README.md) in Weeks 3–4 of its six-week plan, which reads the complete *Republic* with this guide's reconstructions and checkpoints assigned.
 **Work:** *Republic* (*Politeia*) · **Author:** Plato (428/427 – 348/347 BCE) · **Composed:** c. 375 BCE (conventional date)
 **Covers:** All ten books, with a reading plan, book-by-book guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Plato](../eras/01-ancient/plato.md) · **Study plan:** [Learning Path](../learning-path.md)
