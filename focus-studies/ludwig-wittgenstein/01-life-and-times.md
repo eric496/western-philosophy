@@ -38,7 +38,7 @@ Vienna in these years also brought the encounters that pulled him back to philos
 
 ## Professor, porter, exile, and last years (1929–1951)
 
-The 1930s at Cambridge were a decade of dictation, notebooks, and revised typescripts rather than books. Wittgenstein lectured without notes, composing in the act of speaking, to audiences that included Elizabeth Anscombe, Rush Rhees, Norman Malcolm, and for two terms Alan Turing, with whom he argued about the foundations of mathematics in the 1939 lectures — a disagreement preserved in the edited notes and still read as the period's most vivid philosophy of mathematics. He dictated the *Blue Book* (1933–34) and the *Brown Book* (1934–35) to small groups of students; in 1936–37 he returned to the house at Skjolden and there began the manuscript work that became *Philosophical Investigations*. He took British citizenship in 1938, after the Anschluss made his Austrian passport a liability, and in 1939 he succeeded Moore as Professor of Philosophy at Cambridge.
+The 1930s at Cambridge were a decade of dictation, notebooks, and revised typescripts rather than books. Wittgenstein lectured without notes, composing in the act of speaking, to audiences that included Elizabeth Anscombe, Rush Rhees, Norman Malcolm, and for two terms Alan Turing, with whom he argued about the foundations of mathematics in the 1939 lectures — a disagreement preserved in the edited notes and still read as the period's most vivid philosophy of mathematics. He dictated the *Blue Book* (1933–34) and the *Brown Book* (1934–35) to small groups of students; in 1936–37 he returned to the house at Skjolden and there began the manuscript work that became *Philosophical Investigations*. He took British citizenship in 1939 — the application, prompted by the Anschluss, was granted that June — and the same year he succeeded Moore as Professor of Philosophy at Cambridge.
 
 When the Second World War came he refused to sit it out as a professor. From 1941 to 1942 he worked as a dispensary porter at Guy's Hospital in London, carrying medicines and — by the testimony of the staff — advising patients about their dressings with such authority that they were told, when they asked, only that he was a man of mystery; from 1943 to 1944 he was a laboratory technician at the Royal Victoria Infirmary in Newcastle, working on the measurement of wound shock for a Medical Research Council unit. He returned to Cambridge, lectured through 1947, and then resigned the chair to write. The *Investigations*' first part was essentially finished by 1946 — he had tried, and failed, to publish it then with the *Tractatus*, and withdrawn it — but revision continued, and his health was failing.
 
@@ -70,8 +70,8 @@ The last years were spent in motion: Dublin in the winter of 1947–48, working 
 | 1933–35 | Dictates the *Blue Book* (1933–34) and the *Brown Book* (1934–35) |
 | 1936 | Returns to former pupils in Austria to confess and ask forgiveness |
 | 1936–37 | At Skjolden, Norway; begins the manuscript work toward the *Investigations* |
-| 1938 | Takes British citizenship after the Anschluss |
-| 1939 | Succeeds Moore as Professor of Philosophy at Cambridge; lectures on the foundations of mathematics, attended by Turing |
+| 1938 | Anschluss: becomes a German national; applies for British citizenship |
+| 1939 | British citizenship granted (June); succeeds Moore as Professor of Philosophy at Cambridge; lectures on the foundations of mathematics, attended by Turing |
 | 1941–44 | War work: porter at Guy's Hospital, London (1941–42); laboratory technician in Newcastle (1943–44) |
 | 1946 | *Investigations* Part I essentially complete; publication attempted and withdrawn |
 | 1947 | Resigns the Cambridge chair |
