@@ -92,7 +92,7 @@ Therefore, unrestricted comprehension is false, and set theory — and with it F
 - ***Introduction to Mathematical Philosophy*** (1919) — The accessible *Principia*, written in prison; the best route into his philosophy of mathematics.
 - ***The Analysis of Mind*** (1921) and ***The Analysis of Matter*** (1927) — His mature, shifting philosophy of mind and science, including neutral monism.
 - ***Why I Am Not a Christian*** (lecture 1927; collection 1957) — The public controversialist at his clearest on religion.
-- ***A History of Western Philosophy*** (1945) — Sweeping, witty, and partisan; read for orientation and pleasure, with the Stanford Encyclopedia at hand for adjudication, not as a neutral textbook.
+- ***A History of Western Philosophy*** (1945) — Sweeping, witty, and partisan; read for orientation and pleasure, with the [Stanford Encyclopedia](https://plato.stanford.edu/) at hand for adjudication, not as a neutral textbook.
 - ***Autobiography***, 3 vols (1967–69) — A great intellectual autobiography; its prologue is his own summary.
 
 ## Contributions

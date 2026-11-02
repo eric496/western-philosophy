@@ -77,7 +77,7 @@ Through Dilthey, who edited his works and wrote his biography, the hermeneutics 
 2. *Hermeneutics and Criticism* (the 1819 compendium and related manuscripts, trans. Duke and Forstman) — the art of understanding in his own compact formulations, including the strict-practice maxim.
 3. "On the Different Methods of Translating" — twelve pages that organize a whole field; findable in translation-studies readers (e.g. in Venuti's *Translation Studies Reader*).
 4. *The Christian Faith*, §§3–5 and the Introduction — the dependence formula and the method of dogmatics, before sampling its doctrines.
-5. For orientation: the SEP entry on Schleiermacher, then Gadamer's critique in *Truth and Method* Part II to see the frame he set.
+5. For orientation: the [SEP](https://plato.stanford.edu/) entry on Schleiermacher, then Gadamer's critique in *Truth and Method* Part II to see the frame he set.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

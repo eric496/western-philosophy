@@ -81,7 +81,7 @@ Pelagius contested the grace doctrine in Augustine's own lifetime, charging that
 1. *Confessions* Books 1, 7, 8 (formation, Platonism, conversion) in a modern translation (Chadwick).
 2. *Confessions* Books 10–11 (memory; time) — the philosophical summit.
 3. *City of God*, selected books (XI–XIV on the two cities' origins; XIX on peace) in an abridged edition.
-4. The SEP entry "Saint Augustine" for orientation on the controversies.
+4. The [SEP](https://plato.stanford.edu/) entry "Saint Augustine" for orientation on the controversies.
 
 **Study guide:** [*Confessions* Books I–VIII and XI — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/augustine-confessions.md).
 

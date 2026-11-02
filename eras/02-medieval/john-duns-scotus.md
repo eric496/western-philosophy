@@ -66,7 +66,7 @@ Ockham attacked the formal distinction and common natures as unnecessary multipl
 
 ## What to read first
 
-1. A modern guide before the texts: Richard Cross, *Duns Scotus* (Great Medieval Thinkers), plus the SEP entry by Thomas Williams.
+1. A modern guide before the texts: Richard Cross, *Duns Scotus* (Great Medieval Thinkers), plus the [SEP](https://plato.stanford.edu/) entry by Thomas Williams.
 2. *Treatise on First Principle* (Wolter translation) — short, self-contained, the proof in action.
 3. Selected *Ordinatio* passages on univocity (Prologue and Book I) in a translated anthology — not the *Ordinatio* raw.
 

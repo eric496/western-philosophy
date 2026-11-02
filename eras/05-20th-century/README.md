@@ -30,7 +30,7 @@ Pass 5 hard core + rebuild: Derrida "Différance" + "Letter to a Japanese Friend
 - Flattened dates: Tractatus 1921 German / 1922 English; Popper Logik 1934 but English 1959; Dialectic of Enlightenment circulated 1944, published 1947; Second Sex 1949 French, complete English only 2010.
 
 ## Sources
-SEP entries: Russell, Wittgenstein, Popper, Rawls, Vienna Circle, Kuhn, Husserl, Heidegger, Sartre, Beauvoir, Arendt, Foucault, Derrida, Critical Theory, Adorno, Anscombe, Philippa Foot. Britannica: Foucault, Derrida, Beauvoir. Canonical links: plato.stanford.edu/entries/<slug>/.
+[SEP](https://plato.stanford.edu/) entries: Russell, Wittgenstein, Popper, Rawls, Vienna Circle, Kuhn, Husserl, Heidegger, Sartre, Beauvoir, Arendt, Foucault, Derrida, Critical Theory, Adorno, Anscombe, Philippa Foot. [Britannica](https://www.britannica.com/): Foucault, Derrida, Beauvoir. Canonical links: plato.stanford.edu/entries/<slug>/.
 
 ## Philosopher entries in this era
 

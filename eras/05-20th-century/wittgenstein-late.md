@@ -131,7 +131,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 1. ***Philosophical Investigations*, §§1–133, in short stretches** — start with Augustine (§1), the builders (§2), and the games discussion (§§65–77). Do not try to march through all 693 remarks at first.
 2. **Norman Malcolm, *Ludwig Wittgenstein: A Memoir*** — a short, humane account of the man and his teaching.
 3. **The *Blue Book*, opening sections** — the gentlest statement of the turn from essence to use.
-4. **Then §§185–293** — rule-following and the private language argument, ideally with a guide such as Marie McGinn's *Wittgenstein and the Philosophical Investigations* or the Stanford Encyclopedia article, because these sections attract strong rival readings.
+4. **Then §§185–293** — rule-following and the private language argument, ideally with a guide such as Marie McGinn's *Wittgenstein and the Philosophical Investigations* or the [Stanford Encyclopedia](https://plato.stanford.edu/) article, because these sections attract strong rival readings.
 5. **Finally, *On Certainty*, selections** — his last thoughts on doubt and hinge beliefs.
 
 **Study guide:** [*Philosophical Investigations* — section-by-section guide to the Part I selections, with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/wittgenstein-investigations.md).

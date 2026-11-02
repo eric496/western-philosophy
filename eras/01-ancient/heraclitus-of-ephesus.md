@@ -65,7 +65,7 @@ Aristotle objected that radical flux destroys knowledge and speech: if everythin
 ## What to read first
 
 1. The fragments, in a translation with Diels–Kranz numbers (Robinson or Kahn), read slowly.
-2. The SEP or IEP entry alongside, to test interpretations against the texts.
+2. The [SEP](https://plato.stanford.edu/) or [IEP](https://iep.utm.edu/) entry alongside, to test interpretations against the texts.
 3. Plato, *Cratylus* (439c–440e) and *Theaetetus*, for the earliest reception — and distortion — of flux.
 4. Then Parmenides: the twin poles between which later Greek philosophy steered.
 

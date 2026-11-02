@@ -1,6 +1,6 @@
 # Flashcard Decks
 
-Anki-importable card decks built from material already in this repository. Following the retention system in the [learning path](../../learning-path.md) (§2.1), these are **argument cards, not fact cards**: every front is a *do*-prompt that demands reconstruction or explanation, never a bare "who/when/what" recall cue. Dates and definitions are deliberately not carded — the path's bet is that what needs to survive is the ability to rebuild an argument and answer its standard objection.
+[Anki](https://apps.ankiweb.net)-importable card decks built from material already in this repository. Following the retention system in the [learning path](../../learning-path.md) (§2.1), these are **argument cards, not fact cards**: every front is a *do*-prompt that demands reconstruction or explanation, never a bare "who/when/what" recall cue. Dates and definitions are deliberately not carded — the path's bet is that what needs to survive is the ability to rebuild an argument and answer its standard objection.
 
 ## The decks
 
@@ -30,7 +30,7 @@ Import each deck into its own Anki deck (or one deck with the tags above — the
 
 ## Review cadence — FSRS and the daily queue
 
-The learning path (round 6 revision, §2.1–§2.2) schedules these cards with **FSRS**, Anki's current scheduler — *not* with the hand-run +2d/+1wk/+3wk marks an earlier version of the path prescribed for cards. Those marks now govern blank-page reconstructions and checkpoints only (successive relearning, learning-path §2.3); they no longer schedule cards, and hand-scheduling cards fights the scheduler. Run it like this:
+The learning path (round 6 revision, §2.1–§2.2) schedules these cards with [**FSRS**](https://docs.ankiweb.net/deck-options.html), Anki's current scheduler — *not* with the hand-run +2d/+1wk/+3wk marks an earlier version of the path prescribed for cards. Those marks now govern blank-page reconstructions and checkpoints only (successive relearning, learning-path §2.3); they no longer schedule cards, and hand-scheduling cards fights the scheduler. Run it like this:
 
 - **Setup (once, in Deck Options):** turn **FSRS on** — it is a toggle; do not assume it is already active. **Desired retention 0.90** (do not raise it; workload climbs steeply above 0.90). **Learning and relearning steps short — `10m` (or the default `1m 10m`), never 1 day or more.** Leave maximum reviews uncapped; control intake through new cards, not by hiding due reviews. After your first ~300–400 reviews, click **Optimize** in the FSRS section, and re-optimize about monthly. Do not copy anyone else's parameters.
 - **Daily queue:** clear the due queue in **~10 minutes, ~6 days a week**, separate from your study sessions. At this plan's pace — a handful of new cards in a week, far under the ~5/day cap — the queue stays small. **If a backlog ever forms, stop adding new cards until it clears.**

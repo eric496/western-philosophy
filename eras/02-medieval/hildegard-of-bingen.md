@@ -72,7 +72,7 @@ Within the Middle Ages her influence was real but regional: her prophecies were 
 
 ## What to read first
 
-Begin with *Scivias* Book I, visions 1–3 — the call vision and the creation visions show her method at its clearest — best in the Classics of Western Spirituality translation (*Scivias*, trans. Columba Hart and Jane Bishop), using the illuminations alongside the text. Then read selections from the *Physica* (Book I, on plants) to see the natural philosopher at work, and listen to any chant from the *Symphonia* alongside its text: Hildegard insisted the music itself was part of the revelation. The *Stanford Encyclopedia of Philosophy* entry gives a compact scholarly orientation to the debates.
+Begin with *Scivias* Book I, visions 1–3 — the call vision and the creation visions show her method at its clearest — best in the Classics of Western Spirituality translation (*Scivias*, trans. Columba Hart and Jane Bishop), using the illuminations alongside the text. Then read selections from the *Physica* (Book I, on plants) to see the natural philosopher at work, and listen to any chant from the *Symphonia* alongside its text: Hildegard insisted the music itself was part of the revelation. The [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/) entry gives a compact scholarly orientation to the debates.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

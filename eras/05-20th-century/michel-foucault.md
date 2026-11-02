@@ -117,7 +117,7 @@ First, *normative grounding*: Habermas and Nancy Fraser pressed that Foucault co
 
 1. Do **not** start with *The Order of Things*. Start with the opening of *Discipline and Punish* — Damiens's execution, then the prison timetable: the method in two scenes.
 2. Read *The History of Sexuality, Vol. 1* next: short, argumentative, the source for power/knowledge and biopower.
-3. Pair both with the Stanford Encyclopedia of Philosophy article on Foucault.
+3. Pair both with the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) article on Foucault.
 4. Then sample a lecture course — *Society Must Be Defended* — to hear him thinking aloud.
 
 **Study guide:** [*Discipline and Punish* (selections) — section-by-section guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/foucault-discipline.md).

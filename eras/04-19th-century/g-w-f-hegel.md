@@ -98,7 +98,7 @@ Schopenhauer despised him as a charlatan obscurantist — a charge of deliberate
 
 ## What to read first
 
-1. A good secondary introduction first (the SEP entry; Frederick Beiser or Terry Pinkard's biographical-critical studies) — do not open the *Phenomenology* cold.
+1. A good secondary introduction first (the [SEP](https://plato.stanford.edu/) entry; Frederick Beiser or Terry Pinkard's biographical-critical studies) — do not open the *Phenomenology* cold.
 2. The Preface to the *Phenomenology*, with help, for his programmatic statements.
 3. The Lordship and Bondage section (Phenomenology §§178–196).
 4. The Preface to the *Philosophy of Right* for the political philosophy in miniature.

@@ -74,7 +74,7 @@ The largest legacy arrived posthumously, and detonated. In 1785 Friedrich Heinri
 2. *On the Proof of the Spirit and of Power* (1777) — the ditch argument in his own brief compass.
 3. *Laocoön*, the first sixteen chapters — the medium argument with its examples.
 4. *The Education of the Human Race* (complete) — short, strange, and the seed of a century of philosophy of history.
-5. For orientation: the SEP entry on Lessing, and Henry Chadwick's *Lessing's Theological Writings* (selection with introduction).
+5. For orientation: the [SEP](https://plato.stanford.edu/) entry on Lessing, and Henry Chadwick's *Lessing's Theological Writings* (selection with introduction).
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

@@ -60,7 +60,7 @@ The pseudonyms are not disguises but positions: Johannes the Seducer, Judge Will
 
 ## Contributions
 
-Kierkegaard restored the existing individual — choosing, anxious, despairing, believing — to the center of philosophy at the height of system-building. He invented or sharpened concepts (anxiety as freedom's symptom, despair as self-misrelation, the leap, indirect communication) that became the vocabulary of existentialism and existential psychology, and he modelled a religious writing that refuses institutional comfort. The label "father of existentialism" is retrospective; the SEP warns it "obscures at least as much as it reveals," since he understood himself as a Christian religious writer, not the founder of a movement whose later stars were often atheists.
+Kierkegaard restored the existing individual — choosing, anxious, despairing, believing — to the center of philosophy at the height of system-building. He invented or sharpened concepts (anxiety as freedom's symptom, despair as self-misrelation, the leap, indirect communication) that became the vocabulary of existentialism and existential psychology, and he modelled a religious writing that refuses institutional comfort. The label "father of existentialism" is retrospective; the [SEP](https://plato.stanford.edu/) warns it "obscures at least as much as it reveals," since he understood himself as a Christian religious writer, not the founder of a movement whose later stars were often atheists.
 
 ## Impact and legacy
 

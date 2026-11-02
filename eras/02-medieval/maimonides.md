@@ -62,7 +62,7 @@ Contemporaries objected that providence proportioned to intellect abandons ordin
 
 ## What to read first
 
-1. The SEP entry "Maimonides" for the map of positions and debates.
+1. The [SEP](https://plato.stanford.edu/) entry "Maimonides" for the map of positions and debates.
 2. *Guide* Part I, chapters 51–60 (attributes and negative theology), in the Pines translation with its introductions.
 3. *Guide* III.12 and III.17–18 for evil and providence; sample with a guide, not cover-to-cover cold.
 

@@ -64,7 +64,7 @@ Aristotle himself found a single material cause insufficient, since it cannot ex
 
 ## What to read first
 
-1. A secondary chapter on the Milesians first — the SEP or IEP entry on the Presocratics — to learn what is evidence and what is reconstruction.
+1. A secondary chapter on the Milesians first — the [SEP](https://plato.stanford.edu/) or [IEP](https://iep.utm.edu/) entry on the Presocratics — to learn what is evidence and what is reconstruction.
 2. Aristotle, *Metaphysics* Book 1 (983b–984a), the earliest substantial report on Thales, read while noticing Aristotle's own agenda.
 3. Herodotus, *Histories* 1.74–75 and 1.170, for the eclipse and political stories in their earliest surviving form.
 4. Then Anaximander: seeing what his successor changed is the quickest way to understand what Thales started.

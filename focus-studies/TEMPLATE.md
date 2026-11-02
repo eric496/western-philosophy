@@ -34,12 +34,12 @@ Reception by era (immediate, nineteenth century, twentieth, current), the school
 A complete, schedulable plan, sized to the figure (typically 4–8 weeks at the learning path's weekly rhythm; the dossier's README states the total hours honestly, including media and review time):
 - Week-by-week table: primary reading (work, sections, page targets in the named edition), the dossier files to read alongside, media assignments with episode/lecture identifiers (podcasts and courses already verified in the round-6 research where they exist; anything new must be verified before it is assigned).
 - Checkpoints per week: book-closed questions, with answers or pointers to the dossier section that answers them.
-- Reconstruction prompts at the learning path's cadence (+2 days / +1 week / +3 weeks, successive relearning) and the card routine: the dossier's `cards.tsv` enters the Anki FSRS queue as the figure's weeks begin.
+- Reconstruction prompts at the learning path's cadence (+2 days / +1 week / +3 weeks, successive relearning) and the card routine: the dossier's `cards.tsv` enters the [Anki](https://apps.ankiweb.net) [FSRS](https://docs.ankiweb.net/deck-options.html) queue as the figure's weeks begin.
 - One capstone essay (800–1,200 words) with 3–5 prompts that require the whole dossier, plus the stage gate-essay relationship if the figure is a learning-path core figure.
 - A closing mastery checklist: "You are done when you can…" — 8–12 can-do statements in the learning path's style.
 
 ### 08-bibliography.md (~1,000–1,500 words)
-Annotated, tiered: (1) primary texts and editions; (2) first secondary books to read, in order; (3) advanced and specialist literature; (4) reference — SEP/IEP articles with links, PhilPapers category pointers, relevant journals or companions (Cambridge Companions and the like) where they exist; (5) the media list with URLs (podcast series and episode ranges, lecture courses, audiobooks). Every annotation says what the item is for and what it costs in time or money where that is known.
+Annotated, tiered: (1) primary texts and editions; (2) first secondary books to read, in order; (3) advanced and specialist literature; (4) reference — [SEP](https://plato.stanford.edu/)/[IEP](https://iep.utm.edu/) articles with links, [PhilPapers](https://philpapers.org/) category pointers, relevant journals or companions (Cambridge Companions and the like) where they exist; (5) the media list with URLs (podcast series and episode ranges, lecture courses, audiobooks). Every annotation says what the item is for and what it costs in time or money where that is known.
 
 ### cards.tsv
 Figure-specific deck in the `study/cards/` format: exactly 3 tab-separated fields (Front, Back, Tags), argument cards built from `04-arguments.md` plus concept cards from `03-system-and-concepts.md`; tags `figure::<slug> type::argument|concept focus::<slug>`. Import and review follow `study/cards/README.md` (FSRS).

@@ -90,7 +90,7 @@ Modern debates cluster around the swerve (physics, free will, or both?), whether
 1. *Letter to Menoeceus* (about 10 pages) — the ethics in Epicurus' own summary.
 2. *Principal Doctrines* — read slowly; each maxim compresses an argument.
 3. Lucretius, *On the Nature of Things*, Books I–III — atoms, soul, and death at full length.
-4. A modern introduction (Stanford Encyclopedia of Philosophy, "Epicurus") for the swerve and pleasure debates.
+4. A modern introduction ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/), "Epicurus") for the swerve and pleasure debates.
 
 ## Study questions
 

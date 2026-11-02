@@ -66,7 +66,7 @@ The oldest criticism, sharpened by Aristotle and the pluralists, is that the arg
 
 ## What to read first
 
-1. A guided summary first (SEP/IEP on Parmenides) — the poem is compressed and archaic in translation.
+1. A guided summary first ([SEP](https://plato.stanford.edu/)/[IEP](https://iep.utm.edu/) on Parmenides) — the poem is compressed and archaic in translation.
 2. The Way of Truth fragments (B1–B8) with commentary, reading B8 twice: once for the conclusion, once sign by sign.
 3. Plato, *Sophist* 241d–259b, the great ancient reply on non-being.
 4. Zeno's paradoxes next: they show what defending Parmenides forced philosophy to invent.

@@ -35,7 +35,7 @@ Study tip (repo): for each figure learn (a) the one problem they're obsessed wit
 Locke Essay 1689 vs 1690 convention. Leibniz composition vs publication gaps decades. Hume Treatise 1739–40 (Books I–II 1739, III 1740). Spinoza Ethics, Hume Dialogues, Pascal Pensées all posthumous — mark in repo (explains reception).
 
 ## Sources
-SEP entries for Descartes (+life/works), Spinoza, Leibniz, Locke, Berkeley, Hume, Kant, Pascal, Fideism (Wager nuance). Hobbes/Rousseau dates/works cross-checked Britannica-standard data.
+[SEP](https://plato.stanford.edu/) entries for Descartes (+life/works), Spinoza, Leibniz, Locke, Berkeley, Hume, Kant, Pascal, Fideism (Wager nuance). Hobbes/Rousseau dates/works cross-checked [Britannica](https://www.britannica.com/)-standard data.
 
 ## Philosopher entries in this era
 

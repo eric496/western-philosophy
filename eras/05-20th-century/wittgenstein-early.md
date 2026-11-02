@@ -99,7 +99,7 @@ In Britain, Ramsey helped transmit Wittgenstein's ideas, and the *Tractatus* set
 
 ## What to read first
 
-1. **A short guide, alongside, not after.** A concise commentary such as Michael Morris, *Wittgenstein and the "Tractatus"*, or the Stanford Encyclopedia of Philosophy article, to orient you.
+1. **A short guide, alongside, not after.** A concise commentary such as Michael Morris, *Wittgenstein and the "Tractatus"*, or the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) article, to orient you.
 2. **The *Tractatus* itself, slowly, in the Pears–McGuinness translation** — a few numbered remarks at a time, with the guide open. Propositions 1–4 first; then 5–7 once the picture theory is in hand.
 3. **The *Notebooks 1914–1916*, selections** — to see war, ethics, and logic growing together.
 4. **Then the Ficker letter and propositions 6.54–7 again** — and decide for yourself between the traditional and resolute readings before moving to the late work.

@@ -69,7 +69,7 @@ The unity-of-intellect doctrine is the eternal flashpoint: Aquinas argued it mak
 
 1. *Decisive Treatise* (short and lucid; Charles Butterworth's translation) — a judge ruling that philosophy is legally required.
 2. A chunk of the *Long Commentary on the De Anima*, Book III, alongside the Aristotle passage it glosses, for the unity of intellect in the original.
-3. The SEP entry "Ibn Rushd" for orientation before the secondary debates.
+3. The [SEP](https://plato.stanford.edu/) entry "Ibn Rushd" for orientation before the secondary debates.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
