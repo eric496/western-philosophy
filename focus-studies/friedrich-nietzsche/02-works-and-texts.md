@@ -69,7 +69,7 @@ A third rule of the path's, worth restating: **do not start with *Zarathustra*.*
 
 ### Also on the shelf
 
-The four **Untimely Meditations** (1873–76) — against David Strauss, on history's use and abuse, and the two portraits, *Schopenhauer as Educator* and *Richard Wagner in Bayreuth* — are not assigned whole; the dossier reads the third, *Schopenhauer as Educator*, alongside the Schopenhauer dossier, where it belongs. **"On Truth and Lying in an Extra-Moral Sense"** (1873) requires its label every time it appears in this dossier: it is an essay Nietzsche wrote in 1873 and *never published in his lifetime* (first printed posthumously). Its famous definition of truth as "a mobile host of metaphors" is real Nietzsche, but it is a twenty-nine-year-old's notebook-adjacent essay, not a doctrine of the mature books, and it must never be cited without that label.
+The four **Untimely Meditations** (1873–76) — against David Strauss, on history's use and abuse, and the two portraits, *Schopenhauer as Educator* and *Richard Wagner in Bayreuth* — are not assigned whole; the dossier reads the third, *Schopenhauer as Educator*, alongside the Schopenhauer dossier, where it belongs. **"On Truth and Lying in an Extra-Moral Sense"** (1873) requires its label every time it appears in this dossier: it is an essay Nietzsche wrote in 1873 and *never published himself* (first printed in 1896, after his collapse). Its famous definition of truth as "a mobile host of metaphors" is real Nietzsche, but it is a twenty-eight-year-old's notebook-adjacent essay, not a doctrine of the mature books, and it must never be cited without that label.
 
 ## The *Nachlass* problem — a standing caution
 

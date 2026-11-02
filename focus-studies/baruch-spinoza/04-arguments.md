@@ -51,7 +51,7 @@ Therefore, things could have been produced by God in no other manner and in no o
 5. A perfect being, lacking nothing, cannot act in order to obtain something it lacks; a God who acts for ends would be a God in want (and the ends alleged are always, tellingly, human ends).
 Therefore, all final causes are nothing but human fictions; nature has no end set before it, and every doctrine built on providence, desert, and cosmic reward or punishment is imagination, not knowledge.
 
-**Textual basis.** *Ethics* I, Appendix (with E1P17 corollaries and E1P36's appendix on Nature's fixed and immutable order).
+**Textual basis.** *Ethics* I, Appendix (with E1P17's corollaries and E1P29–P33 on the necessity of Nature's order).
 
 **Objection.** The standing objection is that the argument proves too much — against Spinoza himself. Organisms look designed: hearts are *for* pumping, and biology still finds purposive language indispensable. Worse, Spinoza's own conatus (Argument 6) describes every thing as *striving* toward its preservation — an apparently teleological notion at the center of his physics and ethics. If striving is real, final causation is real in at least one case; if it is a metaphor, Part III's foundations are metaphorical. A second objection presses premise 5: classical theists from Aquinas onward deny that a perfect being's acting for ends implies deficiency — God acts for the diffusion of goodness, not from need — so the argument defeats only a crude, needy God.
 

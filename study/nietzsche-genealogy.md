@@ -3,6 +3,7 @@
 **Work:** *On the Genealogy of Morals* (1887) · **Author:** Friedrich Nietzsche (1844–1900) · **Composed:** 1887
 **Covers:** The Preface and all three essays in full — with a reading plan, essay-by-essay guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Friedrich Nietzsche](../eras/04-19th-century/friedrich-nietzsche.md) · **Study plan:** [Learning Path](../learning-path.md)
+**Focus study:** This guide is the Week 4 companion of the [Nietzsche focus-study dossier](../focus-studies/friedrich-nietzsche/README.md), whose eight-week plan builds the whole arc around the *Genealogy* — the *Birth of Tragedy*, the free-spirit books, *Beyond Good and Evil*, *The Gay Science*, and the 1888 writings.
 
 ## Edition note
 

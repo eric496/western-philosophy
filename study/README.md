@@ -22,6 +22,9 @@ Work-level guides to read alongside the primary text, not instead of it. Each gu
 | Sartre, *Existentialism Is a Humanism* (1946) + *Being and Nothingness* selections | [sartre-existentialism.md](sartre-existentialism.md) | [Sartre](../eras/05-20th-century/jean-paul-sartre.md), learning path Stage 5 |
 | Foucault, *Discipline and Punish* (1975; Part Three in full + opening and close) | [foucault-discipline.md](foucault-discipline.md) | [Foucault](../eras/05-20th-century/michel-foucault.md), learning path Stage 5 |
 | MacIntyre, *After Virtue* (1981; 3rd ed. 2007, read whole) | [macintyre-after-virtue.md](macintyre-after-virtue.md) | [MacIntyre](../eras/05-20th-century/alasdair-macintyre.md), learning path Stage 5 |
+| Locke, *An Essay Concerning Human Understanding* (learning-path selections: Book II with II.xxi and II.xxvii in depth; Books I, III, IV in outline) | [locke-essay.md](locke-essay.md) | [Locke](../eras/03-early-modern/john-locke.md), learning path Stage 3 |
+| Rousseau, *The Social Contract* (1762, all four books) | [rousseau-social-contract.md](rousseau-social-contract.md) | [Rousseau](../eras/03-early-modern/jean-jacques-rousseau.md), learning path Stage 3 |
+| Kierkegaard, *Fear and Trembling* (1843, whole) | [kierkegaard-fear-and-trembling.md](kierkegaard-fear-and-trembling.md) | [Kierkegaard](../eras/04-19th-century/soren-kierkegaard.md), learning path Stage 4 |
 
 ## Worked answer keys
 

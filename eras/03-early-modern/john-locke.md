@@ -135,6 +135,8 @@ Berkeley argued the primary/secondary distinction collapses — extension and fi
 3. *Essay* II.27 — personal identity, his most influential single chapter.
 4. *Second Treatise*, chapters II, V, VII–IX — state of nature, property, and political power.
 
+**Study guide:** [*Essay Concerning Human Understanding* — section-by-section guide to the learning-path selections (Book II, with II.xxi and II.xxvii, in depth; Books I, III, IV in outline) with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/locke-essay.md).
+
 ## Study questions
 
 1. Reconstruct Locke's primary/secondary quality distinction using the water that feels warm to one hand and cold to the other: which qualities resemble features of the object, and which are merely powers to produce ideas in us?
