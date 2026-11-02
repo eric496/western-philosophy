@@ -11,7 +11,7 @@
 
 **Responds to:** [Socrates](socrates.md), [Heraclitus](heraclitus-of-ephesus.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Aristotle](aristotle.md), [Plotinus](plotinus.md), [Augustine](../02-medieval/augustine-of-hippo.md)
 
-**Focus study:** [Plato dossier](../../focus-studies/plato/README.md) — a full deep dive beyond this entry: the dialogues in the dossier's reading order, eleven argument reconstructions from the Euthyphro dilemma to the *Sophist* on falsehood, the Socratic problem and the unwritten-doctrines debate kept open, a six-week study plan, and a card deck.
+**Focus study:** [Plato dossier](../../focus-studies/plato/README.md) — a full deep dive beyond this entry: the dialogues in the dossier's reading order, eleven argument reconstructions from the Euthyphro dilemma to the *Sophist* on falsehood, the Socratic problem and the unwritten-doctrines debate kept open, a six-week study plan, a card deck, and a narrated audio companion.
 
 ## Biography
 
