@@ -1,0 +1,43 @@
+# Bibliography — Friedrich Nietzsche
+
+Annotated and tiered: read downward only as far as your questions require. Prices are the usual paperback ranges; the primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's pace.
+
+## 1. Primary texts — the editions the plan uses
+
+**Walter Kaufmann's Vintage translations (the dossier default).** *On the Genealogy of Morals* (with R. J. Hollingdale, Vintage), *Beyond Good and Evil* (Vintage), *The Gay Science* (Vintage), and the Kaufmann-edited *Basic Writings of Nietzsche* and *The Portable Nietzsche* (the latter is the convenient source for *Twilight of the Idols* and *The Antichrist* whole). Kaufmann's renderings set the modern Anglophone Nietzsche: readable, section-numbered, and annotated by a scholar you will meet again in tier 2 — which is a virtue and a caution, since the translator and the rehabilitator are the same man (see [06-reception-and-debates.md](06-reception-and-debates.md) on the gentrification debate).
+
+**The sanctioned alternatives for the *Genealogy*.** Carol Diethe's translation, edited by Keith Ansell-Pearson (Cambridge Texts in the History of Political Thought), and Maudemarie Clark & Alan J. Swensen (Hackett). Either may replace Kaufmann & Hollingdale outright; the plan's citations are by essay and section and survive the swap. For *Beyond Good and Evil*, Judith Norman's Cambridge translation is the approved alternative to Kaufmann. For *Zarathustra*, Kaufmann (in the *Portable*) remains the working text for a selections pass.
+
+**The critical edition, and the *Nachlass* rule.** The *Sämtliche Werke: Kritische Studienausgabe* (KSA), edited by Giorgio Colli and Mazzino Montinari (15 vols., de Gruyter), is the scholarly standard: it prints the notebooks chronologically and thereby dissolved the book called *The Will to Power* — Elisabeth Förster-Nietzsche's posthumous construction (1901; expanded 1906), presented as his masterwork and never a book Nietzsche wrote or planned in that form. You will not buy the KSA; you need to know it exists, because every claim in this dossier that rests on notebook material is flagged *Nachlass* and weighed accordingly. **Never Thomas Common's translations** — dated, unreliable, and the source of half the bad Nietzsche in circulation.
+
+## 2. First secondary books, in order
+
+1. **Walter Kaufmann, *Nietzsche: Philosopher, Psychologist, Antichrist* (1950).** The book that recovered Nietzsche from the Nazi image for the English-speaking world — humane, learned, and the origin of the modern reading. Read it *with* [06-reception-and-debates.md](06-reception-and-debates.md)'s gentrification debate open beside you: Kaufmann's gentler Nietzsche is a reading, not a fact, and the anti-egalitarian harshness he softens is on the published page. Read it after your first pass at the *Genealogy* (the learning path's companion rule), as Week 7–8 material.
+2. **Alexander Nehamas, *Nietzsche: Life as Literature* (1985).** The literary-philosophical reading at its best: perspectivism, style, and the self as a created work. The necessary counterweight to Kaufmann's humanist and to Leiter's naturalist alike — Week 8's third position.
+3. **Brian Leiter, *Nietzsche on Morality* (2002; 2nd ed. 2015).** The naturalist reading and the best single route into current scholarship: drives and type-facts, a rigorous *Genealogy*, and the SEP author's own research program. Selections are Week 7's sanctioned filler; the whole book is the dossier's recommended next step after the capstone.
+
+## 3. Biography
+
+**Rüdiger Safranski, *Nietzsche: A Philosophical Biography* (trans. Shelley Frisch)** — the standard one-volume life-with-thought, reliable on the record the dossier's [01-life-and-times.md](01-life-and-times.md) hedges (the Turin collapse, the Salomé affair, the sister). **Sue Prideaux, *I Am Dynamite! A Life of Nietzsche* (2018)** — the readable alternative, labeled as such: narrative, vivid, and prize-winning, where Safranski is analytic; choose it if the life is your door, then check its set pieces against 01's hedges. **Curt Paul Janz, *Friedrich Nietzsche: Biographie* (3 vols., 1978–79)** — the monumental German life; reference only, named so you know what the footnotes of everything else rest on.
+
+## 4. The wider shelf
+
+**Gilles Deleuze, *Nietzsche and Philosophy* (1962)** — the founding text of the French line: forces, affirmation, the eternal return as selective ontology. Short, difficult, and the correct second Nietzsche after Leiter. **Martin Heidegger's *Nietzsche* lectures (1936–40; published 1961)** — named as an *event* in the reception, not assigned: Nietzsche as the last metaphysician of the West is Heidegger's construction, to be studied later as philosophy in its own right. **Lou Salomé, *Friedrich Nietzsche in seinen Werken* (1894)** — the first book on Nietzsche, by the woman at the center of the 1882 crisis; of historical interest, and read with the obvious caution about its intimacy. **J. P. Stern, *Friedrich Nietzsche* (Fontana Modern Masters, 1979)** — brief, severe, and the companion the learning path names ("Magee/Stern"); pairs with the Week 2 television conversation. Add **Ken Gemes & John Richardson (eds.), *The Oxford Handbook of Nietzsche* (2013)** when a single debate (recurrence, will to power, the eternal return's status) needs the current state of the question in one volume.
+
+## 5. Reference
+
+- **SEP, "Nietzsche"** — by Brian Leiter; the current scholarly map of every dispute this dossier flags. https://plato.stanford.edu/entries/nietzsche/
+- **IEP, "Nietzsche, Friedrich"** — the plainer first pass, per the learning path's IEP-before rule. https://iep.utm.edu/nietzsch/ — with two topical companions worth the detour: "Nietzsche's Ethics" (https://iep.utm.edu/nietzsches-ethics/) and "Nietzsche: Philosophical Psychology," on the drive theory behind Week 3 and Week 5 (https://iep.utm.edu/nietzsche-philosophical-psychology/).
+- **PhilPapers** — the "Friedrich Nietzsche" category and its subcategories (Genealogy, will to power, eternal recurrence) are the working bibliography of the live literature; use them after Leiter, not before.
+
+## 6. Media (all verified; the assignments are in [07-study-plan.md](07-study-plan.md))
+
+- ***Philosophize This!* (Stephen West)** — the four-part Nietzsche run: #090 "Nietzsche Pt. 1 — God is Dead And So Is Captain Morgan," #091 "Pt. 2 — The Will to Power," #092 "Pt. 3 — Thus Spoke Zarathustra," #093 "Pt. 4 — Love" (2016); plus the later pair #158 "The Creation of Meaning — Nietzsche — The Ascetic Ideal" and #159 "… — Amor Fati" (2021). Free; ~30 min each. Popularizer's compression throughout — orientation and review, never evidence; #091 is heard under the dossier's *Nachlass* caution. https://www.philosophizethis.org/podcast
+- **BBC Radio 4, *In Our Time*: "Nietzsche's Genealogy of Morality"** (first broadcast 12 January 2017; Melvyn Bragg with Stephen Mulhall, Fiona Hughes, and Keith Ansell-Pearson; ~45 min). Free on BBC Sounds. The one broadcast that is about exactly the plan's central book, with one of your edition's editors on the panel.
+- ***The Great Philosophers* (BBC, 1987), episode 11: Nietzsche** — Bryan Magee with J. P. Stern (~45 min). Circulates on YouTube; the dialogue is also in the series' book. The path's "Magee/Stern" companion in its original form.
+- ***The Partially Examined Life*, episode 11: "Nietzsche's Immoralism: What Is Ethics, Anyway?"** (2009; ~1 hr 50 min) — the *Genealogy*'s first two essays with *Beyond Good and Evil* chapters 1, 5, and 9, argued over at seminar length. (PEL returned to the *Genealogy*'s Third Essay in later episodes, filed under their Nietzsche tag.) https://partiallyexaminedlife.com/2009/11/10/episode-11-nietzsches-immoralism-what-is-ethics-anyway/
+- **Gregory B. Sadler, *Genealogy of Morals* Core Concepts videos** (YouTube, "Gregory B. Sadler — That Philosophy Guy") — short lectures on single concepts; the plan assigns only the bounded First/Second Essay set (the original valuation good vs. bad; the slave revolt; the meanings of punishment). His full class-session series on the book exists on the same channel and is deliberately not assigned.
+- **One absence, recorded:** *History of Philosophy Without Any Gaps* has not reached the nineteenth century — its main series is still in the early modern period — so, exactly as with Schopenhauer, no Adamson episodes exist to assign. When the series arrives at Nietzsche (years away at its pace), this list should be revised, not improvised around.
+
+---
+[Dossier home](README.md) · [Library entry](../../eras/04-19th-century/friedrich-nietzsche.md) · [Focus studies](../README.md)
