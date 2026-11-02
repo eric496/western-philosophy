@@ -28,6 +28,19 @@ The early/late split is a scholarly framing, not Wittgenstein's own title for an
 
 The library's [learning path](../../learning-path.md) meets Wittgenstein twice in **Stage 5** (the analytic stage): early in the stage, the *Tractatus* in selections (§§1–4, 6–7) at core level, and later, the *Philosophical Investigations* in selections (§§1–38, 89–133, 243–311) at core level — separated, deliberately, by the logical positivists the later book argues against. This dossier takes the path's two separated assignments and builds the full bridge between and around them: the *Tractatus* read whole, the transitional writings and the *Blue Book* as the documented record of the turn, and the *Investigations* selections deepened with the rule-following sections and aspect-seeing, closing with *On Certainty*. [07-study-plan.md](07-study-plan.md) lays out a **7-week plan of roughly 40 hours of scheduled study (roughly 45 hours all-in once the daily card queue is counted)** — run at the learning path's weekly rhythm: primary reading first, reconstruction before commentary, the daily FSRS queue fed by the dossier's cards, and the plan document shows the arithmetic week by week. Because the path's two Wittgenstein rows are already sequenced around other Stage 5 material, the dossier can be run either as a single block after both rows are complete or split at its midpoint to sit where the path puts each book; the plan document marks the split point. Its capstone essay is designed to do the stage gate essay's work. The hours sit on top of the Stage 5 budget, as focus-study hours always do.
 
+## Audio companion
+
+This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/ludwig-wittgenstein/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v2) (tag `focus-audio-v2`), linked in the table — about **2 hours 48 minutes** in total:
+
+| Episode | File | Duration |
+|---|---|---|
+| Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-01-life-and-times.mp3) | 19 min |
+| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-03-system-and-concepts.mp3) | 44 min |
+| Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-04-arguments.mp3) | 62 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-05-conversations.mp3) | 22 min |
+| Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-06-reception-and-debates.mp3) | 21 min |
+
+The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally — "section 258" and "Tractatus 6.54," not raw citation strings). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
 ## Start here
 
 - The quick portraits: the library entries, [Wittgenstein, Early](../../eras/05-20th-century/wittgenstein-early.md) and [Wittgenstein, Late](../../eras/05-20th-century/wittgenstein-late.md).
