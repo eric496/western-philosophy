@@ -3,6 +3,7 @@
 **Work:** *Critique of Pure Reason* (*Kritik der reinen Vernunft*) · **Author:** Immanuel Kant (1724–1804) · **Composed:** 1781 (A edition); substantially revised 1787 (B edition)
 **Covers:** The selections prescribed by the learning path — both Prefaces, the Introduction, the Transcendental Aesthetic, the Analytic of Concepts with the Transcendental Deduction in outline, the Schematism in brief, the Paralogisms and Antinomies in selection, and the Canon of Pure Reason — with a reading plan, an explicit skip list, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Immanuel Kant](../eras/03-early-modern/immanuel-kant.md) · **Study plan:** [Learning Path](../learning-path.md)
+**Focus study:** This guide is the session companion for Weeks 2–4 of the [Kant focus-study dossier](../focus-studies/immanuel-kant/README.md), whose eight-week plan works the *Groundwork* whole, the *Prolegomena*, the second *Critique* and *Perpetual Peace* around these *Critique* selections.
 
 ## Edition note
 

@@ -104,6 +104,8 @@ In Britain, Ramsey helped transmit Wittgenstein's ideas, and the *Tractatus* set
 3. **The *Notebooks 1914–1916*, selections** — to see war, ethics, and logic growing together.
 4. **Then the Ficker letter and propositions 6.54–7 again** — and decide for yourself between the traditional and resolute readings before moving to the late work.
 
+**Focus study:** [Ludwig Wittgenstein dossier](../../focus-studies/ludwig-wittgenstein/README.md) — a full deep dive beyond both Wittgenstein entries: the *Tractatus* whole and the *Investigations* in depth, twelve argument reconstructions, a seven-week study plan, a card deck, and a narrated audio companion.
+
 ## Study questions
 
 1. Using "The cat is on the mat," reconstruct the picture theory: what corresponds to what, what does the proposition share with the fact, and why is bipolarity — being capable of truth and of falsity — the mark of a genuine factual proposition?

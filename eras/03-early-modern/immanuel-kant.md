@@ -145,6 +145,7 @@ Early critics objected that the thing in itself is incoherent: Kant says it affe
 
 **Study guide:** [*Groundwork* — section-by-section guide with argument reconstructions, checkpoint questions and answers, common misreadings, and how to approach the *Critique of Pure Reason*](../../study/kant-groundwork.md).
 **Study guide:** [*Critique of Pure Reason* — a selections approach: what to read, what to skip on a first pass, and why](../../study/kant-critique.md).
+**Focus study:** [Immanuel Kant dossier](../../focus-studies/immanuel-kant/README.md) — a full deep dive beyond this entry: the critical system and its concepts, twelve argument reconstructions, the censorship clash and the reception from Reinhold to Rawls, an eight-week study plan, a card deck, and a narrated audio companion.
 
 ## Study questions
 
