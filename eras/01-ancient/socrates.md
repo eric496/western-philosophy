@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Socrates](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg)
+
+*Marble head of Socrates in the Louvre — a 1st-century Roman marble copy of a lost bronze head by Lysippus; a posthumous portrait type, not an authentic likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 470 – 399 BCE (conventional dates)

@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Anselm of Canterbury](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Anselm_of_Canterbury%2C_seal.svg/250px-Anselm_of_Canterbury%2C_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Anselm as depicted on his own archiepiscopal seal (infobox caption: "Anselm depicted on his seal") — a stylized medieval seal image, not a true likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1033 – 1109

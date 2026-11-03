@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Friedrich Nietzsche](https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg)
+
+*Photograph of Nietzsche in Basel, c. 1875 (article caption: "Nietzsche, c. 1875") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1844–1900

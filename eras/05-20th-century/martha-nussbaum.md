@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Martha Nussbaum](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Martha_Nussbaum_2010_%28cropped%29.jpg/250px-Martha_Nussbaum_2010_%28cropped%29.jpg)
+
+*Photograph captioned "Nussbaum in 2010" (cropped), by Sally Ryan, CC BY-SA 3.0. URL recovered via a search snippet of the article after the direct article crawl dropped all image URLs. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** b. 1947

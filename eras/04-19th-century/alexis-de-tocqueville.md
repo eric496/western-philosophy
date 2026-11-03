@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Alexis de Tocqueville](https://upload.wikimedia.org/wikipedia/commons/a/aa/Alexis_de_tocqueville.jpg)
+
+*Oil portrait by Théodore Chassériau, 1850 (Palace of Versailles; article caption: "Portrait of Alexis de Tocqueville by Théodore Chassériau, 1850") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1805–1859

@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Leo Strauss](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Leo_Strauss_USA_1939.jpg/250px-Leo_Strauss_USA_1939.jpg)
+
+*Photograph captioned "Strauss in 1939" (taken in the USA). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1899–1973

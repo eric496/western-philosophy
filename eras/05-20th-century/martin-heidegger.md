@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Martin Heidegger](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Freiburg%2C_Z%C3%A4hringen-_Jahnhalle%2C_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_%28cropped%29.jpeg/250px-Freiburg%2C_Z%C3%A4hringen-_Jahnhalle%2C_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_%28cropped%29.jpeg)
+
+*Photograph of Heidegger mid-lecture at Freiburg, 1954 (Staatsarchiv Freiburg / Landesarchiv Baden-Württemberg), cropped. Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1889–1976
 - **Place:** Born in Meßkirch, Germany, and based mainly at Freiburg

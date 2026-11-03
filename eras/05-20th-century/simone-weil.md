@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Simone Weil](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Simone_Weil_1943.jpg/250px-Simone_Weil_1943.jpg)
+
+*Photograph captioned "Weil in 1943". Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1909–1943

@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of John Stuart Mill](https://upload.wikimedia.org/wikipedia/commons/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
+
+*Photograph by the London Stereoscopic Company, c. 1870 (article caption: "Mill in c. 1870") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1806–1873

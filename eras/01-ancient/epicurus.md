@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Epicurus](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/250px-Epikouros_BM_1843.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail)
+
+*Roman marble bust of Epicurus (article caption) — an ancient Roman bust of the traditional type, not a verified portrait from life. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 341–270 BCE

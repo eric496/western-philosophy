@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Thomas Kuhn](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Thomas_Kuhn_%281977%29_%28cropped%29.jpg/250px-Thomas_Kuhn_%281977%29_%28cropped%29.jpg)
+
+*Photograph captioned "Kuhn in 1977" (cropped). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1922–1996

@@ -2,6 +2,14 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Protagoras](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ribera_-_Protagoras%2C_1637.jpg/250px-Ribera_-_Protagoras%2C_1637.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail)
+
+*"Protagoras" by Jusepe de Ribera, 1637 (infobox caption) — a 17th-century imagined painting, some 2,000 years after his life; no authentic likeness exists. Image via Wikimedia Commons.*
+
+![Portrait of Gorgias](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Gorgia_di_Leontini.png/250px-Gorgia_di_Leontini.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail)
+
+*Infobox portrait of Gorgias of Leontini, the Sophist rhetorician (not Plato's dialogue); no caption in the retrieved article text, so the exact medium is unconfirmed. No authentic likeness exists; a later/traditional depiction. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Protagoras c. 490 – c. 420 BCE; Gorgias c. 483 – c. 375 BCE (conventional)

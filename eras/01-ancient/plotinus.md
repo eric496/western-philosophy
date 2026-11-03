@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Plotinus](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Plotinos.jpg/250px-Plotinos.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail)
+
+*Head in white marble; the identification as Plotinus is plausible but not proven (infobox caption) — no proven authentic likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 204/5–270 CE

@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Iris Murdoch](https://thumb.wikimedia.org/wikipedia/en/thumb/c/cb/Iris_Murdoch.png/250px-Iris_Murdoch.png)
+
+*Portrait photograph (infobox image; the article shows no caption for it). Image via Wikipedia.*
+
 ## At a glance
 
 - **Dates:** 1919–1999

@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Philippa Foot](https://upload.wikimedia.org/wikipedia/en/0/03/PhilippaFoot1939.jpg)
+
+*Photograph; article caption "Foot in 1939". Image via Wikipedia.*
+
 ## At a glance
 
 - **Dates:** G. E. M. (Elizabeth) Anscombe (1919–2001) and Philippa Foot (1920–2010)

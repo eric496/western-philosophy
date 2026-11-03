@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of John Dewey](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/John_Dewey_cph.3a51565.jpg/250px-John_Dewey_cph.3a51565.jpg)
+
+*Bust portrait photograph by Underwood & Underwood, Dewey facing slightly left (Library of Congress, cph.3a51565); article caption "Portrait by Underwood & Underwood" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1859–1952

@@ -2,6 +2,14 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Theodor W. Adorno](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Theodor_W._Adorno.jpg/250px-Theodor_W._Adorno.jpg)
+
+*Photograph; article caption "Adorno in 1964" — Image via Wikimedia Commons.*
+
+![Portrait of Max Horkheimer](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Max_Horkheimer.jpg/250px-Max_Horkheimer.jpg)
+
+*Photograph; article caption "Horkheimer in 1964" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Institute founded 1923 in Frankfurt; first generation active 1930s–1970s

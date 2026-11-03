@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Henri Bergson](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Henri_Bergson_02.jpg/250px-Henri_Bergson_02.jpg)
+
+*Photograph; article caption "Bergson in 1927" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1859–1941.

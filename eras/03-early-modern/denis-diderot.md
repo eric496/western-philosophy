@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Denis Diderot](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg/250px-Denis_Diderot_by_Louis-Michel_van_Loo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Portrait of Denis Diderot by Louis-Michel van Loo, 1767. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1713–1784

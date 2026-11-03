@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Auguste Comte](https://upload.wikimedia.org/wikipedia/commons/b/b3/Auguste_Comte.jpg)
+
+*Portrait of Auguste Comte, 1849 (article caption: "Comte in 1849"; no artist given) — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1798–1857 (full name: Isidore-Auguste-Marie-François-Xavier Comte)

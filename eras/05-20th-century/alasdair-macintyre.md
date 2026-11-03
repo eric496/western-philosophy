@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Alasdair MacIntyre](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Alasdair_MacIntyre.jpg/250px-Alasdair_MacIntyre.jpg)
+
+*Black-and-white profile photograph, MacIntyre facing left, holding glasses; article caption "MacIntyre in 2009" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1929–2025.

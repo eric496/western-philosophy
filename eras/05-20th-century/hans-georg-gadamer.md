@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Hans-Georg Gadamer](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Hans-Georg_Gadamer.jpg/250px-Hans-Georg_Gadamer.jpg)
+
+*Photograph; article caption "Hans-Georg Gadamer, c. 2000" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1900–2002.

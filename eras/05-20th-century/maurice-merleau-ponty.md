@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Maurice Merleau-Ponty](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Maurice_Merleau-Ponty.jpg/250px-Maurice_Merleau-Ponty.jpg)
+
+*Infobox portrait photograph; the article gives no caption or date for it. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Maurice Merleau-Ponty, 1908–1961.

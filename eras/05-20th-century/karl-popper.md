@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Karl Popper](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Karl_Popper.jpg/250px-Karl_Popper.jpg)
+
+*Portrait photograph captioned "Popper in the 1980s". Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1902–1994

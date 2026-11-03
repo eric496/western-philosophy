@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of F. W. J. Schelling](https://upload.wikimedia.org/wikipedia/commons/e/ee/Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg)
+
+*Oil portrait by Joseph Karl Stieler, 1835 (Neue Pinakothek, Munich; article caption: "Schelling as depicted in 1835") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1775–1854

@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Augustine of Hippo](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/250px-Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*"Saint Augustin" by Philippe de Champaigne, c. 1645 — a 17th-century Baroque painting of Augustine in bishop's dress, painted over 1,200 years after his death; an imagined likeness, not contemporary. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 354 – 430 CE

@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Averroes (Ibn Rushd)](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg/250px-Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Detail of Averroes from Andrea di Bonaiuto's fresco of the Triumph of St Thomas Aquinas in the Spanish Chapel, Basilica of Santa Maria Novella, Florence, c. 1366 (infobox caption: "Portrait in the Basilica of Santa Maria… Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1126 – 1198

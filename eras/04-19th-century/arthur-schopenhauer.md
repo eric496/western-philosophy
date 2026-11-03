@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Arthur Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+
+*Photograph by Johann Schäfer, 1859 (article infobox caption: "Schopenhauer in 1859") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1788–1860

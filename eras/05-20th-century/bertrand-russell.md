@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Bertrand Russell](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Bertrand_Russell_in_1936.jpg/250px-Bertrand_Russell_in_1936.jpg)
+
+*Photograph; article caption "Russell in 1936" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Bertrand Arthur William Russell, 1872–1970 — a life spanning Victorian Britain to the nuclear age.

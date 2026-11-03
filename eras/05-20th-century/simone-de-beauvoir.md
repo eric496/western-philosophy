@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Simone de Beauvoir](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/250px-Simone_De_Beauvoir_%28cropped%29.jpg)
+
+*Photograph captioned "Beauvoir in 1967" (cropped). Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1908–1986
 - **Place:** Paris, France
