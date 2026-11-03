@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Gottlob Frege](https://upload.wikimedia.org/wikipedia/commons/2/26/Young_frege.jpg)
+
+*Gottlob Frege as a young man, c. 1879. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Friedrich Ludwig Gottlob Frege, 1848–1925.

@@ -2,6 +2,8 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+*Portrait: none included — no freely licensed portrait of Emmanuel Levinas is publicly available (his English Wikipedia article carries no image at all). If one surfaces, it belongs here, where every other entry carries its portrait.*
+
 ## At a glance
 
 - **Dates:** Emmanuel Levinas, 1906–1995.

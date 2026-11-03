@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Karl Jaspers](https://upload.wikimedia.org/wikipedia/commons/7/70/Karl_Jaspers_1946.jpg)
+
+*Photograph of Karl Jaspers, 1946. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1883–1969

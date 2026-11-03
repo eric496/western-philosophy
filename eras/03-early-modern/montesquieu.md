@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Montesquieu](https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg)
+
+*Profile portrait of Montesquieu by an anonymous artist, c. 1753–1794. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1689–1755

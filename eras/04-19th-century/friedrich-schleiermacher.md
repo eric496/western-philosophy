@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Friedrich Schleiermacher](https://upload.wikimedia.org/wikipedia/commons/5/5f/Portret_van_Friedrich_Ernst_Daniel_Schleiermacher_%28cropped%29.jpg)
+
+*Engraved portrait of Friedrich Schleiermacher — his standard likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1768–1834

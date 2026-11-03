@@ -6,6 +6,10 @@
 
 *Photograph; article caption "Foot in 1939". Image via Wikipedia.*
 
+![Portrait of Elizabeth Anscombe](https://upload.wikimedia.org/wikipedia/en/6/60/Gertrude_Elizabeth_Margaret_Anscombe.jpg)
+
+*Photograph of Elizabeth Anscombe by Mary Gustafson, 1979. Image via Wikipedia.*
+
 ## At a glance
 
 - **Dates:** G. E. M. (Elizabeth) Anscombe (1919–2001) and Philippa Foot (1920–2010)

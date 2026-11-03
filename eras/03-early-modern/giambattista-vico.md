@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Giambattista Vico](https://upload.wikimedia.org/wikipedia/commons/1/1e/GiambattistaVico.jpg)
+
+*Portrait of Giambattista Vico, oil on canvas, 18th century, attributed to Francesco Solimena. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1668–1744

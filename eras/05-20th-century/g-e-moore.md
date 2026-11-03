@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of G. E. Moore](https://upload.wikimedia.org/wikipedia/commons/5/52/1914_George_Edward_Moore_%28cropped%29.jpg)
+
+*Photograph of G. E. Moore by Ray Strachey, 1914. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** George Edward Moore, 1873–1958.

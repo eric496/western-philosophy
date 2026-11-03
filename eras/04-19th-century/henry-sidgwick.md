@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Henry Sidgwick](https://upload.wikimedia.org/wikipedia/commons/5/57/Portrait_of_Henry_Sidgwick.jpg)
+
+*Photograph of Henry Sidgwick by Elliott & Fry, before 1900. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1838–1900

@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Gotthold Ephraim Lessing](https://upload.wikimedia.org/wikipedia/commons/c/cd/Gotthold_Ephraim_Lessing.PNG)
+
+*Portrait of Gotthold Ephraim Lessing by Anna Rosina Lisiewska, 1767/1768, painted during his Hamburg dramaturg years. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1729–1781

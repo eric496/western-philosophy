@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Moritz Schlick](https://upload.wikimedia.org/wikipedia/commons/a/a5/Schlick_sitting.jpg)
+
+*Moritz Schlick, founder of the Vienna Circle, c. 1930. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** A movement, not a person — active in Vienna from the mid-1920s until its dispersal in the late 1930s; its influence runs through the rest of the twentieth century.
