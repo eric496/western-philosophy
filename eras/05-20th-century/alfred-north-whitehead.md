@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Alfred North Whitehead](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/ANWhitehead.jpg/250px-ANWhitehead.jpg)
+
+*Portrait photograph; article caption "Whitehead, c. 1924" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1861–1947

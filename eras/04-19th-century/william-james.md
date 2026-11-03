@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of William James](https://upload.wikimedia.org/wikipedia/commons/9/9c/William_James_b1842c.jpg)
+
+*Photograph by Notman Studios, 1903 (article caption: "James in 1903"; Houghton Library, Harvard University, MS Am 1092 (1185)) — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1842–1910

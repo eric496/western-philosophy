@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Jean-Paul Sartre](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/250px-Jean_Paul_Sartre_1965.jpg)
+
+*Photograph; article caption "Sartre in 1965" — Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1905–1980
 - **Place:** Paris, France

@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Blaise Pascal](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/250px-Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Painting of Blaise Pascal made by François II Quesnel for Gérard Edelinck, 1691 (Versailles portrait, c. 1690; infobox caption "Pascal, c. 1691") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1623–1662

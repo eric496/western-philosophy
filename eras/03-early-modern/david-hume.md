@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of David Hume](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/David_Hume_Ramsay.jpg/250px-David_Hume_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Portrait of David Hume by Allan Ramsay, 1766. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1711–1776

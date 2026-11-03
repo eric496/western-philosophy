@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Judith Jarvis Thomson](https://thumb.wikimedia.org/wikipedia/en/thumb/3/3f/Judith_Jarvis_Thomson%2C_philosopher_%281929_%E2%80%93_2020%29.jpg/250px-Judith_Jarvis_Thomson%2C_philosopher_%281929_%E2%80%93_2020%29.jpg)
+
+*Photograph captioned "Judith Jarvis Thomson in 2005". Image via Wikipedia.*
+
 ## At a glance
 
 - **Dates:** Judith Jarvis Thomson, 1929–2020.

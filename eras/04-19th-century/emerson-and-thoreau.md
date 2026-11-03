@@ -2,6 +2,14 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Ralph Waldo Emerson](https://upload.wikimedia.org/wikipedia/commons/4/4b/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg)
+
+*Photograph by Josiah Johnson Hawes, c. 1857 (article caption: "Emerson c. 1857") — Image via Wikimedia Commons.*
+
+![Portrait of Henry David Thoreau](https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg)
+
+*Daguerreotype portrait by Benjamin D. Maxham, 1856 (restored version; article caption: "Thoreau in 1856") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Ralph Waldo Emerson (1803–1882) and Henry David Thoreau (1817–1862)

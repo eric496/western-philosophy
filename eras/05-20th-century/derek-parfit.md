@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Derek Parfit](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Derek_Parfit_at_Harvard-April_21%2C_2015-Effective_Altruism_%28cropped%29.jpg/250px-Derek_Parfit_at_Harvard-April_21%2C_2015-Effective_Altruism_%28cropped%29.jpg)
+
+*Photograph (cropped) taken at Harvard, 21 April 2015; article caption "Parfit at Harvard in 2015" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Derek Parfit, 1942–2017.

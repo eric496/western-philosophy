@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Baruch Spinoza](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/250px-Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Portrait of Spinoza, c. 1665 (infobox caption "Portrait of Spinoza c. 1665"; artist not named in the caption) — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1632–1677

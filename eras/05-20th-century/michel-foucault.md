@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Michel Foucault](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg/250px-Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg)
+
+*Photograph captioned "Foucault, c. 1970" — the photo from the 1970 dust jacket of The Order of Things. Hosted under /commons/ per the returned URL. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1926–1984

@@ -2,6 +2,14 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Ludwig Feuerbach](https://upload.wikimedia.org/wikipedia/commons/0/00/Ludwig_Feuerbach_%28cropped%29.jpg)
+
+*Portrait of Ludwig Feuerbach (infobox image, cropped version; the article gives no caption, artist, or date for the infobox image) — Image via Wikimedia Commons.*
+
+![Portrait of Max Stirner](https://upload.wikimedia.org/wikipedia/commons/6/6d/Friedrich_Engels_-_Die_Freien_%281842%29-1.1_V01-1.2_raw_RGASPI_%28Stirner_crop%29.jpg)
+
+*Sketch of Stirner by Friedrich Engels, 1842 — crop from Engels's group sketch of Die Freien at Hippel's wine bar (article caption: "Sketch of Stirner by Friedrich Engels, 1842") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Figures:** Ludwig Feuerbach (1804–1872) and Max Stirner (1806–1856, pseudonym of Johann Kaspar Schmidt)

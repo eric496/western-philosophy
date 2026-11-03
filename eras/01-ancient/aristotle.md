@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Aristotle](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail)
+
+*Roman copy in marble of a Greek bronze bust of Aristotle by Lysippos (c. 330 BC), with modern alabaster mantle — a traditional ancient bust identification, not a verified authentic likeness from life. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 384 – 322 BCE

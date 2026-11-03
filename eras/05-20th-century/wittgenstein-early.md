@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Ludwig Wittgenstein](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ludwig_Wittgenstein_1929.jpg/250px-Ludwig_Wittgenstein_1929.jpg)
+
+*Photograph captioned "Wittgenstein in 1929" — the article's infobox portrait; Wittgenstein aged 40. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Ludwig Wittgenstein, 1889–1951. The "early" Wittgenstein is the philosopher of roughly 1911–1929, above all of the *Tractatus Logico-Philosophicus*.

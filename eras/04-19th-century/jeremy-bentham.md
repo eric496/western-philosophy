@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Jeremy Bentham](https://upload.wikimedia.org/wikipedia/commons/e/e8/Jeremy_Bentham_by_Henry_William_Pickersgill.jpg)
+
+*Oil portrait by Henry William Pickersgill, 1828 (article caption: "Portrait by Henry William Pickersgill, 1828") — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1748–1832

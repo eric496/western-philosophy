@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of John Rawls](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/John_Rawls_%281971_photo_portrait%29.jpg/250px-John_Rawls_%281971_photo_portrait%29.jpg)
+
+*Black-and-white portrait photograph, captioned "Rawls in 1971"; photograph by Alec Rawls (his son); public domain. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1921–2002

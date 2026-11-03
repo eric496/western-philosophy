@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Charles Sanders Peirce](https://upload.wikimedia.org/wikipedia/commons/b/b6/Charles_Sanders_Peirce.png)
+
+*Portrait of Charles Sanders Peirce (infobox portrait; the article gives no caption or date for it) — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1839–1914

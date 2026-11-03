@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Peter Singer](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Peter_Singer_2017_%28cropped%29.jpg/250px-Peter_Singer_2017_%28cropped%29.jpg)
+
+*Photograph captioned "Singer in 2017" (cropped). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Peter Singer, born 1946.

@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Jacques Derrida](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Derrida_EHESS_%28cropped%29.png/250px-Derrida_EHESS_%28cropped%29.png)
+
+*Photograph (cropped) of Derrida lecturing; article caption "Derrida lecturing at EHESS, 1990s" — Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1930–2004
