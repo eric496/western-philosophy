@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Parmenides](https://upload.wikimedia.org/wikipedia/commons/f/fc/Busto_di_Parmenide_%28cropped%29.jpg)
+
+*Bust of Parmenides of Elea (National Archaeological Museum of Naples) — a Roman-era portrait bust, not a contemporary likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Born c. 515 BCE; his poem is usually dated to his maturity, early–mid 5th century BCE (conventional dates; Plato's dramatic chronology suggests c. 450 BCE for a meeting with Socrates)

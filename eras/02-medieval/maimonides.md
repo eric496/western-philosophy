@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Maimonides](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif/lossy-page1-250px-Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif.jpg)
+
+*Posthumous engraving in Thesaurus Antiquitatum Sacrarum, from which all modern portraits of Maimonides are derived, c. 1744. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1138 – 1204 (born 1135 on some traditional datings; 1138 is the more common scholarly dating)

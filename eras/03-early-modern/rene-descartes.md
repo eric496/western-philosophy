@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of René Descartes](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/250px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
+
+*Portrait after Frans Hals (infobox caption "Portrait after Frans Hals"; the image is the well-known Hals portrait of Descartes). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1596–1650

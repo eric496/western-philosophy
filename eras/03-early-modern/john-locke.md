@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of John Locke](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg/250px-Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg)
+
+*Portrait by Sir Godfrey Kneller, 1697 (infobox caption "Portrait by Sir Godfrey Kneller, 1697"; the image is the Hermitage version). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1632–1704

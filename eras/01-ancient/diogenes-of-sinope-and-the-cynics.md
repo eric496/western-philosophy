@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Diogenes of Sinope](https://upload.wikimedia.org/wikipedia/commons/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg)
+
+*Ancient Roman mosaic depicting Diogenes, 2nd–3rd century CE (Römisch-Germanisches Museum, Cologne) — a posthumous depiction; no authentic likeness survives. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Diogenes, c. 412/404–c. 323 BCE; Cynicism flourishes from the 4th century BCE into the Roman Empire

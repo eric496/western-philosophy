@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Ludwig Wittgenstein](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ludwig_Wittgenstein.jpg/250px-Ludwig_Wittgenstein.jpg)
+
+*Photograph of Wittgenstein, 1930 — from his return-to-Cambridge years, the period of the later philosophy. (The famous 1947 Swansea photograph is held by the Wittgenstein Archive and is not freely licensed.) Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Ludwig Wittgenstein, 1889–1951. The "late" Wittgenstein is the philosopher from his return to Cambridge in 1929 until his death, above all of the *Philosophical Investigations*.

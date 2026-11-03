@@ -1,5 +1,9 @@
 # Focus Study: Friedrich Nietzsche (1844–1900)
 
+![Portrait of Friedrich Nietzsche](https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg)
+
+*Photograph of Nietzsche in Basel, c. 1875 (article caption: "Nietzsche, c. 1875") — Image via Wikimedia Commons.*
+
 ## The figure in brief
 
 Friedrich Nietzsche was a classical philologist who became, almost despite himself, the diagnostician of European modernity. His claim is that the culture built on Christian morality has lost its foundation: "God is dead" (*The Gay Science* §125) is not a slogan of triumph but a report — the belief that underwrote two thousand years of values has become unbelievable, undermined by science and by Christian truthfulness itself, and the values built on it still stand, hollow, awaiting their collapse into *nihilism*. His response is not to patch the old table of values but to ask where values come from and what they are worth. The *genealogical method* of *On the Genealogy of Morals* (1887) traces "good and evil" to a slave revolt in morality, in which the *ressentiment* of the powerless creatively inverted noble values; the psychology of the *Genealogy*'s later essays — bad conscience, the ascetic ideal — explains why a life-denying ideal could rule for millennia. Against it he sets the tests and figures of his mature thought: will to power, eternal recurrence as a selective test of affirmation (*amor fati*), the Übermensch as a regulative ideal of value-creation, and a perspectivism that disciplines knowledge rather than dissolving it. He wrote his finest books in a decade of stateless wandering between Swiss mountains and Italian coast towns, collapsed in Turin in January 1889, and spent his last eleven years insane and silent while his fame — and his sister's falsification of his legacy — grew around him.

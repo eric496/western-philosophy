@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Niccolò Machiavelli](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/250px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg)
+
+*Posthumous portrait by Santi di Tito, latter half of the 16th century (infobox caption "Posthumous portrait by Santi di Tito, latter half of the 16th century"). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1469–1527

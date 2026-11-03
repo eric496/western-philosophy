@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Avicenna](https://upload.wikimedia.org/wikipedia/commons/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg)
+
+*Modern portrait bust of Avicenna (1952), held by the National Library of Medicine — an imagined likeness; no contemporary portrait exists. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 980 – 1037

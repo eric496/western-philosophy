@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Immanuel Kant](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/250px-Immanuel_Kant_-_Gemaelde_1.jpg)
+
+*Portrait by Johann Gottlieb Becker, 1768 (infobox caption "Portrait by Johann Gottlieb Becker, 1768"). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1724–1804

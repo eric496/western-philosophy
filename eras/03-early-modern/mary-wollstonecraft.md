@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Mary Wollstonecraft](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/250px-Mary_Wollstonecraft_Portrait.jpg)
+
+*Portrait by John Opie, c. Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1759–1797
 - **Place:** England

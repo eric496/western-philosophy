@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Gottfried Wilhelm Leibniz](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/250px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg)
+
+*Bildnis des Philosophen Leibniz by Christoph Bernhard Francke, c. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1646–1716

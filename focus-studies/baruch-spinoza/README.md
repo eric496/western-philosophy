@@ -1,5 +1,9 @@
 # Focus Study: Baruch Spinoza (1632–1677)
 
+![Portrait of Baruch Spinoza](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/250px-Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+*Portrait of Spinoza, c. 1665 (infobox caption "Portrait of Spinoza c. 1665"; artist not named in the caption) — Image via Wikimedia Commons.*
+
 ## The figure in brief
 
 Baruch Spinoza — Bento in the Portuguese of his birth community, Benedictus in the Latin of his books — lived forty-four years: educated for the rabbinate in Amsterdam's Portuguese-Jewish schools, expelled from that community at twenty-three under one of the most ferocious writs of excommunication on record, and thereafter a lens grinder in rented rooms, declining a university chair, publishing one book under his own name, and leaving his masterpiece in a drawer to be brought out by friends after his death. The philosophy matches the life in extremity. The *Ethics*, demonstrated in geometrical order, argues from a handful of definitions to a single substance — God, or Nature, *Deus sive Natura* — of which everything that exists is a mode, following from the divine nature with the same necessity with which the properties of a triangle follow from its essence. Mind and body are one thing under two attributes; nothing could have been otherwise; final causes are human fictions; freedom is not exemption from necessity but understanding it, and its fruit is the intellectual love of God. The *Theological-Political Treatise* (1670), published anonymously and promptly banned, applied the same intellect to Scripture and the state, founding modern biblical criticism and making an early, radical case for freedom of thought. In his lifetime "Spinozist" was an accusation; within a century and a half Hegel could declare that either Spinozism or no philosophy.

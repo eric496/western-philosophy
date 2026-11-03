@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Francis Bacon](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/250px-Somer_Francis_Bacon.jpg)
+
+*Portrait by Paul van Somer I, 1617 (infobox caption "Portrait by Paul van Somer I, 1617"; note this corrects the first pass's unconfirmed mirror caption, which named Pourbus the Younger). Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1561–1626
 - **Place:** England

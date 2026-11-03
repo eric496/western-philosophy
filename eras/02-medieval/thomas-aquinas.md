@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Thomas Aquinas](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/250px-St-thomas-aquinasFXD.jpg)
+
+*Panel of a 15th-century altarpiece. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1225 – 1274

@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of John Scotus Eriugena](https://upload.wikimedia.org/wikipedia/commons/2/2e/John-Scotus-Eriugena.png)
+
+*Stained-glass window in the chapel of Emmanuel College, Cambridge (1884), showing Eriugena as an early Benedictine monk holding *De Divisione Naturae* — a Victorian imagining, not a likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 800 – c. 877 (dates are conventional)
