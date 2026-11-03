@@ -2,6 +2,8 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+*Portrait: none included — no freely licensed portrait of Hannah Pitkin is publicly available (her English Wikipedia article (under "Hanna Fenichel Pitkin") carries no image at all). If one surfaces, it belongs here, where every other entry carries its portrait.*
+
 ## At a glance
 
 - **Dates:** 1931–2023

@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Émilie du Châtelet](https://upload.wikimedia.org/wikipedia/commons/b/ba/Emilie_Chatelet_portrait_by_Latour.jpg)
+
+*Émilie du Châtelet at her desk, holding dividers — portrait by Maurice Quentin de La Tour. Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1706–1749 (Gabrielle Émilie Le Tonnelier de Breteuil, marquise du Châtelet)
 - **Place:** France

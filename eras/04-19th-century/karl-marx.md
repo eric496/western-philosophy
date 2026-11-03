@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Karl Marx](https://upload.wikimedia.org/wikipedia/commons/6/62/Karl_Marx_001.jpg)
+
+*Photograph of Karl Marx by John Jabez Edwin Mayall, 1875 (International Institute of Social History). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1818–1883

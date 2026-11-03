@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Paul Ricoeur](https://upload.wikimedia.org/wikipedia/commons/8/89/Paul_Ricoeur_Balzan.png)
+
+*Portrait of Paul Ricoeur, c. 1999 (Balzan Prize portrait). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1913–2005

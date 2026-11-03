@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Gilbert Ryle](https://upload.wikimedia.org/wikipedia/en/e/e8/Gilbert_Ryle_%28by_Rex_Whistler%29.jpg)
+
+*Portrait of Gilbert Ryle by Rex Whistler, 1940–1943. Image via Wikipedia.*
+
 ## At a glance
 
 - **Dates:** 1900–1976

@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of George Berkeley](https://upload.wikimedia.org/wikipedia/commons/1/14/John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project_%28cropped%29.jpg)
+
+*Portrait of George Berkeley by John Smibert, 1727. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1685–1753

@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Franz Brentano](https://upload.wikimedia.org/wikipedia/commons/7/72/Franz_Brentano_in_Vienna%2C_1890_%28cropped%29.png)
+
+*Photograph of Franz Brentano in Vienna, 1890. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1838–1917

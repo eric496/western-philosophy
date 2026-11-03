@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of W. V. O. Quine](https://upload.wikimedia.org/wikipedia/commons/1/1d/Willard_Van_Orman_Quine_on_Bluenose_II_in_Halifax_NS_harbor_1980.jpg)
+
+*Photograph of W. V. O. Quine aboard *Bluenose II* in Halifax harbor, 1980. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1908–2000

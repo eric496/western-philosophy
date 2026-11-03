@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Johann Gottlieb Fichte](https://upload.wikimedia.org/wikipedia/commons/8/83/Johann_Gottlieb_Fichte.jpg)
+
+*Painted portrait of Johann Gottlieb Fichte. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1762–1814

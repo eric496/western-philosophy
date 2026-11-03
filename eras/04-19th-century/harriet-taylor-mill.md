@@ -2,6 +2,10 @@
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Harriet Taylor Mill](https://upload.wikimedia.org/wikipedia/commons/0/02/Harriet_Mill_from_NPG.jpg)
+
+*Oil portrait of Harriet Taylor Mill by an unknown artist (National Portrait Gallery, London, NPG 5489). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1807–1858

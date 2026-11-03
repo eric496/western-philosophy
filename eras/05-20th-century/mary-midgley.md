@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Mary Midgley](https://upload.wikimedia.org/wikipedia/commons/9/98/Mary_Midgley.JPG)
+
+*Photograph of Mary Midgley at Tynemouth, 25 December 2002, by MPMWikihelper (released into the public domain). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1919–2018

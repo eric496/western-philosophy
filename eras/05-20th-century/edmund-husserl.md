@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Edmund Husserl](https://upload.wikimedia.org/wikipedia/commons/7/74/Edmund_Husserl_1910s.jpg)
+
+*Photograph of Edmund Husserl in the 1910s. Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1859–1938
 - **Place:** Born in Proßnitz, Moravia (now Prostějov, Czech Republic), active in Germany
