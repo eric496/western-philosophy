@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Boethius](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Boethius.jpeg/250px-Boethius.jpeg)
+
+*Medieval illustration of Boethius. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 477 – 524/5 (birth year uncertain; c. 480 is also often given; death dated 524 or 525)

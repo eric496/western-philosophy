@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Nicholas of Cusa](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nicholas_of_Cusa.jpg)
+
+*Posthumous portrait of Nicholas of Cusa by the Master of Wilten, c. 1480. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1401 – 1464

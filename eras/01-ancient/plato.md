@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Plato](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png)
+
+*Roman copy of a portrait bust of c. 370 BC. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 428/427 – 348/347 BCE (conventional dates)

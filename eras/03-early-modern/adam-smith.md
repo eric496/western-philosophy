@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Adam Smith](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/250px-Adam_Smith_The_Muir_portrait.jpg)
+
+*Posthumous Muir portrait, c. Image via Wikimedia Commons.*
+
 ## At a glance
 - **Dates:** 1723–1790
 - **Place:** Scotland; held chairs of logic and moral philosophy at Glasgow

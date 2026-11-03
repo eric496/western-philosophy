@@ -1,5 +1,9 @@
 # Focus Study: Plato (428/427 – 348/347 BCE)
 
+![Portrait of Plato](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png)
+
+*Roman copy of a portrait bust of c. 370 BC. Image via Wikimedia Commons.*
+
 ## The figure in brief
 
 Plato was born in Athens in 428/427 BCE, into one of the city's great aristocratic families, and he lived through its catastrophe: the loss of the Peloponnesian War, the bloody oligarchy of the Thirty — in which his own relatives were prominent — the restored democracy's execution of his teacher Socrates in 399 BCE, and the long decline that followed. His response to that wreckage was to invent systematic philosophy. Writing only dialogues, in which he never speaks in his own voice, he took Socrates' street-corner questions — what is justice, what is knowledge, what is courage — and built them into metaphysics, epistemology, ethics, political theory, psychology, and aesthetics, each constraining the others: the Theory of Forms answers Heraclitus' flux with Parmenides' changeless being; the *Republic* makes justice a condition of the soul before it is a rule for conduct, and argues that cities will have no rest from evils until philosophers rule or rulers philosophize (473c–d); the *Symposium* turns desire itself into a ladder from one beautiful body to Beauty itself. Around 387 BCE he founded the Academy, the institution through which philosophy became a discipline with a home, and taught there for forty years; Aristotle was his pupil for twenty of them. Uniquely among ancient thinkers, his work survives whole — the dialogues as arranged by Thrasyllus, plus a disputed body of letters — so we can watch him build a theory in the middle dialogues and attack it himself, harder than any critic has, in the *Parmenides* and the *Sophist*.

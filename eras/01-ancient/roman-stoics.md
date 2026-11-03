@@ -2,6 +2,18 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Seneca the Younger](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/William_of_Ockham.png/250px-William_of_Ockham.png)
+
+*Ancient bust of Seneca, part of the Double Herm of Socrates and Seneca (Antikensammlung Berlin). Image via Wikimedia Commons.*
+
+![Portrait of Epictetus](https://upload.wikimedia.org/wikipedia/commons/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg)
+
+*Eighteenth-century line drawing of Epictetus with his crutch — frontispiece to the Oxford 1715 *Enchiridion*; an imagined depiction. Image via Wikimedia Commons.*
+
+![Portrait of Marcus Aurelius](https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg)
+
+*Bust of Marcus Aurelius (Musée Saint-Raymond, Toulouse). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Seneca c. 4 BCE – 65 CE; Epictetus c. 50 – c. 135 CE; Marcus Aurelius 121 – 180 CE

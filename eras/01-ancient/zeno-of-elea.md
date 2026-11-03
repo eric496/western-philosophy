@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Zeno of Elea](https://upload.wikimedia.org/wikipedia/commons/c/cb/Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_(serietitel),_RP-P-1907-4495.jpg)
+
+*17th-century print by Jan de Bisschop (1666–1671) of a portrait bust, after a sculpture by an anonymous artist (Rijksmuseum, RP-P-1907-4495) — an imagined posthumous portrait, not an authentic likeness. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 490 – c. 430 BCE (conventional, from Plato's dramatic chronology)

@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Heraclitus](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Heraclitus_b_4_compressed.jpg/250px-Heraclitus_b_4_compressed.jpg)
+
+*Bust No. 3 of the Hall of Philosophers, Capitoline Museum, identified as Heraclitus. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 540 – c. 480 BCE (conventional; he flourished around 500 BCE)

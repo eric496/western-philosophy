@@ -1,5 +1,9 @@
 # Focus Study: Arthur Schopenhauer (1788–1860)
 
+![Portrait of Arthur Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+
+*Photograph by Johann Schäfer, 1859 (article infobox caption: "Schopenhauer in 1859") — Image via Wikimedia Commons.*
+
 ## The figure in brief
 
 Arthur Schopenhauer built the most complete alternative to the optimistic, rationalist mainstream of nineteenth-century philosophy. Starting from Kant — the world we experience is representation, structured by space, time, and causality — he claimed one crack in Kant's wall: each of us knows our own body not only from outside, as an object, but from inside, as *willing*. Generalizing that double knowledge to all of nature, he concluded that the inner essence of everything, the thing-in-itself, is **Will**: a single, blind, purposeless striving that objectifies itself in gravity and magnetism no less than in appetite and ambition. From that one metaphysical claim the rest of the system unfolds with unusual inevitability. Because willing is lack, and lack is pain, existence is structured by suffering, relieved only in the pendulum swing to boredom. Because individuation is only how the Will *appears*, compassion — feeling another's suffering as one's own — is the sole genuine ground of morality. Because striving can, exceptionally, turn against itself, there are real if narrow exits: aesthetic contemplation, in which music holds the highest place; compassion; and the ascetic denial of the Will, which Schopenhauer defended against every orthodoxy of his century, Christian and Hegelian alike. He wrote all of this by age thirty, spent forty years being ignored for it, and became famous in his sixties on the strength of the essays he had regarded as by-work.

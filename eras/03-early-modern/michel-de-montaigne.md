@@ -2,6 +2,10 @@
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Michel de Montaigne](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg/250px-Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg)
+
+*Portrait of Montaigne, 1570s (infobox caption "Portrait of Montaigne, 1570s"; artist not named in the caption). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1533–1592

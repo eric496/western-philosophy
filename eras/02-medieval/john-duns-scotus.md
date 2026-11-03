@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Duns Scotus](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/250px-Scoto_%28Duns_Scoto%29.jpg)
+
+*Portrait by Justus van Gent, c. 1476–78. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 1266 – 1308

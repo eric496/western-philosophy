@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Thales](https://upload.wikimedia.org/wikipedia/commons/1/10/Arte_romana%2C_testa_di_talete_di_mileto%2C_II_sec..JPG)
+
+*Second-century Roman copy of a bust of Thales — no authentic likeness survives. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 624 – c. 546 BCE (conventional; no dates for him are secure)

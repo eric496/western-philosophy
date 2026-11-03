@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Peter Abelard](https://upload.wikimedia.org/wikipedia/commons/e/e3/Piotr_Abelard_%28cropped%29.jpg)
+
+*Depiction of Abelard by Antoni Oleszczyński, before 1841 — a 19th-century imagined portrait. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1079 – 1142

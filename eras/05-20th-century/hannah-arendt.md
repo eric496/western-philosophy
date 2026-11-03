@@ -2,6 +2,10 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Hannah Arendt](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg/250px-Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg)
+
+*Photograph of Arendt at the first Kulturkritikerkongress, 1958, by Barbara Niggl Radloff (Münchner Stadtmuseum). Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1906–1975

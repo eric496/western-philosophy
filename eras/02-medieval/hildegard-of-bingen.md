@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Hildegard of Bingen](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/250px-Hildegard_von_Bingen.jpg)
+
+*Illumination from Hildegard's Scivias (1151) showing her receiving a vision and dictating to her teacher Volmar. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** 1098 – 1179

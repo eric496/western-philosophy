@@ -1,5 +1,9 @@
 # Focus Study: Ludwig Wittgenstein (1889–1951)
 
+![Portrait of Ludwig Wittgenstein](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ludwig_Wittgenstein_1929.jpg/250px-Ludwig_Wittgenstein_1929.jpg)
+
+*Photograph captioned "Wittgenstein in 1929" — the article's infobox portrait; Wittgenstein aged 40. Image via Wikimedia Commons.*
+
 ## The figure in brief
 
 Ludwig Wittgenstein is the only major philosopher to have produced two masterpieces that contradict each other — and to have insisted the second be read against the first. The *Tractatus Logico-Philosophicus* (first published in German in 1921, title page dated 1921; English edition 1922) argues that a proposition pictures a possible fact by sharing its logical form, that everything sayable is a truth-function of such pictures, and that ethics, aesthetics, and the meaning of the world lie beyond saying altogether, in what "shows itself" and must be met with silence. He believed it solved philosophy's problems and gave up philosophy for a decade. The *Philosophical Investigations* (composed 1936–49, published posthumously in 1953) dismantles the earlier book piece by piece: no picture theory, no hidden logical form, no simple objects — instead meaning as use in language-games, concepts held together by family resemblance, rules grounded in practice rather than interpretation, and a private language shown to be an incoherent idea. Between the two books stands an extraordinary life: the youngest son of a Viennese steel magnate, engineer, decorated artillery officer, prisoner of war, village schoolmaster, architect of one famous house, and professor at Cambridge — a man who gave away one of Europe's great fortunes and spent his career treating philosophy not as a doctrine but as a struggle against the bewitchment of our intelligence by language.

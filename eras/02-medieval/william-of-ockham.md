@@ -2,6 +2,10 @@
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of William of Ockham](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/William_of_Ockham.png/250px-William_of_Ockham.png)
+
+*William of Ockham depicted on a stained glass window by Lawrence Lee at All Saints' Church, Ockham. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 1287 – 1347

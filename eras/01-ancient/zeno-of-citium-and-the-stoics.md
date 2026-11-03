@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Zeno of Citium](https://upload.wikimedia.org/wikipedia/commons/b/bc/Paolo_Monti_-_Servizio_fotografico_(Napoli,_1969)_-_BEIC_6353768.jpg)
+
+*Marble bust in the Farnese collection, Naples, photographed by Paolo Monti in 1969. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** Zeno c. 334–262 BCE; school c. 300 BCE–2nd century CE

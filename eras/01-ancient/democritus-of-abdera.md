@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Democritus](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Unknown_greek_pushkin.jpg/250px-Unknown_greek_pushkin.jpg)
+
+*Bust of a philosopher, possibly Democritus, from the Villa of the Papyri, Herculaneum. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 460 – c. 370 BCE (conventional; ancient sources make him implausibly long-lived)

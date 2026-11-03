@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Pythagoras](https://upload.wikimedia.org/wikipedia/commons/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg)
+
+*Bust of Pythagoras of Samos in the Capitoline Museums, Rome — a posthumous portrait type; no authentic likeness survives. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 570 – c. 495 BCE (conventional; ancient sources disagree wildly)

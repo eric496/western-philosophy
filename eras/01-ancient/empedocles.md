@@ -2,6 +2,10 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
+![Portrait of Empedocles](https://upload.wikimedia.org/wikipedia/commons/7/79/Empedokles.jpeg)
+
+*Portrait bust identified as Empedocles of Agrigentum — a traditional identification; no authentic likeness survives. Image via Wikimedia Commons.*
+
 ## At a glance
 
 - **Dates:** c. 494 – c. 434 BCE (conventional; ancient reports of his age conflict)
