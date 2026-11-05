@@ -2,9 +2,7 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Iris Murdoch](https://thumb.wikimedia.org/wikipedia/en/thumb/c/cb/Iris_Murdoch.png/250px-Iris_Murdoch.png)
-
-*Portrait photograph (infobox image; the article shows no caption for it). Image via Wikipedia.*
+*Portrait: none included — the photograph used on English Wikipedia is a local fair-use upload, and Wikimedia Commons has no freely licensed portrait of her (only her blue plaques). If one surfaces, it belongs here.*
 
 ## At a glance
 

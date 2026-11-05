@@ -2,9 +2,7 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Bernard Williams](https://thumb.wikimedia.org/wikipedia/en/thumb/a/a6/BernardWilliams.jpg/250px-BernardWilliams.jpg)
-
-*Black-and-white photograph (infobox portrait; the article gives no caption or date for it). Image via Wikipedia.*
+*Portrait: none included — the photograph used on English Wikipedia is a local fair-use upload, and Wikimedia Commons has no freely licensed image of him. If one surfaces, it belongs here.*
 
 ## At a glance
 
