@@ -55,7 +55,7 @@ His emblem is Bentham's *Panopticon*: cells ring a central tower whose occupancy
 
 ### Biopower and biopolitics
 
-From the 18th century a second power joined discipline. *Biopower* takes the *population* as its object: birth rates, life expectancy, epidemics, hygiene. Sovereign power had "made die and let live" by the sword; biopower "makes live and lets die," fostering populations' health and productivity. Vaccination, censuses, social insurance, and sanitation are biopolitics in this descriptive sense; at the dark extreme, state racism is biopower deciding which part of a population may be exposed to death for the rest. Scholars have extended the analysis to pandemics, borders, and health data — extensions Foucault did not himself make.
+From the 18th century a second power joined discipline. *Biopower* takes the *population* as its object: birth rates, life expectancy, epidemics, hygiene. Sovereign power held the right "to take life or let live," enforced by the sword; biopower works by "making live and letting die," fostering populations' health and productivity. Vaccination, censuses, social insurance, and sanitation are biopolitics in this descriptive sense; at the dark extreme, state racism is biopower deciding which part of a population may be exposed to death for the rest. Scholars have extended the analysis to pandemics, borders, and health data — extensions Foucault did not himself make.
 
 ### The repressive hypothesis and technologies of the self
 

@@ -63,7 +63,7 @@ Albert Camus, who edited her works for Gallimard, called her "the only great spi
 
 ## Criticisms and debates
 
-- **Her death and self-starvation:** whether her refusal of food was political solidarity, ascetic theology, an eating disorder, or some entanglement of these remains genuinely contested among biographers; the coroner's verdict (suicide "while the balance of her mind was disturbed") settles nothing interpretively.
+- **Her death and self-starvation:** whether her refusal of food was political solidarity, ascetic theology, an eating disorder, or some entanglement of these remains genuinely contested among biographers; the coroner's verdict (that she "did kill and slay herself by refusing to eat whilst the balance of her mind was disturbed") settles nothing interpretively.
 - **Judaism and Christianity:** her harsh writings on ancient Israel and Judaism, alongside her refusal of baptism, make her relation to her own Jewishness one of the most debated areas in Weil scholarship.
 - **Practicality:** critics charge that decreation and attention offer no workable politics; defenders answer that *The Need for Roots* is nothing but practical — the debate turns on what philosophy is for.
 - **The corpus problem:** because the famous books are posthumous constructions from notebooks, scholars debate how far "Weil's system" is an artefact of her editors.

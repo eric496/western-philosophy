@@ -81,7 +81,7 @@ Russell's theory of descriptions (1905) analyzes "The present King of France is 
 
 The key distinction is between a *sentence* and a *use* of it. Whether a speaker succeeds in referring depends on the circumstances. When there is no king, the speaker has not said something false: the existence of a king was **presupposed**, not asserted. The natural reply is "What do you mean?", not "That's false," so the use is neither true nor false (a "truth-value gap"). Presupposition, developed further in *Introduction to Logical Theory* (1952), has had a colossal influence on linguists. Strawson claimed only that there are uses of "the" Russell's theory cannot capture.
 
-*Tension:* Russell replied in "Mr. Strawson on Referring" (1957) that an avowed atheist who exploited Strawson's doctrine to say he did not hold false the proposition that the Ruler of the Universe is wise would strike people as shifty. Neale later argued the issue can be settled in Russell's favor, though Strawson himself came to doubt that any "brisk little formal argument" could settle it.
+*Tension:* Russell replied in "Mr. Strawson on Referring" (1957) that an avowed atheist who exploited Strawson's doctrine to say he did not hold false the proposition that the Ruler of the Universe is wise would strike people as shifty. Neale later argued the issue can be settled in Russell's favor, though Strawson himself came to doubt that any brisk formal argument could settle it.
 
 ### Descriptive metaphysics and persons (Strawson)
 
