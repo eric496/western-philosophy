@@ -1,0 +1,39 @@
+name: checks
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 6 * * 1"   # weekly external-link sweep, Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  consistency:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: "3.12"
+      - name: Offline consistency checks
+        run: python3 scripts/check_repo.py
+
+  external-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - name: Check external links
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          # 429 = rate limited (Wikimedia), 403 = bot-blocking sites (Britannica, PhilPapers):
+          # neither means the link is dead. Release assets of this private repo need auth.
+          args: >-
+            --no-progress
+            --max-concurrency 4
+            --accept 200..=299,403,429
+            --exclude '^https://github\.com/eric496/western-philosophy/releases'
+            './**/*.md'
+          fail: true
