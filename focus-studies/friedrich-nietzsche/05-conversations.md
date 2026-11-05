@@ -46,11 +46,15 @@ Max Stirner is the opposite case: an influence perpetually alleged and never doc
 
 **Lou Andréas-Salomé** belongs here as an intellectual interlocutor, not only as the catastrophe of 1882. The twenty-one-year-old — to whom Nietzsche proposed twice, once by proxy through Rée — was part of the famous Lucerne photograph (she holding a whip over the two men harnessed to a cart, a joke the later caricatures never let go of), and her *Friedrich Nietzsche in seinen Werken* (1894) was the first book-length study of his thought: acute, psychological, and still read. Nietzsche's fury at her belongs to the biography; her standing as his first serious interpreter belongs to the reception.
 
+The photograph was taken on 13 May 1882 in the studio of Jules Bonnet in Lucerne — Nietzsche staged it himself, down to the sprig of lilac on the whip — and it circulated for a century as the Nietzsche-and-women image, which is why the whip line in *Zarathustra* read as autobiography and gave the caricaturists their frame.
+
 ## Forward: the answers
 
 ### Freud and psychoanalysis: the disavowed debt
 
 Freud has no entry in this library, and his Nietzsche is a case study in anxious proximity. On the record, Freud repeatedly insisted he had avoided Nietzsche deliberately — in the Vienna society's 1908 discussions of Nietzsche he remarked that Nietzsche's premonitions and insights often agree in the most astonishing way with the laborious results of psychoanalysis, and that he had long avoided him for precisely that reason: he wanted to come to his findings with an unembarrassed mind. The priority question and the influence question must be kept apart. That Nietzsche anticipated central psychoanalytic motifs — unconscious drives, sublimation, the psychology of *ressentiment* and bad conscience — is plain on the page. That Freud derived them from reading he disowned is a claim his testimony denies and the documentary record cannot settle; scholars are divided, and the dossier leaves it there.
+
+The two meetings are dated: *Beyond Good and Evil* on 1 April 1908 and *Ecce Homo* on 28 October 1908, both minuted by Otto Rank in the society's records — the proximate source of every "Freud on Nietzsche" quotation in the English literature.
 
 ### Heidegger: the completion of metaphysics
 
