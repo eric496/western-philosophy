@@ -2,13 +2,11 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Philippa Foot](https://upload.wikimedia.org/wikipedia/en/0/03/PhilippaFoot1939.jpg)
+*Portrait of Philippa Foot: none included — the only photograph in common use (Foot in 1939) is a non-free fair-use upload on English Wikipedia, not a freely licensed image. If a free one surfaces, it belongs here.*
 
-*Photograph; article caption "Foot in 1939". Image via Wikipedia.*
+![Drawing of Elizabeth Anscombe](https://upload.wikimedia.org/wikipedia/commons/8/86/Elisabeth_Anscombe.jpg)
 
-![Portrait of Elizabeth Anscombe](https://upload.wikimedia.org/wikipedia/en/6/60/Gertrude_Elizabeth_Margaret_Anscombe.jpg)
-
-*Photograph of Elizabeth Anscombe by Mary Gustafson, 1979. Image via Wikipedia.*
+*Drawing of Elizabeth Anscombe by Albarluque (2014), made for Wikimedia Commons through a Llotja art-school collaboration — an artist's portrait, not a photograph. CC BY-SA 3.0, via Wikimedia Commons.*
 
 ## At a glance
 
