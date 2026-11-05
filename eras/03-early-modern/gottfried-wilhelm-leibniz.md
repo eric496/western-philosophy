@@ -35,7 +35,7 @@ Why, then, does my willing to raise my arm coincide with my arm rising? *Pre-est
 
 ### Contradiction and sufficient reason
 
-Leibniz organizes reasoning around two principles. The *principle of contradiction* governs necessary truths: a proposition is necessary if its denial implies a contradiction, as in mathematics and logic. The *principle of sufficient reason* governs contingent truths and existence: nothing is true or exists “without a sufficient reason why it is so and not otherwise.”
+Leibniz organizes reasoning around two principles. The *principle of contradiction* governs necessary truths: a proposition is necessary if its denial implies a contradiction, as in mathematics and logic. The *principle of sufficient reason* governs contingent truths and existence: no fact is real and no statement true “unless there be a sufficient reason why it is so and not otherwise” (*Monadology* §32, Duncan translation).
 
 That second principle drives his metaphysics. Contingent things cannot supply their own ultimate reason, so the reason for the whole series of contingent things must lie in a necessary being — God. Whether the principle is self-evident, provable, or a rationalist article of faith is still debated.
 
