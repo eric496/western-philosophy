@@ -34,11 +34,13 @@ Tiered by use, in the order the [study plan](07-study-plan.md) needs them. Price
 
 ## 4. Reference
 
+**The Schopenhauer-Gesellschaft (Schopenhauer Society).** Founded in 1911 and seated in Frankfurt, the society promotes Schopenhauer scholarship and publishes the annual *Schopenhauer-Jahrbuch*, the German-language field's journal of record; its site ([schopenhauer.de](https://www.schopenhauer.de/)) is the gateway to conferences, the society, and back-issue indexes — reference for when a debate sends you to the primary scholarship.
+
 **[Stanford Encyclopedia of Philosophy, "Arthur Schopenhauer," by Robert Wicks](https://plato.stanford.edu/entries/schopenhauer/)**. The dossier's court of appeal: full system survey with the scholarly disputes flagged and a bibliography maintained to professional standard. Per the learning path's timing rule, read it in full *after* your own reconstruction (Week 6), in sections before that only for orientation.
 
 **[Internet Encyclopedia of Philosophy, "Schopenhauer, Arthur"](https://iep.utm.edu/schopenh/)**. The gentler on-ramp (life, system, pessimism, well organized) — the learning path's "IEP before" slot for this figure. The IEP also carries a specialist article, "Arthur Schopenhauer: Logic and Dialectic" (Jens Lemanski, 2023), for anyone whose Week 1 appetite for the *Fourfold Root* survives the week.
 
-**[PhilPapers](https://philpapers.org/)** — the Schopenhauer category under 19th-Century Philosophy is the discovery layer for current journal literature (the *Schopenhauer Jahrbuch* and the journal *Schopenhauerian Studies* carry the specialist conversation); use it when a debate in [06-reception-and-debates.md](06-reception-and-debates.md) makes you want the primary scholarship rather than a summary of it.
+**[PhilPapers](https://philpapers.org/)** — the Schopenhauer category under 19th-Century Philosophy is the discovery layer for current journal literature (the *Schopenhauer-Jahrbuch* and *Voluntas: International Journal of Philosophy* (founded as *Voluntas: Studies on Schopenhauer*) carry the specialist conversation); use it when a debate in [06-reception-and-debates.md](06-reception-and-debates.md) makes you want the primary scholarship rather than a summary of it.
 
 ## 5. Media (all items verified before assignment)
 

@@ -30,9 +30,11 @@ He settled in Dresden, a quiet capital with good libraries and no university to 
 
 In 1820 Schopenhauer qualified as a Privatdozent at the University of Berlin, delivering a trial lecture before a faculty that included Hegel. Then came the legendary gesture: he announced his lectures for the same hour as Hegel's own. Whether the motive was contempt, strategy, or both, the result is certain — students chose Hegel in crowds; Schopenhauer's room emptied, and after a single semester he effectively stopped, though he kept the lectureship on the books and re-announced courses, undelivered, for years. He never taught again, and he never forgave the academic world, whose philosophy — above all Hegel, "that clumsy charlatan" in his private vocabulary — he treated for forty years as a corrupt trade practiced by men who lived *from* philosophy rather than *for* truth. The bitterness is real, but a fair account adds that Schopenhauer did almost nothing a career requires: no school, no journal alliances, no concessions of manner. The neglect of his book and the fiasco of his lectureship belong together, and both belong partly to him.
 
-The Berlin years also produced the episode his detractors have always reached for. In August 1821, in the lodging house where he lived, he came upon the seamstress Caroline Luise Marquet — a neighbor in her forties — talking with others on the landing outside his door; he had complained of the noise before. Words were exchanged, and Marquet fell or was thrown down the stairs. She sued, claiming injuries that prevented her working; Schopenhauer maintained she had thrown herself down theatrically and was simulating the after-effects. The courts did not believe him, or at least did not acquit him: in 1826, after years of proceedings, he was ordered to pay her an annuity of 15 thalers quarterly for as long as her incapacity lasted. He paid it for over two decades, protesting in his account books the whole time — and when she died in 1852 he recorded in his ledger, with a satisfaction he made no attempt to hide, *obit anus, abit onus*: the old woman dies, the burden departs. The dossier's judgment is the record's: the altercation happened; who fell how, and how real the injuries were, remain genuinely disputed; the court's verdict and the payments do not. It is the ugliest documented episode of the life and it is not improved or worsened by embroidery.
+The Berlin years also produced the episode his detractors have always reached for. In August 1821, in the lodging house where he lived, he came upon the seamstress Caroline Luise Marquet — a neighbor in her forties — talking with others on the landing outside his door; he had complained of the noise before. Words were exchanged, and Marquet fell or was thrown down the stairs. She sued, claiming injuries that prevented her working; Schopenhauer maintained she had thrown herself down theatrically and was simulating the after-effects. The courts did not believe him, or at least did not acquit him: in May 1827, after years of proceedings, he was ordered to pay her an annuity of 15 thalers quarterly for as long as her incapacity lasted. He paid it for over fifteen years, protesting in his account books the whole time — and when she died in 1842 he recorded in his ledger, with a satisfaction he made no attempt to hide, *obit anus, abit onus*: the old woman dies, the burden departs. The dossier's judgment is the record's: the altercation happened; who fell how, and how real the injuries were, remain genuinely disputed; the court's verdict and the payments do not. It is the ugliest documented episode of the life and it is not improved or worsened by embroidery.
 
 Through the 1820s he persisted without a public: further Italian travel (1822–23), a return to Berlin in 1825, a translation of Gracián's *Oráculo manual* completed (and published only after his death), a short Latin expansion of the color theory (1830), and revisions of nothing, because nothing of his was in print long enough to revise. In 1831 cholera reached Berlin. Schopenhauer fled — first to Frankfurt am Main, then to Mannheim for a year, before returning to Frankfurt for good in 1833. Hegel, who stayed, died that November in the same epidemic; the death was officially ascribed to cholera, though later writers have questioned the diagnosis. Schopenhauer did not record any softening at the news.
+
+The Berlin years also held the one sustained romance of his life: from about 1821 he was involved, on and off for roughly a decade, with Caroline Richter (stage name Medon, 1802–1882), a young singer at the Berlin opera. Marriage never came — his mistrust, her other attachments, and his settled conviction that marriage was a bad bargain all weighed against it — and Schopenhauer remained a lifelong bachelor, though he left Caroline a conditional legacy in his will. It is the corrective to the cartoon of a man with no attachments at all.
 
 ## Frankfurt: obscurity, system-building, and the two prizes (1833–1850)
 
@@ -66,16 +68,16 @@ The Frankfurt years are also where the legend gathers — the succession of brow
 | 1819 | Italian journey, cut short by the Danzig banking troubles |
 | 1820 | Privatdozent at Berlin; lectures scheduled against Hegel's draw almost no one |
 | 1821 | The Marquet altercation in his Berlin lodging house |
-| 1826 | Court orders him to pay Marquet a quarterly annuity; he pays until her death in 1852 |
+| 1827 | Court (May 1827) orders him to pay Marquet an annuity; he pays until her death in 1842 |
 | 1831 | Flees the cholera to Frankfurt; Hegel dies in the Berlin epidemic |
 | 1833 | Settled permanently in Frankfurt am Main |
 | 1836 | *On the Will in Nature* |
 | 1839 | *On the Freedom of the Will* crowned by the Royal Norwegian Society |
 | 1840 | *On the Basis of Morality* refused the Danish prize despite being the sole entry |
 | 1841 | *The Two Fundamental Problems of Ethics* |
+| 1842 | Marquet dies; the annuity ends |
 | 1844 | *The World as Will and Representation*, 2nd edition, now in two volumes |
 | 1851 | *Parerga and Paralipomena* |
-| 1852 | Marquet dies; the annuity ends |
 | 1853 | Oxenford's "Iconoclasm in German Philosophy" in the *Westminster Review* sparks international fame |
 | 1859 | *The World as Will and Representation*, 3rd edition |
 | 1860 | Dies in Frankfurt, September 21 |
