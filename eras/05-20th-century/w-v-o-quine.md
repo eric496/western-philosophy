@@ -13,7 +13,7 @@
 - **School/tradition:** Analytic philosophy; logical empiricism's heir and internal critic
 - **Known for:** "Two Dogmas of Empiricism" and the naturalization of epistemology — pulling philosophy down into science
 
-**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md) · **Answered by:** post-Quinean analytic philosophy, from Kripke onward — outside this repo's entries
+**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md) · **Answered by:** [Kripke](saul-kripke.md) and post-Quinean analytic philosophy
 
 ## Biography
 

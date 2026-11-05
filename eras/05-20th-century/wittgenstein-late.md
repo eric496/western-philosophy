@@ -13,7 +13,7 @@
 - **School/tradition:** Analytic philosophy — but as its internal critic, turning it from logical construction toward ordinary language, practice, and forms of life.
 - **Known for:** Meaning as use, language-games, family resemblance, and the private language argument — and for repudiating his own earlier *Tractatus*.
 
-**Responds to:** [Wittgenstein (early)](wittgenstein-early.md), [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Ryle](gilbert-ryle.md), [Anscombe & Foot](anscombe-and-foot.md), [Kuhn](thomas-kuhn.md)
+**Responds to:** [Wittgenstein (early)](wittgenstein-early.md), [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Ryle](gilbert-ryle.md), [Austin & Strawson](austin-and-strawson.md), [Anscombe & Foot](anscombe-and-foot.md), [Kuhn](thomas-kuhn.md), [Kripke](saul-kripke.md)
 
 ## Biography
 

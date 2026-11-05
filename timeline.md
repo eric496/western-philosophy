@@ -96,7 +96,9 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1909–1943 — [Simone Weil](eras/05-20th-century/simone-weil.md)** (20th c. / French Philosophy): Attention, affliction (malheur)
 - **1908–1961 — [Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (20th c. / Phenomenology): Embodied perception, body-subject
 - **1908–2000 — [Quine](eras/05-20th-century/w-v-o-quine.md)** (20th c. / Analytic Naturalist): Web of belief, two dogmas
+- **1911–1960 / 1919–2006 — [Austin & Strawson](eras/05-20th-century/austin-and-strawson.md)** (20th c. / Ordinary Language): Speech acts, performatives; "On Referring," reactive attitudes
 - **1913–2005 — [Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md)** (20th c. / Hermeneutics): Narrative identity, idem/ipse
+- **1913–1960 — [Albert Camus](eras/05-20th-century/albert-camus.md)** (20th c. / Absurdism): The absurd, revolt
 - **1903–1969 — [Adorno](eras/05-20th-century/frankfurt-school.md)** (20th c. / Frankfurt School): Culture industry, negative dialectics
 - **1895–1973 — [Horkheimer](eras/05-20th-century/frankfurt-school.md)** (20th c. / Frankfurt School): Critical vs traditional theory
 - **b. 1929 — [Habermas](eras/05-20th-century/frankfurt-school.md)** (20th–21st c. / Frankfurt II): Communicative action, public sphere
@@ -104,12 +106,15 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1919–1999 — [Iris Murdoch](eras/05-20th-century/iris-murdoch.md)** (20th c. / Moral Philosophy): Attention, unselfing, the Good
 - **1919–2018 — [Mary Midgley](eras/05-20th-century/mary-midgley.md)** (20th c. / Moral Philosophy): Human nature, anti-reductionism
 - **1921–2002 — [Rawls](eras/05-20th-century/john-rawls.md)** (20th c. / Political Liberal): Veil of ignorance, difference principle
+- **1956– — [(Group entry) Philosophy of Mind after Ryle](eras/05-20th-century/philosophy-of-mind-after-ryle.md)** (20th–21st c. / Philosophy of Mind): Identity theory, functionalism, the Chinese Room, the hard problem
 - **1926–1984 — [Foucault](eras/05-20th-century/michel-foucault.md)** (20th c. / Genealogist): Power/knowledge, discipline
 - **1929–2025 — [Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (20th c. / Virtue Ethics): Practices, narrative, tradition
 - **1929–2003 — [Bernard Williams](eras/05-20th-century/bernard-williams.md)** (20th c. / Ethics): Moral luck, integrity, internal reasons
 - **1929–2020 — [Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (20th c. / Ethics & Rights): Violinist argument, trolley problem
 - **1930–2004 — [Derrida](eras/05-20th-century/jacques-derrida.md)** (20th c. / Deconstruction): Différance, binary oppositions
 - **1931–2023 — [Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md)** (20th c. / Political Theory): The concept of representation
+- **1938–2002 — [Robert Nozick](eras/05-20th-century/robert-nozick.md)** (20th c. / Libertarian): Entitlement theory, the minimal state, the experience machine
+- **1940–2022 — [Saul Kripke](eras/05-20th-century/saul-kripke.md)** (20th c. / Analytic): Rigid designation, a posteriori necessity, Kripkenstein
 - **1942–2017 — [Derek Parfit](eras/05-20th-century/derek-parfit.md)** (20th c. / Ethics): Identity not what matters, non-identity problem
 - **b. 1946 — [Peter Singer](eras/05-20th-century/peter-singer.md)** (Contemporary / Utilitarian): Speciesism, drowning child
 - **b. 1947 — [Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (20th c. / Ethics & Political Philosophy): Capabilities approach, emotions as judgments

@@ -12,7 +12,7 @@
 - **School/tradition:** Existentialism — its leading public figure; philosopher, novelist, playwright, and political activist
 - **Known for:** “Existence precedes essence,” radical freedom, and the analysis of bad faith
 
-**Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Merleau-Ponty](maurice-merleau-ponty.md), [Beauvoir](simone-de-beauvoir.md), [Murdoch](iris-murdoch.md)
+**Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Merleau-Ponty](maurice-merleau-ponty.md), [Beauvoir](simone-de-beauvoir.md), [Camus](albert-camus.md), [Murdoch](iris-murdoch.md)
 
 ## Biography
 
