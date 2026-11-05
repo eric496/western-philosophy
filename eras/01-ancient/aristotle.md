@@ -108,7 +108,7 @@ Dates are approximate; most treatises took shape during the Lyceum years, 335–
 - **Poetics** — Tragedy, plot, and catharsis; incomplete (the book on comedy is lost), yet foundational for literary theory.
 - **Constitution of the Athenians** — A historical and institutional survey, attributed to Aristotle's school; recovered from an Egyptian papyrus in 1890 and first published in 1891.
 
-Nearly all his published dialogues are lost, surviving only in fragments quoted by later authors — a major gap, since Cicero praised their "river of gold" style.
+Nearly all his published dialogues are lost, surviving only in fragments quoted by later authors — a major gap, since Cicero praised their style as a "golden stream of eloquence" (*Academica* 2.119, Rackham's translation).
 
 ## In their own words
 

@@ -31,7 +31,7 @@ If God made everything and everything God made is good, where does evil come fro
 
 ### Original sin, grace, and the divided will
 
-Augustine's mature doctrine: Adam's Fall damaged human nature itself, and the damage is inherited — every person is born with a will biased toward disordered loves, a condition he called *concupiscence*. The *Confessions* dramatize this in his own story: he famously prayed "give me chastity and continence, but not yet," and describes a will split against itself, able to command his body but not his own wanting. After the Fall, free will (*liberum arbitrium*) remains — we choose what we do — but it is not *free* in the deeper sense (*libertas*): without grace, we reliably choose lesser goods and cannot heal ourselves. Salvation therefore depends on God's grace operating before and within our choices (the anti-Pelagian writings push this toward predestination: God elects whom he will save). Virtue, positively stated, is *rightly ordered love* (*caritas*): loving God supremely, other things in proportion. The two great drives, ordered love and disordered love, generate the two cities. Internal tensions are real and were debated immediately: how is inherited guilt just? How do grace and responsibility cohere? The Western church spent a millennium arguing inside Augustine's framework.
+Augustine's mature doctrine: Adam's Fall damaged human nature itself, and the damage is inherited — every person is born with a will biased toward disordered loves, a condition he called *concupiscence*. The *Confessions* dramatize this in his own story: he famously prayed "Give me chastity and continency, only not yet" (*Confessions* VIII.7, trans. Pusey), and describes a will split against itself, able to command his body but not his own wanting. After the Fall, free will (*liberum arbitrium*) remains — we choose what we do — but it is not *free* in the deeper sense (*libertas*): without grace, we reliably choose lesser goods and cannot heal ourselves. Salvation therefore depends on God's grace operating before and within our choices (the anti-Pelagian writings push this toward predestination: God elects whom he will save). Virtue, positively stated, is *rightly ordered love* (*caritas*): loving God supremely, other things in proportion. The two great drives, ordered love and disordered love, generate the two cities. Internal tensions are real and were debated immediately: how is inherited guilt just? How do grace and responsibility cohere? The Western church spent a millennium arguing inside Augustine's framework.
 
 ### The two cities
 
@@ -43,7 +43,7 @@ Book 11 of the *Confessions* asks: what is time? The past no longer exists, the 
 
 ### Inner teacher and illumination
 
-In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* (II.3) already argues from self-awareness that one who can be deceived must exist, and *City of God* XI.26 gives it its famous form: "if I am deceived, I exist" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
+In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* (II.3) already argues from self-awareness that one who can be deceived must exist, and *City of God* XI.26 gives it its famous form: "if I am deceived, I am" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
 
 ## Key works
 
@@ -55,7 +55,7 @@ In epistemology Augustine held that the mind judges sensible things by standards
 
 ## In their own words
 
-> Great art Thou, O Lord, and greatly to be praised; great is Thy power, and Thy wisdom infinite. Thee would man praise; man, but a particle of Thy creation; man, that bears about him his mortality, the witness of his sin, the witness that Thou resistest the proud: yet would man praise Thee; he, but a particle of Thy creation. Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.
+> Great art Thou, O Lord, and greatly to be praised; great is Thy power, and Thy wisdom infinite. And Thee would man praise; man, but a particle of Thy creation; man, that bears about him his mortality, the witness of his sin, the witness that Thou resistest the proud: yet would man praise Thee; he, but a particle of Thy creation. Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.
 
 — Augustine, *Confessions* I.1, trans. E. B. Pusey (1838; public domain)
 
@@ -78,7 +78,7 @@ Pelagius contested the grace doctrine in Augustine's own lifetime, charging that
 - That Augustine was a world-denying pessimist: he affirmed creation's goodness against the Manichaeans; disordered love, not the world, is the problem.
 - That the *Confessions* is mere memoir: Books 10–13 are technical philosophy (memory, time, creation) and the whole work is a theological argument in narrative form.
 - That "original sin" means he thought babies are monsters: the doctrine concerns a wounded condition of the will, though its implications for unbaptised infants troubled even him.
-- That he despised reason: he held that faith and understanding interpenetrate ("believe so that you may understand"), and his works are intensely argumentative.
+- That he despised reason: he held that faith and understanding interpenetrate ("believe that you may understand," *Tractates on John* 29.6), and his works are intensely argumentative.
 
 ## What to read first
 

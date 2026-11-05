@@ -47,7 +47,7 @@ In *Essay* II.8, Locke develops a distinction associated with Galileo and Boyle.
 
 ### Material substance: “something, I know not what”
 
-We experience collections of qualities — hard, white, cold, round — and suppose a *substratum* in which they inhere. Strip away all the qualities, and what remains? Locke is disarmingly honest: substance in general is “something, I know not what,” a *supposed* support whose own nature we do not grasp. He does not deny substance; he confesses our idea of it is obscure. It is a consequential loose thread: Berkeley discarded material substance while keeping spiritual substance, and Hume pressed the question against both.
+We experience collections of qualities — hard, white, cold, round — and suppose a *substratum* in which they inhere. Strip away all the qualities, and what remains? Locke is disarmingly honest: substance in general is "but a supposed I know not what, to support those ideas we call accidents" (*Essay* II.xxiii.15), a support whose own nature we do not grasp. He does not deny substance; he confesses our idea of it is obscure. It is a consequential loose thread: Berkeley discarded material substance while keeping spiritual substance, and Hume pressed the question against both.
 
 ### Personal identity: consciousness and memory
 

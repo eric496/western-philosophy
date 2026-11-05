@@ -11,7 +11,7 @@
 - **Dates:** Pyrrho, c. 360–c. 270 BCE; Pyrrhonism revived by Aenesidemus (1st century BCE) and codified by Sextus Empiricus (late 2nd century CE)
 - **Place:** Elis, Greece; traveled to India with Alexander the Great's expedition
 - **School/tradition:** Pyrrhonian Skepticism — distinct from the skeptical phase of Plato's Academy under Arcesilaus and Carneades
-- **Known for:** Suspending judgment about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "like a shadow."
+- **Known for:** Suspending judgment about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "as the shadow follows a body" (Sextus, *Outlines* I.29).
 
 **Responds to:** [Democritus](democritus-of-abdera.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Montaigne](../03-early-modern/michel-de-montaigne.md), [Descartes](../03-early-modern/rene-descartes.md), [Hume](../03-early-modern/david-hume.md)
 
@@ -33,7 +33,7 @@ The skeptic's core act is *epochē*, suspension of judgment about everything non
 
 ### Isostheneia: equal strength on both sides
 
-The engine of epochē is *isostheneia*, equal strength of opposing arguments and appearances. For every account, the skeptic finds an opposing account of equal persuasiveness: the same tower appears round from a distance and square up close; the same act is honored in one city and punished in another. When opposition is balanced, assent has nothing to tip toward, and judgment suspends itself — Sextus says tranquillity then follows "as a shadow follows the body," not as a goal pursued but as an unlooked-for result. His image is the painter Apelles, who threw a sponge at his canvas in frustration and accidentally produced the foam on a horse's mouth: *ataraxia*, freedom from disturbance, arrived when striving stopped.
+The engine of epochē is *isostheneia*, equal strength of opposing arguments and appearances. For every account, the skeptic finds an opposing account of equal persuasiveness: the same tower appears round from a distance and square up close; the same act is honored in one city and punished in another. When opposition is balanced, assent has nothing to tip toward, and judgment suspends itself — Sextus says tranquillity then follows "as the shadow follows a body" (*Outlines* I.29, trans. Patrick), not as a goal pursued but as an unlooked-for result. His image is the painter Apelles, who threw a sponge at his canvas in frustration and accidentally produced the foam on a horse's mouth: *ataraxia*, freedom from disturbance, arrived when striving stopped.
 
 The tension is classic: is "the arguments are equal" itself a judgment to suspend about? Pyrrhonians answer that their slogans apply to themselves too — like a purgative that expels itself along with everything else.
 
