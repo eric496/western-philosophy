@@ -1,6 +1,6 @@
 # Western Philosophy — A Beginner's Self-Study Map
 
-A structured way to pick up Western philosophy on your own: **117 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
+A structured way to pick up Western philosophy on your own: **121 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
 
 Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP), the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) (IEP), and [Encyclopaedia Britannica](https://www.britannica.com/) — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
 
@@ -15,7 +15,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 
 | File / folder | What it is |
 |---|---|
-| [`index.md`](index.md) | Master index: all 117 figures — dates, school, signature concept, first work to read |
+| [`index.md`](index.md) | Master index: all 121 figures — dates, school, signature concept, first work to read |
 | [`learning-path.md`](learning-path.md) | The study plan: hybrid-spiral stages with week/hour budgets, core vs map-level figures, per-author primary texts and editions to use (and avoid), can-do checkpoints and gate essays per stage, the spaced-retrieval system, and a failure-mode checklist |
 | [`eras/01-ancient/`](eras/01-ancient/) … [`eras/05-20th-century/`](eras/05-20th-century/) | One folder per era: an overview (story of the era, within-era reading order, traps to avoid) plus one entry file per philosopher or school |
 | [`philosophers/README.md`](philosophers/README.md) | Alphabetical list of all entry files |
@@ -23,6 +23,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 | [`focus-studies/`](focus-studies/) | Single-philosopher deep dives, built on request: a multi-file dossier per figure (life, works, system, arguments, conversations, reception, a week-by-week study plan, bibliography, and a figure-specific card deck). See [`focus-studies/README.md`](focus-studies/README.md) for how to request one |
 | [`themes.md`](themes.md) | The same history sideways: 9 recurring questions (metaphysics, epistemology, ethics, politics, mind, logic & language, aesthetics, religion, science) and who answered them |
 | [`glossary.md`](glossary.md) | 84 terms in plain language (*archē*, *eudaimonia*, *epoché*, *différance*, …) |
+| [`quotes-in-context.md`](quotes-in-context.md) | 37 famous lines with their exact source, speaker, wording and context, including well-known misattributions ("leap of faith", Durant's "we are what we repeatedly do") |
 | [`misconceptions.md`](misconceptions.md) | 52 errors to unlearn — Stoicism is not emotion suppression, Epicureanism is not indulgence, "God is dead" is a diagnosis, not a celebration |
 | [`timeline.md`](timeline.md) | Chronological list with signature concepts |
 | [`tracker.md`](tracker.md) | A checkbox for every figure |

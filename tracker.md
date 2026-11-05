@@ -17,6 +17,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Pyrrho](eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)** (c.360–c.270 BCE) — Epochē, suspension of judgment
 - [ ] **[Epicurus](eras/01-ancient/epicurus.md)** (c.341–270 BCE) — Ataraxia, tetrapharmakos
 - [ ] **[Zeno of Citium](eras/01-ancient/zeno-of-citium-and-the-stoics.md)** (c.334–c.262 BCE) — Logos, indifferents, virtue
+- [ ] **[Cicero & Lucretius](eras/01-ancient/cicero-and-lucretius.md)** (106–43 BCE / c.99–c.55 BCE) — Academic skepticism, natural law; atoms, the swerve, death is nothing to us
 - [ ] **[Seneca](eras/01-ancient/roman-stoics.md)** (c.4 BCE–65 CE) — Time, anger, providence
 - [ ] **[Epictetus](eras/01-ancient/roman-stoics.md)** (c.50–c.135 CE) — Dichotomy of control
 - [ ] **[Marcus Aurelius](eras/01-ancient/roman-stoics.md)** (121–180 CE) — Memento mori, view from above
@@ -39,6 +40,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Idols, induction
 - [ ] **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — State of nature, Leviathan
 - [ ] **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Cogito, dualism, doubt
+- [ ] **[(Group entry) Elisabeth, Cavendish, Conway & Astell](eras/03-early-modern/early-modern-women-philosophers.md)** (1618–1680 / 1623–1673 / 1631–1679 / 1666–1731) — Mind-body interaction, vitalist materialism, monism of spirit, women's education
 - [ ] **[Blaise Pascal](eras/03-early-modern/blaise-pascal.md)** (1623–1662) — Wager, diversion, limits of reason
 - [ ] **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — One substance, Deus sive Natura
 - [ ] **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — White paper (no innate ideas), rights, toleration
@@ -47,12 +49,14 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Esse est percipi
 - [ ] **[Montesquieu](eras/03-early-modern/montesquieu.md)** (1689–1755) — Separation of powers, spirit of the laws
 - [ ] **[Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (1706–1749) — Hypotheses, vis viva
+- [ ] **[Thomas Reid](eras/03-early-modern/thomas-reid.md)** (1710–1796) — Common sense, direct realism, agent causation
 - [ ] **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Induction, causation, is–ought
 - [ ] **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — General will, natural goodness
 - [ ] **[Diderot](eras/03-early-modern/denis-diderot.md)** (1713–1784) — Encyclopédie, materialism
 - [ ] **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — Sympathy, impartial spectator
 - [ ] **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Categories, categorical imperative
 - [ ] **[Lessing](eras/03-early-modern/gotthold-ephraim-lessing.md)** (1729–1781) — Ring parable, "ugly broad ditch", Laocoön
+- [ ] **[Edmund Burke](eras/03-early-modern/edmund-burke.md)** (1729–1797) — The sublime, prescription, the little platoon
 - [ ] **[Mary Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — Rights of woman, education
 - [ ] **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — Utility principle
 - [ ] **[Johann Gottlieb Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — Self-positing I, striving

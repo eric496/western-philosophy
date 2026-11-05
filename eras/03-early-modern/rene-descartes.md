@@ -13,7 +13,7 @@
 - **School/tradition:** Early modern rationalism
 - **Known for:** Founding modern philosophy on the cogito — "I think, therefore I am" — and for splitting reality into thinking mind and extended matter
 
-**Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Spinoza](baruch-spinoza.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
+**Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Elisabeth of Bohemia](early-modern-women-philosophers.md), [Spinoza](baruch-spinoza.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
 
 ## Biography
 

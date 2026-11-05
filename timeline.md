@@ -17,6 +17,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **c.360–c.270 BCE — [Pyrrho](eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)** (Ancient / Skeptic): Epochē, suspension of judgment
 - **c.341–270 BCE — [Epicurus](eras/01-ancient/epicurus.md)** (Ancient / Epicurean): Ataraxia, tetrapharmakos
 - **c.334–c.262 BCE — [Zeno of Citium](eras/01-ancient/zeno-of-citium-and-the-stoics.md)** (Ancient / Stoic (founder)): Logos, indifferents, virtue
+- **106–43 BCE / c.99–c.55 BCE — [Cicero & Lucretius](eras/01-ancient/cicero-and-lucretius.md)** (Ancient / Roman Academic & Epicurean): Academic skepticism, natural law; atoms, the swerve, death is nothing to us
 - **c.4 BCE–65 CE — [Seneca](eras/01-ancient/roman-stoics.md)** (Ancient / Roman Stoic): Time, anger, providence
 - **c.50–c.135 CE — [Epictetus](eras/01-ancient/roman-stoics.md)** (Ancient / Roman Stoic): Dichotomy of control
 - **121–180 CE — [Marcus Aurelius](eras/01-ancient/roman-stoics.md)** (Ancient / Roman Stoic): Memento mori, view from above
@@ -39,6 +40,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1561–1626 — [Bacon](eras/03-early-modern/francis-bacon.md)** (Early Modern / Science): Idols, induction
 - **1588–1679 — [Hobbes](eras/03-early-modern/thomas-hobbes.md)** (Early Modern / Contract): State of nature, Leviathan
 - **1596–1650 — [Descartes](eras/03-early-modern/rene-descartes.md)** (Early Modern / Rationalist): Cogito, dualism, doubt
+- **1618–1680 / 1623–1673 / 1631–1679 / 1666–1731 — [(Group entry) Elisabeth, Cavendish, Conway & Astell](eras/03-early-modern/early-modern-women-philosophers.md)** (Early Modern / Women Philosophers): Mind-body interaction, vitalist materialism, monism of spirit, women's education
 - **1623–1662 — [Blaise Pascal](eras/03-early-modern/blaise-pascal.md)** (Early Modern / French Moralist): Wager, diversion, limits of reason
 - **1632–1677 — [Spinoza](eras/03-early-modern/baruch-spinoza.md)** (Early Modern / Rationalist): One substance, Deus sive Natura
 - **1632–1704 — [Locke](eras/03-early-modern/john-locke.md)** (Early Modern / Empiricist): White paper (no innate ideas), rights, toleration
@@ -47,12 +49,14 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1685–1753 — [Berkeley](eras/03-early-modern/george-berkeley.md)** (Early Modern / Empiricist): Esse est percipi
 - **1689–1755 — [Montesquieu](eras/03-early-modern/montesquieu.md)** (Early Modern / Political Theory): Separation of powers, spirit of the laws
 - **1706–1749 — [Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (Early Modern / Newtonian): Hypotheses, vis viva
+- **1710–1796 — [Thomas Reid](eras/03-early-modern/thomas-reid.md)** (Early Modern / Common Sense): Common sense, direct realism, agent causation
 - **1711–1776 — [Hume](eras/03-early-modern/david-hume.md)** (Early Modern / Empiricist): Induction, causation, is–ought
 - **1712–1778 — [Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (Early Modern / Republican): General will, natural goodness
 - **1713–1784 — [Diderot](eras/03-early-modern/denis-diderot.md)** (Early Modern / French Enlightenment): Encyclopédie, materialism
 - **1723–1790 — [Adam Smith](eras/03-early-modern/adam-smith.md)** (Early Modern / Moral Philosophy): Sympathy, impartial spectator
 - **1724–1804 — [Kant](eras/03-early-modern/immanuel-kant.md)** (Early Modern / Critical): Categories, categorical imperative
 - **1729–1781 — [Lessing](eras/03-early-modern/gotthold-ephraim-lessing.md)** (Early Modern / German Enlightenment): Ring parable, "ugly broad ditch", Laocoön
+- **1729–1797 — [Edmund Burke](eras/03-early-modern/edmund-burke.md)** (Early Modern / Political Thought): The sublime, prescription, the little platoon
 - **1759–1797 — [Mary Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (Early Modern / Enlightenment Feminism): Rights of woman, education
 - **1748–1832 — [Bentham](eras/04-19th-century/jeremy-bentham.md)** (19th c. / Utilitarian): Utility principle
 - **1762–1814 — [Johann Gottlieb Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (19th c. / German Idealist): Self-positing I, striving
