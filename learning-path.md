@@ -83,7 +83,7 @@ Stage 2's media is the densest (~2.25 hrs/week); let it spill into that stage's 
 
 ## 2. The retention system (a daily 10-minute queue + Session C, no teacher needed)
 
-This system is part of the plan, not an accessory. It is what the checkpoints in §5–§9 assume you are doing.
+This system is part of the plan, not an accessory. It is what the checkpoints in Stage 0 and §5–§9 assume you are doing.
 
 1. **Argument cards, scheduled by FSRS — not by hand.** One Anki deck for the whole plan, cumulative across all stages. Front: a *do*-prompt — “Hume — induction: state the problem in 3 sentences.” Back: numbered premises + conclusion + **one objection + one reply**. About 5 self-made cards per core author (~150 total), plus the decks shipped in [`study/cards/`](study/cards/README.md) — the 40 argument cards and the per-guide checkpoint cards — imported author by author as you reach each figure, never as a day-one dump. A card that asks “when was Kant born?” is a wasted card; dates live in `index.md`. Set Anki up once, like this:
    - **Turn [FSRS](https://docs.ankiweb.net/deck-options.html) on.** It is Anki's current scheduler (desktop, mobile, web) and the recommended one over the legacy SM-2 — but it is a *toggle* in Deck Options, so switch it on; do not assume it is already active.
@@ -96,7 +96,7 @@ This system is part of the plan, not an accessory. It is what the checkpoints in
    *What changed, and why:* an earlier version of this plan told you to hand-review each author's cards at +2 days, +1 week, +3 weeks, and stage end. That instruction is **retired for cards** — FSRS individualizes intervals, and hand-scheduling fights it. The +2d/+1wk/+3wk marks survive below, reassigned to reconstructions and checkpoints, where a human-scale rhythm is the right tool.
 2. **The daily queue.** Clear Anki's due queue in **~10 minutes, ~6 days a week**, separate from Sessions A–C (a phone on a walk is the normal venue). Do the load arithmetic once so it never frightens you: at this plan's intake — a few new cards a week, and a hard cap of ~5 new cards/day you will rarely approach — the queue stays in single-digit-to-low-teens minutes. (For scale: a sustained 20 new cards/day is what produces ~200 reviews/day; that is a different hobby.) **Backlog rule: if the queue ever backs up, stop adding new cards until it clears.** Missed days happen; the fix is smaller intake, never a raised retention target.
 3. **Blank-page reconstruction after every core text — on the successive-relearning rhythm.** 200–400 words, book closed, the argument rebuilt in your own words and in a clearer order if you can — explaining it to someone who hasn't read the passage, not paraphrasing sentence by sentence. Then, and only then, a second paragraph critiquing it. (This is Jim Pryor's standard undergraduate exercise, and his reading rule goes with it: read three times — skim for conclusion and structure, read carefully, then evaluate.) The scheduling principle is **successive relearning** (Rawson & Dunlosky): the active ingredient is *successful retrieval of the same material in multiple separate spaced sessions* — roughly, reconstruct each core argument successfully in **~3 separate sessions**. So re-reconstruct each core argument at **+2 days, +1 week, +3 weeks** after the first pass; Session C is where the later touches live. Two corollaries, both liberating: equal intervals perform about as well as expanding ones, so the marks are a rhythm you can keep, not a mechanism to fetishize; and **one clean successful recall per session is enough** — extra drilling crammed into a single session washes out once spaced relearning happens, so never marathon a reconstruction in one sitting.
-4. **Weekly book-closed checkpoint.** In Session C, answer 3 prompts from your current stage's checkpoint list (§5–§9), aloud or in writing, book closed. Score honestly against four levels: *can state / can reconstruct / can compare / can object*. Only the last three count as passing. “I recognise it when I see it” is *can state* at best, and usually not even that. Checkpoints double as the later spaced touches for the stage's early authors (§2.3) — pick prompts that reach back, not just across.
+4. **Weekly book-closed checkpoint.** In Session C, answer 3 prompts from your current stage's checkpoint list (Stage 0, §5–§9), aloud or in writing, book closed. Score honestly against four levels: *can state / can reconstruct / can compare / can object*. Only the last three count as passing. “I recognise it when I see it” is *can state* at best, and usually not even that. Checkpoints double as the later spaced touches for the stage's early authors (§2.3) — pick prompts that reach back, not just across.
 5. **One gate essay per stage: 600–800 words.** A modest thesis, defended clearly. A strong argument for a weaker thesis beats a weak argument for a grand one. **No gate essay = no advancing to the next stage**, however much you have "read." Prompts are suggested at each stage; any question from that stage's checkpoints, argued properly, also works. (Kept at exactly this cadence on the evidence: writing about content aids learning of it, but modestly — Graham, Kiuhara & MacKay 2020 — which supports the gate as consolidation, not a heavier essay schedule that would crowd out primary reading.)
 6. **Discussion substitutes, in order of value.** Solo study's weak point is that no one pushes back. Climb this ladder as needed: (a) record a 5-minute phone voice memo teaching the week's argument aloud — if you can't teach it, you don't have it yet; (b) steelman exchange — write the strongest objection to your gate essay *as the opposing author*, then reply; (c) post the gate essay or a reconstruction to a philosophy forum, reading group, or a scheduled AI-critique session with the instruction "find the weakest premise; do not summarise me back" — and treat anything it says as a discussion partner's claim to be verified against SEP or the primary text, never as authority; (d) Magee's interview series (*Men of Ideas*, [*The Great Philosophers*](https://en.wikipedia.org/wiki/The_Great_Philosophers)) after each era block, as a way of hearing a second voice before you write.
 
@@ -158,7 +158,7 @@ And one non-edition warning that belongs here: ***The Will to Power* is not a bo
 
 ---
 
-## Stage 0 — Tools & Problems (3 weeks · 12 hrs desk · ≈17 hrs all-in)
+## Stage 0 (prelude) — Tools & Problems (3 weeks · 12 hrs desk · ≈17 hrs all-in)
 
 **Purpose:** learn what an argument *is* before meeting 2,500 years of them, and meet all five threads in miniature so the spiral has hooks to hang on.
 
@@ -191,7 +191,7 @@ And one non-edition warning that belongs here: ***The Will to Power* is not a bo
 
 ---
 
-## Stage 1 — Ancient Foundations (13 weeks · 60 hrs desk · ≈93 hrs all-in)
+## 5. Stage 1 — Ancient Foundations (13 weeks · 60 hrs desk · ≈93 hrs all-in)
 
 **Threads in focus:** Ethics (virtue as knowledge vs. virtue as habit) and Metaphysics/Knowledge (Forms vs. Aristotle on substance); the God and Mind threads start quietly (soul, death). **Spiral return at stage end:** the death question twice — *Phaedo* vs. Lucretius.
 
@@ -230,7 +230,7 @@ And one non-edition warning that belongs here: ***The Will to Power* is not a bo
 
 ---
 
-## Stage 2 — Medieval & Renaissance Bridge (8 weeks · 36 hrs desk · ≈62 hrs all-in · compressed)
+## 6. Stage 2 — Medieval & Renaissance Bridge (8 weeks · 36 hrs desk · ≈62 hrs all-in · compressed)
 
 **Do not skip this stage, and do not expand it.** Skip it and Descartes' God-proofs, the scholastic vocabulary in every early-modern text, and Locke/Kant on substance become unintelligible. Expand it and you'll still be in the 14th century in month ten. Eight weeks, held firmly.
 
@@ -270,7 +270,7 @@ And one non-edition warning that belongs here: ***The Will to Power* is not a bo
 
 ---
 
-## Stage 3 — Early Modern to Kant (16 weeks · 72 hrs desk · ≈111 hrs all-in · the load-bearing stage)
+## 7. Stage 3 — Early Modern to Kant (16 weeks · 72 hrs desk · ≈111 hrs all-in · the load-bearing stage)
 
 The longest stage, and deliberately so. **Do not compress Stage 3** (§10's trim cuts everywhere else first). Every later stage spends the capital earned here: Nietzsche assumes your Kant, analytic philosophy assumes your Hume, political philosophy assumes your contract theorists.
 
@@ -316,7 +316,7 @@ The longest stage, and deliberately so. **Do not compress Stage 3** (§10's trim
 
 ---
 
-## Stage 4 — Nineteenth Century: System, Revolt, Society (11 weeks · 48 hrs desk · ≈80 hrs all-in)
+## 8. Stage 4 — Nineteenth Century: System, Revolt, Society (11 weeks · 48 hrs desk · ≈80 hrs all-in)
 
 **Threads in focus:** Ethics and Politics fused (freedom, history, utility vs. duty revisited with real opponents), God as *critique* (religion explained, not just argued). **Spiral returns:** Kant's ethics, now facing Mill and Nietzsche; the contract tradition, now facing Marx and Tocqueville.
 
@@ -356,7 +356,7 @@ The longest stage, and deliberately so. **Do not compress Stage 3** (§10's trim
 
 ---
 
-## Stage 5 — Twentieth Century to Present: Two Traditions + Capstone (13 weeks · 60 hrs desk · ≈91 hrs all-in)
+## 9. Stage 5 — Twentieth Century to Present: Two Traditions + Capstone (13 weeks · 60 hrs desk · ≈91 hrs all-in)
 
 **Split the stage; do not intermix randomly.** Analytic and continental philosophy after 1900 are two conversations with different founding documents and different styles; alternating them weekly produces two half-conversations. Do 5A, then 5B, then the capstone that forces them back into one room.
 

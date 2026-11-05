@@ -1,116 +1,116 @@
 # Progress Tracker
 
-Tick each figure off as you read the entry and its "read first" work. Order follows the master index (chronological), not the learning path — for the study order use `learning-path.md`.
+Tick each figure off as you read the entry and its "read first" work. Order follows the master index (chronological), not the learning path — for the study order use [`learning-path.md`](learning-path.md).
 
-- [ ] **Thales** (c.624–c.546 BCE) — archē, natural explanation
-- [ ] **Pythagoras** (c.570–c.495 BCE) — Number, harmony, soul
-- [ ] **Heraclitus** (c.540–c.480 BCE) — Flux, logos
-- [ ] **Parmenides** (b. c.515 BCE) — Being, deductive argument
-- [ ] **Zeno of Elea** (c.490–c.430 BCE) — Paradoxes of motion and plurality
-- [ ] **Empedocles** (c.494–c.434 BCE) — Four roots, Love and Strife
-- [ ] **Democritus** (c.460–c.370 BCE) — Atoms and void
-- [ ] **Protagoras (with Gorgias)** (c.490–c.420 BCE) — Man the measure, relativism; Gorgias: *Encomium of Helen*
-- [ ] **Socrates** (470–399 BCE) — Elenchus, virtue is knowledge
-- [ ] **Plato** (428/427–348/347 BCE) — Forms, Cave, philosopher-kings
-- [ ] **Aristotle** (384–322 BCE) — Four causes, virtue, eudaimonia
-- [ ] **Diogenes** (c.412–323 BCE) — Autarkeia, life by nature
-- [ ] **Pyrrho** (c.360–c.270 BCE) — Epochē, suspension of judgment
-- [ ] **Epicurus** (341–270 BCE) — Ataraxia, tetrapharmakos
-- [ ] **Zeno of Citium** (c.334–c.262 BCE) — Logos, indifferents, virtue
-- [ ] **Seneca** (c.4 BCE–65 CE) — Time, anger, providence
-- [ ] **Epictetus** (c.50–c.135 CE) — Dichotomy of control
-- [ ] **Marcus Aurelius** (121–180 CE) — Memento mori, view from above
-- [ ] **Plotinus** (204/205–270 CE) — The One, emanation
-- [ ] **Augustine** (354–430) — Evil as privation, time, grace
-- [ ] **Boethius** (c.477–524) — Consolation, universals problem
-- [ ] **John Scotus Eriugena** (c.800–c.877) — Division of nature, negative theology
-- [ ] **Avicenna** (980–1037) — Necessary Existent, Flying Man
-- [ ] **Anselm** (1033–1109) — Ontological argument
-- [ ] **Abelard** (1079–1142) — Intention, conceptualism
-- [ ] **Hildegard of Bingen** (1098–1179) — Viriditas, visionary cosmology
-- [ ] **Averroes** (1126–1198) — Commentary, harmony of faith/reason
-- [ ] **Maimonides** (c.1138–1204) — Negative theology
-- [ ] **Aquinas** (1225–1274) — Five Ways, natural law
-- [ ] **Duns Scotus** (c.1266–1308) — Univocity, haecceity
-- [ ] **Ockham** (c.1287–1347) — Razor, nominalism
-- [ ] **Nicholas of Cusa** (1401–1464) — Learned ignorance, coincidence of opposites
-- [ ] **Machiavelli** (1469–1527) — Effectual truth, virtù/fortuna
-- [ ] **Michel de Montaigne** (1533–1592) — "Que sçay-je?", the essay, custom
-- [ ] **Bacon** (1561–1626) — Idols, induction
-- [ ] **Hobbes** (1588–1679) — State of nature, Leviathan
-- [ ] **Descartes** (1596–1650) — Cogito, dualism, doubt
-- [ ] **Blaise Pascal** (1623–1662) — Wager, diversion, limits of reason
-- [ ] **Spinoza** (1632–1677) — One substance, Deus sive Natura
-- [ ] **Locke** (1632–1704) — White paper (no innate ideas), rights, toleration
-- [ ] **Leibniz** (1646–1716) — Monads, sufficient reason
-- [ ] **Giambattista Vico** (1668–1744) — Verum factum, three ages, corsi e ricorsi
-- [ ] **Berkeley** (1685–1753) — Esse est percipi
-- [ ] **Montesquieu** (1689–1755) — Separation of powers, spirit of the laws
-- [ ] **Émilie du Châtelet** (1706–1749) — Hypotheses, vis viva
-- [ ] **Hume** (1711–1776) — Induction, causation, is–ought
-- [ ] **Rousseau** (1712–1778) — General will, natural goodness
-- [ ] **Diderot** (1713–1784) — Encyclopédie, materialism
-- [ ] **Adam Smith** (1723–1790) — Sympathy, impartial spectator
-- [ ] **Kant** (1724–1804) — Categories, categorical imperative
-- [ ] **Lessing** (1729–1781) — Ring parable, "ugly broad ditch", Laocoön
-- [ ] **Mary Wollstonecraft** (1759–1797) — Rights of woman, education
-- [ ] **Bentham** (1748–1832) — Utility principle
-- [ ] **Johann Gottlieb Fichte** (1762–1814) — Self-positing I, striving
-- [ ] **Schleiermacher** (1768–1834) — Hermeneutics, feeling of absolute dependence
-- [ ] **Hegel** (1770–1831) — Dialectic, recognition, Geist
-- [ ] **Schelling** (1775–1854) — Naturphilosophie, identity philosophy
-- [ ] **Schopenhauer** (1788–1860) — Will, suffering, compassion
-- [ ] **Auguste Comte** (1798–1857) — Law of three stages, positivism
-- [ ] **Emerson & Thoreau** (1803–1882 / 1817–1862) — Self-reliance, civil disobedience
-- [ ] **Alexis de Tocqueville** (1805–1859) — Tyranny of the majority, soft despotism
-- [ ] **Mill** (1806–1873) — Harm principle
-- [ ] **Harriet Taylor Mill** (1807–1858) — Enfranchisement of women
-- [ ] **Kierkegaard** (1813–1855) — Stages, anxiety, subjective truth
-- [ ] **Marx** (1818–1883) — Alienation, surplus value, ideology
-- [ ] **Franz Brentano** (1838–1917) — Intentionality
-- [ ] **Henry Sidgwick** (1838–1900) — Methods of ethics, dualism of practical reason
-- [ ] **Peirce** (1839–1914) — Pragmatic maxim
-- [ ] **James** (1842–1910) — Truth as verified, will to believe
-- [ ] **Nietzsche** (1844–1900) — God is dead, slave morality, recurrence
-- [ ] **Frege** (1848–1925) — Sense/reference, predicate logic
-- [ ] **John Dewey** (1859–1952) — Inquiry, education as growth
-- [ ] **Husserl** (1859–1938) — Intentionality, lifeworld
-- [ ] **Henri Bergson** (1859–1941) — Duration, intuition, élan vital
-- [ ] **Alfred North Whitehead** (1861–1947) — Actual occasions, prehension, misplaced concreteness
-- [ ] **Russell** (1872–1970) — Descriptions, logical atomism
-- [ ] **G. E. Moore** (1873–1958) — Open-question argument, common sense
-- [ ] **Karl Jaspers** (1883–1969) — Boundary situations, the Encompassing, Axial Age
-- [ ] **Wittgenstein** (1889–1951) — Picture theory → language-games
-- [ ] **Heidegger** (1889–1976) — Being, Dasein, authenticity
-- [ ] **Susanne Langer** (1895–1985) — Presentational symbols, feeling and form
-- [ ] **Leo Strauss** (1899–1973) — Esoteric writing, ancients vs moderns
-- [ ] **Gilbert Ryle** (1900–1976) — Category mistakes, knowing-how
-- [ ] **Hans-Georg Gadamer** (1900–2002) — Fusion of horizons, prejudice
-- [ ] **Popper** (1902–1994) — Falsifiability, open society
-- [ ] **Thomas Kuhn** (1922–1996) — Paradigms, scientific revolutions
-- [ ] **(School entry) Vienna Circle** (1924–1936) — Verification principle
-- [ ] **Sartre** (1905–1980) — Bad faith, radical freedom
-- [ ] **Arendt** (1906–1975) — Action, banality of evil
-- [ ] **Emmanuel Levinas** (1906–1995) — The Face, ethics as first philosophy
-- [ ] **Beauvoir** (1908–1986) — The Other, situated freedom
-- [ ] **Simone Weil** (1909–1943) — Attention, affliction (malheur)
-- [ ] **Maurice Merleau-Ponty** (1908–1961) — Embodied perception, body-subject
-- [ ] **Quine** (1908–2000) — Web of belief, two dogmas
-- [ ] **Paul Ricoeur** (1913–2005) — Narrative identity, idem/ipse
-- [ ] **Adorno** (1903–1969) — Culture industry, negative dialectics
-- [ ] **Horkheimer** (1895–1973) — Critical vs traditional theory
-- [ ] **Habermas** (b. 1929) — Communicative action, public sphere
-- [ ] **Anscombe & Foot** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
-- [ ] **Iris Murdoch** (1919–1999) — Attention, unselfing, the Good
-- [ ] **Mary Midgley** (1919–2018) — Human nature, anti-reductionism
-- [ ] **Rawls** (1921–2002) — Veil of ignorance, difference principle
-- [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
-- [ ] **Alasdair MacIntyre** (1929–2025) — Practices, narrative, tradition
-- [ ] **Bernard Williams** (1929–2003) — Moral luck, integrity, internal reasons
-- [ ] **Judith Jarvis Thomson** (1929–2020) — Violinist argument, trolley problem
-- [ ] **Derrida** (1930–2004) — Différance, binary oppositions
-- [ ] **Hannah Pitkin** (1931–2023) — The concept of representation
-- [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
-- [ ] **Peter Singer** (b. 1946) — Speciesism, drowning child
-- [ ] **Martha Nussbaum** (b. 1947) — Capabilities approach, emotions as judgments
-- [ ] **(School entry) Frankfurt School** (1923–) — Instrumental reason, emancipation
+- [ ] **[Thales](eras/01-ancient/thales-of-miletus.md)** (c.624–c.546 BCE) — archē, natural explanation
+- [ ] **[Pythagoras](eras/01-ancient/pythagoras.md)** (c.570–c.495 BCE) — Number, harmony, soul
+- [ ] **[Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)** (c.540–c.480 BCE) — Flux, logos
+- [ ] **[Parmenides](eras/01-ancient/parmenides-of-elea.md)** (b. c.515 BCE) — Being, deductive argument
+- [ ] **[Zeno of Elea](eras/01-ancient/zeno-of-elea.md)** (c.490–c.430 BCE) — Paradoxes of motion and plurality
+- [ ] **[Empedocles](eras/01-ancient/empedocles.md)** (c.494–c.434 BCE) — Four roots, Love and Strife
+- [ ] **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c.460–c.370 BCE) — Atoms and void
+- [ ] **[Protagoras (with Gorgias)](eras/01-ancient/protagoras-and-the-sophists.md)** (c.490–c.420 BCE; Gorgias c.483–c.375 BCE) — Man the measure, relativism; Gorgias: non-being, power of logos
+- [ ] **[Socrates](eras/01-ancient/socrates.md)** (c.470–399 BCE) — Elenchus, virtue is knowledge
+- [ ] **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — Forms, Cave, philosopher-kings
+- [ ] **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Four causes, virtue, eudaimonia
+- [ ] **[Diogenes](eras/01-ancient/diogenes-of-sinope-and-the-cynics.md)** (c.412–323 BCE) — Autarkeia, life by nature
+- [ ] **[Pyrrho](eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)** (c.360–c.270 BCE) — Epochē, suspension of judgment
+- [ ] **[Epicurus](eras/01-ancient/epicurus.md)** (c.341–270 BCE) — Ataraxia, tetrapharmakos
+- [ ] **[Zeno of Citium](eras/01-ancient/zeno-of-citium-and-the-stoics.md)** (c.334–c.262 BCE) — Logos, indifferents, virtue
+- [ ] **[Seneca](eras/01-ancient/roman-stoics.md)** (c.4 BCE–65 CE) — Time, anger, providence
+- [ ] **[Epictetus](eras/01-ancient/roman-stoics.md)** (c.50–c.135 CE) — Dichotomy of control
+- [ ] **[Marcus Aurelius](eras/01-ancient/roman-stoics.md)** (121–180 CE) — Memento mori, view from above
+- [ ] **[Plotinus](eras/01-ancient/plotinus.md)** (c.204/205–270 CE) — The One, emanation
+- [ ] **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Evil as privation, time, grace
+- [ ] **[Boethius](eras/02-medieval/boethius.md)** (c.477–524) — Consolation, universals problem
+- [ ] **[John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c.800–c.877) — Division of nature, negative theology
+- [ ] **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — Necessary Existent, Flying Man
+- [ ] **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — Ontological argument
+- [ ] **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Intention, conceptualism
+- [ ] **[Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (1098–1179) — Viriditas, visionary cosmology
+- [ ] **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Commentary, harmony of faith/reason
+- [ ] **[Maimonides](eras/02-medieval/maimonides.md)** (c.1138–1204) — Negative theology
+- [ ] **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Five Ways, natural law
+- [ ] **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c.1266–1308) — Univocity, haecceity
+- [ ] **[Ockham](eras/02-medieval/william-of-ockham.md)** (c.1287–1347) — Razor, nominalism
+- [ ] **[Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (1401–1464) — Learned ignorance, coincidence of opposites
+- [ ] **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — Effectual truth, virtù/fortuna
+- [ ] **[Michel de Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "Que sçay-je?", the essay, custom
+- [ ] **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Idols, induction
+- [ ] **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — State of nature, Leviathan
+- [ ] **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Cogito, dualism, doubt
+- [ ] **[Blaise Pascal](eras/03-early-modern/blaise-pascal.md)** (1623–1662) — Wager, diversion, limits of reason
+- [ ] **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — One substance, Deus sive Natura
+- [ ] **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — White paper (no innate ideas), rights, toleration
+- [ ] **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Monads, sufficient reason
+- [ ] **[Giambattista Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — Verum factum, three ages, corsi e ricorsi
+- [ ] **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Esse est percipi
+- [ ] **[Montesquieu](eras/03-early-modern/montesquieu.md)** (1689–1755) — Separation of powers, spirit of the laws
+- [ ] **[Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (1706–1749) — Hypotheses, vis viva
+- [ ] **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Induction, causation, is–ought
+- [ ] **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — General will, natural goodness
+- [ ] **[Diderot](eras/03-early-modern/denis-diderot.md)** (1713–1784) — Encyclopédie, materialism
+- [ ] **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — Sympathy, impartial spectator
+- [ ] **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Categories, categorical imperative
+- [ ] **[Lessing](eras/03-early-modern/gotthold-ephraim-lessing.md)** (1729–1781) — Ring parable, "ugly broad ditch", Laocoön
+- [ ] **[Mary Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — Rights of woman, education
+- [ ] **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — Utility principle
+- [ ] **[Johann Gottlieb Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — Self-positing I, striving
+- [ ] **[Schleiermacher](eras/04-19th-century/friedrich-schleiermacher.md)** (1768–1834) — Hermeneutics, feeling of absolute dependence
+- [ ] **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — Dialectic, recognition, Geist
+- [ ] **[Schelling](eras/04-19th-century/friedrich-schelling.md)** (1775–1854) — Naturphilosophie, identity philosophy
+- [ ] **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — Will, suffering, compassion
+- [ ] **[Auguste Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Law of three stages, positivism
+- [ ] **[Emerson & Thoreau](eras/04-19th-century/emerson-and-thoreau.md)** (1803–1882 / 1817–1862) — Self-reliance, civil disobedience
+- [ ] **[Alexis de Tocqueville](eras/04-19th-century/alexis-de-tocqueville.md)** (1805–1859) — Tyranny of the majority, soft despotism
+- [ ] **[Mill](eras/04-19th-century/john-stuart-mill.md)** (1806–1873) — Harm principle
+- [ ] **[Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (1807–1858) — Enfranchisement of women
+- [ ] **[Kierkegaard](eras/04-19th-century/soren-kierkegaard.md)** (1813–1855) — Stages, anxiety, subjective truth
+- [ ] **[Marx](eras/04-19th-century/karl-marx.md)** (1818–1883) — Alienation, surplus value, ideology
+- [ ] **[Franz Brentano](eras/04-19th-century/franz-brentano.md)** (1838–1917) — Intentionality
+- [ ] **[Henry Sidgwick](eras/04-19th-century/henry-sidgwick.md)** (1838–1900) — Methods of ethics, dualism of practical reason
+- [ ] **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Pragmatic maxim
+- [ ] **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Truth as verified, will to believe
+- [ ] **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — God is dead, slave morality, recurrence
+- [ ] **[Frege](eras/05-20th-century/gottlob-frege.md)** (1848–1925) — Sense/reference, predicate logic
+- [ ] **[John Dewey](eras/05-20th-century/john-dewey.md)** (1859–1952) — Inquiry, education as growth
+- [ ] **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Intentionality, lifeworld
+- [ ] **[Henri Bergson](eras/05-20th-century/henri-bergson.md)** (1859–1941) — Duration, intuition, élan vital
+- [ ] **[Alfred North Whitehead](eras/05-20th-century/alfred-north-whitehead.md)** (1861–1947) — Actual occasions, prehension, misplaced concreteness
+- [ ] **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Descriptions, logical atomism
+- [ ] **[G. E. Moore](eras/05-20th-century/g-e-moore.md)** (1873–1958) — Open-question argument, common sense
+- [ ] **[Karl Jaspers](eras/05-20th-century/karl-jaspers.md)** (1883–1969) — Boundary situations, the Encompassing, Axial Age
+- [ ] **Wittgenstein ([early](eras/05-20th-century/wittgenstein-early.md) · [late](eras/05-20th-century/wittgenstein-late.md))** (1889–1951) — Picture theory → language-games
+- [ ] **[Heidegger](eras/05-20th-century/martin-heidegger.md)** (1889–1976) — Being, Dasein, authenticity
+- [ ] **[Susanne Langer](eras/05-20th-century/susanne-langer.md)** (1895–1985) — Presentational symbols, feeling and form
+- [ ] **[Leo Strauss](eras/05-20th-century/leo-strauss.md)** (1899–1973) — Esoteric writing, ancients vs moderns
+- [ ] **[Gilbert Ryle](eras/05-20th-century/gilbert-ryle.md)** (1900–1976) — Category mistakes, knowing-how
+- [ ] **[Hans-Georg Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — Fusion of horizons, prejudice
+- [ ] **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Falsifiability, open society
+- [ ] **[Thomas Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Paradigms, scientific revolutions
+- [ ] **[(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — Verification principle
+- [ ] **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Bad faith, radical freedom
+- [ ] **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Action, banality of evil
+- [ ] **[Emmanuel Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — The Face, ethics as first philosophy
+- [ ] **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — The Other, situated freedom
+- [ ] **[Simone Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — Attention, affliction (malheur)
+- [ ] **[Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (1908–1961) — Embodied perception, body-subject
+- [ ] **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — Web of belief, two dogmas
+- [ ] **[Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md)** (1913–2005) — Narrative identity, idem/ipse
+- [ ] **[Adorno](eras/05-20th-century/frankfurt-school.md)** (1903–1969) — Culture industry, negative dialectics
+- [ ] **[Horkheimer](eras/05-20th-century/frankfurt-school.md)** (1895–1973) — Critical vs traditional theory
+- [ ] **[Habermas](eras/05-20th-century/frankfurt-school.md)** (b. 1929) — Communicative action, public sphere
+- [ ] **[Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md)** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
+- [ ] **[Iris Murdoch](eras/05-20th-century/iris-murdoch.md)** (1919–1999) — Attention, unselfing, the Good
+- [ ] **[Mary Midgley](eras/05-20th-century/mary-midgley.md)** (1919–2018) — Human nature, anti-reductionism
+- [ ] **[Rawls](eras/05-20th-century/john-rawls.md)** (1921–2002) — Veil of ignorance, difference principle
+- [ ] **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Power/knowledge, discipline
+- [ ] **[Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — Practices, narrative, tradition
+- [ ] **[Bernard Williams](eras/05-20th-century/bernard-williams.md)** (1929–2003) — Moral luck, integrity, internal reasons
+- [ ] **[Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (1929–2020) — Violinist argument, trolley problem
+- [ ] **[Derrida](eras/05-20th-century/jacques-derrida.md)** (1930–2004) — Différance, binary oppositions
+- [ ] **[Hannah Pitkin](eras/05-20th-century/hannah-pitkin.md)** (1931–2023) — The concept of representation
+- [ ] **[Derek Parfit](eras/05-20th-century/derek-parfit.md)** (1942–2017) — Identity not what matters, non-identity problem
+- [ ] **[Peter Singer](eras/05-20th-century/peter-singer.md)** (b. 1946) — Speciesism, drowning child
+- [ ] **[Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (b. 1947) — Capabilities approach, emotions as judgments
+- [ ] **[(School entry) Frankfurt School](eras/05-20th-century/frankfurt-school.md)** (1923–) — Instrumental reason, emancipation
