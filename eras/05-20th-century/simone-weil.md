@@ -27,7 +27,7 @@ After the German occupation she escaped with her parents to New York in 1942, th
 
 ### Attention
 
-Attention is Weil's master concept. It is not muscular effort or concentration by will, but a receptive, self-emptying waiting: suspending one's own thoughts and desires so that reality — or another person — can appear as it is. In her essay on school studies, the true purpose of study is training this attention, which is also the substance of both prayer and love of neighbor: attention, she wrote, is "the rarest and purest form of generosity." To attend to someone afflicted is to ask, "What are you going through?" — and to consent to hear the answer. Iris Murdoch later took the concept into moral philosophy.
+Attention is Weil's master concept. It is not muscular effort or concentration by will, but a receptive, self-emptying waiting: suspending one's own thoughts and desires so that reality — or another person — can appear as it is. In her essay on school studies, the true purpose of study is training this attention, which is also the substance of both prayer and love of neighbor. In a 1942 letter to the poet Joë Bousquet she wrote that attention is "the rarest and purest form of generosity." To attend to someone afflicted is to ask, "What are you going through?" — and to consent to hear the answer. Iris Murdoch later took the concept into moral philosophy.
 
 ### Affliction (*malheur*)
 

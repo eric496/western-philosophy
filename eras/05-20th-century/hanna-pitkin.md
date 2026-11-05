@@ -7,7 +7,7 @@
 ## At a glance
 
 - **Dates:** 1931–2023
-- **Place:** Born in Berlin, Germany; emigrated to the United States as a child; career at the University of California, Berkeley
+- **Place:** Born in Berlin, Germany; emigrated to the United States as a child; taught at San Francisco State and Wisconsin–Madison, then at the University of California, Berkeley from 1966
 - **School/tradition:** Political theory; Wittgensteinian conceptual analysis applied to politics
 - **Known for:** *The Concept of Representation* (1967) — still the standard philosophical map of what representation is — and *Wittgenstein and Justice* (1972)
 
@@ -15,7 +15,7 @@
 
 ## Biography
 
-Hanna Fenichel Pitkin was born in Berlin in 1931, the daughter of Otto Fenichel, a prominent psychoanalyst in Freud's circle. The family fled the Nazis, reaching the United States in 1938, and she grew up in California. She took her doctorate at the University of California, Berkeley, in 1961; the dissertation became her first and most famous book. She spent her career at Berkeley, where she became a professor of political science and a famously demanding teacher of political theory, retiring as professor emerita. Later books turned the same close conceptual attention onto Machiavelli and gender (*Fortune Is a Woman*, 1984) and onto Hannah Arendt (*The Attack of the Blob*, 1998). She died in Berkeley in 2023.
+Hanna Fenichel Pitkin was born in Berlin in 1931, the daughter of Otto Fenichel, a prominent psychoanalyst in Freud's circle. The family fled the Nazis, reaching the United States in 1938, and she grew up in California. She took her doctorate at the University of California, Berkeley, in 1961; the dissertation became her first and most famous book. She taught at San Francisco State and the University of Wisconsin–Madison before returning to Berkeley in 1966 as its first woman on the ladder-rank political science faculty, where she became a professor and a famously demanding teacher of political theory, retiring as professor emerita. Later books turned the same close conceptual attention onto Machiavelli and gender (*Fortune Is a Woman*, 1984) and onto Hannah Arendt (*The Attack of the Blob*, 1998). She died in Berkeley in 2023.
 
 ## Major theories and concepts
 

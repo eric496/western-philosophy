@@ -9,7 +9,7 @@
 ## At a glance
 
 - **Dates:** 1138 – 1204 (born 1135 on some traditional datings; 1138 is the more common scholarly dating)
-- **Place:** Born in Córdoba, al-Andalus; exiled across North Africa; settled in Fustat (Old Cairo), Egypt. Wrote the *Guide* in Judeo-Arabic, his legal works in Hebrew.
+- **Place:** Born in Córdoba, al-Andalus; exiled across North Africa; settled in Fustat (Old Cairo), Egypt. Wrote the *Guide*, the *Commentary on the Mishnah*, and the *Book of Commandments* in Judeo-Arabic; only the *Mishneh Torah* is in Hebrew.
 - **School/tradition:** Jewish philosophy and law — a rabbinic jurist, physician, and Aristotelian philosopher in the Arabic tradition of al-Fārābī and Avicenna.
 - **Known for:** The *Guide of the Perplexed*, negative theology, and the *Mishneh Torah*, the great code of Jewish law.
 
