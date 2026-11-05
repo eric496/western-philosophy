@@ -29,7 +29,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 | [`sources.md`](sources.md) | SEP/IEP/Britannica entries, survey books (Kenny, Copleston, Adamson's [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/)), free course sources |
 | [`templates/philosopher-template.md`](templates/philosopher-template.md) | The entry template for adding new figures |
 | [`notes/`](notes/) | Space for your own study notes |
-| [`scripts/check_repo.py`](scripts/check_repo.py) | Offline consistency checks (relative links, index/tracker/timeline agreement, deck format, image sources); runs in CI on every push, with a weekly external-link sweep ([`.github/workflows/checks.yml`](.github/workflows/checks.yml)) |
+| [`scripts/check_repo.py`](scripts/check_repo.py) | Offline consistency checks (relative links, index/tracker/timeline agreement, deck format, image sources); a ready-made GitHub Actions workflow ([`ci/checks.yml`](ci/checks.yml)) runs it on every push plus a weekly external-link sweep once it is copied to `.github/workflows/checks.yml` (adding a workflow file needs a GitHub token with the `workflow` scope, or the GitHub web editor) |
 
 ## How the entries are written
 
