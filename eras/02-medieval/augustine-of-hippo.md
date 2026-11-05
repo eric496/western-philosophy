@@ -43,14 +43,14 @@ Book 11 of the *Confessions* asks: what is time? The past no longer exists, the 
 
 ### Inner teacher and illumination
 
-In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* also contains an argument from self-awareness: "if I am deceived, I exist" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
+In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* (II.3) already argues from self-awareness that one who can be deceived must exist, and *City of God* XI.26 gives it its famous form: "if I am deceived, I exist" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
 
 ## Key works
 
 - **Confessions** (c. 397–400) — spiritual autobiography through Book 9; Books 10–11 pivot to memory and time. The philosophical core of the Western autobiographical tradition.
 - **City of God** (413–426) — 22 books: refutation of pagan charges, then the two-cities philosophy of history. Read selectively.
 - **On the Trinity** (c. 399–419) — his most speculative work; psychological analogies of the Trinity (memory, understanding, will) shape later Western theology.
-- **On Free Choice of the Will** (begun c. 388, completed c. 395) — early dialogue on evil and free will; contains the *si fallor, sum*.
+- **On Free Choice of the Will** (begun c. 388, completed c. 395) — early dialogue on evil and free will; contains an early form (II.3) of the argument later stated as *si fallor, sum* in *City of God* XI.26.
 - **Anti-Pelagian writings** (c. 412–430) — *On Nature and Grace*, *On Grace and Free Will*, *On the Predestination of the Saints*: the hard edge of the grace doctrine.
 
 ## In their own words

@@ -1,8 +1,8 @@
-# Hannah Pitkin
+# Hanna Pitkin
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-*Portrait: none included — no freely licensed portrait of Hannah Pitkin is publicly available (her English Wikipedia article (under "Hanna Fenichel Pitkin") carries no image at all). If one surfaces, it belongs here, where every other entry carries its portrait.*
+*Portrait: none included — no freely licensed portrait of Hanna Pitkin is publicly available (her English Wikipedia article, under "Hanna Fenichel Pitkin", carries no image at all). If one surfaces, it belongs here, where every other entry carries its portrait.*
 
 ## At a glance
 
@@ -15,7 +15,7 @@
 
 ## Biography
 
-Hannah Fenichel Pitkin was born in Berlin in 1931, the daughter of Otto Fenichel, a prominent psychoanalyst in Freud's circle. The family fled the Nazis, reaching the United States in 1938, and she grew up in California. She took her doctorate at the University of California, Berkeley, in 1961; the dissertation became her first and most famous book. She spent her career at Berkeley, where she became a professor of political science and a famously demanding teacher of political theory, retiring as professor emerita. Later books turned the same close conceptual attention onto Machiavelli and gender (*Fortune Is a Woman*, 1984) and onto Hannah Arendt (*The Attack of the Blob*, 1998). She died in Berkeley in 2023.
+Hanna Fenichel Pitkin was born in Berlin in 1931, the daughter of Otto Fenichel, a prominent psychoanalyst in Freud's circle. The family fled the Nazis, reaching the United States in 1938, and she grew up in California. She took her doctorate at the University of California, Berkeley, in 1961; the dissertation became her first and most famous book. She spent her career at Berkeley, where she became a professor of political science and a famously demanding teacher of political theory, retiring as professor emerita. Later books turned the same close conceptual attention onto Machiavelli and gender (*Fortune Is a Woman*, 1984) and onto Hannah Arendt (*The Attack of the Blob*, 1998). She died in Berkeley in 2023.
 
 ## Major theories and concepts
 
@@ -45,7 +45,7 @@ In *The Attack of the Blob: Hannah Arendt's Concept of the Social* (1998), Pitki
 ## Key works
 
 - *The Concept of Representation* (1967) — the four views, the mandate–independence controversy, and representation as an institutional arrangement; still the field's reference point.
-- (Editor) *Representation* (1969) — the Nomos X yearbook volume, gathering the debate her book had set off.
+- (Editor) *Representation* (1969) — a reader in Atherton Press's Controversy series (not the separate *Nomos X: Representation*, ed. Pennock and Chapman, 1968), gathering the debate her book had set off.
 - *Wittgenstein and Justice: On the Significance of Ludwig Wittgenstein for Social and Political Thought* (1972).
 - *Fortune Is a Woman: Gender and Politics in the Thought of Niccolò Machiavelli* (1984) — Machiavelli's politics read through his figures of fortune, virtue and gender.
 - *The Attack of the Blob: Hannah Arendt's Concept of the Social* (1998) — a sympathetic critic's case that Arendt's "social" became an unaccountable abstraction.

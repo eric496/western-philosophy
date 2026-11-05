@@ -7,7 +7,7 @@
 ## At a glance
 
 - **Dates:** Judith Jarvis Thomson, 1929–2020.
-- **Place:** Born in New York City; educated at Barnard and Cambridge; taught at MIT for most of her career.
+- **Place:** Born in New York City; educated at Barnard, Cambridge and Columbia; taught at MIT for most of her career.
 - **School/tradition:** Analytic moral philosophy, especially the theory of rights.
 - **Known for:** "A Defense of Abortion" (1971) and its famous violinist thought experiment, and for naming and shaping the trolley problem — philosophy's most famous moral dilemma.
 
@@ -15,7 +15,7 @@
 
 ## Biography
 
-Judith Jarvis Thomson was born on 4 October 1929 in New York City. She studied philosophy at Barnard College, graduating in 1950, and then at Cambridge, where she took a second BA and, in 1959, a PhD at Clare College. After a brief period teaching at Boston University, she joined MIT in 1964 and spent the rest of her career there, becoming one of the most influential moral philosophers in the analytic tradition. She was married to the philosopher James F. Thomson, with whom she also wrote.
+Judith Jarvis Thomson was born on 4 October 1929 in New York City. She studied philosophy at Barnard College, graduating in 1950, then at Newnham College, Cambridge, where she took a second BA (1952) and an MA (1956), and finally at Columbia University, where she took her PhD in 1959. After a brief period teaching at Boston University, she joined MIT in 1964 and spent the rest of her career there, becoming one of the most influential moral philosophers in the analytic tradition. She was married to the philosopher James F. Thomson, with whom she also wrote.
 
 Thomson's reputation rests on a series of papers of unusual clarity and argumentative daring. "A Defense of Abortion," published in 1971 in the very first issue of *Philosophy & Public Affairs*, transformed the abortion debate within a few years of *Roe v. Wade* becoming a live legal question. In the 1980s she took up a puzzle case devised by Philippa Foot and, in "The Trolley Problem" (1985) and related papers, turned it into a research program that is still running. Her systematic work on rights appeared in *The Realm of Rights* (1990), and she continued to refine — and sometimes reverse — her positions, notably returning to the trolley cases in "Turning the Trolley" (2008) and revising a view she had held for thirty years. She died on 20 November 2020, aged ninety-one.
 
@@ -37,7 +37,7 @@ Thomson's own answers changed over time. She long defended a rights-based explan
 
 ### Rights as the structure of morality
 
-Across *The Realm of Rights* (1990) and her papers, Thomson defended a morality built from rights and claims rather than from maximizing good outcomes. Rights, on her account, are not decorative: to have a right is for others to be under obligations, and moral reasoning is largely about which claims people have against one another and what infringing a claim requires (as opposed to merely *violating* a right, which she distinguished as infringement without wrongdoing — sometimes an infringement is justified, and compensation is then owed). This framework drives both the abortion argument (a right to life does not automatically include a right to another's body) and the trolley analyses (the one on the side track has a claim not to be killed to save others — the question is its exact shape). She also wrote influentially on self-defense, arguing that even an innocent threat may sometimes be permissibly killed, and on goodness and reasons in *Goodness and Advice* (2001).
+Across *The Realm of Rights* (1990) and her papers, Thomson defended a morality built from rights and claims rather than from maximizing good outcomes. Rights, on her account, are not decorative: to have a right is for others to be under obligations, and moral reasoning is largely about which claims people have against one another and when a claim may be infringed. (Her terms: any failure to accord someone a claim *infringes* their right; only a wrongful infringement *violates* it. Sometimes an infringement is justified, and compensation is then owed.) This framework drives both the abortion argument (a right to life does not automatically include a right to another's body) and the trolley analyses (the one on the side track has a claim not to be killed to save others — the question is its exact shape). She also wrote influentially on self-defense, arguing that even an innocent threat may sometimes be permissibly killed, and on goodness and reasons in *Goodness and Advice* (2001).
 
 ## Key works
 

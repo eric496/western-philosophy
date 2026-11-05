@@ -111,7 +111,7 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 105 | [Bernard Williams](eras/05-20th-century/bernard-williams.md) | 1929–2003 | 20th c. / Ethics | Moral luck, integrity, internal reasons | *Ethics and the Limits of Philosophy* |
 | 106 | [Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md) | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
 | 107 | [Derrida](eras/05-20th-century/jacques-derrida.md) | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
-| 108 | [Hannah Pitkin](eras/05-20th-century/hannah-pitkin.md) | 1931–2023 | 20th c. / Political Theory | The concept of representation | *The Concept of Representation* |
+| 108 | [Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md) | 1931–2023 | 20th c. / Political Theory | The concept of representation | *The Concept of Representation* |
 | 109 | [Derek Parfit](eras/05-20th-century/derek-parfit.md) | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
 | 110 | [Peter Singer](eras/05-20th-century/peter-singer.md) | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
 | 111 | [Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md) | b. 1947 | 20th c. / Ethics & Political Philosophy | Capabilities approach, emotions as judgments | *The Fragility of Goodness*; *Creating Capabilities* |

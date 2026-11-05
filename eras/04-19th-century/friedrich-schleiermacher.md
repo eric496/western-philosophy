@@ -78,7 +78,7 @@ Through Dilthey, who edited his works and wrote his biography, the hermeneutics 
 ## What to read first
 
 1. *Speeches on Religion*, the Second Speech — the religion-as-intuition argument at full youthful force; Crouter's Cambridge edition is the standard English text.
-2. *Hermeneutics and Criticism* (the 1819 compendium and related manuscripts, trans. Duke and Forstman) — the art of understanding in his own compact formulations, including the strict-practice maxim.
+2. *Hermeneutics and Criticism and Other Writings* (the 1819 compendium and related manuscripts, ed. and trans. Andrew Bowie, Cambridge, 1998) — the art of understanding in his own compact formulations, including the strict-practice maxim.
 3. "On the Different Methods of Translating" — twelve pages that organize a whole field; findable in translation-studies readers (e.g. in Venuti's *Translation Studies Reader*).
 4. *The Christian Faith*, §§3–5 and the Introduction — the dependence formula and the method of dogmatics, before sampling its doctrines.
 5. For orientation: the [SEP](https://plato.stanford.edu/) entry on Schleiermacher, then Gadamer's critique in *Truth and Method* Part II to see the frame he set.

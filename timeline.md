@@ -109,7 +109,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1929–2003 — [Bernard Williams](eras/05-20th-century/bernard-williams.md)** (20th c. / Ethics): Moral luck, integrity, internal reasons
 - **1929–2020 — [Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (20th c. / Ethics & Rights): Violinist argument, trolley problem
 - **1930–2004 — [Derrida](eras/05-20th-century/jacques-derrida.md)** (20th c. / Deconstruction): Différance, binary oppositions
-- **1931–2023 — [Hannah Pitkin](eras/05-20th-century/hannah-pitkin.md)** (20th c. / Political Theory): The concept of representation
+- **1931–2023 — [Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md)** (20th c. / Political Theory): The concept of representation
 - **1942–2017 — [Derek Parfit](eras/05-20th-century/derek-parfit.md)** (20th c. / Ethics): Identity not what matters, non-identity problem
 - **b. 1946 — [Peter Singer](eras/05-20th-century/peter-singer.md)** (Contemporary / Utilitarian): Speciesism, drowning child
 - **b. 1947 — [Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (20th c. / Ethics & Political Philosophy): Capabilities approach, emotions as judgments
