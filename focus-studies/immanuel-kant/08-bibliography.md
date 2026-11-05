@@ -8,13 +8,15 @@ All consistent with the learning path's Kant row; the dossier adds the texts the
 
 **Paul Guyer and Allen W. Wood (trans.), *Critique of Pure Reason* (Cambridge Texts in the History of Philosophy, 1998).** The dossier's *Critique* and the path's ruling: modern, terminologically consistent, with A/B pagination in the margins throughout — the feature daily use actually depends on. **Do not substitute Norman Kemp Smith (1929) or J. M. D. Meiklejohn (1855)**, and do not read an unlabeled Gutenberg text: the terminology misleads beginners and the cheap reprints often drop the A/B numbers altogether.
 
+A third modern complete translation exists — **Werner Pluhar, *Critique of Pure Reason* (Hackett, 1996)** — accurate and widely admired, and consistent with Pluhar's *Judgment* (1987) and *Practical Reason* (2002); it reads a little more freely than Guyer-Wood and is the sanctioned fallback for a reader who finds Guyer-Wood's prose stiff, but is not this dossier's default.
+
 **Mary Gregor (trans.), *Groundwork of the Metaphysics of Morals*, revised by Jens Timmermann, introduction by Christine Korsgaard (Cambridge Texts, 2012).** The plan's *Groundwork*: the standard classroom text, with Korsgaard's introduction doubling as your first piece of scholarly Kant (see tier 3). Allen Wood's Yale translation (2002) is the sanctioned alternative; J. W. Ellington's Hackett version is older but serviceable if it is what you own.
 
 **Gary Hatfield (ed. and trans.), *Prolegomena to Any Future Metaphysics* (Cambridge Texts, rev. ed., 2004).** Week 1's text: Kant's own short restatement of the first *Critique*, with an introduction that maps the 1781 reception disaster it was written to repair.
 
 **Mary Gregor (trans.), *Critique of Practical Reason*, in *Practical Philosophy* (Cambridge Edition of the Works of Immanuel Kant, 1996).** The plan's second *Critique*; *Practical Philosophy* also carries the *Groundwork* in Gregor's unrevised text and "What Is Enlightenment?", making it the one-volume practical Kant. Werner Pluhar's Hackett translation (2002) is the standalone alternative.
 
-**Allen W. Wood and George di Giovanni (trans.), *Religion and Rational Theology* (Cambridge Edition, 1996).** Contains the *Religion within the Boundaries of Mere Reason* — Week 6's Book One (radical evil) in the standard modern translation, with the essays that show Kant's moral religion in its working clothes.
+**Allen W. Wood and George di Giovanni (trans. and ed.), *Religion and Rational Theology* (Cambridge Edition, 1996).** Contains *Religion within the Boundaries of Mere Reason* (translated by di Giovanni) — Week 6's Book One (radical evil) in the standard modern translation, with the essays that show Kant's moral religion in its working clothes.
 
 **Paul Guyer and Eric Matthews (trans.), *Critique of Judgment* (Cambridge Texts, 2000).** Week 7's selections (the Analytic of the Beautiful, the sublime). Supersedes Bernard and Meredith for a first read: consistent with the Guyer and Wood *Critique*'s terminology, which matters when the third *Critique* spends the first one's capital.
 

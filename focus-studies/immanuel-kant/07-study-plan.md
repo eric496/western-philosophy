@@ -148,7 +148,7 @@ Session shape each week follows the learning path: **A — Primary** (~2.5 hrs, 
 
 **Primary.** Re-read two short stretches with the whole system in view: the **B Preface** (the Copernican analogy now reads as a summary of everything) and the **Canon** (the three questions, now answerable). Then the **SEP's "Immanuel Kant" (Michael Rohlf) in full** — the learning path's per-stage ritual (skim early, *read* after) applied to the figure where compression is most dangerous: its accounts of the two readings of transcendental idealism and of the Deduction's steps are the external check on [03](03-system-and-concepts.md) and [06](06-reception-and-debates.md). Skim [08-bibliography.md](08-bibliography.md) and choose your next book while your map of your own gaps is fresh — Guyer's *Kant* if you skipped it in Session B; Allison if the two-aspect reading has you; Korsgaard if the *Groundwork* is where you want to live.
 
-**Alongside.** [05-conversations.md](05-conversations.md) (Wolff and Crusius behind him; Hume across from him; Reinhold, Fichte, and Hegel ahead) — read it now as the bridge document: Stage 4 opens with Fichte, and this file is the hinge.
+**Alongside.** [05-conversations.md](05-conversations.md) (Wolff and Baumgarten behind him; Hume across from him; Reinhold, Fichte, and Hegel ahead) — read it now as the bridge document: Stage 4 opens with Fichte, and this file is the hinge.
 
 **Media.** None assigned. Writing week: media would be a displacement activity wearing a lanyard. (The learning path's sanctioned alternative for this stretch, the Kenny Vol. 3 audiobook, is the permitted background if silence itself becomes the problem.)
 
