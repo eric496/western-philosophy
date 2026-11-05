@@ -33,7 +33,7 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 27 | [Averroes](eras/02-medieval/averroes.md) | 1126–1198 | Medieval / Islamic | Commentary, harmony of faith/reason | *Decisive Treatise* |
 | 28 | [Maimonides](eras/02-medieval/maimonides.md) | c.1138–1204 | Medieval / Jewish | Negative theology | *Guide*, Bk I excerpts |
 | 29 | [Aquinas](eras/02-medieval/thomas-aquinas.md) | 1225–1274 | Medieval / Thomist | Five Ways, natural law | *Summa Theologiae* I, Q2 |
-| 30 | [Duns Scotus](eras/02-medieval/john-duns-scotus.md) | c.1266–1308 | Medieval / Scholastic | Univocity, haecceity | Secondary first |
+| 30 | [Duns Scotus](eras/02-medieval/john-duns-scotus.md) | c.1263/66–1308 | Medieval / Scholastic | Univocity, haecceity | Secondary first |
 | 31 | [Ockham](eras/02-medieval/william-of-ockham.md) | c.1287–1347 | Medieval / Nominalist | Razor, nominalism | *Summa Logicae* excerpts |
 | 32 | [Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md) | 1401–1464 | Medieval / Late Medieval | Learned ignorance, coincidence of opposites | *On Learned Ignorance* |
 | 33 | [Machiavelli](eras/03-early-modern/niccolo-machiavelli.md) | 1469–1527 | Early Modern / Realist | Effectual truth, virtù/fortuna | *The Prince* + *Discourses* |

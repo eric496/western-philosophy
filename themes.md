@@ -104,7 +104,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Scripture and demonstration cannot conflict; where they seem to, scripture is read allegorically — the *Decisive Treatise* makes this a legal duty.
 - **[Maimonides](eras/02-medieval/maimonides.md)** (c. 1138–1204) — We can say only what God is *not*: any attribute shared with creatures would be a likeness where none exists.
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The Five Ways argue from motion, causation, contingency, gradation, and governance to God; philosophy and sacred doctrine harmonize.
-- **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1266–1308) — "Being" is said univocally of God and creatures — otherwise natural theology could prove nothing about God at all.
+- **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1263/66–1308) — "Being" is said univocally of God and creatures — otherwise natural theology could prove nothing about God at all.
 - **[Ockham](eras/02-medieval/william-of-ockham.md)** (c. 1287–1347) — Reason proves far less about God than the schools claimed: his existence is held by faith, and omnipotence bows to no created order.
 - **[Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (1401–1464) — Learned ignorance: God is the coincidence of opposites, beyond affirmation and negation, glimpsed through mathematical symbols.
 - **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — Judge religion by its political fruits: Rome's cult made armies obedient and republics durable — its truth is not the statesman's question.
@@ -274,7 +274,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Spoken words symbolize affections of the soul, which are likenesses of things; the syllogism gives reasoning a machinery of proof.
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — His translations and commentaries fixed Latin logic's vocabulary for centuries and posed the problem of universals for the schools.
 - **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Universals are neither things nor empty breath: they are words with a semantics (*sermones*), and realism's puzzle dissolves.
-- **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1266–1308) — "Being" must be univocal — one concept said of God and creatures alike — or every theological argument equivocates.
+- **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1263/66–1308) — "Being" must be univocal — one concept said of God and creatures alike — or every theological argument equivocates.
 - **[Ockham](eras/02-medieval/william-of-ockham.md)** (c. 1287–1347) — Terms stand for things directly (supposition); universals are signs in a mental language — entities are not to be multiplied.
 - **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Beware the idols of the marketplace: words badly defined bewitch the understanding and breed endless empty disputes.
 - **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Reasoning is computation with names; truth consists in the right ordering of words we ourselves have defined.

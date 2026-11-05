@@ -31,7 +31,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Commentary, harmony of faith/reason
 - [ ] **[Maimonides](eras/02-medieval/maimonides.md)** (c.1138–1204) — Negative theology
 - [ ] **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Five Ways, natural law
-- [ ] **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c.1266–1308) — Univocity, haecceity
+- [ ] **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c.1263/66–1308) — Univocity, haecceity
 - [ ] **[Ockham](eras/02-medieval/william-of-ockham.md)** (c.1287–1347) — Razor, nominalism
 - [ ] **[Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (1401–1464) — Learned ignorance, coincidence of opposites
 - [ ] **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — Effectual truth, virtù/fortuna

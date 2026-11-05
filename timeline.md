@@ -31,7 +31,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1126–1198 — [Averroes](eras/02-medieval/averroes.md)** (Medieval / Islamic): Commentary, harmony of faith/reason
 - **c.1138–1204 — [Maimonides](eras/02-medieval/maimonides.md)** (Medieval / Jewish): Negative theology
 - **1225–1274 — [Aquinas](eras/02-medieval/thomas-aquinas.md)** (Medieval / Thomist): Five Ways, natural law
-- **c.1266–1308 — [Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (Medieval / Scholastic): Univocity, haecceity
+- **c.1263/66–1308 — [Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (Medieval / Scholastic): Univocity, haecceity
 - **c.1287–1347 — [Ockham](eras/02-medieval/william-of-ockham.md)** (Medieval / Nominalist): Razor, nominalism
 - **1401–1464 — [Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (Medieval / Late Medieval): Learned ignorance, coincidence of opposites
 - **1469–1527 — [Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (Early Modern / Realist): Effectual truth, virtù/fortuna
