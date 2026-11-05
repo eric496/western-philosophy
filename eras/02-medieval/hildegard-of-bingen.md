@@ -51,7 +51,7 @@ Hildegard's *Physica* (Book of Simple Medicine) catalogues plants, trees, animal
 - **Causae et Curae** (*Liber compositae medicinae*, c. 1151–1158) — the causes and cures of diseases, integrating cosmology, humoral theory, and practical remedies. (The transmitted text may be a compilation from her materials assembled by others; its authorship has been questioned.)
 - **Liber Vitae Meritorum** (Book of Life's Merits, 1158–1163) — a visionary dialogue of virtues and vices on moral choice and its consequences.
 - **Liber Divinorum Operum** (Book of Divine Works, 1163–1173/74) — her final, most ambitious visionary work: cosmology, the human being as microcosm, history, and last things.
-- **Letters (*Epistolarium*)** — correspondence with popes, emperors, and abbots, including the rebukes to Barbarossa; some 300 letters survive.
+- **Letters (*Epistolarium*)** — correspondence with popes, emperors, and abbots, including the rebukes to Barbarossa; nearly 400 letters survive.
 - **Lingua ignota** — an invented language of roughly a thousand words with its own alphabet, the earliest known constructed language attributed to a named author; its purpose is still debated.
 
 ## Contributions

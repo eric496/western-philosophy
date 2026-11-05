@@ -60,7 +60,7 @@ MacIntyre supplied the virtue-ethics revival with its historical engine: Anscomb
 
 ## Impact and legacy
 
-*After Virtue* is among the most cited philosophy books of the late twentieth century, and one of the few read seriously across political tribes: conservatives found a critique of liberal individualism, the left found a critique of managerial capitalism and the bureaucratic state (his portrait of the Manager as a stock character of emotivist culture belongs with the Bureaucrat and the Therapist), and theologians found a philosophy that took their traditions seriously as forms of rationality. His influence on Catholic intellectual life, especially through Notre Dame, is considerable. Within professional philosophy he remains a dissenter: rarely assigned as the "answer," constantly assigned as the problem everyone must answer.
+*After Virtue* is among the most cited philosophy books of the late twentieth century, and one of the few read seriously across political tribes: conservatives found a critique of liberal individualism, the left found a critique of managerial capitalism and the bureaucratic state (his portrait of the Manager as a stock character of emotivist culture belongs with the Rich Aesthete and the Therapist), and theologians found a philosophy that took their traditions seriously as forms of rationality. His influence on Catholic intellectual life, especially through Notre Dame, is considerable. Within professional philosophy he remains a dissenter: rarely assigned as the "answer," constantly assigned as the problem everyone must answer.
 
 ## Criticisms and debates
 
@@ -78,7 +78,7 @@ MacIntyre supplied the virtue-ethics revival with its historical engine: Anscomb
 
 ## What to read first
 
-*After Virtue* itself — unusually for a work of this density, it is written to be read, and chapters 1–3 (the catastrophe, emotivism, the Enlightenment failure) give the thesis whole. Then chapters 14–15 for practices and narrative. *Dependent Rational Animals* chapter 1 is the best short supplement. Leave *Whose Justice? Which Rationality?* until the position is clear, and read Anscombe's "Modern Moral Philosophy" alongside — the two are the twin sources of the virtue revival.
+*After Virtue* itself — unusually for a work of this density, it is written to be read, and chapters 1–5 (the catastrophe, emotivism, the Enlightenment failure) give the thesis whole. Then chapters 14–15 for practices and narrative. *Dependent Rational Animals* chapter 1 is the best short supplement. Leave *Whose Justice? Which Rationality?* until the position is clear, and read Anscombe's "Modern Moral Philosophy" alongside — the two are the twin sources of the virtue revival.
 
 **Study guide:** [*After Virtue* — chapter-by-chapter guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/macintyre-after-virtue.md).
 

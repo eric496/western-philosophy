@@ -66,7 +66,7 @@ Do things vanish when no human perceives them? No: God, an omnipresent eternal m
 
 > It is indeed an opinion strangely prevailing amongst men, that houses, mountains, rivers, and in a word all sensible objects, have an existence, natural or real, distinct from their being perceived by the understanding. […] For what are the forementioned objects but the things we perceive by sense? and what do we perceive besides our own ideas or sensations? and is it not plainly repugnant that any one of these, or any combination of them, should exist unperceived?
 
-— George Berkeley, *A Treatise Concerning the Principles of Human Knowledge* §3 (1710; public domain)
+— George Berkeley, *A Treatise Concerning the Principles of Human Knowledge* §4 (1710; public domain)
 
 Berkeley's idealism starts from a question that sounds innocent: what do we actually perceive? His answer — only our own ideas and sensations — makes "existence distinct from being perceived" look like a contradiction for sensible things, summed up in his formula *esse est percipi*, to be is to be perceived. Notice he presents this not as a paradox but as common sense rescued from philosophers: the "strangely prevailing" opinion is the materialists', not his.
 
@@ -76,7 +76,7 @@ Berkeley added a new metaphysical option: a fully empiricist idealism in which t
 
 ## Impact and legacy
 
-Hume reported that Berkeley’s arguments produced a skepticism Berkeley never intended, praising them as great discoveries while doubting they admitted an answer. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
+Hume reported that Berkeley’s arguments, though aimed against the skeptics, were in effect “the best lessons of scepticism” and “admit of no answer and produce no conviction” (*Enquiry*, sec. 12); separately, in the *Treatise* he hailed Berkeley’s reduction of general ideas to particular ones as “one of the greatest and most valuable discoveries that has been made of late years in the republic of letters” (1.1.7). Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
 
 ## Criticisms and debates
 

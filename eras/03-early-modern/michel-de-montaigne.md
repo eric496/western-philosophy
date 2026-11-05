@@ -60,7 +60,7 @@ Against the philosophical tradition he is ambivalent about its most famous maxim
 
 > Now, to return to my subject, I find that there is nothing barbarous and savage in this nation, by anything that I can gather, excepting, that every one gives the title of barbarism to everything that is not in use in his own country. As, indeed, we have no other level of truth and reason than the example and idea of the opinions and customs of the place wherein we live: there is always the perfect religion, there the perfect government, there the most exact and accomplished usage of all things.
 
-— Michel de Montaigne, "Of Cannibals," *Essays* I.30, trans. Charles Cotton (1685; public domain)
+— Michel de Montaigne, "Of Cannibals," *Essays* I.31, trans. Charles Cotton (1685; public domain)
 
 Writing about the Tupinambá of Brazil — who did, in fact, eat their enemies — Montaigne turns the mirror on Europe. The key term is *custom*: his sceptical point is that our standard of "truth and reason" is usually just the habits of home dressed up as nature. It is one of the earliest and sharpest statements of cultural relativism, delivered a century before anthropology existed.
 

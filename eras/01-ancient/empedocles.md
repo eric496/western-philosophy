@@ -29,7 +29,7 @@ His work survives in fragments — around 150 passages quoted by later authors, 
 
 Parmenides had argued that nothing can come to be or perish, and that reality must be one and changeless. Empedocles accepts the first half and rejects the second. Nothing genuinely comes into being or is destroyed, he agrees — "there is no birth of any mortal thing, nor any end in destructive death" — but what we call birth and death is the mixing and unmixing of four eternal, unchanging stuffs he calls "roots" (*rhizomata*): earth, air, fire, and water. (Aristotle later renamed them "elements," and the four-element scheme Empedocles founded governed Western physics and medicine for two thousand years.) Each root is itself Parmenidean: ungenerated, imperishable, uniform. Plurality and change are then possible without anything arising from nothing — the roots only rearrange.
 
-Rearrangement needs a cause, and Empedocles supplies two opposing powers. **Love** (*Philia*, also identified with the goddess Aphrodite) draws the roots together into unity; **Strife** (*Neikos*) drives them apart into separation. Neither is a "stuff" alongside the roots; they are the agents of mixture and division, and Empedocles speaks of them almost as rival gods.
+Rearrangement needs a cause, and Empedocles supplies two opposing powers. **Love** (*Philotēs*, also identified with the goddess Aphrodite) draws the roots together into unity; **Strife** (*Neikos*) drives them apart into separation. Neither is a "stuff" alongside the roots; they are the agents of mixture and division, and Empedocles speaks of them almost as rival gods.
 
 ### The cosmic cycle
 
