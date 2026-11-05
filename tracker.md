@@ -109,7 +109,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Bernard Williams](eras/05-20th-century/bernard-williams.md)** (1929–2003) — Moral luck, integrity, internal reasons
 - [ ] **[Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (1929–2020) — Violinist argument, trolley problem
 - [ ] **[Derrida](eras/05-20th-century/jacques-derrida.md)** (1930–2004) — Différance, binary oppositions
-- [ ] **[Hannah Pitkin](eras/05-20th-century/hannah-pitkin.md)** (1931–2023) — The concept of representation
+- [ ] **[Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md)** (1931–2023) — The concept of representation
 - [ ] **[Derek Parfit](eras/05-20th-century/derek-parfit.md)** (1942–2017) — Identity not what matters, non-identity problem
 - [ ] **[Peter Singer](eras/05-20th-century/peter-singer.md)** (b. 1946) — Speciesism, drowning child
 - [ ] **[Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (b. 1947) — Capabilities approach, emotions as judgments

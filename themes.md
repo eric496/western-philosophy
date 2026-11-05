@@ -231,7 +231,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — *The Need for Roots*: obligations precede rights, uprootedness is the modern disease, and political parties and propaganda feed it.
 - **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — With the third party, ethics must become justice: comparison, law, and the state — perpetually corrected by charity toward each face.
 - **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — The liberal state masks competing wills as neutral administration; politics worthy of the virtues survives in local communities of practice.
-- **[Pitkin](eras/05-20th-century/hannah-pitkin.md)** (1931–2023) — Representation is not one relation but four — authorization, resemblance, symbol, acting-for — held in permanent tension: a representative who never acts independently has stopped representing.
+- **[Pitkin](eras/05-20th-century/hanna-pitkin.md)** (1931–2023) — Representation is not one relation but four — authorization, resemblance, symbol, acting-for — held in permanent tension: a representative who never acts independently has stopped representing.
 - **[Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (b. 1947) — A society is just only when every citizen passes a threshold in all ten central capabilities: human dignity, not aggregate wealth, is the metric of political success.
 
 ---
