@@ -9,7 +9,7 @@
 ## At a glance
 
 - **Dates:** 1033 – 1109
-- **Place:** Born in Aosta (Piedmont, Italy); monk and abbot of Bec in Normandy; Archbishop of Canterbury from 1093.
+- **Place:** Born in Aosta (now the Aosta Valley, Italy); monk and abbot of Bec in Normandy; Archbishop of Canterbury from 1093.
 - **School/tradition:** Latin Christian; Benedictine monk in the Augustinian tradition; often called the founder of scholasticism.
 - **Known for:** The ontological argument for God's existence and the satisfaction theory of the atonement.
 
@@ -19,7 +19,7 @@
 
 Anselm was born in 1033 in Aosta, in the Italian Alps, to a Lombard noble family. His pious mother drew him toward religion; his worldly father opposed a monastic vocation, and after a period of youthful wandering — studying in Burgundy and France and living, by his own later account, carelessly — Anselm arrived at the abbey of Bec in Normandy, drawn by the fame of its prior, Lanfranc, the leading scholar-teacher of the day. He entered the monastery in 1060, succeeded Lanfranc as prior in 1063 (when Lanfranc left to be abbot of Caen), was elected abbot on the death of Bec's founder Herluin in 1078, and made Bec a center of learning. It was in these monastic years that he wrote his philosophical works, as meditations for his monks: the *Monologion* (1076), an attempt to prove God's existence and attributes by reason alone without quoting Scripture, and the *Proslogion* (1077–78), which reduced that whole investigation to a single argument he had been seeking — one consideration, he says, that by itself suffices.
 
-When Lanfranc, by then Archbishop of Canterbury, died, Anselm was drafted as his successor in 1093 — he claimed, with evident sincerity, against his will. His archiepiscopate was consumed by conflict with two kings, William Rufus and Henry I, over the rights of the church: royal control of appointments (investiture), church revenues, and obedience to the pope. Twice Anselm went into exile (1097–1100, 1103–1106), traveling to Rome and writing, in the first exile, his *Cur Deus Homo* ("Why God Became Man"). He returned, reached a settlement on investiture, and died at Canterbury in 1109. His works were preserved by his monks and his biographer Eadmer; he was canonized in 1494 and named a Doctor of the Church in 1720.
+When Lanfranc, by then Archbishop of Canterbury, died in 1089, King William Rufus left the see vacant for four years to collect its revenues; Anselm was drafted as Lanfranc's successor in 1093 — he claimed, with evident sincerity, against his will. His archiepiscopate was consumed by conflict with two kings, William Rufus and Henry I, over the rights of the church: royal control of appointments (investiture), church revenues, and obedience to the pope. Twice Anselm went into exile (1097–1100, 1103–1106), traveling to Rome and writing, in the first exile, his *Cur Deus Homo* ("Why God Became Man"). He returned, reached a settlement on investiture, and died at Canterbury in 1109. His works were preserved by his monks and his biographer Eadmer; he was canonized in 1494 and named a Doctor of the Church in 1720.
 
 ## Major theories and concepts
 

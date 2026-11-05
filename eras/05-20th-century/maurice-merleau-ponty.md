@@ -48,7 +48,7 @@ Politically, *Humanism and Terror* (1947) asked whether revolutionary violence c
 - *The Structure of Behavior* (1942) — The critique of mechanistic psychology and defense of structure/form; groundwork for everything after.
 - *Phenomenology of Perception* (1945) — The masterpiece: embodiment, perception, space, sexuality, speech, and freedom in one arc.
 - *Humanism and Terror* (1947) — The controversial essay on political violence and the Moscow trials; his postwar position at its most exposed.
-- *Sense and Non-Sense* (1948) — Collected essays, including "Cézanne's Doubt" and "The Child's Relations with Others" (in later selections).
+- *Sense and Non-Sense* (1948) — Collected essays on art, ideas, and politics, including "Cézanne's Doubt." ("The Child's Relations with Others," a Sorbonne course, is in English in *The Primacy of Perception*, 1964.)
 - *In Praise of Philosophy* (1953) — The Collège de France inaugural lecture; short, luminous, the best door into his temperament.
 - *Adventures of the Dialectic* (1955) — The break with Sartre and with his own earlier Marxism.
 - *The Visible and the Invisible* (1964, posthumous, ed. Claude Lefort) — The unfinished late ontology of the flesh, with working notes.

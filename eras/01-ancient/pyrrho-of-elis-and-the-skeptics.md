@@ -54,7 +54,7 @@ Later Pyrrhonists organized their argument-patterns into Modes. **Aenesidemus' T
 - **Pyrrho: none.** He wrote nothing; everything is testimony and tradition.
 - **Timon of Phlius, *Silloi*** (3rd century BCE; fragments only) — Satirical verses mocking dogmatic philosophers, our earliest window on Pyrrho's circle.
 - **Sextus Empiricus, *Outlines of Pyrrhonism*** (late 2nd century CE) — The essential surviving text: Book I defines the skeptical way and the Modes; Books II–III work through logic, physics, and ethics skeptically.
-- **Sextus Empiricus, *Against the Mathematicians*** (late 2nd century CE) — A demolition of the claimed sciences of his day.
+- **Sextus Empiricus, *Against the Mathematicians*** (late 2nd century CE) — Eleven books attacking the learned disciplines (grammar, rhetoric, geometry, arithmetic, astrology, music) and, in Books VII–XI, the dogmatists' logic, physics, and ethics.
 - **Diogenes Laertius, *Lives*, Book IX** (3rd century CE) — The life of Pyrrho and Timon: anecdotes, the Indian journey, and an early summary of the Ten Modes.
 
 ## Contributions
