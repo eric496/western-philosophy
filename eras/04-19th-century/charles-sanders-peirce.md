@@ -37,7 +37,7 @@ Belief, for Peirce, is a habit of action — a rule we are prepared to act on �
 
 ### Fallibilism
 
-No belief is immune to revision; we cannot begin, as Descartes proposed, from universal *paper* doubt (doubt merely pretended for method), but only from the beliefs we actually hold, correcting them when real doubt strikes — repairing the ship plank by plank while at sea, in an image Peirce used before Neurath made it famous. Certainty is a feeling, not a guarantee.
+No belief is immune to revision; we cannot begin, as Descartes proposed, from universal *paper* doubt (doubt merely pretended for method), but only from the beliefs we actually hold, correcting them when real doubt strikes — repairing the ship plank by plank while at sea, to borrow the image Otto Neurath later made famous (Peirce's own image was of walking on a bog, standing only where the ground holds for now). Certainty is a feeling, not a guarantee.
 
 ### Truth as the long-run opinion of the community of inquirers
 
