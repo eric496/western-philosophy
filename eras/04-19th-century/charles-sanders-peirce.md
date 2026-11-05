@@ -45,7 +45,7 @@ No belief is immune to revision; we cannot begin, as Descartes proposed, from un
 
 ### Abduction
 
-Alongside deduction and induction, Peirce placed *abduction* (or retroduction): inference to a hypothesis that would explain a surprising fact. "The surprising fact C is observed; but if A were true, C would be a matter of course; hence there is reason to suspect that A is true." Abduction is the only mode of inference that introduces new ideas — deduction develops them, induction tests them — and Peirce's accounts of its justification and logic remain intensely studied.
+Alongside deduction and induction, Peirce placed *abduction* (or retroduction): inference to a hypothesis that would explain a surprising fact. "The surprising fact, C, is observed; / But if A were true, C would be a matter of course, / Hence, there is reason to suspect that A is true." (1903 Harvard lectures, *Collected Papers* 5.189) Abduction is the only mode of inference that introduces new ideas — deduction develops them, induction tests them — and Peirce's accounts of its justification and logic remain intensely studied.
 
 ### Semeiotic: the theory of signs
 

@@ -19,7 +19,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Pyrrho](eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)** (c. 360–c. 270 BCE) — For every claim, equal counter-claims: suspend judgment (*epochē*), live by appearances — and tranquillity follows.
 - **[Cicero](eras/01-ancient/cicero-and-lucretius.md)** (106–43 BCE) — The Academic skeptic withholds certainty but follows what is persuasive, arguing both sides of a question to find the most probable view.
 - **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — Sensations, preconceptions, and feelings are the criteria of truth: sensation never lies; error enters only in judgment.
-- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Against the Academic skeptics: "if I am deceived, I exist"; beyond that, the mind knows by divine illumination.
+- **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Against the Academic skeptics: "if I am deceived, I am"; beyond that, the mind knows by divine illumination.
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The intellect knows material things by abstracting intelligible forms from sense images; faith completes reason without contradicting it.
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "Que sçay-je?" Reason is wax worked by custom and the body; Pyrrhonian doubt clears ground for faith and self-study.
 - **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Knowledge is blocked by four idols of the mind; a disciplined induction from experience can clear them away.
@@ -250,7 +250,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — "Know thyself": the unexamined life is not worth living, and care of the soul outranks wealth and reputation.
 - **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — The self's fortress is choice (*prohairesis*): externals can chain the body, but nothing outside can compel assent.
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The self is found by turning inward — memory's vast palace, the restless heart — and is made whole only by grace.
-- **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — A person is "an individual substance of a rational nature": the definition that fixed the terms of debate for a millennium.
+- **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — A person is "the individual substance of a rational nature": the definition that fixed the terms of debate for a millennium.
 - **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man knows that he exists without knowing that he has a body: self-awareness is immediate and incorporeal.
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "I study myself more than any other subject": the essay portrays a self in motion — inconsistent, embodied, becoming.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — The self is first known as a thinking thing: the *cogito* makes selfhood certain while body and world remain doubtful.

@@ -23,7 +23,7 @@ At twenty-eight, dissatisfied with Alexandria's famous teachers, he was taken to
 
 In Rome from 244 he taught for over twenty-five years, at first writing nothing, conducting seminars as open discussion of Plato and Aristotle. Only after ten years did he begin the treatises that became the *Enneads*. His circle included senators, physicians, and women students such as Gemina; the emperor Gallienus admired him and, Porphyry says, nearly granted him a city in Campania to refound as "Platonopolis," run on Plato's *Laws* — court rivals blocked it.
 
-Porphyry of Tyre (c. 234–c. 305 CE), his most important student, arrived in 263, and Plotinus entrusted him with editing the writings. His health failed; in 268 he retired to Campania, where he died in 270. His reported last words urged bringing "the god in us" back to "the god in the All."
+Porphyry of Tyre (c. 234–c. 305 CE), his most important student, arrived in 263, and Plotinus entrusted him with editing the writings. His health failed; in 268 he retired to Campania, where he died in 270. His reported last words, in MacKenna's translation, were "I am striving to give back the Divine in myself to the Divine in the All."
 
 Porphyry arranged the 54 treatises written between 253 and 270 not chronologically but systematically, into six sets of nine — *ennead* means "group of nine" — moving from ethics and physics (I–III) through Soul (IV) and Intellect (V) to the One (VI). That arrangement shapes how every later reader meets the system.
 
