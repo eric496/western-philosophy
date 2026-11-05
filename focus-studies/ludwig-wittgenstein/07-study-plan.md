@@ -32,7 +32,7 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 
 **Alongside.** [01-life-and-times.md](01-life-and-times.md), [02-works-and-texts.md](02-works-and-texts.md), and [03-system-and-concepts.md](03-system-and-concepts.md)'s early-system sections.
 
-**Media.** BBC Radio 4, *In Our Time*: "Wittgenstein" (first broadcast 4 December 2003; Bragg with Ray Monk, Barry Smith, and Marie McGinn; ~42 min) as *preview* — the whole two-philosophy arc in one sitting, so the early book is read knowing a second is coming.
+**Media.** BBC Radio 4, *In Our Time*: "Wittgenstein" (first broadcast 4 December 2003; Melvyn Bragg with Ray Monk, Barry Smith, and Marie McGinn; ~45 min) as *preview* — the whole two-philosophy arc in one sitting, so the early book is read knowing a second is coming.
 
 **Checkpoints (book closed).**
 1. *Why "facts, not things"?* Truth and falsity live at the level of states of affairs: "the cat is on the mat" is true or false of a fact, not of the cat. A picturing language requires the world as totality of facts (1, 1.1). [03-system-and-concepts.md](03-system-and-concepts.md).
