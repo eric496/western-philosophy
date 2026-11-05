@@ -74,7 +74,7 @@ The political controversy is separate and louder. Shadia Drury's *Leo Strauss an
 ## What to read first
 
 1. "The Three Waves of Modernity" — the crisis of modernity in twenty pages; the clearest entry to his diagnosis.
-2. *Natural Right and History* (1953), chapters I–II and V — the attack on positivism and historicism, and the statement of classical natural right.
+2. *Natural Right and History* (1953), chapters I–II and IV — the attack on positivism and historicism, and the statement of classical natural right.
 3. *Persecution and the Art of Writing* (1952), the title essay — the esotericism thesis in his own terms, to be read with one critical response (Burnyeat's "Sphinx without a Secret" is the classic) so the method and its chief objection arrive together.
 
 ---
