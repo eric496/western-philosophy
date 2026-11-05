@@ -17,7 +17,7 @@
 
 ## Biography
 
-Peter Albert David Singer was born on 6 July 1946 in Melbourne, Australia. His parents were Austrian Jews who had fled Vienna after the Anschluss; three of his four grandparents died in the Holocaust. Singer has said that this family history — in particular, learning how ordinary people had stood by — lies behind his lifelong insistence that "I was only following my own concerns" is no excuse when one can prevent suffering at little cost.
+Peter Albert David Singer was born on 6 July 1946 in Melbourne, Australia. His parents were Austrian Jews who had fled Vienna after the Anschluss; three of his four grandparents died in the Holocaust. Singer has said that this family history — in particular, learning how ordinary people had stood by — lies behind his lifelong insistence that having been unaffected by someone else's suffering is no excuse for failing to prevent it when the cost of doing so is small.
 
 He studied at the University of Melbourne, first law and then philosophy, and went to Oxford for the BPhil, studying under R. M. Hare, from whom he took the universalizing machinery of his early utilitarianism. A brief period as a vegetarian-curious graduate student — a lunch conversation about why a fellow student avoided meat — preceded his turn to animal ethics. After teaching at Oxford, NYU, and universities in Australia (La Trobe and Monash, where he co-founded a center for human bioethics), he moved in 1999 to Princeton as Ira W. DeCamp Professor of Bioethics in the University Center for Human Values, a chair he held for over two decades.
 

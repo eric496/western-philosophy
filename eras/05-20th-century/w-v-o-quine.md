@@ -37,7 +37,7 @@ If there is no first philosophy prior to science, epistemology cannot be an a pr
 
 ### Ontological relativity and ontological commitment
 
-What a theory says there is depends on the background language into which we translate it — **ontological relativity**. But within a theory, commitment is disciplined: "to be is to be the value of a bound variable." A theory is committed to exactly those entities its quantifiers must range over when regimented in first-order logic. This is why Quine accepts physical objects and (grudgingly, because mathematics needs them) sets, while rejecting meanings, propositions, and possible-but-nonexistent objects: entities posited only because grammar misleads us.
+What a theory says there is depends on the background language into which we translate it — **ontological relativity**. But within a theory, commitment is disciplined: "to be is to be the value of a variable." A theory is committed to exactly those entities its quantifiers must range over when regimented in first-order logic. This is why Quine accepts physical objects and (grudgingly, because mathematics needs them) sets, while rejecting meanings, propositions, and possible-but-nonexistent objects: entities posited only because grammar misleads us.
 
 ## Key works
 

@@ -35,7 +35,7 @@ Her proposal was to drop the thin moral “ought” for thicker Aristotelian ter
 
 ### Anscombe: intention and action under a description
 
-*Intention* (1957) asks what makes an action intentional. Anscombe’s answer centers on the question “Why?” An action is intentional when a certain sense of that question applies — when the agent can give reasons showing the point of what they are doing, rather than merely citing a cause (“My elbow was jogged” refuses the relevant sense).
+*Intention* (1957) asks what makes an action intentional. Anscombe’s answer centers on the question “Why?” An action is intentional when a certain sense of that question applies — when the agent can give reasons showing the point of what they are doing, rather than merely citing a cause; answering that you did not know you were doing it, or knew only by observing it, refuses the relevant sense.
 
 Her famous example: a man works a pump. Under one description he is moving his arm; under another, replenishing the house water supply; under another, poisoning the inhabitants — the source is poisoned and he knows it. One movement, several actions *under different descriptions*, intentional under those the agent knows and intends. Intention is therefore not an extra inner mental event accompanying the movement. It is a feature of the action’s whole structure, knowable by the agent without observation — you normally know you are writing without watching your hand. The account reshaped philosophy of action, feeding into Davidson and into debates about responsibility and the law.
 

@@ -31,7 +31,7 @@ The end came from politics. In 1936 Schlick was murdered on the steps of the Uni
 
 The Circle's signature doctrine: a statement is *cognitively meaningful* only if it is either *analytic* — true by logic and definitions alone — or *empirically verifiable* in principle: some possible experience must count for or against it. A statement meeting neither condition is not false but literally meaningless, a pseudo-statement.
 
-The target is traditional metaphysics — claims about the Absolute or Being as such — together with theology. Carnap's "Elimination of Metaphysics" (1932) applied the test to Heidegger, arguing that "the Nothing nothings" violates logical syntax while mimicking meaningful speech. Verifiability is *in principle*, not current practice: statements about the far side of the Moon (then unobserved) pass, because we know what would settle them.
+The target is traditional metaphysics — claims about the Absolute or Being as such — together with theology. Carnap's "Elimination of Metaphysics" (1932) applied the test to Heidegger, arguing that "the Nothing itself nothings" violates logical syntax while mimicking meaningful speech. Verifiability is *in principle*, not current practice: statements about the far side of the Moon (then unobserved) pass, because we know what would settle them.
 
 Strong versus weak versions were debated. Strong verification excludes science's universal laws, which no finite observations conclusively verify. Ayer's weak version required only that experience be *relevant* to truth or falsity — a loosening critics charged with letting almost everything back in.
 

@@ -120,13 +120,13 @@ The prison also does not stand alone. The closing chapter describes the *carcera
 
 ### 8 — A short pointer: from discipline to biopower
 
-This guide ends where Foucault's next book begins, because the bridge is short and the learning path takes it immediately. In Part Five of *The History of Sexuality, Vol. 1* (1976), "Right of Death and Power over Life," Foucault sets discipline inside a larger history of *biopower* — power over life itself. Sovereign power, he argues, was essentially a right of seizure whose highest expression was the right to kill: in his compressed formula, it made die and let live. From the seventeenth and eighteenth centuries, a different power grows alongside it, devoted to fostering, optimizing, and administering life: it makes live and lets die.
+This guide ends where Foucault's next book begins, because the bridge is short and the learning path takes it immediately. In Part Five of *The History of Sexuality, Vol. 1* (1976), "Right of Death and Power over Life," Foucault sets discipline inside a larger history of *biopower* — power over life itself. Sovereign power, he argues, was essentially a right of seizure whose highest expression was the right to kill: in the compressed formula of Robert Hurley's translation, it was the right "to take life or let live." From the seventeenth and eighteenth centuries, a different power grows alongside it, devoted to fostering, optimizing, and administering life: it fosters life, or disallows it to the point of death (in the 1976 lectures, a power of "making live and letting die").
 
 That power develops at two poles: the *anatomo-politics of the human body* — the disciplines of *Discipline and Punish*, training individual bodies and increasing their forces — and the *biopolitics of the population*: regulatory controls over the species-body (birth and mortality rates, life expectancy, epidemics, hygiene), supported by statistics and demography, aimed at equilibria in populations rather than obedience in individuals. The poles are linked, not alternative epochs: medicine, the school, and sexuality operate at both levels at once — which is why sexuality becomes such a charged political object in the later book.
 
 Use this as a pointer, not a substitute: the full argument, including the critique of the "repressive hypothesis" and state racism inside biopower, belongs to the *History of Sexuality* guide. Fix the map: sovereign power over death, discipline over individual bodies, biopolitics over populations — three technologies, historically layered, all still in play.
 
-**Main argument:** Discipline is one pole of a wider biopower: anatomo-politics trains individual bodies while biopolitics regulates populations, and the two together mark the shift from a sovereign power that made die and let live to a modern power that makes live and lets die.
+**Main argument:** Discipline is one pole of a wider biopower: anatomo-politics trains individual bodies while biopolitics regulates populations, and the two together mark the shift from a sovereign power to take life or let live to a modern power of making live and letting die.
 
 ---
 

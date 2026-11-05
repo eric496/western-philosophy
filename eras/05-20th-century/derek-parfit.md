@@ -45,7 +45,7 @@ Comparing populations, Parfit showed that seemingly innocent principles collide.
 
 ### The Triple Theory: climbing the same mountain
 
-*On What Matters* defends an ambitious hope: that the great moral traditions are converging. Parfit argues that the best versions of **Kantian ethics** (act only on principles everyone could rationally will to be universal laws), **Scanlonian contractualism** (act only on principles no one could reasonably reject), and **rule consequentialism** (follow the code whose general acceptance would make things go best) turn out to require the same acts. Adherents of rival theories, he writes, have been "climbing the mountain on different sides" — disagreeing about the route, not the summit. Much of the book is a painstaking, clause-by-clause revision of Kant's formulas intended to make the convergence exact rather than rhetorical.
+*On What Matters* defends an ambitious hope: that the great moral traditions are converging. Parfit argues that the best versions of **Kantian ethics** (act only on principles everyone could rationally will to be universal laws), **Scanlonian contractualism** (act only on principles no one could reasonably reject), and **rule consequentialism** (follow the code whose general acceptance would make things go best) turn out to require the same acts. Adherents of rival theories, he writes, are "climbing the same mountain on different sides" — disagreeing about the route, not the summit. Much of the book is a painstaking, clause-by-clause revision of Kant's formulas intended to make the convergence exact rather than rhetorical.
 
 ## Key works
 

@@ -118,7 +118,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 
 **Kripke's reading.** Kripke's *Wittgenstein on Rules and Private Language* (1982) made rule-following the center of the late work and proposed a "sceptical solution" grounded in community agreement. Many scholars (notably Baker and Hacker) argue this misrepresents Wittgenstein, importing a skepticism he aimed to dissolve. "Kripkenstein" is now a standard label for the possibly distinct philosopher of that book.
 
-**Continuity vs. rupture.** Some scholars stress two Wittgensteins; others stress one lifelong project against linguistic bewitchment. The preface to the *Investigations*, which proposes publishing old and new thoughts together so the new can be seen "against the background of the old," supports holding both emphases at once.
+**Continuity vs. rupture.** Some scholars stress two Wittgensteins; others stress one lifelong project against linguistic bewitchment. The preface to the *Investigations*, which proposes publishing old and new thoughts together so the new can be seen "in the right light only by contrast with and against the background of my old way of thinking," supports holding both emphases at once.
 
 **The *Nachlass* problem.** Because so much is posthumous and editorially arranged, appeals to "what Wittgenstein really thought" from notebooks are methodologically contested.
 
