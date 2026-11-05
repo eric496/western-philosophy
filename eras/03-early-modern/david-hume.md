@@ -17,7 +17,7 @@
 
 ## Biography
 
-David Hume was born on 7 May 1711 in Edinburgh, son of a modest landowner who died when Hume was two. Raised at Ninewells, he entered Edinburgh University at about eleven and left without a degree. Family expectations pointed to law; Hume found an "insurmountable aversion to everything but the pursuits of Philosophy and general Learning."
+David Hume was born on 7 May 1711 in Edinburgh, son of a modest landowner who died when Hume was two. Raised at Ninewells, he entered Edinburgh University at about eleven and left without a degree. Family expectations pointed to law; Hume found an "insurmountable aversion to every thing but the pursuits of philosophy and general learning."
 
 Intense study in his twenties produced his masterpiece. Retreating to France — chiefly at La Flèche, Descartes's old school town — he wrote *A Treatise of Human Nature* (1739–40, anonymous), attempting to introduce "the Experimental Method of Reasoning into Moral Subjects."
 

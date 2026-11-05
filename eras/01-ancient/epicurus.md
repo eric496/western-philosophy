@@ -29,7 +29,7 @@ He was extraordinarily prolific — about 300 works, almost all lost. What survi
 
 Epicurus is a hedonist — pleasure is the goal of life — but he redefines the term. The highest pleasure is not intense stimulation but a stable condition: *aponia*, no pain in the body, and *ataraxia*, no disturbance in the mind. A feast can produce a brief spike of pleasure followed by indigestion, expense, dependence, and anxiety; bread, water, and conversation with friends can restore the painless condition with almost no downside.
 
-From this follows his classification of desires. Some are natural and necessary (food, shelter, friendship); some are natural but unnecessary (varied, luxurious food); some are neither natural nor necessary (fame, unlimited wealth, political power), resting on empty opinion. The practical rule is calculation: choose the course that yields the greatest net pleasure over a whole life, which often means enduring a small pain now or refusing a tempting pleasure now. The tension is obvious: is a life defined negatively, by what it avoids, rich enough? Epicurus replies that once pain and fear are removed, pleasure "does not increase, it only varies" — a serene life is complete, not empty.
+From this follows his classification of desires. Some are natural and necessary (food, shelter, friendship); some are natural but unnecessary (varied, luxurious food); some are neither natural nor necessary (fame, unlimited wealth, political power), resting on empty opinion. The practical rule is calculation: choose the course that yields the greatest net pleasure over a whole life, which often means enduring a small pain now or refusing a tempting pleasure now. The tension is obvious: is a life defined negatively, by what it avoids, rich enough? Epicurus replies that once pain and fear are removed, the pleasure of the flesh "admits no increase… after that it only admits of variation" (Principal Doctrine 18, trans. Hicks) — a serene life is complete, not empty.
 
 ### Atomism and the swerve (clinamen)
 
@@ -45,7 +45,7 @@ Epicurus does not deny the gods. He argues they exist as blessed, imperishable b
 
 ### Death is nothing to us
 
-The second remedy is the most quoted argument in the school: "Death is nothing to us, since when we are, death has not come, and when death has come, we are not." Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
+The second remedy is the most quoted argument in the school: "Death is nothing to us, since when we are, death is not come, and when death is come, we are not" (Letter to Menoeceus §125, trans. Hicks). Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
 
 ### Friendship, justice, and withdrawal
 

@@ -29,7 +29,7 @@ In 1580 he published Books I and II of the *Essays* and set out on a seventeen-m
 
 ### The essay: trying out the self
 
-*Essai* means a trial, an attempt, a weighing (like assaying metal). Montaigne invented the form to match an epistemic situation: if knowledge of the great questions eludes us, what we *can* study honestly is the one specimen always at hand — oneself. "I study myself more than any other subject. That is my metaphysics, that is my physics." The essays ramble, quote the ancients, contradict themselves across editions, and treat digestion, thumbs, coaches, smells, and fear with the same seriousness as God and the soul. This is not self-indulgence; it is method. The self is a laboratory where claims about human nature can be tested against evidence: "I have no being except in halves... I do not portray being: I portray passing." The resulting portrait, he insists, is of everyone: "Each man bears the entire form of the human condition."
+*Essai* means a trial, an attempt, a weighing (like assaying metal). Montaigne invented the form to match an epistemic situation: if knowledge of the great questions eludes us, what we *can* study honestly is the one specimen always at hand — oneself. "I study myself more than any other subject. That is my metaphysics, that is my physics." The essays ramble, quote the ancients, contradict themselves across editions, and treat digestion, thumbs, coaches, smells, and fear with the same seriousness as God and the soul. This is not self-indulgence; it is method. The self is a laboratory where claims about human nature can be tested against evidence: "I do not portray being: I portray passing." The resulting portrait, he insists, is of everyone: "Each man bears the entire form of man's estate."
 
 ### "Que sçay-je?": Pyrrhonian skepticism revived
 
@@ -37,7 +37,7 @@ Montaigne had the motto *Que sçay-je?* — "What do I know?" — struck on a me
 
 ### Faith, custom, and the critique of certainty
 
-What does the skeptic *do*? Montaigne's answer made him controversial in every direction. Outwardly he conformed to the Catholicism of his country — skepticism about reason, he argued, leaves faith to rest on grace rather than on shaky human arguments (this is the *fideist* reading: reason humbled so faith can be pure). But the same arguments dissolve every party's claim to kill for doctrine: "It is rating one's conjectures at a very high price to roast a man alive for them." Custom, he saw, is the real sovereign: we call barbarous whatever is not our own practice, and laws of conscience we attribute to nature are usually just habits absorbed in childhood. Skepticism thus becomes a technology of tolerance and intellectual humility — and a standing invitation to inquiry.
+What does the skeptic *do*? Montaigne's answer made him controversial in every direction. Outwardly he conformed to the Catholicism of his country — skepticism about reason, he argued, leaves faith to rest on grace rather than on shaky human arguments (this is the *fideist* reading: reason humbled so faith can be pure). But the same arguments dissolve every party's claim to kill for doctrine: "It is putting a very high price on one's conjectures to have a man roasted alive because of them." Custom, he saw, is the real sovereign: we call barbarous whatever is not our own practice, and laws of conscience we attribute to nature are usually just habits absorbed in childhood. Skepticism thus becomes a technology of tolerance and intellectual humility — and a standing invitation to inquiry.
 
 ### "Of Cannibals": turning the mirror on Europe
 
@@ -45,7 +45,7 @@ In "Of Cannibals" (I.31), drawing on reports from Brazil, Montaigne describes th
 
 ### The body, death, and learning to live
 
-Against the philosophical tradition he is ambivalent about its most famous maxim: Cicero said philosophising is learning how to die, but Montaigne's mature view is that death deserves no such tyranny over life — nature will teach us when the time comes; in the meantime "the most savage of our maladies is to despise our being." His late essays celebrate the body and its pleasures without embarrassment — "On the loftiest throne in the world, we still sit only on our own behind" — and treat experience itself as the final school: "Of Experience" (III.13), his last essay, closes the book not with doctrine but with the art of living "loyally," enjoying one's being properly. Self-knowledge, at the end, is not a theory but a practice of acceptance.
+Against the philosophical tradition he is ambivalent about its most famous maxim: Cicero said philosophising is learning how to die, but Montaigne's mature view is that death deserves no such tyranny over life — nature will teach us when the time comes; in the meantime "the most barbarous of our maladies is to despise our being." His late essays celebrate the body and its pleasures without embarrassment — "On the loftiest throne in the world we are still sitting only on our own rump" — and treat experience itself as the final school: "Of Experience" (III.13), his last essay, closes the book not with doctrine but with the art of knowing how to enjoy one's being "rightfully." Self-knowledge, at the end, is not a theory but a practice of acceptance.
 
 ## Key works
 
@@ -70,7 +70,7 @@ Montaigne created a genre. The essay — personal, provisional, digressive, test
 
 ## Impact and legacy
 
-Pascal argued with him compulsively (the *Pensées* treat Montaigne as the great adversary and secret partner: "It is not in Montaigne, but in myself, that I find everything I see in him"). Descartes does not name him, but the skeptical scenarios of the *Meditations* are Montaigne's inheritance systematized. Shakespeare read him in Florio's 1603 translation — Gonzalo's commonwealth speech in *The Tempest* paraphrases "Of Cannibals." Rousseau's confessional project, Emerson's self-trust, and Nietzsche's praise ("That such a man wrote has truly augmented the joy of living on this Earth") all descend from him. In the twentieth century he was claimed variously as a fideist, a crypto-skeptic subversive, and the first modern individual; the "Que sçay-je?" tradition runs on into contemporary fallibilism and the philosophy of tolerance.
+Pascal argued with him compulsively (the *Pensées* treat Montaigne as the great adversary and secret partner: "It is not in Montaigne, but in myself, that I find all that I see in him"). Descartes does not name him, but the skeptical scenarios of the *Meditations* are Montaigne's inheritance systematized. Shakespeare read him in Florio's 1603 translation — Gonzalo's commonwealth speech in *The Tempest* paraphrases "Of Cannibals." Rousseau's confessional project, Emerson's self-trust, and Nietzsche's praise ("The joy of living on this earth is increased by the existence of such a man") all descend from him. In the twentieth century he was claimed variously as a fideist, a crypto-skeptic subversive, and the first modern individual; the "Que sçay-je?" tradition runs on into contemporary fallibilism and the philosophy of tolerance.
 
 ## Criticisms and debates
 

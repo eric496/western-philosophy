@@ -60,7 +60,7 @@ Plato is the great conduit. The *Timaeus* builds the cosmos on mathematical prop
 
 ## Criticisms and debates
 
-Heraclitus sneered that Pythagoras practiced inquiry "more than anyone" but made it mere polymathy — an early charge that the learning was borrowed. Aristotle's criticism is the serious one: Pythagoreans never explained *how* numbers constitute things, confusing model with material. Modern debates are dominated by the source problem. How much of "Pythagoreanism" is Pythagoras? Burkert argued the founder was primarily a charismatic religious teacher, the mathematics largely followers' work; others defend an earlier scientific Pythagoras. Honest accounts keep a visible line between the 6th-century man and the legend that swallowed him.
+Heraclitus sneered that Pythagoras "practised inquiry beyond all other men" (DK 22 B129, trans. Burnet) but made it mere polymathy — an early charge that the learning was borrowed. Aristotle's criticism is the serious one: Pythagoreans never explained *how* numbers constitute things, confusing model with material. Modern debates are dominated by the source problem. How much of "Pythagoreanism" is Pythagoras? Burkert argued the founder was primarily a charismatic religious teacher, the mathematics largely followers' work; others defend an earlier scientific Pythagoras. Honest accounts keep a visible line between the 6th-century man and the legend that swallowed him.
 
 ## Misreadings to avoid
 
