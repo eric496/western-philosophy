@@ -55,11 +55,11 @@ This is not humility as a pose, nor skepticism that all claims are equal. Socrat
 
 Socrates' most distinctive doctrine is that virtue is knowledge. If you truly know what is good, you will do it; no one does wrong willingly. Wrongdoing is ignorance — a miscalculation of what is genuinely good for oneself. In the *Protagoras* he models this on measurement: weakness of will is like misjudging sizes at a distance; knowing real values would save us.
 
-Hence there is, strictly, no *akrasia* — no knowing the better and doing the worse. What looks like akrasia is ignorance at the moment of action. Aristotle objected that this "plainly contradicts the phenomena": people obviously act against what they know. Modern readers tend to agree, while finding Socrates' challenge bracing — how complete is your "knowledge" that something is bad for you if it has no grip on your action?
+Hence there is, strictly, no *akrasia* — no knowing the better and doing the worse. What looks like akrasia is ignorance at the moment of action. Aristotle objected that this "plainly contradicts the observed facts": people obviously act against what they know. Modern readers tend to agree, while finding Socrates' challenge bracing — how complete is your "knowledge" that something is bad for you if it has no grip on your action?
 
 ### Care of the soul
 
-Against Athenian priorities — wealth, reputation, success — Socrates insists the soul (*psychē*) comes first. In the *Apology* he urges everyone "not to care for your body or your wealth more than, or even as much as, for the perfection of your soul." Excellence, not possessions, determines whether life goes well; virtue makes wealth good, not the reverse.
+Against Athenian priorities — wealth, reputation, success — Socrates insists the soul (*psychē*) comes first. In the *Apology* he urges everyone "not to care for your body or your wealth in preference to or as strongly as for the best possible state of your soul" (Grube). Excellence, not possessions, determines whether life goes well; virtue makes wealth good, not the reverse.
 
 This is his deepest legacy: philosophy as care of the self, a daily practice of examination, not an academic specialism. Its slogan comes near the *Apology*'s end: "the unexamined life is not worth living." Note the context — he is explaining why he would not accept exile or silence instead of death. Examination is the condition of a worthwhile life, worth dying rather than abandoning.
 
@@ -118,7 +118,7 @@ Socrates became the archetype of the philosopher: a questioner, martyr, and sain
 ## Study questions
 
 1. Reconstruct the Euthyphro Dilemma: piety is either loved by the gods because it is pious, or pious because it is loved. Show why the first horn fails as a definition and the second makes piety arbitrary, leaving Euthyphro in *aporia*.
-2. Aristotle objects that Socratic intellectualism "plainly contradicts the phenomena": people know the better and do the worse. Construct Socrates' reply — that such "knowledge" was not full, present knowledge — and judge whether it saves the doctrine or empties it.
+2. Aristotle objects that Socratic intellectualism "plainly contradicts the observed facts": people know the better and do the worse. Construct Socrates' reply — that such "knowledge" was not full, present knowledge — and judge whether it saves the doctrine or empties it.
 3. Compare Socrates with Aristotle on how virtue is acquired: knowledge grasped through examination versus character formed by habit and *phronēsis*. What case of wrongdoing does each account handle better?
 4. Apply the Euthyphro Dilemma to a modern authority: is an action right because a law, manager, or AI system approves it, or approved because it is right? Work through both horns for your chosen case.
 

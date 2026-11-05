@@ -46,7 +46,7 @@ Following Pseudo-Dionysius, Eriugena holds that God cannot be described by any a
 
 ### Theophanies and the primordial causes
 
-How, then, does an unknowable God create or reveal anything? Eriugena's answer is the doctrine of *theophanies* — divine appearances or manifestations. Everything that exists is, in some measure, a theophany: a showing-forth of the hidden God in a form proportioned to the minds that receive it. The primordial causes are the highest theophanies, formed in the Word; from them proceed the genera and species of the visible world. Creation is thus not an event that happened once, externally, but God's continuous self-manifestation: "God becomes all in all things," as Eriugena repeatedly puts it, while remaining in himself utterly beyond them.
+How, then, does an unknowable God create or reveal anything? Eriugena's answer is the doctrine of *theophanies* — divine appearances or manifestations. Everything that exists is, in some measure, a theophany: a showing-forth of the hidden God in a form proportioned to the minds that receive it. The primordial causes are the highest theophanies, formed in the Word; from them proceed the genera and species of the visible world. Creation is thus not an event that happened once, externally, but God's continuous self-manifestation: "God is all in all," as Eriugena repeatedly puts it, while remaining in himself utterly beyond them.
 
 ### The return and universal restoration
 

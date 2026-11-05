@@ -11,7 +11,7 @@
 - **Dates:** 1712–1778
 - **Place:** Geneva and France
 - **School/tradition:** Social-contract theorist, philosopher of education and human nature
-- **Known for:** “Man is born free, and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*
+- **Known for:** “Man is born free; and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*
 
 **Responds to:** [Hobbes](thomas-hobbes.md), [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Wollstonecraft](mary-wollstonecraft.md), [Burke](edmund-burke.md)
 
@@ -39,7 +39,7 @@ Rousseau’s most durable distinction separates *amour de soi* — self-love dir
 
 ### Private property and the origin of inequality
 
-The *Discourse on Inequality*, Part II, opens famously: “The first man who, having enclosed a piece of ground, bethought himself of saying *This is mine*, and found people simple enough to believe him, was the true founder of civil society.” Property is no natural right, as in Locke, but a convention that hardened — through agriculture, metallurgy, comparison, and dependence — into inequality of wealth, then power, then domination legitimised by laws favoring the rich.
+The *Discourse on Inequality*, Part II, opens famously: “The first man who, having enclosed a piece of ground, bethought himself of saying *This is mine*, and found people simple enough to believe him, was the real founder of civil society” (trans. G. D. H. Cole). Property is no natural right, as in Locke, but a convention that hardened — through agriculture, metallurgy, comparison, and dependence — into inequality of wealth, then power, then domination legitimised by laws favoring the rich.
 
 Two clarifications matter. The state of nature is a diagnostic device: Rousseau says it describes a state that “perhaps never existed,” separating what is original in us from what society added, as a physicist idealizes away friction. And he did **not** propose abolishing society or a literal return to nature: language and society cannot be unlearned. The real question is what legitimate order is possible now — *The Social Contract*’s question.
 
@@ -65,7 +65,7 @@ Government, finally, is strictly subordinate. Sovereignty — legislative author
 4. Law, introduced to protect property, then fixes and legitimises that dependence as lasting inequality.
 Therefore, inequality is not natural but a historical product of social development: natural man is good, and society corrupts.
 
-Rousseau is explicit that the state of nature is a conjectural device — at the start of the *Discourse*'s main text (the exordium) he proposes “setting aside the facts” — not a historical claim about how humans actually lived.
+Rousseau is explicit that the state of nature is a conjectural device — at the start of the *Discourse*'s main text (the exordium) he asks the reader to begin “by laying facts aside, as they do not affect the question” (trans. Cole) — not a historical claim about how humans actually lived.
 
 **Objection.** The story looks like an unfalsifiable just-so story. Anthropology suggests early humans were social, cooperative, and status-conscious, not solitary wanderers, so the supposed starting point never existed.
 

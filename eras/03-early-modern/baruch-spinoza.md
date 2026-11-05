@@ -47,7 +47,7 @@ Critics debate whether parallelism dissolves the mind–body problem or elegantl
 
 From a God whose nature produces everything follows **necessitarianism**: "In nature there is nothing contingent, but all things have been determined by the necessity of the divine nature to exist and produce an effect in a certain way." Things could not have been produced "in any other manner or in any other order." Free will, as a capacity to have done otherwise in an absolute sense, does not exist — for God, who acts from the necessity of his nature alone, or for us.
 
-Spinoza's example, in a letter, is a stone thrown through the air which, if conscious, would believe it flew freely, being aware of its motion and ignorant of the throw. Humans are in the stone's position: "Men are mistaken in thinking themselves free; their opinion is made up of this, that they are conscious of their actions, and ignorant of the causes by which they are determined." This is stronger than ordinary determinism: no alternative universe was ever possible. Scholars debate how strictly to read this, but the dominant reading takes him at his word.
+Spinoza's example, in a letter, is a stone thrown through the air which, if conscious, would believe it flew freely, being aware of its motion and ignorant of the throw. Humans are in the stone's position: "Men are mistaken in thinking themselves free; their opinion is made up of consciousness of their own actions, and ignorance of the causes by which they are conditioned." This is stronger than ordinary determinism: no alternative universe was ever possible. Scholars debate how strictly to read this, but the dominant reading takes him at his word.
 
 ### The critique of teleology
 
