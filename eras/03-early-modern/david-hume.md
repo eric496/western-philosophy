@@ -13,7 +13,7 @@
 - **School/tradition:** Empiricism and mitigated skepticism
 - **Known for:** Showing that beliefs about cause, self, and morality rest on custom and sentiment, not reason — and for waking Kant from his "dogmatic slumber"
 
-**Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
+**Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Reid](thomas-reid.md), [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
 
 ## Biography
 

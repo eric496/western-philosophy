@@ -24,7 +24,7 @@ These five are the working subset of the nine recurring questions mapped in [the
 
 ### 1.2 Two tiers: core and map-level
 
-The library covers 117 figures. **You will not read 117 figures in depth, and the plan does not pretend otherwise.** University semesters don't either — MIT's covers about ten figures in primary text.
+The library covers 121 figures. **You will not read 121 figures in depth, and the plan does not pretend otherwise.** University semesters don't either — MIT's covers about ten figures in primary text.
 
 - **Core (~30 figures):** read in primary text, in the editions named below, slowly, with a written argument reconstruction for each. These are the load-bearing authors: skip one and later stages wobble.
 - **Map-level (everyone else):** cover through their entry in this repo + the paired podcast episode (Adamson, or *Philosophize This!* where Adamson hasn't reached — §3 and each stage's *Listen & watch*) or Kenny section + **one checkpoint question** you can answer in your own words (≈30–45 minutes per figure). Map-level is a deliberate design choice, not a failure. It gives you the shape of the whole tradition — who argued with whom, about what — which is exactly what makes the core reading intelligible.
@@ -451,7 +451,7 @@ Any "yes" triggers the fix *before* new reading. These are ordered roughly by ho
 | 5 | **Wrong or hostile edition** | Your copy's translator died before ~1950 and no modern editor is named | §4's buy-by-translator rule and avoid-list (Jowett, Haldane & Ross, Parshley, Common, Kemp Smith, unlabeled Gutenberg) |
 | 6 | **Era tunnel vision** | Current stage extended >2 weeks; your last five authors are all one century or school | Hard stage calendar (§1.5); the 2-week extension cap (§1.4); weekly spiral returns force cross-era comparison |
 | 7 | **No writing** | No gate essay for the last completed stage | No-essay-no-advance (§2.5). The capstone is an essay, not a reading list |
-| 8 | **Completionism over all 117 figures** | You've "covered" many entries but can't pass the current stage's checkpoints | The two-tier design itself (§1.2): ~30 core in primary text, the rest map-level *on purpose*. Courses do the same |
+| 8 | **Completionism over all 121 figures** | You've "covered" many entries but can't pass the current stage's checkpoints | The two-tier design itself (§1.2): ~30 core in primary text, the rest map-level *on purpose*. Courses do the same |
 | 9 | **Cram-and-forget** | You can't state Stage 1 arguments during Stage 3 without re-reading | The card deck is cumulative for the whole plan; Session C is always previous stages |
 | 10 | **Isolation stall** | Nothing you've written has reached another mind in >1 month (the medieval and Kant stages are where this bites) | The discussion ladder (§2.6): voice memo → steelman exchange → forum/group/AI-critique with verification. Buffer weeks are scheduled, not earned by failing |
 | 11 | **System-building instead of studying** | You changed apps, decks, or *the plan itself* in the last month without finishing a stage | This plan is frozen except at stage gates. Library and plan upgrades happen *at* gates, using your checkpoint gaps as the specification |

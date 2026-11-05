@@ -13,7 +13,7 @@
 - **School/tradition:** Empiricism; early liberal political theory
 - **Known for:** All ideas come from experience; personal identity rests on consciousness; legitimate government rests on consent and protects natural rights to life, liberty, and property
 
-**Responds to:** [Hobbes](thomas-hobbes.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md)
+**Responds to:** [Hobbes](thomas-hobbes.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Astell](early-modern-women-philosophers.md), [Reid](thomas-reid.md)
 
 ## Biography
 

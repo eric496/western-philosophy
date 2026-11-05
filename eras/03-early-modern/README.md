@@ -44,6 +44,7 @@ Locke Essay 1689 vs 1690 convention. Leibniz composition vs publication gaps dec
 - [Francis Bacon](francis-bacon.md)
 - [Thomas Hobbes](thomas-hobbes.md)
 - [René Descartes](rene-descartes.md)
+- [Elisabeth, Cavendish, Conway & Astell](early-modern-women-philosophers.md)
 - [Blaise Pascal](blaise-pascal.md)
 - [Baruch Spinoza](baruch-spinoza.md)
 - [John Locke](john-locke.md)
@@ -52,12 +53,14 @@ Locke Essay 1689 vs 1690 convention. Leibniz composition vs publication gaps dec
 - [George Berkeley](george-berkeley.md)
 - [Montesquieu](montesquieu.md)
 - [Émilie du Châtelet](emilie-du-chatelet.md)
+- [Thomas Reid](thomas-reid.md)
 - [David Hume](david-hume.md)
 - [Jean-Jacques Rousseau](jean-jacques-rousseau.md)
 - [Denis Diderot](denis-diderot.md)
 - [Adam Smith](adam-smith.md)
 - [Immanuel Kant](immanuel-kant.md)
 - [Gotthold Ephraim Lessing](gotthold-ephraim-lessing.md)
+- [Edmund Burke](edmund-burke.md)
 - [Mary Wollstonecraft](mary-wollstonecraft.md)
 
 ---
