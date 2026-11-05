@@ -2,9 +2,7 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Gilbert Ryle](https://upload.wikimedia.org/wikipedia/en/e/e8/Gilbert_Ryle_%28by_Rex_Whistler%29.jpg)
-
-*Portrait of Gilbert Ryle by Rex Whistler, 1940–1943. Image via Wikipedia.*
+*Portrait: none included — the Rex Whistler portrait (1940–1943) used on English Wikipedia is a local fair-use upload, not a freely licensed Commons image. If a free one surfaces, it belongs here.*
 
 ## At a glance
 

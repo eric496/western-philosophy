@@ -2,9 +2,9 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Susanne Langer](https://upload.wikimedia.org/wikipedia/en/2/2c/Susanne_Langer_1945.jpg)
+![Portrait of Susanne Langer](https://upload.wikimedia.org/wikipedia/commons/f/fe/Susanne_Langer_1925.jpg)
 
-*Photograph of Susanne Langer, 1945. Image via Wikipedia.*
+*Photograph of Susanne Langer, 1925. CC BY-SA 4.0, via Wikimedia Commons.*
 
 ## At a glance
 

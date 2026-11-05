@@ -2,7 +2,7 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Pyrrho](https://upload.wikimedia.org/wikipedia/commons/4/4d/Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png)
+![Portrait of Pyrrho](https://upload.wikimedia.org/wikipedia/commons/7/79/Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png)
 
 *Imaginary engraving of Pyrrho of Elis, from Girolamo Olgiati's *Illustrium philosophorum et sapientum effigies* (1580) — no authentic likeness exists. Image via Wikimedia Commons.*
 
