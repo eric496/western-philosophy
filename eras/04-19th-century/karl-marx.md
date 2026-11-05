@@ -79,7 +79,7 @@ Therefore, that difference — surplus value — is appropriated by the capitali
 
 - *Economic and Philosophic Manuscripts of 1844* (written 1844; published 1932) — The alienation analysis; the key text for the "young Marx."
 - *The German Ideology* (with Engels, 1845–46; unpublished in their lifetimes) — The first statement of the materialist conception of history, wrapped around hundreds of pages of polemic against rivals like Stirner.
-- *Manifesto of the Communist Party* (with Engels, 1848) — The famous pamphlet: brilliant, rhetorical, and programmatic; the [SEP](https://plato.stanford.edu/) warns it is "not the best guide to his thought" taken alone.
+- *Manifesto of the Communist Party* (with Engels, 1848) — The famous pamphlet: brilliant, rhetorical, and programmatic; read alone, it is not the best guide to his thought (see the [SEP entry](https://plato.stanford.edu/entries/marx/) for the fuller picture).
 - *The Eighteenth Brumaire of Louis Bonaparte* (1852) — Marx as concrete political analyst: Louis-Napoléon's coup explained through class fractions and their illusions, and the source of the line that history repeats itself, "the first time as tragedy, the second time as farce." Routinely counted among his finest works.
 - *A Contribution to the Critique of Political Economy* (1859) — Contains the Preface stating historical materialism in canonical form.
 - *Capital, Vol. 1* (1867) — The masterwork: commodity, value, surplus value, accumulation. Vols. 2–3 were edited by Engels from drafts (1885, 1894).
