@@ -26,7 +26,7 @@ Schopenhauer is the rare systematic philosopher who is also a great prose stylis
 
 ## The study plan at a glance
 
-The library's [learning path](../../learning-path.md) meets Schopenhauer in **Stage 4** (Nineteenth Century: System, Revolt, Society) and treats him, like most figures, at *selections* level: the famous books and chapters, read once through. This dossier upgrades that selections treatment to the **full system**. [07-study-plan.md](07-study-plan.md) lays out a **6-week plan of roughly 30–36 hours** — the complete first volume of *The World as Will and Representation* in the Cambridge translation, the dissertation behind it, the ethics essays, the key supplementary chapters of the second volume, and a closing pass through *Parerga* — run at the learning path's weekly rhythm (primary reading first, reconstruction before commentary, the daily FSRS queue fed by the dossier's cards). It plugs into Stage 4 in place of the selections assignment: take it when the path reaches Schopenhauer, and its capstone essay can serve double duty toward the stage's expectations. The hours sit on top of the Stage 4 budget, as focus-study hours always do; the plan document shows the arithmetic week by week.
+The library's [learning path](../../learning-path.md) meets Schopenhauer in **Stage 4** (Nineteenth Century: System, Revolt, Society) and treats him, like most figures, at *selections* level: the famous books and chapters, read once through. This dossier upgrades that selections treatment to the **full system**. [07-study-plan.md](07-study-plan.md) lays out a **6-week plan of roughly 30 hours of scheduled study plus about 5–6 hours of daily Anki review — ≈35 hours all-in** — covering the complete first volume of *The World as Will and Representation* in the Cambridge translation, the dissertation behind it, the ethics essays, the key supplementary chapters of the second volume, and a closing pass through *Parerga* — run at the learning path's weekly rhythm (primary reading first, reconstruction before commentary, the daily FSRS queue fed by the dossier's cards). It plugs into Stage 4 in place of the selections assignment: take it when the path reaches Schopenhauer, and its capstone essay can serve double duty toward the stage's expectations. The hours sit on top of the Stage 4 budget, as focus-study hours always do; the plan document shows the arithmetic week by week.
 
 ## Audio companion
 
@@ -41,6 +41,8 @@ This dossier's five content files are also a narrated audio edition (Helio voice
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-06-reception-and-debates.mp3) | 20 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
+
+**Text revised after recording (November 2026).** A full accuracy-and-depth revision changed the written files after these episodes were rendered: Caroline Marquet's death corrected to 1842 (judgment May 1827), quotations checked against Payne and Haldane–Kemp, the Danish prize's stated grounds, Schopenhauer's verdict on Wagner, Freud and the "On Madness" chapter, and new material (the sublime, the quieter of the will, grades of objectification, what Vol. II ch. 18 concedes, Shapshay's reconstructive reading, the Cambridge Edition). Where the audio and the text differ, the text is authoritative.
 
 ## Start here
 
