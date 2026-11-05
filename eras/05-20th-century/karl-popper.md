@@ -23,7 +23,7 @@ At the University of Vienna he studied mathematics, physics, history, and philos
 
 His first major book, *Logik der Forschung* (1934, with a 1935 imprint in some listings), appeared as Austria slid toward authoritarian rule. In 1937 he emigrated to Christchurch, New Zealand, where he taught at Canterbury University College and, isolated during the Second World War, wrote *The Open Society and Its Enemies* (1945) — partly a war effort by other means, an attack on the intellectual roots of totalitarianism.
 
-In 1946 he moved to the London School of Economics, becoming professor of logic and scientific method. Knighted in 1965, he retired in 1969 but continued writing until his death in London in 1994. Students such as Imre Lakatos and Paul Feyerabend began as followers and became his sharpest critics — which Popper, in principle, could present as his method working as intended.
+In 1946 he moved to the London School of Economics, and in 1949 he became professor of logic and scientific method in the University of London. Knighted in 1965, he retired in 1969 but continued writing until his death in London in 1994. Students such as Imre Lakatos and Paul Feyerabend began as followers and became his sharpest critics — which Popper, in principle, could present as his method working as intended.
 
 ## Major theories and concepts
 
