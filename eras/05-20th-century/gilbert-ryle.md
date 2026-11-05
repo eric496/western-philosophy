@@ -11,7 +11,7 @@
 - **School/tradition:** Analytic philosophy; central figure of postwar "ordinary language" philosophy
 - **Known for:** *The Concept of Mind* (1949) — the attack on Descartes's "ghost in the machine" and the distinction between knowing-how and knowing-that
 
-**Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** later philosophers of mind who defined themselves against him — no single entry in this repo
+**Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** [Philosophy of Mind after Ryle](philosophy-of-mind-after-ryle.md) (the identity theorists and functionalists who defined themselves against him), [Austin & Strawson](austin-and-strawson.md)
 
 ## Biography
 

@@ -96,7 +96,9 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Simone Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — Attention, affliction (malheur)
 - [ ] **[Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (1908–1961) — Embodied perception, body-subject
 - [ ] **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — Web of belief, two dogmas
+- [ ] **[Austin & Strawson](eras/05-20th-century/austin-and-strawson.md)** (1911–1960 / 1919–2006) — Speech acts, performatives; "On Referring," reactive attitudes
 - [ ] **[Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md)** (1913–2005) — Narrative identity, idem/ipse
+- [ ] **[Albert Camus](eras/05-20th-century/albert-camus.md)** (1913–1960) — The absurd, revolt
 - [ ] **[Adorno](eras/05-20th-century/frankfurt-school.md)** (1903–1969) — Culture industry, negative dialectics
 - [ ] **[Horkheimer](eras/05-20th-century/frankfurt-school.md)** (1895–1973) — Critical vs traditional theory
 - [ ] **[Habermas](eras/05-20th-century/frankfurt-school.md)** (b. 1929) — Communicative action, public sphere
@@ -104,12 +106,15 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Iris Murdoch](eras/05-20th-century/iris-murdoch.md)** (1919–1999) — Attention, unselfing, the Good
 - [ ] **[Mary Midgley](eras/05-20th-century/mary-midgley.md)** (1919–2018) — Human nature, anti-reductionism
 - [ ] **[Rawls](eras/05-20th-century/john-rawls.md)** (1921–2002) — Veil of ignorance, difference principle
+- [ ] **[(Group entry) Philosophy of Mind after Ryle](eras/05-20th-century/philosophy-of-mind-after-ryle.md)** (1956–) — Identity theory, functionalism, the Chinese Room, the hard problem
 - [ ] **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Power/knowledge, discipline
 - [ ] **[Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — Practices, narrative, tradition
 - [ ] **[Bernard Williams](eras/05-20th-century/bernard-williams.md)** (1929–2003) — Moral luck, integrity, internal reasons
 - [ ] **[Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (1929–2020) — Violinist argument, trolley problem
 - [ ] **[Derrida](eras/05-20th-century/jacques-derrida.md)** (1930–2004) — Différance, binary oppositions
 - [ ] **[Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md)** (1931–2023) — The concept of representation
+- [ ] **[Robert Nozick](eras/05-20th-century/robert-nozick.md)** (1938–2002) — Entitlement theory, the minimal state, the experience machine
+- [ ] **[Saul Kripke](eras/05-20th-century/saul-kripke.md)** (1940–2022) — Rigid designation, a posteriori necessity, Kripkenstein
 - [ ] **[Derek Parfit](eras/05-20th-century/derek-parfit.md)** (1942–2017) — Identity not what matters, non-identity problem
 - [ ] **[Peter Singer](eras/05-20th-century/peter-singer.md)** (b. 1946) — Speciesism, drowning child
 - [ ] **[Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (b. 1947) — Capabilities approach, emotions as judgments

@@ -13,7 +13,7 @@
 - **School/tradition:** Kantian and social-contract traditions
 - **Known for:** *A Theory of Justice* (1971) and its account of “justice as fairness” — principles chosen behind a veil of ignorance, including equal basic liberties and the difference principle
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [MacIntyre](alasdair-macintyre.md), [Nussbaum](martha-nussbaum.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [Nozick](robert-nozick.md), [MacIntyre](alasdair-macintyre.md), [Nussbaum](martha-nussbaum.md)
 
 ## Biography
 

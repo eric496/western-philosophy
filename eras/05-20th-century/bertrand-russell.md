@@ -13,7 +13,7 @@
 - **School/tradition:** Analytic philosophy — one of its founders, alongside Frege, Moore, and Wittgenstein.
 - **Known for:** Russell's paradox, the theory of descriptions, and logicism — and, to the wider public, a century of lucid, controversial writing on religion, war, education, and politics.
 
-**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md)
+**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md), [Strawson](austin-and-strawson.md), [Kripke](saul-kripke.md)
 
 ## Biography
 
