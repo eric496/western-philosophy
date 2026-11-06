@@ -87,6 +87,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Henri Bergson](eras/05-20th-century/henri-bergson.md)** (1859–1941) — Duration, intuition, élan vital
 - [ ] **[Alfred North Whitehead](eras/05-20th-century/alfred-north-whitehead.md)** (1861–1947) — Actual occasions, prehension, misplaced concreteness
 - [ ] **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Descriptions, logical atomism
+- [ ] **[(Group entry) Du Bois & Fanon](eras/05-20th-century/du-bois-and-fanon.md)** (1868–1963 / 1925–1961) — Double consciousness, the color line, the lived experience of the Black, decolonization
 - [ ] **[G. E. Moore](eras/05-20th-century/g-e-moore.md)** (1873–1958) — Open-question argument, common sense
 - [ ] **[Karl Jaspers](eras/05-20th-century/karl-jaspers.md)** (1883–1969) — Boundary situations, the Encompassing, Axial Age
 - [ ] **Wittgenstein ([early](eras/05-20th-century/wittgenstein-early.md) · [late](eras/05-20th-century/wittgenstein-late.md))** (1889–1951) — Picture theory → language-games
@@ -97,6 +98,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Hans-Georg Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — Fusion of horizons, prejudice
 - [ ] **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Falsifiability, open society
 - [ ] **[Thomas Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Paradigms, scientific revolutions
+- [ ] **[Rudolf Carnap](eras/05-20th-century/rudolf-carnap.md)** (1891–1970) — Principle of tolerance, internal vs external questions, inductive logic
 - [ ] **[(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — Verification principle
 - [ ] **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Bad faith, radical freedom
 - [ ] **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Action, banality of evil
@@ -105,12 +107,13 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Simone Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — Attention, affliction (malheur)
 - [ ] **[Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (1908–1961) — Embodied perception, body-subject
 - [ ] **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — Web of belief, two dogmas
+- [ ] **[(Group entry) Sellars, Davidson, Putnam & Lewis](eras/05-20th-century/analytic-philosophy-after-quine.md)** (1912–2016) — Myth of the Given, radical interpretation, semantic externalism, modal realism
 - [ ] **[Austin & Strawson](eras/05-20th-century/austin-and-strawson.md)** (1911–1960 / 1919–2006) — Speech acts, performatives; "On Referring," reactive attitudes
 - [ ] **[Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md)** (1913–2005) — Narrative identity, idem/ipse
 - [ ] **[Albert Camus](eras/05-20th-century/albert-camus.md)** (1913–1960) — The absurd, revolt
 - [ ] **[Adorno](eras/05-20th-century/frankfurt-school.md)** (1903–1969) — Culture industry, negative dialectics
 - [ ] **[Horkheimer](eras/05-20th-century/frankfurt-school.md)** (1895–1973) — Critical vs traditional theory
-- [ ] **[Habermas](eras/05-20th-century/frankfurt-school.md)** (b. 1929) — Communicative action, public sphere
+- [ ] **[Habermas](eras/05-20th-century/jurgen-habermas.md)** (1929–2026) — Communicative action, public sphere
 - [ ] **[Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md)** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
 - [ ] **[Iris Murdoch](eras/05-20th-century/iris-murdoch.md)** (1919–1999) — Attention, unselfing, the Good
 - [ ] **[Mary Midgley](eras/05-20th-century/mary-midgley.md)** (1919–2018) — Human nature, anti-reductionism
