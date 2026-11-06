@@ -8,7 +8,7 @@
 
 ## At a glance
 
-- **Dates:** 980 – 1037
+- **Dates:** c. 980 (perhaps the 970s) – 1037
 - **Place:** Born near Bukhara (modern Uzbekistan); worked across Persia, dying in Hamadan. Wrote in Arabic (and some Persian).
 - **School/tradition:** Islamic philosophy (*falsafa*) — the Arabic Aristotelian tradition inherited from al-Kindī and al-Fārābī, systematized with Neoplatonic elements.
 - **Known for:** The essence/existence distinction and proof of the Necessary Existent; the Flying Man argument; the *Canon of Medicine*.
@@ -17,9 +17,9 @@
 
 ## Biography
 
-Ibn Sīnā — Avicenna in Latin — was born in 980 in Afshana, near Bukhara, then a flourishing city of the Samanid Empire. His autobiography (preserved by his student al-Jūzjānī) is a famous document of precocity: he had memorized the Qur'an by ten, mastered law, mathematics, and Indian arithmetic as a boy, and turned to medicine at sixteen — which he later called easy — and metaphysics, which was not. He tells how he read Aristotle's *Metaphysics* forty times without grasping its purpose until a chance purchase of al-Fārābī's commentary unlocked it, and how, still a teenager, he cured the Samanid emir Nūḥ ibn Manṣūr of an illness the court physicians could not treat, winning access to the royal library, whose catalogued rooms of Greek and Arabic science he devoured before it burned.
+Ibn Sīnā — Avicenna in Latin — was born around 980 (the year is uncertain; some scholars place it in the 970s) in Afshana, near Bukhara, then a flourishing city of the Samanid Empire. His autobiography (preserved by his student al-Jūzjānī) is a famous document of precocity: he had memorized the Qur'an by ten, mastered law, mathematics, and Indian arithmetic as a boy, and turned to medicine at sixteen — which he later called easy — and metaphysics, which was not. He tells how he read Aristotle's *Metaphysics* forty times without grasping its purpose until a chance purchase of al-Fārābī's commentary unlocked it, and how, still a teenager, he cured the Samanid emir Nūḥ ibn Manṣūr of an illness the court physicians could not treat, winning access to the royal library, whose catalogued rooms of Greek and Arabic science he devoured before it burned.
 
-The Samanid collapse scattered him into the itinerant life of a court intellectual: scholar, physician, and vizier to successive rulers in Khwarizm, Gurgan, Rayy, Hamadan, and Isfahan, repeatedly displaced by war and court intrigue, once imprisoned for months, and composing major works on the road, at night after court duties, sometimes (his student reports) dictating while traveling. He completed the *Canon of Medicine* in Hamadan (c. 1025), after beginning it in Gurgan. In Isfahan, under ʿAlāʾ al-Dawla, he found his most stable patronage, finished the *Healing* (*al-Shifāʾ*) and wrote the Persian *Dānishnāma-yi ʿAlāʾī* for his patron. He died in 1037 in Hamadan; al-Juzjani reports that he died of a colic after treating himself too aggressively. The scale of the output is staggering — some two hundred works are attributed to him — and his summa, the *Book of Healing*, is among the largest philosophical works by a single author before the modern era.
+The Samanid collapse scattered him into the itinerant life of a court intellectual: scholar, physician and counsellor to successive rulers in Khwarizm, Gurgan, Rayy, Hamadan, and Isfahan (vizier in Hamadan and later to ʿAlāʾ al-Dawla), repeatedly displaced by war and court intrigue, once imprisoned for months, and composing major works on the road, at night after court duties, sometimes (his student reports) dictating while traveling. He completed the *Canon of Medicine* in Hamadan (c. 1025), after beginning it in Gurgan. In Isfahan, under ʿAlāʾ al-Dawla, he found his most stable patronage, finished the *Healing* (*al-Shifāʾ*) and wrote the Persian *Dānishnāma-yi ʿAlāʾī* for his patron. He died in 1037 in Hamadan; al-Juzjani reports that he died of a colic after treating himself too aggressively. The scale of the output is staggering — close to three hundred works are attributed to him (fewer than a hundred are judged authentic) — and his summa, the *Book of Healing*, is among the largest philosophical works by a single author before the modern era.
 
 ## Major theories and concepts
 
@@ -68,7 +68,7 @@ Therefore, the soul — the self affirmed in the experiment — is distinct from
 - **The Book of Healing** (*Kitāb al-Shifāʾ*, c. 1020–27) — vast encyclopedia in four parts: logic, natural philosophy, mathematics, metaphysics. Despite the title it is not a medical book; the "healing" is of the soul from ignorance. Its *Metaphysics* (*Ilāhiyyāt*) contains the essence/existence doctrine and Necessary Existent proof.
 - **The Book of Salvation** (*Kitāb al-Najāt*, c. 1020s) — a shorter digest, largely drawn from the *Healing*; the Flying Man appears in its psychology section and is accessible here.
 - **The Canon of Medicine** (*al-Qānūn fī al-Ṭibb*, c. 1025) — five-book medical encyclopedia; translated into Latin, it remained a European university textbook into the seventeenth century.
-- **Remarks and Admonitions** (*al-Ishārāt wa-l-Tanbīhāt*, c. 1030–34) — his dense late summa, the focus of centuries of commentary (notably by Naṣīr al-Dīn al-Ṭūsī).
+- **Remarks and Admonitions** (*al-Ishārāt wa-l-Tanbīhāt*, probably early 1030s; dating disputed) — his dense late summa, the focus of centuries of commentary (notably by Naṣīr al-Dīn al-Ṭūsī).
 
 ## Contributions
 
@@ -80,7 +80,7 @@ In the Islamic world, al-Ghazālī's attack was aimed largely at Avicenna's syst
 
 ## Criticisms and debates
 
-Al-Ghazālī charged the philosophers with unbelief on three points: the world's eternity, God's knowing only universals (on the emanation scheme, does God know particulars?), and denial of bodily resurrection. Avicenna's defenders (and Ṭūsī) argue his position on God's knowledge is subtler — God knows particulars "in a universal way" — which critics reply is precisely the problem. Modern debates: the exact structure of the Necessary Existent proof (is it cosmological, or ontological in a modal key?), the Flying Man's intended conclusion, and how much of his system is Neoplatonic versus Aristotelian in inspiration.
+Al-Ghazālī charged the philosophers with unbelief on three points: the world's eternity, God's knowing only universals (on the emanation scheme, does God know particulars?), and denial of bodily resurrection. Avicenna's own position is that God knows particulars "in a universal way"; his defenders (notably Ṭūsī) argue this is subtler than a denial of such knowledge, and critics reply that it is precisely the problem. Modern debates: the exact structure of the Necessary Existent proof (is it cosmological, or ontological in a modal key?), the Flying Man's intended conclusion, and how much of his system is Neoplatonic versus Aristotelian in inspiration.
 
 ## Misreadings to avoid
 

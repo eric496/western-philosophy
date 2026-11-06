@@ -53,7 +53,7 @@ The moral is anti-essentialist: the craving to state necessary and sufficient co
 
 ### Forms of life
 
-Language-games are embedded in a *form of life* — the shared background of practices and reactions within which speaking makes sense. "To imagine a language means to imagine a form of life" (§19). Agreement in language (§§241–242) is not agreement in opinions but in judgments — shared responses that must be in place before truth and falsity can be discussed. If a lion could talk, we could not understand him, because his form of life is not ours. Scholars debate whether the term is mainly biological, mainly cultural, or both; Wittgenstein offers it as a reminder of where explanations run out: "What has to be accepted, the given, is — so one could say — forms of life."
+Language-games are embedded in a *form of life* — the shared background of practices and reactions within which speaking makes sense. "To imagine a language means to imagine a form of life" (§19). Agreement in language (§§241–242) is not agreement in opinions but in form of life, and it requires agreement in judgments — shared responses that must be in place before truth and falsity can be discussed. If a lion could talk, we could not understand him, because his form of life is not ours. Scholars debate whether the term is mainly biological, mainly cultural, or both; Wittgenstein offers it as a reminder of where explanations run out: "What has to be accepted, the given, is — so one could say — forms of life."
 
 ### The private language argument
 

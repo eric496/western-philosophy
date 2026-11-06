@@ -67,12 +67,12 @@ Therefore, scientific development is not simple accumulation; it is punctuated b
 
 **Objection.** The model fits some episodes — the Copernican and chemical revolutions — better than others, and its central term is used so elastically that Margaret Masterman famously counted 21 senses of "paradigm" in the book. A thesis built on a term that vague, critics argue, risks explaining everything and nothing.
 
-**Reply.** Kuhn accepted much of the multiplicity and, in the 1970 Postscript and later work, organized the term around exemplars: shared concrete problem-solutions, learned in training, that show students how to do further work. Even where historians qualify the strict sequence of normal science, crisis, and revolution, the framework survives as a tool for historical analysis — for asking what a community shared, what it counted as a problem, and what changed when that changed.
+**Reply.** Kuhn accepted much of the multiplicity and, in the 1969 Postscript (added to the 1970 second edition) and later work, organized the term around exemplars: shared concrete problem-solutions, learned in training, that show students how to do further work. Even where historians qualify the strict sequence of normal science, crisis, and revolution, the framework survives as a tool for historical analysis — for asking what a community shared, what it counted as a problem, and what changed when that changed.
 
 ## Key works
 
 - *The Copernican Revolution* (1957) — an accessible case study of a revolution spanning science, philosophy, and theology.
-- *The Structure of Scientific Revolutions* (1962; 2nd ed. 1970) — the paradigm book; the 1970 Postscript, clarifying “paradigm” and answering critics, is essential reading.
+- *The Structure of Scientific Revolutions* (1962; 2nd ed. 1970) — the paradigm book; the 1969 Postscript, clarifying “paradigm” and answering critics, is essential reading.
 - *The Essential Tension* (1977) — essays on the history of science, including his account of reading Aristotle and his replies in the Popper debate.
 
 ## Contributions
@@ -97,7 +97,7 @@ Margaret Masterman famously counted more than twenty senses of “paradigm” in
 ## What to read first
 
 1. *The Structure of Scientific Revolutions* itself — unusually, the primary text *is* the beginner text; use the 1970 or later edition.
-2. The 1970 Postscript — read immediately after the main chapters; it is Kuhn’s own repair kit for his key terms.
+2. The 1969 Postscript — read immediately after the main chapters; it is Kuhn’s own repair kit for his key terms.
 3. *The Copernican Revolution*, selections — if you want to see the method at work on one detailed case before the theory.
 
 ---

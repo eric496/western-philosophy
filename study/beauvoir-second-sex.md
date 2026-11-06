@@ -6,7 +6,7 @@
 
 ## Edition note
 
-Read the translation by Constance Borde and Sheila Malovany-Chevallier (Vintage, 2010; paperback 2011). It is the first complete English translation of the book, and it is the translation this guide quotes and navigates by. Do not use the older English translation by H. M. Parshley (1953): it abridged the text by roughly 15%, cutting whole passages on women's history, philosophy, and sexuality, and mistranslated key terms, flattening her argument. Before you begin, check the translator's name on the title page of any copy you pick up: if it says Parshley, put it down and find the Borde and Malovany-Chevallier.
+Read the translation by Constance Borde and Sheila Malovany-Chevallier (Knopf, 2010; Vintage paperback, 2011). It is the first complete English translation of the book, and it is the translation this guide quotes and navigates by. Do not use the older English translation by H. M. Parshley (1953): it abridged the text by roughly 15%, cutting whole passages on women's history, philosophy, and sexuality, and mistranslated key terms, flattening her argument. Before you begin, check the translator's name on the title page of any copy you pick up: if it says Parshley, put it down and find the Borde and Malovany-Chevallier.
 
 Two practical notes on the text itself. First, *The Second Sex* is long — roughly 800 pages in the complete translation — and uneven by design: Beauvoir assembles biology, psychoanalysis, history, economics, literature, and lived testimony, and tests each against the others. Expect a case built from many kinds of evidence, not a single linear argument. Second, the book's famous sentence — "One is not born, but rather becomes, woman" — opens Volume II, not the Introduction. The Introduction prepares it, and this guide follows that order.
 
@@ -32,9 +32,9 @@ At about two hours of primary reading per week, the program below takes about ei
 
 | Week | Reading | Focus |
 |---|---|---|
-| 1 | Introduction | "What is a woman?", woman as Other, the three rejected explanations |
+| 1 | Introduction | "What is a woman?", woman as Other, complicity, the plan of the book |
 | 2 | Volume I, Part One (Destiny) as summary | Biology, psychoanalysis, historical materialism — and what each misses |
-| 3 | Volume I, Part Two (History) as summary; Part Three (Myths), the chapter on the myth of woman in six authors | How history and literature made the eternal feminine |
+| 3 | Volume I, Part Two (History) as summary; Part Three (Myths), the chapter on the myth of woman in five authors | How history and literature made the eternal feminine |
 | 4 | Volume II, Part One, ch. 1: Childhood | How a girl is made: dolls, passivity, the body as object |
 | 5 | Volume II, Part One, ch. 2: The Young Girl | Puberty, the crisis of the body, the renunciation of transcendence |
 | 6 | Volume II, Part One, chs. 3–4 as summaries | Sexual initiation; the lesbian as a case study in situation |
@@ -53,7 +53,7 @@ Beauvoir opens by confessing hesitation: the subject is irritating, especially t
 
 The answer begins with the Other. Beauvoir borrows from Hegel the drama of two consciousnesses, each seeking recognition, and generalizes it: no group defines itself as the One without setting up an Other against which it is defined. Men, she argues, have made themselves the Subject and the Absolute, and woman the inessential counterpart — the Other. Her famous formulation: "He is the Subject; he is the Absolute. She is the Other." But the asymmetry is the point. In Hegel, master and slave at least confront each other reciprocally, and the slave can turn the relation by work. Woman's otherness is different in kind: she does not stand over against men as a separate group at all, but lives dispersed among them — bound to fathers, brothers, husbands, sons — divided by class and race, with no shared past, no common religion, no institutions of her own through which to forge solidarity. That dispersion, not any natural inferiority, is one reason the relation has proved so durable, and Beauvoir states it as historical analysis, not destiny.
 
-The Introduction then tests three candidate explanations of woman's situation, and rejects each as insufficient — not as false, but as partial. Each rejection matters, because each becomes a reconstruction below.
+The Introduction then announces the three candidate explanations of woman's situation that Volume I, Part One (Destiny) tests and rejects as insufficient — not as false, but as partial. Each rejection matters, because each becomes a reconstruction below.
 
 **Biology.** The facts of sexual dimorphism are real: the female bears the heavier burden in reproduction, and in many species the male is the more active partner. But biology describes a body, not a destiny. Nothing in the physiology of pregnancy entails that women should be excluded from public life, paid less, or taught to experience themselves as relative beings. As Beauvoir puts it, the body is one of the essential elements of the situation a woman occupies in the world — but that alone does not define her. The error of biological explanation is to treat a condition as a cause.
 
@@ -81,7 +81,7 @@ The history chapter is a rapid survey from prehistory to the nineteenth century,
 
 ### Volume I, Part Three — Myths (summary)
 
-The myths section asks what men have dreamed woman to be. The "eternal feminine" is not one myth but a cluster: woman as Nature, as flesh, as mother, as virgin, as temptress, as muse — each image making her simultaneously exalted and debased, essential and inessential. Beauvoir's key move is to show that these myths are not descriptions but projections: man makes woman the Other in imagination in order to avoid confronting his own ambiguity — his own bodiliness, mortality, and dependence. The chapter on the myth of woman in six authors (Montherlant, D. H. Lawrence, Claudel, Breton, and Stendhal, among others) tests the claim against literature. Stendhal is the exception Beauvoir praises: he treats his heroines as free subjects with projects of their own, rather than as symbols of something else. Myth is not harmless poetry: a girl raised on these images learns what she is supposed to be before she learns who she is. That is the bridge into Volume II.
+The myths section asks what men have dreamed woman to be. The "eternal feminine" is not one myth but a cluster: woman as Nature, as flesh, as mother, as virgin, as temptress, as muse — each image making her simultaneously exalted and debased, essential and inessential. Beauvoir's key move is to show that these myths are not descriptions but projections: man makes woman the Other in imagination in order to avoid confronting his own ambiguity — his own bodiliness, mortality, and dependence. The chapter on the myth of woman in five authors (Montherlant, D. H. Lawrence, Claudel, Breton, and Stendhal) tests the claim against literature. Stendhal is the exception Beauvoir praises: he treats his heroines as free subjects with projects of their own, rather than as symbols of something else. Myth is not harmless poetry: a girl raised on these images learns what she is supposed to be before she learns who she is. That is the bridge into Volume II.
 
 **Main argument:** The myths of woman are projections of male ambiguity, and they function socially by teaching girls their supposed nature in advance of experience.
 

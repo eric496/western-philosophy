@@ -30,7 +30,7 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 24 | [Boethius](eras/02-medieval/boethius.md) | c.477–524 | Medieval / Bridge | Consolation, universals problem | *Consolation*, Bks I–III |
 | 25 | [(Group entry) Pseudo-Dionysius & Meister Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md) | fl. c.500 / c.1260–1328 | Medieval / Mystical Theology | Negative theology, the ground of the soul, detachment | Pseudo-Dionysius, *The Mystical Theology* |
 | 26 | [John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md) | c.800–c.877 | Medieval / Carolingian Neoplatonist | Division of nature, negative theology | *Periphyseon* (excerpts) |
-| 27 | [Avicenna](eras/02-medieval/avicenna.md) | 980–1037 | Medieval / Islamic falsafa | Necessary Existent, Flying Man | *Book of Healing* (excerpts) |
+| 27 | [Avicenna](eras/02-medieval/avicenna.md) | c.980–1037 | Medieval / Islamic falsafa | Necessary Existent, Flying Man | *Book of Healing* (excerpts) |
 | 28 | [Anselm](eras/02-medieval/anselm-of-canterbury.md) | 1033–1109 | Medieval / Scholastic | Ontological argument | *Proslogion* chs 2–4 |
 | 29 | [Al-Ghazali](eras/02-medieval/al-ghazali.md) | c.1058–1111 | Medieval / Islamic kalām & Sufism | Incoherence of the Philosophers, occasionalism | *The Deliverance from Error* |
 | 30 | [Abelard](eras/02-medieval/peter-abelard.md) | 1079–1142 | Medieval / Scholastic | Intention, conceptualism | *Sic et Non* (preface) |

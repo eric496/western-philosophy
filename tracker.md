@@ -28,7 +28,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Boethius](eras/02-medieval/boethius.md)** (c.477–524) — Consolation, universals problem
 - [ ] **[(Group entry) Pseudo-Dionysius & Meister Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md)** (fl. c.500 / c.1260–1328) — Negative theology, the ground of the soul, detachment
 - [ ] **[John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c.800–c.877) — Division of nature, negative theology
-- [ ] **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — Necessary Existent, Flying Man
+- [ ] **[Avicenna](eras/02-medieval/avicenna.md)** (c.980–1037) — Necessary Existent, Flying Man
 - [ ] **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — Ontological argument
 - [ ] **[Al-Ghazali](eras/02-medieval/al-ghazali.md)** (c.1058–1111) — Incoherence of the Philosophers, occasionalism
 - [ ] **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Intention, conceptualism
