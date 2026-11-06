@@ -60,6 +60,32 @@ Other people are not simply objects in my world, because they can *look back*. I
 
 The *Critique of Dialectical Reason* (1960) asks what the early philosophy missed: history and material constraint. Its key ideas include *scarcity*, the background that makes people rivals, and the *practico-inert* — past action hardened into institutions and market forces that then constrain their makers like alien things. People waiting for a bus form a “series” whose unity is imposed from outside. The later Sartre does not retract freedom, but the reconciliation with Marxist structural explanation is strained, and readers still argue over whether the two Sartres form one philosophy or two.
 
+## Signature arguments
+
+**Existence precedes essence (*Existentialism Is a Humanism*, the 1945 lecture)**
+
+1. For a manufactured object such as a paper knife, essence precedes existence: the maker conceives its purpose and nature before making it.
+2. To treat human beings the same way, one needs a maker, or a fixed human nature, that supplies the blueprint before the person exists.
+3. On Sartre's atheism there is no God to conceive human nature in advance, and so no pre-written nature to discover, excuse oneself by, or fail to live up to.
+4. A person therefore first exists, thrown into the world, and only then makes themselves through choices; even what their given traits mean is settled by what they do.
+Therefore, "existence precedes essence": each of us is responsible for what we make of ourselves, and since refusing to choose is itself a choice, we are "condemned to be free."
+
+**Objection.** The freedom looks too absolute. Merleau-Ponty argued in the closing chapter of *Phenomenology of Perception* (1945) that a freedom which is either total or nothing ignores how the body, settled habits and a shared social world give choices their shape and their inertia. The prisoner case sharpens the worry: if the prisoner is still free, the doctrine seems to trivialise real oppression, or quietly blame its victims.
+
+**Reply.** Sartre's freedom is always situated. Facticity (body, birthplace, past, social position, death) is given, and freedom is what one makes of it, not getting what one wants. The later *Critique of Dialectical Reason* adds scarcity and the practico-inert: past action hardened into institutions that constrain their makers. Critics answer that the early rhetoric outran these qualifications, and whether the early and late Sartre form one philosophy or two is still argued.
+
+**Bad faith (*Being and Nothingness*, Part One, ch. 2)**
+
+1. A human being is always both facticity (a given body, past and social role) and freedom (the power to stand apart from any of it and choose).
+2. Facing the total responsibility this brings is anguish, and most of social life is an organised flight from anguish.
+3. One can flee by treating oneself as a fixed thing, like the waiter who plays at being a waiter the way an inkwell is an inkwell, or by pretending that circumstances never touch "the real me."
+4. Each flight denies one pole of a being that is always both, and in each the deceiver and the deceived are the same person.
+Therefore, bad faith (*mauvaise foi*) is a distinctive self-deception, not lying to someone else: the denial, from within, of either one's freedom or one's facticity.
+
+**Objection.** The account looks paradoxical. To hide a truth from myself I must know it in order to hide it, so one consciousness must both know and not know the same thing. Sartre posed this very puzzle against Freud, whose mental censor, he argued, must know enough to repress and yet not know; critics turn the same puzzle back on Sartre's own account.
+
+**Reply.** Sartre's answer rests on consciousness as a being that never coincides with itself: one can be non-thetically, pre-reflectively aware of something without grasping it as explicit, statable knowledge, so no hidden inner liar is needed. Whether this dissolves the paradox or only relocates it remains a standard objection, and a productive one in the philosophy of self-deception ever since.
+
 ## Key works
 
 - *Nausea* (1938) — Novel; its diarist Roquentin discovers the sheer, gratuitous existence of things — the famous chestnut-root scene. Philosophy as lived nausea at contingency.

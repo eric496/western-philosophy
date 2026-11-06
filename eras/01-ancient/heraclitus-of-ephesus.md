@@ -41,6 +41,32 @@ Opposites are inseparable and mutually defining. "The way up and the way down is
 
 Like the Milesians, Heraclitus names a basic stuff: fire. But fire functions less as an ingredient than as the emblem and agent of measured change — transforming everything into itself and itself into everything, "as wares are exchanged for gold, and gold for wares" (B90). Whether he meant that the world periodically burns up entirely (as the Stoics later claimed) is disputed; B30 says this kosmos "ever was and is and will be: everliving fire," which sits awkwardly with cycles of total destruction. The soul, too, is fiery: the dry soul is "wisest and best" (B118), the drunkard's wet and staggering. Psychology and cosmology run on one physics of moisture, fire, and measure.
 
+## Signature arguments
+
+**Identity through measured flux (fragments B12, B30)**
+
+1. Everything is in process: day passes into night, living into dead, and "on those stepping into rivers staying the same other and other waters flow" (B12).
+2. The river is the same river precisely because new waters keep replacing the old; its identity is a stable pattern within change, like a flame, not an absence of change.
+3. This change is measured, not chaotic: the world is fire "kindling in measures and being quenched in measures" (B30).
+4. The measure is the *logos*, the single intelligible order (word, account, proportion) that everything follows and that thought can grasp.
+Therefore, change is the basic fact of reality, yet it is law-governed, and things persist as patterns of change rather than as unchanging stuffs.
+
+**Objection.** Aristotle objected that universal flux destroys knowledge and speech: if everything always changes in every respect, nothing can be truly stated. Heraclitus' follower Cratylus seemed to accept this, holding that you cannot step into the same river even once and finally refusing to speak, only moving his finger.
+
+**Reply.** The charge fits Cratylus' radical version better than Heraclitus' own fragments. The river fragment says the river stays the same while its waters change, and B30's measures supply exactly the stable structure that statements and knowledge can track. Whether Heraclitus himself held anything like the radical version, and so whether measured change is a sufficient reply, is a central and continuing scholarly debate.
+
+**The unity of opposites (fragments B60, B61, B51, B53)**
+
+1. Opposites are inseparable and define each other: "The way up and the way down is one and the same" (B60).
+2. One and the same thing can bear opposite properties in relation to different things: sea water is "the purest and most polluted water: for fish drinkable and healthy, for men undrinkable and harmful" (B61).
+3. Things hold together by the tension of opposed forces, as a bow and a lyre work only because their parts pull against each other (B51).
+4. So strife is no defect but a source of order: "war is father of all and king of all" (B53).
+Therefore, the world's harmony consists in the unity and interdependence of opposites, not in their absence.
+
+**Objection.** If a thing can be both itself and its opposite, identity and meaningful speech seem to collapse. Aristotle, in *Metaphysics* Γ 3, notes that some take Heraclitus to say the same thing can be and not be, and argues that no one can really believe this, since it violates the principle of non-contradiction.
+
+**Reply.** Heraclitus' examples relativize the opposites: sea water is healthy for fish and harmful for people, and the road is up from one end and down from the other. Unified in process and relation, the opposites are not flatly identical at one instant in one respect, so no contradiction follows. Whether that reading fits every fragment, or whether some fragments really do flout non-contradiction, is the debate his successors inherited and scholars still pursue.
+
 ## Key works
 
 - ***On Nature* (conventional title), c. 500 BCE:** the single book, lost as a whole; roughly 100+ fragments survive as quotations in later authors, numbered in the standard Diels–Kranz edition as the B fragments. Translation and ordering vary by edition — that instability is itself part of the evidence about him.

@@ -61,6 +61,32 @@ A possible world is a complete way things could have been — a maximal set of c
 
 Leibniz published the first account of the differential calculus in 1684. Newton had developed his version earlier but published later; the ensuing priority dispute embittered Leibniz’s last years. Modern scholarship treats the inventions as independent — Newton first in discovery, Leibniz first in publication — and Leibniz’s notation (∫, *d*) is still used. The Leibniz–Clarke correspondence (1715–16), with Newton’s spokesman Samuel Clarke, remains a classic on absolute versus relational space and time.
 
+## Signature arguments
+
+**The argument from sufficient reason to God (*Monadology* §§32–39)**
+
+1. Principle of sufficient reason: no fact is real and no statement true "unless there be a sufficient reason why it is so and not otherwise."
+2. The things in the world are contingent: each could have been otherwise, so none supplies its own ultimate reason.
+3. Tracing reasons back through earlier contingent things, however far, even to infinity, never gives the reason for the whole series, since every member stands in the same need.
+4. So the sufficient reason for the whole series must lie outside it, in something that carries the reason for its existence within itself.
+Therefore, there exists a necessary being, the ultimate reason of things, which we call God.
+
+**Objection.** David Hume, through the character Cleanthes in the *Dialogues Concerning Natural Religion* (Part IX), denied that the whole series needs a reason beyond its members. A collection is only the uniting of its parts: explain each part by an earlier one and nothing is left over to explain. Later critics add that the principle itself is not self-evident, and that the universe as a whole may simply have no explanation.
+
+**Reply.** Leibniz answers with his own example, in *On the Ultimate Origination of Things* (1697): if a geometry book were copied from an earlier copy forever, each copy would be explained by its predecessor, yet we would still have no reason why there is such a book at all, or why it says what it says. Explaining each member is not explaining why the whole series exists rather than some other series or none. Whether this answers Hume, or simply restates the demand Hume rejects, depends on whether one accepts the principle in its strong form, and that is still debated.
+
+**Against absolute space (Leibniz–Clarke correspondence, Third Paper §5; Fourth Paper)**
+
+1. God never acts without a sufficient reason; a mere will with no motive would be unworthy of perfect wisdom.
+2. Suppose space were an absolute, uniform container, as Newton held. Then God could have placed the whole universe three feet to the left, or turned it around, with every relation among things exactly as it is now.
+3. Nothing could give God a reason to prefer one of these placements to another.
+4. Identity of indiscernibles: two situations with no discernible difference are not two situations but one, described in two ways.
+Therefore, the shifted world is no different world at all, and space is not a thing but relational: an order of coexisting things.
+
+**Objection.** Samuel Clarke, writing for Newton, replied (Second Reply §1) that where the options are exactly alike, the sufficient reason is often nothing other than the mere will of God. He pressed the point (Fourth Reply): if God could never choose between perfectly alike placements, he could not have placed any two equal, perfectly alike particles of matter at all, so Leibniz's argument proves too much.
+
+**Reply.** Leibniz answered that a mere will without any motive is a fiction, contrary to God's perfection, so Clarke's appeal to bare will gives up the principle of sufficient reason itself. And he accepted the consequence Clarke thought absurd: a wise God would produce no perfectly alike bodies, so there are none in nature, which is just what the identity of indiscernibles says. The exchange ended with Leibniz's death in 1716 and settled nothing: whether a perfect will may choose without a reason, and whether absolute or relational space is right, are both still argued.
+
 ## Key works
 
 - *Discourse on Metaphysics* (1686, unpublished in his lifetime) — A compact statement of the system; the alarmed replies of Arnauld, to whom he sent a summary, produced a famous correspondence.

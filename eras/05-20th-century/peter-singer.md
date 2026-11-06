@@ -41,6 +41,32 @@ For most of his career Singer was a **preference utilitarian**: the right act ma
 
 Singer's aid argument asks not only *how much* to give but *where*. Charities differ in effectiveness by orders of magnitude; a donation's value is the good it actually does, which can increasingly be measured (bednets against malaria, deworming, direct cash transfers). *The Life You Can Save* (2009) — and the organization of the same name that Singer founded — turned this into a public program, and it converged with the **effective altruism** movement launched by Toby Ord and William MacAskill (Giving What We Can, 2009): use evidence and reasoning to do the most good, consider earning-to-give careers, and treat altruism as a problem in allocation, not just generosity. Singer is the movement's philosophical godfather, though its research agenda now extends well beyond his original famine-relief examples, to animal welfare, global health, and long-run risks.
 
+## Signature arguments
+
+**The drowning child ("Famine, Affluence, and Morality", 1972)**
+
+1. Suffering and death from lack of food, shelter and medical care are bad.
+2. If it is in our power to prevent something bad from happening, without thereby sacrificing anything of comparable moral importance, we ought, morally, to do it. (Walking past a child drowning in a shallow pond to save your clothes is plainly wrong.)
+3. Distance makes no moral difference in itself: a child dying of preventable disease far away is no less our concern than one in the pond.
+4. Nor does the number of other people who could help but do not: others' failure to act does not cancel our own obligation.
+Therefore, affluent people ought to give far more than conventional charity, closer to giving until further giving would cost something of comparable moral importance; spending on luxuries while children die of preventable causes is morally comparable to walking past the pond.
+
+**Objection.** Demandingness. A principle that asks this much leaves no room for personal projects, special obligations to family, or a life of one's own. Bernard Williams's integrity objection to utilitarianism is often pressed here: a morality that absorbs every personal commitment alienates a person from the projects that make a life recognisably theirs.
+
+**Reply.** Singer answers that showing a morality is demanding does not show it is wrong; perhaps our conventional standards are what need revising. The principle also has a limit: one gives until the cost becomes of comparable moral importance, which is demanding but is not literal destitution. Singer also offers a moderate version in the same paper (prevent something very bad when this sacrifices nothing morally significant), which still requires far more than most people give. How a life can be fully moral by his standard and still recognisably human remains genuinely disputed.
+
+**Speciesism and equal consideration of interests (*Animal Liberation*, chs. 1–2)**
+
+1. Racism and sexism are wrong because they give less weight to similar interests solely because of who has them.
+2. Speciesism, prejudice in favour of one's own species, has exactly that structure.
+3. The defensible boundary of moral concern is sentience, the capacity to suffer and enjoy; Bentham's question "Can they suffer?" matters, not reason, language or species membership.
+4. So an interest, above all the interest in not suffering, counts the same whoever feels it.
+Therefore, practices such as factory farming and much animal experimentation, which inflict severe suffering for trivial human gains, are wrong. This is equal consideration of comparable interests, not equal value of all lives or identical treatment.
+
+**Objection.** Species is not like race. Carl Cohen (1986) argued that moral rights belong to beings of a kind capable of moral claims and obligations, so humans have rights and animals do not, and that favouring humans is therefore not a prejudice parallel to racism.
+
+**Reply.** Singer's standard answer is the argument from marginal cases: any capacity proposed as the boundary, such as reason or the capacity for moral claims, is lacked by some human beings, so excluding animals on that basis would exclude those humans too; drawing the line at the species instead is exactly the arbitrary weighting the argument condemns. Cohen replies that rights attach to the kind, not to each individual's capacities, and whether kind-membership can bear that moral weight remains the core of the debate.
+
 ## Key works
 
 - "Famine, Affluence, and Morality" (1972) — The drowning-child argument in its original form, aimed at the Bengal famine relief effort.

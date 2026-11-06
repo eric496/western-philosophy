@@ -58,6 +58,32 @@ After a “turn” (*Kehre*) much debated by scholars, the later Heidegger shift
 
 The best-known late essay, “The Question Concerning Technology” (lectured 1953, published 1954), argues that the essence of modern technology is not machines. It is a way of revealing the world he calls *enframing* (*Gestell*): nature and even people show up as *standing-reserve* (*Bestand*) — a river as hydroelectric capacity, a forest as timber inventory, workers as human resources — stock to be ordered and optimized. The danger is not any single device but that this one way of revealing crowds out all others, including our sense of ourselves. His counter-words — *poiesis*, bringing-forth, and later *Gelassenheit*, releasement — point to a more receptive relation to things, though critics find the practical conclusions thin.
 
+## Signature arguments
+
+**Being-in-the-world and the derivative status of theory (*Being and Time* §§15–16, 43)**
+
+1. In everyday dealings things show up first as *ready-to-hand* (*zuhanden*): the hammer as good for hammering, within a web of purposes, not as wood and metal contemplated from outside.
+2. Things show up as *present-at-hand* (*vorhanden*), mere objects with properties, chiefly when involvement breaks down: the hammer snaps, and suddenly we stare at it as a thing.
+3. So the detached stance of theory arises out of a prior, practical familiarity with a meaningful world; it presupposes that familiarity and cannot produce it.
+4. Dasein is therefore always already *being-in-the-world*, not a mind first shut up inside itself that must find a way out to things.
+Therefore, the Cartesian task of proving that an external world exists rests on a false starting point. As Heidegger turns Kant's complaint around (§43), the scandal of philosophy is not that no proof has been given but that such proofs are expected and attempted again and again.
+
+**Objection.** This dissolves the sceptic's question rather than answering it. Even granted that practical involvement comes first, a sceptic can ask whether we ever know things as they are independently of us, and Heidegger's claim that being depends on Dasein's understanding seems to push him towards idealism. Commentators on his realism, such as Joseph Rouse and Hubert Dreyfus, have debated how far the dissolution reaches.
+
+**Reply.** Heidegger holds that the doubt whether a world exists loses its motivation once we see ourselves as beings-in-the-world, but he does not make entities depend on us: he insists that they are independent of the experience through which we discover them (German pagination 183). What depends on Dasein is *being*, the intelligibility of entities, not the entities themselves. Whether that combination is coherent, and how he answers the question of knowing things in themselves, divides scholars.
+
+**Being-toward-death and authenticity (*Being and Time* §§50–53)**
+
+1. Mostly we live under *das Man*, the They: we do what "one" does, which relieves anyone in particular of having decided.
+2. Death is my *ownmost* possibility (no one can die my death for me), *non-relational*, and *not to be outstripped*: every other project ends there; it is also always possible, and indefinite in its "when".
+3. The They tranquillizes this: in Macquarrie and Robinson's rendering of §51, "one of these days one will die too, in the end; but right now it has nothing to do with us."
+4. If instead I *anticipate* death, understanding my existence as finite through and through, my other possibilities become visibly mine, limited and urgent.
+Therefore, owning finitude, and taking over one's thrown situation rather than disowning it, individuates Dasein out of the They: this is *authenticity* (*Eigentlichkeit*).
+
+**Objection.** Levinas charged that Heidegger subordinates the ethical relation to the Other to ontology: an account built on *my* death treats other people as background. Relatedly, authenticity seems to have no moral content at all, since a resolute person could resolutely choose something terrible, and Heidegger's own conduct in 1933 gives the worry its sharpest edge.
+
+**Reply.** Defenders answer that the analysis is formal: it concerns owning one's choices, not a moral code, and it does not claim to supply one. They add that later work says more about others, history and ethics. The gap remains one of the most discussed in the literature, and the reply is disputed, not established.
+
 ## Key works
 
 - *Being and Time* (1927) — The major work: Dasein, being-in-the-world, das Man, death, and temporality. Published unfinished relative to its announced plan; Division Three and the projected destruction of the history of ontology never appeared in that form.
