@@ -1,6 +1,6 @@
 # Western Philosophy — A Beginner's Self-Study Map
 
-A structured way to pick up Western philosophy on your own: **129 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
+A structured way to pick up Western philosophy on your own: **135 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
 
 Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP), the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) (IEP), and [Encyclopaedia Britannica](https://www.britannica.com/) — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
 
@@ -15,7 +15,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 
 | File / folder | What it is |
 |---|---|
-| [`index.md`](index.md) | Master index: all 129 figures — dates, school, signature concept, first work to read |
+| [`index.md`](index.md) | Master index: all 135 figures — dates, school, signature concept, first work to read |
 | [`learning-path.md`](learning-path.md) | The study plan: hybrid-spiral stages with week/hour budgets, core vs map-level figures, per-author primary texts and editions to use (and avoid), can-do checkpoints and gate essays per stage, the spaced-retrieval system, and a failure-mode checklist |
 | [`eras/01-ancient/`](eras/01-ancient/) … [`eras/05-20th-century/`](eras/05-20th-century/) | One folder per era: an overview (story of the era, within-era reading order, traps to avoid) plus one entry file per philosopher or school |
 | [`philosophers/README.md`](philosophers/README.md) | Alphabetical list of all entry files |

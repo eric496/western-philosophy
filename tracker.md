@@ -23,8 +23,10 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Epictetus](eras/01-ancient/roman-stoics.md)** (c.50–c.135 CE) — Dichotomy of control
 - [ ] **[Marcus Aurelius](eras/01-ancient/roman-stoics.md)** (121–180 CE) — Memento mori, view from above
 - [ ] **[Plotinus](eras/01-ancient/plotinus.md)** (c.204/205–270 CE) — The One, emanation
+- [ ] **[(Group entry) Porphyry, Iamblichus, Proclus & Hypatia](eras/01-ancient/late-neoplatonists.md)** (c.234–485 CE) — Isagoge and universals, theurgy, procession and return
 - [ ] **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Evil as privation, time, grace
 - [ ] **[Boethius](eras/02-medieval/boethius.md)** (c.477–524) — Consolation, universals problem
+- [ ] **[(Group entry) Pseudo-Dionysius & Meister Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md)** (fl. c.500 / c.1260–1328) — Negative theology, the ground of the soul, detachment
 - [ ] **[John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c.800–c.877) — Division of nature, negative theology
 - [ ] **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — Necessary Existent, Flying Man
 - [ ] **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — Ontological argument
@@ -36,9 +38,12 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Five Ways, natural law
 - [ ] **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c.1263/66–1308) — Univocity, haecceity
 - [ ] **[Ockham](eras/02-medieval/william-of-ockham.md)** (c.1287–1347) — Razor, nominalism
+- [ ] **[Christine de Pizan](eras/02-medieval/christine-de-pizan.md)** (1364–c.1430) — Defense of women, the querelle des femmes
 - [ ] **[Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (1401–1464) — Learned ignorance, coincidence of opposites
+- [ ] **[(Group entry) Ficino, Pico, Erasmus & Bruno](eras/03-early-modern/renaissance-humanists.md)** (1433–1600) — Platonic revival, human dignity, humanist reform, infinite universe
 - [ ] **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — Effectual truth, virtù/fortuna
 - [ ] **[Michel de Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "Que sçay-je?", the essay, custom
+- [ ] **[(Group entry) Suárez & Grotius](eras/03-early-modern/suarez-and-grotius.md)** (1548–1645) — Law and the lawgiver, consent, law of nations, just war
 - [ ] **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Idols, induction
 - [ ] **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — State of nature, Leviathan
 - [ ] **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Cogito, dualism, doubt
@@ -48,6 +53,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Nicolas Malebranche](eras/03-early-modern/nicolas-malebranche.md)** (1638–1715) — Occasionalism, vision in God, general volitions
 - [ ] **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — White paper (no innate ideas), rights, toleration
 - [ ] **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Monads, sufficient reason
+- [ ] **[(Group entry) Bayle & Voltaire](eras/03-early-modern/bayle-and-voltaire.md)** (1647–1778) — Toleration, the erring conscience, skepticism, against optimism
 - [ ] **[Giambattista Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — Verum factum, three ages, corsi e ricorsi
 - [ ] **[(Group entry) Shaftesbury, Hutcheson & Butler](eras/03-early-modern/moral-sense-school.md)** (1671–1752) — Moral sense, benevolence against egoism, supremacy of conscience
 - [ ] **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Esse est percipi

@@ -1,6 +1,6 @@
 # Philosopher Entry Files — Alphabetical
 
-Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 129 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
+Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 135 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
 
 - [Adam Smith](../eras/03-early-modern/adam-smith.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Alasdair MacIntyre](../eras/05-20th-century/alasdair-macintyre.md) — 20th Century to Present (1900 – )
@@ -18,11 +18,13 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Averroes (Ibn Rushd)](../eras/02-medieval/averroes.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Avicenna (Ibn Sīnā)](../eras/02-medieval/avicenna.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Baruch Spinoza](../eras/03-early-modern/baruch-spinoza.md) — Early Modern Philosophy (c. 1600 – 1800)
+- [Bayle and Voltaire](../eras/03-early-modern/bayle-and-voltaire.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Bernard Williams](../eras/05-20th-century/bernard-williams.md) — 20th Century to Present (1900 – )
 - [Bertrand Russell](../eras/05-20th-century/bertrand-russell.md) — 20th Century to Present (1900 – )
 - [Blaise Pascal](../eras/03-early-modern/blaise-pascal.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Boethius](../eras/02-medieval/boethius.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Charles Sanders Peirce](../eras/04-19th-century/charles-sanders-peirce.md) — 19th-Century Philosophy (1801 – 1900)
+- [Christine de Pizan](../eras/02-medieval/christine-de-pizan.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Cicero & Lucretius](../eras/01-ancient/cicero-and-lucretius.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [David Hume](../eras/03-early-modern/david-hume.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Democritus of Abdera](../eras/01-ancient/democritus-of-abdera.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
@@ -38,6 +40,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Empedocles](../eras/01-ancient/empedocles.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Epicurus](../eras/01-ancient/epicurus.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [F. W. J. Schelling](../eras/04-19th-century/friedrich-schelling.md) — 19th-Century Philosophy (1801 – 1900)
+- [Ficino, Pico, Erasmus and Bruno](../eras/03-early-modern/renaissance-humanists.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Francis Bacon](../eras/03-early-modern/francis-bacon.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Frankfurt School (Horkheimer & Adorno)](../eras/05-20th-century/frankfurt-school.md) — 20th Century to Present (1900 – )
 - [Franz Brentano](../eras/04-19th-century/franz-brentano.md) — 19th-Century Philosophy (1801 – 1900)
@@ -98,7 +101,9 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Philosophy of Mind after Ryle](../eras/05-20th-century/philosophy-of-mind-after-ryle.md) — 20th Century to Present (1900 – )
 - [Plato](../eras/01-ancient/plato.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Plotinus](../eras/01-ancient/plotinus.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
+- [Porphyry, Iamblichus, Proclus and Hypatia](../eras/01-ancient/late-neoplatonists.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Protagoras & the Sophists](../eras/01-ancient/protagoras-and-the-sophists.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
+- [Pseudo-Dionysius and Meister Eckhart](../eras/02-medieval/pseudo-dionysius-and-eckhart.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Pyrrho of Elis & the Skeptics](../eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Pythagoras](../eras/01-ancient/pythagoras.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [René Descartes](../eras/03-early-modern/rene-descartes.md) — Early Modern Philosophy (c. 1600 – 1800)
@@ -112,6 +117,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Simone Weil](../eras/05-20th-century/simone-weil.md) — 20th Century to Present (1900 – )
 - [Socrates](../eras/01-ancient/socrates.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Søren Kierkegaard](../eras/04-19th-century/soren-kierkegaard.md) — 19th-Century Philosophy (1801 – 1900)
+- [Suárez and Grotius](../eras/03-early-modern/suarez-and-grotius.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Susanne Langer](../eras/05-20th-century/susanne-langer.md) — 20th Century to Present (1900 – )
 - [Thales of Miletus](../eras/01-ancient/thales-of-miletus.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [The Roman Stoics](../eras/01-ancient/roman-stoics.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)

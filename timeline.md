@@ -23,8 +23,10 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **c.50–c.135 CE — [Epictetus](eras/01-ancient/roman-stoics.md)** (Ancient / Roman Stoic): Dichotomy of control
 - **121–180 CE — [Marcus Aurelius](eras/01-ancient/roman-stoics.md)** (Ancient / Roman Stoic): Memento mori, view from above
 - **c.204/205–270 CE — [Plotinus](eras/01-ancient/plotinus.md)** (Ancient / Neoplatonist): The One, emanation
+- **c.234–485 CE — [(Group entry) Porphyry, Iamblichus, Proclus & Hypatia](eras/01-ancient/late-neoplatonists.md)** (Ancient / Neoplatonist): Isagoge and universals, theurgy, procession and return
 - **354–430 — [Augustine](eras/02-medieval/augustine-of-hippo.md)** (Medieval / Christian Platonist): Evil as privation, time, grace
 - **c.477–524 — [Boethius](eras/02-medieval/boethius.md)** (Medieval / Bridge): Consolation, universals problem
+- **fl. c.500 / c.1260–1328 — [(Group entry) Pseudo-Dionysius & Meister Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md)** (Medieval / Mystical Theology): Negative theology, the ground of the soul, detachment
 - **c.800–c.877 — [John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (Medieval / Carolingian Neoplatonist): Division of nature, negative theology
 - **980–1037 — [Avicenna](eras/02-medieval/avicenna.md)** (Medieval / Islamic falsafa): Necessary Existent, Flying Man
 - **1033–1109 — [Anselm](eras/02-medieval/anselm-of-canterbury.md)** (Medieval / Scholastic): Ontological argument
@@ -36,9 +38,12 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1225–1274 — [Aquinas](eras/02-medieval/thomas-aquinas.md)** (Medieval / Thomist): Five Ways, natural law
 - **c.1263/66–1308 — [Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (Medieval / Scholastic): Univocity, haecceity
 - **c.1287–1347 — [Ockham](eras/02-medieval/william-of-ockham.md)** (Medieval / Nominalist): Razor, nominalism
+- **1364–c.1430 — [Christine de Pizan](eras/02-medieval/christine-de-pizan.md)** (Medieval / Late-Medieval Humanism): Defense of women, the querelle des femmes
 - **1401–1464 — [Nicholas of Cusa](eras/02-medieval/nicholas-of-cusa.md)** (Medieval / Late Medieval): Learned ignorance, coincidence of opposites
+- **1433–1600 — [(Group entry) Ficino, Pico, Erasmus & Bruno](eras/03-early-modern/renaissance-humanists.md)** (Early Modern / Renaissance): Platonic revival, human dignity, humanist reform, infinite universe
 - **1469–1527 — [Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (Early Modern / Realist): Effectual truth, virtù/fortuna
 - **1533–1592 — [Michel de Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (Early Modern / Renaissance Skeptic): "Que sçay-je?", the essay, custom
+- **1548–1645 — [(Group entry) Suárez & Grotius](eras/03-early-modern/suarez-and-grotius.md)** (Early Modern / Natural Law): Law and the lawgiver, consent, law of nations, just war
 - **1561–1626 — [Bacon](eras/03-early-modern/francis-bacon.md)** (Early Modern / Science): Idols, induction
 - **1588–1679 — [Hobbes](eras/03-early-modern/thomas-hobbes.md)** (Early Modern / Contract): State of nature, Leviathan
 - **1596–1650 — [Descartes](eras/03-early-modern/rene-descartes.md)** (Early Modern / Rationalist): Cogito, dualism, doubt
@@ -48,6 +53,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1638–1715 — [Nicolas Malebranche](eras/03-early-modern/nicolas-malebranche.md)** (Early Modern / Cartesian): Occasionalism, vision in God, general volitions
 - **1632–1704 — [Locke](eras/03-early-modern/john-locke.md)** (Early Modern / Empiricist): White paper (no innate ideas), rights, toleration
 - **1646–1716 — [Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (Early Modern / Rationalist): Monads, sufficient reason
+- **1647–1778 — [(Group entry) Bayle & Voltaire](eras/03-early-modern/bayle-and-voltaire.md)** (Early Modern / French Enlightenment): Toleration, the erring conscience, skepticism, against optimism
 - **1668–1744 — [Giambattista Vico](eras/03-early-modern/giambattista-vico.md)** (Early Modern / Philosophy of History): Verum factum, three ages, corsi e ricorsi
 - **1671–1752 — [(Group entry) Shaftesbury, Hutcheson & Butler](eras/03-early-modern/moral-sense-school.md)** (Early Modern / Moral Sense): Moral sense, benevolence against egoism, supremacy of conscience
 - **1685–1753 — [Berkeley](eras/03-early-modern/george-berkeley.md)** (Early Modern / Empiricist): Esse est percipi
