@@ -105,6 +105,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Plotinus](eras/01-ancient/plotinus.md)** (c. 204/205–270) — Beyond gods and being stands the One, source of all, approachable only by negation and by ecstatic union.
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — God creates from nothing and outside time; evil is no substance but a privation of good; faith seeks understanding.
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — God sees all time in an eternal present, so foreknowledge no more compels events than your seeing an act compels it.
+- **[Pseudo-Dionysius & Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md)** (fl. c. 500 / c. 1260–1328) — God is beyond every name we give him: we come nearer by denying, and Eckhart's soul finds God in its own ground by letting go.
 - **[Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c. 800–c. 877) — God is the superessential Nothing from which nature proceeds and to which it returns, beyond every name we predicate.
 - **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — From the contingency of everything else: there must be a Necessary Existent, one and simple — the God of the philosophers.
 - **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — God is that than which nothing greater can be conceived; existing in reality is greater — so God exists.
@@ -123,6 +124,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — *Deus sive Natura*: God is the one infinite substance; scripture teaches obedience, not philosophy; miracles betray ignorance of causes.
 - **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Christianity is reasonable and its core minimal; coercion cannot manufacture faith — hence toleration in church and state.
 - **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — God, surveying possible worlds, chose the best; evil is permitted only as the condition of an optimal whole — theodicy.
+- **[Bayle & Voltaire](eras/03-early-modern/bayle-and-voltaire.md)** (1647–1778) — Reason cannot answer the problem of evil, so faith must not persecute: toleration even for the erring conscience, and mockery for optimism.
 - **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Immaterialism is an anti-atheist argument: a world always perceived is a world held in being by God's mind.
 - **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — The *Dialogues* leave the design argument in ruins, testimony never outweighs experience for miracles, and religion's roots are fear and hope.
 - **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Speculative proofs fail, but practical reason postulates God and immortality; religion within reason is morality recognized as divine command.
@@ -212,8 +214,10 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — One law of nature grounds a universal cosmopolis of gods and men; Marcus rules an empire while writing self-exhortations.
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — Two cities, made by two loves, remain intermingled until the judgment; earthly peace is a real but relative good.
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Law is an ordinance of reason for the common good; an unjust law is a corruption of law and does not bind in conscience.
+- **[Christine de Pizan](eras/02-medieval/christine-de-pizan.md)** (1364–c. 1430) — The authorities who slander women are wrong on the evidence: her *City of Ladies* builds a counter-history of women's virtue and capacity to rule.
 - **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — The tumults between plebs and nobles guarded Roman liberty; a republic needs its own arms and periodic returns to its beginnings.
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "Of Cannibals" turns the mirror: Europeans who torture for religion call others barbarous; custom, not reason, rules judgment everywhere.
+- **[Suárez & Grotius](eras/03-early-modern/suarez-and-grotius.md)** (1548–1645) — Political power rests on the people's consent, not divine right, and a natural law binds even nations at war.
 - **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Escape the war of all against all by covenanting all power to a sovereign Leviathan — absolute, yet resting on consent.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Right extends exactly as far as power; the state is strongest when most its own master, and democracy is the most natural regime.
 - **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Government rests on consent to protect life, liberty, and estate; tyranny dissolves the government and returns power to the people.
@@ -258,6 +262,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The self is found by turning inward — memory's vast palace, the restless heart — and is made whole only by grace.
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — A person is "the individual substance of a rational nature": the definition that fixed the terms of debate for a millennium.
 - **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man knows that he exists without knowing that he has a body: self-awareness is immediate and incorporeal.
+- **[Pico & the humanists](eras/03-early-modern/renaissance-humanists.md)** (1433–1600) — Human beings have no fixed place in creation: we shape ourselves, rising toward the angels or sinking toward the beasts.
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "I study myself more than any other subject": the essay portrays a self in motion — inconsistent, embodied, becoming.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — The self is first known as a thinking thing: the *cogito* makes selfhood certain while body and world remain doubtful.
 - **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Personal identity is sameness of consciousness: memory, not soul or substance, makes me the same person — and accountable.
@@ -288,6 +293,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 
 - **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The *Cratylus* asks whether names are natural likenesses of things or mere conventions — and ends doubting that names teach us things themselves.
 - **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Spoken words symbolize affections of the soul, which are likenesses of things; the syllogism gives reasoning a machinery of proof.
+- **[Porphyry](eras/01-ancient/late-neoplatonists.md)** (c. 234–c. 305) — The *Isagoge* asks whether genera and species exist or are only in the mind, and declines to answer: the question that became the medieval problem of universals.
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — His translations and commentaries fixed Latin logic's vocabulary for centuries and posed the problem of universals for the schools.
 - **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Universals are neither things nor empty breath: they are words with a semantics (*sermones*), and realism's puzzle dissolves.
 - **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1263/66–1308) — "Being" must be univocal — one concept said of God and creatures alike — or every theological argument equivocates.

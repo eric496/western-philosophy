@@ -63,6 +63,7 @@ Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 
 - [Augustine of Hippo](augustine-of-hippo.md)
 - [Boethius](boethius.md)
+- [Pseudo-Dionysius and Meister Eckhart](pseudo-dionysius-and-eckhart.md) (group entry)
 - [John Scotus Eriugena](john-scotus-eriugena.md)
 - [Anselm of Canterbury](anselm-of-canterbury.md)
 - [Al-Ghazali](al-ghazali.md)
@@ -74,6 +75,7 @@ Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 - [Thomas Aquinas](thomas-aquinas.md)
 - [John Duns Scotus](john-duns-scotus.md)
 - [William of Ockham](william-of-ockham.md)
+- [Christine de Pizan](christine-de-pizan.md)
 - [Nicholas of Cusa](nicholas-of-cusa.md)
 
 ---

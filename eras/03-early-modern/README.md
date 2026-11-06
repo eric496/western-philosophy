@@ -39,8 +39,10 @@ Locke Essay 1689 vs 1690 convention. Leibniz composition vs publication gaps dec
 
 ## Philosopher entries in this era
 
+- [Ficino, Pico, Erasmus and Bruno](renaissance-humanists.md) (group entry)
 - [Niccolò Machiavelli](niccolo-machiavelli.md)
 - [Michel de Montaigne](michel-de-montaigne.md)
+- [Suárez and Grotius](suarez-and-grotius.md) (group entry)
 - [Francis Bacon](francis-bacon.md)
 - [Thomas Hobbes](thomas-hobbes.md)
 - [René Descartes](rene-descartes.md)
@@ -50,6 +52,7 @@ Locke Essay 1689 vs 1690 convention. Leibniz composition vs publication gaps dec
 - [Nicolas Malebranche](nicolas-malebranche.md)
 - [John Locke](john-locke.md)
 - [Gottfried Wilhelm Leibniz](gottfried-wilhelm-leibniz.md)
+- [Bayle and Voltaire](bayle-and-voltaire.md) (group entry)
 - [Giambattista Vico](giambattista-vico.md)
 - [Shaftesbury, Hutcheson and Butler](moral-sense-school.md) (group entry)
 - [George Berkeley](george-berkeley.md)

@@ -59,6 +59,7 @@ Merge note: For Thales, Pythagoras, Socrates, Pyrrho, Diogenes, Zeno — label k
 - [Pyrrho of Elis & the Skeptics](pyrrho-of-elis-and-the-skeptics.md)
 - [Diogenes of Sinope & the Cynics](diogenes-of-sinope-and-the-cynics.md)
 - [Plotinus](plotinus.md)
+- [Porphyry, Iamblichus, Proclus and Hypatia](late-neoplatonists.md) (group entry)
 
 ---
 [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Themes](../../themes.md) · [Glossary](../../glossary.md) · [Timeline](../../timeline.md)
