@@ -8,12 +8,13 @@
 |---|---|---|
 | `argument-cards-core.tsv` | 40 | One card per signature argument of the 20 core entries — two per figure. Front: "Reconstruct X's argument …: numbered premises, conclusion, then the standard objection and the reply." Back: a compact model answer (premises in brief, conclusion, one objection, one reply), 107–125 words. |
 | `checkpoint-cards.tsv` | 278 | One card per checkpoint question in the 18 study guides. Front: the guide's question. Back: the guide's own answer, lightly condensed (7–86 words; all under ~120). |
+| `argument-cards-map.tsv` | 21 | Argument cards for nine map-level entries added in round 13: two per single-figure entry, one per figure in a group entry. Same front, back and tag format as the core deck; 118–131 words. Optional: import a figure's cards only if you give that figure more than a map-level pass. |
 
-The learning path budgets roughly 150 argument cards across the whole course (~5 per core author, the rest self-made). The 40-card argument deck is the *core* deck — the two signature arguments per entry that the entries themselves single out — and is the one to keep up with daily. The checkpoint deck is a larger companion for use while working through each guide; treat it as per-guide revision material rather than a second daily obligation. Import each figure's cards **when you finish that figure** (or its guide), never as a day-one dump of all 318.
+The learning path budgets roughly 150 argument cards across the whole course (~5 per core author, the rest self-made). The 40-card argument deck is the *core* deck — the two signature arguments per entry that the entries themselves single out — and is the one to keep up with daily. The checkpoint deck is a larger companion for use while working through each guide; treat it as per-guide revision material rather than a second daily obligation. Import each figure's cards **when you finish that figure** (or its guide), never as a day-one dump of all 339.
 
 ## Format and importing into Anki
 
-Both files are plain TSV (tab-separated values), UTF-8, one card per line, **exactly three fields per line**:
+All three files are plain TSV (tab-separated values), UTF-8, one card per line, **exactly three fields per line**:
 
 1. **Front** — the prompt.
 2. **Back** — the model answer.
@@ -42,6 +43,7 @@ However you review, review actively, as the path insists: reconstruct the argume
 ## How the decks were generated
 
 - **Argument cards** were built from the "Signature arguments" sections of the 20 core entries: Plato, Aristotle, Anselm, Avicenna, Aquinas, Descartes, Spinoza, Locke, Hume, Kant, Rousseau, Hegel, Marx, Nietzsche, Russell, the late Wittgenstein, Popper, Kuhn, Rawls, and Foucault (`eras/…`). Each entry's section contains exactly two reconstructed arguments, each already followed by a standard objection and a reply; the card back is a faithful compression of that material to ~120 words, keeping every premise, the conclusion, and both the objection and the reply.
+- **Map-level argument cards** were built from nine entries that have no "Signature arguments" section: Xenophanes and Anaxagoras, al-Ghazali, Malebranche, Shaftesbury/Hutcheson/Butler, Hamann and Herder, Carnap, Sellars/Davidson/Putnam/Lewis, Du Bois and Fanon, and Habermas. Each card reconstructs an argument from the entry's "Major theories and concepts" section and takes its objection and reply from the entry's own "Criticisms and debates"; a reviewer on a different model checked every premise, objection, reply and quotation against the entry.
 - **Checkpoint cards** were built from the checkpoint questions **with their answers** at the end of all 18 study guides in `study/` (14–18 questions per guide). The guide's own answer is used, with markdown formatting stripped and wording condensed only where needed to stay under ~120 words — most answers were already short and needed no shortening. (The shortest, Hobbes on the causes of quarrel, is seven words and complete as written in the guide.)
 
 No card asserts anything that is not in its source entry or guide; where a source presents a scholarly dispute as open (several replies end that way), the card says so rather than picking a side.
