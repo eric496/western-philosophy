@@ -215,7 +215,7 @@ Answer these book closed, then check yourself against the answers at the end of 
 8. In chapter 4, what duties may society compel a person to perform, and why are those compulsions consistent with the harm principle?
 9. Give one example from chapter 5 where Mill permits regulation, and one where he forbids it, and explain the principle behind each.
 10. State the greatest-happiness principle as Mill states it in *Utilitarianism* chapter 2. Whose happiness counts, and how?
-11. What is the "doctrine worthy of swine" objection, and how does the higher/lower pleasures distinction answer it?
+11. What is the "doctrine worthy only of swine" objection, and how does the higher/lower pleasures distinction answer it?
 12. Who counts as a competent judge of pleasures, and why does Mill think their verdict settles questions of quality?
 13. Why does Mill think utilitarianism does not require us to calculate consequences before every action?
 14. In chapter 3, what is the ultimate sanction of utility, and how does Mill's account of conscience differ from a supernatural one?

@@ -244,7 +244,7 @@ Answer these book closed, then check yourself against the answers at the end of 
 14. What are the three "waves" of paradox in Book V, and which does Socrates call the greatest?
 15. Trace the decline of regimes in Book VIII: what value does each regime absolutise, and what follows from that?
 16. Why, in Book IX, is the tyrant the most miserable of men even though he appears all-powerful?
-17. What does Socrates mean by saying imitation is "twice removed from truth"?
+17. What does Socrates mean by saying the imitator is "third from the king and the truth" (597e)?
 18. What qualification does Socrates attach to the ban on poetry in Book X, and why does it matter?
 
 ---
@@ -281,7 +281,7 @@ The *Republic* admits women to the guardian class on equal terms of education an
 3. **Thrasymachus (338c):** each regime makes laws serving its own interest and calls obedience to them "justice." Socrates' craft argument (341c–347e): a craft serves its subject's good, not the practitioner's — medicine serves the patient — so ruling, strictly understood, serves the ruled.
 4. **Good in themselves only (e.g. harmless pleasures), good both in themselves and for their consequences (e.g. health, understanding), and good only for their consequences (e.g. medicine, earning money).** Socrates must show justice belongs in the second class (357b–358a).
 5. **The Ring of Gyges (359c–360d)** tests whether anyone would remain just if injustice carried no penalty: the shepherd, made invisible, seizes power. Glaucon claims everyone would do the same, so justice is kept only from fear of punishment.
-6. **The city is justice "written in larger letters" (368c–369a):** the structure that is hard to discern in one soul may be easier to see at civic scale, and can then be read back into the individual.
+6. **The city is justice written "in a larger size and on a larger surface" (368c–369a):** the structure that is hard to discern in one soul may be easier to see at civic scale, and can then be read back into the individual.
 7. **The noble lie (414b–415d)** tells citizens they were born from the earth with gold, silver, or bronze in their souls, matching rulers, auxiliaries, and producers. Its stated purpose is to persuade citizens that their class is natural and that they owe fraternal loyalty to one another as children of the same earth.
 8. **The principle of non-opposition (436b):** the same thing cannot do or undergo opposites in the same respect, at the same time, toward the same object. Thirst urges drink while reason forbids it (439a–d): two opposed impulses toward the same object must come from distinct parts, so appetite and reason are distinct.
 9. **Wisdom** in the rulers, **courage** in the auxiliaries, **moderation** in the agreement of all classes that the rulers should rule, and **justice** in each class doing its own work (427c–434d).
@@ -292,7 +292,7 @@ The *Republic* admits women to the guardian class on equal terms of education an
 14. **The three waves (449a–480a):** women guardians with equal education and duties; community of wives and children among the guardians; philosopher-kings. The third is the greatest wave (473c–d).
 15. **Timocracy** absolutises honor, and its rulers' slide toward wealth produces **oligarchy**, which absolutises wealth and splits the city into rich and poor; **democracy** absolutises freedom and treats all appetites as equal, producing disorder; that disorder invites a champion who becomes a **tyrant** (543a–569c).
 16. **The tyrant (571a–580c, 587b–588a)** is ruled waking by the lawless appetites most people experience only in dreams; outwardly free, he is inwardly enslaved to a master appetite, friendless, fearful, and unable to satisfy himself. Power without inner order is misery, not happiness.
-17. **"Twice removed" (596a–602b):** the Form is the reality, the craftsman's bed is one remove (made looking to the Form), and the painter's image of the bed is a second remove — a copy of an appearance, not of the thing itself.
+17. **"Third from the king and the truth" (597e):** the Form is the reality, the craftsman's bed is one remove (made looking to the Form), and the painter's image of the bed is a second remove — a copy of an appearance, not of the thing itself.
 18. **Poetry may return if it can defend itself in argument (607b–608b), and hymns and encomia are admitted outright.** The qualification matters because it shows the ban is conditional on poetry's failure to justify itself, not a blanket condemnation of art — and because Plato's own myths show he thought stories could serve reason.
 
 ---
