@@ -112,9 +112,9 @@ Section 29 gathers the main grounds for the two principles: they protect the bas
 
 ### §11 — The two principles of justice
 
-Section 11 states the principles the parties choose, and the statement matters word for word. In the revised edition, Rawls gives them in this form:
+Section 11 states the principles the parties choose, and the statement matters word for word. In the revised edition, Rawls's final statement (§46) gives them in this form:
 
-**First principle:** Each person has an equal right to a fully adequate scheme of equal basic liberties which is compatible with a similar scheme of liberties for all.
+**First principle:** Each person is to have an equal right to the most extensive total system of equal basic liberties compatible with a similar system of liberty for all.
 
 **Second principle:** Social and economic inequalities are to be arranged so that they are both: (a) to the greatest benefit of the least advantaged, consistent with the just savings principle, and (b) attached to offices and positions open to all under conditions of fair equality of opportunity.
 
