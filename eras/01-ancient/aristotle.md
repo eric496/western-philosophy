@@ -15,6 +15,8 @@
 
 **Responds to:** [Plato](plato.md) · **Answered by:** [Plotinus](plotinus.md), [Averroes](../02-medieval/averroes.md), [Thomas Aquinas](../02-medieval/thomas-aquinas.md)
 
+**Focus study:** [Aristotle dossier](../../focus-studies/aristotle/README.md) — a full deep dive beyond this entry: the treatises in a nine-week reading order from the *Categories* to the *Poetics*, with a biology week; sixteen argument reconstructions from the Third Man to natural slavery; the reception from the commentators to the virtue-ethics revival; a card deck.
+
 ## Biography
 
 Aristotle was born in 384 BCE in Stagira, in the Chalcidice peninsula under Macedonian influence. His father Nicomachus was physician to King Amyntas III of Macedon, grandfather of Alexander the Great. That court connection gave him early exposure to empirical inquiry, and later endangered him in Athens. Both parents died when he was young, and he was raised by a guardian, Proxenus.
@@ -25,7 +27,7 @@ When Plato died in 347 BCE, leadership passed to Plato's nephew Speusippus, not 
 
 In 343 BCE Philip II summoned him to tutor the thirteen-year-old Alexander. The tutorship lasted roughly three years; we know little of what was taught, though Aristotle prepared an annotated *Iliad* for him. In 335 BCE he returned to Athens and founded the Lyceum, in a grove sacred to Apollo Lyceus. His followers were called Peripatetics, supposedly from his walking (*peripatein*) while teaching. For twelve years the Lyceum rivalled the Academy, with a library, maps, and collections of constitutions and specimens — arguably Europe's first large-scale research institute.
 
-Alexander's death in 323 BCE unleashed anti-Macedonian feeling. Charged with impiety, Aristotle withdrew to Chalcis — tradition says he remarked Athens should not "sin twice against philosophy," remembering Socrates. He died there in 322 BCE, aged sixty-two.
+Alexander's death in 323 BCE unleashed anti-Macedonian feeling. Reportedly charged with impiety, Aristotle withdrew to Chalcis — tradition says he remarked Athens should not "sin twice against philosophy," remembering Socrates. He died there in 322 BCE, in his sixty-third year.
 
 His writings divide sharply. The polished published dialogues are lost. What survives are treatises: lecture texts and research notes, edited by later hands, notably Andronicus of Rhodes in the 1st century BCE. Their compressed style is a school's voice, not a literary author's.
 
