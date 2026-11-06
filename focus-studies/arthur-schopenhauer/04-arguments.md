@@ -131,7 +131,7 @@ Therefore, compassion is the sole genuine basis of morality; from it spring its 
 
 1. Ordinary cognition serves the will: it perceives objects only in their relations (causes, uses, threats) under the principle of sufficient reason.
 2. In aesthetic contemplation, perception tears itself free from this service: attention rests wholly on the object, the perceiver forgets his individuality and its wants, and he becomes the pure subject of knowing, perceiving not the individual thing but the (Platonic) Idea embodied in it.
-3. What is thus perceived is no longer an object of desire or aversion; hence aesthetic contemplation is, for its duration, a release from willing and its suffering — knowledge's "Sabbath from the penal servitude of willing."
+3. What is thus perceived is no longer an object of desire or aversion; hence aesthetic contemplation is, for its duration, a release from willing and its suffering — knowledge's "Sabbath of the penal servitude of willing."
 4. The several arts present the Ideas at successive grades of the Will's objectification, from architecture (gravity, rigidity) to tragedy (the Idea of humanity, showing the Will at war with itself).
 5. Music, however, presents no Ideas at all: melody and harmony do not copy phenomena — Schopenhauer finds in the deep bass the grades of unorganized nature, in the inner voices the organic world, in melody the conscious striving of man — yet music moves us independently of any represented content.
 Therefore, music is not a copy of the Ideas but "a copy of the Will itself," the one art that expresses the inner nature of the world directly — which explains its unique depth and immediacy among the arts.
