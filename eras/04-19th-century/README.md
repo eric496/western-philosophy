@@ -38,6 +38,8 @@ Schopenhauer WWR: 1818 (completed/published Dec) vs 1819 (title page). Mill Util
 - [John Stuart Mill](john-stuart-mill.md)
 - [Harriet Taylor Mill](harriet-taylor-mill.md)
 - [Karl Marx](karl-marx.md)
+- [Dilthey and Collingwood](dilthey-and-collingwood.md) (group entry)
+- [T. H. Green and F. H. Bradley](british-idealists.md) (group entry)
 - [Charles Sanders Peirce](charles-sanders-peirce.md)
 - [Franz Brentano](franz-brentano.md)
 - [Henry Sidgwick](henry-sidgwick.md)

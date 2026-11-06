@@ -84,58 +84,63 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 78 | [Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md) | 1807–1858 | 19th c. / Liberal Feminist | Enfranchisement of women | "The Enfranchisement of Women" (1851) |
 | 79 | [Kierkegaard](eras/04-19th-century/soren-kierkegaard.md) | 1813–1855 | 19th c. / Proto-existentialist | Stages, anxiety, subjective truth | *Fear and Trembling* (guided) |
 | 80 | [Marx](eras/04-19th-century/karl-marx.md) | 1818–1883 | 19th c. / Historical Materialist | Alienation, surplus value, ideology | *1844 Manuscripts*; *Manifesto* |
-| 81 | [Franz Brentano](eras/04-19th-century/franz-brentano.md) | 1838–1917 | 19th c. / Descriptive Psychology | Intentionality | *Psychology from an Empirical Standpoint* (1874) |
-| 82 | [Henry Sidgwick](eras/04-19th-century/henry-sidgwick.md) | 1838–1900 | 19th c. / Utilitarian | Methods of ethics, dualism of practical reason | *The Methods of Ethics* |
-| 83 | [Peirce](eras/04-19th-century/charles-sanders-peirce.md) | 1839–1914 | 19th c. / Pragmatist | Pragmatic maxim | "How to Make Our Ideas Clear" |
-| 84 | [James](eras/04-19th-century/william-james.md) | 1842–1910 | 19th–20th c. / Pragmatist | Truth as verified, will to believe | *Pragmatism* lectures |
-| 85 | [Nietzsche](eras/04-19th-century/friedrich-nietzsche.md) | 1844–1900 | 19th c. / Genealogist | God is dead, slave morality, recurrence | *Genealogy of Morals* |
-| 86 | [Frege](eras/05-20th-century/gottlob-frege.md) | 1848–1925 | 20th c. / Logic | Sense/reference, predicate logic | *Foundations of Arithmetic* |
-| 87 | [John Dewey](eras/05-20th-century/john-dewey.md) | 1859–1952 | 20th c. / Pragmatist | Inquiry, education as growth | *Democracy and Education* |
-| 88 | [Husserl](eras/05-20th-century/edmund-husserl.md) | 1859–1938 | 20th c. / Phenomenologist | Intentionality, lifeworld | *Cartesian Meditations* excerpts |
-| 89 | [Henri Bergson](eras/05-20th-century/henri-bergson.md) | 1859–1941 | 20th c. / French Philosophy | Duration, intuition, élan vital | *Creative Evolution* |
-| 90 | [Alfred North Whitehead](eras/05-20th-century/alfred-north-whitehead.md) | 1861–1947 | 20th c. / Process Philosophy | Actual occasions, prehension, misplaced concreteness | *Process and Reality* (selections) |
-| 91 | [Russell](eras/05-20th-century/bertrand-russell.md) | 1872–1970 | 20th c. / Analytic | Descriptions, logical atomism | *Problems of Philosophy* |
-| 92 | [(Group entry) Du Bois & Fanon](eras/05-20th-century/du-bois-and-fanon.md) | 1868–1963 / 1925–1961 | 20th c. / Africana & Anti-colonial | Double consciousness, the color line, the lived experience of the Black, decolonization | Du Bois, *The Souls of Black Folk* (1903), ch. 1 |
-| 93 | [G. E. Moore](eras/05-20th-century/g-e-moore.md) | 1873–1958 | 20th c. / Analytic | Open-question argument, common sense | *Principia Ethica* (selections) |
-| 94 | [Karl Jaspers](eras/05-20th-century/karl-jaspers.md) | 1883–1969 | 20th c. / Existential Philosophy | Boundary situations, the Encompassing, Axial Age | *The Origin and Goal of History* |
-| 95 | Wittgenstein ([early](eras/05-20th-century/wittgenstein-early.md) · [late](eras/05-20th-century/wittgenstein-late.md)) | 1889–1951 | 20th c. / Analytic | Picture theory → language-games | *Investigations* §§1–65 |
-| 96 | [Heidegger](eras/05-20th-century/martin-heidegger.md) | 1889–1976 | 20th c. / Continental | Being, Dasein, authenticity | Secondary + excerpts first |
-| 97 | [Susanne Langer](eras/05-20th-century/susanne-langer.md) | 1895–1985 | 20th c. / Philosophy of Art & Mind | Presentational symbols, feeling and form | *Philosophy in a New Key* |
-| 98 | [Leo Strauss](eras/05-20th-century/leo-strauss.md) | 1899–1973 | 20th c. / Political Philosophy | Esoteric writing, ancients vs moderns | *Natural Right and History* |
-| 99 | [Gilbert Ryle](eras/05-20th-century/gilbert-ryle.md) | 1900–1976 | 20th c. / Analytic | Category mistakes, knowing-how | *The Concept of Mind* |
-| 100 | [Hans-Georg Gadamer](eras/05-20th-century/hans-georg-gadamer.md) | 1900–2002 | 20th c. / Hermeneutics | Fusion of horizons, prejudice | *Truth and Method* (selections) |
-| 101 | [Popper](eras/05-20th-century/karl-popper.md) | 1902–1994 | 20th c. / Phil. of Science | Falsifiability, open society | *Conjectures and Refutations* |
-| 102 | [Thomas Kuhn](eras/05-20th-century/thomas-kuhn.md) | 1922–1996 | 20th c. / Philosophy of Science | Paradigms, scientific revolutions | *The Structure of Scientific Revolutions* |
-| 103 | [Rudolf Carnap](eras/05-20th-century/rudolf-carnap.md) | 1891–1970 | 20th c. / Logical Empiricism | Principle of tolerance, internal vs external questions, inductive logic | "Empiricism, Semantics, and Ontology" (1950) |
-| 104 | [(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md) | 1924–1936 | 20th c. / Logical Positivism | Verification principle | Ayer, *Language, Truth and Logic* |
-| 105 | [Sartre](eras/05-20th-century/jean-paul-sartre.md) | 1905–1980 | 20th c. / Existentialist | Bad faith, radical freedom | *Existentialism Is a Humanism* |
-| 106 | [Arendt](eras/05-20th-century/hannah-arendt.md) | 1906–1975 | 20th c. / Political Theory | Action, banality of evil | *Human Condition* excerpts |
-| 107 | [Emmanuel Levinas](eras/05-20th-century/emmanuel-levinas.md) | 1906–1995 | 20th c. / Ethics & Phenomenology | The Face, ethics as first philosophy | *Totality and Infinity* (selections) |
-| 108 | [Beauvoir](eras/05-20th-century/simone-de-beauvoir.md) | 1908–1986 | 20th c. / Existential Feminist | The Other, situated freedom | *Second Sex*, Introduction |
-| 109 | [Simone Weil](eras/05-20th-century/simone-weil.md) | 1909–1943 | 20th c. / French Philosophy | Attention, affliction (malheur) | *Gravity and Grace* |
-| 110 | [Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md) | 1908–1961 | 20th c. / Phenomenology | Embodied perception, body-subject | *Phenomenology of Perception* (selections) |
-| 111 | [Quine](eras/05-20th-century/w-v-o-quine.md) | 1908–2000 | 20th c. / Analytic Naturalist | Web of belief, two dogmas | "Two Dogmas" (1951) |
-| 112 | [(Group entry) Sellars, Davidson, Putnam & Lewis](eras/05-20th-century/analytic-philosophy-after-quine.md) | 1912–2016 | 20th c. / Analytic | Myth of the Given, radical interpretation, semantic externalism, modal realism | Putnam, "The Meaning of 'Meaning'" (1975) |
-| 113 | [Austin & Strawson](eras/05-20th-century/austin-and-strawson.md) | 1911–1960 / 1919–2006 | 20th c. / Ordinary Language | Speech acts, performatives; "On Referring," reactive attitudes | Austin, "A Plea for Excuses"; Strawson, "Freedom and Resentment" |
-| 114 | [Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md) | 1913–2005 | 20th c. / Hermeneutics | Narrative identity, idem/ipse | *Oneself as Another* (selections) |
-| 115 | [Albert Camus](eras/05-20th-century/albert-camus.md) | 1913–1960 | 20th c. / Absurdism | The absurd, revolt | *The Myth of Sisyphus* |
-| 116 | [Adorno](eras/05-20th-century/frankfurt-school.md) | 1903–1969 | 20th c. / Frankfurt School | Culture industry, negative dialectics | *Minima Moralia* (selections) |
-| 117 | [Horkheimer](eras/05-20th-century/frankfurt-school.md) | 1895–1973 | 20th c. / Frankfurt School | Critical vs traditional theory | "Traditional and Critical Theory" |
-| 118 | [Habermas](eras/05-20th-century/jurgen-habermas.md) | 1929–2026 | 20th–21st c. / Frankfurt II | Communicative action, public sphere | *Public Sphere* excerpts |
-| 119 | [Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md) | 1919–2001 / 1920–2010 | 20th c. / Virtue Ethics | Intention, natural goodness, tram problem | Anscombe, "Modern Moral Philosophy" (1958) |
-| 120 | [Iris Murdoch](eras/05-20th-century/iris-murdoch.md) | 1919–1999 | 20th c. / Moral Philosophy | Attention, unselfing, the Good | *The Sovereignty of Good* |
-| 121 | [Mary Midgley](eras/05-20th-century/mary-midgley.md) | 1919–2018 | 20th c. / Moral Philosophy | Human nature, anti-reductionism | *Beast and Man* |
-| 122 | [Rawls](eras/05-20th-century/john-rawls.md) | 1921–2002 | 20th c. / Political Liberal | Veil of ignorance, difference principle | *Theory of Justice* §§1–4 |
-| 123 | [(Group entry) Philosophy of Mind after Ryle](eras/05-20th-century/philosophy-of-mind-after-ryle.md) | 1956– | 20th–21st c. / Philosophy of Mind | Identity theory, functionalism, the Chinese Room, the hard problem | Nagel, "What Is It Like to Be a Bat?" (1974) |
-| 124 | [Foucault](eras/05-20th-century/michel-foucault.md) | 1926–1984 | 20th c. / Genealogist | Power/knowledge, discipline | *Discipline and Punish* Pt III |
-| 125 | [Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md) | 1929–2025 | 20th c. / Virtue Ethics | Practices, narrative, tradition | *After Virtue* |
-| 126 | [Bernard Williams](eras/05-20th-century/bernard-williams.md) | 1929–2003 | 20th c. / Ethics | Moral luck, integrity, internal reasons | *Ethics and the Limits of Philosophy* |
-| 127 | [Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md) | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
-| 128 | [Derrida](eras/05-20th-century/jacques-derrida.md) | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
-| 129 | [Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md) | 1931–2023 | 20th c. / Political Theory | The concept of representation | *The Concept of Representation* |
-| 130 | [Robert Nozick](eras/05-20th-century/robert-nozick.md) | 1938–2002 | 20th c. / Libertarian | Entitlement theory, the minimal state, the experience machine | *Anarchy, State, and Utopia*, Part II |
-| 131 | [Saul Kripke](eras/05-20th-century/saul-kripke.md) | 1940–2022 | 20th c. / Analytic | Rigid designation, a posteriori necessity, Kripkenstein | *Naming and Necessity*, Lectures I–II |
-| 132 | [Derek Parfit](eras/05-20th-century/derek-parfit.md) | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
-| 133 | [Peter Singer](eras/05-20th-century/peter-singer.md) | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
-| 134 | [Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md) | b. 1947 | 20th c. / Ethics & Political Philosophy | Capabilities approach, emotions as judgments | *The Fragility of Goodness*; *Creating Capabilities* |
-| 135 | [(School entry) Frankfurt School](eras/05-20th-century/frankfurt-school.md) | 1923– | 20th c. / Critical Theory | Instrumental reason, emancipation | See Adorno / Horkheimer / Habermas |
+| 81 | [(Group entry) Dilthey & Collingwood](eras/04-19th-century/dilthey-and-collingwood.md) | 1833–1911 / 1889–1943 | 19th–20th c. / Hermeneutics & Philosophy of History | Understanding vs explanation, lived experience, history as re-enactment | Collingwood, *The Idea of History*, Epilegomena |
+| 82 | [(Group entry) T. H. Green & F. H. Bradley](eras/04-19th-century/british-idealists.md) | 1836–1924 | 19th c. / British Idealism | Self-realization, positive freedom, the Absolute, internal relations | Bradley, *Ethical Studies*, Essay V |
+| 83 | [Franz Brentano](eras/04-19th-century/franz-brentano.md) | 1838–1917 | 19th c. / Descriptive Psychology | Intentionality | *Psychology from an Empirical Standpoint* (1874) |
+| 84 | [Henry Sidgwick](eras/04-19th-century/henry-sidgwick.md) | 1838–1900 | 19th c. / Utilitarian | Methods of ethics, dualism of practical reason | *The Methods of Ethics* |
+| 85 | [Peirce](eras/04-19th-century/charles-sanders-peirce.md) | 1839–1914 | 19th c. / Pragmatist | Pragmatic maxim | "How to Make Our Ideas Clear" |
+| 86 | [James](eras/04-19th-century/william-james.md) | 1842–1910 | 19th–20th c. / Pragmatist | Truth as verified, will to believe | *Pragmatism* lectures |
+| 87 | [Nietzsche](eras/04-19th-century/friedrich-nietzsche.md) | 1844–1900 | 19th c. / Genealogist | God is dead, slave morality, recurrence | *Genealogy of Morals* |
+| 88 | [Frege](eras/05-20th-century/gottlob-frege.md) | 1848–1925 | 20th c. / Logic | Sense/reference, predicate logic | *Foundations of Arithmetic* |
+| 89 | [John Dewey](eras/05-20th-century/john-dewey.md) | 1859–1952 | 20th c. / Pragmatist | Inquiry, education as growth | *Democracy and Education* |
+| 90 | [Husserl](eras/05-20th-century/edmund-husserl.md) | 1859–1938 | 20th c. / Phenomenologist | Intentionality, lifeworld | *Cartesian Meditations* excerpts |
+| 91 | [Henri Bergson](eras/05-20th-century/henri-bergson.md) | 1859–1941 | 20th c. / French Philosophy | Duration, intuition, élan vital | *Creative Evolution* |
+| 92 | [Alfred North Whitehead](eras/05-20th-century/alfred-north-whitehead.md) | 1861–1947 | 20th c. / Process Philosophy | Actual occasions, prehension, misplaced concreteness | *Process and Reality* (selections) |
+| 93 | [Russell](eras/05-20th-century/bertrand-russell.md) | 1872–1970 | 20th c. / Analytic | Descriptions, logical atomism | *Problems of Philosophy* |
+| 94 | [(Group entry) Du Bois & Fanon](eras/05-20th-century/du-bois-and-fanon.md) | 1868–1963 / 1925–1961 | 20th c. / Africana & Anti-colonial | Double consciousness, the color line, the lived experience of the Black, decolonization | Du Bois, *The Souls of Black Folk* (1903), ch. 1 |
+| 95 | [G. E. Moore](eras/05-20th-century/g-e-moore.md) | 1873–1958 | 20th c. / Analytic | Open-question argument, common sense | *Principia Ethica* (selections) |
+| 96 | [Karl Jaspers](eras/05-20th-century/karl-jaspers.md) | 1883–1969 | 20th c. / Existential Philosophy | Boundary situations, the Encompassing, Axial Age | *The Origin and Goal of History* |
+| 97 | Wittgenstein ([early](eras/05-20th-century/wittgenstein-early.md) · [late](eras/05-20th-century/wittgenstein-late.md)) | 1889–1951 | 20th c. / Analytic | Picture theory → language-games | *Investigations* §§1–65 |
+| 98 | [Heidegger](eras/05-20th-century/martin-heidegger.md) | 1889–1976 | 20th c. / Continental | Being, Dasein, authenticity | Secondary + excerpts first |
+| 99 | [Susanne Langer](eras/05-20th-century/susanne-langer.md) | 1895–1985 | 20th c. / Philosophy of Art & Mind | Presentational symbols, feeling and form | *Philosophy in a New Key* |
+| 100 | [Leo Strauss](eras/05-20th-century/leo-strauss.md) | 1899–1973 | 20th c. / Political Philosophy | Esoteric writing, ancients vs moderns | *Natural Right and History* |
+| 101 | [Gilbert Ryle](eras/05-20th-century/gilbert-ryle.md) | 1900–1976 | 20th c. / Analytic | Category mistakes, knowing-how | *The Concept of Mind* |
+| 102 | [Hans-Georg Gadamer](eras/05-20th-century/hans-georg-gadamer.md) | 1900–2002 | 20th c. / Hermeneutics | Fusion of horizons, prejudice | *Truth and Method* (selections) |
+| 103 | [Popper](eras/05-20th-century/karl-popper.md) | 1902–1994 | 20th c. / Phil. of Science | Falsifiability, open society | *Conjectures and Refutations* |
+| 104 | [Thomas Kuhn](eras/05-20th-century/thomas-kuhn.md) | 1922–1996 | 20th c. / Philosophy of Science | Paradigms, scientific revolutions | *The Structure of Scientific Revolutions* |
+| 105 | [Rudolf Carnap](eras/05-20th-century/rudolf-carnap.md) | 1891–1970 | 20th c. / Logical Empiricism | Principle of tolerance, internal vs external questions, inductive logic | "Empiricism, Semantics, and Ontology" (1950) |
+| 106 | [(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md) | 1924–1936 | 20th c. / Logical Positivism | Verification principle | Ayer, *Language, Truth and Logic* |
+| 107 | [Sartre](eras/05-20th-century/jean-paul-sartre.md) | 1905–1980 | 20th c. / Existentialist | Bad faith, radical freedom | *Existentialism Is a Humanism* |
+| 108 | [Arendt](eras/05-20th-century/hannah-arendt.md) | 1906–1975 | 20th c. / Political Theory | Action, banality of evil | *Human Condition* excerpts |
+| 109 | [H. L. A. Hart](eras/05-20th-century/h-l-a-hart.md) | 1907–1992 | 20th c. / Philosophy of Law | Rule of recognition, internal point of view, legal positivism | *The Concept of Law* (1961), chs. 1–6 |
+| 110 | [Emmanuel Levinas](eras/05-20th-century/emmanuel-levinas.md) | 1906–1995 | 20th c. / Ethics & Phenomenology | The Face, ethics as first philosophy | *Totality and Infinity* (selections) |
+| 111 | [Beauvoir](eras/05-20th-century/simone-de-beauvoir.md) | 1908–1986 | 20th c. / Existential Feminist | The Other, situated freedom | *Second Sex*, Introduction |
+| 112 | [Simone Weil](eras/05-20th-century/simone-weil.md) | 1909–1943 | 20th c. / French Philosophy | Attention, affliction (malheur) | *Gravity and Grace* |
+| 113 | [Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md) | 1908–1961 | 20th c. / Phenomenology | Embodied perception, body-subject | *Phenomenology of Perception* (selections) |
+| 114 | [Quine](eras/05-20th-century/w-v-o-quine.md) | 1908–2000 | 20th c. / Analytic Naturalist | Web of belief, two dogmas | "Two Dogmas" (1951) |
+| 115 | [(Group entry) Sellars, Davidson, Putnam & Lewis](eras/05-20th-century/analytic-philosophy-after-quine.md) | 1912–2016 | 20th c. / Analytic | Myth of the Given, radical interpretation, semantic externalism, modal realism | Putnam, "The Meaning of 'Meaning'" (1975) |
+| 116 | [Austin & Strawson](eras/05-20th-century/austin-and-strawson.md) | 1911–1960 / 1919–2006 | 20th c. / Ordinary Language | Speech acts, performatives; "On Referring," reactive attitudes | Austin, "A Plea for Excuses"; Strawson, "Freedom and Resentment" |
+| 117 | [Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md) | 1913–2005 | 20th c. / Hermeneutics | Narrative identity, idem/ipse | *Oneself as Another* (selections) |
+| 118 | [Albert Camus](eras/05-20th-century/albert-camus.md) | 1913–1960 | 20th c. / Absurdism | The absurd, revolt | *The Myth of Sisyphus* |
+| 119 | [Adorno](eras/05-20th-century/frankfurt-school.md) | 1903–1969 | 20th c. / Frankfurt School | Culture industry, negative dialectics | *Minima Moralia* (selections) |
+| 120 | [Horkheimer](eras/05-20th-century/frankfurt-school.md) | 1895–1973 | 20th c. / Frankfurt School | Critical vs traditional theory | "Traditional and Critical Theory" |
+| 121 | [Habermas](eras/05-20th-century/jurgen-habermas.md) | 1929–2026 | 20th–21st c. / Frankfurt II | Communicative action, public sphere | *Public Sphere* excerpts |
+| 122 | [Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md) | 1919–2001 / 1920–2010 | 20th c. / Virtue Ethics | Intention, natural goodness, tram problem | Anscombe, "Modern Moral Philosophy" (1958) |
+| 123 | [Iris Murdoch](eras/05-20th-century/iris-murdoch.md) | 1919–1999 | 20th c. / Moral Philosophy | Attention, unselfing, the Good | *The Sovereignty of Good* |
+| 124 | [Mary Midgley](eras/05-20th-century/mary-midgley.md) | 1919–2018 | 20th c. / Moral Philosophy | Human nature, anti-reductionism | *Beast and Man* |
+| 125 | [Rawls](eras/05-20th-century/john-rawls.md) | 1921–2002 | 20th c. / Political Liberal | Veil of ignorance, difference principle | *Theory of Justice* §§1–4 |
+| 126 | [(Group entry) Philosophy of Mind after Ryle](eras/05-20th-century/philosophy-of-mind-after-ryle.md) | 1956– | 20th–21st c. / Philosophy of Mind | Identity theory, functionalism, the Chinese Room, the hard problem | Nagel, "What Is It Like to Be a Bat?" (1974) |
+| 127 | [Gilles Deleuze](eras/05-20th-century/gilles-deleuze.md) | 1925–1995 | 20th c. / Philosophy of Difference | Difference and repetition, the virtual, rhizome, concepts as creations | *Nietzsche and Philosophy* (1962) |
+| 128 | [Foucault](eras/05-20th-century/michel-foucault.md) | 1926–1984 | 20th c. / Genealogist | Power/knowledge, discipline | *Discipline and Punish* Pt III |
+| 129 | [Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md) | 1929–2025 | 20th c. / Virtue Ethics | Practices, narrative, tradition | *After Virtue* |
+| 130 | [Bernard Williams](eras/05-20th-century/bernard-williams.md) | 1929–2003 | 20th c. / Ethics | Moral luck, integrity, internal reasons | *Ethics and the Limits of Philosophy* |
+| 131 | [Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md) | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
+| 132 | [Derrida](eras/05-20th-century/jacques-derrida.md) | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
+| 133 | [(Group entry) Irigaray, Kristeva & Butler](eras/05-20th-century/feminist-philosophy-after-beauvoir.md) | b. 1930 / b. 1941 / b. 1956 | 20th–21st c. / Feminist Philosophy | Sexual difference, the semiotic and abjection, gender as performative | Butler, *Gender Trouble* (1990), ch. 1 |
+| 134 | [Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md) | 1931–2023 | 20th c. / Political Theory | The concept of representation | *The Concept of Representation* |
+| 135 | [Robert Nozick](eras/05-20th-century/robert-nozick.md) | 1938–2002 | 20th c. / Libertarian | Entitlement theory, the minimal state, the experience machine | *Anarchy, State, and Utopia*, Part II |
+| 136 | [Saul Kripke](eras/05-20th-century/saul-kripke.md) | 1940–2022 | 20th c. / Analytic | Rigid designation, a posteriori necessity, Kripkenstein | *Naming and Necessity*, Lectures I–II |
+| 137 | [Derek Parfit](eras/05-20th-century/derek-parfit.md) | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
+| 138 | [Peter Singer](eras/05-20th-century/peter-singer.md) | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
+| 139 | [Martha Nussbaum](eras/05-20th-century/martha-nussbaum.md) | b. 1947 | 20th c. / Ethics & Political Philosophy | Capabilities approach, emotions as judgments | *The Fragility of Goodness*; *Creating Capabilities* |
+| 140 | [(School entry) Frankfurt School](eras/05-20th-century/frankfurt-school.md) | 1923– | 20th c. / Critical Theory | Instrumental reason, emancipation | See Adorno / Horkheimer / Habermas |
