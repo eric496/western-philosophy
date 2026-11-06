@@ -28,7 +28,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **c.477–524 — [Boethius](eras/02-medieval/boethius.md)** (Medieval / Bridge): Consolation, universals problem
 - **fl. c.500 / c.1260–1328 — [(Group entry) Pseudo-Dionysius & Meister Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md)** (Medieval / Mystical Theology): Negative theology, the ground of the soul, detachment
 - **c.800–c.877 — [John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (Medieval / Carolingian Neoplatonist): Division of nature, negative theology
-- **980–1037 — [Avicenna](eras/02-medieval/avicenna.md)** (Medieval / Islamic falsafa): Necessary Existent, Flying Man
+- **c.980–1037 — [Avicenna](eras/02-medieval/avicenna.md)** (Medieval / Islamic falsafa): Necessary Existent, Flying Man
 - **1033–1109 — [Anselm](eras/02-medieval/anselm-of-canterbury.md)** (Medieval / Scholastic): Ontological argument
 - **c.1058–1111 — [Al-Ghazali](eras/02-medieval/al-ghazali.md)** (Medieval / Islamic kalām & Sufism): Incoherence of the Philosophers, occasionalism
 - **1079–1142 — [Abelard](eras/02-medieval/peter-abelard.md)** (Medieval / Scholastic): Intention, conceptualism

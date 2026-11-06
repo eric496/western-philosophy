@@ -17,7 +17,7 @@
 
 ## Biography
 
-Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in mathematical logic, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A traveling fellowship took him to Europe: he met [Rudolf Carnap](rudolf-carnap.md) in Prague and sat in on the Vienna Circle — the logical positivists whose program he admired, absorbed, and eventually subverted from within.
+Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in philosophy, with a dissertation in mathematical logic on *Principia Mathematica*, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A traveling fellowship took him to Europe: he met [Rudolf Carnap](rudolf-carnap.md) in Prague and sat in on the Vienna Circle — the logical positivists whose program he admired, absorbed, and eventually subverted from within.
 
 Back at Harvard he spent the rest of his career (interrupted by wartime service as a naval intelligence officer, deciphering German U-boat communications). Early work was in formal logic — *A System of Logistic* (1934), *Mathematical Logic* (1940), the set theory NF. The essays that made his philosophical reputation came from the 1940s–50s: "On What There Is" (1948) and "Two Dogmas of Empiricism" (1951). *Word and Object* (1960) became his most famous book. He traveled compulsively — he prided himself on visiting well over a hundred countries — and worked nearly to the end, dying on Christmas Day 2000.
 
@@ -29,7 +29,7 @@ Back at Harvard he spent the rest of his career (interrupted by wartime service 
 
 ### Naturalized epistemology
 
-If there is no first philosophy prior to science, epistemology cannot be an a priori tribunal judging science from outside. In "Epistemology Naturalized" (1969) Quine proposes it become a chapter of psychology: study, scientifically, how meager sensory input produces torrential theoretical output. Normative questions about justification are not so much answered as replaced by the descriptive science of how we actually form beliefs.
+If there is no first philosophy prior to science, epistemology cannot be an a priori tribunal judging science from outside. In "Epistemology Naturalized" (1969) Quine proposes it become a chapter of psychology: study, scientifically, how meager sensory input produces torrential theoretical output. Critics such as Kim read this as replacing normative questions about justification with the descriptive science of how we actually form beliefs; Quine denied that the normative element is lost, treating it as the engineering of methods that work.
 
 ### Indeterminacy of translation
 
