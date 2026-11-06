@@ -114,7 +114,7 @@ Other standing objections: the labor theory of value faces the "transformation p
 
 ## Study questions
 
-1. Reconstruct the alienation argument: name its four dimensions and show how each follows from private property and wage labor itself, not merely from a cruel employer or a boring job.
+1. Reconstruct the alienation argument: name its four dimensions and show how each arises from the structure of wage labor itself, not merely from a cruel employer or a boring job (and note Marx's claim that private property is the consequence of alienated labor, not its cause).
 2. Reconstruct commodity fetishism from *Capital*, chapter 1: why does value appear as a natural property of things, like weight, and what social relations among producers does that appearance conceal?
 3. Give one serious objection to each account: for alienation, that it depends on an essentialist species-being the later Marx may have abandoned; for fetishism, that prices need no hidden labor-essence to explain them. State Marx's best reply in each case.
 4. State precisely what Marx takes from Hegel's master–slave dialectic and what he inverts: how does self-formation through labor become, in Marx, production under definite relations of ownership and class?

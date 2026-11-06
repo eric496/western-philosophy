@@ -41,7 +41,7 @@ His arguments: material substance is never perceived; it explains nothing (how i
 
 ### The collapse of Locke’s primary/secondary distinction
 
-Locke distinguished secondary qualities (color, taste, sound — powers to produce sensations) from primary qualities (extension, figure, motion, solidity — supposedly resembling qualities in objects themselves). Berkeley argues the distinction collapses. Extension and figure vary with position and condition just as color does: a coin looks round from above, elliptical from the side; apparent size changes with distance; motion seems faster or slower with the succession of ideas in a mind. If variability puts color only in the mind, it does the same for shape and size. Nor can primary qualities be abstracted even in thought from all sensible quality — a shape that is no color and tangible in no way leaves nothing to conceive. Tension: Berkeley must still explain why some ideas feel more robust and law-governed than others; his answer — the coherence God imposes — shifts the system’s weight onto theology.
+Locke distinguished secondary qualities (color, taste, sound — powers to produce sensations) from primary qualities (extension, figure, motion, solidity — supposedly resembling qualities in objects themselves). Berkeley argues the distinction collapses. Extension and figure vary with position and condition just as color does: figure looks different to the same eye from different stations; apparent size changes with distance; motion seems faster or slower with the succession of ideas in a mind. If variability puts color only in the mind, it does the same for shape and size. Nor can primary qualities be abstracted even in thought from all sensible quality — a shape that is no color and tangible in no way leaves nothing to conceive. Tension: Berkeley must still explain why some ideas feel more robust and law-governed than others; his answer — the coherence God imposes — shifts the system’s weight onto theology.
 
 ### The attack on abstract general ideas
 
@@ -70,7 +70,7 @@ Therefore, mind-independent existence for sensible things cannot even be conceiv
 **The collapse of the primary/secondary distinction (*Principles* §§9–15; *Three Dialogues* I)**
 
 1. Locke holds that secondary qualities (color, taste, sound) exist only as sensations in the mind, while primary qualities (extension, figure, motion, solidity) resemble qualities in objects themselves.
-2. Variability: shape and size vary with position and condition just as color does; a coin looks round from above and elliptical from the side, and apparent size changes with distance.
+2. Variability: shape and size vary with position and condition just as color does; figure looks different to the same eye from different stations, a thing that looks small, smooth, and round to the naked eye looks large and uneven through a microscope, and visible size changes with distance.
 3. Inseparability: no one can conceive extension or figure stripped of every sensible quality; a shape that is no color and tangible in no way leaves nothing to conceive.
 4. Whatever cannot be conceived apart from qualities that exist only in the mind must exist where they do.
 Therefore, primary qualities are in the mind as much as secondary ones, and the distinction gives material substance no foothold.

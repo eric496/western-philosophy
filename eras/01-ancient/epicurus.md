@@ -53,7 +53,7 @@ Friendship is the greatest security a life can have, and the Garden embodied it.
 
 ## Signature arguments
 
-**Death is nothing to us (*Letter to Menoeceus* §124–125)**
+**Death is nothing to us (*Letter to Menoeceus* §124–125; *Principal Doctrines* 2)**
 
 1. Good and evil require sensation: something can be good or bad for you only if you can be aware of it.
 2. Death is the dissolution of the atomic compound that makes sensation possible, and so the privation of all awareness.
@@ -88,7 +88,7 @@ Therefore, the pleasant life is the simple one: satisfy natural and necessary de
 
 ## In their own words
 
-> Accustom yourself to believe that death is nothing to us, for good and evil imply awareness, and death is the privation of all awareness; therefore a right understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life an unlimited time, but by taking away the yearning after immortality. […] Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.
+> Accustom thyself to believe that death is nothing to us, for good and evil imply sentience, and death is the privation of all sentience; therefore a right understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life an illimitable time, but by taking away the yearning after immortality. […] Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.
 
 — Epicurus, *Letter to Menoeceus* §124–125, trans. Robert Drew Hicks (1925; public domain)
 

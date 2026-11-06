@@ -31,7 +31,7 @@ The argument's frame matters: "faith seeking understanding" (*fides quaerens int
 
 ### Gaunilo's reply and the perfect island
 
-Within Anselm's lifetime, the monk Gaunilo of Marmoutiers answered *In Behalf of the Fool*: parody the reasoning with a "lost island" more excellent than all other lands — if we can conceive it, by Anselm's logic it must exist, or a greater (existing) island could be conceived; but plainly it need not exist, so the argument form must be flawed. Anselm appended a reply, and insisted the two texts always be copied together. His counter: the argument works only for that-than-which-nothing-greater, whose non-existence is inconceivable; an island, however excellent, is the kind of thing that can always be conceived not to exist and can always be conceived greater — no contradiction arises. Whether the reply succeeds — whether God is uniquely positioned so that the argument applies only there — remains the crux of modern discussion.
+Within Anselm's lifetime, the monk Gaunilo of Marmoutiers answered *In Behalf of the Fool*: parody the reasoning with a "lost island" more excellent than all other lands — if we can conceive it, by Anselm's logic it must exist, or a greater (existing) island could be conceived; but plainly it need not exist, so the argument form must be flawed. Anselm appended a reply, and insisted the two texts always be copied together. His counter: the argument works only for that-than-which-nothing-greater, whose non-existence is inconceivable; an island, however excellent, is the kind of thing that can always be conceived not to exist, having a beginning, an end and parts — no contradiction arises. Whether the reply succeeds — whether God is uniquely positioned so that the argument applies only there — remains the crux of modern discussion.
 
 ### Satisfaction theory of the atonement
 
@@ -53,7 +53,7 @@ Therefore, that than which nothing greater can be conceived cannot exist only in
 
 **Objection.** Gaunilo's lost island parodies the form: take an island more excellent than all other lands, existing in the understanding; by the same reasoning it must exist in reality, or a greater, really existing island could be conceived — yet plainly it need not exist. If the reasoning proves too much, something in its form must be wrong.
 
-**Reply.** Anselm replies that the cases are not parallel. An island, however excellent, is the kind of thing that can always be conceived to be greater than any island so far conceived, and can without contradiction be conceived not to exist at all, so the reasoning never gets a grip on it. His argument is claimed to work uniquely for that than which nothing greater can be conceived, whose non-existence is supposed to be inconceivable. Whether that uniqueness claim succeeds, or simply asserts what the parody disputes, remains the crux of the debate.
+**Reply.** Anselm replies that the cases are not parallel. An island, however excellent, is the kind of thing that can without contradiction be conceived not to exist at all, since it has a beginning, an end and parts, so the reasoning never gets a grip on it. (The further point that an island can always be conceived greater than any island so far conceived is a modern addition, Plantinga's, not Anselm's.) His argument is claimed to work uniquely for that than which nothing greater can be conceived, whose non-existence is supposed to be inconceivable. Whether that uniqueness claim succeeds, or simply asserts what the parody disputes, remains the crux of the debate.
 
 **The necessary-existence argument (*Proslogion* III)**
 
@@ -96,7 +96,7 @@ Beyond Gaunilo and Kant: does the argument illicitly move from concept to realit
 ## Misreadings to avoid
 
 - That the ontological argument is a cheap word-trick, "defining God into existence": Anselm's logic turns on *necessary* existence and the unique status of the greatest conceivable; serious opponents have engaged it for 900 years.
-- That the perfect-island parody simply refutes it: Anselm's reply — islands can always be conceived not to exist and always exceeded; the argument is claimed to work only where non-existence is inconceivable — is part of the text and must be answered too.
+- That the perfect-island parody simply refutes it: Anselm's reply — islands, like everything with a beginning, an end or parts, can always be conceived not to exist; the argument is claimed to work only where non-existence is inconceivable — is part of the text and must be answered too.
 - That the proofs are only for believers, or only for unbelievers: the *Proslogion* is a prayer addressed to God by a believer seeking understanding, yet Anselm means its argument to convince even "the fool" who says there is no God.
 
 ## What to read first
@@ -108,7 +108,7 @@ Beyond Gaunilo and Kant: does the argument illicitly move from concept to realit
 ## Study questions
 
 1. Reconstruct *Proslogion* II premise by premise: God is that than which nothing greater can be conceived; that being exists in the understanding; existing in reality is greater. Identify exactly which step a critic should attack, and why.
-2. State Gaunilo's lost-island parody at full strength, then Anselm's reply — an island can always be conceived greater and can be conceived not to exist, unlike that than which nothing greater can be conceived. Does the reply prove the argument's unique application, or merely assert it?
+2. State Gaunilo's lost-island parody at full strength, then Anselm's reply — an island can be conceived not to exist, unlike that than which nothing greater can be conceived. Does the reply prove the argument's unique application, or merely assert it?
 3. Compare chapter 3's necessary-existence version with chapter 2's: what extra claim does it add, and does recasting greatness as necessary existence escape Kant's objection that existence is not a real predicate?
 4. Apply the satisfaction theory to a restorative-justice scheme that cancels a wrongdoer's debt without payment: what, for Anselm, remains unsatisfied, and how would Abelard's love-centered alternative answer?
 

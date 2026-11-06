@@ -41,7 +41,7 @@ That second principle drives his metaphysics. Contingent things cannot supply th
 
 ### Identity of indiscernibles
 
-If two things shared *every* property, there would be no sufficient reason to place one here and the other there — they would be the same thing. Hence no two distinct substances are exactly alike: every monad’s point of view is unique, and, Leibniz claimed, you will never find two perfectly identical leaves. Against Newton he wielded this in the Leibniz–Clarke correspondence: if space were a uniform container, God could have placed the universe three feet left with no difference, violating sufficient reason. Space is therefore *relational* — an order of coexistences, not a thing.
+If two things shared *every* property, there would be no sufficient reason to place one here and the other there — they would be the same thing. Hence no two distinct substances are exactly alike: every monad’s point of view is unique, and, Leibniz claimed, you will never find two perfectly identical leaves. Against Newton he wielded this in the Leibniz–Clarke correspondence: if space were a uniform container, God could have placed the whole universe elsewhere, or reversed it east for west, with no difference, violating sufficient reason. Space is therefore *relational* — an order of coexistences, not a thing.
 
 ### Theodicy and the best of all possible worlds
 
@@ -78,7 +78,7 @@ Therefore, there exists a necessary being, the ultimate reason of things, which 
 **Against absolute space (Leibniz–Clarke correspondence, Third Paper §5; Fourth Paper)**
 
 1. God never acts without a sufficient reason; a mere will with no motive would be unworthy of perfect wisdom.
-2. Suppose space were an absolute, uniform container, as Newton held. Then God could have placed the whole universe three feet to the left, or turned it around, with every relation among things exactly as it is now.
+2. Suppose space were an absolute, uniform container, as Newton held. Then God could have placed the whole universe elsewhere in space, or reversed it east for west, with every relation among things exactly as it is now.
 3. Nothing could give God a reason to prefer one of these placements to another.
 4. Identity of indiscernibles: two situations with no discernible difference are not two situations but one, described in two ways.
 Therefore, the shifted world is no different world at all, and space is not a thing but relational: an order of coexisting things.
@@ -125,7 +125,7 @@ The monadology strikes many as extravagant: infinitely many windowless minds, co
 ## Study questions
 
 1. Reconstruct Leibniz's argument from the principle of sufficient reason: contingent things cannot supply their own ultimate reason, so the reason for the whole series must lie in a necessary being. Where exactly can a critic refuse to follow — the principle itself, or its application to the whole series?
-2. Derive the identity of indiscernibles from sufficient reason, then apply it to Newton's universe shifted three feet in absolute space, as in the Leibniz–Clarke correspondence. Why, for Leibniz, would the shift be no difference at all?
+2. Derive the identity of indiscernibles from sufficient reason, then apply it to Newton's universe placed elsewhere in absolute space or reversed east for west, as in the Leibniz–Clarke correspondence. Why, for Leibniz, would the shift be no difference at all?
 3. Press the strongest objection to the best of all possible worlds — the scale of suffering, or the thought that any world could be improved — then build Leibniz's reply using compossibility and God's permitting rather than willing evil. Does the reply answer, or relocate, the difficulty?
 4. Compare pre-established harmony with Descartes's interaction and Spinoza's parallelism on one case, your willing raising your arm: what coincides, what causes what, in each system?
 

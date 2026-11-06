@@ -41,7 +41,7 @@ Attributing "theories" to Socrates is itself part of the Socratic problem. The p
 
 The *elenchus* is Socrates' method of cross-examination. Socrates asks "What is X?" — courage, piety, justice. The interlocutor proposes a definition. Socrates, professing ignorance, asks further questions the interlocutor accepts, and shows they contradict the definition. The dialogue ends in *aporia* — perplexity, an impasse.
 
-Take the *Euthyphro*. Euthyphro, prosecuting his father for murder, claims piety is what the gods love. Socrates poses the dilemma bearing the dialogue's name: is the pious loved by the gods because it is pious, or pious because loved? If the first, "loved by gods" is no definition; if the second, piety is arbitrary whim. Euthyphro leaves, his definition in ruins.
+Take the *Euthyphro*. Euthyphro, prosecuting his father for murder, claims piety is what the gods love. Socrates poses the dilemma bearing the dialogue's name: is the pious loved by the gods because it is pious, or pious because loved? If the first, "loved by gods" is no definition; the second, which Euthyphro rejects, later readers take to make piety arbitrary whim. Euthyphro leaves, his definition in ruins.
 
 The elenchus is not mere debating technique. Its aim is therapeutic: false confidence about the most important things is a dangerous condition of the soul, and aporia is inquiry's honest beginning. Its tension is plain: the method is destructive. It tests definitions superbly but rarely produces a surviving one — almost every early dialogue ends without one. Whether Socrates had constructive doctrines behind the questioning, or aporia *was* the doctrine, divides interpreters.
 
@@ -74,7 +74,7 @@ Socrates reported a divine sign — a voice, first heard in childhood — that i
 1. Euthyphro proposes that the pious is what the gods love.
 2. Either the gods love the pious because it is pious, or it is pious because the gods love it.
 3. If they love it because it is pious, then being god-loved is something that happens to piety, not what piety is; it explains nothing about what makes an act pious.
-4. If it is pious because they love it, then piety rests on nothing but the gods' attitude, and would be arbitrary whim.
+4. If it is pious because they love it, then piety would rest on nothing but the gods' attitude; Socrates does not press this horn, since Euthyphro rejects it, but later readers take it to make piety arbitrary whim.
 5. Euthyphro himself grants the first horn: the gods love the pious because it is pious.
 Therefore, "loved by gods" fails as a definition of piety, and the inquiry ends in *aporia*, an honest impasse.
 
