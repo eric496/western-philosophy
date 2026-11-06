@@ -71,7 +71,7 @@ Therefore, freedom is actual only as participation in rational institutions, not
 
 **Objection.** This seems to baptize existing institutions. If duties are whatever family, market, and state happen to demand, then “rational” becomes a compliment paid to the status quo — the conservative reading pressed by critics from Marx onward.
 
-**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualize freedom, and his slogan that “what is rational is actual” expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
+**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualize freedom, and his own gloss on the slogan that “what is rational is actual” (Encyclopedia §6) expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
 
 ## Key works
 

@@ -61,7 +61,7 @@ The tone matters. In a 1919 letter to publisher Ludwig von Ficker, Wittgenstein 
 
 ### Solipsism, the self, and death
 
-In the 5s, Wittgenstein argues the thinking subject is not an item *in* the world but a limit of it, much as the eye is not itself in the visual field. Properly understood, solipsism coincides with a kind of realism, and death is not an event within life. These compressed, contested remarks show the *Tractatus* was never only a logic textbook.
+In 5.63–5.641, Wittgenstein argues the thinking subject is not an item *in* the world but a limit of it, much as the eye is not itself in the visual field. Properly understood, solipsism coincides with a kind of realism; and, he adds at 6.4311, death is not an event within life. These compressed, contested remarks show the *Tractatus* was never only a logic textbook.
 
 ## Signature arguments
 
@@ -75,7 +75,7 @@ Therefore, to have sense is to picture a possible state of affairs, and every ge
 
 **Objection.** Frank Ramsey's colour-exclusion problem. Elementary propositions were supposed to be independent of one another, each true or false regardless of the rest. Yet colours exclude each other: "This is red and green all over" cannot be true, though colour statements seem to resist further analysis. The system then contains an exclusion that is neither a logical contradiction nor allowed by its own rules. A second pressure point: Wittgenstein never exhibited a single simple object.
 
-**Reply.** In the *Tractatus* (6.3751) Wittgenstein treated the exclusion as merely apparent, hoping analysis down to physics would expose a logical impossibility. Ramsey's review (1923) answered that the analysis still did not reach one. By "Some Remarks on Logical Form" (1929) Wittgenstein conceded that elementary propositions cannot all be independent, one of the pressures that brought him back to philosophy. On simples, defenders reply that the demand is structural, not an inventory; critics answer that a theory of meaning should not rest on items no one can exhibit. The core idea of picturing through shared form outlived the independence thesis; the system as first stated did not.
+**Reply.** In the *Tractatus* (6.3751) Wittgenstein called the exclusion a logical impossibility, excluded by the logical structure of colour, hoping analysis down to physics would expose it as a contradiction. Ramsey's review (1923) answered that the analysis still did not reach one. By "Some Remarks on Logical Form" (1929) Wittgenstein conceded that elementary propositions cannot all be independent, one of the pressures that brought him back to philosophy. On simples, defenders reply that the demand is structural, not an inventory; critics answer that a theory of meaning should not rest on items no one can exhibit. The core idea of picturing through shared form outlived the independence thesis; the system as first stated did not.
 
 **Saying, showing, and the ladder (*Tractatus*, 4.1212, 6.4–6.54, 7)**
 

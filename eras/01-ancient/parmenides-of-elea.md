@@ -17,7 +17,7 @@
 
 ## Biography
 
-Parmenides came from Elea (Roman Velia), a prosperous Greek colony in southern Italy. Later tradition describes him as wealthy and well-born, a pupil of the Pythagorean Ameinias, and — significantly — a lawgiver: Eleans were said to make their magistrates swear annually to uphold his laws. If roughly right, the most uncompromising metaphysician of antiquity was also a practical civic figure.
+Parmenides came from Elea (Roman Velia), a prosperous Greek colony in southern Italy. Later tradition describes him as wealthy and well-born, a pupil of the Pythagorean Ameinias, and — significantly — a lawgiver: the magistrates of Elea were said to make the citizens swear annually to uphold his laws. If roughly right, the most uncompromising metaphysician of antiquity was also a practical civic figure.
 
 Almost everything else comes from Plato's dialogue *Parmenides*, which stages a visit to Athens, c. 450 BCE, by the elderly Parmenides, his associate Zeno, and the teenage Socrates, who is intellectually taken apart. The meeting is chronologically possible but generally treated as Plato's fiction. Its dramatic point is sound, though: Plato understood that his theory of Forms had to survive Parmenides' arguments, and devoted his most technical dialogue to the confrontation. Diogenes Laertius adds only anecdotal filler.
 

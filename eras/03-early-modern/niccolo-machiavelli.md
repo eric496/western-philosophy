@@ -51,7 +51,7 @@ Running through both works is the maxim that good laws require good arms, and go
 
 ## Signature arguments
 
-**Why a new prince must be able not to be good, and is safer feared than loved (*The Prince* XV–XVII)**
+**Why a new prince must be able not to be good, and is safer feared than loved (*The Prince* XV–XVII, XIX)**
 
 1. Political advice must follow "the effectual truth of the thing," how people actually live, not imagined republics; a ruler who studies only how men ought to live learns his ruin rather than his preservation.
 2. People in general are "ungrateful, fickle, pretenders and dissemblers, evaders of danger, eager for gain," and a new prince is surrounded by armed rivals.

@@ -68,7 +68,7 @@ In *The Problems of Philosophy* (1912), Russell distinguished *knowledge by acqu
 1. Sentences containing definite descriptions, such as “the present King of France is bald,” seem to refer to a present King of France — yet France has no king, and there is no such object to refer to.
 2. If referring required an object, we would face a bad choice: call the sentence meaningless, or populate reality with nonexistent objects for descriptions to stand for.
 3. On Russell's analysis in “On Denoting” (1905), a description is not a referring expression at all, but part of a quantificational structure: the sentence says that there is exactly one present King of France, and that whatever is one is bald.
-4. Since the existence and uniqueness clauses are false, the whole sentence is false.
+4. Since the existence clause is false, the whole sentence is false.
 Therefore, no mysterious nonexistent entities are needed, and such sentences are simply false — meaningful, but false.
 
 **Objection.** P. F. Strawson, in “On Referring” (1950), argued that Russell confuses sentences with their uses. Uttering “the King of France” does not assert that a king exists; it presupposes it, and when there is no king the utterance fails to make a true-or-false statement at all, rather than making a false one.

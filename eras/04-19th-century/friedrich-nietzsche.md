@@ -43,7 +43,7 @@ The Second Essay traces *bad conscience*: instincts of cruelty that a civilized,
 
 ### Will to power
 
-Nietzsche's most famous and most contested idea: life, and perhaps the world, is best interpreted as *will to power* — drives everywhere seeking not mere survival but growth, discharge of strength, and overcoming of resistance, including self-overcoming. Whether this is (a) a psychological hypothesis about motivation, (b) a full metaphysics of the world, or (c) a heuristic lens Nietzsche offers for interpretation is a genuine scholarly dispute, made worse because the "book" titled after it is his sister's posthumous construction. What it is *not*, in his texts, is a doctrine of crude political domination or brute force: power is primarily self-mastery and creation.
+Nietzsche's most famous and most contested idea: life, and perhaps the world, is best interpreted as *will to power* — drives everywhere seeking not mere survival but growth, discharge of strength, and overcoming of resistance, including self-overcoming. Whether this is (a) a psychological hypothesis about motivation, (b) a full metaphysics of the world, or (c) a heuristic lens Nietzsche offers for interpretation is a genuine scholarly dispute, made worse because the "book" titled after it is his sister's posthumous construction. Most scholars deny that it is a doctrine of crude political domination or brute force, reading power primarily as self-mastery and creation, though passages such as *Beyond Good and Evil* §259 (life as "appropriation, injury, conquest of the strange and weak") keep that reading contested.
 
 ### Eternal recurrence
 

@@ -87,7 +87,7 @@ Aristotle objected that radical flux destroys knowledge and speech: if everythin
 
 ## Misreadings to avoid
 
-- **"You cannot step into the same river twice" as a verbatim quote.** It is Plato's later paraphrase. The surviving river fragments are subtler: the river stays the same *while* the waters change.
+- **"You cannot step into the same river twice" as a verbatim quote.** It is a later paraphrase (Plato, *Cratylus* 402a; Aristotle and Plutarch give similar wordings), and most scholars doubt it is his exact wording. The surviving river fragments are subtler: the river stays the same *while* the waters change.
 - **Flux as chaos or "anything goes."** Heraclitean change is kindled and extinguished *in measures*, governed by the logos. He is a philosopher of order in change, not of disorder.
 - **Fire as just another Milesian stuff.** Fire is chosen because it *is* change made visible; reducing him to "the one who said fire instead of water" misses the shift from substance to process.
 - **The dung-and-dropsy death story as biography.** It is hostile anecdote, centuries late.
