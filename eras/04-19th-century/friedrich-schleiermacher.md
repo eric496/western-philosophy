@@ -13,7 +13,7 @@
 - **School/tradition:** Post-Kantian theology and philosophy; founder of modern hermeneutics
 - **Known for:** Hermeneutics as the universal art of understanding, religion as the "feeling of absolute dependence," the *Speeches on Religion* (1799), and the theory of translation's two paths
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Spinoza](../03-early-modern/baruch-spinoza.md), the Berlin Romantic circle · **Answered by:** [Hegel](../04-19th-century/g-w-f-hegel.md), [Gadamer](../05-20th-century/hans-georg-gadamer.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Spinoza](../03-early-modern/baruch-spinoza.md), the Berlin Romantic circle · **Answered by:** [Hegel](../04-19th-century/g-w-f-hegel.md), [Dilthey](dilthey-and-collingwood.md), [Gadamer](../05-20th-century/hans-georg-gadamer.md)
 
 ## Biography
 
@@ -30,7 +30,7 @@ Schleiermacher's most durable creation is hermeneutics rebuilt as a *universal* 
 - **Grammatical interpretation** — the utterance within the shared language: its lexicon, grammar, genre, and the linguistic whole of its age. No text means anything in isolation from the language system it uses.
 - **Psychological (later: technical) interpretation** — the utterance as the act of an individual mind: how this author bends the common language to a distinctive style and thought. Genius, for Schleiermacher, is precisely this individuality of productive use.
 
-Two methods cross both sides: the **comparative** (locating the text against similar ones, by type) and the **divinatory** (the conjectural leap into the author's productive center, checked afterwards by comparative evidence). And the two directions form the **hermeneutic circle**: parts are understood through the whole, the whole through its parts, so interpretation is a disciplined spiral, never a one-pass decoding. Its audacious goal formula, adapted from Kant, is to understand an utterance "at first just as well and then better than its author" — not arrogance, but the claim that method can recover what in the author's own production was unconscious. This program, transmitted through Dilthey, is the ancestor of all modern interpretation theory.
+Two methods cross both sides: the **comparative** (locating the text against similar ones, by type) and the **divinatory** (the conjectural leap into the author's productive center, checked afterwards by comparative evidence). And the two directions form the **hermeneutic circle**: parts are understood through the whole, the whole through its parts, so interpretation is a disciplined spiral, never a one-pass decoding. Its audacious goal formula, adapted from Kant, is to understand an utterance "at first just as well and then better than its author" — not arrogance, but the claim that method can recover what in the author's own production was unconscious. This program, transmitted through [Dilthey](dilthey-and-collingwood.md), is the ancestor of all modern interpretation theory.
 
 ### Religion as feeling of absolute dependence
 

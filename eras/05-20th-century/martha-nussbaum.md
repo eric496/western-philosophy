@@ -43,7 +43,7 @@ The Stoic analysis is accepted, the Stoic therapy refused. Where the Stoics conc
 
 ### Cosmopolitanism
 
-Nussbaum is a leading contemporary defender of cosmopolitanism, beginning with her 1994 essay "Patriotism and Cosmopolitanism" and the exchange it provoked (published as *For Love of Country*, 1996). Drawing on the Stoic image of concentric circles of allegiance — self, family, neighbors, city, humanity — she argues that education should teach students to see their primary loyalty as owed to the world community of human beings, with local attachments understood as valuable but not ultimate. *The Cosmopolitan Tradition* (2019) traces this idea through Cicero, Grotius, Kant and Adam Smith, and presses a point she thinks the tradition ducked: duties to distant strangers are not only duties of respect but can include duties of material aid.
+Nussbaum is a leading contemporary defender of cosmopolitanism, beginning with her 1994 essay "Patriotism and Cosmopolitanism" and the exchange it provoked (published as *For Love of Country*, 1996). Drawing on the Stoic image of concentric circles of allegiance — self, family, neighbors, city, humanity — she argues that education should teach students to see their primary loyalty as owed to the world community of human beings, with local attachments understood as valuable but not ultimate. *The Cosmopolitan Tradition* (2019) traces this idea through Cicero, [Grotius](../03-early-modern/suarez-and-grotius.md), Kant and Adam Smith, and presses a point she thinks the tradition ducked: duties to distant strangers are not only duties of respect but can include duties of material aid.
 
 ### Anger and forgiveness
 

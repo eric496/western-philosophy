@@ -13,7 +13,7 @@
 - **School/tradition:** Latin Christian Neoplatonism; the outstanding thinker of the Carolingian Renaissance
 - **Known for:** The *Periphyseon*, which divides all of "nature" — God and creation together — into four species, and for bringing Greek negative (apophatic) theology into the Latin West
 
-**Responds to:** Pseudo-Dionysius and the Greek Christian Platonists he translated, who have no entry in this collection · **Answered by:** later Latin readers of his Dionysius translation, with no direct successor in this collection
+**Responds to:** [Pseudo-Dionysius](pseudo-dionysius-and-eckhart.md) and the Greek Christian Platonists he translated, who have no entry in this collection · **Answered by:** later Latin readers of his Dionysius translation, with no direct successor in this collection
 
 ## Biography
 

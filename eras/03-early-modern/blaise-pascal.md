@@ -73,7 +73,7 @@ Pascal created a mode of philosophy that barely existed before him: mathematical
 
 ## Impact and legacy
 
-The *Provincial Letters* turned French opinion against casuistry and remain a model of polemic. The *Pensées* anticipated themes central to Kierkegaard — anxiety, the limits of system, faith beyond proof — and Pascal is read by believers and unbelievers alike as the anatomist of distraction and dread. Voltaire attacked him while conceding his genius; Nietzsche admired his honesty. The Wager still anchors debates on pragmatic arguments for belief, from William James to modern decision theorists. Pascal’s law and the unit of pressure keep his scientific name in daily use.
+The *Provincial Letters* turned French opinion against casuistry and remain a model of polemic. The *Pensées* anticipated themes central to Kierkegaard — anxiety, the limits of system, faith beyond proof — and Pascal is read by believers and unbelievers alike as the anatomist of distraction and dread. [Voltaire](bayle-and-voltaire.md) attacked him while conceding his genius; Nietzsche admired his honesty. The Wager still anchors debates on pragmatic arguments for belief, from William James to modern decision theorists. Pascal’s law and the unit of pressure keep his scientific name in daily use.
 
 ## Criticisms and debates
 

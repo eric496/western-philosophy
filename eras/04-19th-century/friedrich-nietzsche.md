@@ -111,7 +111,7 @@ Nietzsche added the *genealogical method* — unmasking ideals by their origins 
 
 ## Impact and legacy
 
-His influence runs through existentialism (Heidegger, Sartre, Camus), psychoanalysis (Freud, by his biographer Ernest Jones's account, often said that Nietzsche had a more penetrating knowledge of himself than any other man who ever lived), French post-structuralism (Foucault took genealogy directly from him; Deleuze and Derrida rebuilt readings of him), and modernist literature from Mann to Musil. The Nazi appropriation, engineered by his sister's archive and selective editing, collapsed under post-war scholarship but still colors his popular image.
+His influence runs through existentialism (Heidegger, Sartre, Camus), psychoanalysis (Freud, by his biographer Ernest Jones's account, often said that Nietzsche had a more penetrating knowledge of himself than any other man who ever lived), French post-structuralism (Foucault took genealogy directly from him; [Deleuze](../05-20th-century/gilles-deleuze.md) and Derrida rebuilt readings of him), and modernist literature from Mann to Musil. The Nazi appropriation, engineered by his sister's archive and selective editing, collapsed under post-war scholarship but still colors his popular image.
 
 ## Criticisms and debates
 

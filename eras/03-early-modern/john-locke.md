@@ -119,7 +119,7 @@ Locke set empiricism’s research program: trace every idea to experience, and s
 
 ## Impact and legacy
 
-The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; Voltaire popularized him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
+The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; [Voltaire](bayle-and-voltaire.md) popularized him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
 
 ## Criticisms and debates
 

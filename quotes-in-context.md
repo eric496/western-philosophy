@@ -72,6 +72,13 @@ instead of quoting.
 - **Context:** Xenophanes is not mocking religion as such. The fragment belongs to a sustained critique of Homer and Hesiod's gods, who steal and deceive, and it clears the ground for his own positive claim that there is "one god greatest among gods and men, not at all like mortals in body or in thought" (B23). It is a theological reform, not an early atheism.
 - **Entry:** [Xenophanes and Anaxagoras](eras/01-ancient/presocratic-pluralists.md)
 
+### "Whether genera and species subsist or are in mere conceptions only"
+- **Source:** Porphyry, *Isagoge* (c. 270 CE), ch. I; tr. Octavius Freire Owen, *The Organon* (London: Bohn, 1853), vol. II, pp. 609–610
+- **Speaker:** Porphyry, in his own voice
+- **Exact wording:** "I shall omit to speak about genera and species, as to whether they subsist (in the nature of things) or in mere conceptions only; whether also if subsistent, they are bodies or incorporeal, and whether they are separate from, or in, sensibles, and subsist about these"
+- **Context:** Porphyry raises the three questions only to set them aside: the *Isagoge* is a beginner's introduction to Aristotle's logic, and he says the matter needs a deeper inquiry. Because Boethius translated and commented on the book, these three unanswered questions became the medieval problem of universals, argued over by Abelard, Aquinas, Scotus and Ockham.
+- **Entry:** [Porphyry, Iamblichus, Proclus and Hypatia](eras/01-ancient/late-neoplatonists.md)
+
 ## Medieval
 
 ### "Give me chastity and continency, only not yet"
@@ -110,6 +117,13 @@ instead of quoting.
 - **Exact wording:** The motto itself, "Que sçay-je?," appears in Montaigne's own words in the chapter cited — "Cette fantasie est plus seurement conceuë par interrogation : Que sçay-je ? comme je la porte à la devise d'une balance" (*Essais* II.12) — and the chapter it summarizes argues at length against dogmatic certainty specifically, not against commitment of any kind
 - **Context:** The motto is read as a shrug — "who can say, so anything goes" — but it names a disciplined Pyrrhonian method: set argument against argument, let them balance, suspend judgment about *knowledge claims* rather than about everything. Montaigne holds firm, stated loyalties (to tolerance; against cruelty, the vice he says he detests most) and treats custom as a powerful fact to reckon with, not a truth to celebrate — his skepticism targets certainty, including the atheist's, which is why every side of the wars of religion tried to claim him.
 - **Entry:** [Michel de Montaigne](eras/03-early-modern/michel-de-montaigne.md)
+
+### "Even if we should concede... that there is no God" (*etiamsi daremus*)
+- **Source:** Hugo Grotius, *On the Law of War and Peace* (*De iure belli ac pacis*, 1625), Prolegomena §11; tr. F. W. Kelsey (Oxford, 1925), p. 13
+- **Speaker:** Grotius, in his own voice
+- **Exact wording:** "What we have been saying would have a degree of validity even if we should concede that which cannot be conceded without the utmost wickedness, that there is no God, or that the affairs of men are of no concern to Him."
+- **Context:** Often read as the moment natural law was secularized. Grotius himself calls the concession wicked and goes straight on to argue that we must obey God as our creator, and the hypothesis was not new: Suárez, thirteen years earlier, had reported a version of it from the fourteenth-century Gregory of Rimini and rejected it. How far it marks a break with the scholastics is still debated.
+- **Entry:** [Suárez and Grotius](eras/03-early-modern/suarez-and-grotius.md)
 
 ### "The life of man, solitary, poore, nasty, brutish, and short"
 - **Source:** Hobbes, *Leviathan*, ch. 13 (1651), original-spelling first-edition text (Project Gutenberg #3207)
@@ -159,6 +173,13 @@ instead of quoting.
 - **Exact wording:** "When the legislative and executive powers are united in the same person, or in the same body of magistrates, there can be no liberty; because apprehensions may arise, lest the same monarch or senate should enact tyrannical laws, to execute them in a tyrannical manner."
 - **Context:** Civics courses extract this one chapter from a 31-book comparative study as a blueprint for hermetically sealed branches — but Montesquieu's own praised example, the English constitution, in fact mixes and overlaps the powers rather than walling them apart. His real claim is that liberty, defined as the tranquillity of mind that comes from not fearing arbitrary power, requires that the powers not be *concentrated* in one person or body. Most of the book concerns something else entirely: how law should fit a nation's "general spirit" — its climate, customs, religion, and commerce.
 - **Entry:** [Montesquieu](eras/03-early-modern/montesquieu.md)
+
+### "We must cultivate our garden"
+- **Source:** Voltaire, *Candide* (1759), ch. XXX, Candide's last words (New York: Boni and Liveright, 1918)
+- **Speaker:** Candide, the title character, not Voltaire in his own voice
+- **Exact wording:** "we must cultivate our garden."
+- **Context:** The answer Candide gives to Pangloss, who is still insisting that all events are linked for the best. It closes a satire on Leibnizian optimism written after the 1755 Lisbon earthquake. Readers disagree whether it counsels quiet withdrawal from public life or modest, practical work in place of metaphysics; Voltaire himself spent his last decades campaigning for the Calas family and for toleration.
+- **Entry:** [Bayle and Voltaire](eras/03-early-modern/bayle-and-voltaire.md)
 
 ### "Man is born free; and everywhere he is in chains"
 - **Source:** Rousseau, *The Social Contract*, Book I, ch. 1 (1762), tr. G. D. H. Cole (Project Gutenberg #46333)
@@ -254,6 +275,13 @@ instead of quoting.
 - **Entry:** [Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)
 
 ## 20th Century
+
+### "All history is the history of thought"
+- **Source:** R. G. Collingwood, *The Idea of History* (Oxford: Clarendon Press, 1946), Epilegomena §1, "Human Nature and Human History," p. 215
+- **Speaker:** Collingwood, in his own voice (the book was edited after his death by T. M. Knox)
+- **Exact wording:** "All history is the history of thought."
+- **Context:** Narrower than it sounds. "Thought" means the reasoning behind deliberate actions, which the historian recovers by re-enacting it: "The history of thought, and therefore all history, is the re-enactment of past thought in the historian's own mind" (same page). Critics ask what becomes of passions, unintended consequences and economic forces on this view.
+- **Entry:** [Dilthey and Collingwood](eras/04-19th-century/dilthey-and-collingwood.md)
 
 ### "Whereof one cannot speak, thereof one must be silent"
 - **Source:** Wittgenstein, *Tractatus Logico-Philosophicus*, proposition 7 (1921; English 1922), tr. C. K. Ogden with Frank Ramsey

@@ -13,7 +13,7 @@
 - **School/tradition:** German Idealism; the culmination of post-Kantian philosophy
 - **Known for:** The claim that reality, history, and mind are one self-developing whole, which comes to understand itself through conflict and reconciliation.
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md), [Green & Bradley](british-idealists.md)
 
 ## Biography
 
@@ -87,7 +87,7 @@ Hegel made philosophy irretrievably historical and social. Before him, Kant had 
 
 ## Impact and legacy
 
-The aftershocks are everywhere. The Young Hegelians split into left and right wings; Feuerbach and Marx turned his dialectic materialist, Kierkegaard rebelled against the system in the name of the individual, and both rebellions are unthinkable without him. British Idealism (Bradley, Green) dominated Anglophone philosophy for a generation. In the 20th century, Kojève's Paris lectures shaped Sartre and French thought; the Frankfurt School, hermeneutics, communitarianism, and contemporary theories of recognition (Honneth, Taylor) all work in his shadow. Even his opponents define themselves against him — a sign of his centrality.
+The aftershocks are everywhere. The Young Hegelians split into left and right wings; Feuerbach and Marx turned his dialectic materialist, Kierkegaard rebelled against the system in the name of the individual, and both rebellions are unthinkable without him. [British Idealism](british-idealists.md) (Bradley, Green) dominated Anglophone philosophy for a generation. In the 20th century, Kojève's Paris lectures shaped Sartre and French thought; the Frankfurt School, hermeneutics, communitarianism, and contemporary theories of recognition (Honneth, Taylor) all work in his shadow. Even his opponents define themselves against him — a sign of his centrality.
 
 ## Criticisms and debates
 
