@@ -21,3 +21,7 @@ history of early humans
 is what it is and not another thing
 # Descartes, Med. 2 (AT VII 25): Cottingham ("whenever it is put forward by me") in the entry and guide; Haldane & Ross ("each time that I pronounce it") in the dossier
 is necessarily true
+# Hume, EHU 4.18 ("moral reasoning, or that concerning matter of fact and existence") and EHU 12.34 ("experimental reasoning concerning matter of fact and existence") are different passages
+concerning matter of fact and existence
+# Kant, Prolegomena Preface: Carus ("the suggestion of David Hume", Hume dossier) and a modern translation ("the remembrance of David Hume", Kant dossier)
+first interrupted my dogmatic slumber
