@@ -14,7 +14,13 @@ Checks:
   8. No quotation appears in two places in different words (quotation drift).
      Intended variants are listed in scripts/quote-variants.txt.
 
-Run from anywhere:  python3 scripts/check_repo.py
+  9. Stated counts match the files they describe (figures, glossary terms,
+     quotations, misconceptions, study guides, deck sizes, focus-study files
+     and card decks).
+ 10. Optional, needs network: every external link answers (403 and 429 are
+     accepted, as in the CI link sweep).
+
+Run from anywhere:  python3 scripts/check_repo.py [--external]
 """
 import glob
 import os
@@ -206,6 +212,98 @@ for a, b in sorted(pairs):
     if difflib.SequenceMatcher(None, short, window, autojunk=False).ratio() >= 0.85:
         err(f"quotation drift: {quotes[a][1]}:{quotes[a][2]} and {quotes[b][1]}:{quotes[b][2]} "
             f"quote the same passage in different words")
+
+# 9. stated counts match the files they describe.
+def read(path):
+    return open(path, encoding="utf-8").read()
+
+
+def count_lines(path, pattern):
+    return sum(1 for line in open(path, encoding="utf-8") if re.match(pattern, line))
+
+
+def expect(path, pattern, actual, what):
+    """Every number captured by `pattern` in `path` must equal `actual`."""
+    found = re.findall(pattern, read(path))
+    if not found:
+        err(f"{path}: count check could not find the stated number of {what}")
+    for n in found:
+        if int(n.replace(",", "")) != actual:
+            err(f"{path}: says {n} {what}, but there are {actual}")
+
+
+figures = len(idx)
+guides = len([p for p in glob.glob("study/*.md")
+              if not os.path.basename(p).startswith(("README", "answers-"))])
+signature = sum(1 for p in glob.glob("eras/*/*.md") if "## Signature arguments" in read(p))
+expect("README.md", r"all (\d+) figures", figures, "figures")
+expect("philosophers/README.md", r"all (\d+) figures", figures, "figures")
+expect("learning-path.md", r"The library covers (\d+) figures", figures, "figures")
+expect("README.md", r"(\d+) terms in plain language", count_lines("glossary.md", r"- \*\*"), "glossary terms")
+expect("README.md", r"(\d+) famous lines", count_lines("quotes-in-context.md", r"### "), "quotations")
+expect("README.md", r"(\d+) errors to unlearn", count_lines("misconceptions.md", r"\d+\. \*\*"), "misconceptions")
+expect("README.md", r"Work-level study guides \((\d+)\)", guides, "study guides")
+expect("study/cards/README.md", r"(\d+) study guides", guides, "study guides")
+expect("study/cards/README.md", r"(\d+) core entries", signature, "core entries with Signature arguments")
+for deck in sorted(glob.glob("study/cards/*.tsv")):
+    expect("study/cards/README.md", r"`" + re.escape(os.path.basename(deck)) + r"` \| (\d+) \|",
+           count_lines(deck, r".*\S"), f"cards in {os.path.basename(deck)}")
+
+# Focus-study registry: one row per dossier, and each row's file and card counts.
+registry = read("focus-studies/README.md")
+dossiers = sorted(d for d in glob.glob("focus-studies/*/") if os.path.exists(d + "README.md"))
+for d in dossiers:
+    slug = os.path.basename(d.rstrip("/"))
+    row = re.search(r"^\|[^\n]*\]\(" + re.escape(slug) + r"/README\.md\)[^\n]*$", registry, re.M)
+    if not row:
+        err(f"focus-studies/README.md: no registry row for {slug}/")
+        continue
+    md = len(glob.glob(d + "*.md"))
+    cards = count_lines(d + "cards.tsv", r".*\S") if os.path.exists(d + "cards.tsv") else 0
+    m = re.search(r"(\d+) files", row.group(0))
+    if m and int(m.group(1)) != md:
+        err(f"focus-studies/README.md: {slug} row says {m.group(1)} files, but there are {md}")
+    m = re.search(r"(\d+)-card deck", row.group(0))
+    if m and int(m.group(1)) != cards:
+        err(f"focus-studies/README.md: {slug} row says a {m.group(1)}-card deck, but cards.tsv has {cards}")
+    readme = read(d + "README.md")
+    m = re.search(r"(\d+) cards \(", readme)
+    if m and int(m.group(1)) != cards:
+        err(f"{d}README.md: says {m.group(1)} cards, but cards.tsv has {cards}")
+
+# 10. external links (opt-in, needs network): python3 scripts/check_repo.py --external
+# Same policy as the CI lychee job: 403 (bot-blocking sites) and 429 (rate
+# limits) are not dead links; this repo's release assets need authentication.
+if "--external" in sys.argv:
+    import concurrent.futures
+    import urllib.error
+    import urllib.request
+
+    URL = re.compile(r"\]\((https?://[^)\s]+)\)")
+    where = {}
+    for path in md_files():
+        for n, line in enumerate(open(path, encoding="utf-8"), 1):
+            for u in URL.findall(strip_code(line)):
+                where.setdefault(u.split("#")[0], f"{path}:{n}")
+    skip = re.compile(r"^https://github\.com/eric496/western-philosophy/releases")
+
+    def status(url):
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (link check)"})
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                return r.status
+        except urllib.error.HTTPError as e:
+            return e.code
+        except Exception as e:  # DNS failure, timeout, TLS error
+            return type(e).__name__
+
+    urls = sorted(u for u in where if not skip.match(u))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+        for url, code in zip(urls, pool.map(status, urls)):
+            # urllib follows most redirects itself but not 308, which lands here.
+            if not (isinstance(code, int) and (200 <= code < 400 or code in (403, 429))):
+                err(f"{where[url]}: external link returned {code}: {url}")
+    print(f"checked {len(urls)} external links")
 
 for e in errors:
     print("ERROR:", e)
