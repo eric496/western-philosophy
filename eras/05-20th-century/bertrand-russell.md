@@ -108,7 +108,7 @@ Therefore, unrestricted comprehension is false, and set theory — and with it F
 
 ## Impact and legacy
 
-Inside philosophy, Russell's influence is structural: he taught Wittgenstein (and was then displaced by him), inspired Carnap and the Vienna Circle, and set the problems Ayer imported into British logical positivism. Much later work, from Strawson to Kripke, is written in explicit argument with him. In computer science, type theory descends from his remedy for the paradox. Outside philosophy, his popular books shaped generations of readers, and the Russell–Einstein Manifesto and Pugwash gave scientists a durable model for organized political responsibility.
+Inside philosophy, Russell's influence is structural: he taught Wittgenstein (and was then displaced by him), inspired [Carnap](rudolf-carnap.md) and the Vienna Circle, and set the problems Ayer imported into British logical positivism. Much later work, from Strawson to Kripke, is written in explicit argument with him. In computer science, type theory descends from his remedy for the paradox. Outside philosophy, his popular books shaped generations of readers, and the Russell–Einstein Manifesto and Pugwash gave scientists a durable model for organized political responsibility.
 
 ## Criticisms and debates
 

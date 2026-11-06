@@ -65,6 +65,13 @@ instead of quoting.
 - **Context:** This sits inside Epicurus's larger argument that the good life comes from removing groundless fears (of the gods, of death) and choosing pleasures prudently, not indulgently — the same letter says "the wise seek to enjoy the time which is most pleasant and not merely that which is longest." The popular sense of "epicurean" as lavish indulgence is close to the opposite of his teaching: overindulgence causes pain, so the safest pleasures are modest, secured above all by friendship rather than luxury.
 - **Entry:** [Epicurus](eras/01-ancient/epicurus.md)
 
+### "If cattle or lions had hands... they would paint their gods"
+- **Source:** Xenophanes, fragment DK B15 (6th–5th c. BCE), preserved by Clement of Alexandria; tr. Arthur Fairbanks, *The First Philosophers of Greece* (1898), p. 67 (his fragment 6)
+- **Speaker:** Xenophanes, in his own voice
+- **Exact wording:** "But if cattle or lions had hands, so as to paint with their hands and produce works of art as men do, they would paint their gods and give them bodies in form like their own—horses like horses, cattle like cattle."
+- **Context:** Xenophanes is not mocking religion as such. The fragment belongs to a sustained critique of Homer and Hesiod's gods, who steal and deceive, and it clears the ground for his own positive claim that there is "one god greatest among gods and men, not at all like mortals in body or in thought" (B23). It is a theological reform, not an early atheism.
+- **Entry:** [Xenophanes and Anaxagoras](eras/01-ancient/presocratic-pluralists.md)
+
 ## Medieval
 
 ### "Give me chastity and continency, only not yet"
@@ -80,6 +87,13 @@ instead of quoting.
 - **Exact wording:** "Fides quaerens intellectum" ("faith seeking understanding"); Anselm states the point directly in the *Proslogion*'s first chapter: "I do not seek to understand that I may believe, but I believe in order to understand" (tr. S. N. Deane) ("Neque enim quaero intelligere ut credam, sed credo ut intelligam")
 - **Context:** As SEP notes, the motto invites two opposite misreadings: that Anselm hopes to replace faith with proof once reason does its work, or that he thinks reason is irrelevant to faith. Both are wrong — for Anselm, faith is the starting point that makes the understanding possible at all, not a stage to be outgrown, and not a wall that reason may not approach. The ontological argument of *Proslogion* ch. 2–4 is offered as understanding sought *from inside* faith, not as a religiously neutral proof meant to produce belief in someone who lacks it.
 - **Entry:** [Anselm](eras/02-medieval/anselm-of-canterbury.md)
+
+### "As for fire, which is inanimate, it has no action"
+- **Source:** al-Ghazali, *The Incoherence of the Philosophers* (*Tahāfut al-falāsifa*, 1095), Discussion 17, tr. Michael E. Marmura (2nd ed., Brigham Young University Press, 2000), p. 167
+- **Speaker:** al-Ghazali, in his own voice
+- **Exact wording:** "As for fire, which is inanimate, it has no action."
+- **Context:** This is the cotton-and-fire example. Al-Ghazali argues that we observe the cotton burning when it touches fire, but never observe that the fire *necessitates* the burning: "The connection between what is habitually believed to be a cause and what is habitually believed to be an effect is not necessary, according to us" (p. 166). He does not deny a regular natural order; he denies that it is necessary, and grounds it in God's decree. Whether he was a full occasionalist is disputed.
+- **Entry:** [Al-Ghazali](eras/02-medieval/al-ghazali.md)
 
 ## Early Modern
 
@@ -166,6 +180,13 @@ instead of quoting.
 - **Exact wording:** "Two things fill the mind with ever new and increasing admiration and reverence, the more often and more steadily one reflects on them: the starry heavens above me and the moral law within me."
 - **Context:** The two objects are paired on purpose: the starry sky reduces Kant, a mere speck, to insignificance in the physical universe, while the moral law, precisely because it is not spatial or physical, reveals him as a rational agent of infinite worth regardless of his place in nature. It is a statement about human dignity grounded in autonomy, not nature poetry or an argument from design.
 - **Entry:** [Kant](eras/03-early-modern/immanuel-kant.md)
+
+### "Every thing is what it is, and not another thing"
+- **Source:** Joseph Butler, *Fifteen Sermons Preached at the Rolls Chapel*, Preface to the second edition (1729); new ed., London: Tegg, 1841, p. xxii
+- **Speaker:** Butler, in his own voice
+- **Exact wording:** "Every thing is what it is, and not another thing."
+- **Context:** Butler's target is the reduction of benevolence to self-love: an act done from love of a neighbor is not secretly selfish just because the agent takes pleasure in it. G. E. Moore later put the sentence, spelled "Everything," on the title page of *Principia Ethica* (1903) as the motto of his own anti-reductionism about goodness.
+- **Entry:** [Shaftesbury, Hutcheson and Butler](eras/03-early-modern/moral-sense-school.md)
 
 ## 19th Century
 
@@ -255,6 +276,13 @@ instead of quoting.
 - **Context:** The line is the punchline of a play whose whole premise is that the traditional torture-chamber hell is unnecessary: three strangers who need each other's approval, and torment each other by watching and judging, are hell enough for one another with no devils required. It dramatizes a specific claim from Sartre's *Being and Nothingness* about the way another person's gaze can fix and objectify you — it is not Sartre's considered, final verdict that all human relationships are inherently infernal; his later work (and *Existentialism Is a Humanism*'s emphasis on responsibility to others) complicates any such flat reading.
 - **Entry:** [Sartre](eras/05-20th-century/jean-paul-sartre.md)
 
+### "The problem of the Twentieth Century is the problem of the color line"
+- **Source:** W. E. B. Du Bois, *The Souls of Black Folk* (1903), "The Forethought" (public domain; Project Gutenberg #408)
+- **Speaker:** Du Bois, in his own voice
+- **Exact wording:** "for the problem of the Twentieth Century is the problem of the color line."
+- **Context:** The line opens a book about the American South after Emancipation, but Du Bois meant it globally: the second chapter repeats it as "the relation of the darker to the lighter races of men in Asia and Africa, in America and the islands of the sea." The book's first chapter then introduces "double-consciousness," the sense "of always looking at one's self through the eyes of others."
+- **Entry:** [W. E. B. Du Bois and Frantz Fanon](eras/05-20th-century/du-bois-and-fanon.md)
+
 ### "One is not born, but rather becomes, a woman"
 - **Source:** Beauvoir, *The Second Sex* (*Le Deuxième Sexe*), Volume II, opening line (1949); French original "On ne naît pas femme: on le devient," English wording from H. M. Parshley's 1953 translation; the 2010 Borde and Malovany-Chevallier translation, which the study guide uses, drops the article: "One is not born, but rather becomes, woman"
 - **Speaker:** Beauvoir, in her own voice
@@ -268,6 +296,13 @@ instead of quoting.
 - **Exact wording:** "A Report on the Banality of Evil" (subtitle); Arendt's point in the book is that Eichmann struck her not as a monstrous fanatic but as a disturbingly ordinary bureaucrat concerned with career and paperwork
 - **Context:** "Banal" here does not mean the Holocaust itself was ordinary or minor — Arendt is making a claim about the *perpetrator's* psychology and self-understanding: Eichmann's defense that he "did his duty," obeyed all orders as his oath demanded, displaying neither hatred nor guilt, is what she calls banal. The phrase describes a specific, disturbing kind of evil achieved through unthinking bureaucratic obedience, not a general theory that all evil is trivial.
 - **Entry:** [Arendt](eras/05-20th-century/hannah-arendt.md)
+
+### "'Meanings' just ain't in the head"
+- **Source:** Hilary Putnam, "The Meaning of 'Meaning'" (1975), in *Mind, Language and Reality: Philosophical Papers*, vol. 2 (Cambridge University Press, 1975), p. 227
+- **Speaker:** Putnam, in his own voice
+- **Exact wording:** "Cut the pie any way you like, 'meanings' just ain't in the head!"
+- **Context:** The conclusion of the Twin Earth thought experiment. On Twin Earth a liquid exactly like water is in fact XYZ, not H₂O; an earthling and her twin are in the same mental state, yet "water" refers to different stuff in their mouths. So what is in the head does not fix reference: meaning depends partly on the world and on the speaker's community. This is semantic externalism, distinct from the functionalism Putnam had defended in philosophy of mind.
+- **Entry:** [Sellars, Davidson, Putnam and Lewis](eras/05-20th-century/analytic-philosophy-after-quine.md)
 
 ## Misattributions
 

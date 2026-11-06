@@ -78,7 +78,7 @@ Within philosophy his influence runs through Sartre and Beauvoir, Merleau-Ponty,
 
 The political debate dominates and divides scholars. One line, associated with critics such as Emmanuel Faye, holds that Heidegger’s Nazism and antisemitism are integral to the philosophy and should change how — or whether — it is taught. Others, including many working phenomenologists, argue that central analyses in *Being and Time* can be assessed and used independently, while not excusing the man; still others locate the contamination in specific later texts and categories rather than the whole corpus. The *Black Notebooks* strengthened the integral-contamination case factually; they did not produce consensus. What is no longer respectable is ignoring the record.
 
-Philosophical criticisms are independent and substantial: Levinas charged that Heidegger subordinates the ethical relation to the Other to ontology; Carnap used Heidegger’s prose as a paradigm of meaninglessness; Adorno attacked the “jargon of authenticity”; and many readers find the later etymological method suggestive rather than demonstrative.
+Philosophical criticisms are independent and substantial: Levinas charged that Heidegger subordinates the ethical relation to the Other to ontology; [Carnap](rudolf-carnap.md) used Heidegger’s prose as a paradigm of meaninglessness; Adorno attacked the “jargon of authenticity”; and many readers find the later etymological method suggestive rather than demonstrative.
 
 ## Misreadings to avoid
 

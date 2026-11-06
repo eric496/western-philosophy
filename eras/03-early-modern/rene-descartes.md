@@ -13,7 +13,7 @@
 - **School/tradition:** Early modern rationalism
 - **Known for:** Founding modern philosophy on the cogito — "I think, therefore I am" — and for splitting reality into thinking mind and extended matter
 
-**Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Elisabeth of Bohemia](early-modern-women-philosophers.md), [Spinoza](baruch-spinoza.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
+**Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Elisabeth of Bohemia](early-modern-women-philosophers.md), [Spinoza](baruch-spinoza.md), [Malebranche](nicolas-malebranche.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
 
 ## Biography
 
@@ -61,7 +61,7 @@ Descartes concludes he can clearly and distinctly conceive mind apart from body 
 
 Dualism protects two things Descartes cared about: the soul's freedom and immortality, congenial to theology, and a fully mechanical physics free of purposes and souls. Its price is the **interaction problem**: how can an unextended, non-spatial mind move an extended body, and how can bodily damage cause a non-physical mind pain?
 
-Princess Elisabeth put this in 1643 with unmatched clarity. One body moves another, she noted, through contact, shape, and motion. Mind has none of these. How, then, can the will move the body's "animal spirits," and how can they cause sensations in the soul? Descartes answered by appealing to the union as a primitive notion, known by living it rather than by analysis, and in *The Passions of the Soul* (1649) located interaction in the pineal gland, a small unpaired structure in the brain. Neither move convinced most readers: calling the union primitive names the mystery without explaining it, and a gland is still extended matter. Elisabeth's objection set the agenda for Spinoza, Malebranche, and Leibniz, each of whom rebuilt the system largely to solve it.
+Princess Elisabeth put this in 1643 with unmatched clarity. One body moves another, she noted, through contact, shape, and motion. Mind has none of these. How, then, can the will move the body's "animal spirits," and how can they cause sensations in the soul? Descartes answered by appealing to the union as a primitive notion, known by living it rather than by analysis, and in *The Passions of the Soul* (1649) located interaction in the pineal gland, a small unpaired structure in the brain. Neither move convinced most readers: calling the union primitive names the mystery without explaining it, and a gland is still extended matter. Elisabeth's objection set the agenda for Spinoza, [Malebranche](nicolas-malebranche.md), and Leibniz, each of whom rebuilt the system largely to solve it.
 
 ### Mechanism and vortices
 

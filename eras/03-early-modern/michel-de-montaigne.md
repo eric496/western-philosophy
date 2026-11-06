@@ -76,7 +76,7 @@ Pascal argued with him compulsively (the *Pensées* treat Montaigne as the great
 
 - **Fideist or subversive?** Did Montaigne sincerely hold that skepticism serves Catholic faith, or is the piety a protective coloring for a corrosive naturalism? Scholars (from Villey and Popkin, who made him the hinge of a "Pyrrhonian crisis," to more recent readers) still divide; the text supports strategic ambiguity.
 - **Quietism.** Critics from Pascal — who charged him with a "lazy" indifference — to modern political readers have asked whether suspension of judgment in an age of massacre was wisdom or evasion. His active diplomacy complicates the picture of the withdrawn tower-dweller.
-- **The self-indulgence charge.** That the *Essays* are narcissistic self-portraiture was already a seventeenth-century complaint (Malebranche called him a pedant of the self). Defenders reply that the self is his instrument, not his idol — the point is the test, not the portrait.
+- **The self-indulgence charge.** That the *Essays* are narcissistic self-portraiture was already a seventeenth-century complaint ([Malebranche](nicolas-malebranche.md) called him a pedant of the self). Defenders reply that the self is his instrument, not his idol — the point is the test, not the portrait.
 - **Which Montaigne?** The book exists in layers (1580, 1588, 1595) that sometimes qualify or reverse earlier claims; whether we should read for development, for a stable core, or accept contradiction as the doctrine is a standing interpretive debate.
 
 ## Misreadings to avoid

@@ -63,7 +63,7 @@ Vico's polemical target was the Cartesian program: the scorn for history, rhetor
 
 ## Contributions
 
-Vico gave the human sciences their epistemological charter (*verum factum* applied to the civil world), invented the philosophy of history as a discipline — before Voltaire, Herder, and Hegel — and modelled a method that fuses philosophy with philology: concepts tested against words, myths, laws, and things. He saw that myth and language are primary evidence about minds unlike our own, that institutions evolve in intelligible sequences, and that historical agents produce orders they never intended. Each of these is now common property of history, anthropology, and social theory; in 1725 all of them were his alone.
+Vico gave the human sciences their epistemological charter (*verum factum* applied to the civil world), invented the philosophy of history as a discipline — before Voltaire, [Herder](hamann-and-herder.md), and Hegel — and modelled a method that fuses philosophy with philology: concepts tested against words, myths, laws, and things. He saw that myth and language are primary evidence about minds unlike our own, that institutions evolve in intelligible sequences, and that historical agents produce orders they never intended. Each of these is now common property of history, anthropology, and social theory; in 1725 all of them were his alone.
 
 ## Impact and legacy
 

@@ -13,7 +13,7 @@
 - **School/tradition:** Islamic philosophy (*falsafa*) — the Arabic Aristotelian tradition inherited from al-Kindī and al-Fārābī, systematized with Neoplatonic elements.
 - **Known for:** The essence/existence distinction and proof of the Necessary Existent; the Flying Man argument; the *Canon of Medicine*.
 
-**Responds to:** [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Averroes](averroes.md), [Maimonides](maimonides.md), [Duns Scotus](john-duns-scotus.md)
+**Responds to:** [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [al-Ghazali](al-ghazali.md), [Averroes](averroes.md), [Maimonides](maimonides.md), [Duns Scotus](john-duns-scotus.md)
 
 ## Biography
 

@@ -13,7 +13,7 @@
 - **School/tradition:** Founder of the Eleatic tradition; his pupil Zeno defended it; Melissus of Samos later developed it
 - **Known for:** Arguing by pure deduction that Being is one, eternal, indivisible, and changeless — and that change, motion, and plurality are therefore impossible, however they appear
 
-**Responds to:** Pythagorean teaching and Ionian natural philosophy · **Answered by:** [Zeno of Elea](zeno-of-elea.md), [Empedocles](empedocles.md), [Democritus](democritus-of-abdera.md)
+**Responds to:** Pythagorean teaching and Ionian natural philosophy · **Answered by:** [Zeno of Elea](zeno-of-elea.md), [Empedocles](empedocles.md), [Anaxagoras](presocratic-pluralists.md), [Democritus](democritus-of-abdera.md)
 
 ## Biography
 
@@ -41,7 +41,7 @@ The goddess is blunt: do not let habit force you down mortals' road, letting "an
 
 ### The response problem
 
-Parmenides' argument became a set of constraints on every successor. Any theory now had to explain apparent change *without* generation from nothing or annihilation into nothing. His pupil Zeno defended him with the famous paradoxes: grant plurality or motion, Zeno argued, and contradictions at least as bad follow. Melissus revised the doctrine, making Being infinite and incorporeal. The pluralists — Empedocles, Anaxagoras, the atomists — accepted the ban on absolute generation while rescuing appearances: birth and death are really the mixing and separation of eternal ingredients. Democritus' atoms are Parmenidean Being chopped into infinitely many pieces, with the forbidden void smuggled back as "what is not" that nonetheless is.
+Parmenides' argument became a set of constraints on every successor. Any theory now had to explain apparent change *without* generation from nothing or annihilation into nothing. His pupil Zeno defended him with the famous paradoxes: grant plurality or motion, Zeno argued, and contradictions at least as bad follow. Melissus revised the doctrine, making Being infinite and incorporeal. The pluralists — Empedocles, [Anaxagoras](presocratic-pluralists.md), the atomists — accepted the ban on absolute generation while rescuing appearances: birth and death are really the mixing and separation of eternal ingredients. Democritus' atoms are Parmenidean Being chopped into infinitely many pieces, with the forbidden void smuggled back as "what is not" that nonetheless is.
 
 ## Key works
 
