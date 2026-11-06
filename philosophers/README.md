@@ -1,6 +1,6 @@
 # Philosopher Entry Files — Alphabetical
 
-Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 126 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
+Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 129 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
 
 - [Adam Smith](../eras/03-early-modern/adam-smith.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Alasdair MacIntyre](../eras/05-20th-century/alasdair-macintyre.md) — 20th Century to Present (1900 – )
@@ -74,6 +74,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [John Scotus Eriugena](../eras/02-medieval/john-scotus-eriugena.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [John Stuart Mill](../eras/04-19th-century/john-stuart-mill.md) — 19th-Century Philosophy (1801 – 1900)
 - [Judith Jarvis Thomson](../eras/05-20th-century/judith-jarvis-thomson.md) — 20th Century to Present (1900 – )
+- [Jürgen Habermas](../eras/05-20th-century/jurgen-habermas.md) — 20th Century to Present (1900 – )
 - [Karl Jaspers](../eras/05-20th-century/karl-jaspers.md) — 20th Century to Present (1900 – )
 - [Karl Marx](../eras/04-19th-century/karl-marx.md) — 19th-Century Philosophy (1801 – 1900)
 - [Karl Popper](../eras/05-20th-century/karl-popper.md) — 20th Century to Present (1900 – )
@@ -102,7 +103,9 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Pythagoras](../eras/01-ancient/pythagoras.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [René Descartes](../eras/03-early-modern/rene-descartes.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Robert Nozick](../eras/05-20th-century/robert-nozick.md) — 20th Century to Present (1900 – )
+- [Rudolf Carnap](../eras/05-20th-century/rudolf-carnap.md) — 20th Century to Present (1900 – )
 - [Saul Kripke](../eras/05-20th-century/saul-kripke.md) — 20th Century to Present (1900 – )
+- [Sellars, Davidson, Putnam and Lewis](../eras/05-20th-century/analytic-philosophy-after-quine.md) — 20th Century to Present (1900 – )
 - [Shaftesbury, Hutcheson and Butler](../eras/03-early-modern/moral-sense-school.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Sidebars: Feuerbach & Stirner](../eras/04-19th-century/sidebars-feuerbach-and-stirner.md) — 19th-Century Philosophy (1801 – 1900)
 - [Simone de Beauvoir](../eras/05-20th-century/simone-de-beauvoir.md) — 20th Century to Present (1900 – )
@@ -117,6 +120,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Thomas Kuhn](../eras/05-20th-century/thomas-kuhn.md) — 20th Century to Present (1900 – )
 - [Thomas Reid](../eras/03-early-modern/thomas-reid.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Vienna Circle / Logical Positivism](../eras/05-20th-century/vienna-circle-logical-positivism.md) — 20th Century to Present (1900 – )
+- [W. E. B. Du Bois and Frantz Fanon](../eras/05-20th-century/du-bois-and-fanon.md) — 20th Century to Present (1900 – )
 - [W. V. O. Quine](../eras/05-20th-century/w-v-o-quine.md) — 20th Century to Present (1900 – )
 - [William James](../eras/04-19th-century/william-james.md) — 19th-Century Philosophy (1801 – 1900)
 - [William of Ockham](../eras/02-medieval/william-of-ockham.md) — Medieval Philosophy (c. 400 – c. 1400)

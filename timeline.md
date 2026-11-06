@@ -87,6 +87,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1859–1941 — [Henri Bergson](eras/05-20th-century/henri-bergson.md)** (20th c. / French Philosophy): Duration, intuition, élan vital
 - **1861–1947 — [Alfred North Whitehead](eras/05-20th-century/alfred-north-whitehead.md)** (20th c. / Process Philosophy): Actual occasions, prehension, misplaced concreteness
 - **1872–1970 — [Russell](eras/05-20th-century/bertrand-russell.md)** (20th c. / Analytic): Descriptions, logical atomism
+- **1868–1963 / 1925–1961 — [(Group entry) Du Bois & Fanon](eras/05-20th-century/du-bois-and-fanon.md)** (20th c. / Africana & Anti-colonial): Double consciousness, the color line, the lived experience of the Black, decolonization
 - **1873–1958 — [G. E. Moore](eras/05-20th-century/g-e-moore.md)** (20th c. / Analytic): Open-question argument, common sense
 - **1883–1969 — [Karl Jaspers](eras/05-20th-century/karl-jaspers.md)** (20th c. / Existential Philosophy): Boundary situations, the Encompassing, Axial Age
 - **1889–1951 — Wittgenstein ([early](eras/05-20th-century/wittgenstein-early.md) · [late](eras/05-20th-century/wittgenstein-late.md))** (20th c. / Analytic): Picture theory → language-games
@@ -97,6 +98,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1900–2002 — [Hans-Georg Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (20th c. / Hermeneutics): Fusion of horizons, prejudice
 - **1902–1994 — [Popper](eras/05-20th-century/karl-popper.md)** (20th c. / Phil. of Science): Falsifiability, open society
 - **1922–1996 — [Thomas Kuhn](eras/05-20th-century/thomas-kuhn.md)** (20th c. / Philosophy of Science): Paradigms, scientific revolutions
+- **1891–1970 — [Rudolf Carnap](eras/05-20th-century/rudolf-carnap.md)** (20th c. / Logical Empiricism): Principle of tolerance, internal vs external questions, inductive logic
 - **1924–1936 — [(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (20th c. / Logical Positivism): Verification principle
 - **1905–1980 — [Sartre](eras/05-20th-century/jean-paul-sartre.md)** (20th c. / Existentialist): Bad faith, radical freedom
 - **1906–1975 — [Arendt](eras/05-20th-century/hannah-arendt.md)** (20th c. / Political Theory): Action, banality of evil
@@ -105,12 +107,13 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1909–1943 — [Simone Weil](eras/05-20th-century/simone-weil.md)** (20th c. / French Philosophy): Attention, affliction (malheur)
 - **1908–1961 — [Maurice Merleau-Ponty](eras/05-20th-century/maurice-merleau-ponty.md)** (20th c. / Phenomenology): Embodied perception, body-subject
 - **1908–2000 — [Quine](eras/05-20th-century/w-v-o-quine.md)** (20th c. / Analytic Naturalist): Web of belief, two dogmas
+- **1912–2016 — [(Group entry) Sellars, Davidson, Putnam & Lewis](eras/05-20th-century/analytic-philosophy-after-quine.md)** (20th c. / Analytic): Myth of the Given, radical interpretation, semantic externalism, modal realism
 - **1911–1960 / 1919–2006 — [Austin & Strawson](eras/05-20th-century/austin-and-strawson.md)** (20th c. / Ordinary Language): Speech acts, performatives; "On Referring," reactive attitudes
 - **1913–2005 — [Paul Ricoeur](eras/05-20th-century/paul-ricoeur.md)** (20th c. / Hermeneutics): Narrative identity, idem/ipse
 - **1913–1960 — [Albert Camus](eras/05-20th-century/albert-camus.md)** (20th c. / Absurdism): The absurd, revolt
 - **1903–1969 — [Adorno](eras/05-20th-century/frankfurt-school.md)** (20th c. / Frankfurt School): Culture industry, negative dialectics
 - **1895–1973 — [Horkheimer](eras/05-20th-century/frankfurt-school.md)** (20th c. / Frankfurt School): Critical vs traditional theory
-- **b. 1929 — [Habermas](eras/05-20th-century/frankfurt-school.md)** (20th–21st c. / Frankfurt II): Communicative action, public sphere
+- **1929–2026 — [Habermas](eras/05-20th-century/jurgen-habermas.md)** (20th–21st c. / Frankfurt II): Communicative action, public sphere
 - **1919–2001 / 1920–2010 — [Anscombe & Foot](eras/05-20th-century/anscombe-and-foot.md)** (20th c. / Virtue Ethics): Intention, natural goodness, tram problem
 - **1919–1999 — [Iris Murdoch](eras/05-20th-century/iris-murdoch.md)** (20th c. / Moral Philosophy): Attention, unselfing, the Good
 - **1919–2018 — [Mary Midgley](eras/05-20th-century/mary-midgley.md)** (20th c. / Moral Philosophy): Human nature, anti-reductionism
