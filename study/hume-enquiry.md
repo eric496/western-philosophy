@@ -59,7 +59,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 ### Section III: Of the association of ideas
 
-**Summary.** Ideas do not follow one another at random. Three principles associate them: **resemblance** (a picture leads us to think of the original), **contiguity** in time or place (mention of one room leads us to think of the next), and **cause and effect** (thinking of a wound leads us to think of the pain that followed it). Hume calls these "a kind of attraction" in the mental world, comparable — cautiously — to gravitation in the natural world.
+**Summary.** Ideas do not follow one another at random. Three principles associate them: **resemblance** (a picture leads us to think of the original), **contiguity** in time or place (mention of one room leads us to think of the next), and **cause and effect** (thinking of a wound leads us to think of the pain that followed it). In the *Treatise* (1.1.4) Hume calls association "a kind of attraction" in the mental world, comparable — cautiously — to gravitation in the natural world.
 
 **Key passages.** §III.1–3 (the three principles); §III.6–8 (association as the bond of the imagination and the explanation of why trains of thought differ between people).
 
@@ -69,7 +69,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** This is the heart of the book. Hume divides the objects of human reason into two kinds, later known as **Hume's fork**: **relations of ideas** (geometry, algebra, arithmetic, logic), which are intuitively or demonstratively certain and whose denial implies a contradiction; and **matters of fact**, whose contrary is always conceivable and which are known only through experience. All reasoning about matters of fact beyond present perception and memory rests on the relation of cause and effect. But what is the foundation of causal reasoning itself? Not reason: the inference that the future will resemble the past — that bread will nourish tomorrow because it nourished yesterday — cannot be justified by demonstration (a changed course of nature involves no contradiction) or by experience (appealing to past experience assumes the very uniformity in question). This is the **problem of induction**; a full reconstruction is given in §2(a) below.
 
-**Key passages.** §IV.1–2 (the fork); §IV.4–9 (cause and effect as the basis of factual reasoning); §IV.10–16 (why the inference to the future is not founded on reason); §IV.19–21 (the fork applied to books: works containing neither abstract reasoning nor experimental reasoning "commit to the flames").
+**Key passages.** §IV.1–2 (the fork); §IV.4–9 (cause and effect as the basis of factual reasoning); §IV.10–16 (why the inference to the future is not founded on reason); §IV.19–21 (the fork as the test for factual claims; its book-burning verdict, "commit it then to the flames", closes the book at §XII.34).
 
 **Main argument.** Reason cannot justify its own most important everyday inference. The famous closing passage, recommending suspect books to the flames, is often quoted as a slogan; read in context, it is the conclusion of the fork, not a program for book-burning — and Hume himself immediately qualifies it in the next section.
 

@@ -228,7 +228,7 @@ Each reconstruction follows the learning path's discipline: premises, conclusion
 
 **Conclusion:** Consciousness of my own existence in time is possible only through the existence and perception of things outside me; inner experience presupposes outer experience, and the skeptical idealism that doubts the outer world while trusting the inner is refuted.
 
-**Objection:** Premises 2 and 3 may carry more weight than they can bear: a determinate temporal order might require only a stable *framework* of representations, not actually existing outer things. Kant's slide from "something permanent" to "a permanent *thing outside me*" has struck critics since his contemporaries as the vulnerable joint.
+**Objection:** Premises 2 and 3 may carry more weight than they can bear: a determinate temporal order might require only a stable *framework* of representations, not actually existing outer things. Kant's slide from "something persistent in perception" to "a *thing outside me*" has struck critics since his contemporaries as the vulnerable joint.
 
 **Reply:** A merely represented permanence would itself need determination in time, restarting the regress: something must be *perceived*, not merely imagined, to anchor temporal order, and it cannot be the flux of inner sense itself. The Refutation's brevity — barely two pages — has made it one of the book's most debated passages; its conclusion is in any case what Kant's empirical realism requires.
 
@@ -243,7 +243,7 @@ Answer these book closed, then check against the answers at the end of this guid
 3. Distinguish analytic/synthetic and a priori/a posteriori. Why is "synthetic a priori" a problem?
 4. What question does the Introduction pose as the *Critique*'s driving question, and what is Kant's one-sentence answer to it?
 5. Give two of Kant's arguments that space is an a priori intuition rather than an empirical concept.
-6. What does it mean to call space and time "transcendentally ideal but empirically real"?
+6. What does it mean to assert the "empirical reality" and "transcendental ideality" of space and time?
 7. State the two-world (two-object) and two-aspect readings of the phenomena / things-in-themselves distinction.
 8. What are the categories, and what work does the Metaphysical Deduction claim to do?
 9. What does "the *I think* must be able to accompany all my representations" mean, and what is its role in the Deduction?
@@ -268,7 +268,7 @@ Phenomena are things as they appear under the conditions of human cognition — 
 That is the two-world reading stated as settled fact; it is one contested interpretation among two, as the Aesthetic section explains. On the two-aspect reading, "thing in itself" names the same things considered in abstraction from our cognitive conditions. Either way, it functions primarily as a limit-concept.
 
 **4. "Kant proved that God does not exist."**
-Kant argued that the traditional *proofs* of God's existence fail as theoretical knowledge — and equally that no theoretical disproof is possible. God re-enters his system as a postulate of practical reason. "Deny knowledge to make room for faith" is a partition, not an atheist verdict.
+Kant argued that the traditional *proofs* of God's existence fail as theoretical knowledge — and equally that no theoretical disproof is possible. God re-enters his system as a postulate of practical reason. "Deny knowledge in order to make room for faith" is a partition, not an atheist verdict.
 
 **5. "The Deduction is just psychology — a description of how the mind happens to work."**
 The Deduction answers a question of right (*quid juris*), not of fact (*quid facti*): the categories *must* structure any experience a self-conscious being can have — not an empirical claim about how brains process inputs. Kant contrasts his deduction with Locke's "physiology of the human understanding." The A Deduction's psychological flavour tempts this misreading; one reason this guide reads B as primary.
@@ -286,7 +286,7 @@ The Antinomies are diagnostic, not despairing: the contradictions arise from one
 1. **A = the first edition (1781), B = the second, revised edition (1787)**, cited by original page numbers. Read B where both exist; keep the A Deduction as the famous alternative route.
 2. **As Copernicus explained the heavens better by moving the observer, objects of experience conform to our cognition** rather than cognition to objects — a reversal about the *form* of experience.
 3. **Analytic:** the predicate is contained in the subject. **Synthetic:** it adds something. **A priori:** independent of particular experience, necessary and strictly universal; **a posteriori:** resting on experience. Synthetic a priori judgments extend knowledge yet hold necessarily — neither unpacking nor experience seems able to supply both features.
-4. **"How are synthetic a priori judgments possible?"** They articulate the structure our faculties contribute to experience, so they hold necessarily of everything experienceable — and of nothing else.
+4. **"How are synthetic judgments a priori possible?"** They articulate the structure our faculties contribute to experience, so they hold necessarily of everything experienceable — and of nothing else.
 5. Any two of: **space is presupposed, not derived** (representing things as outside me already requires space); **space is necessary** (empty space is representable, an outer object outside space is not); **space is a single infinite intuition**, not a general concept.
 6. **Transcendentally ideal:** space and time belong to our mode of cognition, not to things apart from it. **Empirically real:** within experience they are fully objective — public, measurable, law-governed, not private or illusory.
 7. **Two-world:** phenomena and things in themselves are two distinct realms of objects. **Two-aspect:** one world, considered two ways — as it appears under our cognitive conditions, and in abstraction from them. The dispute is unresolved; this guide takes no side.
