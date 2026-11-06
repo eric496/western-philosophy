@@ -10,18 +10,19 @@ Medieval Aristotelian-Scholastic synthesis breaks down under Scientific Revoluti
 Arc: Bacon proclaims a rebuilt method of inquiry → Descartes deletes everything doubtful, rebuilds from thinking self → Spinoza/Leibniz total systems → Locke restarts from experience → Berkeley/Hume push experience-first until metaphysics/causality wobble → Kant rebuilds by mapping what mind contributes and where knowledge stops.
 
 ## Learning order within era
+0. Renaissance prelude at map level: Ficino, Pico (*Oration*), Erasmus (*Praise of Folly*), Bruno — the humanist and Platonist world Montaigne and Bacon write from.
 1. Bacon Novum Organum, aphorisms (selections) — the era's opening call for a new method, read before Descartes answers it.
-2. Hobbes Leviathan 13–17 (optional, cheap) — contract device + materialist provocation.
+2. Hobbes Leviathan 13–17 (optional, cheap) — contract device + materialist provocation. Suárez and Grotius at map level first: the natural-law tradition Hobbes writes against.
 3. Descartes Meditations I–III — non-negotiable main-line start.
 4. Locke Essay II.1, II.8, II.27 + Second Treatise selections — clearer second step pedagogically (Spinoza/Leibniz chronologically between, saved for later).
 5. Spinoza Ethics Part I guided + Appendix.
-6. Leibniz Monadology — "Spinoza's one substance pluralised into infinitely many".
+6. Leibniz Monadology — "Spinoza's one substance pluralised into infinitely many". Malebranche (map level) belongs beside Spinoza and Leibniz as the third Cartesian answer to mind–body interaction; Bayle and Voltaire (map level) after Leibniz, as his sharpest critics on evil and optimism.
 7. Du Châtelet Institutions (selections) — Newton rebuilt in French; argues with Leibnizian metaphysics as much as with Newton, so read after Leibniz.
 8. Berkeley Three Dialogues 1–2 — lands harder after Locke (critique from inside Locke's premises).
-9. Hume Enquiry — empiricist climax; §§4–7 slowly.
+9. Hume Enquiry — empiricist climax; §§4–7 slowly. Read the moral sense school (Shaftesbury, Hutcheson, Butler; map level) before Hume's moral philosophy.
 10. Adam Smith Theory of Moral Sentiments (selections) — Hume's moral sentiment developed into a system of sympathy and the impartial spectator.
 11. Rousseau Social Contract I–II (capstone political, anywhere after Locke) + Pascal selections (palate cleanser after Spinoza or before Kant).
-12. Kant Groundwork I–II, then Prolegomena — synthesis read last by design, illegible without Hume + rationalists.
+12. Kant Groundwork I–II, then Prolegomena — synthesis read last by design, illegible without Hume + rationalists. Hamann and Herder (map level) are Kant's first critics from inside the German Enlightenment.
 13. Wollstonecraft Vindication of the Rights of Woman (selections) — the rights argument answered back; read after Rousseau and Kant.
 14. Capstone optional/advanced: Critique of Pure Reason Aesthetic+Analytic guided; Ethics Parts II–V.
 Study tip (repo): for each figure learn (a) the one problem they're obsessed with, (b) their one signature move, (c) strongest objection from NEXT figure. Era is a conversation — sequence of replies is more durable than isolated systems.

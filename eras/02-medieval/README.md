@@ -35,16 +35,16 @@ Other recurring questions: proofs of God (Anselm, Avicenna, Aquinas, Scotus — 
 Recommended "reception order" (how ideas arrived/collided in Latin Europe):
 1. Augustine — sets every question; readable primary.
 2. Boethius — bridge; universals + foreknowledge.
-3. Eriugena — the Carolingian system-builder; Greek negative theology enters the Latin West (read after Boethius, whose Platonism he radicalizes).
+3. Eriugena — the Carolingian system-builder; Greek negative theology enters the Latin West (read after Boethius, whose Platonism he radicalizes). Read Pseudo-Dionysius' short *Mystical Theology* first: it is the source Eriugena translated.
 4. Anselm — first real argument; tiny texts + Gaunilo.
 5. Abelard — method era; universals round 2; intention ethics.
 6. Hildegard — the visionary counterpoint: knowledge by experience and authority, written from the cloister while the schools argue.
 7. Avicenna — chronologically overlaps Anselm, but Europe met him in 1100s; essence/existence + Necessary Existent + Floating Man now, because Aquinas presupposes them.
-8. Averroes and Maimonides in parallel — Aristotle-mediated voices Aquinas argues with by name; short entries exist (Decisive Treatise; Guide I selections).
+8. al-Ghazali, then Averroes and Maimonides in parallel — the *Incoherence of the Philosophers* is the attack Averroes answers; Aristotle-mediated voices Aquinas argues with by name; short entries exist (Decisive Treatise; Guide I selections).
 9. Aquinas — synthesis lands now (Five Ways, natural law, anti-Averroes).
 10. Scotus — subtle critique (univocity, haecceity, formal distinction, intuitive cognition).
 11. Ockham — dissolution; nominalism/parsimony as last move in universals game started with Boethius, and intuitive cognition against Scotus.
-12. Nicholas of Cusa — coda and hinge: learned ignorance gathers the era's faith/reason argument into a single doctrine of limits, and points toward the Renaissance.
+12. Christine de Pizan (*City of Ladies* Book I) and Meister Eckhart at map level, then Nicholas of Cusa — coda and hinge: learned ignorance gathers the era's faith/reason argument into a single doctrine of limits, and points toward the Renaissance.
 Alternative strict chronology: Augustine → Boethius → Eriugena → Avicenna → Anselm → Abelard → Hildegard → Averroes → Maimonides → Aquinas → Scotus → Ockham → Cusa (accurate, pedagogically harder).
 Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 
