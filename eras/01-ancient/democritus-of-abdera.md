@@ -81,7 +81,7 @@ Aristotle's criticisms set the agenda: atoms explain arrangement but not the *so
 1. Reconstruct atomism as an engineered answer to Parmenides: each atom has the properties B8 demands of Being, yet reality is many and moves. State exactly which Parmenidean premise the void forces Democritus to reject, and his justification for rejecting it.
 2. In fragment B125 the senses protest: "Wretched mind, do you take your proofs from us and then overthrow us? Our overthrow is your fall." Press this self-undermining objection, then reply using Democritus' distinction between "bastard" and "legitimate" knowledge.
 3. Compare Democritus with Empedocles: both keep eternal ingredients and explain change as rearrangement. What do atoms-and-void explain that four qualitative roots cannot — and what, if anything, do the roots explain better?
-4. Apply "by convention sweet, in reality atoms and void" (B9) to a color that looks different under different lighting. Is the color unreal, relational, or explained? Use Democritus' account of *eidōla* in your answer.
+4. Apply "by convention sweet … in reality, atoms and void" (B9) to a color that looks different under different lighting. Is the color unreal, relational, or explained? Use Democritus' account of *eidōla* in your answer.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

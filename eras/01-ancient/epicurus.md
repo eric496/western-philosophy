@@ -45,7 +45,7 @@ Epicurus does not deny the gods. He argues they exist as blessed, imperishable b
 
 ### Death is nothing to us
 
-The second remedy is the most quoted argument in the school: "Death is nothing to us, since when we are, death is not come, and when death is come, we are not" (Letter to Menoeceus §125, trans. Hicks). Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
+The second remedy is the most quoted argument in the school: "Death … is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not" (Letter to Menoeceus §125, trans. Hicks). Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
 
 ### Friendship, justice, and withdrawal
 
