@@ -117,7 +117,7 @@ Spinoza produced the era's most consistent **monism**: one substance, not Descar
 
 ## Impact and legacy
 
-For a century, "Spinozist" was largely an accusation. The recovery came in late eighteenth-century Germany: the *Pantheismusstreit* (pantheism controversy) over Lessing's alleged Spinozism made him central; Goethe revered him, and Hegel declared that "either Spinozism or no philosophy." He has since been reclaimed by philosophers of mind for dual-aspect parallelism, by environmental thinkers for a non-anthropocentric nature, by political and affect theorists (notably through Deleuze), and by free-will debates, where determinism-plus-redefined-freedom remains a live option. Einstein, asked about God, invoked Spinoza's.
+For a century, "Spinozist" was largely an accusation. The recovery came in late eighteenth-century Germany: the *Pantheismusstreit* (pantheism controversy) over Lessing's alleged Spinozism made him central; Goethe revered him, and Hegel declared that "either Spinozism or no philosophy." He has since been reclaimed by philosophers of mind for dual-aspect parallelism, by environmental thinkers for a non-anthropocentric nature, by political and affect theorists (notably through [Deleuze](../05-20th-century/gilles-deleuze.md)), and by free-will debates, where determinism-plus-redefined-freedom remains a live option. Einstein, asked about God, invoked Spinoza's.
 
 ## Criticisms and debates
 

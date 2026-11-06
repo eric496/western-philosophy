@@ -10,7 +10,7 @@
 
 - **Dates:** 1900–2002.
 - **Place:** Born in Marburg, Germany; professor at Leipzig, Frankfurt, and for most of his career Heidelberg.
-- **School/tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, Dilthey, and the classical tradition.
+- **School/tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, [Dilthey](../04-19th-century/dilthey-and-collingwood.md), and the classical tradition.
 - **Known for:** *Truth and Method* (1960) and the **fusion of horizons**: understanding as an event in which the interpreter's historically formed outlook and the text's or tradition's outlook merge into a new one.
 
 **Responds to:** [Heidegger](martin-heidegger.md), [Schleiermacher](../04-19th-century/friedrich-schleiermacher.md) · **Answered by:** [Habermas](jurgen-habermas.md), [Derrida](jacques-derrida.md), [Ricoeur](paul-ricoeur.md)

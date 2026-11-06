@@ -13,7 +13,7 @@
 - **School/tradition:** Rationalism
 - **Known for:** Monads and pre-established harmony, sufficient reason, the “best of all possible worlds,” and — independently of Newton — the calculus
 
-**Responds to:** [Locke](john-locke.md) · **Answered by:** [Kant](immanuel-kant.md), [Émilie du Châtelet](emilie-du-chatelet.md)
+**Responds to:** [Locke](john-locke.md) · **Answered by:** [Voltaire](bayle-and-voltaire.md), [Kant](immanuel-kant.md), [Émilie du Châtelet](emilie-du-chatelet.md)
 
 ## Biography
 
@@ -47,7 +47,7 @@ If two things shared *every* property, there would be no sufficient reason to pl
 
 Why would a perfect God permit evil? The *Theodicy* (1710) — the work that gave the genre its name — argues God chose the best among infinitely many possible worlds. “Best” is technical: the best *compossible package*. A world is a complete, mutually compatible set of things and events; some evils may be inseparable from a whole that is overall the best combination of variety, order, and perfection. Leibniz distinguishes metaphysical evil (finitude itself), physical evil (suffering), and moral evil (sin), and holds that God *permits* rather than wills evil, as a condition of the best whole.
 
-So the phrase does **not** mean every event is good, or that suffering should be passively approved. Voltaire’s *Candide* (1759), after the Lisbon earthquake, satirises a popularized, Panglossian version — brilliant satire of a vulgarization, not a refutation. Leibniz’s real difficulties lie in how finite minds could verify a global optimum, and whether “best” is coherent if worlds could improve indefinitely.
+So the phrase does **not** mean every event is good, or that suffering should be passively approved. [Voltaire’s](bayle-and-voltaire.md) *Candide* (1759), after the Lisbon earthquake, satirises a popularized, Panglossian version — brilliant satire of a vulgarization, not a refutation. Leibniz’s real difficulties lie in how finite minds could verify a global optimum, and whether “best” is coherent if worlds could improve indefinitely.
 
 ### Innate ideas as dispositions: the veined marble
 

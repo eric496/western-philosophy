@@ -13,7 +13,7 @@
 - **School/tradition:** Founder of the Academy; student of Socrates
 - **Known for:** Theory of Forms, philosopher-kings, systematic philosophy in dialogue form
 
-**Responds to:** [Socrates](socrates.md), [Heraclitus](heraclitus-of-ephesus.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Aristotle](aristotle.md), [Plotinus](plotinus.md), [Augustine](../02-medieval/augustine-of-hippo.md)
+**Responds to:** [Socrates](socrates.md), [Heraclitus](heraclitus-of-ephesus.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Aristotle](aristotle.md), [Plotinus](plotinus.md), [Augustine](../02-medieval/augustine-of-hippo.md), [Ficino](../03-early-modern/renaissance-humanists.md)
 
 **Focus study:** [Plato dossier](../../focus-studies/plato/README.md) — a full deep dive beyond this entry: the dialogues in the dossier's reading order, eleven argument reconstructions from the Euthyphro dilemma to the *Sophist* on falsehood, the Socratic problem and the unwritten-doctrines debate kept open, a six-week study plan, a card deck, and a narrated audio companion.
 
@@ -126,7 +126,7 @@ Plato essentially invents systematic philosophy in the West. The Presocratics wr
 
 ## Impact and legacy
 
-Aristotle founded a rival school in critical dialogue with him. In the 3rd century CE Plotinus refounded Platonism as Neoplatonism, which deeply shaped early Christian theology: St Augustine (354–430 CE) used Platonist ideas for Christian doctrines of God, soul, and evil, while rejecting reincarnation and the soul's pre-existence. In the early medieval West the *Timaeus*, in Calcidius' partial Latin translation, was the one dialogue continuously available and shaped cosmology disproportionately. The full corpus returned in the Renaissance with Marsilio Ficino's Latin translation (published 1484). "Platonism" still names, in philosophy of mathematics, the view that mathematical objects exist independently of minds. Politically, the *Republic* stands behind every later utopia — and behind Karl Popper's attack in *The Open Society and Its Enemies* (1945). Alfred North Whitehead's 1929 quip that European philosophy is "a series of footnotes to Plato" is, as the source entry notes, exaggerated but pointed.
+Aristotle founded a rival school in critical dialogue with him. In the 3rd century CE Plotinus refounded Platonism as Neoplatonism, which deeply shaped early Christian theology: St Augustine (354–430 CE) used Platonist ideas for Christian doctrines of God, soul, and evil, while rejecting reincarnation and the soul's pre-existence. In the early medieval West the *Timaeus*, in Calcidius' partial Latin translation, was the one dialogue continuously available and shaped cosmology disproportionately. The full corpus returned in the Renaissance with [Marsilio Ficino's](../03-early-modern/renaissance-humanists.md) Latin translation (published 1484). "Platonism" still names, in philosophy of mathematics, the view that mathematical objects exist independently of minds. Politically, the *Republic* stands behind every later utopia — and behind Karl Popper's attack in *The Open Society and Its Enemies* (1945). Alfred North Whitehead's 1929 quip that European philosophy is "a series of footnotes to Plato" is, as the source entry notes, exaggerated but pointed.
 
 ## Criticisms and debates
 

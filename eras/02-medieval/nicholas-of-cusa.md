@@ -13,11 +13,11 @@
 - **School/tradition:** Late medieval Latin Christianity, deeply shaped by Neoplatonism and by mathematics; a bridge figure to the Renaissance
 - **Known for:** *Learned ignorance* (*docta ignorantia*) and the *coincidence of opposites* (*coincidentia oppositorum*) — the claims that precise knowledge of God is impossible for us, and that in God all opposites are one
 
-**Responds to:** the Neoplatonic and Dionysian tradition he inherited, whose transmitters have no entry in this collection · **Answered by:** later readers such as Bruno and Kepler, who have no entry in this collection
+**Responds to:** the Neoplatonic and Dionysian tradition he inherited, whose transmitters have no entry in this collection · **Answered by:** [Giordano Bruno](../03-early-modern/renaissance-humanists.md) and later readers such as Kepler
 
 ## Biography
 
-Nicholas was born Nikolaus Krebs in 1401 at Kues, a wine-growing town on the Moselle; he took his Latin name, Cusanus, from the place. What is documented is a formidable education: a year at Heidelberg (1416), then Padua, where in 1423 he took a doctorate in canon law (the law of the Church) and studied with humanists and mathematicians, absorbing a lifelong love of geometry. A further year at Cologne exposed him to Albertist scholasticism and to the mystical tradition of Meister Eckhart.
+Nicholas was born Nikolaus Krebs in 1401 at Kues, a wine-growing town on the Moselle; he took his Latin name, Cusanus, from the place. What is documented is a formidable education: a year at Heidelberg (1416), then Padua, where in 1423 he took a doctorate in canon law (the law of the Church) and studied with humanists and mathematicians, absorbing a lifelong love of geometry. A further year at Cologne exposed him to Albertist scholasticism and to the mystical tradition of [Meister Eckhart](pseudo-dionysius-and-eckhart.md).
 
 His public career began with a failure that changed him. At the Council of Basel (opened 1431; Nicholas attended 1432–1437), assembled to reform the Church, Nicholas first supported the conciliarist position — that a general council outranks the pope — and wrote a major treatise, *On Catholic Concordance* (1433–34), to defend a harmoniously ordered Church and Empire. Frustrated by Basel's radicalism, he switched to the papal side in 1437 and became one of Pope Eugenius IV's most trusted diplomats: he traveled to Constantinople to bring the Greek delegation to the union council at Ferrara-Florence, and served as papal legate across Germany (the great legation of 1451–52), preaching reform and celebrating a jubilee.
 

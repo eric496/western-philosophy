@@ -12,7 +12,7 @@
 - **School/tradition:** Existential phenomenologist, novelist, and founder of modern feminist philosophy
 - **Known for:** *The Second Sex* (1949) and its claim that “one is not born, but rather becomes, a woman,” and for *The Ethics of Ambiguity* (1947)
 
-**Responds to:** [Sartre](jean-paul-sartre.md) · **Answered by:** Betty Friedan, Kate Millett and Judith Butler's generation of feminist theorists — outside this repo's entries
+**Responds to:** [Sartre](jean-paul-sartre.md) · **Answered by:** [Irigaray, Kristeva and Butler](feminist-philosophy-after-beauvoir.md); Betty Friedan and Kate Millett's generation of feminist theorists — outside this repo's entries
 
 ## Biography
 

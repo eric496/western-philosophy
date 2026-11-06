@@ -104,7 +104,7 @@ Foucault gave the humanities and social sciences a new object — the historical
 
 ## Impact and legacy
 
-Few modern thinkers traveled further outside philosophy. Judith Butler's account of gender performativity develops his account of how norms produce subjects. Readers of Edward Said used his idea of discourse while criticizing his Eurocentrism. Giorgio Agamben took biopolitics toward the camp and the state of exception. His work underpins surveillance studies, critical criminology and prison-abolition debates, histories of medicine and psychiatry, education research, and queer theory. In public argument "panoptic" is now default vocabulary for digital surveillance, and pandemic-era debates about public-health power were conducted, often unknowingly, in his terms.
+Few modern thinkers traveled further outside philosophy. [Judith Butler's](feminist-philosophy-after-beauvoir.md) account of gender performativity develops his account of how norms produce subjects. Readers of Edward Said used his idea of discourse while criticizing his Eurocentrism. Giorgio Agamben took biopolitics toward the camp and the state of exception. His work underpins surveillance studies, critical criminology and prison-abolition debates, histories of medicine and psychiatry, education research, and queer theory. In public argument "panoptic" is now default vocabulary for digital surveillance, and pandemic-era debates about public-health power were conducted, often unknowingly, in his terms.
 
 ## Criticisms and debates
 

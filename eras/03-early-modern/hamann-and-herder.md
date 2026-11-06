@@ -76,7 +76,7 @@ Herder spoke of a people's "spirit," "genius" or "national character." The singl
 
 ## Contributions
 
-Hamann made language, not consciousness, the place where philosophy must start, long before the twentieth-century "linguistic turn." Herder turned that insight into theses that, in Forster's judgment, founded the philosophy of language as we know it, and into a method of interpretation that Schleiermacher, Dilthey and Gadamer would build on. Herder also gave history and anthropology the principle that other cultures must be understood from inside before they are judged.
+Hamann made language, not consciousness, the place where philosophy must start, long before the twentieth-century "linguistic turn." Herder turned that insight into theses that, in Forster's judgment, founded the philosophy of language as we know it, and into a method of interpretation that Schleiermacher, [Dilthey](../04-19th-century/dilthey-and-collingwood.md) and Gadamer would build on. Herder also gave history and anthropology the principle that other cultures must be understood from inside before they are judged.
 
 ## Impact and legacy
 

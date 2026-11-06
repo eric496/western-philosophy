@@ -13,7 +13,7 @@
 - **School/tradition:** Utilitarianism (founder); legal and political reform
 - **Known for:** Founding modern utilitarianism — the principle that actions and laws are right insofar as they promote "the greatest happiness of the greatest number."
 
-**Responds to:** Blackstone's *Commentaries* and the unreformed English common law · **Answered by:** [J. S. Mill](john-stuart-mill.md), [Foucault](../05-20th-century/michel-foucault.md)
+**Responds to:** Blackstone's *Commentaries* and the unreformed English common law · **Answered by:** [J. S. Mill](john-stuart-mill.md), [H. L. A. Hart](../05-20th-century/h-l-a-hart.md), [Foucault](../05-20th-century/michel-foucault.md)
 
 ## Biography
 
