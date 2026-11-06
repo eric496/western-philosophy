@@ -23,14 +23,14 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 | [`focus-studies/`](focus-studies/) | Single-philosopher deep dives, built on request: a multi-file dossier per figure (life, works, system, arguments, conversations, reception, a week-by-week study plan, bibliography, and a figure-specific card deck). See [`focus-studies/README.md`](focus-studies/README.md) for how to request one |
 | [`themes.md`](themes.md) | The same history sideways: 9 recurring questions (metaphysics, epistemology, ethics, politics, mind, logic & language, aesthetics, religion, science) and who answered them |
 | [`glossary.md`](glossary.md) | 113 terms in plain language (*archē*, *eudaimonia*, *epoché*, *différance*, …) |
-| [`quotes-in-context.md`](quotes-in-context.md) | 37 famous lines with their exact source, speaker, wording and context, including well-known misattributions ("leap of faith", Durant's "we are what we repeatedly do") |
+| [`quotes-in-context.md`](quotes-in-context.md) | 46 famous lines with their exact source, speaker, wording and context, including well-known misattributions ("leap of faith", Durant's "we are what we repeatedly do") |
 | [`misconceptions.md`](misconceptions.md) | 52 errors to unlearn — Stoicism is not emotion suppression, Epicureanism is not indulgence, "God is dead" is a diagnosis, not a celebration |
 | [`timeline.md`](timeline.md) | Chronological list with signature concepts |
 | [`tracker.md`](tracker.md) | A checkbox for every figure |
 | [`sources.md`](sources.md) | SEP/IEP/Britannica entries, survey books (Kenny, Copleston, Adamson's [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/)), free course sources |
 | [`templates/philosopher-template.md`](templates/philosopher-template.md) | The entry template for adding new figures |
 | [`notes/`](notes/) | Space for your own study notes |
-| [`scripts/check_repo.py`](scripts/check_repo.py) | Offline consistency checks (relative links, index/tracker/timeline agreement, deck format, image sources); a ready-made GitHub Actions workflow ([`ci/checks.yml`](ci/checks.yml)) runs it on every push plus a weekly external-link sweep once it is copied to `.github/workflows/checks.yml` (adding a workflow file needs a GitHub token with the `workflow` scope, or the GitHub web editor) |
+| [`scripts/check_repo.py`](scripts/check_repo.py) | Offline consistency checks (relative links, index/tracker/timeline agreement, deck format, image sources, quotation drift, and the counts stated in the READMEs), plus an opt-in external-link sweep (`python3 scripts/check_repo.py --external`); a ready-made GitHub Actions workflow ([`ci/checks.yml`](ci/checks.yml)) runs it on every push plus a weekly external-link sweep once it is copied to `.github/workflows/checks.yml` (adding a workflow file needs a GitHub token with the `workflow` scope, or the GitHub web editor) |
 
 ## How the entries are written
 

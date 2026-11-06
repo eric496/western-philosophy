@@ -33,7 +33,7 @@ Aquinas's metaphysics is built from two Aristotelian pairs, deepened by Avicenna
 
 ### The Five Ways
 
-*Summa Theologiae* I, question 2, article 3 presents five compressed arguments, each moving from an observed feature of the world to a first principle "and this everyone understands to be God":
+*Summa Theologiae* I, question 2, article 3 presents five compressed arguments, each moving from an observed feature of the world to a first principle, ending with a formula such as the First Way's "and this everyone understands to be God":
 
 1. **Motion/change:** things are reduced from potency to act only by something already in act; in an essentially ordered series (each mover moving only insofar as it is moved here and now, like a hand–stick–stone series), there must be a first mover, itself unmoved.
 2. **Efficient causation:** no essentially ordered causal series can regress infinitely; there must be a first efficient cause.
