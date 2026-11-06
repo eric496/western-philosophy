@@ -4,6 +4,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 
 - **c.624–c.546 BCE — [Thales](eras/01-ancient/thales-of-miletus.md)** (Ancient / Milesian): archē, natural explanation
 - **c.570–c.495 BCE — [Pythagoras](eras/01-ancient/pythagoras.md)** (Ancient / Pythagorean): Number, harmony, soul
+- **c.570–c.428 BCE — [(Group entry) Xenophanes & Anaxagoras](eras/01-ancient/presocratic-pluralists.md)** (Ancient / Presocratic): Critique of anthropomorphic gods, Nous, a share of everything in everything
 - **c.540–c.480 BCE — [Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)** (Ancient / Presocratic): Flux, logos
 - **b. c.515 BCE — [Parmenides](eras/01-ancient/parmenides-of-elea.md)** (Ancient / Eleatic): Being, deductive argument
 - **c.490–c.430 BCE — [Zeno of Elea](eras/01-ancient/zeno-of-elea.md)** (Ancient / Eleatic): Paradoxes of motion and plurality
@@ -27,6 +28,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **c.800–c.877 — [John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (Medieval / Carolingian Neoplatonist): Division of nature, negative theology
 - **980–1037 — [Avicenna](eras/02-medieval/avicenna.md)** (Medieval / Islamic falsafa): Necessary Existent, Flying Man
 - **1033–1109 — [Anselm](eras/02-medieval/anselm-of-canterbury.md)** (Medieval / Scholastic): Ontological argument
+- **c.1058–1111 — [Al-Ghazali](eras/02-medieval/al-ghazali.md)** (Medieval / Islamic kalām & Sufism): Incoherence of the Philosophers, occasionalism
 - **1079–1142 — [Abelard](eras/02-medieval/peter-abelard.md)** (Medieval / Scholastic): Intention, conceptualism
 - **1098–1179 — [Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (Medieval / Visionary & Natural Philosophy): Viriditas, visionary cosmology
 - **1126–1198 — [Averroes](eras/02-medieval/averroes.md)** (Medieval / Islamic): Commentary, harmony of faith/reason
@@ -43,9 +45,11 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1618–1680 / 1623–1673 / 1631–1679 / 1666–1731 — [(Group entry) Elisabeth, Cavendish, Conway & Astell](eras/03-early-modern/early-modern-women-philosophers.md)** (Early Modern / Women Philosophers): Mind-body interaction, vitalist materialism, monism of spirit, women's education
 - **1623–1662 — [Blaise Pascal](eras/03-early-modern/blaise-pascal.md)** (Early Modern / French Moralist): Wager, diversion, limits of reason
 - **1632–1677 — [Spinoza](eras/03-early-modern/baruch-spinoza.md)** (Early Modern / Rationalist): One substance, Deus sive Natura
+- **1638–1715 — [Nicolas Malebranche](eras/03-early-modern/nicolas-malebranche.md)** (Early Modern / Cartesian): Occasionalism, vision in God, general volitions
 - **1632–1704 — [Locke](eras/03-early-modern/john-locke.md)** (Early Modern / Empiricist): White paper (no innate ideas), rights, toleration
 - **1646–1716 — [Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (Early Modern / Rationalist): Monads, sufficient reason
 - **1668–1744 — [Giambattista Vico](eras/03-early-modern/giambattista-vico.md)** (Early Modern / Philosophy of History): Verum factum, three ages, corsi e ricorsi
+- **1671–1752 — [(Group entry) Shaftesbury, Hutcheson & Butler](eras/03-early-modern/moral-sense-school.md)** (Early Modern / Moral Sense): Moral sense, benevolence against egoism, supremacy of conscience
 - **1685–1753 — [Berkeley](eras/03-early-modern/george-berkeley.md)** (Early Modern / Empiricist): Esse est percipi
 - **1689–1755 — [Montesquieu](eras/03-early-modern/montesquieu.md)** (Early Modern / Political Theory): Separation of powers, spirit of the laws
 - **1706–1749 — [Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (Early Modern / Newtonian): Hypotheses, vis viva
@@ -56,6 +60,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1723–1790 — [Adam Smith](eras/03-early-modern/adam-smith.md)** (Early Modern / Moral Philosophy): Sympathy, impartial spectator
 - **1724–1804 — [Kant](eras/03-early-modern/immanuel-kant.md)** (Early Modern / Critical): Categories, categorical imperative
 - **1729–1781 — [Lessing](eras/03-early-modern/gotthold-ephraim-lessing.md)** (Early Modern / German Enlightenment): Ring parable, "ugly broad ditch", Laocoön
+- **1730–1803 — [(Group entry) Hamann & Herder](eras/03-early-modern/hamann-and-herder.md)** (Early Modern / Counter-Enlightenment): Reason as language, metacritique of Kant, pluralism of cultures
 - **1729–1797 — [Edmund Burke](eras/03-early-modern/edmund-burke.md)** (Early Modern / Political Thought): The sublime, prescription, the little platoon
 - **1759–1797 — [Mary Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (Early Modern / Enlightenment Feminism): Rights of woman, education
 - **1748–1832 — [Bentham](eras/04-19th-century/jeremy-bentham.md)** (19th c. / Utilitarian): Utility principle

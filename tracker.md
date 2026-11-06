@@ -4,6 +4,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 
 - [ ] **[Thales](eras/01-ancient/thales-of-miletus.md)** (c.624–c.546 BCE) — archē, natural explanation
 - [ ] **[Pythagoras](eras/01-ancient/pythagoras.md)** (c.570–c.495 BCE) — Number, harmony, soul
+- [ ] **[(Group entry) Xenophanes & Anaxagoras](eras/01-ancient/presocratic-pluralists.md)** (c.570–c.428 BCE) — Critique of anthropomorphic gods, Nous, a share of everything in everything
 - [ ] **[Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)** (c.540–c.480 BCE) — Flux, logos
 - [ ] **[Parmenides](eras/01-ancient/parmenides-of-elea.md)** (b. c.515 BCE) — Being, deductive argument
 - [ ] **[Zeno of Elea](eras/01-ancient/zeno-of-elea.md)** (c.490–c.430 BCE) — Paradoxes of motion and plurality
@@ -27,6 +28,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[John Scotus Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c.800–c.877) — Division of nature, negative theology
 - [ ] **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — Necessary Existent, Flying Man
 - [ ] **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — Ontological argument
+- [ ] **[Al-Ghazali](eras/02-medieval/al-ghazali.md)** (c.1058–1111) — Incoherence of the Philosophers, occasionalism
 - [ ] **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Intention, conceptualism
 - [ ] **[Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (1098–1179) — Viriditas, visionary cosmology
 - [ ] **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Commentary, harmony of faith/reason
@@ -43,9 +45,11 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[(Group entry) Elisabeth, Cavendish, Conway & Astell](eras/03-early-modern/early-modern-women-philosophers.md)** (1618–1680 / 1623–1673 / 1631–1679 / 1666–1731) — Mind-body interaction, vitalist materialism, monism of spirit, women's education
 - [ ] **[Blaise Pascal](eras/03-early-modern/blaise-pascal.md)** (1623–1662) — Wager, diversion, limits of reason
 - [ ] **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — One substance, Deus sive Natura
+- [ ] **[Nicolas Malebranche](eras/03-early-modern/nicolas-malebranche.md)** (1638–1715) — Occasionalism, vision in God, general volitions
 - [ ] **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — White paper (no innate ideas), rights, toleration
 - [ ] **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Monads, sufficient reason
 - [ ] **[Giambattista Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — Verum factum, three ages, corsi e ricorsi
+- [ ] **[(Group entry) Shaftesbury, Hutcheson & Butler](eras/03-early-modern/moral-sense-school.md)** (1671–1752) — Moral sense, benevolence against egoism, supremacy of conscience
 - [ ] **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Esse est percipi
 - [ ] **[Montesquieu](eras/03-early-modern/montesquieu.md)** (1689–1755) — Separation of powers, spirit of the laws
 - [ ] **[Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (1706–1749) — Hypotheses, vis viva
@@ -56,6 +60,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — Sympathy, impartial spectator
 - [ ] **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Categories, categorical imperative
 - [ ] **[Lessing](eras/03-early-modern/gotthold-ephraim-lessing.md)** (1729–1781) — Ring parable, "ugly broad ditch", Laocoön
+- [ ] **[(Group entry) Hamann & Herder](eras/03-early-modern/hamann-and-herder.md)** (1730–1803) — Reason as language, metacritique of Kant, pluralism of cultures
 - [ ] **[Edmund Burke](eras/03-early-modern/edmund-burke.md)** (1729–1797) — The sublime, prescription, the little platoon
 - [ ] **[Mary Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — Rights of woman, education
 - [ ] **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — Utility principle

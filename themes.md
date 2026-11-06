@@ -9,6 +9,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 ## 1. Knowledge & Skepticism — What can we know, and how do we know it?
 
 - **[Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)** (c. 540–c. 480 BCE) — Eyes and ears are bad witnesses: sense reports mislead unless the soul grasps the *logos* structuring them.
+- **[Xenophanes](eras/01-ancient/presocratic-pluralists.md)** (c. 570–c. 478 BCE) — No one has seen the clear truth about the gods or anything else; inquiry finds the better over time, but certainty is not on offer.
 - **[Parmenides](eras/01-ancient/parmenides-of-elea.md)** (b. c. 515 BCE) — Trust reason, not the senses: deduction shows what-is cannot not-be; the perceived world is the way of mere opinion.
 - **[Zeno of Elea](eras/01-ancient/zeno-of-elea.md)** (c. 490–c. 430 BCE) — The paradoxes defend Parmenides by reductio: trust the argument that motion and plurality are impossible over the senses that report them.
 - **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — The senses deliver "bastard" knowledge of qualities that exist by convention; genuine knowledge reaches atoms and void by reason.
@@ -70,6 +71,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Mind (thinking, unextended) and body (extended, unthinking) are really distinct substances, united in the embodied human.
 - **[Elisabeth of Bohemia](eras/03-early-modern/early-modern-women-philosophers.md)** (1618–1680) — If the soul is unextended, how can it move the body? Contact needs extension, so Descartes owes an account of how an immaterial mind acts on matter.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Mind and body are one and the same thing conceived under the attributes of thought and extension — no interaction problem arises.
+- **[Malebranche](eras/03-early-modern/nicolas-malebranche.md)** (1638–1715) — Mind and body never act on each other: God is the only true cause, and we see ideas in God.
 - **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Windowless monads — perceiving, mind-like substances — keep body and soul in step by pre-established harmony, not causal traffic.
 - **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — There are no material bodies at all: only spirits, and the ideas they perceive, sustained in being by God's perception.
 - **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — No impression of a mental substance exists: the mind is a bundle of perceptions in perpetual flux.
@@ -95,6 +97,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 ## 3. God & Religion — Does God exist, and what follows for faith and reason?
 
 - **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — Number is divine order; philosophy itself is a purifying way of life within a religious brotherhood honoring cosmic harmony.
+- **[Xenophanes](eras/01-ancient/presocratic-pluralists.md)** (c. 570–c. 478 BCE) — If cattle had hands they would draw gods like cattle: the first critique of anthropomorphic religion, and one god "not at all like mortals."
 - **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The Demiurge fashions the cosmos looking to the Good; the *Laws* argues that gods exist, care for us, and cannot be bought.
 - **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — The unmoved mover — thought thinking itself — moves all things by being loved: theology crowns first philosophy.
 - **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — Gods exist as blessed, imperishable beings in the spaces between worlds — and take no notice of us whatever.
@@ -105,6 +108,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c. 800–c. 877) — God is the superessential Nothing from which nature proceeds and to which it returns, beyond every name we predicate.
 - **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — From the contingency of everything else: there must be a Necessary Existent, one and simple — the God of the philosophers.
 - **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — God is that than which nothing greater can be conceived; existing in reality is greater — so God exists.
+- **[Al-Ghazali](eras/02-medieval/al-ghazali.md)** (c. 1058–1111) — The philosophers' proofs fail on their own terms: the world is not eternal, God knows particulars, and fire does not burn cotton of itself.
 - **[Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (1098–1179) — God is known through vision: the living light speaks, and cosmology, medicine, and music all answer to what was seen.
 - **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Scripture and demonstration cannot conflict; where they seem to, scripture is read allegorically — the *Decisive Treatise* makes this a legal duty.
 - **[Maimonides](eras/02-medieval/maimonides.md)** (c. 1138–1204) — We can say only what God is *not*: any attribute shared with creatures would be a likeness where none exists.
@@ -159,6 +163,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "To live fittingly" is the great achievement: know yourself, moderate desire, and let the body's wisdom tutor the soul.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Provisional morality for the journey; the mature ethics crowns his system in *générosité* — the steady resolve to use one's freedom well.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — "Good" and "bad" name what aids or hinders our power of acting; freedom is understanding the affects, and its fruit is blessedness.
+- **[Shaftesbury, Hutcheson & Butler](eras/03-early-modern/moral-sense-school.md)** (1671–1752) — Against Hobbesian egoism: a moral sense approves benevolence, and conscience has a rightful authority over self-love.
 - **[Hume](eras/03-early-modern/david-hume.md)** (1711–1776) — Morals are founded on sentiment, not reason; sympathy, corrected by a general point of view, yields the catalogue of virtues.
 - **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — Conscience and pity precede reason; morality is recovered when self-love's corruptions are ordered by a common moral self.
 - **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — We judge ourselves through an imagined impartial spectator built up from sympathy; propriety, not utility alone, grounds praise and blame.
@@ -291,6 +296,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — Abstract general ideas are impossible: language seduces us into positing matter, and examining the words dissolves the phantom.
 - **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — A universal characteristic with a calculus of reasoning would let disputants simply say "let us calculate" — meaning made exact.
 - **[Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — Language is a nation's archive: etymology and poetic logic recover how early peoples thought in imaginative universals.
+- **[Hamann & Herder](eras/03-early-modern/hamann-and-herder.md)** (1730–1803) — Reason is language: thought lives in particular tongues, and each culture must be understood from within.
 - **[Schleiermacher](eras/04-19th-century/friedrich-schleiermacher.md)** (1768–1834) — All understanding is hermeneutics: misunderstanding is the default, so interpretation needs a double art — grammatical and psychological — moving in the circle between part and whole.
 - **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — Truths are metaphors worn smooth: language herds experience into common concepts and hides that every concept falsifies becoming.
 - **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Meaning is the conceivable practical effects of a thing; all thought is in signs — icon, index, symbol.

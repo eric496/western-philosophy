@@ -1,12 +1,13 @@
 # Philosopher Entry Files — Alphabetical
 
-Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 121 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
+Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 126 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
 
 - [Adam Smith](../eras/03-early-modern/adam-smith.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Alasdair MacIntyre](../eras/05-20th-century/alasdair-macintyre.md) — 20th Century to Present (1900 – )
 - [Albert Camus](../eras/05-20th-century/albert-camus.md) — 20th Century to Present (1900 – )
 - [Alexis de Tocqueville](../eras/04-19th-century/alexis-de-tocqueville.md) — 19th-Century Philosophy (1801 – 1900)
 - [Alfred North Whitehead](../eras/05-20th-century/alfred-north-whitehead.md) — 20th Century to Present (1900 – )
+- [Al-Ghazali](../eras/02-medieval/al-ghazali.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Anscombe & Foot](../eras/05-20th-century/anscombe-and-foot.md) — 20th Century to Present (1900 – )
 - [Anselm of Canterbury](../eras/02-medieval/anselm-of-canterbury.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Aristotle](../eras/01-ancient/aristotle.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
@@ -50,6 +51,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Gotthold Ephraim Lessing](../eras/03-early-modern/gotthold-ephraim-lessing.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Gottlob Frege](../eras/05-20th-century/gottlob-frege.md) — 20th Century to Present (1900 – )
 - [G.W.F. Hegel](../eras/04-19th-century/g-w-f-hegel.md) — 19th-Century Philosophy (1801 – 1900)
+- [Hamann and Herder](../eras/03-early-modern/hamann-and-herder.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Hanna Pitkin](../eras/05-20th-century/hanna-pitkin.md) — 20th Century to Present (1900 – )
 - [Hannah Arendt](../eras/05-20th-century/hannah-arendt.md) — 20th Century to Present (1900 – )
 - [Hans-Georg Gadamer](../eras/05-20th-century/hans-georg-gadamer.md) — 20th Century to Present (1900 – )
@@ -87,6 +89,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [Montesquieu](../eras/03-early-modern/montesquieu.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Niccolò Machiavelli](../eras/03-early-modern/niccolo-machiavelli.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Nicholas of Cusa](../eras/02-medieval/nicholas-of-cusa.md) — Medieval Philosophy (c. 400 – c. 1400)
+- [Nicolas Malebranche](../eras/03-early-modern/nicolas-malebranche.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Parmenides of Elea](../eras/01-ancient/parmenides-of-elea.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Paul Ricoeur](../eras/05-20th-century/paul-ricoeur.md) — 20th Century to Present (1900 – )
 - [Peter Abelard](../eras/02-medieval/peter-abelard.md) — Medieval Philosophy (c. 400 – c. 1400)
@@ -100,6 +103,7 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [René Descartes](../eras/03-early-modern/rene-descartes.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Robert Nozick](../eras/05-20th-century/robert-nozick.md) — 20th Century to Present (1900 – )
 - [Saul Kripke](../eras/05-20th-century/saul-kripke.md) — 20th Century to Present (1900 – )
+- [Shaftesbury, Hutcheson and Butler](../eras/03-early-modern/moral-sense-school.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Sidebars: Feuerbach & Stirner](../eras/04-19th-century/sidebars-feuerbach-and-stirner.md) — 19th-Century Philosophy (1801 – 1900)
 - [Simone de Beauvoir](../eras/05-20th-century/simone-de-beauvoir.md) — 20th Century to Present (1900 – )
 - [Simone Weil](../eras/05-20th-century/simone-weil.md) — 20th Century to Present (1900 – )
@@ -118,5 +122,6 @@ Standalone and grouped entry files, by era folder. The master index ([`../index.
 - [William of Ockham](../eras/02-medieval/william-of-ockham.md) — Medieval Philosophy (c. 400 – c. 1400)
 - [Wittgenstein, Early](../eras/05-20th-century/wittgenstein-early.md) — 20th Century to Present (1900 – )
 - [Wittgenstein, Late](../eras/05-20th-century/wittgenstein-late.md) — 20th Century to Present (1900 – )
+- [Xenophanes and Anaxagoras](../eras/01-ancient/presocratic-pluralists.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Zeno of Citium & the Stoics](../eras/01-ancient/zeno-of-citium-and-the-stoics.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
 - [Zeno of Elea](../eras/01-ancient/zeno-of-elea.md) — Ancient Philosophy (c. 600 BCE – c. 270 CE)
