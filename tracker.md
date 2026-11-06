@@ -82,6 +82,8 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (1807–1858) — Enfranchisement of women
 - [ ] **[Kierkegaard](eras/04-19th-century/soren-kierkegaard.md)** (1813–1855) — Stages, anxiety, subjective truth
 - [ ] **[Marx](eras/04-19th-century/karl-marx.md)** (1818–1883) — Alienation, surplus value, ideology
+- [ ] **[(Group entry) Dilthey & Collingwood](eras/04-19th-century/dilthey-and-collingwood.md)** (1833–1911 / 1889–1943) — Understanding vs explanation, lived experience, history as re-enactment
+- [ ] **[(Group entry) T. H. Green & F. H. Bradley](eras/04-19th-century/british-idealists.md)** (1836–1924) — Self-realization, positive freedom, the Absolute, internal relations
 - [ ] **[Franz Brentano](eras/04-19th-century/franz-brentano.md)** (1838–1917) — Intentionality
 - [ ] **[Henry Sidgwick](eras/04-19th-century/henry-sidgwick.md)** (1838–1900) — Methods of ethics, dualism of practical reason
 - [ ] **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Pragmatic maxim
@@ -108,6 +110,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — Verification principle
 - [ ] **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Bad faith, radical freedom
 - [ ] **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Action, banality of evil
+- [ ] **[H. L. A. Hart](eras/05-20th-century/h-l-a-hart.md)** (1907–1992) — Rule of recognition, internal point of view, legal positivism
 - [ ] **[Emmanuel Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — The Face, ethics as first philosophy
 - [ ] **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — The Other, situated freedom
 - [ ] **[Simone Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — Attention, affliction (malheur)
@@ -125,11 +128,13 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Mary Midgley](eras/05-20th-century/mary-midgley.md)** (1919–2018) — Human nature, anti-reductionism
 - [ ] **[Rawls](eras/05-20th-century/john-rawls.md)** (1921–2002) — Veil of ignorance, difference principle
 - [ ] **[(Group entry) Philosophy of Mind after Ryle](eras/05-20th-century/philosophy-of-mind-after-ryle.md)** (1956–) — Identity theory, functionalism, the Chinese Room, the hard problem
+- [ ] **[Gilles Deleuze](eras/05-20th-century/gilles-deleuze.md)** (1925–1995) — Difference and repetition, the virtual, rhizome, concepts as creations
 - [ ] **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Power/knowledge, discipline
 - [ ] **[Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — Practices, narrative, tradition
 - [ ] **[Bernard Williams](eras/05-20th-century/bernard-williams.md)** (1929–2003) — Moral luck, integrity, internal reasons
 - [ ] **[Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (1929–2020) — Violinist argument, trolley problem
 - [ ] **[Derrida](eras/05-20th-century/jacques-derrida.md)** (1930–2004) — Différance, binary oppositions
+- [ ] **[(Group entry) Irigaray, Kristeva & Butler](eras/05-20th-century/feminist-philosophy-after-beauvoir.md)** (b. 1930 / b. 1941 / b. 1956) — Sexual difference, the semiotic and abjection, gender as performative
 - [ ] **[Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md)** (1931–2023) — The concept of representation
 - [ ] **[Robert Nozick](eras/05-20th-century/robert-nozick.md)** (1938–2002) — Entitlement theory, the minimal state, the experience machine
 - [ ] **[Saul Kripke](eras/05-20th-century/saul-kripke.md)** (1940–2022) — Rigid designation, a posteriori necessity, Kripkenstein

@@ -82,6 +82,8 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1807–1858 — [Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (19th c. / Liberal Feminist): Enfranchisement of women
 - **1813–1855 — [Kierkegaard](eras/04-19th-century/soren-kierkegaard.md)** (19th c. / Proto-existentialist): Stages, anxiety, subjective truth
 - **1818–1883 — [Marx](eras/04-19th-century/karl-marx.md)** (19th c. / Historical Materialist): Alienation, surplus value, ideology
+- **1833–1911 / 1889–1943 — [(Group entry) Dilthey & Collingwood](eras/04-19th-century/dilthey-and-collingwood.md)** (19th–20th c. / Hermeneutics & Philosophy of History): Understanding vs explanation, lived experience, history as re-enactment
+- **1836–1924 — [(Group entry) T. H. Green & F. H. Bradley](eras/04-19th-century/british-idealists.md)** (19th c. / British Idealism): Self-realization, positive freedom, the Absolute, internal relations
 - **1838–1917 — [Franz Brentano](eras/04-19th-century/franz-brentano.md)** (19th c. / Descriptive Psychology): Intentionality
 - **1838–1900 — [Henry Sidgwick](eras/04-19th-century/henry-sidgwick.md)** (19th c. / Utilitarian): Methods of ethics, dualism of practical reason
 - **1839–1914 — [Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (19th c. / Pragmatist): Pragmatic maxim
@@ -108,6 +110,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1924–1936 — [(School entry) Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (20th c. / Logical Positivism): Verification principle
 - **1905–1980 — [Sartre](eras/05-20th-century/jean-paul-sartre.md)** (20th c. / Existentialist): Bad faith, radical freedom
 - **1906–1975 — [Arendt](eras/05-20th-century/hannah-arendt.md)** (20th c. / Political Theory): Action, banality of evil
+- **1907–1992 — [H. L. A. Hart](eras/05-20th-century/h-l-a-hart.md)** (20th c. / Philosophy of Law): Rule of recognition, internal point of view, legal positivism
 - **1906–1995 — [Emmanuel Levinas](eras/05-20th-century/emmanuel-levinas.md)** (20th c. / Ethics & Phenomenology): The Face, ethics as first philosophy
 - **1908–1986 — [Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (20th c. / Existential Feminist): The Other, situated freedom
 - **1909–1943 — [Simone Weil](eras/05-20th-century/simone-weil.md)** (20th c. / French Philosophy): Attention, affliction (malheur)
@@ -125,11 +128,13 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1919–2018 — [Mary Midgley](eras/05-20th-century/mary-midgley.md)** (20th c. / Moral Philosophy): Human nature, anti-reductionism
 - **1921–2002 — [Rawls](eras/05-20th-century/john-rawls.md)** (20th c. / Political Liberal): Veil of ignorance, difference principle
 - **1956– — [(Group entry) Philosophy of Mind after Ryle](eras/05-20th-century/philosophy-of-mind-after-ryle.md)** (20th–21st c. / Philosophy of Mind): Identity theory, functionalism, the Chinese Room, the hard problem
+- **1925–1995 — [Gilles Deleuze](eras/05-20th-century/gilles-deleuze.md)** (20th c. / Philosophy of Difference): Difference and repetition, the virtual, rhizome, concepts as creations
 - **1926–1984 — [Foucault](eras/05-20th-century/michel-foucault.md)** (20th c. / Genealogist): Power/knowledge, discipline
 - **1929–2025 — [Alasdair MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (20th c. / Virtue Ethics): Practices, narrative, tradition
 - **1929–2003 — [Bernard Williams](eras/05-20th-century/bernard-williams.md)** (20th c. / Ethics): Moral luck, integrity, internal reasons
 - **1929–2020 — [Judith Jarvis Thomson](eras/05-20th-century/judith-jarvis-thomson.md)** (20th c. / Ethics & Rights): Violinist argument, trolley problem
 - **1930–2004 — [Derrida](eras/05-20th-century/jacques-derrida.md)** (20th c. / Deconstruction): Différance, binary oppositions
+- **b. 1930 / b. 1941 / b. 1956 — [(Group entry) Irigaray, Kristeva & Butler](eras/05-20th-century/feminist-philosophy-after-beauvoir.md)** (20th–21st c. / Feminist Philosophy): Sexual difference, the semiotic and abjection, gender as performative
 - **1931–2023 — [Hanna Pitkin](eras/05-20th-century/hanna-pitkin.md)** (20th c. / Political Theory): The concept of representation
 - **1938–2002 — [Robert Nozick](eras/05-20th-century/robert-nozick.md)** (20th c. / Libertarian): Entitlement theory, the minimal state, the experience machine
 - **1940–2022 — [Saul Kripke](eras/05-20th-century/saul-kripke.md)** (20th c. / Analytic): Rigid designation, a posteriori necessity, Kripkenstein
