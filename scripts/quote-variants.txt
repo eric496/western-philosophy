@@ -19,3 +19,5 @@ nasty brutish and short
 history of early humans
 # Butler, Preface (1729) "Every thing is what it is"; Moore's epigraph prints "Everything"
 is what it is and not another thing
+# Descartes, Med. 2 (AT VII 25): Cottingham ("whenever it is put forward by me") in the entry and guide; Haldane & Ross ("each time that I pronounce it") in the dossier
+is necessarily true
