@@ -14,7 +14,8 @@ Recurring question: If inherited religion, timeless reason and traditional moral
 4. Schopenhauer: essays then WWR selections — after Hegel (deliberate anti-Hegel), before Nietzsche (begins as disciple).
 5. Kierkegaard: Fear and Trembling — after Hegel (target), alongside Schopenhauer as other anti-systematic inward turn.
 6. Nietzsche: Genealogy First Essay, then Gay Science selections — argues with almost everyone above.
-7. Peirce → James last (pedagogically, not importance): Peirce's two papers, then James Pragmatism Lectures 2, 6. Pragmatism as response to era's idealism/empiricism standoff.
+7. Map level, any time after Hegel: Green and Bradley (British Idealism, the target of Moore and Russell) and Dilthey (understanding vs explanation, the bridge to Gadamer).
+8. Peirce → James last (pedagogically, not importance): Peirce's two papers, then James Pragmatism Lectures 2, 6. Pragmatism as response to era's idealism/empiricism standoff.
 Stirner optional sidebar between 3 and 4.
 
 ## Dating nuances to preserve

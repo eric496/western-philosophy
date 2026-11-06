@@ -31,6 +31,8 @@ The library covers 140 figures. **You will not read 140 figures in depth, and th
 
 Core figures are marked ●, map-level figures ○, and map-level figures with an optional short primary excerpt worth doing if the stage is going well are marked ◐.
 
+**Map extensions (optional).** Twenty entries were added to the library after the stage budgets were set, and the stage tables now point to them at map level: Xenophanes and Anaxagoras and the late Neoplatonists (Stage 1); Pseudo-Dionysius and Eckhart, al-Ghazali, Christine de Pizan, and the Renaissance humanists (Stage 2); Suárez and Grotius, Malebranche, Bayle and Voltaire, the moral sense school, and Hamann and Herder (Stage 3); Green and Bradley, and Dilthey and Collingwood (Stage 4); Carnap, Sellars/Davidson/Putnam/Lewis, Du Bois and Fanon, Habermas, Hart, Deleuze, and Irigaray/Kristeva/Butler (Stage 5). At about 45 minutes per entry they add **≈15 hours** (Stage 1 ≈1.5, Stage 2 ≈3, Stage 3 ≈4, Stage 4 ≈1.5, Stage 5 ≈5) that are **not** in the §1.5 totals. Take them in buffer weeks, or skip them: no checkpoint or gate essay depends on them.
+
 ### 1.3 The three non-negotiables
 
 1. **Never meet Kant, Hegel, Heidegger or late Wittgenstein before their named predecessors.** Kant after Hume. Hegel after Kant (and Fichte at map level). Heidegger after Husserl at map level. *Philosophical Investigations* after *Tractatus* excerpts and the positivists it argues against. Starting with the famous hard book is the single most common way self-taught learners quit.
@@ -69,6 +71,8 @@ The plan's time comes in three components, and the headline is their sum — no 
 | 5. Twentieth Century to Present + Capstone | 13 | 60 | ~13 | +18 | 91 |
 | One-time tool setup (Stage 0, week 1 — §3.1) | — | — | — | — | +2 |
 | **Total** | **64 weeks** | **≈288 hrs** | **≈64 hrs** | **≈100 hrs** | **≈454 hrs** |
+
+The optional map extensions (§1.2) add ≈15 hours on top of these totals; they fit inside Calendar A's buffer weeks.
 
 Two calendars deliver the same 454 hours:
 
