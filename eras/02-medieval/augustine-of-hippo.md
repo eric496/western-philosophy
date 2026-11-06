@@ -45,6 +45,33 @@ Book 11 of the *Confessions* asks: what is time? The past no longer exists, the 
 
 In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* (II.3) already argues from self-awareness that one who can be deceived must exist, and *City of God* XI.26 gives it its famous form: "if I am deceived, I am" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
 
+## Signature arguments
+
+**Evil as privation (*Confessions* VII.12–16; *City of God* XII.6–7)**
+
+1. God, who is supremely good, made everything that exists, and everything he made is good; so every nature, insofar as it exists, is good.
+2. If evil were a substance, it would be either made by God, contradicting his goodness, or a rival first principle, as the Manichaeans held, contradicting his supremacy.
+3. So evil is not a substance but a *privation*: a lack, corruption, or disorder in something itself good, as blindness is the absence of sight in an eye that should see.
+4. An evil will has no efficient cause; it is a *deficient* movement, the will's own turning from higher goods to lower ones.
+Therefore, God authors no evil, and evil arises from creatures' disordered love; both God's goodness and creaturely responsibility are preserved.
+
+**Objection.** The privation account redescribes evil rather than explaining it. Critics such as G. Stanley Kane (1980) and Todd Calder (2007) argue that pain is a distinct experience that is positively bad, not merely the lack of pleasure, and that a sadist is not just short of kindness but positively delights in suffering. Those look like qualities evil things have, not qualities they lack.
+
+**Reply.** Augustine can grant that evil feels positive while insisting that what is positive in it belongs to the good nature being misused: the pleasure, energy, and cleverness of a cruel act are real goods, and the evil lies in their disordered arrangement, goods loved in the wrong order and to the wrong degree. The account's work is metaphysical: it explains how evil can exist in a world made wholly good without a second creator. Whether it fully answers the felt positivity of cruelty and pain remains a live debate.
+
+**Time as a distension of the soul (*Confessions* XI.14–28)**
+
+1. The past no longer exists and the future does not yet exist.
+2. The present has no duration: any stretch of it divides into a part already past and a part still to come, and if the present simply stayed, it would be eternity, not time.
+3. Yet we measure time: we judge one syllable, song, or life longer than another.
+4. What we measure must be present, so it can only be present in the mind: memory (the present of past things), attention (the present of present things), and expectation (the present of future things) (XI.20).
+5. Reciting a psalm shows the mechanism: expectation of the whole drains through attention into memory, and what we measure is the impression left in the mind (XI.27–28).
+Therefore, time is a *distentio animi*, a distension of the soul across memory, attention, and expectation, while God, who is eternal, sees all times in an unchanging present.
+
+**Objection.** Wittgenstein, taking up Augustine's question of what time is in the *Blue Book* and *Philosophical Investigations* §89, argued that the puzzle is conceptual: it arises from picturing the measurement of time on the model of measuring a length laid out before us, and should be dissolved by attending to how we use the word, not solved by locating time in the soul.
+
+**Reply.** Augustine's claim is about what measurement measures, not a denial that events happen in sequence outside the mind, and his account of memory, attention, and expectation describes how duration is actually experienced, which is why phenomenologists of time-consciousness took it as a starting point. Whether the puzzle is genuine metaphysics or a confusion of grammar, and whether time requires a mind at all, remain open.
+
 ## Key works
 
 - **Confessions** (c. 397–400) — spiritual autobiography through Book 9; Books 10–11 pivot to memory and time. The philosophical core of the Western autobiographical tradition.

@@ -67,6 +67,32 @@ This is his deepest legacy: philosophy as care of the self, a daily practice of 
 
 Socrates reported a divine sign — a voice, first heard in childhood — that intervened to oppose actions he was about to take, but never urged him forward. It stopped him entering politics, he says, which probably saved his life. At his trial its silence during his defense was, he argued, evidence that death was no evil. Interpreters ancient and modern have read the daimonion as conscience, as religious experience, as a literary device of Plato's, or as evidence of some psychological peculiarity. It resists tidy explanation and was literally a capital issue: it grounded the charge of introducing new divinities.
 
+## Signature arguments
+
+**The Euthyphro dilemma (*Euthyphro* 9e–11b)**
+
+1. Euthyphro proposes that the pious is what the gods love.
+2. Either the gods love the pious because it is pious, or it is pious because the gods love it.
+3. If they love it because it is pious, then being god-loved is something that happens to piety, not what piety is; it explains nothing about what makes an act pious.
+4. If it is pious because they love it, then piety rests on nothing but the gods' attitude, and would be arbitrary whim.
+5. Euthyphro himself grants the first horn: the gods love the pious because it is pious.
+Therefore, "loved by gods" fails as a definition of piety, and the inquiry ends in *aporia*, an honest impasse.
+
+**Objection.** The dilemma may be false. Modern divine command theorists, such as Robert Adams and William Alston, take a third way: what is good is grounded neither in a standard outside God nor in arbitrary decree, but in God's own necessarily good nature, from which his commands flow.
+
+**Reply.** Socrates' target is Euthyphro's many quarrelling gods, so the third way already changes the theology. Critics also argue that the dilemma returns one level up: is God's nature good because it meets a standard of goodness, or is it called good only because it is God's? Defenders such as Alston answer that God is not measured against the standard of goodness but is that standard, its paradigm. Whether that answer escapes the dilemma or merely renames it is still disputed in philosophy of religion.
+
+**No one does wrong willingly (*Meno* 77b–78b; *Protagoras* 352b–358d)**
+
+1. Everyone wants what is good for themselves; no one knowingly wants what will harm them, since that would be wanting to be miserable.
+2. People who pursue bad things do so because they take them to be good: they misjudge, as when we misjudge sizes at a distance.
+3. Someone who truly knows what is good will therefore do it; nothing, not even pleasure or passion, overpowers knowledge.
+Therefore, wrongdoing is ignorance and virtue is knowledge, and there is strictly no *akrasia*, no knowing the better and doing the worse.
+
+**Objection.** Aristotle, in *Nicomachean Ethics* VII.2, says this view "plainly contradicts the observed facts": people obviously act against what they know to be better, and most modern readers agree.
+
+**Reply.** Defenders say Socrates means full, present knowledge, not verbal assent: knowledge that something is bad which has no grip on action at the moment of choice was not full knowledge. Aristotle himself ends by granting that the akratic lacks knowledge in the fullest sense at that moment, so that Socrates' position partly survives. Whether this saves the doctrine or empties it, making "real knowledge always motivates" true by definition, is still argued.
+
 ## Key works
 
 Socrates wrote nothing. The "works" are portraits of him:

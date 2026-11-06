@@ -53,6 +53,32 @@ This is no side issue. Berkeley thinks abstraction generates material substance 
 
 Do things vanish when no human perceives them? No: God, an omnipresent eternal mind, perceives them continuously, so my desk persists when I leave my study. The order of nature is also God’s doing. Ideas of sense, unlike imagination, arrive unbidden, vivid, and law-governed; “laws of nature” are the regular grammar by which God presents ideas to us, and science studies that grammar. This is Berkeley’s payoff: materialism, he charged, supported skepticism and atheism, while immaterialism makes God the immediately governing presence in every perception. Tension: critics ask whether an unperceived God does the same work as the unperceived matter Berkeley rejected. He replies that we infer spirits, our own included, from their effects and by analogy with ourselves — a different, legitimate route.
 
+## Signature arguments
+
+**The master argument (*Principles* §§22–23; *Three Dialogues* I)**
+
+1. An idea, Berkeley's term for anything immediately perceived, can exist only in a perceiving mind.
+2. To show that a sensible thing could exist without the mind, one would have to conceive it existing unconceived.
+3. Try it: imagine a tree in a park with no one there to perceive it. You have only framed an idea of a tree while leaving out the idea of a perceiver, and all the while you yourself are conceiving the tree.
+4. So conceiving a tree existing unconceived is a contradiction: whatever you conceive is thereby conceived.
+Therefore, mind-independent existence for sensible things cannot even be conceived; for them, *esse est percipi*, to be is to be perceived.
+
+**Objection.** The argument slides from "I cannot conceive an unconceived object" to "no object can exist unconceived," and it runs together two things. George Pitcher (1977) put it this way: we need a thought in order to conceive of a tree, but what the thought is about, a tree standing alone in a forest, need not itself be a thought-of object. Many commentators conclude that the argument fails.
+
+**Reply.** A more charitable reading (Kenneth Winkler, Thomas Lennon) takes Berkeley's point to be that we cannot represent unconceivedness at all, because we have never experienced it and could not, so we have no way to form the idea of mind-independent existence. That reading avoids the conflation, but it depends on Berkeley's starting premise that all we immediately perceive are ideas. Whether the master argument is a fallacy or a profound point is still debated.
+
+**The collapse of the primary/secondary distinction (*Principles* §§9–15; *Three Dialogues* I)**
+
+1. Locke holds that secondary qualities (color, taste, sound) exist only as sensations in the mind, while primary qualities (extension, figure, motion, solidity) resemble qualities in objects themselves.
+2. Variability: shape and size vary with position and condition just as color does; a coin looks round from above and elliptical from the side, and apparent size changes with distance.
+3. Inseparability: no one can conceive extension or figure stripped of every sensible quality; a shape that is no color and tangible in no way leaves nothing to conceive.
+4. Whatever cannot be conceived apart from qualities that exist only in the mind must exist where they do.
+Therefore, primary qualities are in the mind as much as secondary ones, and the distinction gives material substance no foothold.
+
+**Objection.** The variability argument proves too little: one coin can have one true shape that merely looks different from different places. Berkeley states this objection himself in *Principles* §15, granting that the argument from variation shows only that the senses do not tell us which extension or color is the true one, not that there is none in an outward object.
+
+**Reply.** Berkeley places the weight on inseparability, backed by his attack on abstract ideas: if no idea of a bare shape can be framed at all, there is no coherent primary quality left over to sit in matter. Critics answer that selective attention may be enough: Berkeley himself allows that a geometer can consider a figure merely as a triangle without attending to its particular angles or sides (*Principles*, Introduction §16), so why not consider a shape without attending to its color? Whether inseparability in thought shows inseparability in being remains open in the scholarship.
+
 ## Key works
 
 - *An Essay Towards a New Theory of Vision* (1709) — Distance and size are not immediately seen but learned through touch; prepares the attack on abstraction.

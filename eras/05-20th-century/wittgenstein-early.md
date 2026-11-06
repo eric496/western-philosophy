@@ -63,6 +63,32 @@ The tone matters. In a 1919 letter to publisher Ludwig von Ficker, Wittgenstein 
 
 In the 5s, Wittgenstein argues the thinking subject is not an item *in* the world but a limit of it, much as the eye is not itself in the visual field. Properly understood, solipsism coincides with a kind of realism, and death is not an event within life. These compressed, contested remarks show the *Tractatus* was never only a logic textbook.
 
+## Signature arguments
+
+**The picture theory of meaning (*Tractatus*, 2.1–2.225 and 4.01–4.06)**
+
+1. The world is the totality of facts, not of things: a fact is a state of affairs that obtains, a combination of simple objects.
+2. A proposition with sense is a picture of a possible state of affairs: its names stand for objects, and the way the names are arranged presents a possible arrangement of those objects.
+3. A picture can depict only by sharing its *logical form* (its structure of possible combination) with what it depicts, as a musical score, a gramophone record and a performance share one internal structure.
+4. Whether the pictured arrangement actually obtains settles whether the proposition is true; a false proposition still pictures a possibility, so it is still meaningful.
+Therefore, to have sense is to picture a possible state of affairs, and every genuine factual proposition is bipolar: capable of being true and capable of being false.
+
+**Objection.** Frank Ramsey's colour-exclusion problem. Elementary propositions were supposed to be independent of one another, each true or false regardless of the rest. Yet colours exclude each other: "This is red and green all over" cannot be true, though colour statements seem to resist further analysis. The system then contains an exclusion that is neither a logical contradiction nor allowed by its own rules. A second pressure point: Wittgenstein never exhibited a single simple object.
+
+**Reply.** In the *Tractatus* (6.3751) Wittgenstein treated the exclusion as merely apparent, hoping analysis down to physics would expose a logical impossibility. Ramsey's review (1923) answered that the analysis still did not reach one. By "Some Remarks on Logical Form" (1929) Wittgenstein conceded that elementary propositions cannot all be independent, one of the pressures that brought him back to philosophy. On simples, defenders reply that the demand is structural, not an inventory; critics answer that a theory of meaning should not rest on items no one can exhibit. The core idea of picturing through shared form outlived the independence thesis; the system as first stated did not.
+
+**Saying, showing, and the ladder (*Tractatus*, 4.1212, 6.4–6.54, 7)**
+
+1. Only propositions that picture possible states of affairs have sense.
+2. Logical form cannot itself be pictured, since stating it would mean standing outside the form any statement must share; it shows itself in meaningful propositions instead: "What can be shown, cannot be said" (4.1212).
+3. Ethics, aesthetics and the meaning of the world as a whole are not facts within the world: "Ethics is transcendental" (6.421).
+4. The *Tractatus*'s own propositions, about pictures, form and the world as a whole, are not pictures of facts either.
+Therefore, what matters most can only be shown, the book's own sentences lack sense by its own standard, a ladder to climb and then throw away (6.54), and "What we cannot speak about we must pass over in silence" (7).
+
+**Objection.** Self-application. If the book's sentences lack factual sense, why trust them? A book that says so much about what cannot be said looks either self-refuting or evasive; Frank Ramsey put it as the quip that what cannot be said cannot be whistled either.
+
+**Reply.** Wittgenstein embraced the paradox with the ladder metaphor, and readers still divide over what that achieves. On the *traditional* (ineffability) reading, defended in different forms by P. M. S. Hacker and others, the book conveys genuine but unsayable truths about logical form and the mystical. On the *resolute* reading of Cora Diamond and James Conant, there are no ineffable truths at all: the sentences are plain nonsense, and the therapy is complete only when the reader stops trying to keep a theory. A middle range of readings exists too. Whether the ladder is profound consistency or evasion remains a live scholarly dispute.
+
 ## Key works
 
 - **Notebooks 1914–1916** (published posthumously, 1961) — The wartime notebooks from which the *Tractatus* grew; indispensable for seeing the ethical and religious concerns alongside the logic.

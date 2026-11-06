@@ -43,6 +43,32 @@ Frege's logicism holds that arithmetic is not synthetic knowledge grounded in Ka
 
 **Basic Law V** said, roughly, that two concepts have the same extension just when they apply to the same objects — it let every concept determine a set-like object. Russell's paradox showed this permits the set of all non-self-membered sets, which must both contain and not contain itself. Frege saw at once that the law, and with it his derivations, could not stand unamended. His appendix proposed restricting Law V, but the patch was later shown to fail. Frege himself, late in life, abandoned logicism and toyed with a geometrical foundation for arithmetic. The paradox did not destroy his logic: predicate logic and the sense/reference framework are independent of Law V. Type theory (Russell) and axiomatic set theory (Zermelo) were built largely as alternative responses to the same crisis — responses possible only because Frege had made the problem precise.
 
+## Signature arguments
+
+**The puzzle of identity and the sense–reference distinction ("On Sense and Reference," 1892)**
+
+1. The sentence "the Morning Star is the Evening Star" is an informative discovery; "the Morning Star is the Morning Star" is trivial — yet both are true, and both names refer to Venus.
+2. If all a name contributed to a sentence were its reference (the object it stands for), the two sentences would say the same thing and be equally informative.
+3. So a name contributes something more: a *mode of presentation* of its object — its sense (*Sinn*), as against its reference (*Bedeutung*).
+4. Sense is objective and shareable, not a private mental image, so it can be what speakers grasp in common.
+Therefore, signs have both sense and reference: the two names share a reference but differ in sense, which is why the identity is a discovery. The thought a sentence expresses is its sense — and in indirect contexts ("Galileo believed that…") words refer to their usual senses, which explains why co-referring names cannot always be swapped there.
+
+**Objection.** Russell rejected senses as needless intermediaries between words and things. Later, Kripke's causal theory of reference attacked the descriptivism often built on Frege: a name is not shorthand for a description, since we can refer to someone through a chain of communication while knowing nothing that uniquely identifies them.
+
+**Reply.** A Fregean can deny that a sense must be a description. Dummett and Evans defended revised Fregean senses, keeping the core idea that one object can be presented in different ways while dropping the assumption that each name abbreviates an identifying description. Defenders add that the identity puzzle still needs an answer on any theory of reference. How much of Frege's notion of sense survives is a live dispute, not a settled verdict.
+
+**Logicism: arithmetic from logic (*The Foundations of Arithmetic*, 1884)**
+
+1. Arithmetic is not synthetic knowledge grounded in Kantian intuition, nor empirical generalization (Mill), nor a description of mental processes.
+2. Ask for a word's meaning only in the context of a proposition (the context principle): so understood, a statement of number says something about a concept.
+3. Two concepts have the same number just when their instances can be paired one-to-one (now called Hume's Principle); the number belonging to a concept is defined as the extension of "equinumerous to that concept."
+4. Zero is the number of the concept "not identical with itself," and each successor is defined in turn, so the infinity of the number series becomes a theorem.
+Therefore, arithmetic is analytic: derivable from logic plus definitions.
+
+**Objection.** Russell's paradox (1902). The formal derivation in the *Grundgesetze* rests on Basic Law V, which lets every concept determine an extension; that permits the set of all sets that are not members of themselves, which must both contain and not contain itself. Frege's own repair failed, and he abandoned logicism late in life.
+
+**Reply.** Neo-Fregeans showed that Hume's Principle, added to second-order logic, suffices to derive the Peano axioms (Frege's Theorem), so the program can be run without Law V. Critics reply that Hume's Principle is not pure logic either, and that "bad company" principles formally like it are inconsistent. Whether logicism has been rescued or its assumption merely relocated is still debated.
+
 ## Key works
 
 - *Begriffsschrift* (1879) — The first complete predicate logic, presented in Frege's daunting two-dimensional notation; few read it, everyone inherited it.

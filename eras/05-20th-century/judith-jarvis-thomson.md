@@ -39,6 +39,32 @@ Thomson's own answers changed over time. She long defended a rights-based explan
 
 Across *The Realm of Rights* (1990) and her papers, Thomson defended a morality built from rights and claims rather than from maximizing good outcomes. Rights, on her account, are not decorative: to have a right is for others to be under obligations, and moral reasoning is largely about which claims people have against one another and when a claim may be infringed. (Her terms: any failure to accord someone a claim *infringes* their right; only a wrongful infringement *violates* it. Sometimes an infringement is justified, and compensation is then owed.) This framework drives both the abortion argument (a right to life does not automatically include a right to another's body) and the trolley analyses (the one on the side track has a claim not to be killed to save others — the question is its exact shape). She also wrote influentially on self-defense, arguing that even an innocent threat may sometimes be permissibly killed, and on goodness and reasons in *Goodness and Advice* (2001).
 
+## Signature arguments
+
+**The violinist argument ("A Defense of Abortion", 1971)**
+
+1. Grant, for the sake of argument, the opponent's strongest premise: the foetus is a person with a full right to life.
+2. You wake to find a famous unconscious violinist plugged into your circulation by a society of music lovers, because only your blood type can keep him alive for nine months; he too is a person with a right to life.
+3. Yet you are not obliged to stay plugged in: his right to life does not give him a right to use your body, since a right to life is not a right to everything one needs to live.
+4. Staying might be kind or decent, and unplugging might sometimes be callous, but what decency asks is not what morality requires as a matter of justice.
+Therefore, even if the foetus is a person, its right to life does not by itself oblige a pregnant woman to let it use her body; abortion can sometimes be permissible without denying foetal personhood.
+
+**Objection.** The case is disanalogous to most pregnancies. The violinist is a stranger forced on you by kidnappers, whereas the foetus is usually not a stranger, the mother's relation to it is special, and, except in rape, she may bear responsibility for its dependence. Mary Anne Warren (1973), herself a defender of abortion rights, argued on these grounds that the violinist case supports abortion only in a narrow range of cases such as rape.
+
+**Reply.** Thomson anticipated part of this in the paper itself, with cases meant to show that knowingly taking a risk, and taking precautions against it, need not give the one who then depends on you a right to your body. She also restricted parts of the argument herself. Whether the disanalogies defeat the argument or only narrow its scope is still debated; what the argument did permanently was to move abortion ethics beyond the single question of foetal personhood.
+
+**The trolley problem: bystander and footbridge ("The Trolley Problem", 1985)**
+
+1. In Foot's original case, a tram driver may steer onto a side track, killing one workman instead of five.
+2. In Thomson's bystander variant, a bystander at a switch may likewise divert the trolley from the five to the one, or so most people judge, and so Thomson long held.
+3. In the footbridge variant, pushing a large man into the trolley's path also saves five at the cost of one, yet most judge it impermissible.
+4. The numbers are identical in every case, so counting alone cannot explain why switching differs from pushing.
+Therefore, some principle beyond the numbers must explain the contrast; on Thomson's view it lies in the rights and claims of the one, above all his claim not to be killed to save others.
+
+**Objection.** No principle seems to capture the contrast without ad hoc machinery, and the sharpest critic of the bystander's permission was Thomson herself. In "Turning the Trolley" (2008) she argued that the bystander may not turn after all: the driver must choose between two harms his own vehicle will do, but the bystander who turns imposes a death on the one to save the five.
+
+**Reply.** Others defend the original judgment. Frances Kamm, for instance, proposes principles such as her Principle of Permissible Harm that preserve the bystander's permission while still forbidding the push. Whether any principle explains the switch/footbridge contrast without special pleading remains contested, and Thomson's late reversal ensured the problem stayed open rather than becoming a solved puzzle.
+
 ## Key works
 
 - "A Defense of Abortion" (1971) — The violinist argument; arguably the most reprinted philosophy paper of the twentieth century.

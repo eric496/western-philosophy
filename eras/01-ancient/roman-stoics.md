@@ -51,6 +51,32 @@ For Epictetus, Stoicism divides into disciplines of desire, action, and assent: 
 
 The old Stoic physics survives as an ethical frame: the universe is a rational, providential order (*logos*), and the human good is "living according to nature" — one's own rational nature and the nature of the whole. Hence the **cosmopolis**: every rational being is a fellow-citizen of one cosmic city, which grounds both Marcus' injunctions against anger at wrongdoers ("That which is not good for the swarm, neither is it good for the bee," *Meditations* 6.54, trans. Long) and Epictetus' role-ethics: we are each assigned parts — son, brother, citizen, slave, emperor — and excellence is playing one's part well. Seneca's *On Anger* adds the school's most developed applied topic: anger as temporary madness, a judgment to be corrected, never a tool of rule.
 
+## Signature arguments
+
+**Epictetus' dichotomy of control (*Enchiridion* 1)**
+
+1. Some things are up to us: our opinions, motivations, desires, and aversions, in a word whatever is our own doing.
+2. Other things are not up to us: our body, property, reputation, and office, whatever is not our own doing.
+3. Misery comes from craving or fearing what is not up to us, since those things can always be withheld or taken away.
+4. What is up to us, our own judgments and choices (*prohairesis*), cannot be taken from us by anyone else.
+Therefore, we are free and secure if we want only what is up to us and treat everything else as not ours to command.
+
+**Objection.** The charge of quietism. Hegel, in the *Phenomenology of Spirit*, judged Stoic freedom a freedom of thought only, the same whether one sits on a throne or lies in chains, and so indifferent to the actual conditions of life. If the enslaved Epictetus is free in his mind, has he been liberated, or merely consoled?
+
+**Reply.** The dichotomy is not passivity: it redirects effort wholly onto the part that is ours, including just and determined action in the world. Freedom, health, and fair treatment remain preferred indifferents, worth pursuing because they are according to nature, and the discipline of action requires justice toward others. Whether this answers the political charge, or only makes the inner refuge more active, is still disputed.
+
+**Disturbance comes from judgments, not things (*Enchiridion* 5, with 1)**
+
+1. As Epictetus puts it, "men are disturbed not by the things which happen, but by the opinions about the things."
+2. Test case: death is nothing terrible in itself, or it would have seemed so to Socrates; the terror lies in the judgment that death is terrible.
+3. Judgments are up to us: we can test each impression before assenting to it, as in *Enchiridion* 1: "You're an impression, and not at all what you appear to be."
+4. A disturbance that comes from our own judgment can be removed by changing that judgment, which no one else can prevent.
+Therefore, passions such as fear, grief, and anger can be retrained by correcting the judgments behind them, and we should blame neither others nor circumstances, but our own opinions.
+
+**Objection.** Passions are not just judgments. The Stoic Posidonius, as reported by Galen, noted that grief fades with time while the judgment that a loss is bad remains, and that children and animals show passions without the reasoned judgments the theory requires; so passions have an irrational source, and extirpating them may be neither humanly possible nor desirable.
+
+**Reply.** The Stoics answer that a passion is a fresh judgment that something is bad and that reacting is fitting, and freshness can fade. Involuntary jolts, the first movements Seneca discusses in *On Anger* II, are not yet passions because no assent has been given. So the Roman Stoics allow rational joy, affection, and grief corrected, not abolished. Whether this saves the cognitive theory remains debated, though cognitive behavioral therapy took Epictetus' dictum as its ancestor.
+
 ## Key works
 
 - Seneca, ***Letters to Lucilius*** (c. 62–65 CE) — 124 letters of moral coaching to a friend: time, death, wealth, reading, self-examination. The most readable entrance into Roman Stoicism.

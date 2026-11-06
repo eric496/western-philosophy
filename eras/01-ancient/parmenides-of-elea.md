@@ -43,6 +43,32 @@ The goddess is blunt: do not let habit force you down mortals' road, letting "an
 
 Parmenides' argument became a set of constraints on every successor. Any theory now had to explain apparent change *without* generation from nothing or annihilation into nothing. His pupil Zeno defended him with the famous paradoxes: grant plurality or motion, Zeno argued, and contradictions at least as bad follow. Melissus revised the doctrine, making Being infinite and incorporeal. The pluralists — Empedocles, [Anaxagoras](presocratic-pluralists.md), the atomists — accepted the ban on absolute generation while rescuing appearances: birth and death are really the mixing and separation of eternal ingredients. Democritus' atoms are Parmenidean Being chopped into infinitely many pieces, with the forbidden void smuggled back as "what is not" that nonetheless is.
 
+## Signature arguments
+
+**The routes of inquiry (fragments B2, B6, B7)**
+
+1. There are only two "routes of inquiry that are for thinking" (B2): *it is, and it is impossible for it not to be*, and *it is not, and it must not be*.
+2. Thought and speech require an object: to think or say is to think or say something that is.
+3. What is not is nothing, so it cannot be known, thought, or spoken of: "for neither can you know what is not (for it is not to be accomplished) nor can you declare it" (B2).
+4. The third route, mortals' confused wandering between *is* and *is not*, relies on the senses, but we must "judge by reason (*logos*)" (B7), not by "an aimless eye and an echoing ear".
+Therefore, only the route *it is* can be followed; what is not cannot be in any way, and reason, not perception, decides what is real.
+
+**Objection.** Plato's *Sophist* argues that the move from "we cannot think of what is not" to "what is not cannot be in any way" is an equivocation. "What is not" can mean *different from* something, not *nothing at all*: a horse is not a man without being nothing. On that reading false speech, plurality and change remain possible.
+
+**Reply.** A Parmenidean can answer that Plato's distinction concedes the main point: the *Sophist* explicitly sets aside the opposite of being, absolute non-being, and leaves the ban on it in place. Modern scholars also dispute which sense of *is* the goddess means (existence, predication, or truth), and on some readings Plato's "difference" falls outside the original target. Whether the *Sophist* refutes Parmenides or only narrows his argument is still debated.
+
+**The signs of Being (fragment B8)**
+
+1. If what is came to be, it came either from what is not or from what is.
+2. It cannot come from what is not, since nothing comes from nothing; nor from what is, since then it already existed. So it is ungenerated and, by parallel reasoning, imperishable.
+3. No gaps of "what is not" can divide it, so it is indivisible and homogeneous, "all full of what-is".
+4. Change would require becoming what it is not, and motion would require empty space to move into; neither is possible.
+Therefore, reality is one, eternal, uniform, complete and unchanging Being, and the plurality, motion, birth and death the senses report are impossible.
+
+**Objection.** The argument proves too much, abolishing the world it should explain. Aristotle, in *Physics* I.7–8, diagnosed the error: a thing comes to be not from sheer non-being but from what it is not yet in actuality, as an unmusical man becomes musical, so change needs no generation from nothing. The pluralists answered differently, making birth and death the mixing and separation of eternal ingredients.
+
+**Reply.** These replies largely accept Parmenides' premises about generation and destruction, which shows the argument's force: every later theory had to explain apparent change without anything coming from nothing or vanishing into nothing. Whether Aristotle's distinction of senses of "being", potential and actual, dissolves the Eleatic puzzle or simply takes for granted the change Parmenides questioned is still discussed.
+
 ## Key works
 
 - ***On Nature* (conventional title), early–mid 5th century BCE:** a didactic poem in hexameters. The proem (B1), routes argument (B2, B6, B7), and most of the Way of Truth including B8 survive, chiefly through Simplicius. The Way of Opinion survives only in fragments. Nothing else by him is known.

@@ -51,6 +51,32 @@ The second remedy is the most quoted argument in the school: "Death … is nothi
 
 Friendship is the greatest security a life can have, and the Garden embodied it. Justice, by contrast, has no absolute existence: it is a mutual agreement neither to harm nor be harmed, valuable because it removes fear, and it changes when circumstances make an agreement useless. Politically this counsels caution: ambition breeds rivals and anxiety, so the sage will generally "live unnoticed." The tension is between prizing communal friendship and retreating from the wider city.
 
+## Signature arguments
+
+**Death is nothing to us (*Letter to Menoeceus* §124–125)**
+
+1. Good and evil require sensation: something can be good or bad for you only if you can be aware of it.
+2. Death is the dissolution of the atomic compound that makes sensation possible, and so the privation of all awareness.
+3. While we exist, death is not present; once death is present, we no longer exist.
+4. So there is never a time when a subject and its death meet, and no one is left for death to harm.
+Therefore, being dead is nothing to us, and fearing it, as if we would be present to endure darkness or judgment, is a mistake that philosophy can cure.
+
+**Objection.** The deprivation account, classically stated by Thomas Nagel in his 1970 essay *Death*, denies premise 1: a harm need not be felt. Death is bad for the person who dies because it takes away the goods their life would otherwise have contained, whether or not that loss is ever experienced.
+
+**Reply.** The Epicurean side can invoke Lucretius' symmetry argument (*On the Nature of Things* III): the eternity after death is a mirror of the eternity before birth, and no one dreads the time before they were born, so the time after death is no more to be dreaded. Deprivation theorists answer that the two are not symmetrical, since we can lose future goods but could not have been born much earlier and still been ourselves; Epicureans press when such a harm could occur, if not while one lives and not after. The debate is still live, and Epicurus' sensation-based premise does not by itself settle it.
+
+**The limit of pleasure and the sorting of desires (*Letter to Menoeceus* §127–132; *Principal Doctrines* 18, 29)**
+
+1. Pleasure is the goal of life; every choice and avoidance aims at it.
+2. The highest pleasure is a stable condition, not a spike of stimulation: *aponia*, no pain in the body, and *ataraxia*, no disturbance in the mind.
+3. Once pain and fear are removed, pleasure "admits no increase"; luxury can only vary it, not add to it.
+4. Natural and necessary desires (food, shelter, friendship) are easy to satisfy; natural but unnecessary ones (luxurious food) and empty ones (fame, unlimited wealth, power) bring expense, dependence, and anxiety.
+Therefore, the pleasant life is the simple one: satisfy natural and necessary desires, weigh every choice by its net pleasure over a whole life, and let empty desires go.
+
+**Objection.** Ancient rivals, the Stoics and Cicero above all (*On Ends* II), objected that a painless condition is not pleasure at all but a neutral state between pleasure and pain, so Epicurus' highest pleasure is pleasure in name only, and a life aimed at it is defined negatively, by what it avoids.
+
+**Reply.** Epicurus distinguishes "katastematic" (static) pleasure, the felt condition of a body and mind working without pain or fear, from *kinetic* pleasures of change such as eating when hungry; the static state is itself enjoyed, not merely the absence of something, so ataraxia is grateful enjoyment, not numbness. Whether static pleasures can really outrank active enjoyments remains a modern debate.
+
 ## Key works
 
 - **Letter to Menoeceus** (date uncertain; preserved in Diogenes Laertius X) — The short ethics letter: pleasure, desire, death, and the gods. The best primary text to start with.

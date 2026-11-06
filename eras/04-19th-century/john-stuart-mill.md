@@ -49,6 +49,32 @@ Two blemishes must be faced squarely. Mill restricts the principle to adults in 
 
 Written in 1861 and published 1869, *The Subjection of Women* argues that the legal subordination of women "is wrong in itself, and now one of the chief hindrances to human improvement" — a relic of the law of force with no surviving justification. Mill insists we cannot know women's "nature" from behavior produced under subordination (an epistemically sophisticated point), defends equal education, professions, property, and the vote on grounds of both justice and social utility, and anatomises marriage as the remaining institution of domestic despotism. Mill credited Harriet Taylor Mill at the argument's root: the 1851 essay "The Enfranchisement of Women" — published under his name, now generally attributed primarily to Harriet — had made the case nearly two decades before.
 
+## Signature arguments
+
+**The harm principle (*On Liberty*, ch. 1)**
+
+1. Society's power over an individual — through law or through the pressure of opinion, the "tyranny of the majority" — always needs a justification.
+2. A competent adult's own good, physical or moral, is not a sufficient warrant for compelling them: over their own body and mind the individual is sovereign.
+3. Preventing harm to others is a sufficient warrant, and *harm* here does not include mere offense, dislike, or moral disapproval.
+4. Persuasion, argument, and criticism are not compulsion, and remain open even for conduct that harms no one.
+Therefore, the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others — Mill's "one very simple principle."
+
+**Objection.** Fitzjames Stephen attacked *On Liberty* in Mill's own lifetime (*Liberty, Equality, Fraternity*, 1873), arguing that law and social pressure legitimately restrain vice and promote virtue. Later critics add that the principle is indeterminate: very little conduct is purely self-regarding, as Mill concedes in chapter 4, so everything turns on what counts as harm — and offense, risk, and nudging are exactly the hard cases.
+
+**Reply.** Mill can grant that applying the boundary takes judgment while insisting the principle still disciplines it: it puts the burden of proof on whoever proposes compulsion, and it rules out a whole class of reasons: compelling someone for their own good, or because the majority disapproves. His chapter 4 cases (compelling testimony, fair shares of common burdens) enforce duties owed to others, not paternalism. Whether that is determinate enough for the hard cases remains a live dispute.
+
+**Higher and lower pleasures (*Utilitarianism*, ch. 2)**
+
+1. Happiness is pleasure and the absence of pain, but pleasures differ in quality as well as quantity.
+2. The test of quality is the preference of competent judges — those who have experienced both kinds of pleasure.
+3. Competent judges prefer the pleasures of intellect, imagination, and moral feeling to those of mere sensation, even at the cost of greater discontent.
+4. A preference formed by experience of both kinds is evidence of greater value, not just of taste.
+Therefore, the utilitarian standard must weigh quality as well as quantity: it is "better to be Socrates dissatisfied than a fool satisfied."
+
+**Objection.** Either the test is circular (if competent judges are just those who prefer higher pleasures, premise 3 is true by definition), or it abandons hedonism: if higher pleasures win regardless of amount, something other than pleasure — dignity, the exercise of human faculties — is setting the standard. Mill's later critics, among them Sidgwick, Bradley, Green, and Moore, all pressed the hedonism charge.
+
+**Reply.** Competence is defined by experience of both kinds, not by the verdict reached, so premise 3 is an empirical claim that experienced judges could falsify. And Mill can say the higher pleasures are preferred because of the kind of pleasure they are, not because of some separate value. Whether that reconciles quality with hedonism, or only restates the problem, is one of the most debated questions in Mill scholarship.
+
 ## Key works
 
 - *A System of Logic* (1843) — Empiricist logic and induction; the book that made his reputation.
