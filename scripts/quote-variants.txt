@@ -1,0 +1,11 @@
+# Phrases whose quotations may legitimately differ between files, one per line.
+# A quotation containing any of these (lower case, punctuation removed) is
+# skipped by the quotation-drift check in check_repo.py.
+#
+# Example sentences that differ only by "not" (Russell, Strawson, Frege)
+present king of france is
+morning star is the
+# quotes-in-context.md sets rival translations side by side
+what does not kill me
+which does not kill me
+two things fill the mind

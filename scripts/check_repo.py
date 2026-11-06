@@ -9,6 +9,10 @@ Checks:
   4. Every card deck (*.tsv) has exactly 3 tab-separated columns per row.
   5. Portrait images come from Wikimedia Commons (not English Wikipedia's
      local fair-use uploads under /wikipedia/en/).
+  6. No quote-collection website is cited as a source.
+  7. No curly quotation mark is closed by a straight one, or the reverse.
+  8. No quotation appears in two places in different words (quotation drift).
+     Intended variants are listed in scripts/quote-variants.txt.
 
 Run from anywhere:  python3 scripts/check_repo.py
 """
@@ -125,6 +129,79 @@ for path in md_files():
     for m in re.finditer(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", open(path, encoding="utf-8").read()):
         if "/wikipedia/en/" in m.group(1):
             err(f"{path}: image is an English-Wikipedia local (usually fair-use) upload: {m.group(1)}")
+
+# 6. quote-collection websites are never a source
+QUOTE_SITES = re.compile(r"goodreads\.com|azquotes\.com|brainyquote\.com|quotefancy\.com", re.I)
+for path in md_files():
+    for n, line in enumerate(open(path, encoding="utf-8"), 1):
+        if QUOTE_SITES.search(line):
+            err(f"{path}:{n}: cites a quote-collection website; cite the work itself")
+
+# 7. mismatched quotation marks: a curly quote closed by a straight one, or the reverse
+MIXED = re.compile(r"“[^”\"\n]*\"|\"[^\"“”\n]*”")
+text_files = md_files() + sorted(glob.glob("**/*.tsv", recursive=True))
+for path in text_files:
+    for n, line in enumerate(open(path, encoding="utf-8"), 1):
+        if MIXED.search(strip_code(line)):
+            err(f"{path}:{n}: mismatched curly and straight quotation marks")
+
+# 8. quotation drift: the same quotation worded differently in two places.
+# Punctuation, capitals and italics are ignored, and so is quoting a shorter
+# stretch of the same passage. Intended differences (examples that differ
+# only by "not", or a list of rival translations) go in scripts/quote-variants.txt.
+QUOTE = re.compile(r"\"(\S[^\"\n]{28,398}\S)\"|“(\S[^”\n]{28,398}\S)”")
+variants_file = "scripts/quote-variants.txt"
+VARIANTS = []
+if os.path.exists(variants_file):
+    VARIANTS = [l.strip().lower() for l in open(variants_file, encoding="utf-8")
+                if l.strip() and not l.startswith("#")]
+
+
+def qnorm(s):
+    s = re.sub(r"[^a-z0-9 ]", " ", s.lower().replace("’", "").replace("'", ""))
+    return re.sub(r"\s+", " ", s).strip()
+
+
+quotes = []
+for path in text_files:
+    if path.startswith("templates/"):
+        continue
+    for n, line in enumerate(open(path, encoding="utf-8"), 1):
+        for m in QUOTE.finditer(strip_code(line)):
+            raw = m.group(1) or m.group(2)
+            q = qnorm(raw)
+            # Pieces between ellipses, so an elided quotation still matches.
+            parts = [qnorm(x) for x in re.split(r"\.\.\.|…|\[\.\.\.\]", raw) if qnorm(x)]
+            if len(q.split()) >= 8 and not any(v in q for v in VARIANTS):
+                quotes.append((q, path, n, parts))
+
+grams = {}
+for i, (q, _, _, _) in enumerate(quotes):
+    w = q.split()
+    for k in range(len(w) - 3):
+        grams.setdefault(" ".join(w[k:k + 4]), set()).add(i)
+
+import difflib  # noqa: E402
+
+pairs = set()
+for ids in grams.values():
+    if 1 < len(ids) <= 40:
+        ids = sorted(ids)
+        pairs.update((a, b) for x, a in enumerate(ids) for b in ids[x + 1:])
+for a, b in sorted(pairs):
+    qa, qb = quotes[a][0], quotes[b][0]
+    if qa in qb or qb in qa:
+        continue
+    if all(x in qb for x in quotes[a][3]) or all(x in qa for x in quotes[b][3]):
+        continue
+    short, long_ = sorted((qa, qb), key=len)
+    sm = difflib.SequenceMatcher(None, short, long_, autojunk=False)
+    m = sm.find_longest_match(0, len(short), 0, len(long_))
+    start = max(0, m.b - m.a)
+    window = long_[start:start + len(short) + 10]
+    if difflib.SequenceMatcher(None, short, window, autojunk=False).ratio() >= 0.85:
+        err(f"quotation drift: {quotes[a][1]}:{quotes[a][2]} and {quotes[b][1]}:{quotes[b][2]} "
+            f"quote the same passage in different words")
 
 for e in errors:
     print("ERROR:", e)
