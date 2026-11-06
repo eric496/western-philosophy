@@ -22,7 +22,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 | [`study/`](study/) | Work-level study guides (21), worked answer keys for the core entries' study questions, and Anki card decks — chapter/section guides with argument reconstructions, checkpoint questions and answers, and common misreadings |
 | [`focus-studies/`](focus-studies/) | Single-philosopher deep dives, built on request: a multi-file dossier per figure (life, works, system, arguments, conversations, reception, a week-by-week study plan, bibliography, and a figure-specific card deck). See [`focus-studies/README.md`](focus-studies/README.md) for how to request one |
 | [`themes.md`](themes.md) | The same history sideways: 9 recurring questions (metaphysics, epistemology, ethics, politics, mind, logic & language, aesthetics, religion, science) and who answered them |
-| [`glossary.md`](glossary.md) | 84 terms in plain language (*archē*, *eudaimonia*, *epoché*, *différance*, …) |
+| [`glossary.md`](glossary.md) | 113 terms in plain language (*archē*, *eudaimonia*, *epoché*, *différance*, …) |
 | [`quotes-in-context.md`](quotes-in-context.md) | 37 famous lines with their exact source, speaker, wording and context, including well-known misattributions ("leap of faith", Durant's "we are what we repeatedly do") |
 | [`misconceptions.md`](misconceptions.md) | 52 errors to unlearn — Stoicism is not emotion suppression, Epicureanism is not indulgence, "God is dead" is a diagnosis, not a celebration |
 | [`timeline.md`](timeline.md) | Chronological list with signature concepts |
