@@ -17,7 +17,7 @@
 - **School/tradition:** Western Marxism, critical theory
 - **Known for:** Asking why Enlightenment reason and mass culture produced domination instead of freedom — the dialectic of Enlightenment and the culture industry
 
-**Responds to:** [Marx](../04-19th-century/karl-marx.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** later critical theorists and media scholars — debate ongoing
+**Responds to:** [Marx](../04-19th-century/karl-marx.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [Habermas](jurgen-habermas.md), later critical theorists and media scholars — debate ongoing
 
 ## Biography
 

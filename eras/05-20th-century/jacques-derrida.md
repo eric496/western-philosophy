@@ -13,7 +13,7 @@
 - **School/tradition:** Phenomenology, post-structuralism
 - **Known for:** Founding deconstruction — a reading practice showing how texts depend on oppositions they cannot keep stable — and *différance*, how meaning works by difference and deferral
 
-**Responds to:** [Levinas](emmanuel-levinas.md), [Foucault](michel-foucault.md), [Gadamer](hans-georg-gadamer.md) · **Answered by:** his critics across the analytic–continental divide — debate ongoing, no single entry in this repo
+**Responds to:** [Levinas](emmanuel-levinas.md), [Foucault](michel-foucault.md), [Gadamer](hans-georg-gadamer.md) · **Answered by:** [Habermas](jurgen-habermas.md) (*The Philosophical Discourse of Modernity*, 1985) and critics across the analytic–continental divide — debate ongoing in this repo
 
 ## Biography
 
