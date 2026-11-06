@@ -256,7 +256,7 @@ instead of quoting.
 - **Entry:** [Sartre](eras/05-20th-century/jean-paul-sartre.md)
 
 ### "One is not born, but rather becomes, a woman"
-- **Source:** Beauvoir, *The Second Sex* (*Le Deuxième Sexe*), Volume II, opening line (1949); French original "On ne naît pas femme: on le devient," English wording cross-checked against the Routledge Encyclopedia of Philosophy's citation of the standard translation
+- **Source:** Beauvoir, *The Second Sex* (*Le Deuxième Sexe*), Volume II, opening line (1949); French original "On ne naît pas femme: on le devient," English wording from H. M. Parshley's 1953 translation; the 2010 Borde and Malovany-Chevallier translation, which the study guide uses, drops the article: "One is not born, but rather becomes, woman"
 - **Speaker:** Beauvoir, in her own voice
 - **Exact wording:** "One is not born, but rather becomes, a woman. No biological, psychological, or economic fate determines the figure that the human female presents in society; it is civilization as a whole that produces this creature, intermediate between male and eunuch, which is described as feminine."
 - **Context:** This opens Beauvoir's argument that "woman," as a social role and identity, is produced by society acting on a female body — not that biological sex itself is unreal or irrelevant, and not a claim about gender identity in the sense that later debates use the term. Her larger framework treats woman as cast in the position of "the Other" relative to a male-default "humanity," a structural claim about how one group has historically defined itself against another.
