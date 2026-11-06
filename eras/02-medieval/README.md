@@ -65,6 +65,7 @@ Exam recap: re-place all thirteen on universals table + faith/reason spectrum.
 - [Boethius](boethius.md)
 - [John Scotus Eriugena](john-scotus-eriugena.md)
 - [Anselm of Canterbury](anselm-of-canterbury.md)
+- [Al-Ghazali](al-ghazali.md)
 - [Peter Abelard](peter-abelard.md)
 - [Hildegard of Bingen](hildegard-of-bingen.md)
 - [Avicenna (Ibn Sīnā)](avicenna.md)

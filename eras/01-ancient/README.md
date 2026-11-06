@@ -42,6 +42,7 @@ Merge note: For Thales, Pythagoras, Socrates, Pyrrho, Diogenes, Zeno — label k
 
 - [Thales of Miletus](thales-of-miletus.md)
 - [Pythagoras](pythagoras.md)
+- [Xenophanes and Anaxagoras](presocratic-pluralists.md) (group entry)
 - [Heraclitus of Ephesus](heraclitus-of-ephesus.md)
 - [Parmenides of Elea](parmenides-of-elea.md)
 - [Zeno of Elea](zeno-of-elea.md)
