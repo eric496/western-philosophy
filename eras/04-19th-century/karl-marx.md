@@ -47,7 +47,7 @@ The first chapter of *Capital* argues that under capitalism, social relations be
 
 ### Praxis and the Theses on Feuerbach
 
-In the *Theses on Feuerbach* (1845, published by Engels in 1888), Marx breaks with both idealism and contemplative materialism: truth is a practical question, and human beings make themselves by transforming their world. The eleventh thesis became the movement's motto: "The philosophers have only *interpreted* the world, in various ways; the point is to *change* it."
+In the *Theses on Feuerbach* (1845, published by Engels in 1888), Marx breaks with both idealism and contemplative materialism: truth is a practical question, and human beings make themselves by transforming their world. The eleventh thesis became the movement's motto: "The philosophers have only *interpreted* the world, in various ways; the point, however, is to *change* it."
 
 ## Signature arguments
 
