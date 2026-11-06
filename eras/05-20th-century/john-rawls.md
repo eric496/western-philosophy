@@ -13,7 +13,7 @@
 - **School/tradition:** Kantian and social-contract traditions
 - **Known for:** *A Theory of Justice* (1971) and its account of “justice as fairness” — principles chosen behind a veil of ignorance, including equal basic liberties and the difference principle
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [Nozick](robert-nozick.md), [MacIntyre](alasdair-macintyre.md), [Nussbaum](martha-nussbaum.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Locke](../03-early-modern/john-locke.md) · **Answered by:** [Nozick](robert-nozick.md), [MacIntyre](alasdair-macintyre.md), [Nussbaum](martha-nussbaum.md), [Habermas](jurgen-habermas.md)
 
 ## Biography
 
@@ -107,7 +107,7 @@ The responses effectively constitute modern political philosophy. Robert Nozick�
 
 ## Criticisms and debates
 
-The debates remain live and should be read as debates, not verdicts. Libertarians hold that the difference principle violates rights of self-ownership and acquisition. Egalitarian critics hold the opposite — that it concedes too much, letting the talented hold society to ransom with incentive demands. Political theorists debate whether public reason illegitimately excludes religious citizens’ real reasons, or fairly protects equal citizenship; Rawls softened the requirement in later essays. Others ask whether the original position smuggles in its conclusions — whether parties reasoning as Rawls describes them are already committed individualists — and whether reflective equilibrium can validate principles that merely polish inherited prejudice. Rawls’s exclusion of global distributive equality, and his treatment of disability and of non-human animals, also remain contested. That so many incompatible criticisms are pressed with equal confidence is itself evidence of the theory’s centrality: the field argues *with* Rawls even when arguing against him.
+The debates remain live and should be read as debates, not verdicts. Libertarians hold that the difference principle violates rights of self-ownership and acquisition. Egalitarian critics hold the opposite — that it concedes too much, letting the talented hold society to ransom with incentive demands. Political theorists debate whether public reason illegitimately excludes religious citizens’ real reasons, or fairly protects equal citizenship; Rawls softened the requirement in later essays. Others ask whether the original position smuggles in its conclusions — whether parties reasoning as Rawls describes them are already committed individualists — and whether reflective equilibrium can validate principles that merely polish inherited prejudice. In a 1995 exchange in the *Journal of Philosophy*, [Habermas](jurgen-habermas.md) argued that the original position is too monological, a thought experiment run by one reasoner rather than a real discussion, and that Rawls ranks liberal rights above democratic self-determination; Rawls's reply defends political liberalism as freestanding. Rawls’s exclusion of global distributive equality, and his treatment of disability and of non-human animals, also remain contested. That so many incompatible criticisms are pressed with equal confidence is itself evidence of the theory’s centrality: the field argues *with* Rawls even when arguing against him.
 
 ## Misreadings to avoid
 

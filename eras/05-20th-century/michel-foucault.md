@@ -13,7 +13,7 @@
 - **School/tradition:** French philosophy, history of systems of thought
 - **Known for:** Showing that power produces knowledge, institutions, and kinds of people — not only represses — through discipline, surveillance, and biopolitics
 
-**Responds to:** [Nietzsche](../04-19th-century/friedrich-nietzsche.md), [Bentham](../04-19th-century/jeremy-bentham.md) · **Answered by:** [Derrida](jacques-derrida.md)
+**Responds to:** [Nietzsche](../04-19th-century/friedrich-nietzsche.md), [Bentham](../04-19th-century/jeremy-bentham.md) · **Answered by:** [Derrida](jacques-derrida.md), [Habermas](jurgen-habermas.md)
 
 ## Biography
 
@@ -83,7 +83,7 @@ The claim is about a technology of power, not only about prisons. The examinatio
 3. That talk was productive rather than merely censoring: it created "sexuality" as an object of knowledge and a core of personal identity, in the pattern Foucault calls power/knowledge.
 Therefore, sexuality is not simply a natural secret repressed by power; it is partly an effect of the very apparatuses that claim only to police it or to liberate it.
 
-**Objection.** Nancy Fraser, Jürgen Habermas, and others press a charge of normative confusion: if power is everywhere and productive of everything, Foucault seems to give no standpoint from which domination is objectionable. His critique appears to rely on values — freedom, resistance to subjugation — that his own framework cannot avow.
+**Objection.** Nancy Fraser, [Jürgen Habermas](jurgen-habermas.md), and others press a charge of normative confusion: if power is everywhere and productive of everything, Foucault seems to give no standpoint from which domination is objectionable. His critique appears to rely on values — freedom, resistance to subjugation — that his own framework cannot avow.
 
 **Reply.** Defenders reply that genealogy criticizes by showing contingency: arrangements presented as natural or necessary are shown to be historical, and therefore changeable, which reopens space for action without needing a universal foundation. Foucault also points to resistance as internal to every power relation, not imported from outside it. Whether this answers the normative charge, or restates it in other terms, is a standing debate in the literature.
 
