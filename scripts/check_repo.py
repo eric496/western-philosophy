@@ -169,6 +169,10 @@ for path in text_files:
     for n, line in enumerate(open(path, encoding="utf-8"), 1):
         for m in QUOTE.finditer(strip_code(line)):
             raw = m.group(1) or m.group(2)
+            # A "match" that spans a markdown link is the text between two
+            # quoted titles, not a quotation.
+            if "](" in raw:
+                continue
             q = qnorm(raw)
             # Pieces between ellipses, so an elided quotation still matches.
             parts = [qnorm(x) for x in re.split(r"\.\.\.|…|\[\.\.\.\]", raw) if qnorm(x)]

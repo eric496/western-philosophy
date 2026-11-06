@@ -15,9 +15,11 @@
 
 **Responds to:** [Montaigne](michel-de-montaigne.md), [Aristotle](../01-ancient/aristotle.md) · **Answered by:** [Elisabeth of Bohemia](early-modern-women-philosophers.md), [Spinoza](baruch-spinoza.md), [Malebranche](nicolas-malebranche.md), [Pascal](blaise-pascal.md), [Vico](giambattista-vico.md)
 
+**Focus study:** [Descartes dossier](../../focus-studies/rene-descartes/README.md) — a full deep dive beyond this entry: the *Discourse*, all six *Meditations* and the Objections and Replies in a seven-week reading order; fifteen argument reconstructions from the dreaming argument to the denial of the vacuum; Elisabeth's objections given a week of their own; the reception from the Cartesian schools to Ryle; a card deck.
+
 ## Biography
 
-René Descartes was born on 31 March 1596 in La Haye en Touraine, France, into a family of minor nobility. His mother died when he was an infant. At about ten he was sent to the Jesuit college of La Flèche, where he received a thorough scholastic education in Aristotelian philosophy, mathematics, and classical languages — the very tradition he would later set out to replace. He often said it left him embarrassed by how little of it seemed certain.
+René Descartes was born on 31 March 1596 in La Haye en Touraine, France, into a family of minor nobility. His mother died when he was an infant. At about ten he was sent to the Jesuit college of La Flèche, where he received a thorough scholastic education in Aristotelian philosophy, mathematics, and classical languages — the very tradition he would later set out to replace. In the *Discourse* he says it left him embarrassed by how little of it seemed certain.
 
 After a law degree at Poitiers in 1616, Descartes did not settle into a profession. He traveled, served briefly as a gentleman volunteer in armies in the Netherlands and Germany, and pursued mathematics and natural philosophy. A famous episode from November 1619, when he spent a day shut in a stove-heated room in Germany, became in his own telling the moment he conceived a unified method for all knowledge.
 
@@ -29,13 +31,13 @@ The *Meditations on First Philosophy* (1641) was written in Latin for a learned 
 
 Controversy followed anyway. Orthodox Calvinist theologians at Utrecht and Leiden accused him of atheism, forcing public defenses. His correspondence with Princess Elisabeth of Bohemia, beginning in 1643, is among the finest exchanges of the century: she was not a pupil but a sharp critic, as the interaction problem below shows.
 
-In 1649, reluctantly, Descartes accepted Queen Christina of Sweden's invitation to Stockholm. The winter, philosophy lessons at five in the morning in a cold library, and court life took their toll. He contracted pneumonia and died in Stockholm on 11 February 1650, aged 53. *Le Monde*, the early *Rules for the Direction of the Mind*, and his correspondence appeared only after his death.
+In 1649, reluctantly, Descartes accepted Queen Christina of Sweden's invitation to Stockholm. The winter, philosophy lessons at five in the morning (two or three times a week, according to the French ambassador Chanut) in a cold library, and court life took their toll. He fell ill, most likely with pneumonia (a poisoning hypothesis exists but is disputed), and died in Stockholm on 11 February 1650, aged 53. *Le Monde*, the early *Rules for the Direction of the Mind*, and his correspondence appeared only after his death.
 
 ## Major theories and concepts
 
 ### Methodic doubt
 
-Descartes begins by demolishing in order to rebuild. If a belief can be doubted, he will treat it, temporarily and methodically, as if false — not because he thinks everything is false, but because he wants a foundation that cannot be shaken. The doubt proceeds in widening waves. First, the senses: they sometimes deceive us, about distant towers or sticks bent in water, so why trust them completely? Second, the dream argument: there are no certain marks by which waking experience can be distinguished, while it is happening, from a vivid dream. Third, the deceiving demon: Descartes supposes a malicious demon of utmost power bent on deceiving him, so that even apparently self-evident judgments — that two and three make five — might be systematically false.
+Descartes begins by demolishing in order to rebuild. If a belief can be doubted, he will treat it, temporarily and methodically, as if false — not because he thinks everything is false, but because he wants a foundation that cannot be shaken. The doubt proceeds in widening waves. First, the senses: they sometimes deceive us about things that are barely perceptible or far away, so why trust them completely? (The famous examples, the square tower that looks round from afar, come later, in the Sixth Meditation.) Second, the dream argument: there are no certain marks by which waking experience can be distinguished, while it is happening, from a vivid dream. Third, the deceiver: Descartes first asks whether an all-powerful God might make him go wrong even in apparently self-evident judgments, such as that two and three make five, and then supposes a malicious demon of utmost power bent on deceiving him about everything outside his mind.
 
 The image is architectural: a builder who suspects the foundations does not patch the walls; he clears the site. Methodic doubt is a tool, not a destination. Descartes is not a skeptic concluding that nothing can be known; he is looking for the one thing the demon cannot take away. The tension is deliberate: the doubt is so powerful it threatens any escape route, including logic itself. His answer depends on the next two ideas — and on God, where critics press hardest.
 
@@ -45,7 +47,7 @@ What survives the demon? Even if I am deceived about everything, there must be a
 
 Crucially, Descartes insisted the cogito is **not a syllogism**. He did not mean: everything that thinks exists; I think; therefore I exist — for that major premise would itself need justification, and the demon could target it. Instead it is an **immediate intuition**, a self-evident performance: in the very act of doubting, your existence is directly presented to you. Try to doubt that you exist and you perform the thinking that confirms it.
 
-Its scope is narrow, and that matters. The cogito secures existence only *while* thinking, and a thinker — not yet a body, a history, or an external world. Critics from Gassendi onward asked whether "I think" smuggles in more than the bare occurrence of thought: why not simply "thinking is occurring"? Descartes replied that thought is always experienced first-personally, as *mine*. Whether that succeeds is debated, but the move changed philosophy: the starting point is no longer the world or God, but the subject's own awareness.
+Its scope is narrow, and that matters. The cogito secures existence only *while* thinking, and a thinker — not yet a body, a history, or an external world. Gassendi objected that existence could be inferred from any activity, walking as well as thinking; Descartes answered that only the awareness of walking, itself a thought, is certain. Later critics, from Lichtenberg on, asked whether "I think" smuggles in more than the bare occurrence of thought: why not simply "thinking is occurring"? Descartes' modern defenders reply that thought is always experienced first-personally, as *mine*. Whether that succeeds is debated, but the move changed philosophy: the starting point is no longer the world or God, but the subject's own awareness.
 
 ### Clear and distinct ideas, the divine guarantee, and the Cartesian circle
 
@@ -53,7 +55,7 @@ From the cogito Descartes extracts a criterion. What made it irresistible? He pe
 
 But a deceiving demon could make even those perceptions false. So Descartes sets out to prove, using clear and distinct ideas, that God exists and is not a deceiver. In the Third Meditation he argues from the idea of a perfect, infinite being in his finite mind: that idea has so much "objective reality" that only an actually infinite being could cause it. In the Fifth he offers an ontological argument: existence belongs to God's essence as necessarily as angles summing to two right angles belong to a triangle's. Since a perfect God would not deceive, our clear and distinct perceptions can be trusted when used carefully.
 
-The classic objection, raised by Arnauld, is the **Cartesian circle**: Descartes seems to prove God using clear and distinct ideas, and then validate clear and distinct ideas using God. If the criterion needs God before it can be trusted, how can it prove God? Defenders reply that only *remembered* clear and distinct perceptions need the guarantee, while present intuitions are self-certifying in the moment; or that the guarantee removes a lingering metaphysical doubt rather than supplying the criterion. Critics reply that these distinctions weaken the guarantee. The debate remains live.
+The classic objection, first raised in Mersenne's Second Objections and given its classic form by Arnauld, is the **Cartesian circle**: Descartes seems to prove God using clear and distinct ideas, and then validate clear and distinct ideas using God. If the criterion needs God before it can be trusted, how can it prove God? Defenders reply that only *remembered* clear and distinct perceptions need the guarantee, while present intuitions are self-certifying in the moment; or that the guarantee removes a lingering metaphysical doubt rather than supplying the criterion. Critics reply that these distinctions weaken the guarantee. The debate remains live.
 
 ### Mind–body dualism and the interaction problem
 
@@ -101,7 +103,7 @@ Fuller reconstructions are in the study guide: [*Meditations on First Philosophy
 - *Meditations on First Philosophy* (1641) — In Latin, with Objections and Replies; six meditations from doubt to the external world. The central text.
 - *Principles of Philosophy* (1644) — A systematic textbook of metaphysics and physics; the clearest statement of the full system.
 - *The Passions of the Soul* (1649) — His last published work, on the emotions as products of the mind–body union.
-- *The World* (*Le Monde*) (written 1632–33; published posthumously, 1664) — His treatise on physics and the cosmos, suppressed after Galileo's condemnation; much of its physics was absorbed into the *Principles*.
+- *The World* (*Le Monde*) (written c. 1629–33; published posthumously, 1664) — His treatise on physics and the cosmos, suppressed after Galileo's condemnation; much of its physics was absorbed into the *Principles*.
 - *Rules for the Direction of the Mind* (written c. 1628; first published in Dutch translation 1684; Latin original 1701) — An unfinished early treatise on method.
 
 ## In their own words
