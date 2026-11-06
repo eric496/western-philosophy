@@ -13,7 +13,7 @@
 - **School/tradition:** Pragmatism (its great popularizer); founder of American psychology
 - **Known for:** Making pragmatism a public philosophy — truth as what proves itself in experience, the will to believe, and the stream of consciousness.
 
-**Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md)
+**Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md), [Du Bois](../05-20th-century/du-bois-and-fanon.md) (his student)
 
 ## Biography
 

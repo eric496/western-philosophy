@@ -13,7 +13,7 @@
 - **School/tradition:** Materialist and founder of modern social-contract theory
 - **Known for:** Deriving absolute authority from fear and rational self-preservation in *Leviathan*
 
-**Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md)
+**Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md), [Shaftesbury, Hutcheson & Butler](moral-sense-school.md)
 
 ## Biography
 

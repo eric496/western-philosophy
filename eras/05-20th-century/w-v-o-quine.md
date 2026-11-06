@@ -13,11 +13,11 @@
 - **School/tradition:** Analytic philosophy; logical empiricism's heir and internal critic
 - **Known for:** "Two Dogmas of Empiricism" and the naturalization of epistemology — pulling philosophy down into science
 
-**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md) · **Answered by:** [Kripke](saul-kripke.md) and post-Quinean analytic philosophy
+**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md) · **Answered by:** [Sellars, Davidson, Putnam & Lewis](analytic-philosophy-after-quine.md), [Kripke](saul-kripke.md)
 
 ## Biography
 
-Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in mathematical logic, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A traveling fellowship took him to Europe: he met Rudolf Carnap in Prague and sat in on the Vienna Circle — the logical positivists whose program he admired, absorbed, and eventually subverted from within.
+Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in mathematical logic, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A traveling fellowship took him to Europe: he met [Rudolf Carnap](rudolf-carnap.md) in Prague and sat in on the Vienna Circle — the logical positivists whose program he admired, absorbed, and eventually subverted from within.
 
 Back at Harvard he spent the rest of his career (interrupted by wartime service as a naval intelligence officer, deciphering German U-boat communications). Early work was in formal logic — *A System of Logistic* (1934), *Mathematical Logic* (1940), the set theory NF. The essays that made his philosophical reputation came from the 1940s–50s: "On What There Is" (1948) and "Two Dogmas of Empiricism" (1951). *Word and Object* (1960) became his most famous book. He traveled compulsively — he prided himself on visiting well over a hundred countries — and worked nearly to the end, dying on Christmas Day 2000.
 
@@ -51,7 +51,7 @@ What a theory says there is depends on the background language into which we tra
 
 ## Contributions
 
-Quine demolished the framework within which positivist philosophy of science had operated, and rebuilt philosophy's relation to science on naturalistic terms: philosophy is continuous with science, differing in generality, not in kind or authority. His holism reshaped philosophy of language and of science; his regimentation program set the terms for decades of metaphysics (the "Quinean" mainstream in analytic ontology is named for him); and his behaviorist strictures pushed semantics toward the use-and-evidence questions Davidson and others then worked with.
+Quine demolished the framework within which positivist philosophy of science had operated, and rebuilt philosophy's relation to science on naturalistic terms: philosophy is continuous with science, differing in generality, not in kind or authority. His holism reshaped philosophy of language and of science; his regimentation program set the terms for decades of metaphysics (the "Quinean" mainstream in analytic ontology is named for him); and his behaviorist strictures pushed semantics toward the use-and-evidence questions [Davidson](analytic-philosophy-after-quine.md) and others then worked with.
 
 ## Impact and legacy
 

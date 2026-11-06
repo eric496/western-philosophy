@@ -69,7 +69,7 @@ Through the Academy, skeptical arguments shaped Hellenistic and Roman debate (Ci
 
 The oldest objection is *apraxia*, inaction: a creature who assents to nothing cannot act or avoid the cliff. The fourfold observance is the reply, and whether it succeeds — whether one can follow appearances without belief — remains debated. A second objection is self-refutation: skepticism argued for seems to assert what it forbids; the purgative image is the school's attempt to absorb this.
 
-Two scholarly debates are live. First, **Indian influence**: Pyrrho's journey is well attested, and parallels with early Buddhist and Jain ideas have led some scholars to argue for real transmission, while others note that Greek antecedents (Democritus, the Sophists, Xenophanes) suffice, and sources are too thin to prove borrowing. The honest verdict is *debated*. Second, the **two Pyrrhos problem**: whether the serene sage of the anecdotes and Sextus' dialectical skeptic are one philosophy, or two figures joined by a name.
+Two scholarly debates are live. First, **Indian influence**: Pyrrho's journey is well attested, and parallels with early Buddhist and Jain ideas have led some scholars to argue for real transmission, while others note that Greek antecedents (Democritus, the Sophists, [Xenophanes](presocratic-pluralists.md)) suffice, and sources are too thin to prove borrowing. The honest verdict is *debated*. Second, the **two Pyrrhos problem**: whether the serene sage of the anecdotes and Sextus' dialectical skeptic are one philosophy, or two figures joined by a name.
 
 ## Misreadings to avoid
 
