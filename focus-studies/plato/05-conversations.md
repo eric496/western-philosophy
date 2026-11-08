@@ -62,7 +62,7 @@ The library's [problem index](../../themes.md) places Plato in six of its nine t
 
 - [§1 Knowledge & Skepticism](../../themes.md#1-knowledge--skepticism--what-can-we-know-and-how-do-we-know-it) — Knowledge is of the unchanging Forms, not of changing particulars; true opinion is unstable until tied down by an account.
 - [§2 Mind & Body](../../themes.md#2-mind--body--what-is-mind-and-how-does-it-relate-to-the-body) — The soul is tripartite and immortal, at once the body's pilot and its prisoner; philosophy practices its release.
-- [§3 God & Religion](../../themes.md#3-god--religion--does-god-exist-and-what-follows-for-faith-and-reason) — The Demiurge fashions the cosmos looking to the Good; the *Laws* argues that gods exist, care for us, and cannot be bought.
+- [§3 God & Religion](../../themes.md#3-god--religion--does-god-exist-and-what-follows-for-faith-and-reason) — The Demiurge, being good, fashions the cosmos looking to the eternal model; the *Laws* argues that gods exist, care for us, and cannot be bought.
 - [§4 Ethics & the Good Life](../../themes.md#4-ethics--the-good-life--how-should-i-live-and-what-is-right) — Justice is the soul's health: reason, spirit, and appetite each doing their proper work under reason's rule.
 - [§5 Politics & Justice](../../themes.md#5-politics--justice--how-should-we-live-together-and-who-may-rule) — Justice in the city mirrors the soul: philosopher-kings rule, each class does its own work, and democracy decays toward tyranny.
 - [§7 Language & Meaning](../../themes.md#7-language--meaning--how-do-words-and-thoughts-hook-onto-the-world) — The *Cratylus* asks whether names are natural likenesses of things or mere conventions — and ends doubting that names teach us things themselves.
