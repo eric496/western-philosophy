@@ -52,13 +52,13 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — A statement is meaningful only if verifiable; epistemology becomes the logical analysis of the language of unified science.
 - **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — No analytic/synthetic line, no statement immune to revision: belief faces experience as a corporate web; epistemology is naturalized.
 - **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Paradigms supply a science's standards, problems, and perceived facts; rival paradigms can be incommensurable.
-- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Each epoch has a regime of truth: what counts as knowledge is produced together with the power that certifies it.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Each society has a regime of truth: what counts as knowledge is produced together with the power that certifies it.
 
 ---
 
 ## 2. Mind & Body — What is mind, and how does it relate to the body?
 
-- **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — The soul is an immortal traveler imprisoned in the body, transmigrating between lives until purified.
+- **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — The soul is immortal and at death passes into another body, human or animal, in a cycle of rebirth; the Orphic picture of the body as the soul's prison may or may not have been his.
 - **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — Soul too is atoms — fine, spherical, fiery — dispersed at death; no immaterial remainder survives.
 - **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The soul is tripartite and immortal, at once the body's pilot and its prisoner; philosophy practices its release.
 - **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — Soul is the form (entelechy) of the living body, not a second thing in it — though the active intellect may be separable.
@@ -98,7 +98,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 
 - **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — Number is divine order; philosophy itself is a purifying way of life within a religious brotherhood honoring cosmic harmony.
 - **[Xenophanes](eras/01-ancient/presocratic-pluralists.md)** (c. 570–c. 478 BCE) — If cattle had hands they would draw gods like cattle: the first critique of anthropomorphic religion, and one god "not at all like mortals."
-- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The Demiurge fashions the cosmos looking to the Good; the *Laws* argues that gods exist, care for us, and cannot be bought.
+- **[Plato](eras/01-ancient/plato.md)** (428/427–348/347 BCE) — The Demiurge, being good, fashions the cosmos looking to the eternal model; the *Laws* argues that gods exist, care for us, and cannot be bought.
 - **[Aristotle](eras/01-ancient/aristotle.md)** (384–322 BCE) — The unmoved mover — thought thinking itself — moves all things by being loved: theology crowns first philosophy.
 - **[Epicurus](eras/01-ancient/epicurus.md)** (c. 341–270 BCE) — Gods exist as blessed, imperishable beings in the spaces between worlds — and take no notice of us whatever.
 - **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — The cosmos is one rational, providential *Logos* — Zeus, nature, or fate — and piety is consenting to its order.
@@ -111,7 +111,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — God is that than which nothing greater can be conceived; existing in reality is greater — so God exists.
 - **[Al-Ghazali](eras/02-medieval/al-ghazali.md)** (c. 1058–1111) — The philosophers' proofs fail on their own terms: the world is not eternal, God knows particulars, and fire does not burn cotton of itself.
 - **[Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (1098–1179) — God is known through vision: the living light speaks, and cosmology, medicine, and music all answer to what was seen.
-- **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Scripture and demonstration cannot conflict; where they seem to, scripture is read allegorically — the *Decisive Treatise* makes this a legal duty.
+- **[Averroes](eras/02-medieval/averroes.md)** (1126–1198) — Scripture and demonstration cannot conflict; where they seem to, scripture is read allegorically — the *Decisive Treatise* rules philosophy itself a legal duty for those qualified.
 - **[Maimonides](eras/02-medieval/maimonides.md)** (c. 1138–1204) — We can say only what God is *not*: any attribute shared with creatures would be a likeness where none exists.
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The Five Ways argue from motion, causation, contingency, gradation, and governance to God; philosophy and sacred doctrine harmonize.
 - **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1263/66–1308) — "Being" is said univocally of God and creatures — otherwise natural theology could prove nothing about God at all.
@@ -171,7 +171,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)** (1712–1778) — Conscience and pity precede reason; morality is recovered when self-love's corruptions are ordered by a common moral self.
 - **[Adam Smith](eras/03-early-modern/adam-smith.md)** (1723–1790) — We judge ourselves through an imagined impartial spectator built up from sympathy; propriety, not utility alone, grounds praise and blame.
 - **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Act only on maxims you can will as universal law; the categorical imperative treats every person always also as an end.
-- **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — The greatest happiness of the greatest number is the measure of right and wrong; every pleasure counts, none counts for more than one.
+- **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — The greatest happiness of the greatest number is the measure of right and wrong; everybody counts for one, nobody for more than one.
 - **[Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — Women are made, not born, inferior: virtue is one standard for both sexes, and it requires education and independence.
 - **[Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — The I's essence is moral striving: conscience is the immediate voice of duty, and one's vocation is self-legislation in a sensible world.
 - **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — Beyond abstract right and Kantian morality stands ethical life (*Sittlichkeit*): freedom actualized in family, civil society, and state.
@@ -189,7 +189,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Dewey](eras/05-20th-century/john-dewey.md)** (1859–1952) — Moral problems are inquiries: values are hypotheses tested in experience, and growth itself is the only moral end.
 - **[Moore](eras/05-20th-century/g-e-moore.md)** (1873–1958) — "Good" is simple and indefinable: for any natural property proposed, asking whether it is good remains an open question.
 - **[Sartre](eras/05-20th-century/jean-paul-sartre.md)** (1905–1980) — Condemned to be free: in choosing myself I choose an image of man for all; bad faith is fleeing that responsibility.
-- **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Eichmann showed evil can be sheer thoughtlessness: the refusal to think from another's standpoint and to judge for oneself.
+- **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Eichmann showed evil can be sheer thoughtlessness: the inability to think from another's standpoint and to judge for oneself.
 - **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — Ethics is first philosophy: before freedom and knowledge, the face commands "thou shalt not kill" and makes me responsible.
 - **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — An ethics of ambiguity: my freedom is real only in willing the freedom of others; oppression freezes transcendence into immanence.
 - **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — Attention is the rarest form of generosity: to look at the afflicted until their reality registers is the core of goodness.
@@ -229,7 +229,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — Right concerns external freedom under universal law; perpetual peace requires republican states, a peaceful federation, and cosmopolitan hospitality.
 - **[Burke](eras/03-early-modern/edmund-burke.md)** (1729–1797) — Society is a partnership between the living, the dead and the unborn; abstract "metaphysic rights" applied wholesale destroy the inherited institutions that make liberty possible.
 - **[Bentham](eras/04-19th-century/jeremy-bentham.md)** (1748–1832) — Utility as a program of reform: codified law, widening suffrage, and every institution audited by its contribution to happiness.
-- **[Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — If reason and virtue have no sex, excluding women from rights and education is tyranny; the *Vindication* answers Burke.
+- **[Wollstonecraft](eras/03-early-modern/mary-wollstonecraft.md)** (1759–1797) — If reason and virtue have no sex, excluding women from rights and education is tyranny; the *Rights of Men* had already answered Burke, and the *Rights of Woman* answers Talleyrand.
 - **[Fichte](eras/04-19th-century/johann-gottlieb-fichte.md)** (1762–1814) — The *Addresses* summon a nation into being through education: the state must school its citizens into moral selfhood.
 - **[Hegel](eras/04-19th-century/g-w-f-hegel.md)** (1770–1831) — The state is the actuality of concrete freedom: within ethical life the individual finds liberation, not restraint.
 - **[Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Order and progress: a positivist polity, ruled by social physics and a spiritual power, succeeds theological politics.
@@ -259,7 +259,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 
 ## 6. Self & Identity — What am I, and what makes me the same person over time?
 
-- **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — "Know thyself": the unexamined life is not worth living, and care of the soul outranks wealth and reputation.
+- **[Socrates](eras/01-ancient/socrates.md)** (c. 470–399 BCE) — Taking up the Delphic "Know thyself": the unexamined life is not worth living, and care of the soul outranks wealth and reputation.
 - **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — The self's fortress is choice (*prohairesis*): externals can chain the body, but nothing outside can compel assent.
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The self is found by turning inward — memory's vast palace, the restless heart — and is made whole only by grace.
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — A person is "the individual substance of a rational nature": the definition that fixed the terms of debate for a millennium.
@@ -301,7 +301,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — His translations and commentaries fixed Latin logic's vocabulary for centuries and posed the problem of universals for the schools.
 - **[Abelard](eras/02-medieval/peter-abelard.md)** (1079–1142) — Universals are neither things nor empty breath: they are words with a semantics (*sermones*), and realism's puzzle dissolves.
 - **[Duns Scotus](eras/02-medieval/john-duns-scotus.md)** (c. 1263/66–1308) — "Being" must be univocal — one concept said of God and creatures alike — or every theological argument equivocates.
-- **[Ockham](eras/02-medieval/william-of-ockham.md)** (c. 1287–1347) — Terms stand for things directly (supposition); universals are signs in a mental language — entities are not to be multiplied.
+- **[Ockham](eras/02-medieval/william-of-ockham.md)** (c. 1287–1347) — Terms stand for things directly (supposition); universals are signs in a mental language — and nothing is to be posited without necessity.
 - **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — Beware the idols of the marketplace: words badly defined bewitch the understanding and breed endless empty disputes.
 - **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Reasoning is computation with names; truth consists in the right ordering of words we ourselves have defined.
 - **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — Words signify ideas, not things directly; most philosophical disputes are verbal — Book III of the *Essay* is therapy for language.
@@ -312,7 +312,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Schleiermacher](eras/04-19th-century/friedrich-schleiermacher.md)** (1768–1834) — All understanding is hermeneutics: misunderstanding is the default, so interpretation needs a double art — grammatical and psychological — moving in the circle between part and whole.
 - **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Meaning is the conceivable practical effects of a thing; all thought is in signs — icon, index, symbol.
 - **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — Truths are metaphors worn smooth: language herds experience into common concepts and hides that every concept falsifies becoming.
-- **[Frege](eras/05-20th-century/gottlob-frege.md)** (1848–1925) — Sense determines reference: "Morning Star" and "Evening Star" refer alike and differ in meaning; logic needs a purified concept-script.
+- **[Frege](eras/05-20th-century/gottlob-frege.md)** (1848–1925) — Sense determines reference: "Morning Star" and "Evening Star" refer alike and differ in sense; logic needs a purified concept-script.
 - **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Meanings are ideal unities instantiated in acts; expression must be pried apart from mere indication and communication.
 - **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — The meaning of a statement is its method of verification: metaphysics is not false but literally without sense.
 - **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Descriptions like "the present King of France" are not names: analysis dissolves their apparent reference and its ontological temptations.
@@ -333,7 +333,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 
 ## 8. Science & Method — How should inquiry proceed, and what does it prove?
 
-- **[Thales](eras/01-ancient/thales-of-miletus.md)** (c. 624–c. 546 BCE) — Explain nature from nature: water as first principle and a predicted eclipse — the opening move from myth to a testable account.
+- **[Thales](eras/01-ancient/thales-of-miletus.md)** (c. 624–c. 546 BCE) — Explain nature from nature: water as first principle and (as Herodotus tells it) a predicted eclipse — the opening move from myth to a testable account.
 - **[Pythagoras](eras/01-ancient/pythagoras.md)** (c. 570–c. 495 BCE) — The cosmos is intelligible because it is number: mathematical harmony is both the explanation of things and the evidence for it.
 - **[Empedocles](eras/01-ancient/empedocles.md)** (c. 494–c. 434 BCE) — Four roots mixed and separated by Love and Strife explain all change; his zoogony even sketches the survival of fitting combinations.
 - **[Democritus](eras/01-ancient/democritus-of-abdera.md)** (c. 460–c. 370 BCE) — One explanatory scheme for everything — atoms and void, necessity without purpose: the ancestor of physical reductionism.
