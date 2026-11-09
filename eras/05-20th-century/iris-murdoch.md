@@ -1,4 +1,5 @@
 # Iris Murdoch
+**English** | [简体中文](../../zh/eras/05-20th-century/iris-murdoch.md)
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
