@@ -14,7 +14,7 @@ One framing caution governs the whole file, and it is not boilerplate. These are
 
 1. Euthyphro proposes, as his third attempt at a definition, that the pious is what all the gods love, and the impious what all the gods hate (9e).
 2. Socrates poses the disjunction (10a): is the pious loved by the gods *because it is pious*, or is it pious *because it is loved* by the gods?
-3. Euthyphro agrees the pious is loved because it is pious — the loving follows and responds to the piety, as being carried follows a thing's being carried, and being seen follows its visibility (10a–c): the attitude tracks the property; it does not constitute it.
+3. Euthyphro agrees the pious is loved because it is pious (10d) — the loving responds to the piety — whereas, just as a thing is a carried or a seen thing because someone carries or sees it (10b–c), what is god-loved is god-loved because the gods love it (10d–e): the attitude tracks the property; it does not constitute it.
 4. But if being god-loved were what piety *is*, the order would have to run the other way: the pious would be pious because loved. The two claims cannot both state the essence.
 5. Therefore "loved by the gods" names, at most, an *affection* (*pathos*) of the pious — something that happens to it — and not its *essence* (*ousia*), which is what a definition must give (11a–b). The proposed definition fails.
 
@@ -51,7 +51,7 @@ Therefore, inquiry is possible because its object is already, latently, in the s
 
 **Argument 3. The *Phaedo*'s affinity argument: the soul is like the divine and incomposite, the body like the mortal**
 
-*What it proves:* not, strictly, immortality — the argument's own conclusion is comparative — but that the soul belongs to the order of the invisible, changeless, and incomposite, and is therefore "altogether indissoluble, or nearly so" (80b): the first of the dialogue's escalating attempts, built to be tested by the objections that follow it in the text.
+*What it proves:* not, strictly, immortality — the argument's own conclusion is comparative — but that the soul belongs to the order of the invisible, changeless, and incomposite, and is therefore "altogether indissoluble, or nearly so" (80b): the third of the dialogue's escalating attempts (after the cyclical argument, 70c–72e, and recollection, 72e–77a), built to be tested by the objections that follow it in the text.
 
 1. Things divide into two kinds (78b–79a): the composite, which can be dissolved into its parts and is liable to change, and the incomposite, which, having no parts, cannot be dissolved and remains constant. Dissolution — death, for a living thing — is the fate of composites.
 2. The Forms are incomposite, invisible, and always the same (78c–d); sensible things are composite, visible, and never constant.
