@@ -31,7 +31,7 @@ Atomism is an engineered answer to Parmenides, who had shown that what is cannot
 
 ### Motion, necessity, and the vortex
 
-Atoms have always been in motion in the infinite void — no first push, no designer. Collisions sort them, like to like, and in places the motion forms a vortex, at whose center concentrations gather to make a world. Worlds are innumerable: wherever a vortex forms, a cosmos grows and eventually decays. Everything happens by necessity — the mechanical consequences of atomic shapes and collisions — and nothing by purpose. Democritus allowed no teleology, no cosmic mind (contrast [Anaxagoras](presocratic-pluralists.md)), and no governing gods. The tension was spotted early: if everything happens by necessity, what room is left for chance — and for responsibility? Aristotle complained that atomism invokes spontaneity for the vortex while preaching necessity, and whether his necessity leaves ethics standing has been debated ever since.
+Atoms have always been in motion in the infinite void — no first push, no designer. Collisions sort them, like to like, and in places the motion forms a vortex, at whose center concentrations gather to make a world. Worlds are innumerable: wherever a vortex forms, a cosmos grows and eventually decays. Everything happens by necessity — the mechanical consequences of atomic shapes and collisions — and nothing by purpose. Democritus allowed no teleology, no cosmic mind (contrast Anaxagoras), and no governing gods. The tension was spotted early: if everything happens by necessity, what room is left for chance — and for responsibility? Aristotle complained that atomism invokes spontaneity for the vortex while preaching necessity, and whether his necessity leaves ethics standing has been debated ever since.
 
 ### Knowledge: "by convention"
 
@@ -81,7 +81,7 @@ Aristotle's criticisms set the agenda: atoms explain arrangement but not the *so
 1. Reconstruct atomism as an engineered answer to Parmenides: each atom has the properties B8 demands of Being, yet reality is many and moves. State exactly which Parmenidean premise the void forces Democritus to reject, and his justification for rejecting it.
 2. In fragment B125 the senses protest: "Wretched mind, do you take your proofs from us and then overthrow us? Our overthrow is your fall." Press this self-undermining objection, then reply using Democritus' distinction between "bastard" and "legitimate" knowledge.
 3. Compare Democritus with Empedocles: both keep eternal ingredients and explain change as rearrangement. What do atoms-and-void explain that four qualitative roots cannot — and what, if anything, do the roots explain better?
-4. Apply "by convention sweet … in reality, atoms and void" (B9) to a color that looks different under different lighting. Is the color unreal, relational, or explained? Use Democritus' account of *eidōla* in your answer.
+4. Apply "by convention sweet, in reality atoms and void" (B9) to a color that looks different under different lighting. Is the color unreal, relational, or explained? Use Democritus' account of *eidōla* in your answer.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

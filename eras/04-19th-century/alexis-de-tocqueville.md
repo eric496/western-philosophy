@@ -76,7 +76,7 @@ Read in his century by liberals across Europe (John Stuart Mill reviewed both vo
 
 ## What to read first
 
-Read volume one of *Democracy in America* selectively: the Introduction (equality as providential fact), the chapters on the township and associations, and the tyranny-of-the-majority chapter. Then volume two, Part IV, for soft despotism — eight short chapters (the argument peaks in chs. 6–7) that read like next week's news. Finish with Book III of *The Old Regime* for the paradox of reform.
+Read volume one of *Democracy in America* selectively: the Introduction (equality as providential fact), the chapters on the township and associations, and the tyranny-of-the-majority chapter. Then volume two, Part IV, for soft despotism — six chapters that read like next week's news. Finish with Book III of *The Old Regime* for the paradox of reform.
 
 ---
 

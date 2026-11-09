@@ -9,7 +9,7 @@
 ## At a glance
 
 - **Dates:** 1919–2018
-- **Place:** Born in London, England, and raised in Cambridge and west London; long career at Newcastle upon Tyne
+- **Place:** Born and raised in London, England; long career at Newcastle upon Tyne
 - **School/tradition:** Moral philosophy and philosophy of science; the wartime Oxford circle of Murdoch, Foot and Anscombe; critic of reductionism and scientism
 - **Known for:** *Beast and Man* (1978), an ethology-informed account of human nature, the image of philosophy as "plumbing", and a lifelong campaign against "nothing-but" reductionism
 

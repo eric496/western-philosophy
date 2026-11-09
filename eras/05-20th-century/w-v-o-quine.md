@@ -13,11 +13,11 @@
 - **School/tradition:** Analytic philosophy; logical empiricism's heir and internal critic
 - **Known for:** "Two Dogmas of Empiricism" and the naturalization of epistemology — pulling philosophy down into science
 
-**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md) · **Answered by:** [Sellars, Davidson, Putnam & Lewis](analytic-philosophy-after-quine.md), [Kripke](saul-kripke.md)
+**Responds to:** [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md) · **Answered by:** post-Quinean analytic philosophy, from Kripke onward — outside this repo's entries
 
 ## Biography
 
-Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in philosophy, with a dissertation in mathematical logic on *Principia Mathematica*, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A traveling fellowship took him to Europe: he met [Rudolf Carnap](rudolf-carnap.md) in Prague and sat in on the Vienna Circle — the logical positivists whose program he admired, absorbed, and eventually subverted from within.
+Willard Van Orman Quine was born in Akron, Ohio, in 1908. A mathematics and philosophy undergraduate at Oberlin, he arrived at Harvard for a PhD in mathematical logic, finishing in 1932 under Alfred North Whitehead's supervision in just two years. A traveling fellowship took him to Europe: he met Rudolf Carnap in Prague and sat in on the Vienna Circle — the logical positivists whose program he admired, absorbed, and eventually subverted from within.
 
 Back at Harvard he spent the rest of his career (interrupted by wartime service as a naval intelligence officer, deciphering German U-boat communications). Early work was in formal logic — *A System of Logistic* (1934), *Mathematical Logic* (1940), the set theory NF. The essays that made his philosophical reputation came from the 1940s–50s: "On What There Is" (1948) and "Two Dogmas of Empiricism" (1951). *Word and Object* (1960) became his most famous book. He traveled compulsively — he prided himself on visiting well over a hundred countries — and worked nearly to the end, dying on Christmas Day 2000.
 
@@ -29,7 +29,7 @@ Back at Harvard he spent the rest of his career (interrupted by wartime service 
 
 ### Naturalized epistemology
 
-If there is no first philosophy prior to science, epistemology cannot be an a priori tribunal judging science from outside. In "Epistemology Naturalized" (1969) Quine proposes it become a chapter of psychology: study, scientifically, how meager sensory input produces torrential theoretical output. Critics such as Kim read this as replacing normative questions about justification with the descriptive science of how we actually form beliefs; Quine denied that the normative element is lost, treating it as the engineering of methods that work.
+If there is no first philosophy prior to science, epistemology cannot be an a priori tribunal judging science from outside. In "Epistemology Naturalized" (1969) Quine proposes it become a chapter of psychology: study, scientifically, how meager sensory input produces torrential theoretical output. Normative questions about justification are not so much answered as replaced by the descriptive science of how we actually form beliefs.
 
 ### Indeterminacy of translation
 
@@ -37,33 +37,7 @@ If there is no first philosophy prior to science, epistemology cannot be an a pr
 
 ### Ontological relativity and ontological commitment
 
-What a theory says there is depends on the background language into which we translate it — **ontological relativity**. But within a theory, commitment is disciplined: "to be is to be the value of a variable." A theory is committed to exactly those entities its quantifiers must range over when regimented in first-order logic. This is why Quine accepts physical objects and (grudgingly, because mathematics needs them) sets, while rejecting meanings, propositions, and possible-but-nonexistent objects: entities posited only because grammar misleads us.
-
-## Signature arguments
-
-**The circularity argument against analyticity (*"Two Dogmas of Empiricism"*, §§1–4)**
-
-1. An *analytic* truth is supposed to be true purely by meaning ("no bachelor is married"), a *synthetic* one true partly by how the world is.
-2. Apart from truths of logic, analyticity needs an account of *synonymy*: "no bachelor is married" becomes a logical truth only once *unmarried man* is put for its synonym *bachelor*.
-3. Each proposed account presupposes the notion it was meant to explain: definition (except stipulating new notation) reports synonymies already in place; interchangeability without change of truth value secures synonymy only in a language that already contains *necessarily*, itself explained by analyticity; and the semantic rules of an artificial language merely list which sentences count as analytic without saying what the label means.
-4. So the attempts move in a small circle of equally unclear notions, and none breaks out.
-Therefore, no boundary between analytic and synthetic statements has been drawn; that there is one is an unexamined dogma of empiricism, not a finding.
-
-**Objection.** H. P. Grice and P. F. Strawson ("In Defense of a Dogma", 1956) argued that Quine conflates the absence of a behaviourally respectable definition with the absence of a real distinction. Speakers agree in sorting an open-ended range of new cases into analytic and synthetic, and talk of synonymy is orderly even if it cannot be reduced to anything else. A distinction drawn so consistently is unlikely to have no basis in fact.
-
-**Reply.** Quine's demand is for an explanation that meets naturalistic standards: one that does not quietly assume meanings. A circle of terms that only explain one another, however orderly, does not tell an analytic sentence apart from a belief held very firmly. Later he offered a thin, behavioural stand-in: roughly, a sentence that every speaker learns to accept in learning its words. Whether Grice and Strawson answer Quine or change the subject is still debated, in work on conceptual role and two-dimensional semantics; and the debate never recovered its pre-1951 innocence.
-
-**Confirmation holism against reductionism (*"Two Dogmas"*, §§5–6)**
-
-1. The second dogma, *reductionism*, holds that each meaningful statement taken by itself has its own range of confirming and disconfirming experiences.
-2. But a statement about the world implies something observable only together with other assumptions (Duhem's point): a failed prediction refutes the group, not any one member.
-3. So "our statements about the external world face the tribunal of sense experience not individually but only as a corporate body."
-4. When recalcitrant experience strikes, any statement can be held true if we adjust elsewhere in the web; and none, not even logic or mathematics near the protected centre, is in principle immune to revision.
-Therefore, knowledge is a web of belief touching experience only at its edges, and there is no class of statements confirmed come what may by meaning alone: the two dogmas fall together.
-
-**Objection.** Holism overshoots. If the unit of confirmation is the whole of science, every failed prediction tests everything at once, yet scientists routinely localize blame to an instrument or a hypothesis. Critics of the strong Duhem–Quine thesis pressed this, and moderate holists, including the later Quine, concede that units of confirmation are usually smaller than "the whole of science".
-
-**Reply.** The argument against analyticity needs only the moderate thesis: that a sentence rarely faces experience alone, so its confirmation is never a matter of its meaning by itself. "Held true come what may" is no licence for irrationalism either: the web's edges are constrained, and revising the centre is maximally costly and rarely rational. How large the units are, and for what purposes, remains contested.
+What a theory says there is depends on the background language into which we translate it — **ontological relativity**. But within a theory, commitment is disciplined: "to be is to be the value of a bound variable." A theory is committed to exactly those entities its quantifiers must range over when regimented in first-order logic. This is why Quine accepts physical objects and (grudgingly, because mathematics needs them) sets, while rejecting meanings, propositions, and possible-but-nonexistent objects: entities posited only because grammar misleads us.
 
 ## Key works
 
@@ -77,7 +51,7 @@ Therefore, knowledge is a web of belief touching experience only at its edges, a
 
 ## Contributions
 
-Quine demolished the framework within which positivist philosophy of science had operated, and rebuilt philosophy's relation to science on naturalistic terms: philosophy is continuous with science, differing in generality, not in kind or authority. His holism reshaped philosophy of language and of science; his regimentation program set the terms for decades of metaphysics (the "Quinean" mainstream in analytic ontology is named for him); and his behaviorist strictures pushed semantics toward the use-and-evidence questions [Davidson](analytic-philosophy-after-quine.md) and others then worked with.
+Quine demolished the framework within which positivist philosophy of science had operated, and rebuilt philosophy's relation to science on naturalistic terms: philosophy is continuous with science, differing in generality, not in kind or authority. His holism reshaped philosophy of language and of science; his regimentation program set the terms for decades of metaphysics (the "Quinean" mainstream in analytic ontology is named for him); and his behaviorist strictures pushed semantics toward the use-and-evidence questions Davidson and others then worked with.
 
 ## Impact and legacy
 

@@ -17,7 +17,7 @@
 - **School/tradition:** Western Marxism, critical theory
 - **Known for:** Asking why Enlightenment reason and mass culture produced domination instead of freedom — the dialectic of Enlightenment and the culture industry
 
-**Responds to:** [Marx](../04-19th-century/karl-marx.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** [Habermas](jurgen-habermas.md), later critical theorists and media scholars — debate ongoing
+**Responds to:** [Marx](../04-19th-century/karl-marx.md), [Kant](../03-early-modern/immanuel-kant.md) · **Answered by:** later critical theorists and media scholars — debate ongoing
 
 ## Biography
 
@@ -25,7 +25,7 @@ The Frankfurt School is an institution and a lineage: the Institute for Social R
 
 The School's founding problem was stark. Orthodox Marxism had expected revolution in advanced capitalism; instead fascism triumphed and Stalinism disgraced the alternative. When the Nazis seized the Institute in 1933 — most members were Jewish and Marxist, a double target — its endowment had already been moved abroad. It re-established itself in Geneva, then from 1934 at Columbia University. Exile gave it a second object of study: America's commercial mass culture, experienced in wartime Los Angeles, where Horkheimer and Adorno wrote *Dialectic of Enlightenment* (circulated 1944, published 1947). In America the Institute also produced *The Authoritarian Personality* (1950). Herbert Marcuse (1898–1979), who stayed in the US, wrote its other bestseller, *One-Dimensional Man* (1964), becoming a hero of the New Left.
 
-Horkheimer and Adorno returned to Frankfurt in 1949–50, refounded the Institute, and became public figures — until 1968–69, when student radicals, some their own students, occupied the Institute and treated Adorno as establishment. Adorno, who had called the police during the occupation, died in 1969. A second generation formed around [Jürgen Habermas](jurgen-habermas.md) (1929–2026), who redirected critical theory toward communication, law, and democracy; a third, including Axel Honneth, centers it on recognition. "Frankfurt School" thus names both an interwar circle and a continuing tradition.
+Horkheimer and Adorno returned to Frankfurt in 1949–50, refounded the Institute, and became public figures — until 1968–69, when student radicals, some their own students, occupied the Institute and treated Adorno as establishment. Adorno, who had called the police during the occupation, died in 1969. A second generation formed around Jürgen Habermas (born 1929), who redirected critical theory toward communication, law, and democracy; a third, including Axel Honneth, centers it on recognition. "Frankfurt School" thus names both an interwar circle and a continuing tradition.
 
 ## Major theories and concepts
 

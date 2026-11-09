@@ -13,7 +13,7 @@
 - **School/tradition:** Utilitarianism (founder); legal and political reform
 - **Known for:** Founding modern utilitarianism — the principle that actions and laws are right insofar as they promote "the greatest happiness of the greatest number."
 
-**Responds to:** Blackstone's *Commentaries* and the unreformed English common law · **Answered by:** [J. S. Mill](john-stuart-mill.md), [H. L. A. Hart](../05-20th-century/h-l-a-hart.md), [Foucault](../05-20th-century/michel-foucault.md)
+**Responds to:** Blackstone's *Commentaries* and the unreformed English common law · **Answered by:** [J. S. Mill](john-stuart-mill.md), [Foucault](../05-20th-century/michel-foucault.md)
 
 ## Biography
 
@@ -64,7 +64,7 @@ The classic objection targets the calculus: pleasures are not commensurable unit
 
 ## Misreadings to avoid
 
-- Bentham was not a crude hedonist for whom all pleasures are pushpin-equal; what Bentham actually wrote in *The Rationale of Reward* is "prejudice apart, the game of push-pin is of equal value with the arts and sciences of music and poetry," a line about impartial measurement (the more familiar "quantity of pleasure being equal, push-pin is as good as poetry" is Mill's paraphrase), and later scholars note how often it is quoted against its purpose.
+- Bentham was not a crude hedonist for whom all pleasures are pushpin-equal; "quantity of pleasure being equal, pushpin is as good as poetry" is a line about impartial measurement, and later scholars note how often it is quoted against its purpose.
 - Utilitarianism is not egoism: the standard is everyone's happiness, impartially.
 - The Panopticon was designed as a *humane* alternative to the prisons of his day; its modern use as a symbol of oppression is Foucault's reinterpretation, not Bentham's intention.
 - He did not found UCL in the administrative sense; he was its inspiration and prophet.

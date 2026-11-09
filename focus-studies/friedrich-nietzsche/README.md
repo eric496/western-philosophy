@@ -36,8 +36,6 @@ The library's [learning path](../../learning-path.md) meets Nietzsche in **Stage
 
 This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/friedrich-nietzsche/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v1) (tag `focus-audio-v1`), linked in the table — about **2 hours 22 minutes** in total:
 
-*(Sum of the listed per-episode durations is 2 h 21 min; the headline figure is rounded up.)*
-
 | Episode | File | Duration |
 |---|---|---|
 | Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/friedrich-nietzsche-01-life-and-times.mp3) | 20 min |
@@ -47,8 +45,6 @@ This dossier's five content files are also a narrated audio edition (Helio voice
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/friedrich-nietzsche-06-reception-and-debates.mp3) | 17 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
-
-**Text revised after recording (November 2026).** A full accuracy-and-depth revision changed the written files after these episodes were rendered: quotations checked against the texts (BGE §§6, 13, 21, 36; GS §343; GM I §7, II §17; "a mobile army of metaphors"), "pessimism of strength" relocated to the 1886 preface of *The Birth of Tragedy*, the three-metamorphoses card rewritten, the SEP author corrected, and new material on the *Nachlass* and which texts count as evidence. Where the audio and the text differ, the text is authoritative.
 
 ## Start here
 

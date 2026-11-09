@@ -13,13 +13,13 @@
 - **School/tradition:** German Idealism; the culmination of post-Kantian philosophy
 - **Known for:** The claim that reality, history, and mind are one self-developing whole, which comes to understand itself through conflict and reconciliation.
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md), [Green & Bradley](british-idealists.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md)
 
 ## Biography
 
 Georg Wilhelm Friedrich Hegel was born in Stuttgart in 1770, the son of a revenue official in the Duchy of Württemberg. He studied at the Tübingen Seminary, a Protestant theological school, where his roommates and friends were the poet Friedrich Hölderlin and the young prodigy Friedrich Schelling. The three were enthusiastic about the French Revolution and are said to have planted a "tree of liberty"; Hegel carried that youthful hope — that freedom could become actual in the world — into his mature philosophy, though in a far more sober form.
 
-After university Hegel worked for years as a private tutor in Berne and Frankfurt, quietly drafting manuscripts on religion and politics. His friend Schelling, by then famous, helped him get a post at the University of Jena in 1801. There, while Napoleon's army approached the city, Hegel finished his first masterpiece, the *Phenomenology of Spirit* (1807). He famously wrote to a friend that he had seen Napoleon — "this world-soul" — riding out of Jena "astride a horse" the day before the battle that scattered the university.
+After university Hegel worked for years as a private tutor in Berne and Frankfurt, quietly drafting manuscripts on religion and politics. His friend Schelling, by then famous, helped him get a post at the University of Jena in 1801. There, while Napoleon's army approached the city, Hegel finished his first masterpiece, the *Phenomenology of Spirit* (1807). He famously wrote to a friend that he had seen Napoleon ride through Jena — "the world-soul on horseback" — the day before the battle that scattered the university.
 
 The war years made him a school headmaster in Nuremberg (1808–1816), where he married Marie von Tucher and wrote his most forbidding work, the *Science of Logic*. Appointments at Heidelberg (1816) and then Berlin (1818) made him the dominant philosopher of the German-speaking world; students crossed Europe to hear his lectures on history, art, religion, and law. He died suddenly in 1831, probably of cholera, during an epidemic in Berlin. His lecture courses were published posthumously from student notes, which is why several famous "Hegel texts" are really careful reconstructions of what audiences heard.
 
@@ -35,7 +35,7 @@ A simple illustration: the bud disappears in the blossom, and the blossom is in 
 
 *Geist* — translated "Spirit" or "Mind" — is Hegel's name for reality understood as a self-developing whole that comes to know itself. Spirit externalises itself in nature, then returns to itself in human beings: in our subjective minds, in society and the state (objective spirit), and finally in art, religion, and philosophy (absolute spirit), where the whole understands what it is. God, on this view, is not a craftsman outside the world but the world's own rational life coming to self-awareness in human culture. Whether this makes Hegel a theist, a pantheist, or a kind of humanist has been debated ever since.
 
-His slogan "what is rational is actual and what is actual is rational" needs care. "Actuality" (*Wirklichkeit*) is a technical term: not everything that merely exists counts as actual, only what embodies its rational structure. A corrupt, failing state exists, but is not fully "actual" as a state. The slogan is therefore not a blanket blessing on whatever happens to exist — though critics have often read it that way, and the debate continues.
+His slogan "the real is rational and the rational is real" needs care. "Actuality" (*Wirklichkeit*) is a technical term: not everything that merely exists counts as actual, only what embodies its rational structure. A corrupt, failing state exists, but is not fully "actual" as a state. The slogan is therefore not a blanket blessing on whatever happens to exist — though critics have often read it that way, and the debate continues.
 
 ### Lordship and Bondage
 
@@ -45,7 +45,7 @@ The moral is foundational: selfhood is social. We become selves only through rec
 
 ### Philosophy of history and the cunning of reason
 
-Hegel reads world history as "the progress of the consciousness of freedom": ancient Eastern worlds knew that *one* (the ruler) is free; the Greek and Roman worlds knew that *some* are free; the modern world, in principle, knows that *all* are free. Individuals pursue their own passions — ambition, greed, glory — yet reason achieves its ends through them: this is the "cunning of reason," as when a conqueror's vanity unintentionally spreads legal and political forms that outlast him. Freedom is realized concretely in *Sittlichkeit*, "ethical life": the institutions of family, civil society (markets, professions, law), and the constitutional state, within which alone individual liberty is more than an empty wish.
+Hegel reads world history as "progress in the consciousness of freedom": ancient Eastern worlds knew that *one* (the ruler) is free; the Greek and Roman worlds knew that *some* are free; the modern world, in principle, knows that *all* are free. Individuals pursue their own passions — ambition, greed, glory — yet reason achieves its ends through them: this is the "cunning of reason," as when a conqueror's vanity unintentionally spreads legal and political forms that outlast him. Freedom is realized concretely in *Sittlichkeit*, "ethical life": the institutions of family, civil society (markets, professions, law), and the constitutional state, within which alone individual liberty is more than an empty wish.
 
 ## Signature arguments
 
@@ -71,7 +71,7 @@ Therefore, freedom is actual only as participation in rational institutions, not
 
 **Objection.** This seems to baptize existing institutions. If duties are whatever family, market, and state happen to demand, then “rational” becomes a compliment paid to the status quo — the conservative reading pressed by critics from Marx onward.
 
-**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualize freedom, and his own gloss on the slogan that “what is rational is actual” (Encyclopedia §6) expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
+**Reply.** Hegel's defenders stress his own criterion: mere existence is not actuality. Institutions count as rational only insofar as they actualize freedom, and his slogan that “what is rational is actual” expressly denies that everything existing is rational — a corrupt or failing state exists without being fully actual as a state. How well Hegel's own Prussian-era applications meet that criterion is, as scholars continue to dispute, a separate and open question.
 
 ## Key works
 
@@ -87,7 +87,7 @@ Hegel made philosophy irretrievably historical and social. Before him, Kant had 
 
 ## Impact and legacy
 
-The aftershocks are everywhere. The Young Hegelians split into left and right wings; Feuerbach and Marx turned his dialectic materialist, Kierkegaard rebelled against the system in the name of the individual, and both rebellions are unthinkable without him. [British Idealism](british-idealists.md) (Bradley, Green) dominated Anglophone philosophy for a generation. In the 20th century, Kojève's Paris lectures shaped Sartre and French thought; the Frankfurt School, hermeneutics, communitarianism, and contemporary theories of recognition (Honneth, Taylor) all work in his shadow. Even his opponents define themselves against him — a sign of his centrality.
+The aftershocks are everywhere. The Young Hegelians split into left and right wings; Feuerbach and Marx turned his dialectic materialist, Kierkegaard rebelled against the system in the name of the individual, and both rebellions are unthinkable without him. British Idealism (Bradley, Green) dominated Anglophone philosophy for a generation. In the 20th century, Kojève's Paris lectures shaped Sartre and French thought; the Frankfurt School, hermeneutics, communitarianism, and contemporary theories of recognition (Honneth, Taylor) all work in his shadow. Even his opponents define themselves against him — a sign of his centrality.
 
 ## Criticisms and debates
 

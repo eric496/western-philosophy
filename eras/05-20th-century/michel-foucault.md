@@ -13,7 +13,7 @@
 - **School/tradition:** French philosophy, history of systems of thought
 - **Known for:** Showing that power produces knowledge, institutions, and kinds of people — not only represses — through discipline, surveillance, and biopolitics
 
-**Responds to:** [Nietzsche](../04-19th-century/friedrich-nietzsche.md), [Bentham](../04-19th-century/jeremy-bentham.md) · **Answered by:** [Derrida](jacques-derrida.md), [Habermas](jurgen-habermas.md)
+**Responds to:** [Nietzsche](../04-19th-century/friedrich-nietzsche.md), [Bentham](../04-19th-century/jeremy-bentham.md) · **Answered by:** [Derrida](jacques-derrida.md)
 
 ## Biography
 
@@ -55,7 +55,7 @@ His emblem is Bentham's *Panopticon*: cells ring a central tower whose occupancy
 
 ### Biopower and biopolitics
 
-From the 18th century a second pole joined discipline within what Foucault calls *biopower*: *biopolitics* takes the *population* as its object: birth rates, life expectancy, epidemics, hygiene. Sovereign power held the right "to take life or let live," enforced by the sword; biopower works by "making live and letting die," fostering populations' health and productivity. Vaccination, censuses, social insurance, and sanitation are biopolitics in this descriptive sense; at the dark extreme, state racism is biopower deciding which part of a population may be exposed to death for the rest. Scholars have extended the analysis to pandemics, borders, and health data — extensions Foucault did not himself make.
+From the 18th century a second power joined discipline. *Biopower* takes the *population* as its object: birth rates, life expectancy, epidemics, hygiene. Sovereign power had "made die and let live" by the sword; biopower "makes live and lets die," fostering populations' health and productivity. Vaccination, censuses, social insurance, and sanitation are biopolitics in this descriptive sense; at the dark extreme, state racism is biopower deciding which part of a population may be exposed to death for the rest. Scholars have extended the analysis to pandemics, borders, and health data — extensions Foucault did not himself make.
 
 ### The repressive hypothesis and technologies of the self
 
@@ -83,7 +83,7 @@ The claim is about a technology of power, not only about prisons. The examinatio
 3. That talk was productive rather than merely censoring: it created "sexuality" as an object of knowledge and a core of personal identity, in the pattern Foucault calls power/knowledge.
 Therefore, sexuality is not simply a natural secret repressed by power; it is partly an effect of the very apparatuses that claim only to police it or to liberate it.
 
-**Objection.** Nancy Fraser, [Jürgen Habermas](jurgen-habermas.md), and others press a charge of normative confusion: if power is everywhere and productive of everything, Foucault seems to give no standpoint from which domination is objectionable. His critique appears to rely on values — freedom, resistance to subjugation — that his own framework cannot avow.
+**Objection.** Nancy Fraser, Jürgen Habermas, and others press a charge of normative confusion: if power is everywhere and productive of everything, Foucault seems to give no standpoint from which domination is objectionable. His critique appears to rely on values — freedom, resistance to subjugation — that his own framework cannot avow.
 
 **Reply.** Defenders reply that genealogy criticizes by showing contingency: arrangements presented as natural or necessary are shown to be historical, and therefore changeable, which reopens space for action without needing a universal foundation. Foucault also points to resistance as internal to every power relation, not imported from outside it. Whether this answers the normative charge, or restates it in other terms, is a standing debate in the literature.
 
@@ -104,7 +104,7 @@ Foucault gave the humanities and social sciences a new object — the historical
 
 ## Impact and legacy
 
-Few modern thinkers traveled further outside philosophy. [Judith Butler's](feminist-philosophy-after-beauvoir.md) account of gender performativity develops his account of how norms produce subjects. Readers of Edward Said used his idea of discourse while criticizing his Eurocentrism. Giorgio Agamben took biopolitics toward the camp and the state of exception. His work underpins surveillance studies, critical criminology and prison-abolition debates, histories of medicine and psychiatry, education research, and queer theory. In public argument "panoptic" is now default vocabulary for digital surveillance, and pandemic-era debates about public-health power were conducted, often unknowingly, in his terms.
+Few modern thinkers traveled further outside philosophy. Judith Butler's account of gender performativity develops his account of how norms produce subjects. Readers of Edward Said used his idea of discourse while criticizing his Eurocentrism. Giorgio Agamben took biopolitics toward the camp and the state of exception. His work underpins surveillance studies, critical criminology and prison-abolition debates, histories of medicine and psychiatry, education research, and queer theory. In public argument "panoptic" is now default vocabulary for digital surveillance, and pandemic-era debates about public-health power were conducted, often unknowingly, in his terms.
 
 ## Criticisms and debates
 

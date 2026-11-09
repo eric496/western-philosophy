@@ -13,7 +13,7 @@
 - **School/tradition:** Phenomenology, post-structuralism
 - **Known for:** Founding deconstruction — a reading practice showing how texts depend on oppositions they cannot keep stable — and *différance*, how meaning works by difference and deferral
 
-**Responds to:** [Levinas](emmanuel-levinas.md), [Foucault](michel-foucault.md), [Gadamer](hans-georg-gadamer.md) · **Answered by:** [Habermas](jurgen-habermas.md) (*The Philosophical Discourse of Modernity*, 1985) and critics across the analytic–continental divide — debate ongoing in this repo
+**Responds to:** [Levinas](emmanuel-levinas.md), [Foucault](michel-foucault.md), [Gadamer](hans-georg-gadamer.md) · **Answered by:** his critics across the analytic–continental divide — debate ongoing, no single entry in this repo
 
 ## Biography
 
@@ -31,7 +31,7 @@ Derrida was also an institution-builder: he campaigned through GREPH against cut
 
 Derrida argued Western philosophy is organized by a longing for *presence*: meaning or selfhood fully present to itself, without mediation. Privileging speech as presence's home is *logocentrism*; the broader pattern is the *metaphysics of presence*.
 
-Plato's *Phaedrus* is his classic exhibit: Socrates ranks speech above writing because the speaker is present to correct misunderstanding, while the written word "is bandied about, alike among those who understand and those who have no interest in it" (275e), defenseless in its author's absence. Derrida's counter-move is to show that writing's supposed flaws — working in the author's absence, repeatable in new contexts, escaping intended meaning — are already features of speech. A spoken sentence also works when the speaker leaves and can be quoted against intent. Writing in this generalized sense is not a fallen copy but a condition of all language.
+Plato's *Phaedrus* is his classic exhibit: Socrates ranks speech above writing because the speaker is present to correct misunderstanding, while a text "rolls around everywhere," defenseless in its author's absence. Derrida's counter-move is to show that writing's supposed flaws — working in the author's absence, repeatable in new contexts, escaping intended meaning — are already features of speech. A spoken sentence also works when the speaker leaves and can be quoted against intent. Writing in this generalized sense is not a fallen copy but a condition of all language.
 
 ### Binary oppositions and deconstruction
 

@@ -26,9 +26,7 @@ First, *method*: Plato does not merely hold doctrines, he teaches the discipline
 
 ## The study plan at a glance
 
-The library's [learning path](../../learning-path.md) meets Plato in **Stage 1** (Ancient Foundations), third in the stage's study order (after the Presocratics and Socrates-through-Plato), as its first single *core* figure — reached after the Presocratics at map level and Socrates read through Plato, and read in the path's fixed order: *Euthyphro*, *Apology*, *Crito*, *Meno*, *Phaedo*, *Symposium* selections, then the *Republic* on the selective route. This dossier keeps that order and deepens it rather than replacing it: the dialogues whole where the path selects, the *Gorgias* and *Theaetetus* added as the plan's extensions, and the *Republic* worked with the library's book-by-book guide. [07-study-plan.md](07-study-plan.md) lays out a **6-week plan** at the learning path's weekly rhythm — on the order of six weeks of Stage 1 desk study, with the plan file itself carrying the audited hour total, week by week, including the daily card queue and assigned media. It runs inside Stage 1 at the Plato block; Aristotle, whose Stage 1 block follows immediately, reads throughout as Plato's first and greatest respondent, and the dossier is built to hand you over to him.
-
-The honest total is about **34 hours of scheduled study (roughly 5.5 to 6 hours a week) plus about 7 hours of daily card review, about 41 hours in all**; these hours sit on top of Stage 1's own budget rather than inside it, so choose this dossier or the path's trimmed Stage 1, not both.
+The library's [learning path](../../learning-path.md) meets Plato in **Stage 1** (Ancient Foundations), week 3, as the stage's first *core* figure — reached after the Presocratics at map level and Socrates read through Plato, and read in the path's fixed order: *Euthyphro*, *Apology*, *Crito*, *Meno*, *Phaedo*, *Symposium* selections, then the *Republic* on the selective route. This dossier keeps that order and deepens it rather than replacing it: the dialogues whole where the path selects, the *Gorgias* and *Theaetetus* added as the plan's extensions, and the *Republic* worked with the library's book-by-book guide. [07-study-plan.md](07-study-plan.md) lays out a **6-week plan** at the learning path's weekly rhythm — on the order of six weeks of Stage 1 desk study, with the plan file itself carrying the audited hour total, week by week, including the daily card queue and assigned media. It runs inside Stage 1 at the Plato block; Aristotle, whose Stage 1 block follows immediately, reads throughout as Plato's first and greatest respondent, and the dossier is built to hand you over to him.
 
 ## Audio companion
 
@@ -43,9 +41,6 @@ This dossier's five content files are also a narrated audio edition (Helio voice
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-06-reception-and-debates.mp3) | 23 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally — "Republic 473 c to e," not raw Stephanus strings). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
-
-**Text revised after recording (November 2026).** A full accuracy-and-depth revision changed the written files after these episodes were rendered: corrected pinpoints and quotations, fixed cross-references, and new sections (three further early arguments, the poetry argument, the *Philebus*). Where the audio and the text differ, the text is authoritative.
-
 ## Start here
 
 - The quick portrait: the library entry, [Plato](../../eras/01-ancient/plato.md).

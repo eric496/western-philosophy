@@ -27,11 +27,11 @@ The marriage lasted seven years, much of it spent traveling for Harriet's fragil
 
 ### The enfranchisement of women
 
-Taylor Mill's one major lifetime publication, "The Enfranchisement of Women" (1851, in the *Westminster Review*), argues for the complete legal and civil equality of women: the vote, eligibility for office, equal education, and access to all occupations. Its reasoning is characteristic of her style. Existing arrangements, she argues, rest on force and custom, not nature: we cannot know what women's "nature" is, because women have never been allowed to develop outside subordination — an argument Mill would later make famous in *The Subjection of Women* (1869). Where Mill's later essay is comparatively cautious, Taylor Mill's is not: she demands women's "admission, in law, and in fact, to equality in all rights, political, civil and social, with the male citizens of the community" without qualification.
+Taylor Mill's one major lifetime publication, "The Enfranchisement of Women" (1851, in the *Westminster Review*), argues for the complete legal and civil equality of women: the vote, eligibility for office, equal education, and access to all occupations. Its reasoning is characteristic of her style. Existing arrangements, she argues, rest on force and custom, not nature: we cannot know what women's "nature" is, because women have never been allowed to develop outside subordination — an argument Mill would later make famous in *The Subjection of Women* (1869). Where Mill's later essay is comparatively cautious, Taylor Mill's is not: she demands admission of women to "all the rights and privileges of citizenship" without qualification.
 
 ### Equality within marriage
 
-Her unpublished writings on marriage and divorce (written around 1832, when the two Mills were first exchanging essays) are more radical still. She argued that marriage law made wives legally and economically dependent, that easy divorce was essential to genuine equality, and that women's economic independence through work was the precondition of free choice in private life. On these questions she was consistently ahead of her famous partner — a pattern Mill himself acknowledged when he wrote that she made him bolder in speculation about the future, while her practical judgment kept him from the merely visionary.
+Her unpublished writings on marriage and divorce (written around 1832, when the two Mills were first exchanging essays) are more radical still. She argued that marriage law made wives legally and economically dependent, that easy divorce was essential to genuine equality, and that women's economic independence through work was the precondition of free choice in private life. On these questions she was consistently ahead of her famous partner — a pattern Mill himself acknowledged when he wrote that on practical matters her judgment was the bolder and more far-sighted of the two.
 
 ### Socialism and the scope of reform
 
@@ -62,7 +62,7 @@ Published anonymously, her work was long absorbed into Mill's reputation; *The S
 
 - She was not merely Mill's "muse." Whatever the verdict on particular texts, she published a substantial feminist argument under conditions of anonymity, wrote on marriage and property independently, and is documented as changing his mind on identifiable questions.
 - Conversely, the dedication of *On Liberty* is not proof she wrote it. Treating Mill's tribute as a title page repeats, in reverse, the error of treating its absence as proof she contributed nothing.
-- *The Subjection of Women* (1869) is Mill's solo work, written c. 1860–61, after her death in 1858, and published in his lifetime — deeply influenced by her, but not a joint text in the way they both used the term.
+- *The Subjection of Women* (1869) is Mill's posthumous solo work, written a decade after her death — deeply influenced by her, but not a joint text in the way they both used the term.
 
 ## What to read first
 

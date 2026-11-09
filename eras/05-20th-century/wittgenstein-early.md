@@ -19,7 +19,7 @@
 
 Ludwig Wittgenstein was born on 26 April 1889 in Vienna, the youngest of eight children in one of the wealthiest families in the Austro-Hungarian Empire. His father Karl was a steel magnate; his mother Leopoldine was musical, and the family home was a center of Viennese cultural life visited by Brahms and Mahler. The household was also intense and demanding. Three of Wittgenstein's brothers died by suicide, and Wittgenstein himself struggled with suicidal thoughts throughout his life. Any honest biography holds both parts together: immense privilege, and a severe, restless temperament that never let him settle comfortably inside it.
 
-Educated at home until fourteen, then at a technical school in Linz, he first pursued engineering: Berlin, then Manchester in 1908 for aeronautics research. The mathematics it required led him to its foundations. Reading Russell's *The Principles of Mathematics* (1903) and Frege changed his direction. In 1911 Frege advised him to study with Russell at Cambridge. He arrived unannounced and argued so well that Russell quickly judged him a genius — "perhaps the most perfect example I have ever known of genius as traditionally conceived, passionate, profound, intense, and dominating."
+Educated at home until fourteen, then at a technical school in Linz, he first pursued engineering: Berlin, then Manchester in 1908 for aeronautics research. The mathematics it required led him to its foundations. Reading Russell's *The Principles of Mathematics* (1903) and Frege changed his direction. In 1911 Frege advised him to study with Russell at Cambridge. He arrived unannounced and argued so well that Russell quickly judged him a genius — "the most perfect example I have ever known of genius as traditionally conceived, passionate, profound, intense, and dominating."
 
 After his father's death in 1913 left him very rich, Wittgenstein withdrew to a house he had built at Skjolden in Norway. In 1914 he gave away 100,000 crowns to Austrian writers and artists (Rilke and Trakl among them); the bulk of the fortune itself he transferred to his siblings only in 1919, after the war. There, in isolation through the winter, the core ideas of the *Tractatus* took shape.
 
@@ -55,39 +55,13 @@ This saying/showing distinction does much of the book's work. Tautologies such a
 
 ### The limits of language and the mystical
 
-If only factual propositions have sense, then ethics, aesthetics, religion, and metaphysics cannot be stated as facts. "It is clear that ethics cannot be put into words. Ethics is transcendental" (6.421). The meaning of the world as a whole must lie outside the world of facts. Wittgenstein calls this dimension *the mystical*: not a set of hidden facts, but the experience of the world as a limited whole, wonder that the world exists at all.
+If only factual propositions have sense, then ethics, aesthetics, religion, and metaphysics cannot be stated as facts. "Ethics cannot be put into words. Ethics is transcendental" (6.421). The meaning of the world as a whole must lie outside the world of facts. Wittgenstein calls this dimension *the mystical*: not a set of hidden facts, but the experience of the world as a limited whole, wonder that the world exists at all.
 
 The tone matters. In a 1919 letter to publisher Ludwig von Ficker, Wittgenstein wrote that the book's point was ethical, that it consisted of the part written and all the part he had *not* written — and that the unwritten part was the important one. Drawing a limit around factual speech protected what mattered most. Hence the final proposition: "What we cannot speak about we must pass over in silence" (7).
 
 ### Solipsism, the self, and death
 
-In 5.63–5.641, Wittgenstein argues the thinking subject is not an item *in* the world but a limit of it, much as the eye is not itself in the visual field. Properly understood, solipsism coincides with a kind of realism; and, he adds at 6.4311, death is not an event within life. These compressed, contested remarks show the *Tractatus* was never only a logic textbook.
-
-## Signature arguments
-
-**The picture theory of meaning (*Tractatus*, 2.1–2.225 and 4.01–4.06)**
-
-1. The world is the totality of facts, not of things: a fact is a state of affairs that obtains, a combination of simple objects.
-2. A proposition with sense is a picture of a possible state of affairs: its names stand for objects, and the way the names are arranged presents a possible arrangement of those objects.
-3. A picture can depict only by sharing its *logical form* (its structure of possible combination) with what it depicts, as a musical score, a gramophone record and a performance share one internal structure.
-4. Whether the pictured arrangement actually obtains settles whether the proposition is true; a false proposition still pictures a possibility, so it is still meaningful.
-Therefore, to have sense is to picture a possible state of affairs, and every genuine factual proposition is bipolar: capable of being true and capable of being false.
-
-**Objection.** Frank Ramsey's colour-exclusion problem. Elementary propositions were supposed to be independent of one another, each true or false regardless of the rest. Yet colours exclude each other: "This is red and green all over" cannot be true, though colour statements seem to resist further analysis. The system then contains an exclusion that is neither a logical contradiction nor allowed by its own rules. A second pressure point: Wittgenstein never exhibited a single simple object.
-
-**Reply.** In the *Tractatus* (6.3751) Wittgenstein called the exclusion a logical impossibility, excluded by the logical structure of colour, hoping analysis down to physics would expose it as a contradiction. Ramsey's review (1923) answered that the analysis still did not reach one. By "Some Remarks on Logical Form" (1929) Wittgenstein conceded that elementary propositions cannot all be independent, one of the pressures that brought him back to philosophy. On simples, defenders reply that the demand is structural, not an inventory; critics answer that a theory of meaning should not rest on items no one can exhibit. The core idea of picturing through shared form outlived the independence thesis; the system as first stated did not.
-
-**Saying, showing, and the ladder (*Tractatus*, 4.1212, 6.4–6.54, 7)**
-
-1. Only propositions that picture possible states of affairs have sense.
-2. Logical form cannot itself be pictured, since stating it would mean standing outside the form any statement must share; it shows itself in meaningful propositions instead: "What can be shown, cannot be said" (4.1212).
-3. Ethics, aesthetics and the meaning of the world as a whole are not facts within the world: "Ethics is transcendental" (6.421).
-4. The *Tractatus*'s own propositions, about pictures, form and the world as a whole, are not pictures of facts either.
-Therefore, what matters most can only be shown, the book's own sentences lack sense by its own standard, a ladder to climb and then throw away (6.54), and "What we cannot speak about we must pass over in silence" (7).
-
-**Objection.** Self-application. If the book's sentences lack factual sense, why trust them? A book that says so much about what cannot be said looks either self-refuting or evasive; Frank Ramsey put it as the quip that what cannot be said cannot be whistled either.
-
-**Reply.** Wittgenstein embraced the paradox with the ladder metaphor, and readers still divide over what that achieves. On the *traditional* (ineffability) reading, defended in different forms by P. M. S. Hacker and others, the book conveys genuine but unsayable truths about logical form and the mystical. On the *resolute* reading of Cora Diamond and James Conant, there are no ineffable truths at all: the sentences are plain nonsense, and the therapy is complete only when the reader stops trying to keep a theory. A middle range of readings exists too. Whether the ladder is profound consistency or evasion remains a live scholarly dispute.
+In the 5s, Wittgenstein argues the thinking subject is not an item *in* the world but a limit of it, much as the eye is not itself in the visual field. Properly understood, solipsism coincides with a kind of realism, and death is not an event within life. These compressed, contested remarks show the *Tractatus* was never only a logic textbook.
 
 ## Key works
 

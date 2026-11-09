@@ -11,13 +11,13 @@
 - **Dates:** 1712–1778
 - **Place:** Geneva and France
 - **School/tradition:** Social-contract theorist, philosopher of education and human nature
-- **Known for:** “Man is born free; and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*
+- **Known for:** “Man is born free, and everywhere he is in chains,” natural human goodness, and the general will in *The Social Contract*
 
-**Responds to:** [Hobbes](thomas-hobbes.md), [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Wollstonecraft](mary-wollstonecraft.md), [Burke](edmund-burke.md)
+**Responds to:** [Hobbes](thomas-hobbes.md), [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Wollstonecraft](mary-wollstonecraft.md)
 
 ## Biography
 
-Jean-Jacques Rousseau was born on 28 June 1712 in Geneva, then an independent Calvinist republic. His mother died days after his birth; his watchmaker father fled Geneva in 1722, leaving the boy to unhappy apprenticeships. At fifteen Rousseau left Geneva (in March 1728) and began years of wandering in Savoy and Italy, taken up by the Baronne de Warens, converting to Catholicism (later reversed), and educating himself as tutor, secretary, and music copyist. With Thérèse Levasseur, whom he eventually married, he had five children whom he consigned to a foundling hospital — a decision he defended and regretted in shifting ways, and which enemies never let him forget.
+Jean-Jacques Rousseau was born on 28 June 1712 in Geneva, then an independent Calvinist republic. His mother died days after his birth; his watchmaker father fled Geneva in 1722, leaving the boy to unhappy apprenticeships. At sixteen Rousseau left Geneva and began years of wandering in Savoy and Italy, taken up by the Baronne de Warens, converting to Catholicism (later reversed), and educating himself as tutor, secretary, and music copyist. With Thérèse Levasseur, whom he eventually married, he had five children whom he consigned to a foundling hospital — a decision he defended and regretted in shifting ways, and which enemies never let him forget.
 
 Fame came suddenly. In 1749, walking to visit the imprisoned Diderot, he read the Academy of Dijon’s prize question: had the arts and sciences improved morals? His answer — no — won, and the *Discourse on the Sciences and Arts* (1750) made him famous. The *Discourse on the Origin of Inequality* (1755) established him as civilization’s scandalous internal critic. He moved among the *philosophes* before temperament and doctrine produced permanent quarrels.
 
@@ -39,7 +39,7 @@ Rousseau’s most durable distinction separates *amour de soi* — self-love dir
 
 ### Private property and the origin of inequality
 
-The *Discourse on Inequality*, Part II, opens famously: “The first man who, having enclosed a piece of ground, bethought himself of saying *This is mine*, and found people simple enough to believe him, was the real founder of civil society” (trans. G. D. H. Cole). Property is no natural right, as in Locke, but a convention that hardened — through agriculture, metallurgy, comparison, and dependence — into inequality of wealth, then power, then domination legitimised by laws favoring the rich.
+The *Discourse on Inequality*, Part II, opens famously: “The first man who, having enclosed a piece of ground, bethought himself of saying *This is mine*, and found people simple enough to believe him, was the true founder of civil society.” Property is no natural right, as in Locke, but a convention that hardened — through agriculture, metallurgy, comparison, and dependence — into inequality of wealth, then power, then domination legitimised by laws favoring the rich.
 
 Two clarifications matter. The state of nature is a diagnostic device: Rousseau says it describes a state that “perhaps never existed,” separating what is original in us from what society added, as a physicist idealizes away friction. And he did **not** propose abolishing society or a literal return to nature: language and society cannot be unlearned. The real question is what legitimate order is possible now — *The Social Contract*’s question.
 
@@ -65,7 +65,7 @@ Government, finally, is strictly subordinate. Sovereignty — legislative author
 4. Law, introduced to protect property, then fixes and legitimises that dependence as lasting inequality.
 Therefore, inequality is not natural but a historical product of social development: natural man is good, and society corrupts.
 
-Rousseau is explicit that the state of nature is a conjectural device — at the start of the *Discourse*'s main text (the exordium) he asks the reader to begin “by laying facts aside, as they do not affect the question” (trans. Cole) — not a historical claim about how humans actually lived.
+Rousseau is explicit that the state of nature is a conjectural device — in the *Discourse*'s preface he proposes “setting aside the facts” — not a historical claim about how humans actually lived.
 
 **Objection.** The story looks like an unfalsifiable just-so story. Anthropology suggests early humans were social, cooperative, and status-conscious, not solitary wanderers, so the supposed starting point never existed.
 
