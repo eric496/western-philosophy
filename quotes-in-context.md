@@ -10,8 +10,8 @@ instead of quoting.
 ## Ancient
 
 ### "You cannot step twice into the same river"
-- **Source:** Heraclitus, fragment 41–42 in Bywater's numbering (as reproduced in John Burnet's translation, *Early Greek Philosophy*, 1912; Diels–Kranz B12), 6th–5th c. BCE, as collected on Wikisource's "Fragments of Heraclitus"
-- **Speaker:** Heraclitus, in his own voice (we have only the fragment, quoted by later authors — here via Diogenes Laertius / the doxographic tradition)
+- **Source:** Heraclitus, fragment 41–42 in Bywater's numbering (as reproduced in John Burnet's translation, *Early Greek Philosophy*, 3rd ed., 1920; Diels–Kranz B12), 6th–5th c. BCE, as collected on Wikisource's "Fragments of Heraclitus"
+- **Speaker:** Heraclitus, as reported (the "twice" form is probably a later paraphrase of his own B12) (we have only the fragment, quoted by later authors — the "twice" wording via Plato, *Cratylus* 402a, and Plutarch)
 - **Exact wording:** "You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you."
 - **Context:** This is not a lament about change erasing identity, and not a mystical "nothing is real" slogan. Heraclitus's point is that stability and change are not opposites: the river keeps its name and course (the *logos* that structures it) precisely because its water is always different. A companion fragment (81) sharpens it: "We step and do not step into the same rivers; we are and are not" — same river, different water, both true at once.
 - **Entry:** [Heraclitus](eras/01-ancient/heraclitus-of-ephesus.md)
@@ -140,7 +140,7 @@ instead of quoting.
 - **Entry:** [Descartes](eras/03-early-modern/rene-descartes.md)
 
 ### "White paper, void of all characters" (tabula rasa)
-- **Source:** Locke, *An Essay Concerning Human Understanding*, Book II, ch. 1, §2 (1689), original 1690 first-edition text (Project Gutenberg #10615)
+- **Source:** Locke, *An Essay Concerning Human Understanding*, Book II, ch. 1, §2 (1689), Project Gutenberg #10615 (which reproduces the 1690 title page but prints the text of a later, expanded edition)
 - **Speaker:** Locke, in his own voice
 - **Exact wording:** "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas:—How comes it to be furnished?"
 - **Context:** The image answers a specific target — the claim, attacked throughout Book I, that some principles and ideas are innate, stamped on the mind from birth. Locke's positive claim is that all ideas derive from experience, sorted into sensation and reflection; the "white paper" is a thesis about the *origin* of ideas, not a claim that a mind is passive or that people are infinitely malleable by upbringing alone.
@@ -189,7 +189,7 @@ instead of quoting.
 - **Entry:** [Rousseau](eras/03-early-modern/jean-jacques-rousseau.md)
 
 ### "Sapere aude" ("Dare to know")
-- **Source:** Kant, "An Answer to the Question: What is Enlightenment?" (1784), hosted in full English translation at marxists.org
+- **Source:** Kant, "An Answer to the Question: What is Enlightenment?" (1784), tr. Mary J. Gregor, in *Practical Philosophy* (Cambridge, 1996), as hosted at marxists.org
 - **Speaker:** Kant, in his own voice
 - **Exact wording:** "Sapere aude! [dare to be wise] Have courage to make use of your own understanding! is thus the motto of enlightenment."
 - **Context:** Kant borrows the Latin tag from Horace and makes it the motto for a specific, narrow failure he is diagnosing: most people stay immature not from lack of understanding but from "laziness and cowardice," letting a book, a pastor, or a doctor think for them. The essay's larger argument distinguishes the "private" use of reason (where obedience, e.g. as an officer or clergyman, may be required) from its "public" use as a scholar addressing the reading public, which Kant insists must always be free — the motto is not a blanket license to defy any authority in any role.
@@ -197,7 +197,7 @@ instead of quoting.
 
 ### "The starry heavens above me and the moral law within me"
 - **Source:** Kant, *Critique of Practical Reason*, Conclusion (1788); tr. Mary Gregor (Cambridge, 1997); T. K. Abbott's public-domain translation renders the same opening of the Conclusion "Two things fill the mind with ever new and increasing admiration and awe, the oftener and the more steadily we reflect on them: the starry heavens above and the moral law within"
-- **Speaker:** Kant, in his own voice, in the book's closing words
+- **Speaker:** Kant, in his own voice, opening the Conclusion, the book's closing section
 - **Exact wording:** "Two things fill the mind with ever new and increasing admiration and reverence, the more often and more steadily one reflects on them: the starry heavens above me and the moral law within me."
 - **Context:** The two objects are paired on purpose: the starry sky reduces Kant, a mere speck, to insignificance in the physical universe, while the moral law, precisely because it is not spatial or physical, reveals him as a rational agent of infinite worth regardless of his place in nature. It is a statement about human dignity grounded in autonomy, not nature poetry or an argument from design.
 - **Entry:** [Kant](eras/03-early-modern/immanuel-kant.md)
@@ -257,7 +257,7 @@ instead of quoting.
 - **Source:** Nietzsche, *The Gay Science*, §125, "The Madman" (1882); tr. Walter Kaufmann (Vintage, 1974), pp. 181–82; Common's older version reads "How shall we console ourselves, the most murderous of all murderers?"
 - **Speaker:** A madman, in a parable Nietzsche narrates — not Nietzsche's own flat assertion, and not a character who is cheerful about it
 - **Exact wording:** "God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers?"
-- **Context:** The madman runs into a marketplace with a lantern in daylight, shouting that he seeks God, and is laughed at by people who do not believe in God either — he says they, too, are God's murderers, and that they have not yet understood what they have done: no sun to orient by, no up or down, the unmooring of all inherited values. He ends by saying he has come too early, and the parable closes with him smashing his lantern in despairing silence. It is a diagnosis of cultural unbelief and the nihilism Nietzsche sees coming, delivered by a figure whose grief and horror are the point — not an atheist's victory lap.
+- **Context:** The madman runs into a marketplace with a lantern in daylight, shouting that he seeks God, and is laughed at by people who do not believe in God either — he says they, too, are God's murderers, and that they have not yet understood what they have done: no sun to orient by, no up or down, the unmooring of all inherited values. Met with silence, he smashes his lantern and says he has come too early; the parable closes with him going into churches to intone a requiem for God, calling them God's tombs. It is a diagnosis of cultural unbelief and the nihilism Nietzsche sees coming, delivered by a figure whose grief and horror are the point — not an atheist's victory lap.
 - **Entry:** [Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)
 
 ### "What does not kill me makes me stronger"
@@ -287,7 +287,7 @@ instead of quoting.
 - **Source:** Wittgenstein, *Tractatus Logico-Philosophicus*, proposition 7 (1921; English 1922), tr. C. K. Ogden with Frank Ramsey
 - **Speaker:** Wittgenstein, in his own voice — the book's final, one-sentence proposition
 - **Exact wording:** "Whereof one cannot speak, thereof one must be silent." (Ogden/Ramsey, 1922). The now-standard Pears & McGuinness translation (1961) renders it "What we cannot speak about we must pass over in silence."
-- **Context:** This is not a dismissal of ethics, aesthetics, or the meaning of life as worthless nonsense. The Tractatus's own closing propositions (6.4–6.522) say the opposite: ethical and aesthetic value, and "the mystical," are precisely what cannot be put into meaningful propositions about facts — but Wittgenstein calls them *the most important things*, which is exactly why language cannot capture them and philosophy must stop trying to state them as if they were further facts.
+- **Context:** This is not a dismissal of ethics, aesthetics, or the meaning of life as worthless nonsense. The Tractatus's own closing propositions (6.4–6.522) say that ethical and aesthetic value, "the problems of life" and "the mystical" are precisely what cannot be put into meaningful propositions about facts; on the common reading, backed by his letter to the publisher Ludwig von Ficker, Wittgenstein thought them the most important things, which is why philosophy must stop trying to state them as if they were further facts.
 - **Entry:** [Wittgenstein (early · late)](eras/05-20th-century/wittgenstein-early.md)
 
 ### "Existence precedes essence"
