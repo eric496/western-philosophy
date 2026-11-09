@@ -70,7 +70,7 @@ The whole book in one question: if reason is shared, men cannot be judges in the
 
 > Taught from their infancy, that beauty is woman's sceptre, the mind shapes itself to the body, and, roaming round its gilt cage, only seeks to adorn its prison.
 
-— *Rights of Woman*, ch. 2
+— *Rights of Woman*, ch. 3
 
 > I here throw down my gauntlet, and deny the existence of sexual virtues, not excepting modesty.
 

@@ -62,7 +62,7 @@ Critics pressed the central distinction from the start: is "presentational symbo
 
 - Langer did not say art "expresses the artist's feelings". Artworks, for her, present the *forms* of feeling impersonally; the artist's biography is beside the point.
 - Presentational does not mean ineffable or mystical. Her whole claim is that presentational symbols are articulate and structured — just not translatable into discourse without loss.
-- She was not a logical positivist fellow-traveler. She took their question (what is meaning?) and answered it against them, widening meaning beyond the proposition.
+- Her mature theory was not logical positivism. Though her early logical work helped bring Vienna Circle ideas to America, she took their question (what is meaning?) and answered it against them, widening meaning beyond the proposition.
 - The eclipse was not a refutation. Her books went out of fashion faster than they were answered, which is why the current revival reads her as unfinished business rather than a closed case.
 
 ## What to read first

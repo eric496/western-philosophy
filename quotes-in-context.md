@@ -177,7 +177,7 @@ instead of quoting.
 ### "We must cultivate our garden"
 - **Source:** Voltaire, *Candide* (1759), ch. XXX, Candide's last words (New York: Boni and Liveright, 1918)
 - **Speaker:** Candide, the title character, not Voltaire in his own voice
-- **Exact wording:** "we must cultivate our garden."
+- **Exact wording:** "All that is very well," answered Candide, "but let us cultivate our garden."
 - **Context:** The answer Candide gives to Pangloss, who is still insisting that all events are linked for the best. It closes a satire on Leibnizian optimism written after the 1755 Lisbon earthquake. Readers disagree whether it counsels quiet withdrawal from public life or modest, practical work in place of metaphysics; Voltaire himself spent his last decades campaigning for the Calas family and for toleration.
 - **Entry:** [Bayle and Voltaire](eras/03-early-modern/bayle-and-voltaire.md)
 

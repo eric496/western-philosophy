@@ -31,7 +31,7 @@ His death, c. 546 BCE, is equally obscure. What is firm is his succession: Anaxi
 
 An *archē* (plural *archai*) is a beginning, source, or ruling principle — the thing from which everything comes and which explains what everything fundamentally is. Aristotle reports that Thales made water the archē of all things. The claim can be read two ways, and scholars debate which Thales meant: as a *material* claim (everything is, deep down, a form of water) or as an *origin* claim (everything arose from water, as things arise from a seed). It may not have distinguished the two.
 
-Aristotle, guessing at the reasoning, offers plausible observations: nourishment is moist; seeds are wet; water takes any shape and is essential to all life; Thales is also reported to have said the earth floats on water like a log, which would explain earthquakes as rocking rather than a god's anger. Each reason appeals to ordinary experience, not revelation. The tension is obvious, and his successors felt it: how does one uniform, wet stuff become fire, stone, and bone? Thales left no surviving answer, and that gap is what Anaximander's more abstract principle was designed to fill.
+Aristotle, guessing at the reasoning, offers plausible observations: nourishment is moist; heat itself is generated from the moist and kept alive by it; seeds are wet; Thales is also reported to have said the earth floats on water like a log, which would explain earthquakes as rocking rather than a god's anger. Each reason appeals to ordinary experience, not revelation. The tension is obvious, and his successors felt it: how does one uniform, wet stuff become fire, stone, and bone? Thales left no surviving answer, and that gap is what Anaximander's more abstract principle was designed to fill.
 
 ### A naturalistic method
 
@@ -75,7 +75,7 @@ Aristotle himself found a single material cause insufficient, since it cannot ex
 
 ## Study questions
 
-1. Reconstruct Thales' case for water as *archē* from the evidence Aristotle reports — moisture in nourishment and seeds, water's shapeless adaptability, the earth floating on water — and state whether the conclusion is a material claim, an origin claim, or both.
+1. Reconstruct Thales' case for water as *archē* from the evidence Aristotle reports — moisture in nourishment and seeds, heat generated from the moist, the earth floating on water — and state whether the conclusion is a material claim, an origin claim, or both.
 2. Aristotle objects that one material cause cannot explain change or form. Press this against water: how does a uniform wet stuff become fire or bone? What reply is open to Thales, and does it quietly change what *archē* means?
 3. Compare Thales with Heraclitus: is the basic principle a stuff things are made of, or a pattern according to which they change? What does each account explain better?
 4. Apply Thales' naturalistic method to a flood explained by a community as a god's anger. What would count as a Thales-style explanation, what evidence could settle between the two accounts, and does his "all things are full of gods" weaken the contrast?

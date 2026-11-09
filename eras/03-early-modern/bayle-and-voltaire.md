@@ -126,7 +126,7 @@ The *Dictionary* was a commercial success and a scandal, and its influence on Vo
 
 — Voltaire, *Philosophical Dictionary*, "Tolerance"; Carlton House edition (New York, n.d.), p. 302
 
-> "we must cultivate our garden."
+> "but let us cultivate our garden."
 
 — Voltaire, *Candide*, ch. XXX, Candide's last words (Boni and Liveright, 1918)
 

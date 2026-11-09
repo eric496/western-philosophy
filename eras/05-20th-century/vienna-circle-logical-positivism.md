@@ -17,7 +17,7 @@
 
 ## Biography
 
-The Vienna Circle grew out of discussions Moritz Schlick (1882–1936) began after his appointment in 1922 to a Vienna chair once held by Ernst Mach. From about 1924 a group met on Thursday evenings around Schlick: [Rudolf Carnap](rudolf-carnap.md) (1891–1970), its leading theorist; mathematician Hans Hahn; sociologist Otto Neurath, its organizer; Herbert Feigl; Friedrich Waismann; and others, including Kurt Gödel as an occasional participant. A parallel Berlin group gathered around Hans Reichenbach. In "Red Vienna," several members — Neurath above all — saw the scientific world-conception as part of a broader project of public enlightenment.
+The Vienna Circle grew out of discussions Moritz Schlick (1882–1936) began after his appointment in 1922 to a Vienna chair once held by Ernst Mach. From about 1924 a group met on Thursday evenings around Schlick: [Rudolf Carnap](rudolf-carnap.md) (1891–1970), from 1926 its leading theorist; mathematician Hans Hahn; sociologist Otto Neurath, its organizer; Herbert Feigl; Friedrich Waismann; and others, including Kurt Gödel as an occasional participant. A parallel Berlin group gathered around Hans Reichenbach. In "Red Vienna," several members — Neurath above all — saw the scientific world-conception as part of a broader project of public enlightenment.
 
 Two inheritances converged: empiricism modernized by science (Mach, relativity, Frege and Russell's logic), and Wittgenstein's *Tractatus* (1921/1922), read line by line in 1926–27 for its line between science and metaphysical nonsense. Wittgenstein kept his distance — he was not an empiricist or a member — and the Circle's Wittgenstein was partly its own construction.
 

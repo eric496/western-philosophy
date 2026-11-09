@@ -31,7 +31,7 @@ Taylor Mill's one major lifetime publication, "The Enfranchisement of Women" (18
 
 ### Equality within marriage
 
-Her unpublished writings on marriage and divorce (written around 1832, when the two Mills were first exchanging essays) are more radical still. She argued that marriage law made wives legally and economically dependent, that easy divorce was essential to genuine equality, and that women's economic independence through work was the precondition of free choice in private life. On these questions she was consistently ahead of her famous partner — a pattern Mill himself acknowledged when he wrote that on practical matters her judgment was the bolder and more far-sighted of the two.
+Her unpublished writings on marriage and divorce (written around 1832, when the two Mills were first exchanging essays) are more radical still. She argued that marriage law made wives legally and economically dependent, that easy divorce was essential to genuine equality, and that women's economic independence through work was the precondition of free choice in private life. On these questions she was consistently ahead of her famous partner — a pattern Mill himself acknowledged when he wrote that she made him bolder in speculation about the future, while her practical judgment kept him from the merely visionary.
 
 ### Socialism and the scope of reform
 
