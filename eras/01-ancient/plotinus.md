@@ -51,7 +51,7 @@ Evil is not a substance or rival power. It is privation — distance from the Go
 
 ### Beauty and contemplation
 
-In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single color can be beautiful, and a living face outshines a symmetrical corpse. Beauty is presence of Form, recognized because the soul is akin to Form. Contemplation (*theōria*) is not passive: things produce *by* contemplating — nature contemplates silently, and production is its overflow. Contemplation, not action, is the universe's most fundamental activity.
+In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single color can be beautiful, and the same symmetrical face is sometimes beautiful and sometimes not (VI.7.22 adds that a living face outshines a dead one of the same symmetry). Beauty is presence of Form, recognized because the soul is akin to Form. Contemplation (*theōria*) is not passive: things produce *by* contemplating — nature contemplates silently, and production is its overflow. Contemplation, not action, is the universe's most fundamental activity.
 
 ## Key works
 

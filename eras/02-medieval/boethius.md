@@ -29,7 +29,7 @@ For roughly six centuries after Boethius, the Latin West's Aristotle was Boethiu
 
 ### Posing the problem of universals
 
-In his second commentary on the *Isagoge*, Boethius faithfully reported Porphyry's three questions and declined — as Porphyry had — to settle them: Do genera and species (e.g., *human*, *animal*) exist in reality or only in the mind? If real, are they corporeal or incorporeal? And do they exist in sensible things or apart from them? He indicated that Aristotle's answer (real, but existing in sensibles, understood apart) was the more sophisticated, but by laying out the options in a school text read everywhere, he effectively set the examination question for medieval philosophy: the problem of universals that Roscelin, Abelard, Aquinas, Scotus, and Ockham would answer in incompatible ways. Few philosophers have influenced posterity so much by framing a question.
+In his second commentary on the *Isagoge*, Boethius reported Porphyry's three questions, which Porphyry had declined to discuss in an introductory work, and went on to answer them: Do genera and species (e.g., *human*, *animal*) exist in reality or only in the mind? If real, are they corporeal or incorporeal? And do they exist in sensible things or apart from them? He indicated that Aristotle's answer (real, but existing in sensibles, understood apart) was the more sophisticated, but by laying out the options in a school text read everywhere, he effectively set the examination question for medieval philosophy: the problem of universals that Roscelin, Abelard, Aquinas, Scotus, and Ockham would answer in incompatible ways. Few philosophers have influenced posterity so much by framing a question.
 
 ### Fortune, happiness, and the Consolation's argument
 

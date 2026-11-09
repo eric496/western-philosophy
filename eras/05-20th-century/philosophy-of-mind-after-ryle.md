@@ -27,7 +27,7 @@
 
 **Hilary Whitehall Putnam (1926–2016)** was the century's most conspicuous changer of mind. He joined Harvard in 1965 and ended as Cogan University Professor there, inventing the dominant theory of mind of his generation and then becoming its most damaging critic. He died in Arlington, Massachusetts, aged 89.
 
-**Thomas Nagel (b. 4 July 1937, Belgrade)** became a United States citizen in 1944 and studied at Cornell, Oxford and Harvard, taking his Ph.D. in 1963. He has spent his career at New York University as University Professor and Professor of both Philosophy and Law, and won the Balzan Prize in moral philosophy in 2008.
+**Thomas Nagel (b. 4 July 1937, Belgrade)** became a United States citizen in 1944 and studied at Cornell, Oxford and Harvard, taking his Ph.D. in 1963. After teaching at Berkeley (1963–66) and Princeton (1966–80), he moved to New York University as University Professor and Professor of both Philosophy and Law, and won the Balzan Prize in moral philosophy in 2008.
 
 **John Rogers Searle (1932–2025)** was born in Denver and took his Oxford doctorate as a Rhodes Scholar under J. L. Austin and Peter Strawson, whose interest in what speech *does* shaped his own speech-act theory. He joined the University of California, Berkeley in 1959 and stayed for the rest of his career as Slusser Professor of Philosophy of Mind and Language. In 2019, after allegations first raised in a 2017 lawsuit, Berkeley found he had violated its sexual-harassment policies, revoked his emeritus status and ended his teaching; his legacy is accordingly discussed as a divided one.
 

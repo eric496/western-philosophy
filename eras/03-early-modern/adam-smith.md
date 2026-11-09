@@ -55,7 +55,7 @@ The device lets him explain how morality can be both socially formed and genuine
 
 ### Division of labor and the extent of the market
 
-The *Wealth of Nations* begins with the division of labor. In a small pin factory Smith had seen, ten workers, each specializing in one or two of about eighteen operations, made upwards of forty-eight thousand pins a day; working alone, each might hardly have made twenty. Specialization raises productivity through dexterity, saved time, and the invention of machinery. Exchange arises from a propensity to "truck, barter, and exchange," and since specialization only pays when there are buyers for the extra output, the division of labor is limited by the extent of the market (WN I.iii).
+The *Wealth of Nations* begins with the division of labor. In a small pin factory Smith had seen, ten workers, some of them performing two or three of about eighteen operations, made upwards of forty-eight thousand pins a day; working alone, each might hardly have made twenty. Specialization raises productivity through dexterity, saved time, and the invention of machinery. Exchange arises from a propensity to "truck, barter, and exchange," and since specialization only pays when there are buyers for the extra output, the division of labor is limited by the extent of the market (WN I.iii).
 
 The tension is one Smith states himself. In Book V, he warns that a worker confined to a few simple operations risks becoming "as stupid and ignorant as it is possible for a human creature to become," an evil public education must counter. The engine of growth is also a threat to the mind of the worker who drives it.
 

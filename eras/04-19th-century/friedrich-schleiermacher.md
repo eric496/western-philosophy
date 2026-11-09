@@ -42,7 +42,7 @@ His 1813 academy lecture *On the Different Methods of Translating* poses the tra
 
 ### Dialectics and ethics
 
-The lectures he prized most — the *Dialectic* (from 1811), his answer to Kant on the possibility of knowledge — treat thinking as dialogue directed toward agreement in a shared world, with pure thinking and organic sensation as its poles. His *Ethics* lectures correspondingly refuse Kant's duty-only architecture: ethics has three equal forms, the doctrine of **goods** (the realized achievements of reason in nature — state, church, school, free sociability), of **virtues**, and of **duties**. The ethics of goods, with its theory of institutions and culture, is the part of his system later scholars have found most original.
+The lectures he prized most — the *Dialectic* (from 1811), his answer to Kant on the possibility of knowledge — treat thinking as dialogue directed toward agreement in a shared world, with pure thinking and organic sensation as its poles. His *Ethics* lectures correspondingly refuse Kant's duty-only architecture: ethics has three forms, ranked in order of priority: the doctrine of **goods** (the realized achievements of reason in nature — state, church, school, free sociability), of **virtues**, and of **duties**. The ethics of goods, with its theory of institutions and culture, is the part of his system later scholars have found most original.
 
 ## Key works
 
