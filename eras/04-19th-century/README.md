@@ -1,4 +1,5 @@
 # 19th-Century Philosophy (1801 – 1900)
+**English** | [简体中文](../../zh/eras/04-19th-century/README.md)
 
 Boundary notes: Bentham (b. 1748) and Hegel (b. 1770) are starting points; Peirce (d. 1914), James (d. 1910), Nietzsche (d. 1900, unproductive after 1889) close it — their formative work is 19th-c. though influence is 20th-c.
 

@@ -1,4 +1,5 @@
 # Jeremy Bentham
+**English** | [简体中文](../../zh/eras/04-19th-century/jeremy-bentham.md)
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 

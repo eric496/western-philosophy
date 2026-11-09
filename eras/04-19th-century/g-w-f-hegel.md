@@ -1,4 +1,5 @@
 # G.W.F. Hegel
+**English** | [简体中文](../../zh/eras/04-19th-century/g-w-f-hegel.md)
 
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
