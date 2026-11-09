@@ -1,4 +1,5 @@
 # Medieval Philosophy (c. 400 – c. 1400)
+**English** | [简体中文](../../zh/eras/02-medieval/README.md)
 
 Scope: Augustine (354–430) to Ockham (d. 1347) by convention, with Eriugena and Hildegard restored to their chronological places and Nicholas of Cusa (1401–1464) included as a fifteenth-century coda — technically past the era's c. 1400 boundary, but his learned ignorance closes the medieval story and bridges to the Renaissance. Augustine is strictly late-antique/patristic, but medieval philosophy is conventionally taught starting with him (SEP convention) because everyone after argues with him. Avicenna, Averroes, Maimonides were not Latin Christians and did not write in Latin — included because Latin Europe received Aristotle largely THROUGH them.
 

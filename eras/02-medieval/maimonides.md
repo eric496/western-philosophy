@@ -1,4 +1,5 @@
 # Maimonides (Moses ben Maimon / Rambam)
+**English** | [简体中文](../../zh/eras/02-medieval/maimonides.md)
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
