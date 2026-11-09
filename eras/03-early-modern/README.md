@@ -1,4 +1,5 @@
 # Early Modern Philosophy (c. 1600 – 1800)
+**English** | [简体中文](../../zh/eras/03-early-modern/README.md)
 
 ## Era overview
 Medieval Aristotelian-Scholastic synthesis breaks down under Scientific Revolution (Copernicus, Galileo, Newton). Dominating question: What can we actually know, and how — reason, senses, or combination?

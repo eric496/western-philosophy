@@ -4,7 +4,7 @@
 
 ![Portrait of Søren Kierkegaard](https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg)
 
-*Unfinished sketch by his cousin Niels Christian Kierkegaard, c. 1840 (Royal Library, Copenhagen; the infobox uses a cropped version — article caption: "Unfinished sketch of Kierkegaard by his cousin Niels Christian… Image via Wikimedia Commons.*
+*Unfinished sketch by his cousin Niels Christian Kierkegaard, c. 1840 (Royal Library, Copenhagen; the infobox uses a cropped version). Image via Wikimedia Commons.*
 
 ## At a glance
 
