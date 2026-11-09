@@ -1,4 +1,5 @@
 # 20th Century to Present (1900 – )
+**English** | [简体中文](../../zh/eras/05-20th-century/README.md)
 
 ## Era overview: analytic vs continental split
 Labels retrospective/rough — useful if not taken literally.
