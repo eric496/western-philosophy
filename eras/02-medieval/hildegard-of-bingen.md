@@ -1,4 +1,5 @@
 # Hildegard of Bingen
+**English** | [简体中文](../../zh/eras/02-medieval/hildegard-of-bingen.md)
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
