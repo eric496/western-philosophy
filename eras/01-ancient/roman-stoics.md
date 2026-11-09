@@ -1,8 +1,9 @@
 # The Roman Stoics: Seneca, Epictetus, Marcus Aurelius
+**English** | [简体中文](../../zh/eras/01-ancient/roman-stoics.md)
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Seneca the Younger](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/William_of_Ockham.png/250px-William_of_Ockham.png)
+![Portrait of Seneca the Younger](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg/250px-Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg)
 
 *Ancient bust of Seneca, part of the Double Herm of Socrates and Seneca (Antikensammlung Berlin). Image via Wikimedia Commons.*
 

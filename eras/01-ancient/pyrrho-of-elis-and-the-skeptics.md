@@ -1,4 +1,5 @@
 # Pyrrho of Elis & the Skeptics
+**English** | [简体中文](../../zh/eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
