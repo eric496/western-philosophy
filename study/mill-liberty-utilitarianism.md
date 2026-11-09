@@ -1,4 +1,5 @@
 # Study Guide: Mill's *On Liberty* and *Utilitarianism*
+**English** | [简体中文](../zh/study/mill-liberty-utilitarianism.md)
 
 **Work:** *On Liberty* (1859) and *Utilitarianism* (serialised 1861; book form 1863) · **Author:** John Stuart Mill (1806–1873) · **Composed:** *On Liberty* 1859; *Utilitarianism* 1861/1863
 **Covers:** *On Liberty* chapters 1–3 in full, with chapters 4–5 in summary; *Utilitarianism* chapters 2 and 4 in full, with chapters 1, 3, and 5 in summary — with a reading plan, chapter-by-chapter guide, argument reconstructions, self-test questions, and common misreadings.

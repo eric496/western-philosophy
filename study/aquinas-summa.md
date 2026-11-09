@@ -1,4 +1,5 @@
 # Study Guide: Aquinas's *Summa Theologiae* — Selections
+**English** | [简体中文](../zh/study/aquinas-summa.md)
 
 **Work:** *Summa Theologiae*, Part I Question 2 and Part I–II Questions 90–97 · **Author:** Thomas Aquinas (1225–1274) · **Composed:** 1265–1274 (unfinished)
 **Covers:** The Five Ways (Ia q.2) and the treatise on law (Ia–IIae qq. 90–97), with a reading plan, a question-by-question guide, argument reconstructions, self-test questions, and common misreadings.

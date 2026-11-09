@@ -1,4 +1,5 @@
 # Aristotle's *Nicomachean Ethics*: A Study Guide
+**English** | [简体中文](../zh/study/aristotle-nicomachean-ethics.md)
 
 **Work:** *Nicomachean Ethics* (*Ethica Nicomachea*)
 **Author:** Aristotle (384–322 BCE)

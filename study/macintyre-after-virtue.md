@@ -1,4 +1,5 @@
 # Study Guide: MacIntyre's *After Virtue*
+**English** | [简体中文](../zh/study/macintyre-after-virtue.md)
 
 **Work:** *After Virtue: A Study in Moral Theory*, 1981; 3rd edition, University of Notre Dame Press, 2007 · **Author:** Alasdair MacIntyre (1929–2025) · **Covers:** the whole book — Prologue, chapters 1–18, and the Postscript to the second edition (chapter 19 in the third edition) — with a reading plan, section-by-section guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Alasdair MacIntyre](../eras/05-20th-century/alasdair-macintyre.md) · **Study plan:** [Learning Path](../learning-path.md)

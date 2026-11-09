@@ -1,4 +1,5 @@
 # Study Guide: David Hume, *An Enquiry Concerning Human Understanding* (1748)
+**English** | [简体中文](../zh/study/hume-enquiry.md)
 
 **Work:** *An Enquiry Concerning Human Understanding* · **Author:** David Hume (1711–1776) · **First published:** 1748 · **What this guide covers:** all twelve sections of the *Enquiry*, with argument reconstructions, self-test questions, and common misreadings.
 

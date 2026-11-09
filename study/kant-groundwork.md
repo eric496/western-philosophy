@@ -1,4 +1,5 @@
 # Study Guide: Kant's *Groundwork of the Metaphysics of Morals*
+**English** | [简体中文](../zh/study/kant-groundwork.md)
 
 **Work:** *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*) · **Author:** Immanuel Kant (1724–1804) · **Composed:** 1785
 **Covers:** All three sections, with a reading plan, section-by-section guide, argument reconstructions, self-test questions, common misreadings, and a guide to approaching the *Critique of Pure Reason*.

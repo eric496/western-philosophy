@@ -1,4 +1,5 @@
 # Study Guide: John Locke, *An Essay Concerning Human Understanding* (1689/90) — the learning-path selections
+**English** | [简体中文](../zh/study/locke-essay.md)
 
 **Work:** *An Essay Concerning Human Understanding* · **Author:** John Locke (1632–1704) · **First published:** December 1689 (title page dated 1690) · **What this guide covers:** the selections the [learning path](../learning-path.md) assigns in Stage 3 — Book I as a summary pass, Book II in depth (above all chapters i–ii, viii, xii, xxi, and xxvii) — with argument reconstructions, self-test questions, and common misreadings. Book III and Book IV are mapped in outline only, since the path does not assign them; §1.9 explains what they contain and when to go back for them.
 

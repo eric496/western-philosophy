@@ -1,4 +1,5 @@
 # Study Guide: Rawls's *A Theory of Justice*
+**English** | [简体中文](../zh/study/rawls-theory-of-justice.md)
 
 **Work:** *A Theory of Justice* (revised edition, Harvard University Press, 1999) · **Author:** John Rawls (1921–2002) · **Covers:** §§1–4, §§11–13 and §17, and §24 in full, with the reasoning of the parties (§§25–29) and the lexical priority of the principles — with a reading plan, section-by-section guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [John Rawls](../eras/05-20th-century/john-rawls.md) · **Study plan:** [Learning Path](../learning-path.md)

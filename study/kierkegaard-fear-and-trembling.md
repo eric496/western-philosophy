@@ -1,4 +1,5 @@
 # Study Guide: Søren Kierkegaard, *Fear and Trembling* (1843)
+**English** | [简体中文](../zh/study/kierkegaard-fear-and-trembling.md)
 
 **Work:** *Fear and Trembling* (*Frygt og Bæven*) · **Author:** Søren Kierkegaard (1813–1855), writing as **Johannes de silentio** · **First published:** 16 October 1843 · **What this guide covers:** the whole work — Preface, Tuning Up, Eulogy on Abraham, the three Problemata, and Epilogue — with argument reconstructions, self-test questions, and common misreadings. The [learning path](../learning-path.md) assigns Problemata I–II as the core; the rest is short, and this guide's reading plan marks what is core and what completes it.
 

@@ -1,4 +1,5 @@
 # Study Guide: Kant's *Critique of Pure Reason* (Selections)
+**English** | [简体中文](../zh/study/kant-critique.md)
 
 **Work:** *Critique of Pure Reason* (*Kritik der reinen Vernunft*) · **Author:** Immanuel Kant (1724–1804) · **Composed:** 1781 (A edition); substantially revised 1787 (B edition)
 **Covers:** The selections prescribed by the learning path — both Prefaces, the Introduction, the Transcendental Aesthetic, the Analytic of Concepts with the Transcendental Deduction in outline, the Schematism in brief, the Paralogisms and Antinomies in selection, and the Canon of Pure Reason — with a reading plan, an explicit skip list, argument reconstructions, self-test questions, and common misreadings.

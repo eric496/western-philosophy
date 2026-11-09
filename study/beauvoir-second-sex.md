@@ -1,4 +1,5 @@
 # Study Guide: Beauvoir's *The Second Sex*
+**English** | [简体中文](../zh/study/beauvoir-second-sex.md)
 
 **Work:** *The Second Sex* (*Le Deuxième Sexe*, 1949), two volumes · **Author:** Simone de Beauvoir (1908–1986) · **Composed:** 1949
 **Covers:** The Introduction in full; Volume I in summary; Volume II's opening — "Childhood" and "The Young Girl" — in full, with the rest of Volume II in summary — with a reading plan, a section-by-section guide, argument reconstructions, self-test questions, and common misreadings.

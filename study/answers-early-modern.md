@@ -1,4 +1,5 @@
 # Answer Key: Early Modern Study Questions
+**English** | [简体中文](../zh/study/answers-early-modern.md)
 
 Worked model answers to the Study questions in the early modern entries. Attempt each question in writing first — the learning path's rule is reconstruction before comparison — and treat these as one defensible answer, not the only one: where scholarship is divided, the main positions are given rather than a verdict, and application questions in particular admit other equally valid workings.
 

@@ -1,4 +1,5 @@
 # Worked Answers: 19th-Century Study Questions
+**English** | [简体中文](../zh/study/answers-19th-century.md)
 
 Model answers to the Study questions at the end of the 19th-century core entries. These are study aids, not substitutes for your own attempt: work each question book-closed first, as the [learning path](../learning-path.md) directs, then compare. Where a question asks you to judge a debate, the answer gives the strongest considerations on each side rather than a verdict — if your judgment differs and is argued, it can be equally valid.
 

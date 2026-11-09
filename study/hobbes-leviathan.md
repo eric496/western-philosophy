@@ -1,4 +1,5 @@
 # Study Guide: Hobbes's *Leviathan*
+**English** | [简体中文](../zh/study/hobbes-leviathan.md)
 
 **Work:** *Leviathan* (1651) · **Author:** Thomas Hobbes (1588–1679) · **Covers:** Chapters 13–17 in full, with chapters 18–21 in summary, and chapters 14–15 as needed for the laws of nature — with a reading plan, chapter-by-chapter guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Thomas Hobbes](../eras/03-early-modern/thomas-hobbes.md) · **Study plan:** [Learning Path](../learning-path.md)
