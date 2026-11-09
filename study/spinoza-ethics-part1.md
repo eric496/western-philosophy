@@ -1,4 +1,5 @@
 # Study Guide: Spinoza's Ethics Part I
+**English** | [简体中文](../zh/study/spinoza-ethics-part1.md)
 
 **Work:** *Ethics* Part I, "Of God" (1677, posthumous) · **Author:** Baruch Spinoza (1632–1677) · **Composed:** completed c. 1675; published posthumously in the *Opera Posthuma* (1677)
 **Covers:** Part I in full — Definitions 1–8, Axioms 1–7, Propositions 1–36 with their corollaries and scholia, and the Appendix to Part I in full — with a reading plan, section-by-section guide, argument reconstructions, self-test questions, and common misreadings.

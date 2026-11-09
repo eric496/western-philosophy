@@ -1,4 +1,5 @@
 # Study Guide: Augustine's *Confessions*
+**English** | [简体中文](../zh/study/augustine-confessions.md)
 
 **Work:** *Confessions* (*Confessiones*) · **Author:** Augustine of Hippo (354 – 430 CE) · **Composed:** c. 397–400 (conventional date)
 **Covers:** Books I–VIII and XI only, with a reading plan, book-by-book guide, argument reconstructions, self-test questions, and common misreadings. Books IX, X, and XII–XIII are noted briefly at the end of the book-by-book guide, not covered in full.

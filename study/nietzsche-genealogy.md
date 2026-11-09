@@ -1,4 +1,5 @@
 # Study Guide: Nietzsche's *On the Genealogy of Morals*
+**English** | [简体中文](../zh/study/nietzsche-genealogy.md)
 
 **Work:** *On the Genealogy of Morals* (1887) · **Author:** Friedrich Nietzsche (1844–1900) · **Composed:** 1887
 **Covers:** The Preface and all three essays in full — with a reading plan, essay-by-essay guide, argument reconstructions, self-test questions, and common misreadings.

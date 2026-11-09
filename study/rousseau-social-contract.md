@@ -1,4 +1,5 @@
 # Study Guide: Jean-Jacques Rousseau, *The Social Contract* (1762)
+**English** | [简体中文](../zh/study/rousseau-social-contract.md)
 
 **Work:** *The Social Contract* (*Du contrat social; ou, Principes du droit politique*) · **Author:** Jean-Jacques Rousseau (1712–1778) · **First published:** 1762 · **What this guide covers:** all four books of *The Social Contract*, with argument reconstructions, self-test questions, and common misreadings. The [learning path](../learning-path.md) assigns Books I–II as the core (read after Part II of the *Discourse on Inequality*); Books III–IV are covered here as the completion, and the reading plan below marks which is which.
 

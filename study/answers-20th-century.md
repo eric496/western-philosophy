@@ -1,4 +1,5 @@
 # Worked Answers: 20th-Century Study Questions
+**English** | [简体中文](../zh/study/answers-20th-century.md)
 
 Model answers to the Study questions at the end of the 20th-century core entries. These are study aids, not substitutes for your own attempt: work each question book-closed first, as the [learning path](../learning-path.md) directs, then compare. Where a question asks you to judge a debate, the answer sets out the main positions rather than a verdict — a differently argued judgment can be equally valid. Where a question applies a framework to a fresh case, the worked application shows the method; other applications may be equally sound.
 

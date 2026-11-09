@@ -1,4 +1,5 @@
 # Answer Key: Ancient and Medieval Study Questions
+**English** | [简体中文](../zh/study/answers-ancient-medieval.md)
 
 Worked model answers to the Study questions in the ancient and medieval entries. Attempt each question in writing first — the learning path's rule is reconstruction before comparison — and treat these as one defensible answer, not the only one: where scholarship is divided, the main positions are given rather than a verdict.
 

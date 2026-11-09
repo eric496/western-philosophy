@@ -1,4 +1,5 @@
 # Study Guide: Foucault's *Discipline and Punish* (selections)
+**English** | [简体中文](../zh/study/foucault-discipline.md)
 
 **Work:** *Discipline and Punish: The Birth of the Prison*, 1975; Alan Sheridan translation, 1977 · **Author:** Michel Foucault (1926–1984) · **Covers:** Part Three, "Discipline," in full, plus the opening of Part One, Part Two on the reformers, Part Four on the prison and the carceral, and a bridge to *The History of Sexuality, Vol. 1* — with a reading plan, section-by-section guide, argument reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Michel Foucault](../eras/05-20th-century/michel-foucault.md) · **Study plan:** [Learning Path](../learning-path.md)

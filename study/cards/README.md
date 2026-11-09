@@ -1,4 +1,5 @@
 # Flashcard Decks
+**English** | [简体中文](../../zh/study/cards/README.md)
 
 [Anki](https://apps.ankiweb.net)-importable card decks built from material already in this repository. Following the retention system in the [learning path](../../learning-path.md) (§2.1), these are **argument cards, not fact cards**: every front is a *do*-prompt that demands reconstruction or explanation, never a bare "who/when/what" recall cue. Dates and definitions are deliberately not carded — the path's bet is that what needs to survive is the ability to rebuild an argument and answer its standard objection.
 

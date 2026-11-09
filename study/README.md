@@ -1,4 +1,5 @@
 # Study Guides
+**English** | [简体中文](../zh/study/README.md)
 
 Work-level guides to read alongside the primary text, not instead of it. Each guide gives a chapter- or section-level walkthrough, argument reconstructions in numbered premises with one objection and one reply each, checkpoint questions with answers at the end, and the common misreadings to avoid. Use them the way the [learning path](../learning-path.md) directs: reconstruct the argument yourself, book closed, before comparing it with the guide's reconstruction; critique always second, never first.
 

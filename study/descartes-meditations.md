@@ -1,4 +1,5 @@
 # Study Guide: René Descartes, *Meditations on First Philosophy* (1641)
+**English** | [简体中文](../zh/study/descartes-meditations.md)
 
 *Work guide · Companion to the [Descartes entry](../eras/03-early-modern/rene-descartes.md) · [Learning path](../learning-path.md)*
 

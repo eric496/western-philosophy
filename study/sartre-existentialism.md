@@ -1,4 +1,5 @@
 # Study Guide: Sartre's *Existentialism Is a Humanism* and *Being and Nothingness* (selections)
+**English** | [简体中文](../zh/study/sartre-existentialism.md)
 
 **Work:** *Existentialism Is a Humanism* (lecture delivered 1945, published 1946) and *Being and Nothingness* (1943), in selections · **Author:** Jean-Paul Sartre (1905–1980) · **Covers:** The lecture in full; and from *Being and Nothingness*, the Introduction, Part I, Chapter 1 (the origin of negation) and Chapter 2 (bad faith), Part II, Chapter 1 in brief and Chapter 3 (transcendence), Part III, Chapter 1 (the Look), and Part IV, Chapters 1–2 (freedom and situation) — with a reading plan, section-by-section guide, reconstructions, self-test questions, and common misreadings.
 **Companion entry:** [Jean-Paul Sartre](../eras/05-20th-century/jean-paul-sartre.md) · **Study plan:** [Learning Path](../learning-path.md)
