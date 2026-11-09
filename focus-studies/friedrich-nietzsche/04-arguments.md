@@ -30,7 +30,7 @@ Therefore, Europe faces nihilism as a historical necessity, not a mood: "what I 
 
 **Earlier statement.** The typology does not begin with the *Genealogy*. BGE §260 already gives it as a general structure, and GM I §7 points the reader back to BGE §195 for the historical claim — Nietzsche's own footnote to himself. Worth noting against readings that treat 1887 as a fresh departure: the *Genealogy* works out a thesis that was in print in 1886.
 
-1. Values are created, not discovered: every morality is the sign-language of some type of human being, expressing what that type needs to flourish (BGE §6; GM Preface §6).
+1. Values are created, not discovered: every morality is the sign-language of some type of human being, expressing what that type needs to flourish (BGE §§6, 187; GM Preface §6).
 2. Creation can begin in one of two directions. It can begin in **affirmation**: a self-glorifying type experiences its own power, wealth, and vitality as good, and only as a pale contrast, an afterthought, calls the low and common "bad." This is the noble mode of valuation, "good/bad."
 3. Or creation can begin in **negation**: a type that cannot affirm itself — because it lacks the power the first type enjoys — must define itself against a hostile outside; it says No first, calls the powerful "evil," and only then, as the mirror image of that evil, calls itself "good." This is the reactive mode, "good/evil."
 4. The two structures leave different fingerprints: the affirmative type's "bad" is contempt without obsession, while the reactive type's "evil" is fixation — the enemy is needed, imagined, and never forgotten.

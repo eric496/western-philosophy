@@ -6,7 +6,7 @@ Tiered like the study plan: the texts first, then the companions in the order to
 
 All consistent with the learning path's Kant row; the dossier adds the texts the path defers. Akademie pagination (volume: page) is printed in every edition named and is how the shorter works are cited throughout the dossier.
 
-**Paul Guyer and Allen W. Wood (trans.), *Critique of Pure Reason* (Cambridge Texts in the History of Philosophy, 1998).** The dossier's *Critique* and the path's ruling: modern, terminologically consistent, with A/B pagination in the margins throughout — the feature daily use actually depends on. **Do not substitute Norman Kemp Smith (1929) or J. M. D. Meiklejohn (1855)**, and do not read an unlabeled Gutenberg text: the terminology misleads beginners and the cheap reprints often drop the A/B numbers altogether.
+**Paul Guyer and Allen W. Wood (trans.), *Critique of Pure Reason* (Cambridge Edition of the Works of Immanuel Kant, 1998).** The dossier's *Critique* and the path's ruling: modern, terminologically consistent, with A/B pagination in the margins throughout — the feature daily use actually depends on. **Do not substitute Norman Kemp Smith (1929) or J. M. D. Meiklejohn (1855)**, and do not read an unlabeled Gutenberg text: the terminology misleads beginners and the cheap reprints often drop the A/B numbers altogether.
 
 A third modern complete translation exists — **Werner Pluhar, *Critique of Pure Reason* (Hackett, 1996)** — accurate and widely admired, and consistent with Pluhar's *Judgment* (1987) and *Practical Reason* (2002); it reads a little more freely than Guyer-Wood and is the sanctioned fallback for a reader who finds Guyer-Wood's prose stiff, but is not this dossier's default.
 
@@ -18,7 +18,7 @@ A third modern complete translation exists — **Werner Pluhar, *Critique of Pur
 
 **Allen W. Wood and George di Giovanni (trans. and ed.), *Religion and Rational Theology* (Cambridge Edition, 1996).** Contains *Religion within the Boundaries of Mere Reason* (translated by di Giovanni) — Week 6's Book One (radical evil) in the standard modern translation, with the essays that show Kant's moral religion in its working clothes.
 
-**Paul Guyer and Eric Matthews (trans.), *Critique of Judgment* (Cambridge Texts, 2000).** Week 7's selections (the Analytic of the Beautiful, the sublime). Supersedes Bernard and Meredith for a first read: consistent with the Guyer and Wood *Critique*'s terminology, which matters when the third *Critique* spends the first one's capital.
+**Paul Guyer and Eric Matthews (trans.), *Critique of the Power of Judgment* (Cambridge Edition of the Works of Immanuel Kant, 2000).** Week 7's selections (the Analytic of the Beautiful, the sublime). Supersedes Bernard and Meredith for a first read: consistent with the Guyer and Wood *Critique*'s terminology, which matters when the third *Critique* spends the first one's capital.
 
 **H. B. Nisbet (trans.), in Hans Reiss (ed.), *Kant's Political Writings* (Cambridge Texts, 2nd ed., 1991).** The home of *Perpetual Peace* (1795) and "What Is Enlightenment?" in one volume — Weeks 1 and 7 from a single purchase.
 

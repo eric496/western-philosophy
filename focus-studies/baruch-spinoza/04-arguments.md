@@ -62,7 +62,7 @@ Therefore, all final causes are nothing but human fictions; nature has no end se
 **Argument 4. Parallelism: the order of ideas is the order of things**
 
 1. The knowledge of an effect depends on, and involves, the knowledge of its cause (E1A4): the order of conception mirrors the order of causation.
-2. Whatever follows formally from God's nature under any attribute follows objectively in God, in the same order and connection, as the idea of it (the demonstration of E2P7, from E1A4 and the attribute doctrine of Part I).
+2. Whatever follows formally from God's nature under any attribute follows objectively in God, in the same order and connection, as the idea of it (the corollary of E2P7, whose demonstration rests on E1A4).
 3. Substance thinking and substance extended are one and the same substance, comprehended now under this attribute, now under that (E2P7S).
 Therefore, "the order and connection of ideas is the same as the order and connection of things" (E2P7) — not by interaction, but by identity: "a circle existing in nature and the idea of the existing circle, which is also in God, are one and the same thing, which is explained through different attributes" (E2P7S).
 
@@ -143,7 +143,7 @@ Therefore, freedom is real but graduated: not exemption from necessity, but the 
 1. The third kind of knowledge proceeds from an adequate idea of God's attributes to adequate knowledge of the essences of things (E5P25, P31); from it arises the greatest possible contentment of mind (E5P27).
 2. The joy that arises from this knowledge, accompanied by the idea of God as its cause, is the **intellectual love of God** (E5P32 corollary); this love is eternal (E5P33) and is itself part of the infinite love with which God loves himself — not as infinite, but as expressed through the essence of the human mind (E5P36).
 3. The mind's essence, like every essence, is eternally conceived in God: there is in God an idea expressing the essence of this or that human body under a species of eternity (E5P22).
-4. The human mind can be destroyed absolutely only with the body's duration — memory and imagination perish with it (E5P21) — but insofar as the mind involves that eternal idea of its body's essence, "the human mind cannot be absolutely destroyed with the body, but something of it remains which is eternal" (E5P23); "we feel and know by experience that we are eternal" (E5P23S).
+4. The mind can imagine and remember only while the body endures — memory and imagination perish with it (E5P21) — but insofar as the mind involves that eternal idea of its body's essence, "the human mind cannot be absolutely destroyed with the body, but something of it remains which is eternal" (E5P23); "we feel and know by experience that we are eternal" (E5P23S).
 Therefore, blessedness is the mind's activity in the third kind of knowledge: not the reward of virtue, but virtue itself (E5P42) — an eternity the mind has insofar as it knows, not a survival the person enjoys after death.
 
 **Textual basis.** *Ethics* V, Propositions 21–23 (with scholia), 25–36, 42; the definitions of eternity at E1D8 and of the second and third kinds of knowledge at E2P40S2.

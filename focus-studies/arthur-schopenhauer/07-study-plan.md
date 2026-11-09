@@ -39,7 +39,7 @@ Session shape each week follows the learning path: **A — Primary** (~2 hrs, te
 
 **Reconstructions.** Write the first blank-page reconstruction (200–400 words) of the fourfold-root argument by week's end; it enters the +2d/+1wk/+3wk rhythm (see the cadence table below).
 
-**Cards.** Import the first 6 cards of [cards.tsv](cards.tsv) (the fourfold root, the principle of sufficient reason, *Vorstellung*, and the representation argument) when the week's reading is done — never before.
+**Cards.** Import the 6 Week 1 cards of [cards.tsv](cards.tsv) (the fourfold root, the principle of sufficient reason, *Vorstellung*, and the representation argument; the file is not in week order) when the week's reading is done — never before.
 
 ## Week 2 — Representation, then Will (~5.5 hrs)
 
@@ -61,7 +61,7 @@ Session shape each week follows the learning path: **A — Primary** (~2 hrs, te
 
 ## Week 3 — Art: the temporary exit (~5 hrs)
 
-**Primary.** WWR Vol. I, Book 3 (§§30–52): aesthetic contemplation as will-less knowing; the pure subject of knowing; the hierarchy of the arts as a tour of the Ideas' grades; the sublime; and §§51–52 on music — not a copy of appearances or even of the Ideas, but a direct copy of the Will itself.
+**Primary.** WWR Vol. I, Book 3 (§§30–52): aesthetic contemplation as will-less knowing; the pure subject of knowing; the hierarchy of the arts as a tour of the Ideas' grades; the sublime; and §52 on music — not a copy of appearances or even of the Ideas, but a direct copy of the Will itself.
 
 **Alongside.** [03-system-and-concepts.md](03-system-and-concepts.md) (the aesthetics sections and the terms *pure subject of knowing*, *genius*, *the sublime*) and [04-arguments.md](04-arguments.md) ("Aesthetic release and music").
 

@@ -7,7 +7,7 @@
 
 ## Edition note
 
-Read the *Critique* in the translation by Paul Guyer and Allen W. Wood (Cambridge Texts in the History of Philosophy). This is the text the learning path names, and the standard teaching edition in English: modern, terminologically consistent, with a useful introduction and glossary, and — the point that matters most in daily use — the pagination of both original editions printed in the margins throughout.
+Read the *Critique* in the translation by Paul Guyer and Allen W. Wood (Cambridge Edition of the Works of Immanuel Kant). This is the text the learning path names, and the standard teaching edition in English: modern, terminologically consistent, with a useful introduction and glossary, and — the point that matters most in daily use — the pagination of both original editions printed in the margins throughout.
 
 Learn to navigate by those numbers from the first day: they are how the *Critique* is cited everywhere. **A** followed by a number is a page of the first edition of 1781; **B** followed by a number is a page of the second, revised edition of 1787. A citation such as A51/B75 — "thoughts without content are empty, intuitions without concepts are blind" — points to a passage appearing in both editions. Where a passage exists in only one, you get a single letter: the Refutation of Idealism is B274–279, because Kant added it in 1787.
 
