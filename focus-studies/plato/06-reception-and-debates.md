@@ -1,4 +1,5 @@
 # Plato Received — Twenty-Four Centuries of Footnotes, and the Fights Still Open
+**English** | [简体中文](../../zh/focus-studies/plato/06-reception-and-debates.md)
 
 *Focus study: Plato · [Dossier home](README.md) · [Library entry](../../eras/01-ancient/plato.md)*
 

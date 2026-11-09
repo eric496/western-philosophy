@@ -1,4 +1,5 @@
 # Focus Study: Baruch Spinoza (1632–1677)
+**English** | [简体中文](../../zh/focus-studies/baruch-spinoza/README.md)
 
 ![Portrait of Baruch Spinoza](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/250px-Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 

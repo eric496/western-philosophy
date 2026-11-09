@@ -1,4 +1,5 @@
 # Plato: The Arguments
+**English** | [简体中文](../../zh/focus-studies/plato/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Plato](../../eras/01-ancient/plato.md) · The architecture these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*Republic*](../../study/plato-republic.md)*
 

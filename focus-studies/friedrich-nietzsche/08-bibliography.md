@@ -1,4 +1,5 @@
 # Bibliography — Friedrich Nietzsche
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are the usual paperback ranges; the primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's pace.
 

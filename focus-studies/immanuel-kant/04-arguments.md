@@ -1,4 +1,5 @@
 # Kant: The Arguments
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Immanuel Kant](../../eras/03-early-modern/immanuel-kant.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guides: [*Critique of Pure Reason*](../../study/kant-critique.md) · [*Groundwork*](../../study/kant-groundwork.md)*
 

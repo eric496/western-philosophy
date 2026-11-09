@@ -1,4 +1,5 @@
 # Wittgenstein in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/05-conversations.md)
 
 *Focus study: Ludwig Wittgenstein · [Dossier home](README.md) · Library entries: [Wittgenstein, Early](../../eras/05-20th-century/wittgenstein-early.md) · [Wittgenstein, Late](../../eras/05-20th-century/wittgenstein-late.md)*
 

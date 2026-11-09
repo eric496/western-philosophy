@@ -1,4 +1,5 @@
 # Focus Study: Plato (428/427 – 348/347 BCE)
+**English** | [简体中文](../../zh/focus-studies/plato/README.md)
 
 ![Portrait of Plato](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png)
 

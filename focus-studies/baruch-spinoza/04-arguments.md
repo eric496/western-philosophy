@@ -1,4 +1,5 @@
 # Spinoza: The Arguments
+**English** | [简体中文](../../zh/focus-studies/baruch-spinoza/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Baruch Spinoza](../../eras/03-early-modern/baruch-spinoza.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md)*
 

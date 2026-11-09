@@ -1,4 +1,5 @@
 # Schopenhauer: The System and Its Concepts
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Arthur Schopenhauer](../../eras/04-19th-century/arthur-schopenhauer.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

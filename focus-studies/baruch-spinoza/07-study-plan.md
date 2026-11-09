@@ -1,4 +1,5 @@
 # Study Plan — Spinoza in Seven Weeks: The Ethics Whole, the TTP Properly
+**English** | [简体中文](../../zh/focus-studies/baruch-spinoza/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

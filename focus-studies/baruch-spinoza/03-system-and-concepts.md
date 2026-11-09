@@ -1,4 +1,5 @@
 # Spinoza: The System and Its Concepts
+**English** | [简体中文](../../zh/focus-studies/baruch-spinoza/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Baruch Spinoza](../../eras/03-early-modern/baruch-spinoza.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

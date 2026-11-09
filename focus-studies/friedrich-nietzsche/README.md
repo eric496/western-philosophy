@@ -1,4 +1,5 @@
 # Focus Study: Friedrich Nietzsche (1844–1900)
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/README.md)
 
 ![Portrait of Friedrich Nietzsche](https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg)
 

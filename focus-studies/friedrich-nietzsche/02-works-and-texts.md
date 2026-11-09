@@ -1,4 +1,5 @@
 # Works and Texts — Friedrich Nietzsche
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/02-works-and-texts.md)
 
 *Dossier file 02. Every work that matters, in the order this dossier reads them, with editions. The library's [Genealogy guide](../../study/nietzsche-genealogy.md) remains the companion for the reading weeks on that book.*
 

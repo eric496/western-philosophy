@@ -1,4 +1,5 @@
 # Life and Times: Königsberg, Pietism, and the Critical Turn
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/01-life-and-times.md)
 
 Kant's life is the standing counterexample to the idea that a philosopher's biography explains the philosophy. Outwardly almost nothing happens: one city, one university, no marriage, no journeys worth the name, and a working routine of legendary sameness. Inwardly, across the same decades, European philosophy was dismantled and rebuilt. The sources are good but particular: no diary, and the intimate record rests chiefly on three biographies published in the year of his death by men who knew him — Ludwig Ernst Borowski, a former student; Reinhold Bernhard Jachmann, his amanuensis; and Ehregott Andreas Christoph Wasianski, who helped care for him at the end — supplemented by Kant's extensive correspondence. Where this account repeats a story that comes from literature rather than from the record — above all the famous story of the neighbors and their watches — it says so. The dossier's rule is the archive's rule: hedged where the record is thin.
 

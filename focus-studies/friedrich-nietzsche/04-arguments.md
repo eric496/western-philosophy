@@ -1,4 +1,5 @@
 # Nietzsche: The Arguments
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Friedrich Nietzsche](../../eras/04-19th-century/friedrich-nietzsche.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md)*
 

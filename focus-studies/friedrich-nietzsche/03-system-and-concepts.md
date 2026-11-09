@@ -1,4 +1,5 @@
 # Nietzsche: The System and Its Concepts
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Friedrich Nietzsche](../../eras/04-19th-century/friedrich-nietzsche.md) · The arguments these concepts serve: [04-arguments.md](04-arguments.md)*
 

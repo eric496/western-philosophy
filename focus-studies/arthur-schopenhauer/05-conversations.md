@@ -1,4 +1,5 @@
 # Schopenhauer in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/05-conversations.md)
 
 *Focus study: Arthur Schopenhauer · [Dossier home](README.md) · [Library entry](../../eras/04-19th-century/arthur-schopenhauer.md)*
 

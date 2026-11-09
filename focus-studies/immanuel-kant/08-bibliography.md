@@ -1,4 +1,5 @@
 # Bibliography — Kant: What to Read, in What Order, and Why
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/08-bibliography.md)
 
 Tiered like the study plan: the texts first, then the companions in the order to read them, then the scholarly anchors for when a particular fight catches you, then reference and media. Every media item below was verified to exist as described; one famous absence is recorded where it occurs.
 

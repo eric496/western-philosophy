@@ -1,4 +1,5 @@
 # Plato in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/plato/05-conversations.md)
 
 *Focus study: Plato · [Dossier home](README.md) · [Library entry](../../eras/01-ancient/plato.md)*
 

@@ -1,4 +1,5 @@
 # Focus Study: Arthur Schopenhauer (1788–1860)
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/README.md)
 
 ![Portrait of Arthur Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
 

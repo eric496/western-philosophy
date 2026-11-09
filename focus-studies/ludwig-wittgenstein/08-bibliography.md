@@ -1,4 +1,5 @@
 # Bibliography — Ludwig Wittgenstein
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are the usual paperback ranges; the primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's pace. One warning governs the whole list: Wittgenstein published one book of philosophy in his lifetime, and almost everything else on this page is posthumous and editorially arranged from a *Nachlass* of some twenty thousand pages. Every tier below therefore says, for each item, who made it a book — him, or his editors.
 

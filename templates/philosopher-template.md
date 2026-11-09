@@ -1,4 +1,5 @@
 # Philosopher Entry Template (detailed edition)
+**English** | [简体中文](../zh/templates/philosopher-template.md)
 
 Use this template when adding a new figure, matching the detailed entries in `eras/`. Design rules: plain language first, technical terms explained on first use; dates and works consistent with `index.md`; scholarly debates presented as debates, never as settled verdicts; ancient and medieval dates that are conventions get a `c.`.
 

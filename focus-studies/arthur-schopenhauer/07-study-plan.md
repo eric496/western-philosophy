@@ -1,4 +1,5 @@
 # Study Plan — Arthur Schopenhauer in Six Weeks
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

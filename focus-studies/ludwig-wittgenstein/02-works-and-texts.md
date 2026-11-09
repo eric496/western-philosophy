@@ -1,4 +1,5 @@
 # Works and Texts — Ludwig Wittgenstein
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/02-works-and-texts.md)
 
 *Dossier file 02. Every work that matters, in the order this dossier reads them, with editions. The library's [Investigations guide](../../study/wittgenstein-investigations.md) remains the companion for the reading weeks on that book.*
 

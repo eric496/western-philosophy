@@ -1,4 +1,5 @@
 # Bibliography — Plato
+**English** | [简体中文](../../zh/focus-studies/plato/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are the usual paperback ranges; the primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's pace. One fact governs the whole list, and it is the opposite of the Wittgenstein problem: Plato's works survive **complete** — the dialogues as arranged in antiquity by Thrasyllus, plus letters of disputed authenticity (the *Seventh Letter*, widely but not universally accepted, is the consequential one). The scholarly problems here are chronology and interpretation, not survival.
 

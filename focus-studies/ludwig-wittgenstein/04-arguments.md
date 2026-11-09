@@ -1,4 +1,5 @@
 # Wittgenstein: The Arguments
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entries: [Wittgenstein (early)](../../eras/05-20th-century/wittgenstein-early.md) · [Wittgenstein (late)](../../eras/05-20th-century/wittgenstein-late.md) · The concepts these arguments use: [03-system-and-concepts.md](03-system-and-concepts.md) · Shorter reconstructions of Arguments 3–7 appear in the [Investigations study guide](../../study/wittgenstein-investigations.md)*
 

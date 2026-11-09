@@ -1,4 +1,5 @@
 # Schopenhauer: Reception and the Live Debates
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/06-reception-and-debates.md)
 
 *Focus study: Arthur Schopenhauer · [Dossier home](README.md) · [Library entry](../../eras/04-19th-century/arthur-schopenhauer.md)*
 

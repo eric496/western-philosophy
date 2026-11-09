@@ -1,4 +1,5 @@
 # Study Plan — Kant in Eight Weeks: The Critical System Whole
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

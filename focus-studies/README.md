@@ -1,4 +1,5 @@
 # Focus Studies — One Philosopher, In Depth
+**English** | [简体中文](../zh/focus-studies/README.md)
 
 The library entries give every figure a solid, detailed portrait. A **focus study** is the next level down: a complete, multi-file dossier on a single philosopher, built to support weeks of dedicated study — everything a serious reader needs to genuinely know this thinker, in one place.
 

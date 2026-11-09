@@ -1,4 +1,5 @@
 # Bibliography — Schopenhauer, Annotated
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/08-bibliography.md)
 
 Tiered by use, in the order the [study plan](07-study-plan.md) needs them. Prices are deliberately not quoted except where a format choice is the point; availability notes reflect what could be verified at writing.
 

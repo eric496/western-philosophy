@@ -1,4 +1,5 @@
 # Kant in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/05-conversations.md)
 
 *Focus study: Immanuel Kant · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/immanuel-kant.md)*
 
