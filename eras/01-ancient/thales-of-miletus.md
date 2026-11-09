@@ -23,7 +23,7 @@ The plausible core is this. Thales lived in Miletus around 600 BCE, when it was 
 
 Two famous stories illustrate the problem. Herodotus says Thales predicted a solar eclipse that stopped a battle between the Lydians and the Medes, traditionally dated to 585 BCE. Babylonian astronomers knew cycles that made a *possible* eclipse year predictable, so the story has a plausible core — but predicting a total eclipse visible at a particular place was beyond anyone then, and many scholars think luck or later embroidery did the rest. The second story, told by Aristotle, is frankly a parable: mocked as an impractical stargazer, Thales supposedly rented all the olive presses cheaply before a bumper harvest, then charged what he liked — proving, Aristotle says, that philosophers could be rich if they cared to be. Plato's companion tale has him falling into a well while stargazing. Both anecdotes tell us how later Greeks *thought* about the first philosopher; neither can be trusted as biography.
 
-His death, c. 546 BCE, is equally obscure. What is firm is his succession: Anaximander, a younger Milesian, is said to have been his pupil or associate, and Anaximenes followed. Through them, his questions became a research program. His work "survives" only as attributed doctrines filtered through Aristotle — who himself signals uncertainty, reconstructing Thales' reasons with phrases like "getting the notion perhaps from seeing that…" (Metaphysics 1.3, 983b, trans. Ross).
+His death, c. 546 BCE, is equally obscure. What is firm is his succession: Anaximander, a younger Milesian, is said to have been his pupil or associate, and Anaximenes followed. Through them, his questions became a research program. His work "survives" only as attributed doctrines filtered through Aristotle — who himself signals uncertainty, reconstructing Thales' reasons with phrases like "perhaps he got the idea from seeing that…".
 
 ## Major theories and concepts
 
@@ -31,7 +31,7 @@ His death, c. 546 BCE, is equally obscure. What is firm is his succession: Anaxi
 
 An *archē* (plural *archai*) is a beginning, source, or ruling principle — the thing from which everything comes and which explains what everything fundamentally is. Aristotle reports that Thales made water the archē of all things. The claim can be read two ways, and scholars debate which Thales meant: as a *material* claim (everything is, deep down, a form of water) or as an *origin* claim (everything arose from water, as things arise from a seed). It may not have distinguished the two.
 
-Aristotle, guessing at the reasoning, offers plausible observations: nourishment is moist; heat itself is generated from the moist and kept alive by it; seeds are wet; Thales is also reported to have said the earth floats on water like a log, which would explain earthquakes as rocking rather than a god's anger. Each reason appeals to ordinary experience, not revelation. The tension is obvious, and his successors felt it: how does one uniform, wet stuff become fire, stone, and bone? Thales left no surviving answer, and that gap is what Anaximander's more abstract principle was designed to fill.
+Aristotle, guessing at the reasoning, offers plausible observations: nourishment is moist; seeds are wet; water takes any shape and is essential to all life; Thales is also reported to have said the earth floats on water like a log, which would explain earthquakes as rocking rather than a god's anger. Each reason appeals to ordinary experience, not revelation. The tension is obvious, and his successors felt it: how does one uniform, wet stuff become fire, stone, and bone? Thales left no surviving answer, and that gap is what Anaximander's more abstract principle was designed to fill.
 
 ### A naturalistic method
 
@@ -75,7 +75,7 @@ Aristotle himself found a single material cause insufficient, since it cannot ex
 
 ## Study questions
 
-1. Reconstruct Thales' case for water as *archē* from the evidence Aristotle reports — moisture in nourishment and seeds, heat generated from the moist, the earth floating on water — and state whether the conclusion is a material claim, an origin claim, or both.
+1. Reconstruct Thales' case for water as *archē* from the evidence Aristotle reports — moisture in nourishment and seeds, water's shapeless adaptability, the earth floating on water — and state whether the conclusion is a material claim, an origin claim, or both.
 2. Aristotle objects that one material cause cannot explain change or form. Press this against water: how does a uniform wet stuff become fire or bone? What reply is open to Thales, and does it quietly change what *archē* means?
 3. Compare Thales with Heraclitus: is the basic principle a stuff things are made of, or a pattern according to which they change? What does each account explain better?
 4. Apply Thales' naturalistic method to a flood explained by a community as a god's anger. What would count as a Thales-style explanation, what evidence could settle between the two accounts, and does his "all things are full of gods" weaken the contrast?

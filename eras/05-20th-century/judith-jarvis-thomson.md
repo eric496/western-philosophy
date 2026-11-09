@@ -2,12 +2,14 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-*Portrait: none included — the 2005 photograph used on English Wikipedia is a local fair-use upload, and Wikimedia Commons has no freely licensed image of her. If one surfaces, it belongs here.*
+![Portrait of Judith Jarvis Thomson](https://thumb.wikimedia.org/wikipedia/en/thumb/3/3f/Judith_Jarvis_Thomson%2C_philosopher_%281929_%E2%80%93_2020%29.jpg/250px-Judith_Jarvis_Thomson%2C_philosopher_%281929_%E2%80%93_2020%29.jpg)
+
+*Photograph captioned "Judith Jarvis Thomson in 2005". Image via Wikipedia.*
 
 ## At a glance
 
 - **Dates:** Judith Jarvis Thomson, 1929–2020.
-- **Place:** Born in New York City; educated at Barnard, Cambridge and Columbia; taught at MIT for most of her career.
+- **Place:** Born in New York City; educated at Barnard and Cambridge; taught at MIT for most of her career.
 - **School/tradition:** Analytic moral philosophy, especially the theory of rights.
 - **Known for:** "A Defense of Abortion" (1971) and its famous violinist thought experiment, and for naming and shaping the trolley problem — philosophy's most famous moral dilemma.
 
@@ -15,9 +17,9 @@
 
 ## Biography
 
-Judith Jarvis Thomson was born on 4 October 1929 in New York City. She studied philosophy at Barnard College, graduating in 1950, then at Newnham College, Cambridge, where she took a second BA (1952) and an MA (1956), and finally at Columbia University, where she took her PhD in 1959. After teaching at Barnard and then, for a year, at Boston University, she joined MIT in 1964 and spent the rest of her career there, becoming one of the most influential moral philosophers in the analytic tradition. She was married to the philosopher James F. Thomson, with whom she also wrote.
+Judith Jarvis Thomson was born on 4 October 1929 in New York City. She studied philosophy at Barnard College, graduating in 1950, and then at Cambridge, where she took a second BA and, in 1959, a PhD at Clare College. After a brief period teaching at Boston University, she joined MIT in 1964 and spent the rest of her career there, becoming one of the most influential moral philosophers in the analytic tradition. She was married to the philosopher James F. Thomson, with whom she also wrote.
 
-Thomson's reputation rests on a series of papers of unusual clarity and argumentative daring. "A Defense of Abortion," published in 1971 in the very first issue of *Philosophy & Public Affairs*, transformed the abortion debate within a few years of *Roe v. Wade* becoming a live legal question. In 1976 she took up a puzzle case devised by Philippa Foot and, in "Killing, Letting Die, and the Trolley Problem" (1976), "The Trolley Problem" (1985) and related papers, turned it into a research program that is still running. Her systematic work on rights appeared in *The Realm of Rights* (1990), and she continued to refine — and sometimes reverse — her positions, notably returning to the trolley cases in "Turning the Trolley" (2008) and revising a view she had held for thirty years. She died on 20 November 2020, aged ninety-one.
+Thomson's reputation rests on a series of papers of unusual clarity and argumentative daring. "A Defense of Abortion," published in 1971 in the very first issue of *Philosophy & Public Affairs*, transformed the abortion debate within a few years of *Roe v. Wade* becoming a live legal question. In the 1980s she took up a puzzle case devised by Philippa Foot and, in "The Trolley Problem" (1985) and related papers, turned it into a research program that is still running. Her systematic work on rights appeared in *The Realm of Rights* (1990), and she continued to refine — and sometimes reverse — her positions, notably returning to the trolley cases in "Turning the Trolley" (2008) and revising a view she had held for thirty years. She died on 20 November 2020, aged ninety-one.
 
 ## Major theories and concepts
 
@@ -33,42 +35,16 @@ The trolley problem has two authors, and getting the credit right matters. In 19
 
 Thomson coined the label "the trolley problem" (in her 1976 paper on killing and letting die, and in the 1985 paper of that name) and, crucially, changed the case. In her **bystander variant**, you are not the driver but a bystander at a switch: you may divert the trolley from five to one. Most people judge diverting permissible for the bystander as for the driver. But in a further variant — pushing one large man off a footbridge into the trolley's path to stop it, also saving five at the cost of one — most judge it impermissible. Why is turning the switch different from pushing the man? That contrast, which Foot's original case did not isolate, became the problem proper: a standing challenge to find the moral principle that explains both judgments at once.
 
-Thomson's own answers changed over time. She long defended a rights-based explanation; then, in "Turning the Trolley" (2008), she argued — against her earlier self — that the bystander may *not* in fact turn the trolley, because a bystander who would not turn the trolley onto himself may not turn it onto a stranger instead (like stealing a wallet to give to charity): turning imposes a death on the one to save the five in a way the driver, already forced to choose between two harms his vehicle will do, does not. The reversal is a model of philosophical intellectual honesty, and the debate it reopened continues.
+Thomson's own answers changed over time. She long defended a rights-based explanation; then, in "Turning the Trolley" (2008), she argued — against her earlier self — that the bystander may *not* in fact turn the trolley, because doing so imposes a death on the one to save the five in a way the driver, already forced to choose between two harms his vehicle will do, is not. The reversal is a model of philosophical intellectual honesty, and the debate it reopened continues.
 
 ### Rights as the structure of morality
 
-Across *The Realm of Rights* (1990) and her papers, Thomson defended a morality built from rights and claims rather than from maximizing good outcomes. Rights, on her account, are not decorative: to have a right is for others to be under obligations, and moral reasoning is largely about which claims people have against one another and when a claim may be infringed. (Her terms: any failure to accord someone a claim *infringes* their right; only a wrongful infringement *violates* it. Sometimes an infringement is justified, and compensation is then owed.) This framework drives both the abortion argument (a right to life does not automatically include a right to another's body) and the trolley analyses (the one on the side track has a claim not to be killed to save others — the question is its exact shape). She also wrote influentially on self-defense, arguing that even an innocent threat may sometimes be permissibly killed, and on goodness and reasons in *Goodness and Advice* (2001).
-
-## Signature arguments
-
-**The violinist argument ("A Defense of Abortion", 1971)**
-
-1. Grant, for the sake of argument, the opponent's strongest premise: the foetus is a person with a full right to life.
-2. You wake to find a famous unconscious violinist plugged into your circulation by a society of music lovers, because only your blood type can keep him alive for nine months; he too is a person with a right to life.
-3. Yet you are not obliged to stay plugged in: his right to life does not give him a right to use your body, since a right to life is not a right to everything one needs to live.
-4. Staying might be kind or decent, and unplugging might sometimes be callous, but what decency asks is not what morality requires as a matter of justice.
-Therefore, even if the foetus is a person, its right to life does not by itself oblige a pregnant woman to let it use her body; abortion can sometimes be permissible without denying foetal personhood.
-
-**Objection.** The case is disanalogous to most pregnancies. The violinist is a stranger forced on you by kidnappers, whereas the foetus is usually not a stranger, the mother's relation to it is special, and, except in rape, she may bear responsibility for its dependence. Mary Anne Warren (1973), herself a defender of abortion rights, argued on these grounds that the violinist case supports abortion only in a narrow range of cases such as rape.
-
-**Reply.** Thomson anticipated part of this in the paper itself, with cases meant to show that knowingly taking a risk, and taking precautions against it, need not give the one who then depends on you a right to your body. She also restricted parts of the argument herself. Whether the disanalogies defeat the argument or only narrow its scope is still debated; what the argument did permanently was to move abortion ethics beyond the single question of foetal personhood.
-
-**The trolley problem: bystander and footbridge ("The Trolley Problem", 1985)**
-
-1. In Foot's original case, a tram driver may steer onto a side track, killing one workman instead of five.
-2. In Thomson's bystander variant, a bystander at a switch may likewise divert the trolley from the five to the one, or so most people judge, and so Thomson long held.
-3. In the footbridge variant, pushing a large man into the trolley's path also saves five at the cost of one, yet most judge it impermissible.
-4. The numbers are identical in every case, so counting alone cannot explain why switching differs from pushing.
-Therefore, some principle beyond the numbers must explain the contrast; on Thomson's view it lies in the rights and claims of the one, above all his claim not to be killed to save others.
-
-**Objection.** No principle seems to capture the contrast without ad hoc machinery, and the sharpest critic of the bystander's permission was Thomson herself. In "Turning the Trolley" (2008) she argued that the bystander may not turn after all: the driver must choose between two harms his own vehicle will do, but the bystander who turns imposes a death on the one to save the five, and since he would not turn it onto himself, he may not turn it onto a stranger.
-
-**Reply.** Others defend the original judgment. Frances Kamm, for instance, proposes principles such as her Principle of Permissible Harm that preserve the bystander's permission while still forbidding the push. Whether any principle explains the switch/footbridge contrast without special pleading remains contested, and Thomson's late reversal ensured the problem stayed open rather than becoming a solved puzzle.
+Across *The Realm of Rights* (1990) and her papers, Thomson defended a morality built from rights and claims rather than from maximizing good outcomes. Rights, on her account, are not decorative: to have a right is for others to be under obligations, and moral reasoning is largely about which claims people have against one another and what infringing a claim requires (as opposed to merely *violating* a right, which she distinguished as infringement without wrongdoing — sometimes an infringement is justified, and compensation is then owed). This framework drives both the abortion argument (a right to life does not automatically include a right to another's body) and the trolley analyses (the one on the side track has a claim not to be killed to save others — the question is its exact shape). She also wrote influentially on self-defense, arguing that even an innocent threat may sometimes be permissibly killed, and on goodness and reasons in *Goodness and Advice* (2001).
 
 ## Key works
 
 - "A Defense of Abortion" (1971) — The violinist argument; arguably the most reprinted philosophy paper of the twentieth century.
-- "The Trolley Problem" (1985) — The paper of that name: sets out the bystander and footbridge contrasts in their standard form.
+- "The Trolley Problem" (1985) — Names the problem and sets out the bystander and footbridge contrasts.
 - "Killing, Letting Die, and the Trolley Problem" (1976) — Her first treatment of Foot's case, on the moral weight of the doing/allowing distinction.
 - *The Realm of Rights* (1990) — Her systematic theory of rights and claims.
 - "Turning the Trolley" (2008) — The late paper in which she argues the bystander may not turn after all.

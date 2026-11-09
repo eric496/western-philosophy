@@ -2,7 +2,9 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-*Portrait: none included — the Rex Whistler portrait (1940–1943) used on English Wikipedia is a local fair-use upload, not a freely licensed Commons image. If a free one surfaces, it belongs here.*
+![Portrait of Gilbert Ryle](https://upload.wikimedia.org/wikipedia/en/e/e8/Gilbert_Ryle_%28by_Rex_Whistler%29.jpg)
+
+*Portrait of Gilbert Ryle by Rex Whistler, 1940–1943. Image via Wikipedia.*
 
 ## At a glance
 
@@ -11,11 +13,11 @@
 - **School/tradition:** Analytic philosophy; central figure of postwar "ordinary language" philosophy
 - **Known for:** *The Concept of Mind* (1949) — the attack on Descartes's "ghost in the machine" and the distinction between knowing-how and knowing-that
 
-**Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** [Philosophy of Mind after Ryle](philosophy-of-mind-after-ryle.md) (the identity theorists and functionalists who defined themselves against him), [Austin & Strawson](austin-and-strawson.md)
+**Responds to:** [Descartes](../03-early-modern/rene-descartes.md), [Wittgenstein (late)](wittgenstein-late.md) · **Answered by:** later philosophers of mind who defined themselves against him — no single entry in this repo
 
 ## Biography
 
-Ryle was born in Brighton in 1900 and won scholarships to Queen's College, Oxford, where he read classics and philosophy. He became a lecturer at Christ Church in 1924 and, despite publishing relatively little in the 1930s (a noted paper, "Systematically Misleading Expressions," 1932, and a fine review-essay on Heidegger's *Being and Time* in 1929 showing unusual openness to Continental work), rose steadily. During the Second World War he served in the Welsh Guards and rose to major in intelligence work. In 1945 he succeeded [Collingwood](../04-19th-century/dilthey-and-collingwood.md) as Waynflete Professor of Metaphysical Philosophy at Oxford — the most influential philosophy chair in Britain — and from 1947 to 1971 he edited the journal *Mind*, a post he used to set standards for a generation.
+Ryle was born in Brighton in 1900 and won scholarships to Queen's College, Oxford, where he read classics and philosophy. He became a lecturer at Christ Church in 1924 and, despite publishing relatively little in the 1930s (a noted paper, "Systematically Misleading Expressions," 1932, and a fine review-essay on Heidegger's *Being and Time* in 1929 showing unusual openness to Continental work), rose steadily. During the Second World War he served in the Welsh Guards and rose to major in intelligence work. In 1945 he succeeded Collingwood as Waynflete Professor of Metaphysical Philosophy at Oxford — the most influential philosophy chair in Britain — and from 1947 to 1971 he edited the journal *Mind*, a post he used to set standards for a generation.
 
 *The Concept of Mind* appeared in 1949 and made him the public face of Oxford philosophy: witty, demotic, and ruthlessly anti-pompous. Later work was broader than the caricature suggests — *Dilemmas* (1954), two volumes of *Collected Papers* (1971), and *Plato's Progress* (1966), a serious work of Plato scholarship. He retired in 1968 and died in 1976.
 
@@ -27,7 +29,7 @@ Ryle's diagnostic tool. A **category mistake** occurs when we present facts belo
 
 ### The ghost in the machine
 
-Descartes's dualism — mind as a non-spatial, non-mechanical inner theater, body as a machine it somehow steers — Ryle labels **"the dogma of the Ghost in the Machine"** and, more technically, "Descartes' myth." The "official doctrine," as he reconstructs it, creates an insoluble double problem: how a ghostly mind can causally move a material body, and how anyone can know anything about other minds sealed inside their machines. Ryle's proposal is deflationary: mental-conduct words — *intelligent, careful, vain, knows how* — do not report ghostly inner episodes; they signify abilities, tendencies, and dispositions manifested in what people do. On the official doctrine, Ryle says mockingly, "Minds are not bits of clockwork, they are just bits of not-clockwork" — negatives of mechanical descriptions that still keep the grammar of mechanism, so minds become "spectral machines".
+Descartes's dualism — mind as a non-spatial, non-mechanical inner theater, body as a machine it somehow steers — Ryle labels **"the dogma of the Ghost in the Machine"** and, more technically, "Descartes' myth." The "official doctrine," as he reconstructs it, creates an insoluble double problem: how a ghostly mind can causally move a material body, and how anyone can know anything about other minds sealed inside their machines. Ryle's proposal is deflationary: mental-conduct words — *intelligent, careful, vain, knows how* — do not report ghostly inner episodes; they signify abilities, tendencies, and dispositions manifested in what people do. "Minds are not bits of clockwork, they are just bits of not-clockwork" — the point being that talk of mind was never the right grammar for a mechanism at all.
 
 ### Knowing-how and knowing-that
 

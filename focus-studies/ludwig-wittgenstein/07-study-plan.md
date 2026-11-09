@@ -32,7 +32,7 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 
 **Alongside.** [01-life-and-times.md](01-life-and-times.md), [02-works-and-texts.md](02-works-and-texts.md), and [03-system-and-concepts.md](03-system-and-concepts.md)'s early-system sections.
 
-**Media.** BBC Radio 4, *In Our Time*: "Wittgenstein" (first broadcast 4 December 2003; Melvyn Bragg with Ray Monk, Barry Smith, and Marie McGinn; ~45 min) as *preview* — the whole two-philosophy arc in one sitting, so the early book is read knowing a second is coming.
+**Media.** BBC Radio 4, *In Our Time*: "Wittgenstein" (first broadcast 4 December 2003; Bragg with Ray Monk, Barry Smith, and Marie McGinn; ~42 min) as *preview* — the whole two-philosophy arc in one sitting, so the early book is read knowing a second is coming.
 
 **Checkpoints (book closed).**
 1. *Why "facts, not things"?* Truth and falsity live at the level of states of affairs: "the cat is on the mat" is true or false of a fact, not of the cat. A picturing language requires the world as totality of facts (1, 1.1). [03-system-and-concepts.md](03-system-and-concepts.md).
@@ -75,7 +75,7 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 **Checkpoints (the dossier's own).**
 1. *Why Augustine, not Frege or the Tractatus, as the opening exhibit?* The picture governs as a pre-philosophical temptation, not one school's doctrine; Augustine states it innocently, and the *Tractatus* is among its governed. (Guide, §§1–38 block.)
 2. *What do the builders show, and not show?* A complete language working as calls within an activity — so naming cannot be language's essence. Not that ordinary language is that simple, or naming unimportant within it. (Guide, checkpoint 2.)
-3. *§43's hedge — its force?* "For a large class of cases … — though not for all —". Dropping it turns a redirection of attention into a new essence of meaning: the exact move the book refuses. [03-system-and-concepts.md](03-system-and-concepts.md).
+3. *§43's hedge — its force?* "For a large class of cases — though not for all." Dropping it turns a redirection of attention into a new essence of meaning: the exact move the book refuses. [03-system-and-concepts.md](03-system-and-concepts.md).
 
 **Reconstructions.** The Augustinian-picture argument (guide (a)); saying/showing gets its +3-week touch — notice, doing it, how completely its terms have changed hands.
 
@@ -83,7 +83,7 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 
 ## Week 4 — Games, method, therapy: PI §§65–133 (~5.5 hrs)
 
-**Primary.** §§65–77: the confrontation staged at §65 (the objection that he never says what language *is*), answered at §66 — look and see; games surveyed, no common property; family resemblances; the thread of overlapping fibers (§67); blurred edges (§§69–71). Then §§89–133, the method remarks, read as the operating manual: §109 (arranging what we have always known), §116 (words back from metaphysical to everyday use), §122 (perspicuous representation), §124 (philosophy "leaves everything as it is"), §133 (methods, like different therapies). The path assigns §§89–133; the dossier restores §§65–88 as their foundation.
+**Primary.** §§65–77: the confrontation staged at §65 ("you never say what language *is*"), answered at §66 — look and see; games surveyed, no common property; family resemblances; the thread of overlapping fibers (§67); blurred edges (§§69–71). Then §§89–133, the method remarks, read as the operating manual: §109 (arranging what we have always known), §116 (words back from metaphysical to everyday use), §122 (perspicuous representation), §124 (philosophy "leaves everything as it is"), §133 (methods, like different therapies). The path assigns §§89–133; the dossier restores §§65–88 as their foundation.
 
 **The guide.** Its §§65–77 and §§109–133 walkthroughs; reconstruction (b) written before checking; **checkpoints 6, 7, and 16** as the extended set.
 
@@ -174,7 +174,7 @@ Write in Week 7, after the comparative checkpoints, book closed for the first dr
 2. **The ladder on trial.** State the resolute reading at full strength (plain nonsense; no ineffable truths; therapy complete only when nothing is salvaged) and the traditional reply (truths about logical form and the mystical, shown not said). Judge on two exhibits only — the von Ficker letter and 6.54 — then say what your verdict does to the continuity question.
 3. **Kripkenstein.** Reconstruct the skeptical paradox from quus and the skeptical solution; then give the Baker–Hacker dissolution its best run — the premise that grasp must be an interpretation or a meaning-constituting fact is the confusion §201 names. Decide: distortion of Wittgenstein, development from him, or both at once — and name the exact premise where the two part company.
 4. **Therapy: liberation or abdication?** Russell's contempt and Gellner's *Words and Things* press one point from two directions: a philosophy that only dissolves problems has resigned from answering any. Defend or convict §124's conception through one worked case from this plan — the diary (§258) or the pupil (§185) — showing what the therapeutic treatment *does* there, and whether anything a theory would call an answer has been lost.
-5. **Hinges against the skeptic.** *On Certainty* refuses both Moore ("Here is one hand" answers the skeptic) and the skeptic (universal doubt is coherent). Reconstruct the refusal, then test it against one live doubt — a simulation hypothesis, a brain in a vat, a five-minute-old world. Does the hinge framework *answer* the doubt, *disqualify* it, or merely decline it — and is declining, here, enough?
+5. **Hinges against the skeptic.** *On Certainty* refuses both Moore ("I know here is a hand" answers the skeptic) and the skeptic (universal doubt is coherent). Reconstruct the refusal, then test it against one live doubt — a simulation hypothesis, a brain in a vat, a five-minute-old world. Does the hinge framework *answer* the doubt, *disqualify* it, or merely decline it — and is declining, here, enough?
 
 ## Mastery checklist — you are done when you can…
 

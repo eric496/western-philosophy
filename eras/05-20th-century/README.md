@@ -19,10 +19,10 @@ Marx, Freud, and Weber, institutionalized: the Frankfurt Institute (founded 1923
 
 ## Learning order within era (five passes, not chronological)
 Pass 1 friendly doors: Russell Problems → Sartre Humanism + No Exit, Beauvoir Ethics of Ambiguity → Kuhn Structure → Popper "Conjectures and Refutations" ch.1 (then argue Popper vs Kuhn).
-Pass 2 language: Ayer chs.1,6 (the English popularization of positivism) → early Wittgenstein Tractatus excerpts guided → late Wittgenstein Investigations §§1–133. Arc IS analytic story. Map level: Carnap after Ayer; Quine's "Two Dogmas", then Sellars, Davidson, Putnam and Lewis.
-Pass 3 experience/existence: Husserl Cartesian Meditations + guide (Zahavi) → Heidegger Basic Writings then guided Being and Time excerpts → re-read Sartre/Beauvoir with machinery, add Second Sex (Intro + Vol II opening, 2010 translation). Map level: Du Bois and Fanon on the look and double consciousness, then Irigaray, Kristeva and Butler as Beauvoir's heirs.
-Pass 4 politics/power (rival lenses contrasted): Rawls Restatement (fairness) → Arendt Human Condition I,V then Eichmann in context (action among plural equals) → Frankfurt "Culture Industry" (culture as domination) → Foucault Discipline opening + Sexuality Vol.1 (power inside institutions/selves). Comparing Rawls→Arendt→Foucault teaches more than any alone. Map level: Habermas (deliberative democracy, against Foucault) and Hart (law as rules, the background to Rawls).
-Pass 5 hard core + rebuild: Derrida "Différance" + "Letter to a Japanese Friend", then Grammatology excerpts → Anscombe "Modern Moral Philosophy" + Foot trolley/Natural Goodness opening — era hands over to contemporary ethics. Deleuze at map level beside Derrida (entry + SEP; not *A Thousand Plateaus* first).
+Pass 2 language: Ayer chs.1,6 (the English popularization of positivism) → early Wittgenstein Tractatus excerpts guided → late Wittgenstein Investigations §§1–133. Arc IS analytic story.
+Pass 3 experience/existence: Husserl Cartesian Meditations + guide (Zahavi) → Heidegger Basic Writings then guided Being and Time excerpts → re-read Sartre/Beauvoir with machinery, add Second Sex (Intro + Vol II opening, 2010 translation).
+Pass 4 politics/power (rival lenses contrasted): Rawls Restatement (fairness) → Arendt Human Condition I,V then Eichmann in context (action among plural equals) → Frankfurt "Culture Industry" (culture as domination) → Foucault Discipline opening + Sexuality Vol.1 (power inside institutions/selves). Comparing Rawls→Arendt→Foucault teaches more than any alone.
+Pass 5 hard core + rebuild: Derrida "Différance" + "Letter to a Japanese Friend", then Grammatology excerpts → Anscombe "Modern Moral Philosophy" + Foot trolley/Natural Goodness opening — era hands over to contemporary ethics.
 
 ## Oversimplifications (general)
 - "Analytic = cold logic/science; continental = poetic nonsense" caricatures both (analytic produced Rawls/Anscombe; continental produced Husserl's rigorous science of experience). Difference is problems/method, not seriousness.
@@ -36,24 +36,17 @@ Pass 5 hard core + rebuild: Derrida "Différance" + "Letter to a Japanese Friend
 
 - [Gottlob Frege](gottlob-frege.md)
 - [Bertrand Russell](bertrand-russell.md)
-- [W. E. B. Du Bois and Frantz Fanon](du-bois-and-fanon.md) (group entry)
 - [G. E. Moore](g-e-moore.md)
 - [Karl Jaspers](karl-jaspers.md)
 - [Wittgenstein, Early](wittgenstein-early.md)
 - [Wittgenstein, Late](wittgenstein-late.md)
 - [Gilbert Ryle](gilbert-ryle.md)
-- [Philosophy of Mind after Ryle](philosophy-of-mind-after-ryle.md)
 - [Vienna Circle / Logical Positivism](vienna-circle-logical-positivism.md)
-- [Rudolf Carnap](rudolf-carnap.md)
 - [Karl Popper](karl-popper.md)
 - [W. V. O. Quine](w-v-o-quine.md)
-- [Sellars, Davidson, Putnam and Lewis](analytic-philosophy-after-quine.md) (group entry)
-- [Austin & Strawson](austin-and-strawson.md)
-- [Saul Kripke](saul-kripke.md)
 - [Paul Ricoeur](paul-ricoeur.md)
 - [Thomas Kuhn](thomas-kuhn.md)
 - [John Rawls](john-rawls.md)
-- [Robert Nozick](robert-nozick.md)
 - [Alasdair MacIntyre](alasdair-macintyre.md)
 - [Bernard Williams](bernard-williams.md)
 - [Judith Jarvis Thomson](judith-jarvis-thomson.md)
@@ -68,20 +61,15 @@ Pass 5 hard core + rebuild: Derrida "Différance" + "Letter to a Japanese Friend
 - [Susanne Langer](susanne-langer.md)
 - [Leo Strauss](leo-strauss.md)
 - [Jean-Paul Sartre](jean-paul-sartre.md)
-- [Albert Camus](albert-camus.md)
 - [Maurice Merleau-Ponty](maurice-merleau-ponty.md)
 - [Simone de Beauvoir](simone-de-beauvoir.md)
 - [Simone Weil](simone-weil.md)
 - [Hannah Arendt](hannah-arendt.md)
-- [H. L. A. Hart](h-l-a-hart.md)
 - [Emmanuel Levinas](emmanuel-levinas.md)
 - [Frankfurt School (Horkheimer & Adorno)](frankfurt-school.md)
-- [Jürgen Habermas](jurgen-habermas.md)
-- [Gilles Deleuze](gilles-deleuze.md)
 - [Michel Foucault](michel-foucault.md)
 - [Jacques Derrida](jacques-derrida.md)
-- [Irigaray, Kristeva and Butler](feminist-philosophy-after-beauvoir.md) (group entry)
-- [Hanna Pitkin](hanna-pitkin.md)
+- [Hannah Pitkin](hannah-pitkin.md)
 - [Hans-Georg Gadamer](hans-georg-gadamer.md)
 - [Anscombe & Foot](anscombe-and-foot.md)
 - [Iris Murdoch](iris-murdoch.md)

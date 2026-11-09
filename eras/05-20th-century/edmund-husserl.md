@@ -24,7 +24,7 @@ He taught at Halle from 1887, then held professorships at Göttingen (1901) and 
 
 Retirement in 1928 did not slow him. He lectured in Paris in 1929 — published in French in 1931 as the *Cartesian Meditations* — and wrote through the 1930s. Under the Nazi regime, because of his Jewish ancestry, his emeritus privileges were withdrawn and he was effectively silenced in his own university city. He died in Freiburg in 1938.
 
-He left some 45,000 pages of manuscripts, about 40,000 of them in Gabelsberger shorthand. Fearing their destruction, Herman Leo Van Breda smuggled them to Leuven in Belgium, where the Husserl Archives were founded in 1939; the critical edition, *Husserliana*, has published them ever since. Hence the saying that “Husserl” is partly a posthumous construction: much of his mature thought on time, the body, and intersubjectivity reached print only decades after his death.
+He left roughly 40,000 pages of manuscripts, many in a shorthand he had taught himself. Fearing their destruction, Herman Leo Van Breda smuggled them to Leuven in Belgium, where the Husserl Archives were founded in 1939; the critical edition, *Husserliana*, has published them ever since. Hence the saying that “Husserl” is partly a posthumous construction: much of his mature thought on time, the body, and intersubjectivity reached print only decades after his death.
 
 ## Major theories and concepts
 

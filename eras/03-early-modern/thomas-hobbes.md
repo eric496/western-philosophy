@@ -13,7 +13,7 @@
 - **School/tradition:** Materialist and founder of modern social-contract theory
 - **Known for:** Deriving absolute authority from fear and rational self-preservation in *Leviathan*
 
-**Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md), [Shaftesbury, Hutcheson & Butler](moral-sense-school.md)
+**Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md)
 
 ## Biography
 
@@ -37,7 +37,7 @@ Example: deliberating whether to flee danger is, for Hobbes, alternating appetit
 
 Imagine people with no common power to keep them in awe. This state of nature is a thought experiment, not mainly a claim about prehistory. People are equal in the sense that matters — even the weakest can kill the strongest, by stealth or alliance. From equality, scarcity, and uncertainty come three causes of quarrel: competition, diffidence (fear for safety), and glory.
 
-The result is a war “of every man against every man” (*Leviathan* ch. 13; the Latin tag *bellum omnium contra omnes*, the war of all against all, comes from *De Cive*): not constant fighting, but a known disposition to fight, with no security for industry, trade, or knowledge. Life would be “solitary, poor, nasty, brutish, and short.” There is no injustice here, because there is no law. Tension: has Hobbes described human nature, or only human nature stripped of trust? Critics ask whether cooperation is just as natural as fear.
+The result is a “war of all against all”: not constant fighting, but a known disposition to fight, with no security for industry, trade, or knowledge. Life would be “solitary, poor, nasty, brutish, and short.” There is no injustice here, because there is no law. Tension: has Hobbes described human nature, or only human nature stripped of trust? Critics ask whether cooperation is just as natural as fear.
 
 ### Laws of nature as rational precepts
 

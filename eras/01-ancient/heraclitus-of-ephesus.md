@@ -19,53 +19,27 @@
 
 Heraclitus is the first Presocratic whose own words reach us in quantity — roughly a hundred-plus fragments, quoted by later authors — and he is still elusive. He came, by later tradition, from a leading Ephesian family, and is said to have surrendered a hereditary ceremonial office to his brother. The anecdotes around him are mostly hostile caricatures built from his own pronouncements: that he said the Ephesians deserved hanging for exiling his friend Hermodorus; that he withdrew to the mountains and died grotesquely treating an illness with cow dung. Diogenes Laertius, source for most of this, wrote seven centuries later. Read it as evidence for his reputation — the solitary, scornful sage, nicknamed "the Obscure" and "the Weeping Philosopher" — not as a reliable life.
 
-The fragments justify the reputation for disdain. He attacks Hesiod, Pythagoras, [Xenophanes](presocratic-pluralists.md), and Hecataeus by name: "Learning many things does not teach understanding. Else it would have taught Hesiod and Pythagoras, as well as Xenophanes and Hecataeus" (fragment B40, in the standard Diels–Kranz numbering). He reports no teacher but his own search: "I have sought for myself" (B101). He founded no succession and had no known pupils; his influence began when his book was read.
+The fragments justify the reputation for disdain. He attacks Hesiod, Pythagoras, Xenophanes, and Hecataeus by name: "Much learning does not teach understanding; otherwise it would have taught Hesiod and Pythagoras" (fragment B40, in the standard Diels–Kranz numbering). He claims to have "searched himself" rather than learned from a teacher. He founded no succession and had no known pupils; his influence began when his book was read.
 
-That book — traditionally titled *On Nature*, a conventional label — was composed around 500 BCE and, by a probably legendary story, deposited in the temple of Artemis at Ephesus. It did not survive as a book. What survives is fragments quoted, for their own purposes, by Plato, Aristotle, the Stoics, Christian writers such as Hippolytus, and others across a thousand years. We possess brilliant utterances without their original context or order, and scholars argue about how the pieces fitted together — or whether Heraclitus deliberately wrote in aphorisms, oracular in style, enacting his teaching that truth is hidden. He compares his *logos* to the Delphic oracle, which "neither reveals nor conceals, but gives a sign" (B93).
+That book — traditionally titled *On Nature*, a conventional label — was composed around 500 BCE and, by a probably legendary story, deposited in the temple of Artemis at Ephesus. It did not survive as a book. What survives is fragments quoted, for their own purposes, by Plato, Aristotle, the Stoics, Christian writers such as Hippolytus, and others across a thousand years. We possess brilliant utterances without their original context or order, and scholars argue about how the pieces fitted together — or whether Heraclitus deliberately wrote in aphorisms, oracular in style, enacting his teaching that truth is hidden. He compares his *logos* to the Delphic oracle, which "neither speaks nor conceals but gives a sign" (B93).
 
 ## Major theories and concepts
 
 ### The Logos
 
-*Logos* is a many-sided Greek word: word, speech, account, reason, proportion, measure. Heraclitus exploits the whole range. The opening fragment (B1) announces that the *logos* holds forever, everything happens according to it, and humans persistently fail to understand it — like sleepers, each in a private world, although the logos is common to all (B2). Reality has a single intelligible structure: not a stuff, as in Miletus, but a pattern of how things change, which thought can grasp because the same logos structures the soul. Hence: listen "not to me but to the Word (Logos)" (B50). The tension is productive: if the logos is common, why do most miss it? His answer is a philosophy of attention — people experience the pattern daily but uncomprehendingly. Waking up, intellectually, is the central human task.
+*Logos* is a many-sided Greek word: word, speech, account, reason, proportion, measure. Heraclitus exploits the whole range. The opening fragment (B1) announces that the *logos* holds forever, everything happens according to it, and humans persistently fail to understand it — like sleepers, each in a private world, although the logos is common to all (B2). Reality has a single intelligible structure: not a stuff, as in Miletus, but a pattern of how things change, which thought can grasp because the same logos structures the soul. Hence: listen "not to me but to the logos" (B50). The tension is productive: if the logos is common, why do most miss it? His answer is a philosophy of attention — people experience the pattern daily but uncomprehendingly. Waking up, intellectually, is the central human task.
 
 ### Flux — measured, not chaotic
 
-Heraclitus is the philosopher of change: day passes into night, living into dead, waking into sleeping; a river flows. In the famous image (B12), "on those stepping into rivers staying the same other and other waters flow" — the river *is* the same precisely because new waters replace the old. Identity is not absence of change but a stable pattern *within* change, like a flame. Crucially, change is measured: fire is "kindling in measures and being quenched in measures" (B30). Flux is not chaos; it is law-governed transformation, the logos at work. Later followers radicalized it — Aristotle reports Cratylus pushing it until you cannot step in even once, and finally refusing to speak, only moving his finger (*Metaphysics* Γ 5, 1010a) — but that extremity is Cratylus', not Heraclitus'.
+Heraclitus is the philosopher of change: day passes into night, living into dead, waking into sleeping; a river flows. In the famous image (B12), "on those stepping into rivers staying the same other and other waters flow" — the river *is* the same precisely because new waters replace the old. Identity is not absence of change but a stable pattern *within* change, like a flame. Crucially, change is measured: fire is "kindled in measures and extinguished in measures" (B30). Flux is not chaos; it is law-governed transformation, the logos at work. Later followers radicalized it — Plato reports Cratylus pushing it until you cannot step in even once, and finally refusing to speak, only wagging his finger — but that extremity is Cratylus', not Heraclitus'.
 
 ### The unity of opposites
 
-Opposites are inseparable and mutually defining. "The way up and the way down is one and the same" (B60). Sea water is "the purest and most polluted water: for fish drinkable and healthy, for men undrinkable and harmful" (B61) — the same thing, opposite in relation. More strongly, the tension between opposites holds things together: "Opposition unites. From what draws apart results the most beautiful harmony" (B8, as Aristotle reports it). His image is the bow and the lyre (B51): each works only because its parts pull against each other. Strife is no defect: "war is father of all and king of all" (B53). The tension Parmenides would seize on: if a thing can be both itself and its opposite, does identity — and meaningful speech — collapse? Heraclitus' implicit answer is that opposites are unified *in process and relation*, not flatly identical at an instant; whether that satisfies is the debate his successors inherited.
+Opposites are inseparable and mutually defining. "The road up and the road down are one and the same" (B60). Sea water is "the purest and foulest: for fish drinkable and life-giving; for men undrinkable and deadly" (B61) — the same thing, opposite in relation. More strongly, the tension between opposites holds things together: "what is in opposition is in concert, and from things that differ comes the most beautiful harmony" (B8). His image is the bow and the lyre (B51): each works only because its parts pull against each other. Strife is no defect: "war is father of all and king of all" (B53). The tension Parmenides would seize on: if a thing can be both itself and its opposite, does identity — and meaningful speech — collapse? Heraclitus' implicit answer is that opposites are unified *in process and relation*, not flatly identical at an instant; whether that satisfies is the debate his successors inherited.
 
 ### Fire and the soul
 
-Like the Milesians, Heraclitus names a basic stuff: fire. But fire functions less as an ingredient than as the emblem and agent of measured change — transforming everything into itself and itself into everything, "as wares are exchanged for gold, and gold for wares" (B90). Whether he meant that the world periodically burns up entirely (as the Stoics later claimed) is disputed; B30 says this kosmos "ever was and is and will be: everliving fire," which sits awkwardly with cycles of total destruction. The soul, too, is fiery: the dry soul is "wisest and best" (B118), the drunkard's wet and staggering. Psychology and cosmology run on one physics of moisture, fire, and measure.
-
-## Signature arguments
-
-**Identity through measured flux (fragments B12, B30)**
-
-1. Everything is in process: day passes into night, living into dead, and "on those stepping into rivers staying the same other and other waters flow" (B12).
-2. The river is the same river precisely because new waters keep replacing the old; its identity is a stable pattern within change, like a flame, not an absence of change.
-3. This change is measured, not chaotic: the world is fire "kindling in measures and being quenched in measures" (B30).
-4. The measure is the *logos*, the single intelligible order (word, account, proportion) that everything follows and that thought can grasp.
-Therefore, change is the basic fact of reality, yet it is law-governed, and things persist as patterns of change rather than as unchanging stuffs.
-
-**Objection.** Aristotle objected that universal flux destroys knowledge and speech: if everything always changes in every respect, nothing can be truly stated. Heraclitus' follower Cratylus seemed to accept this, holding that you cannot step into the same river even once and finally refusing to speak, only moving his finger.
-
-**Reply.** The charge fits Cratylus' radical version better than Heraclitus' own fragments. The river fragment says the river stays the same while its waters change, and B30's measures supply exactly the stable structure that statements and knowledge can track. Whether Heraclitus himself held anything like the radical version, and so whether measured change is a sufficient reply, is a central and continuing scholarly debate.
-
-**The unity of opposites (fragments B60, B61, B51, B53)**
-
-1. Opposites are inseparable and define each other: "The way up and the way down is one and the same" (B60).
-2. One and the same thing can bear opposite properties in relation to different things: sea water is "the purest and most polluted water: for fish drinkable and healthy, for men undrinkable and harmful" (B61).
-3. Things hold together by the tension of opposed forces, as a bow and a lyre work only because their parts pull against each other (B51).
-4. So strife is no defect but a source of order: "war is father of all and king of all" (B53).
-Therefore, the world's harmony consists in the unity and interdependence of opposites, not in their absence.
-
-**Objection.** If a thing can be both itself and its opposite, identity and meaningful speech seem to collapse. Aristotle, in *Metaphysics* Γ 3, notes that some take Heraclitus to say the same thing can be and not be, and argues that no one can really believe this, since it violates the principle of non-contradiction.
-
-**Reply.** Heraclitus' examples relativize the opposites: sea water is healthy for fish and harmful for people, and the road is up from one end and down from the other. Unified in process and relation, the opposites are not flatly identical at one instant in one respect, so no contradiction follows. Whether that reading fits every fragment, or whether some fragments really do flout non-contradiction, is the debate his successors inherited and scholars still pursue.
+Like the Milesians, Heraclitus names a basic stuff: fire. But fire functions less as an ingredient than as the emblem and agent of measured change — transforming everything into itself and itself into everything, "as goods are exchanged for gold and gold for goods" (B90). Whether he meant that the world periodically burns up entirely (as the Stoics later claimed) is disputed; B30 says this kosmos "always was and is and will be — ever-living fire," which sits awkwardly with cycles of total destruction. The soul, too, is fiery: the dry soul is "wisest and best" (B118), the drunkard's wet and staggering. Psychology and cosmology run on one physics of moisture, fire, and measure.
 
 ## Key works
 
@@ -79,7 +53,7 @@ Therefore, the world's harmony consists in the unity and interdependence of oppo
 
 ## Impact and legacy
 
-Plato built around the flux doctrine: in the *Theaetetus* and *Cratylus*, the sensible world is Heraclitean becoming, contrasted with stable objects of knowledge. The Stoics adopted the logos as the rational principle governing the cosmos, made fire its vehicle, and built their physics on Heraclitean foundations. Through Stoicism the logos entered early Christian theology — John's Gospel opens with *en archē ēn ho logos*, "In the beginning was the Word" — though scholars debate direct dependence. Hegel claimed him as a forerunner — "there is no proposition of Heraclitus which I have not adopted in my Logic" — and Nietzsche prized him for affirming becoming against all consolations of permanence.
+Plato built around the flux doctrine: in the *Theaetetus* and *Cratylus*, the sensible world is Heraclitean becoming, contrasted with stable objects of knowledge. The Stoics adopted the logos as the rational principle governing the cosmos, made fire its vehicle, and built their physics on Heraclitean foundations. Through Stoicism the logos entered early Christian theology — John's Gospel opens "In the beginning was the Logos" — though scholars debate direct dependence. Hegel claimed him as a forerunner — "there is no proposition of Heraclitus that I have not adopted in my Logic" — and Nietzsche prized him for affirming becoming against all consolations of permanence.
 
 ## Criticisms and debates
 
@@ -87,7 +61,7 @@ Aristotle objected that radical flux destroys knowledge and speech: if everythin
 
 ## Misreadings to avoid
 
-- **"You cannot step into the same river twice" as a verbatim quote.** It is a later paraphrase (Plato, *Cratylus* 402a; Aristotle and Plutarch give similar wordings), and most scholars doubt it is his exact wording. The surviving river fragments are subtler: the river stays the same *while* the waters change.
+- **"You cannot step into the same river twice" as a verbatim quote.** It is Plato's later paraphrase. The surviving river fragments are subtler: the river stays the same *while* the waters change.
 - **Flux as chaos or "anything goes."** Heraclitean change is kindled and extinguished *in measures*, governed by the logos. He is a philosopher of order in change, not of disorder.
 - **Fire as just another Milesian stuff.** Fire is chosen because it *is* change made visible; reducing him to "the one who said fire instead of water" misses the shift from substance to process.
 - **The dung-and-dropsy death story as biography.** It is hostile anecdote, centuries late.

@@ -39,7 +39,7 @@ The **religious** life begins where the ethical, for all its dignity, breaks: in
 
 ### Faith and the leap; the teleological suspension of the ethical
 
-*Fear and Trembling* (1843), signed by the pseudonym Johannes de Silentio ("John of Silence"), who insists he cannot himself make the movement of faith, retells Genesis 22: God's command that Abraham sacrifice Isaac. The ethical says murder is evil; yet Abraham is presented as a "knight of faith" who, by virtue of the absurd, believes he will receive Isaac back even as he raises the knife. Johannes calls this structure a *teleological suspension of the ethical*: the single individual, in absolute relation to the absolute, stands higher than the universal. The popular phrase "leap of faith" simplifies his notion of the *leap* — a qualitative transition between spheres that no amount of objective reasoning can make for you — into a licence to believe blindly; the text is far more anguished and precise: faith is a passion held fast amid objective uncertainty, not an excuse to stop thinking.
+*Fear and Trembling* (1843), signed by the pseudonym Johannes de Silentio ("John of Silence"), who insists he cannot himself make the movement of faith, retells Genesis 22: God's command that Abraham sacrifice Isaac. The ethical says murder is evil; yet Abraham is presented as a "knight of faith" who, by virtue of the absurd, believes he will receive Isaac back even as he raises the knife. Kierkegaard calls this structure a *teleological suspension of the ethical*: the single individual, in absolute relation to the absolute, stands higher than the universal. The popular phrase "leap of faith" simplifies his notion of the *leap* — a qualitative transition between spheres that no amount of objective reasoning can make for you — into a licence to believe blindly; the text is far more anguished and precise: faith is a passion held fast amid objective uncertainty, not an excuse to stop thinking.
 
 ### Subjectivity, anxiety, despair
 
@@ -50,32 +50,6 @@ The *Concluding Unscientific Postscript* (1846) argues that for existential and 
 ### Pseudonymity and indirect communication
 
 The pseudonyms are not disguises but positions: Johannes the Seducer, Judge William, Johannes de Silentio, Johannes Climacus, Anti-Climacus each voice a standpoint from inside, because for Kierkegaard existential truth cannot be handed over directly like a parcel — a reader must be "deceived into the truth," made to appropriate it as their own. Hence a pseudonym's view is not automatically Kierkegaard's, and treating any single pseudonymous voice as his doctrine is a basic error. The signed discourses, published in parallel, show what he was willing to say in his own name.
-
-## Signature arguments
-
-**The teleological suspension of the ethical (*Fear and Trembling*, Problema I)**
-
-1. The ethical is the universal: it binds everyone at every moment, and every ethical act must be justifiable in terms anyone could share.
-2. Even the tragic hero who sacrifices a child, like Agamemnon, can be publicly justified, because his sacrifice serves a universal end such as the state.
-3. Abraham's commanded sacrifice of Isaac serves no universal end; expressed ethically, it is simply murder.
-4. So either Abraham is a murderer, or the single individual, in an absolute relation to God, can stand higher than the universal.
-Therefore, if Abraham is the father of faith, there is a *teleological suspension of the ethical*: the ethical is not abolished but suspended for a higher end (*telos*), in a paradox no reasoning can mediate — which is why the pseudonymous author, Johannes de Silentio, says he cannot make the movement himself.
-
-**Objection.** The suspension licenses fanaticism. Kant had already argued that Abraham should have refused: that killing an innocent son is wrong is certain, while that the voice is God's can never be. Theologians and moral philosophers press the point: Kierkegaard's Abraham hears God, but nothing distinguishes him from a murderer who hears a voice.
-
-**Reply.** Defenders answer that the book is no permission structure. Abraham is presented as unrepeatable and terrifying, he goes on loving Isaac, he gains nothing and recruits no one, and the ethical is restored when Isaac is received back. On this reading the category's singularity and terror are the point, not a general licence. Whether those marks are enough to tell faith from fanaticism is still genuinely debated.
-
-**Truth is subjectivity (*Concluding Unscientific Postscript*, Part Two)**
-
-1. Some questions — what to stake one's life on, how to relate to God — concern the existing individual's own life, not a detached topic.
-2. Objective inquiry, historical or speculative, yields only approximation; it never ends, so on its own it can never deliver a decision.
-3. An objectively correct doctrine held with indifference changes nothing in how one exists; religiously, it is untruth.
-4. What makes a person's relation to such a question true is *how* they hold it: passionate inward appropriation, held fast amid objective uncertainty.
-Therefore, for existential and religious questions, "truth is subjectivity": existential truth lives in the passionate appropriation of the believer, not in the bare correctness of what is believed.
-
-**Objection.** This looks like relativism or irrationalism. Climacus himself sets up the hard case: someone who prays to an idol with infinite passion, he suggests, is more in the truth than a lukewarm worshipper of the true God. If passion is what counts, it seems anything held intensely enough counts as truth, and reasons for belief stop mattering.
-
-**Reply.** The thesis is restricted to existence-questions; it does not deny objective truth in mathematics or history, and it does not claim that passion makes a doctrine correct. It concerns the truth of a person's relation to what they believe: a true doctrine does nothing for a life until it is appropriated. Whether Climacus can keep the *what* of Christian faith from dissolving into the *how* is disputed among his readers.
 
 ## Key works
 

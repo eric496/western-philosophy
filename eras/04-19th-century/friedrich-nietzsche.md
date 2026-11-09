@@ -39,11 +39,11 @@ In *The Gay Science* §125 (1882), a madman announces to amused market-goers tha
 
 The *Genealogy of Morals* (1887) asks a new kind of question about morality: not "is it true?" but "where did it come from, and whom does it serve?" In the First Essay, Nietzsche contrasts *master morality* — the self-valuing of the noble, who calls himself and his like "good" spontaneously and only secondarily calls the low and common "bad" — with *slave morality*, born of *ressentiment*: the powerless creatively invert the masters' values, redefining the masters' strength as "evil" and their own humility, patience, pity, and weakness as "good." The slave revolt in morality (which Nietzsche traces to priestly Judaism and its heir, Christianity) is, in his telling, a triumph of spiritual revenge that conquered the Roman world and still defines European conscience. Note: this master/slave pair is a typology of value-creation, not Hegel's lordship-and-bondage dialectic; the two are often confused and must be kept apart.
 
-The Second Essay traces *bad conscience*: instincts of cruelty that a civilized, enclosed society can no longer discharge outward turn inward, and the soul learns to torture itself — the raw material of guilt. The Third examines the *ascetic ideal* — the priestly, scholarly, and philosophical glorification of self-denial — which gave suffering a meaning ("he will sooner will nothingness than not will at all," *Genealogy* III §1, trans. Samuel) while poisoning life in the process.
+The Second Essay traces *bad conscience*: instincts of cruelty that a civilized, enclosed society can no longer discharge outward turn inward, and the soul learns to torture itself — the raw material of guilt. The Third examines the *ascetic ideal* — the priestly, scholarly, and philosophical glorification of self-denial — which gave suffering a meaning ("man prefers to will nothingness than not will") while poisoning life in the process.
 
 ### Will to power
 
-Nietzsche's most famous and most contested idea: life, and perhaps the world, is best interpreted as *will to power* — drives everywhere seeking not mere survival but growth, discharge of strength, and overcoming of resistance, including self-overcoming. Whether this is (a) a psychological hypothesis about motivation, (b) a full metaphysics of the world, or (c) a heuristic lens Nietzsche offers for interpretation is a genuine scholarly dispute, made worse because the "book" titled after it is his sister's posthumous construction. Most scholars deny that it is a doctrine of crude political domination or brute force, reading power primarily as self-mastery and creation, though passages such as *Beyond Good and Evil* §259 (life as "appropriation, injury, conquest of the strange and weak") keep that reading contested.
+Nietzsche's most famous and most contested idea: life, and perhaps the world, is best interpreted as *will to power* — drives everywhere seeking not mere survival but growth, discharge of strength, and overcoming of resistance, including self-overcoming. Whether this is (a) a psychological hypothesis about motivation, (b) a full metaphysics of the world, or (c) a heuristic lens Nietzsche offers for interpretation is a genuine scholarly dispute, made worse because the "book" titled after it is his sister's posthumous construction. What it is *not*, in his texts, is a doctrine of crude political domination or brute force: power is primarily self-mastery and creation.
 
 ### Eternal recurrence
 
@@ -55,7 +55,7 @@ Zarathustra's *Übermensch* (overman) is the figure who creates values after the
 
 ### Perspectivism
 
-Knowledge, for Nietzsche, is always from a perspective, structured by drives, affects, and interests; there is no view from nowhere, no "immaculate perception." But perspectivism is not "anything goes": more perspectives, honestly acknowledged and set against each other, yield a more objective picture ("the more eyes, different eyes, we train on the same thing, the more complete will be our 'idea' of that thing, our 'objectivity,'" *Genealogy* III §12, trans. Samuel). It is a discipline of intellectual honesty, not a licence for relativism.
+Knowledge, for Nietzsche, is always from a perspective, structured by drives, affects, and interests; there is no view from nowhere, no "immaculate perception." But perspectivism is not "anything goes": more perspectives, honestly acknowledged and set against each other, yield a more objective picture ("the more eyes… we are able to employ for the same thing, the more complete will our 'concept' of the thing be"). It is a discipline of intellectual honesty, not a licence for relativism.
 
 ### Apollo and Dionysus
 
@@ -111,7 +111,7 @@ Nietzsche added the *genealogical method* — unmasking ideals by their origins 
 
 ## Impact and legacy
 
-His influence runs through existentialism (Heidegger, Sartre, Camus), psychoanalysis (Freud, by his biographer Ernest Jones's account, often said that Nietzsche had a more penetrating knowledge of himself than any other man who ever lived), French post-structuralism (Foucault took genealogy directly from him; [Deleuze](../05-20th-century/gilles-deleuze.md) and Derrida rebuilt readings of him), and modernist literature from Mann to Musil. The Nazi appropriation, engineered by his sister's archive and selective editing, collapsed under post-war scholarship but still colors his popular image.
+His influence runs through existentialism (Heidegger, Sartre, Camus), psychoanalysis (Freud insisted he had "more penetrating knowledge of himself than any other man"), French post-structuralism (Foucault took genealogy directly from him; Deleuze and Derrida rebuilt readings of him), and modernist literature from Mann to Musil. The Nazi appropriation, engineered by his sister's archive and selective editing, collapsed under post-war scholarship but still colors his popular image.
 
 ## Criticisms and debates
 

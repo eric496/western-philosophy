@@ -13,11 +13,11 @@
 - **School/tradition:** Political theory, phenomenology
 - **Known for:** Politics as public speech and action among distinct equals; totalitarianism as a new form of rule; and the "banality of evil" — great crimes committed by thoughtless bureaucrats
 
-**Responds to:** [Augustine](../02-medieval/augustine-of-hippo.md), [Kant](../03-early-modern/immanuel-kant.md), [Jaspers](karl-jaspers.md) · **Answered by:** [Habermas](jurgen-habermas.md) and later theorists of the public sphere
+**Responds to:** [Augustine](../02-medieval/augustine-of-hippo.md), [Kant](../03-early-modern/immanuel-kant.md), [Jaspers](karl-jaspers.md) · **Answered by:** Jürgen Habermas and later theorists of the public sphere — outside this repo's entries
 
 ## Biography
 
-Hannah Arendt was born Johanna Arendt in 1906 into a secular Jewish family in Linden, near Hanover, and grew up largely in Königsberg, Kant's city. Her father died when she was seven; she was raised by her mother, Martha. Precocious, she read Kant and Kierkegaard as a teenager and chose philosophy early.
+Hannah Arendt was born Johanna Cohn Arendt in 1906 into a secular Jewish family in Linden, near Hanover, and grew up largely in Königsberg, Kant's city. Her father died when she was seven; she was raised by her mother, Martha. Precocious, she read Kant and Kierkegaard as a teenager and chose philosophy early.
 
 At Marburg in 1924 she studied with Martin Heidegger, whose teaching electrified a generation. She and Heidegger — married, seventeen years older — had a brief affair she kept private for life; their correspondence appeared only after her death. Reducing her work to a reply to Heidegger misses its independence. She studied a semester with Edmund Husserl at Freiburg and took her doctorate at Heidelberg in 1929 under Karl Jaspers, on love in St. Augustine. Jaspers, who valued communication and public reason over closed systems, remained a lifelong friend and model.
 

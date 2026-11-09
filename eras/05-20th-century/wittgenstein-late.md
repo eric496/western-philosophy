@@ -13,7 +13,7 @@
 - **School/tradition:** Analytic philosophy — but as its internal critic, turning it from logical construction toward ordinary language, practice, and forms of life.
 - **Known for:** Meaning as use, language-games, family resemblance, and the private language argument — and for repudiating his own earlier *Tractatus*.
 
-**Responds to:** [Wittgenstein (early)](wittgenstein-early.md), [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Ryle](gilbert-ryle.md), [Austin & Strawson](austin-and-strawson.md), [Anscombe & Foot](anscombe-and-foot.md), [Kuhn](thomas-kuhn.md), [Kripke](saul-kripke.md)
+**Responds to:** [Wittgenstein (early)](wittgenstein-early.md), [Frege](gottlob-frege.md), [Russell](bertrand-russell.md) · **Answered by:** [Ryle](gilbert-ryle.md), [Anscombe & Foot](anscombe-and-foot.md), [Kuhn](thomas-kuhn.md)
 
 ## Biography
 
@@ -53,7 +53,7 @@ The moral is anti-essentialist: the craving to state necessary and sufficient co
 
 ### Forms of life
 
-Language-games are embedded in a *form of life* — the shared background of practices and reactions within which speaking makes sense. "To imagine a language means to imagine a form of life" (§19). Agreement in language (§§241–242) is not agreement in opinions but in form of life, and it requires agreement in judgments — shared responses that must be in place before truth and falsity can be discussed. If a lion could talk, we could not understand him, because his form of life is not ours. Scholars debate whether the term is mainly biological, mainly cultural, or both; Wittgenstein offers it as a reminder of where explanations run out: "What has to be accepted, the given, is — so one could say — forms of life."
+Language-games are embedded in a *form of life* — the shared background of practices and reactions within which speaking makes sense. "To imagine a language means to imagine a form of life" (§19). Agreement in language (§§241–242) is not agreement in opinions but in judgments — shared responses that must be in place before truth and falsity can be discussed. If a lion could talk, we could not understand him, because his form of life is not ours. Scholars debate whether the term is mainly biological, mainly cultural, or both; Wittgenstein offers it as a reminder of where explanations run out: "What has to be accepted, the given, is — so one could say — forms of life."
 
 ### The private language argument
 
@@ -118,7 +118,7 @@ Inside philosophy, the *Investigations* redirected the analytic tradition. Austi
 
 **Kripke's reading.** Kripke's *Wittgenstein on Rules and Private Language* (1982) made rule-following the center of the late work and proposed a "sceptical solution" grounded in community agreement. Many scholars (notably Baker and Hacker) argue this misrepresents Wittgenstein, importing a skepticism he aimed to dissolve. "Kripkenstein" is now a standard label for the possibly distinct philosopher of that book.
 
-**Continuity vs. rupture.** Some scholars stress two Wittgensteins; others stress one lifelong project against linguistic bewitchment. The preface to the *Investigations*, which proposes publishing old and new thoughts together so the new can be seen "in the right light only by contrast with and against the background of my old way of thinking," supports holding both emphases at once.
+**Continuity vs. rupture.** Some scholars stress two Wittgensteins; others stress one lifelong project against linguistic bewitchment. The preface to the *Investigations*, which proposes publishing old and new thoughts together so the new can be seen "against the background of the old," supports holding both emphases at once.
 
 **The *Nachlass* problem.** Because so much is posthumous and editorially arranged, appeals to "what Wittgenstein really thought" from notebooks are methodologically contested.
 

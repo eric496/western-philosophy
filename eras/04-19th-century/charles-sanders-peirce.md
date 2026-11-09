@@ -29,7 +29,7 @@ He died in 1914, leaving tens of thousands of manuscript pages. Harvard acquired
 
 ### The pragmatic maxim
 
-In "How to Make Our Ideas Clear" (1878): "Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." The maxim is a rule for clarity, not yet a theory of truth. If two descriptions predict exactly the same possible experiences and actions, there is no real difference between them — the dispute is verbal. Peirce's example: a doctrine that says consecrated wine is blood in substance while keeping every sensible property of wine asserts a distinction nothing in practice could detect, and so carries no clear idea. Applied honestly, the maxim dissolves empty controversies and gives concepts like "hard" (will not be scratched by many other substances) their full meaning in terms of what tests would show.
+In "How to Make Our Ideas Clear" (1878): "Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." The maxim is a rule for clarity, not yet a theory of truth. If two descriptions predict exactly the same possible experiences and actions, there is no real difference between them — the dispute is verbal. Peirce's example: a doctrine that says consecrated wine is blood in substance while keeping every sensible property of wine asserts a distinction nothing in practice could detect, and so carries no clear idea. Applied honestly, the maxim dissolves empty controversies and gives concepts like "hard" (will scratch glass, resists pressure) their full meaning in terms of what tests would show.
 
 ### Doubt, belief, and the fixation of belief
 
@@ -37,7 +37,7 @@ Belief, for Peirce, is a habit of action — a rule we are prepared to act on �
 
 ### Fallibilism
 
-No belief is immune to revision; we cannot begin, as Descartes proposed, from universal *paper* doubt (doubt merely pretended for method), but only from the beliefs we actually hold, correcting them when real doubt strikes — repairing the ship plank by plank while at sea, to borrow the image Otto Neurath later made famous (Peirce's own image was of walking on a bog, standing only where the ground holds for now). Certainty is a feeling, not a guarantee.
+No belief is immune to revision; we cannot begin, as Descartes proposed, from universal *paper* doubt (doubt merely pretended for method), but only from the beliefs we actually hold, correcting them when real doubt strikes — repairing the ship plank by plank while at sea, in an image Peirce used before Neurath made it famous. Certainty is a feeling, not a guarantee.
 
 ### Truth as the long-run opinion of the community of inquirers
 
@@ -45,7 +45,7 @@ No belief is immune to revision; we cannot begin, as Descartes proposed, from un
 
 ### Abduction
 
-Alongside deduction and induction, Peirce placed *abduction* (or retroduction): inference to a hypothesis that would explain a surprising fact. "The surprising fact, C, is observed; / But if A were true, C would be a matter of course, / Hence, there is reason to suspect that A is true." (1903 Harvard lectures, *Collected Papers* 5.189) Abduction is the only mode of inference that introduces new ideas — deduction develops them, induction tests them — and Peirce's accounts of its justification and logic remain intensely studied.
+Alongside deduction and induction, Peirce placed *abduction* (or retroduction): inference to a hypothesis that would explain a surprising fact. "The surprising fact C is observed; but if A were true, C would be a matter of course; hence there is reason to suspect that A is true." Abduction is the only mode of inference that introduces new ideas — deduction develops them, induction tests them — and Peirce's accounts of its justification and logic remain intensely studied.
 
 ### Semeiotic: the theory of signs
 
