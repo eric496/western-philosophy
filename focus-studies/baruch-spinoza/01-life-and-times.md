@@ -1,4 +1,5 @@
 # Life and Times: Amsterdam, the Cherem, and the Lens Grinder
+**English** | [简体中文](../../zh/focus-studies/baruch-spinoza/01-life-and-times.md)
 
 Spinoza's life is short, outwardly quiet, and documented in unusual ways: the richest sources are the archives of a community that expelled him, the inventory of his few possessions taken after his death, and two early biographies — by Jean-Maximilien Lucas, a French physician who admired him, and Johannes Colerus, a Lutheran minister who did not but interviewed his landlord's family. Where this account rests on those biographies rather than on documents, it says so. The record is thin in exactly the places legend rushes to fill, and the dossier's rule is the archive's rule: hedged where the record is thin.
 

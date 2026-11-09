@@ -1,4 +1,5 @@
 # Focus Study: Immanuel Kant (1724–1804)
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/README.md)
 
 ![Portrait of Immanuel Kant](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/250px-Immanuel_Kant_-_Gemaelde_1.jpg)
 

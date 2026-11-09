@@ -1,4 +1,5 @@
 # Wittgenstein: Two Systems, and the Method That Replaced System
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entries: [Wittgenstein (early)](../../eras/05-20th-century/wittgenstein-early.md) · [Wittgenstein (late)](../../eras/05-20th-century/wittgenstein-late.md) · Guide to the Investigations: [study guide](../../study/wittgenstein-investigations.md) · The arguments in full: [04-arguments.md](04-arguments.md)*
 

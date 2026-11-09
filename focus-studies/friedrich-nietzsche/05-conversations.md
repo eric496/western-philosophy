@@ -1,4 +1,5 @@
 # Nietzsche in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/05-conversations.md)
 
 *Focus study: Friedrich Nietzsche · [Dossier home](README.md) · [Library entry](../../eras/04-19th-century/friedrich-nietzsche.md)*
 

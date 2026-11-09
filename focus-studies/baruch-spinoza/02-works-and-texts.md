@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/baruch-spinoza/02-works-and-texts.md)
 
 Spinoza published one book under his own name, one anonymously, and left the rest in a desk. The corpus is therefore small, finished in the wrong places, and partly recovered from manuscripts nobody saw for two centuries — which makes the order in which you read it a real decision rather than a formality. This file presents every work that matters in **the order this dossier reads them**: the two early treatises that show the system forming, the Descartes exposition that taught him his method, the *Ethics* itself, the two political works, and the correspondence — the record of the system thinking aloud. Citation, editions, and the dossier's reading-text ruling close the file.
 

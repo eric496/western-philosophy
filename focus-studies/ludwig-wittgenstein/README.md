@@ -1,4 +1,5 @@
 # Focus Study: Ludwig Wittgenstein (1889–1951)
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/README.md)
 
 ![Portrait of Ludwig Wittgenstein](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ludwig_Wittgenstein_1929.jpg/250px-Ludwig_Wittgenstein_1929.jpg)
 

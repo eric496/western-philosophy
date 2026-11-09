@@ -1,4 +1,5 @@
 # Arthur Schopenhauer — Life and Times
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/01-life-and-times.md)
 
 ## A merchant's son in Danzig (1788–1805)
 

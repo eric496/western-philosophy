@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/02-works-and-texts.md)
 
 Kant's bibliography has a shape no other major philosopher's has: twenty-six years of competent, varied, Wolffian-era publication; a decade of near-silence; ten years in which the system was published essentially whole; and a sheaf of unfinished notes at the end. The corpus is therefore read in this dossier in an order that respects both chronology and pedagogy: the pre-critical landmarks that show the problems forming, the Dissertation that first draws the great distinction, then the critical works in their publication order — the *Critique of Pure Reason* flanked by the *Prolegomena* that unlocks it, the *Groundwork* and the two further Critiques, and the late public books — closing with the *Opus postumum*, labeled for what it is. Citation first, because with Kant citation is not pedantry but navigation.
 

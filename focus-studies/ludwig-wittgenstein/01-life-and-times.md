@@ -1,4 +1,5 @@
 # Life and Times — Ludwig Wittgenstein
+**English** | [简体中文](../../zh/focus-studies/ludwig-wittgenstein/01-life-and-times.md)
 
 *Dossier file 01. The biography, with the world attached; the works' occasions are treated here and their contents in [02-works-and-texts.md](02-works-and-texts.md).*
 

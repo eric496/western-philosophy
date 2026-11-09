@@ -1,4 +1,5 @@
 # Arthur Schopenhauer — Works and Texts
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/02-works-and-texts.md)
 
 Schopenhauer is an unusually manageable author: one system, stated essentially complete by 1819, and a forty-year afterlife of supplementation rather than revision. There is no "early" and "late" Schopenhauer in the way there is an early and late Wittgenstein. What follows is the complete working corpus in the order this dossier reads it, with the edition guidance the study plan actually uses. The learning path's edition rulings do not single Schopenhauer out, so where the path is silent this file rules, and says so.
 

@@ -1,4 +1,5 @@
 # Study Plan — Friedrich Nietzsche in Eight Weeks
+**English** | [简体中文](../../zh/focus-studies/friedrich-nietzsche/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

@@ -1,4 +1,5 @@
 # Focus Study Template — The Blueprint
+**English** | [简体中文](../zh/focus-studies/TEMPLATE.md)
 
 This file specifies what gets built when a philosopher is added to `focus-studies/`. It is a specification for the builder, not a document to copy into a dossier. Each dossier is written fresh, from research, for its figure — the file set and standards below are fixed; the contents are the figure's own.
 

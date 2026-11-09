@@ -1,4 +1,5 @@
 # Kant Received — Fame, Eclipse, Return, and the Live Debates
+**English** | [简体中文](../../zh/focus-studies/immanuel-kant/06-reception-and-debates.md)
 
 *Focus study: Immanuel Kant · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/immanuel-kant.md)*
 

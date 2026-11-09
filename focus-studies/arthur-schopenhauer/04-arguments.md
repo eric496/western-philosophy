@@ -1,4 +1,5 @@
 # Schopenhauer: The Arguments
+**English** | [简体中文](../../zh/focus-studies/arthur-schopenhauer/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Arthur Schopenhauer](../../eras/04-19th-century/arthur-schopenhauer.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md)*
 
