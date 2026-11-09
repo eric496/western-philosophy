@@ -1,10 +1,11 @@
 # Mary Wollstonecraft
+**English** | [简体中文](../../zh/eras/03-early-modern/mary-wollstonecraft.md)
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ![Portrait of Mary Wollstonecraft](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/250px-Mary_Wollstonecraft_Portrait.jpg)
 
-*Portrait by John Opie, c. Image via Wikimedia Commons.*
+*Portrait by John Opie, c. 1797. Image via Wikimedia Commons.*
 
 ## At a glance
 - **Dates:** 1759–1797

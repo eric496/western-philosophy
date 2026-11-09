@@ -1,10 +1,11 @@
 # Jean-Jacques Rousseau
+**English** | [简体中文](../../zh/eras/03-early-modern/jean-jacques-rousseau.md)
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ![Portrait of Jean-Jacques Rousseau](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/250px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg)
 
-*Portrait by Maurice Quentin de La Tour, c. Image via Wikimedia Commons.*
+*Portrait by Maurice Quentin de La Tour, c. 1753. Image via Wikimedia Commons.*
 
 ## At a glance
 

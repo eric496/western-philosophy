@@ -1,10 +1,11 @@
 # Thomas Hobbes
+**English** | [简体中文](../../zh/eras/03-early-modern/thomas-hobbes.md)
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ![Portrait of Thomas Hobbes](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg/250px-Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg)
 
-*Portrait by John Michael Wright, c. Image via Wikimedia Commons.*
+*Portrait by John Michael Wright, c. 1669–70. Image via Wikimedia Commons.*
 
 ## At a glance
 

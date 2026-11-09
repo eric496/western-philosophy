@@ -1,10 +1,11 @@
 # Adam Smith
+**English** | [简体中文](../../zh/eras/03-early-modern/adam-smith.md)
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ![Portrait of Adam Smith](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/250px-Adam_Smith_The_Muir_portrait.jpg)
 
-*Posthumous Muir portrait, c. Image via Wikimedia Commons.*
+*Posthumous Muir portrait, c. 1800. Image via Wikimedia Commons.*
 
 ## At a glance
 - **Dates:** 1723–1790
