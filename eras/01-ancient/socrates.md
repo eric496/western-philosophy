@@ -1,4 +1,5 @@
 # Socrates
+**English** | [简体中文](../../zh/eras/01-ancient/socrates.md)
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 

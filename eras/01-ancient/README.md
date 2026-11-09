@@ -1,4 +1,5 @@
 # Ancient Philosophy (c. 600 BCE – c. 270 CE)
+**English** | [简体中文](../../zh/eras/01-ancient/README.md)
 
 Scope: c. 624 BCE (Thales) to 270 CE (Plotinus). Dates before Aristotle are approximate. Presocratics survive only in fragments and testimonia (second-hand reports).
 
