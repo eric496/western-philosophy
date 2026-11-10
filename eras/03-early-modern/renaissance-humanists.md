@@ -76,7 +76,7 @@ Nineteenth-century Italian liberals made Bruno a **martyr for science** and free
 - Ficino, Latin Plato (drafted by 1468–69; printed 1484) and Plotinus (printed 1492) — the standard Latin versions for three centuries; *Commentary on Plato's Symposium* (*On Love*, late 1460s) — the source of "Platonic love."
 - Ficino, *Platonic Theology: On the Immortality of Souls* (written 1469–74; printed 1482) — his systematic case for immortality; *Three Books on Life* (1489) — medicine, astrology and natural magic for scholars.
 - Pico, *900 Conclusions* (1486) and the *Oration* written to introduce them (published posthumously, 1496); *Heptaplus* (1489) — a Kabbalist reading of Genesis; *On Being and the One* (after 1490) — Plato and Aristotle reconciled.
-- Erasmus, *The Praise of Folly* (1511) — satire that ends in a praise of Christian folly; Greek New Testament (1516; revised 1519, 1522, 1527, 1531).
+- Erasmus, *The Praise of Folly* (1511) — satire that ends in a praise of Christian folly; Greek New Testament (1516; revised 1519, 1522, 1527, 1535).
 - Erasmus, *A Discussion of Free Will* (1524) and *Hyperaspistes* (1526); read with Luther's *The Bondage of the Will* (1525).
 - Bruno, *The Ash Wednesday Supper*, *On the Cause, the Principle and the One* and *On the Infinite Universe and Worlds* (all London, 1584) — Copernicanism, metaphysics and cosmology in Italian dialogues; *The Heroic Frenzies* (1585) — the soul's love-driven ascent.
 
