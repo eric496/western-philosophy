@@ -35,7 +35,7 @@ Tiered like the study plan: the texts first, then the companions in the order to
 
 **Don Garrett (ed.), *The Cambridge Companion to Spinoza* (Cambridge University Press, 1996).** The survey volume: essays on the metaphysics, the mind, the affects, the politics, and the historical setting, by the field's senior figures. The place to go when a dossier topic needs a second scholarly voice before you commit to a capstone verdict.
 
-**Rebecca Goldstein, *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity* (Yale University Press, Jewish Lives, 2006).** The readable life-and-ideas: a novelist-philosopher's search for the man inside the *cherem* story, weaving the biography with her own intellectual memoir. Genuinely enjoyable and philosophically serious; verify its conjectures against Nadler's *Life* before citing them.
+**Rebecca Goldstein, *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity* (Schocken Books, Jewish Encounters, 2006).** The readable life-and-ideas: a novelist-philosopher's search for the man inside the *cherem* story, weaving the biography with her own intellectual memoir. Genuinely enjoyable and philosophically serious; verify its conjectures against Nadler's *Life* before citing them.
 
 **Matthew Stewart, *The Courtier and the Heretic: Leibniz, Spinoza, and the Fate of God in the Modern World* (W. W. Norton, 2006).** Popular narrative — labeled as such. A dual biography built around the young Leibniz's 1676 visit to The Hague, dramatic in structure and thesis-driven (Spinoza as modernity's secret author). Fine as an epilogue read; it is not evidence, and its Leibniz is simplified for the plot. The dossier's rule stands: popularizations orient, scholarship argues.
 
