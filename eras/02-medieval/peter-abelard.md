@@ -71,7 +71,7 @@ Bernard's campaign (and the condemnations at Soissons and Sens) charged Abelard'
 
 1. *Historia Calamitatum* — short, vivid autobiography.
 2. *Sic et Non*, the Prologue plus two or three questions, to see the method.
-3. Universals excerpts in an anthology (Spade, *Five Texts on Medieval Problem of Universals*) to compare his position against the realists and later nominalists.
+3. Universals excerpts in an anthology (Spade, *Five Texts on the Mediaeval Problem of Universals*) to compare his position against the realists and later nominalists.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

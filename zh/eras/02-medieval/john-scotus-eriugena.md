@@ -82,7 +82,7 @@
 
 ## 入门读物
 
-从《论自然的区分》第一卷开始：那里引入四重划分，并经由诸范畴阐明否定神学——它是进入这个体系最清晰的门。然后读第二卷论原初原因，最后是第五卷论回归的叙述。I. P. 谢尔登-威廉姆斯（I. P. Sheldon-Williams）与 J. J. 奥米拉（J. J. O'Meara）的现代版译本（收入“西方灵修经典”丛书的《论自然的区分》卷）是标准入门；配合[*斯坦福哲学百科全书*](https://plato.stanford.edu/)的条目了解诸争论的概况。
+从《论自然的区分》第一卷开始：那里引入四重划分，并经由诸范畴阐明否定神学——它是进入这个体系最清晰的门。然后读第二卷论原初原因，最后是第五卷论回归的叙述。I. P. 谢尔登-威廉姆斯（I. P. Sheldon-Williams）与 J. J. 奥米拉（J. J. O'Meara）的现代版译本（*Periphyseon (The Division of Nature)*，蒙特利尔 Bellarmin／华盛顿 Dumbarton Oaks，1987年）是标准入门；配合[*斯坦福哲学百科全书*](https://plato.stanford.edu/)的条目了解诸争论的概况。
 
 ---
 [时代概览](README.md) · [总索引](../../index.md) · [学习路径](../../learning-path.md) · [术语表](../../glossary.md)

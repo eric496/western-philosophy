@@ -76,7 +76,7 @@ Scotists and Thomists objected that without common natures, science's universali
 
 1. The SEP entry "William of Ockham," §§3–4 (ontology and the Razor), for the system in outline.
 2. *Summa of Logic* Part I selections (Loux, *Ockham's Theory of Terms*) — the nominalism at work.
-3. Spade, *Five Texts on Medieval Problem of Universals* — Ockham's anti-realist arguments side by side with the realists he answered.
+3. Spade, *Five Texts on the Mediaeval Problem of Universals* — Ockham's anti-realist arguments side by side with the realists he answered.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)

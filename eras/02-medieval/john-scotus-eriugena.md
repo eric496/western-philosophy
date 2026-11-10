@@ -81,7 +81,7 @@ The influence ran underground but wide. Eriugena's Dionysius was the standard te
 
 ## What to read first
 
-Start with *Periphyseon* Book I, where the fourfold division is introduced and the negative theology is explained through the categories — it is the clearest door into the system. Then take Book II on the primordial causes, and finally Book V's account of the return. The modern edition and translation by I. P. Sheldon-Williams and J. J. O'Meara (in the Classics of Western Spirituality volume *Periphyseon: On the Division of Nature*) is the standard entry point; pair it with the [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/) article for orientation on the debates.
+Start with *Periphyseon* Book I, where the fourfold division is introduced and the negative theology is explained through the categories — it is the clearest door into the system. Then take Book II on the primordial causes, and finally Book V's account of the return. The modern edition and translation by I. P. Sheldon-Williams and J. J. O'Meara (*Periphyseon (The Division of Nature)*, Montréal: Bellarmin / Washington: Dumbarton Oaks, 1987) is the standard entry point; pair it with the [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/) article for orientation on the debates.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
