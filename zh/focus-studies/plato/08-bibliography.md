@@ -24,7 +24,7 @@
 
 **Gregory Vlastos, *Platonic Studies* (Princeton University Press, 1973; 2nd ed. 1981)——标记为经典且有争议。**这些论文为柏拉图研究设定了分析进路的议程——论第三人、论苏格拉底、论实在的程度——以无与伦比的逻辑精确性写成。标记在此：弗拉斯托斯的苏格拉底是发展论读法的一个构造，他对理念"存在程度"的读法已被本名单的下一条用力挑战，若干论文的结论如今是少数派立场。把他当作一个研究纲领的最强陈述来读，而不是它的定论——包括他的第三人分析，在第 6 周的结业论文之前读。
 
-**Gail Fine, *On Ideas: Aristotle's Criticism of Plato's Theory of Forms* (Clarendon Press, 1993)。**对受攻击的理念的严格现代处理：亚里士多德的批评究竟是什么、它们所瞄准的理论究竟主张什么（自我述谓、分离、诸回归），以及他的这位最优秀的学生之后还剩下多少柏拉图。它是天然的档案后读物——就是以完整的学术深度写成的阶段 1 柏拉图—亚里士多德对照，第 6 周的第三人检查点是它的入口。
+**Gail Fine, *On Ideas: Aristotle's Criticism of Plato's Theory of Forms* (Clarendon Press, 1993)。**对受攻击的理念的严格现代处理：亚里士多德的批评究竟是什么、它们所瞄准的理论究竟主张什么（自我述谓、分离、诸回归），以及柏拉图在他最优秀的学生的批评之下还剩下多少。它是天然的档案后读物——就是以完整的学术深度写成的阶段 1 柏拉图—亚里士多德对照，第 6 周的第三人检查点是它的入口。
 
 ***The Cambridge Companion to Plato*, ed. Richard Kraut (Cambridge University Press, 1992)。**按主题的一卷本问题现状——苏格拉底式对话、中期的形而上学与伦理学、晚期对话、柏拉图论艺术与妇女——编者也写了下面的 SEP 条目。适合你在结业论文中遇到某个争论、想知道它现行形态的时候。（单部作品的指南也存在：*The Cambridge Companion to Plato's Republic*, ed. G. R. F. Ferrari, 2007——隔壁的书架，当第 3–4 周产生安纳斯不能解决的问题时用。）
 

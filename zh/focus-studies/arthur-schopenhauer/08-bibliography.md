@@ -21,7 +21,7 @@
 
 **克里斯托弗·贾纳威，*Self and World in Schopenhauer's Philosophy*（牛津大学出版社，1989）。**分析性的深化：自我意识、身体与意志的认识论，以专业标准论证，但可读性强。正是这本书为你装备了应对 [06-reception-and-debates.md](06-reception-and-debates.md) 中物自体异议的武器。在马吉之后、《剑桥伴读》之前读。
 
-**大卫·E. 卡特赖特（David E. Cartwright），*Schopenhauer: A Biography*（剑桥大学出版社，2010）。**学术性的生平——有文献依据，对马奎特诉讼、他的母亲、他对女性的态度都毫不留情，是对一切轶事版本的必要纠正（包括本档案的 [01-life-and-times.md](01-life-and-times.md) 在与之冲突之处——后者以它为准）。卡特赖特的 *Historical Dictionary of Schopenhauer's Philosophy* 是阅读时放在案边的有用伴侣，提供人名、著作与德语术语。
+**大卫·E. 卡特赖特（David E. Cartwright），*Schopenhauer: A Biography*（剑桥大学出版社，2010）。**学术性的生平——有文献依据，对马凯诉讼、他的母亲、他对女性的态度都毫不留情，是对一切轶事版本的必要纠正（包括本档案的 [01-life-and-times.md](01-life-and-times.md) 在与之冲突之处——后者以它为准）。卡特赖特的 *Historical Dictionary of Schopenhauer's Philosophy* 是阅读时放在案边的有用伴侣，提供人名、著作与德语术语。
 
 **吕迪格尔·萨弗兰斯基（Rüdiger Safranski），*Schopenhauer and the Wild Years of Philosophy*（德文版 1987；英译本，埃瓦尔德·奥泽斯（Ewald Osers）译）。**可读的人生：把叔本华放进他所鄙夷的后康德一代人之中，以小说家的节奏与学者的史料讲述。在第 6 周之后当作消遣读，或者若传记对你而言是调味而非主食，就用它替代卡特赖特——但要清楚这两本书做的是不同的工作。
 
