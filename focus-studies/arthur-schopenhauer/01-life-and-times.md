@@ -9,7 +9,7 @@ Politics redirected the family before temperament could. When Prussia annexed Da
 
 ## The father's death and the broken apprenticeship (1805–1809)
 
-In 1804 Schopenhauer confirmed, entering a formal apprenticeship with a Hamburg merchant house — by his own later account he chose the counting-house partly to accompany his parents on one more journey, understanding too late what he had signed. On April 20, 1805, Heinrich Floris fell from a loft window of the family's warehouse into the canal below and died. The standard account, held by contemporaries and by his biographers since, is that it was suicide: he had been depressed and anxious about the firm's fortunes in the Napoleonic disruption of trade, and the fall from that window is difficult to read as accident. The evidence is circumstantial rather than documentary, and the dossier states it as the tradition does — apparent suicide — but the fact that shaped the son's life is not in dispute: at seventeen, Arthur was bound to a career he hated, and the man who had bound him was dead.
+In 1804 Schopenhauer bound himself, entering a formal apprenticeship with a Hamburg merchant house — by his own later account he chose the counting-house partly to accompany his parents on one more journey, understanding too late what he had signed. On April 20, 1805, Heinrich Floris fell from a loft window of the family's warehouse into the canal below and died. The standard account, held by contemporaries and by his biographers since, is that it was suicide: he had been depressed and anxious about the firm's fortunes in the Napoleonic disruption of trade, and the fall from that window is difficult to read as accident. The evidence is circumstantial rather than documentary, and the dossier states it as the tradition does — apparent suicide — but the fact that shaped the son's life is not in dispute: at seventeen, Arthur was bound to a career he hated, and the man who had bound him was dead.
 
 His mother settled her affairs with unexpected speed. Johanna sold the Hamburg business interests, and in 1806 moved to Weimar — then the literary capital of Germany — where her salon and her novels (she became one of the most widely read German novelists of her generation) made her famous. Arthur remained in Hamburg, miserable at his desk, until 1807, when Johanna and his mentor Fernow arranged his release. He made up a classical education in roughly two years: at Gotha (where a satirical poem about his teachers forced a discreet withdrawal) and then in Weimar under private tuition, mastering Latin and Greek at an age when most students were finishing them. The pattern of the whole life is already visible: solitary, ferociously industrious, incapable of institutional tact.
 
@@ -55,7 +55,8 @@ The Frankfurt years are also where the legend gathers — the succession of brow
 | 1793 | Family moves to Hamburg after Prussia's annexation of Danzig |
 | 1797 | Months in Le Havre learning French |
 | 1803–04 | European tour with his parents; school interlude in Wimbledon; travel diary |
-| 1805 | Enters merchant apprenticeship; his father dies, April 20, in an apparent suicide |
+| 1804 | Enters merchant apprenticeship with a Hamburg house |
+| 1805 | His father dies, April 20, in an apparent suicide |
 | 1806 | Johanna settles in Weimar; her salon and novels make her famous |
 | 1807 | Released from the apprenticeship; crash classical education at Gotha and Weimar |
 | 1809 | At Göttingen; Schulze directs him to Plato and Kant |
