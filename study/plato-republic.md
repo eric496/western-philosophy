@@ -145,11 +145,11 @@ The pleasures themselves are ranked (580d–588a): true pleasures fill a real la
 
 ### Book X (595a–621d): Poetry banished, justice rewarded, the Myth of Er
 
-Socrates returns to poetry (595a–602b) and now goes further than Books II–III: imitative poetry is banished from the city altogether. The argument (see the reconstruction below) is that imitation is twice removed from truth — the craftsman makes a bed looking to the Form of Bed, the painter copies the bed's appearance — and that it feeds the part of the soul that reason should rule, by encouraging emotional indulgence in grief and laughter.
+Socrates returns to poetry (595a–602b) and now goes further than Books II–III: imitative poetry is banished from the city altogether. The argument (see the reconstruction below) is that imitation is thrice removed from truth — the craftsman makes a bed looking to the Form of Bed, the painter copies the bed's appearance — and that it feeds the part of the soul that reason should rule, by encouraging emotional indulgence in grief and laughter.
 
 The ban is then qualified (605a–608b): poetry may return if it can defend itself in argument, and hymns to the gods and praises of good men are admitted. The immortality of the soul is argued (608c–611a): nothing destroys the soul, since its own specific evil — injustice and vice — does not kill it, as disease kills the body. Finally, the Myth of Er (614b–621d) tells of a soldier who died in battle, saw the souls of the dead choosing their next lives, and returned to report: the choice of life is ours, and a soul that has learned to choose well — guided by philosophy — chooses a just life. The dialogue's last line places responsibility squarely on the chooser, not on god or fate.
 
-**Key passages:** imitation twice removed from truth, 595a–602b; the qualification of the ban, 605a–608b; immortality, 608c–611a; the Myth of Er, 614b–621d.
+**Key passages:** imitation thrice removed from truth, 595a–602b; the qualification of the ban, 605a–608b; immortality, 608c–611a; the Myth of Er, 614b–621d.
 
 **Main argument:** The just life is worth choosing for its own sake, in this life and beyond it — and the art a city admits shapes the souls that will make that choice.
 
@@ -213,7 +213,7 @@ Each reconstruction below follows the learning path's discipline: premises, then
 **Premises:**
 
 1. There are three levels: the Form of a thing (e.g. Bed itself), the particular made by the craftsman looking to the Form, and the imitation made by the painter copying the particular's appearance (596a–598b).
-2. Imitation is therefore twice removed from truth, and the imitator knows only appearances, not the craft or the use of what is depicted — the painter of a bridle knows neither bridle-making nor horsemanship (598b–602b).
+2. Imitation is therefore thrice removed from truth, and the imitator knows only appearances, not the craft or the use of what is depicted — the painter of a bridle knows neither bridle-making nor horsemanship (598b–602b).
 3. Poetry works on the inferior part of the soul: it encourages us to indulge grief, pity, and laughter in the theater that we would restrain in our own lives, and indulgence strengthens that part (605a–606d).
 4. A city that admits such poetry trains its citizens' emotions against reason's rule.
 
@@ -245,7 +245,7 @@ Answer these book closed, then check yourself against the answers at the end of 
 14. What are the three "waves" of paradox in Book V, and which does Socrates call the greatest?
 15. Trace the decline of regimes in Book VIII: what value does each regime absolutise, and what follows from that?
 16. Why, in Book IX, is the tyrant the most miserable of men even though he appears all-powerful?
-17. What does Socrates mean by saying imitation is "twice removed from truth"?
+17. What does Socrates mean by saying imitation is "thrice removed from truth"?
 18. What qualification does Socrates attach to the ban on poetry in Book X, and why does it matter?
 
 ---
@@ -256,7 +256,7 @@ Answer these book closed, then check yourself against the answers at the end of 
 Plato calls the city a model "in speech" (592a–b), built to make justice visible in the soul, and Socrates repeatedly doubts whether it could exist. That does not make its proposals harmless — censorship, rigged mating, and the noble lie are stated plainly — but treating the work as a manifesto flattens its stated purpose. Scholars divide over how seriously the political proposals are meant: some read them as genuine prescriptions, others as a thought experiment whose point is psychological. The debate is live, and the guide takes no settled position on it.
 
 **2. "The noble lie is just propaganda, and Plato endorses lying."**
-The noble lie (414b–415d) tells citizens they were born from the earth with gold, silver, or bronze in their souls, matching their class. Some readers treat it as evidence that Plato licenses rulers to deceive. Others argue it functions as a founding myth — a story a city tells about itself, closer to a civic myth than to a calculated falsehood — and note that Socrates is visibly uneasy introducing it, calling it something he is ashamed to utter. Still others point out that the myth's content, that worth is a matter of nature rather than birth, cuts against the hereditary aristocracy of Plato's own Athens. Present the disagreement; do not resolve it by fiat.
+The noble lie (414b–415d) tells citizens they were born from the earth with gold, silver, iron, or bronze in their souls, matching their class. Some readers treat it as evidence that Plato licenses rulers to deceive. Others argue it functions as a founding myth — a story a city tells about itself, closer to a civic myth than to a calculated falsehood — and note that Socrates is visibly uneasy introducing it, calling it something he is ashamed to utter. Still others point out that the myth's content, that worth is a matter of nature rather than birth, cuts against the hereditary aristocracy of Plato's own Athens. Present the disagreement; do not resolve it by fiat.
 
 **3. "Philosopher-kings means rule by intellectuals, and Plato loved power."**
 The philosopher-kings of the *Republic* must be compelled to rule (519c–521b) and regard governing as a burden, not a prize. The qualification is knowledge of the Good after decades of education, not cleverness, academic rank, or rhetorical skill — and the rulers own nothing and live communally precisely so that power cannot enrich them. Whether such a regime could avoid becoming a tyranny of experts is a separate question, pressed most famously by Karl Popper in *The Open Society and Its Enemies* (1945), and answered by readers who stress the city's status as a model in speech.
@@ -283,7 +283,7 @@ The *Republic* admits women to the guardian class on equal terms of education an
 4. **Good in themselves only (e.g. harmless pleasures), good both in themselves and for their consequences (e.g. health, understanding), and good only for their consequences (e.g. medicine, earning money).** Socrates must show justice belongs in the second class (357b–358a).
 5. **The Ring of Gyges (359c–360d)** tests whether anyone would remain just if injustice carried no penalty: the shepherd, made invisible, seizes power. Glaucon claims everyone would do the same, so justice is kept only from fear of punishment.
 6. **The city is justice "written in larger letters" (368c–369a):** the structure that is hard to discern in one soul may be easier to see at civic scale, and can then be read back into the individual.
-7. **The noble lie (414b–415d)** tells citizens they were born from the earth with gold, silver, or bronze in their souls, matching rulers, auxiliaries, and producers. Its stated purpose is to persuade citizens that their class is natural and that they owe fraternal loyalty to one another as children of the same earth.
+7. **The noble lie (414b–415d)** tells citizens they were born from the earth with gold, silver, iron, or bronze in their souls, matching rulers, auxiliaries, and producers. Its stated purpose is to persuade citizens that their class is natural and that they owe fraternal loyalty to one another as children of the same earth.
 8. **The principle of non-opposition (436b):** the same thing cannot do or undergo opposites in the same respect, at the same time, toward the same object. Thirst urges drink while reason forbids it (439a–d): two opposed impulses toward the same object must come from distinct parts, so appetite and reason are distinct.
 9. **Wisdom** in the rulers, **courage** in the auxiliaries, **moderation** in the agreement of all classes that the rulers should rule, and **justice** in each class doing its own work (427c–434d).
 10. **Philosophers must be compelled (519c–521b, 540a–b)** because, having seen the Good, they would rather contemplate than govern; ruling is a debt owed to the city that educated them, not a reward. Their reluctance is itself a qualification: they will not rule for power's sake.
@@ -293,7 +293,7 @@ The *Republic* admits women to the guardian class on equal terms of education an
 14. **The three waves (449a–480a):** women guardians with equal education and duties; community of wives and children among the guardians; philosopher-kings. The third is the greatest wave (473c–d).
 15. **Timocracy** absolutises honor, and its rulers' slide toward wealth produces **oligarchy**, which absolutises wealth and splits the city into rich and poor; **democracy** absolutises freedom and treats all appetites as equal, producing disorder; that disorder invites a champion who becomes a **tyrant** (543a–569c).
 16. **The tyrant (571a–580c, 587b–588a)** is ruled waking by the lawless appetites most people experience only in dreams; outwardly free, he is inwardly enslaved to a master appetite, friendless, fearful, and unable to satisfy himself. Power without inner order is misery, not happiness.
-17. **"Twice removed" (596a–602b):** the Form is the reality, the craftsman's bed is one remove (made looking to the Form), and the painter's image of the bed is a second remove — a copy of an appearance, not of the thing itself.
+17. **"Thrice removed" (597e, 602c):** the painter's product stands third from the truth — the Form is the reality, the craftsman's bed is one remove (made looking to the Form), and the painter's image of the bed a second — a copy of an appearance, not of the thing itself.
 18. **Poetry may return if it can defend itself in argument (607b–608b), and hymns and encomia are admitted outright.** The qualification matters because it shows the ban is conditional on poetry's failure to justify itself, not a blanket condemnation of art — and because Plato's own myths show he thought stories could serve reason.
 
 ---

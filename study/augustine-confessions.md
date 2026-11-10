@@ -136,7 +136,7 @@ The first question is harder (XI.14–XI.28). The past no longer exists, the fut
 
 ### A brief note on the books not covered here
 
-Book IX completes the narrative: Monica's death at Ostia on the journey home, the famous shared vision at Ostia in which mother and son briefly touched eternal Wisdom together, and Augustine's life in the months after baptism, including the death of his son Adeodatus. Book X turns from past to present: a long analysis of memory and a present-tense examination of Augustine's temptations as bishop. Books XII–XIII return to Genesis, reading the creation account allegorically: the "heaven of heavens," formless matter, and the days of creation become a meditation on how a mutable creature receives form from an immutable God.
+Book IX completes the narrative: Monica's death at Ostia on the journey home, the famous shared vision at Ostia in which mother and son briefly touched eternal Wisdom together, and Augustine's life in the months after baptism. (Adeodatus, baptized with him at Easter 387, died in 390 after the return to Thagaste; his death is not narrated in the *Confessions*.) Book X turns from past to present: a long analysis of memory and a present-tense examination of Augustine's temptations as bishop. Books XII–XIII return to Genesis, reading the creation account allegorically: the "heaven of heavens," formless matter, and the days of creation become a meditation on how a mutable creature receives form from an immutable God.
 
 ---
 

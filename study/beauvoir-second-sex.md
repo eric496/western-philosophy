@@ -35,7 +35,7 @@ At about two hours of primary reading per week, the program below takes about ei
 |---|---|---|
 | 1 | Introduction | "What is a woman?", woman as Other, the three rejected explanations |
 | 2 | Volume I, Part One (Destiny) as summary | Biology, psychoanalysis, historical materialism — and what each misses |
-| 3 | Volume I, Part Two (History) as summary; Part Three (Myths), the chapter on the myth of woman in six authors | How history and literature made the eternal feminine |
+| 3 | Volume I, Part Two (History) as summary; Part Three (Myths), the chapter on the myth of woman in five authors | How history and literature made the eternal feminine |
 | 4 | Volume II, Part One, ch. 1: Childhood | How a girl is made: dolls, passivity, the body as object |
 | 5 | Volume II, Part One, ch. 2: The Young Girl | Puberty, the crisis of the body, the renunciation of transcendence |
 | 6 | Volume II, Part One, chs. 3–4 as summaries | Sexual initiation; the lesbian as a case study in situation |
@@ -82,7 +82,7 @@ The history chapter is a rapid survey from prehistory to the nineteenth century,
 
 ### Volume I, Part Three — Myths (summary)
 
-The myths section asks what men have dreamed woman to be. The "eternal feminine" is not one myth but a cluster: woman as Nature, as flesh, as mother, as virgin, as temptress, as muse — each image making her simultaneously exalted and debased, essential and inessential. Beauvoir's key move is to show that these myths are not descriptions but projections: man makes woman the Other in imagination in order to avoid confronting his own ambiguity — his own bodiliness, mortality, and dependence. The chapter on the myth of woman in six authors (Montherlant, D. H. Lawrence, Claudel, Breton, and Stendhal, among others) tests the claim against literature. Stendhal is the exception Beauvoir praises: he treats his heroines as free subjects with projects of their own, rather than as symbols of something else. Myth is not harmless poetry: a girl raised on these images learns what she is supposed to be before she learns who she is. That is the bridge into Volume II.
+The myths section asks what men have dreamed woman to be. The "eternal feminine" is not one myth but a cluster: woman as Nature, as flesh, as mother, as virgin, as temptress, as muse — each image making her simultaneously exalted and debased, essential and inessential. Beauvoir's key move is to show that these myths are not descriptions but projections: man makes woman the Other in imagination in order to avoid confronting his own ambiguity — his own bodiliness, mortality, and dependence. The chapter on the myth of woman in five authors (Montherlant, D. H. Lawrence, Claudel, Breton, and Stendhal) tests the claim against literature. Stendhal is the exception Beauvoir praises: he treats his heroines as free subjects with projects of their own, rather than as symbols of something else. Myth is not harmless poetry: a girl raised on these images learns what she is supposed to be before she learns who she is. That is the bridge into Volume II.
 
 **Main argument:** The myths of woman are projections of male ambiguity, and they function socially by teaching girls their supposed nature in advance of experience.
 

@@ -86,7 +86,7 @@ Here you meet the *Critique*'s most durable scholarly dispute, on which this gui
 
 **Main argument:** Space and time are not perceived among other things, nor abstracted from experience, but are the a priori forms of our sensibility — which explains geometry's necessity and establishes transcendental idealism.
 
-### Analytic of Concepts (A64/B89 – A147/B187): The categories and the Deduction
+### Analytic of Concepts (A64/B89 – A130/B169): The categories and the Deduction
 
 The Analytic is the *Critique*'s core and its hardest stretch. Its question mirrors the Aesthetic's, one faculty up: sensibility contributes forms of intuition — what does the **understanding** contribute? Kant's answer is the **categories**: twelve pure concepts — among them unity, substance, causality, and necessity — the a priori rules by which a manifold of intuition is unified into experience of *objects*: to experience an event, rather than a mere sequence of impressions, is already to apply them.
 
@@ -111,7 +111,7 @@ A short chapter with a real problem and a forbidding presentation; read it once,
 **Difficulty warning:** short, but the highest obscurity-per-page in the Analytic. Its conclusion matters more than its mechanism at this stage.
 
 
-### Analytic of Principles (A148/B187 – A309/B366): A note — mostly skippable on a first pass
+### Analytic of Principles (A130/B169 – A292/B349): A note — mostly skippable on a first pass
 
 The honest instruction here is: **take it in outline, and in full only two things**. The chapter systematizes the principles resulting when the categories are applied under the conditions of sensibility — the Axioms of Intuition, the Anticipations of Perception, the Analogies of Experience, and the Postulates of Empirical Thought — and much of it works out machinery you already have, at a level of detail a first pass does not need (see "What to skip" below).
 
@@ -147,7 +147,7 @@ Read the First and Third Antinomies with their resolutions; take the Second and 
 
 ### The Canon of Pure Reason (A795/B823 – A831/B859): What may I hope?
 
-Close the selection where Kant closes the book's argument: the Canon, first chapter of the Doctrine of Method. Kant asks what pure reason is *for*, organizing philosophy around three questions (A805/B833): **What can I know? What ought I to do? What may I hope?** The first is speculative, and the *Critique* has answered it. The second is practical, and belongs to the *Groundwork*. The third is both at once, and the Canon is Kant's compressed answer to it.
+Close the selection where Kant closes the book's argument: the Canon of Pure Reason — Chapter II of the Doctrine of Method (Chapter I is the Discipline). Kant asks what pure reason is *for*, organizing philosophy around three questions (A805/B833): **What can I know? What ought I to do? What may I hope?** The first is speculative, and the *Critique* has answered it. The second is practical, and belongs to the *Groundwork*. The third is both at once, and the Canon is Kant's compressed answer to it.
 
 The reasoning runs through the **highest good**. If I do what I ought — if I make myself worthy of happiness — what may I then hope? Kant's answer: happiness in proportion to worthiness, but only on the supposition of a moral author of the world who can guarantee that proportion, since nature distributes happiness without regard to virtue. God and a future life appear here not as objects of knowledge — the Dialectic's critique of rational theology has closed that road — but as presuppositions of practical reason: articles of rational **faith**, in Kant's taxonomy of opining, believing, and knowing. The Canon thus states, inside the first *Critique* itself, the doctrine the *Critique of Practical Reason* will develop as the postulates: freedom, God, and immortality rationally believed, never known.
 

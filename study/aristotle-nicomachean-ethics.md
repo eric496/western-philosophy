@@ -47,7 +47,7 @@ Aristotle wrote — or is associated with — a second ethical treatise, the *Eu
 
 ## 1. Book-by-book guide
 
-### Book I — The good and the function argument (1094a1–1102a33)
+### Book I — The good and the function argument (1094a1–1103a10)
 
 **Summary.** Aristotle begins from a method: start from reputable opinions (*endoxa*) — what people already say about the good — and test them. Every craft, inquiry, and action aims at some good, and goods form hierarchies: bridle-making serves horsemanship, which serves generalship, which serves politics. The highest good must be final (sought for its own sake, never for something else), self-sufficient, and the most complete end. Candidates are examined and found wanting: pleasure (the life of the many), honor (the political life — too dependent on others), wealth (merely useful), and Plato's Form of the Good (rejected: a single Form cannot cover the many ways "good" is said, and it would be useless to a practitioner). The answer is *eudaimonia*: living well and doing well, achieved through activity of the soul in accordance with virtue over a whole life.
 
@@ -87,7 +87,7 @@ The second half (III.6–12) begins the survey of particular virtues: courage (t
 
 **Summary.** Justice is treated in two senses. Universal justice is lawfulness: the whole of virtue as it bears on relations with others, expressed in law. Particular justice divides into distributive justice (fair shares of honor, wealth, and other divisible goods, allocated in proportion to merit) and rectificatory or corrective justice (restoring the balance when one party has wronged another, treating the parties as equals before the law regardless of status). Aristotle adds a discussion of reciprocity, of equity (*epieikeia*) — the correction of law where a general rule fails in a particular case — and of the distinction between acting unjustly and being an unjust person.
 
-**Key passages:** universal vs. particular justice (1129a3–1130b29); distributive justice and geometric proportion (1130b30–1132b20); rectificatory justice and arithmetic proportion (1132b21–1133b28); reciprocity (1132b31–1134a16); equity (1137a31–1138b14).
+**Key passages:** universal vs. particular justice (1129a3–1130b29); distributive justice and geometric proportion (1131a10–1131b24); rectificatory (corrective) justice and arithmetic proportion (1131b25–1132b20); reciprocity (1132b21–1133b28); equity (1137a31–1138b14).
 
 **Main argument.** The famous proportions are worth getting right. Distributive justice uses *geometric* proportion: shares should stand in the same ratio as the merits of the recipients (if A deserves twice what B deserves, A should receive twice the share). Rectificatory justice uses *arithmetic* proportion: the judge removes the wrongdoer's gain and restores the victim's loss, treating the parties as equal for this purpose. Disagreement about what counts as merit — Aristotle lists freedom, wealth, birth, and virtue as rival criteria — is itself a political question, which is why Book V leads naturally into the *Politics*.
 

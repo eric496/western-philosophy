@@ -12,7 +12,7 @@ The sections this guide covers, in the revised edition's numbering, are:
 
 - §§1–4: the role of justice, the subject of justice, the main idea of the theory, and the original position and justification.
 - §11: the two principles of justice stated.
-- §12: interpretations of the second principle — the systems of natural liberty, liberal equality, and democratic equality.
+- §12: interpretations of the second principle — the systems of natural liberty, natural aristocracy, liberal equality, and democratic equality.
 - §13: democratic equality and the difference principle.
 - §17: the tendency to equality — what the difference principle does to the distribution over time.
 - §24: the veil of ignorance, in full.
@@ -41,7 +41,7 @@ The sections covered here run to roughly 120 pages in the revised edition. At ab
 | 1 | §§1–4 | What justice is for, what it governs, and the original position introduced |
 | 2 | §24, §§25–26 | The veil of ignorance and the reasoning of the parties |
 | 3 | §§27–29 | Why the parties reject average utility and choose the two principles |
-| 4 | §11, §12 | The two principles stated; the three interpretations of the second principle |
+| 4 | §11, §12 | The two principles stated; the four interpretations of the second principle |
 | 5 | §13, §17 | The difference principle and its tendency to equality |
 | 6 | Re-read §§4 and 24; skim §§1–3 | The whole argument in one view, book closed, then checked |
 
@@ -105,19 +105,27 @@ Sections 25 to 29 contain the argument most readers skip and most critics attack
 
 Rawls begins (§25) with the parties' rationality. They are rational in a deliberately thin sense: they aim to advance their own interests as defined by their conception of the good, whatever it turns out to be, and they prefer more rather than less of the primary goods — rights, liberties, opportunities, income and wealth, and the social bases of self-respect — because those are all-purpose means useful for any life plan. They are not assumed to be risk-averse as a psychological trait; the veil hides their attitudes to risk. What they are assumed to care about is securing their fundamental interests, and in particular the basic liberties and the social bases of self-respect, which cannot be traded for material gain without undermining the very capacity to pursue a life plan.
 
-Sections 27 and 28 then take on average utility directly. The average principle asks each person to gamble: accept institutions that maximize average welfare even if you turn out to be among those sacrificed for the total. Rawls argues the parties would not take that gamble, for three reasons developed in §29. First, they have no basis for assigning probabilities to ending up in any particular position, so expected-value reasoning has nothing to work with. Second, the stakes are not ordinary: the choice determines the fundamental terms of a whole life, and a bad outcome means a life without basic liberties or adequate prospects — not a loss that can be compensated later. Third, the two principles offer a satisfactory alternative: a guaranteed minimum that is itself attractive, so there is no need to gamble for a higher average that might leave you at the bottom. This is the maximin rule: choose the arrangement whose worst outcome is best — a decision rule for radical uncertainty about fundamental interests, not a psychological quirk.
+The reasoning runs through §§26–29. Section 26, "The Reasoning Leading to the Two Principles of Justice," gives the three features of the choice situation that make the **maximin rule** — choose the arrangement whose worst outcome is best — the plausible rule here. First, knowledge of likelihoods is impossible or extremely insecure: the parties have no basis for assigning probabilities to ending up in any particular position, so expected-value reasoning has nothing to work with. Second, the chooser cares very little, if anything, for what might be gained above the minimum that the two principles guarantee: the stakes are fundamental interests — basic liberties and the social bases of self-respect — not compensable losses. Third, the rejected alternative has outcomes one can hardly accept: under average utility you might turn out among those sacrificed for the total, living a life without basic liberties or adequate prospects. Section 27 then sets out the reasoning leading to the principle *of* average utility — the case for the rival — §28 raises difficulties with the utilitarian principle of choice, and §29 argues the final decision on further grounds: publicity, the strains of commitment, and self-respect. Maximin, on this account, is a decision rule for radical uncertainty about fundamental interests, not a psychological quirk.
 
-Section 29 gathers the main grounds for the two principles: they protect the basic liberties that make any life plan possible, they express reciprocity (inequalities must be justifiable to those who benefit least), and they fit the publicity condition — principles must be ones citizens can publicly affirm, knowing others do too. Average utility, Rawls argues, fails publicity in a telling way: a society run on utilitarian principles would have to conceal from its worst-off members that their sacrifices are required by the total, since openly telling them would undermine their allegiance. Whether that charge is fair to utilitarianism — and whether Rawls's own principles pass the same test — is debated; hold it as a debate, not a verdict.
+Section 29 gathers further grounds for the two principles: they protect the basic liberties that make any life plan possible, they express reciprocity (inequalities must be justifiable to those who benefit least), and they fit the publicity condition — principles must be ones citizens can publicly affirm, knowing others do too. Applied to average utility, the publicity condition bites through stability and self-respect, not secrecy: under a *public* utilitarian commitment, the least advantaged would know their sacrifices are required by the total, would find their self-respect harder to maintain, and the parties could not trust the agreement to hold under the strains of commitment. Whether that charge is fair to utilitarianism — and whether Rawls's own principles pass the same test — is debated; hold it as a debate, not a verdict.
 
 **Main argument:** Under radical uncertainty about fundamental interests, with no probabilities and a satisfactory guaranteed alternative, rational parties choose the two principles over average utility — the maximin rule applied to the basic structure.
 
 ### §11 — The two principles of justice
 
-Section 11 states the principles the parties choose, and the statement matters word for word. In the revised edition, Rawls gives them in this form:
+Section 11 states the principles the parties choose, in a first, provisional form:
 
-**First principle:** Each person has an equal right to a fully adequate scheme of equal basic liberties which is compatible with a similar scheme of liberties for all.
+**First principle:** Each person is to have an equal right to the most extensive total system of equal basic liberties compatible with a similar system of liberty for all.
+
+**Second principle:** Social and economic inequalities are to be arranged so that they are both: (a) reasonably expected to be to everyone's advantage, and (b) attached to positions and offices open to all.
+
+The statement is then refined as the argument proceeds. Section 13 reads clause (a) through the difference principle together with fair equality of opportunity, and the **final statement** comes at §46:
+
+**First principle:** Each person is to have an equal right to the most extensive total system of equal basic liberties compatible with a similar system of liberty for all.
 
 **Second principle:** Social and economic inequalities are to be arranged so that they are both: (a) to the greatest benefit of the least advantaged, consistent with the just savings principle, and (b) attached to offices and positions open to all under conditions of fair equality of opportunity.
+
+The familiar wording "an equal right to a *fully adequate scheme* of equal basic liberties" is later still — it is the form the first principle takes in *Political Liberalism* and in *Justice as Fairness: A Restatement* (§13), not the wording of *A Theory of Justice* itself.
 
 The basic liberties named include political liberty, freedom of speech and assembly, liberty of conscience, freedom of the person, and the rights covered by the rule of law. Economic freedoms such as freedom of contract as such are not basic liberties — a restriction that is itself contested.
 
@@ -127,15 +135,17 @@ The principles are ordered lexically: the first takes absolute priority over the
 
 ### §12 — Interpretations of the second principle
 
-Section 12 asks what the second principle could mean, and distinguishes three interpretations by how they read its two parts — open positions and benefit to all.
+Section 12 asks what the second principle could mean, and distinguishes four interpretations by how they read its two parts — open positions and benefit to all.
 
 **The system of natural liberty** reads "open to all" as merely formally open: careers open to talents, with no barriers of birth or law. Inequalities are acceptable if they arise from a fair competition. Rawls rejects this because it lets morally arbitrary advantages — family wealth, social connections, native talent — determine outcomes, while calling the result fair because the race was formally open.
 
+**Natural aristocracy** keeps careers formally open to talents, as natural liberty does, but adds the requirement that inequalities be to everyone's advantage. Rawls comments on it only briefly: it corrects nothing about who gets to win — the distribution of natural endowment still settles that — so it stands with natural liberty as a reading the argument passes beyond.
+
 **Liberal equality** corrects this by adding fair equality of opportunity in a substantive sense: persons with the same talents and motivation should have the same prospects regardless of class origin. Schools, training, and culture must be arranged to neutralise class disadvantage. Rawls finds this an improvement but still insufficient, because it leaves the distribution of natural talents itself uncorrected: those born gifted still reap the rewards, and those born less gifted still lose, through no choice of their own.
 
-**Democratic equality** combines fair equality of opportunity with the difference principle: inequalities are permitted only if they work to the greatest benefit of the least advantaged. This is Rawls's own reading, and it is the one §13 defends. Learn the three interpretations as a ladder: each corrects the arbitrariness the previous one left standing.
+**Democratic equality** combines fair equality of opportunity with the difference principle: inequalities are permitted only if they work to the greatest benefit of the least advantaged. This is Rawls's own reading, and it is the one §13 defends. Learn the four interpretations as a ladder: each corrects the arbitrariness the previous one left standing.
 
-**Main argument:** Of the three readings of the second principle, only democratic equality corrects for the arbitrariness of both social class and natural talent.
+**Main argument:** Of the four readings of the second principle, only democratic equality corrects for the arbitrariness of both social class and natural talent.
 
 ### §13 — Democratic equality and the difference principle
 
@@ -222,10 +232,10 @@ Answer these book closed, then check yourself against the answers at the end of 
 5. In §24, list three things the parties behind the veil do not know and three things they do know — and explain why the second list matters as much as the first.
 6. Why does the veil produce a unanimous choice, and why does Rawls say that makes the outcome fair rather than a bargain?
 7. What is maximin, and why does Rawls say the parties would use it — distinguishing it from mere risk aversion?
-8. In §§27–29, give Rawls's three reasons why the parties would reject average utility.
-9. State the two principles of justice as Rawls gives them in §11 of the revised edition, in order.
+8. In §26, give the three features of the choice situation that make the maximin rule plausible, and say what §§27–29 add.
+9. State the two principles of justice as Rawls finally gives them in §46, and note how the first statement in §11 differed.
 10. What does lexical priority mean, and within the second principle, which part takes priority over which?
-11. Explain the three interpretations of the second principle in §12, and what each leaves uncorrected that the next corrects.
+11. Explain the four interpretations of the second principle in §12, and what each leaves uncorrected that the next corrects.
 12. Give an example of an inequality the difference principle permits and one it forbids, and explain the difference between them.
 13. What does Rawls mean by the least advantaged, and why is identifying them an empirical difficulty rather than a definitional one?
 14. What is the tendency to equality in §17, and why is it a tendency rather than a target?
@@ -267,14 +277,14 @@ Priority of liberty over welfare gains is a structural rejection of maximizing t
 5. **Do not know:** class position; natural assets and abilities; their conception of the good (and their generation). **Do know:** general facts about society — economics, psychology, the circumstances of justice. The second list matters because without it the parties could not choose principles at all; the veil hides only the knowledge that would let them favor themselves.
 6. **Unanimity** follows because the parties are symmetrically situated: no one can identify an advantage, so all reason alike. The outcome is **fair rather than a bargain** because bargaining power has been removed — there is no strong and no weak behind the veil.
 7. **Maximin** is the rule: choose the arrangement whose worst outcome is best. The parties use it because they face radical uncertainty with no probabilities, fundamental interests across a whole life, and a satisfactory guaranteed alternative. It is **not risk aversion**: the veil hides their attitudes to risk.
-8. **Three reasons:** (i) no basis for assigning probabilities to their eventual position, so expected-value reasoning has nothing to work with; (ii) the stakes are fundamental — a whole life's basic liberties and prospects, not a compensable loss; (iii) the two principles offer a satisfactory guaranteed alternative, so there is no need to gamble for a higher average.
-9. **First principle:** each person has an equal right to a fully adequate scheme of equal basic liberties compatible with a similar scheme for all. **Second principle:** social and economic inequalities must be (a) to the greatest benefit of the least advantaged, and (b) attached to positions open to all under fair equality of opportunity.
+8. **Three features (§26):** (i) knowledge of likelihoods is impossible or extremely insecure — no basis for assigning probabilities to their eventual position, so expected-value reasoning has nothing to work with; (ii) the parties care very little for gains above the minimum the two principles guarantee, since what is at stake is fundamental — a whole life's basic liberties and self-respect; (iii) the rejected alternative, average utility, has outcomes one can hardly accept. Sections 27–29 add the case *for* average utility (§27), difficulties with it (§28), and the arguments from publicity, the strains of commitment, and self-respect (§29).
+9. **Final statement (§46):** **First principle:** each person is to have an equal right to the most extensive total system of equal basic liberties compatible with a similar system for all. **Second principle:** social and economic inequalities must be (a) to the greatest benefit of the least advantaged, consistent with the just savings principle, and (b) attached to positions open to all under fair equality of opportunity. (The §11 first statement had (a) as "reasonably expected to be to everyone's advantage" and (b) as simply "open to all"; the "fully adequate scheme" wording belongs to *Political Liberalism* and the *Restatement*, not to *TJ*.)
 10. **Lexical priority** means the first principle must be fully satisfied before the second counts — a gain under the second cannot justify a loss under the first. **Within the second principle, fair equality of opportunity (b) takes priority over the difference principle (a).**
-11. **Natural liberty:** careers formally open to talents; leaves class and native talent uncorrected. **Liberal equality:** adds substantive fair opportunity, neutralising class disadvantage; leaves natural talents uncorrected. **Democratic equality:** adds the difference principle; this is Rawls's own reading.
+11. **Natural liberty:** careers formally open to talents; leaves class and native talent uncorrected. **Natural aristocracy:** still only formal openness, but inequalities must be to everyone's advantage; leaves the arbitrariness of natural endowment itself standing. **Liberal equality:** adds substantive fair opportunity, neutralising class disadvantage; leaves natural talents uncorrected. **Democratic equality:** adds the difference principle; this is Rawls's own reading.
 12. **Permitted:** higher pay for doctors that produces a better health system in which the worst-paid are better off than under strict equality. **Forbidden:** higher pay that increases total output while leaving the worst off no better. The difference is whether the inequality benefits the least advantaged, not whether it increases the total.
 13. **The least advantaged** are those worst off by an index of primary goods — income and wealth, powers of office, and the social bases of self-respect. Identifying them is **empirical** because it requires judging real institutions against that index, not merely applying a definition.
 14. **The tendency to equality** is §17's claim that under the difference principle, the expectations of the least advantaged are maximized, so the gap between them and others tends to narrow as institutions improve. It is a **tendency, not a target**: if the least advantaged are best off under some remaining inequality, the principle keeps it.
-15. **The publicity condition** requires that principles be ones citizens can publicly affirm, knowing others do too. Rawls uses it against average utility by arguing that a utilitarian society would have to conceal from its worst-off members that their sacrifices are required by the total — a failure of publicity.
+15. **The publicity condition** requires that principles be ones citizens can publicly affirm, knowing others do too. Rawls uses it against average utility by arguing that under a public utilitarian commitment the least advantaged, knowing their sacrifices serve the total, would find self-respect harder to maintain and the agreement hard to honor under the strains of commitment — a stability argument, not a charge that utilitarianism needs secrecy.
 
 ---
 
