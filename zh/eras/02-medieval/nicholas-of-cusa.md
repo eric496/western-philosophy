@@ -6,7 +6,7 @@
 
 ![库萨的尼古拉像](https://upload.wikimedia.org/wikipedia/commons/4/4c/Nicholas_of_Cusa.jpg)
 
-*维尔滕大师（Master of Wilten）约1480年的库萨的尼古拉身后肖像。图片来自维基共享资源（Wikimedia Commons）。*
+*圣母生平大师（Master of the Life of the Virgin）约1480年的库萨的尼古拉身后肖像。图片来自维基共享资源（Wikimedia Commons）。*
 
 ## 概览
 
