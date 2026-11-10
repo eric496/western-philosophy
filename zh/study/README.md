@@ -42,7 +42,7 @@
 
 | 涵盖条目 | 答案 |
 |---|---|
-| 古代与中世纪核心条目（7 位前苏格拉底哲学家、苏格拉底、柏拉图、亚里士多德、伊壁鸠鲁、罗马斯多亚派、奥古斯丁、安瑟尔谟、阿奎那） | [answers-ancient-medieval.md](answers-ancient-medieval.md) |
+| 古代与中世纪核心条目（7 位前苏格拉底哲学家、苏格拉底、柏拉图、亚里士多德、伊壁鸠鲁、罗马斯多葛派、奥古斯丁、安瑟尔谟、阿奎那） | [answers-ancient-medieval.md](answers-ancient-medieval.md) |
 | 早期近代核心条目（马基雅维利、笛卡尔、斯宾诺莎、莱布尼茨、洛克、贝克莱、休谟、卢梭、康德） | [answers-early-modern.md](answers-early-modern.md) |
 
 抽认卡牌组（可导入 [Anki](https://apps.ankiweb.net) 的论证卡片与检查点卡片，由上述条目与指南编成）：见 [cards/README.md](cards/README.md)。
