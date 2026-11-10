@@ -31,7 +31,17 @@
 
 ## 音频伴侣
 
-本档案的五个内容文件另有一个朗读音频版（Helio 嗓音，90% 语速），存储在 Eric 的 Muse 资料库 `focus-study-audio/arthur-schopenhauer/` 目录下，并发布于本仓库的 [Releases 页面](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v1)（标签 `focus-audio-v1`），链接见下表——总时长约 **2 小时 10 分钟**：
+本档案的五个内容文件另有中文朗读音频版（低沉沙哑嗓音，120%速度），存放在Eric的Claude资料库的`focus-study-audio-zh/arthur-schopenhauer/`之下，并发布于本仓库的[Releases页面](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-zh-v1)（标签`focus-audio-zh-v1`），见下表链接——总时长约**2小时23分钟**：
+
+| 集 | 文件 | 时长 |
+|---|---|---|
+| 生平与时代 | [`01-life-and-times-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/arthur-schopenhauer-01-life-and-times-zh.mp3) | 21分钟 |
+| 体系与概念 | [`03-system-and-concepts-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/arthur-schopenhauer-03-system-and-concepts-zh.mp3) | 29分钟 |
+| 论证 | [`04-arguments-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/arthur-schopenhauer-04-arguments-zh.mp3) | 50分钟 |
+| 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/arthur-schopenhauer-05-conversations-zh.mp3) | 24分钟 |
+| 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/arthur-schopenhauer-06-reception-and-debates-zh.mp3) | 20分钟 |
+
+英文朗读音频版（Helio嗓音，90%速度）存放在`focus-study-audio/arthur-schopenhauer/`之下，发布于标签`focus-audio-v1`，总时长约**2小时10分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|
@@ -41,7 +51,7 @@
 | 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-05-conversations.mp3) | 18 分钟 |
 | 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/arthur-schopenhauer-06-reception-and-debates.mp3) | 20 分钟 |
 
-朗读依照档案文本（表格与链接装置已剥除；引文以自然方式读出）。《著作与文本》《学习计划》与《参考书目》不作朗读——它们是参考装置。
+朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——中文版中，引用编号以中文读出，如"第3部命题7""第一版第22页"，年份逐字读出，如"一七八八年"；英文版同理读出原文编号）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
 
 ## 从这里开始
 
