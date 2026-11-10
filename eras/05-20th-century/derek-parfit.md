@@ -51,7 +51,7 @@ Comparing populations, Parfit showed that seemingly innocent principles collide.
 ## Key works
 
 - *Reasons and Persons* (1984) — The masterwork: self-defeating theories of rationality, personal identity, and Parts III–IV on future generations that founded modern population ethics.
-- *On What Matters*, vols. 1–2 (2011) and vol. 3 (2017) — The convergence project: reasons, Kant, contractualism, and consequentialism; vol. 1 includes responses by Barbara Herman, T. M. Scanlon, and others.
+- *On What Matters*, vols. 1–2 (2011) and vol. 3 (2017) — The convergence project: reasons, Kant, contractualism, and consequentialism; vol. 2 includes responses by Barbara Herman, T. M. Scanlon, and others, with Parfit's replies.
 - "Personal Identity" (1971) and "Later Selves and Moral Principles" (1973) — The early papers that launched the identity arguments.
 
 ## Contributions

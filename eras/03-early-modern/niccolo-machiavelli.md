@@ -55,7 +55,7 @@ Running through both works is the maxim that good laws require good arms, and go
 - *The Prince* (written 1513; published 1532) — Short, dense, shocking advice to a new prince; read alongside, not instead of, the *Discourses*.
 - *Discourses on Livy* (written c. 1513–19; published 1531) — The republican masterpiece: Rome as model, conflict as productive, liberty as non-domination.
 - *The Art of War* (1521) — The only major prose work published in his lifetime; dialogue arguing for citizen armies, drawing on Roman practice.
-- *Florentine Histories* (written 1520–25; presented 1525, some accounts May 1526) — Commissioned by the Medici; a brilliant, pointed history of Florence's factionalism.
+- *Florentine Histories* (written 1520–25; presented to Clement VII in May 1525) — Commissioned by the Medici; a brilliant, pointed history of Florence's factionalism.
 - *The Mandrake* (performed c. 1518) — A comedy of deception and desire that mirrors his political themes; still performed.
 - *Letters*, especially to Vettori (10 December 1513) — The single best short route into his mind and working method.
 

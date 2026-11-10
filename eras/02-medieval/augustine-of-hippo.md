@@ -10,7 +10,7 @@
 ## At a glance
 
 - **Dates:** 354 – 430 CE
-- **Place:** Born in Thagaste (Numidia, modern Algeria); educated in Carthage and Rome; taught rhetoric in Milan; bishop of Hippo Regius from 396 until his death.
+- **Place:** Born in Thagaste (Numidia, modern Algeria); educated at Thagaste, Madaurus, and Carthage; taught rhetoric in Milan; bishop of Hippo Regius from 396 until his death.
 - **School/tradition:** Latin Christian, writing in the Roman North African church as the Western Empire collapsed around him.
 - **Known for:** Original sin and grace, the divided will, the two cities, and a philosophy of time and memory that still anchors modern discussions.
 

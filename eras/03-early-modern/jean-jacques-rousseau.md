@@ -48,7 +48,7 @@ Two clarifications matter. The state of nature is a diagnostic device: Rousseau 
 
 The general will is the citizen body’s will directed at the common good, expressed in general laws — laws coming from all, applying to all, naming no particular person. It is defined by its **object**, not by counting: it is *not* majority whim, *not* a vote total, and *not* a leader embodying the people. Rousseau distinguishes it from the “will of all,” the mere sum of private wills, which aggregates selfishness.
 
-A majority can therefore be *wrong* about the general will. Voting, for Rousseau, asks not “what do I want?” but “what is the common good?” — and a majority can be outvoted in error, the losing side taking defeat as evidence it misjudged the common interest. The idea presupposes conditions he lists soberly: rough equality, no entrenched factions, informed citizens, a small polity. Where these fail, the general will falls silent or is counterfeited — his theory carries its own warning label.
+A majority can therefore be *wrong* about the general will. Voting, for Rousseau, asks not “what do I want?” but “what is the common good?” — and a citizen in the outvoted minority takes his defeat as evidence that he, not the majority, misjudged the common interest. The idea presupposes conditions he lists soberly: rough equality, no entrenched factions, informed citizens, a small polity. Where these fail, the general will falls silent or is counterfeited — his theory carries its own warning label.
 
 ### “Forced to be free” and legitimate government
 
@@ -131,7 +131,7 @@ The charged debate is the “totalitarian Rousseau”: the twentieth-century rea
 ## Study questions
 
 1. Reconstruct the *Discourse on Inequality* argument: natural humans are moved by *amour de soi* and pity; comparison, property, and dependence generate *amour-propre* and lasting inequality. Why does it matter that the state of nature is a diagnostic model, not a historical claim?
-2. Reconstruct the general-will argument, carefully distinguishing the general will from the will of all. If voting asks “what is the common good?” rather than “what do I want?”, how can a majority be wrong — and what would its error show the minority?
+2. Reconstruct the general-will argument, carefully distinguishing the general will from the will of all. If voting asks "what is the common good?" rather than "what do I want?", how can a majority be wrong — and what does Rousseau say an outvoted citizen should conclude about his own judgment?
 3. Press the “forced to be free” objection associated with Talmon and Berlin: a power claiming to embody the general will coerces dissenters and calls it freedom. Build the defenders' reply from generality of law and Rousseau's ban on anyone representing sovereignty, then assess it.
 4. Apply Rousseau's conditions to a modern referendum shaped by wealthy factions and a law naming one group: could its outcome express a general will, by his criteria? Compare his verdict with Locke's on government by consent.
 

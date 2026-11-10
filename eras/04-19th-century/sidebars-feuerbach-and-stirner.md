@@ -13,7 +13,7 @@
 
 ## At a glance
 
-- **Figures:** Ludwig Feuerbach (1804–1872) and Max Stirner (1806–1856, pseudonym of Johann Kaspar Schmidt)
+- **Figures:** Ludwig Feuerbach (1804–1872) and Max Stirner (1806–1856, pseudonym of Johann Caspar Schmidt)
 - **Place:** Germany — Feuerbach in Landshut, Heidelberg, and rural Franconia; Stirner in Bayreuth and Berlin
 - **School/tradition:** Young Hegelians; the radical aftermath of Hegel
 - **Known for:** Feuerbach: God as humanity's projection of its own essence. Stirner: every abstraction enthroned over the individual is a "spook"; only the self-owning individual is real.
@@ -24,7 +24,7 @@
 
 **Ludwig Feuerbach** was born in Landshut in 1804, son of the famous criminal jurist Anselm Feuerbach. He began in theology at Heidelberg, heard Hegel in Berlin, and defected to philosophy, taking his doctorate in 1828. His first book, *Thoughts on Death and Immortality* (1830), published anonymously, denied personal immortality — and when his authorship became known, his academic career was over; he never held a chair. He married Bertha Löw, whose family porcelain factory at Bruckberg gave him a rural refuge; from that retirement he wrote the books that made him the most famous philosopher in Germany for a decade. *The Essence of Christianity* (1841) was a sensation — read by Marx, Engels, Kierkegaard, and Wagner. When the factory failed, his later years were straitened; German social democrats adopted him as a hero and buried him in Nuremberg in 1872 with a workers' funeral procession.
 
-**Max Stirner** — born Johann Kaspar Schmidt in Bayreuth in 1806 — lived one of philosophy's most obscure lives. He studied in Berlin (attending Hegel's lectures), taught at a Berlin girls' school, and frequented the Young Hegelian circle "Die Freien" (The Free Ones) alongside Bruno Bauer and the young Engels. In 1844 he published *The Ego and Its Own* (*Der Einzige und sein Eigentum*, issued late 1844 with an 1845 title page) — and promptly resigned his teaching post. The book was censored briefly, reviewed widely, and answered at enormous length by Feuerbach, Moses Hess, and above all Marx and Engels, whose refutation of "Saint Max" fills the bulk of *The German Ideology*. Stirner translated Adam Smith and Jean-Baptiste Say for money, failed in a milk-shop venture, was twice imprisoned for debt, and died in Berlin in 1856 in near-total obscurity. Rediscovery came decades later through anarchist and Nietzsche-adjacent readings of the 1890s — Nietzsche never mentions him, and whether he read him remains an unresolved scholarly quarrel.
+**Max Stirner** — born Johann Caspar Schmidt in Bayreuth in 1806 — lived one of philosophy's most obscure lives. He studied in Berlin (attending Hegel's lectures), taught at a Berlin girls' school, and frequented the Young Hegelian circle "Die Freien" (The Free Ones) alongside Bruno Bauer and the young Engels. In 1844 he published *The Ego and Its Own* (*Der Einzige und sein Eigentum*, issued late 1844 with an 1845 title page) — and promptly resigned his teaching post. The book was censored briefly, reviewed widely, and answered at enormous length by Feuerbach, Moses Hess, and above all Marx and Engels, whose refutation of "Saint Max" fills the bulk of *The German Ideology*. Stirner translated Adam Smith and Jean-Baptiste Say for money, failed in a milk-shop venture, was twice imprisoned for debt, and died in Berlin in 1856 in near-total obscurity. Rediscovery came decades later through anarchist and Nietzsche-adjacent readings of the 1890s — Nietzsche never mentions him, and whether he read him remains an unresolved scholarly quarrel.
 
 ## Major theories and concepts
 
@@ -48,7 +48,7 @@ Politically Stirner rejects both the state (which rests on my reverence and will
 
 - Ludwig Feuerbach, *The Essence of Christianity* (1841) — The projection theory of religion; Part I is the essential reading.
 - Ludwig Feuerbach, *Principles of the Philosophy of the Future* (1843) — His positive program: sensuous, embodied, communal humanity.
-- Max Stirner, *The Ego and Its Own* (published late 1844; title page 1845) — His only book; the case against all spooks, Feuerbach's included.
+- Max Stirner, *The Ego and Its Own* (published late 1844; title page 1845) — His major book (he later published the compilation *History of Reaction*, 1852); the case against all spooks, Feuerbach's included.
 
 ## Contributions
 

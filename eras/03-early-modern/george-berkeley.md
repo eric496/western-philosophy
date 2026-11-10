@@ -22,9 +22,9 @@ George Berkeley was born on 12 March 1685 at Kilcrin, County Kilkenny, Ireland. 
 
 His philosophy came early: the *Essay Towards a New Theory of Vision* (1709) at twenty-four, the *Treatise Concerning the Principles of Human Knowledge* (1710), and the *Three Dialogues between Hylas and Philonous* (1713). The *Principles* was widely misunderstood — readers took him to deny the existence of everything — and the *Dialogues* were his clearer rewrite for a general audience. After travel in England and on the Continent, he devoted himself to a practical scheme: a college in Bermuda for colonial and Indigenous American students.
 
-Berkeley won a charter and promises of funding, resigned his Irish posts, and sailed in 1728, settling at Newport, Rhode Island, to await the money. It never came — Walpole’s government let the grant lapse — and he returned in 1731, donating his farm and library to Yale. The American years produced *Alciphron* (1732), a defense of Christianity.
+Berkeley won a charter and promises of funding, resigned his Trinity College fellowship (he kept the Deanery of Derry, holding it until 1734), and sailed in 1728, settling at Newport, Rhode Island, to await the money. It never came — Walpole's government let the grant lapse — and he returned in 1731, donating his farm to Yale and dividing his library between Harvard and Yale. The American years produced *Alciphron* (1732), a defense of Christianity.
 
-In 1734 he became Bishop of Cloyne, serving as pastor and local improver for the rest of his life. Later works include *The Analyst* (1734), attacking the foundations of Newton’s calculus, and *Siris* (1744). He died in Oxford on 14 January 1753.
+In 1734 he became Bishop of Cloyne, serving as pastor and local improver until his retirement in 1752. Later works include *The Analyst* (1734), attacking the foundations of Newton’s calculus, and *Siris* (1744). He died in Oxford on 14 January 1753.
 
 ## Major theories and concepts
 
@@ -67,7 +67,7 @@ Do things vanish when no human perceives them? No: God, an omnipresent eternal m
 
 > It is indeed an opinion strangely prevailing amongst men, that houses, mountains, rivers, and in a word all sensible objects, have an existence, natural or real, distinct from their being perceived by the understanding. […] For what are the forementioned objects but the things we perceive by sense? and what do we perceive besides our own ideas or sensations? and is it not plainly repugnant that any one of these, or any combination of them, should exist unperceived?
 
-— George Berkeley, *A Treatise Concerning the Principles of Human Knowledge* §3 (1710; public domain)
+— George Berkeley, *A Treatise Concerning the Principles of Human Knowledge* §4 (1710; public domain)
 
 Berkeley's idealism starts from a question that sounds innocent: what do we actually perceive? His answer — only our own ideas and sensations — makes "existence distinct from being perceived" look like a contradiction for sensible things, summed up in his formula *esse est percipi*, to be is to be perceived. Notice he presents this not as a paradox but as common sense rescued from philosophers: the "strangely prevailing" opinion is the materialists', not his.
 
@@ -77,7 +77,7 @@ Berkeley added a new metaphysical option: a fully empiricist idealism in which t
 
 ## Impact and legacy
 
-Hume reported that Berkeley’s arguments produced a skepticism Berkeley never intended, praising them as great discoveries while doubting they admitted an answer. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
+Hume called Berkeley's attack on abstract ideas "one of the greatest and most valuable discoveries" (*Treatise* I.i.7), and wrote in the *Enquiry* (§XII) that Berkeley's arguments "admit of no answer and produce no conviction" — a skepticism Berkeley never intended. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
 
 ## Criticisms and debates
 
