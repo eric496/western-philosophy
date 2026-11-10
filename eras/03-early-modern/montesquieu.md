@@ -32,7 +32,7 @@ Montesquieu then did what he advised: he traveled. From 1728 to 1731 he toured A
 
 ### The typology of governments
 
-Book II classifies governments by their *nature* (who holds power) and their *principle* (the passion that keeps them moving):
+Books II–III classify governments by their *nature* (who holds power) and their *principle* (the passion that keeps them moving):
 
 - **Republic** — power in the people (democracy) or a part of them (aristocracy); principle: **virtue**, the love of laws and country that makes citizens put the public good first. Montesquieu is candid that this is a demanding, almost monastic requirement.
 - **Monarchy** — rule by one according to fixed laws; principle: **honor**, the code of rank and distinction that makes ambition serve the public good "even when it seems to pursue only its own." Monarchy needs intermediary powers — the nobility, the courts — as channels and brakes.

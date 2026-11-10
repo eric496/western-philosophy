@@ -66,7 +66,7 @@ Government, finally, is strictly subordinate. Sovereignty — legislative author
 4. Law, introduced to protect property, then fixes and legitimises that dependence as lasting inequality.
 Therefore, inequality is not natural but a historical product of social development: natural man is good, and society corrupts.
 
-Rousseau is explicit that the state of nature is a conjectural device — in the *Discourse*'s preface he proposes “setting aside the facts” — not a historical claim about how humans actually lived.
+Rousseau is explicit that the state of nature is a conjectural device — in the *Discourse*'s exordium he proposes “setting aside the facts” — not a historical claim about how humans actually lived.
 
 **Objection.** The story looks like an unfalsifiable just-so story. Anthropology suggests early humans were social, cooperative, and status-conscious, not solitary wanderers, so the supposed starting point never existed.
 
