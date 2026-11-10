@@ -5,11 +5,11 @@
 
 The [learning path](../../learning-path.md) meets Hume in **Stage 3 (Early Modern)**, as a core figure (●) at row 10 — the stage's hinge: Locke and Berkeley behind him, Kant ahead of him and unintelligible without him. The path's Hume block runs one week at the stage's rhythm: the *Enquiry Concerning Human Understanding* **whole**, the *Dialogues* in selections, the second *Enquiry* in selections, and *Treatise* I.iv selections last, in that order — because Hume himself superseded the *Treatise* with the *Enquiries*, and starting with the *Treatise* is the classic error his own Advertisement warns against. This dossier keeps the path's order and its editions, and expands the block to seven weeks: both *Enquiries* read whole, the *Dialogues* read whole with the library's debate map in hand, the *Treatise* selections widened from I.iv to the three books' load-bearing sections, and a closing week for the reception debates and the capstone.
 
-Run it as one block in place of Stage 3's Hume week, after Berkeley (row 8) and before the political-philosophy run that leads to Kant (row 15). The sequence around it is load-bearing in both directions: Hume's audit only lands if the way of ideas is fresh from Locke and Berkeley, and Kant's *Prolegomena* — which names Hume's causation challenge as the interruption of his dogmatic slumber — reads as a reply only if Hume came first.
+Run it as one block in place of Stage 3's Hume week, after Berkeley (row 8) and before the political-philosophy run that leads to Kant (row 13). The sequence around it is load-bearing in both directions: Hume's audit only lands if the way of ideas is fresh from Locke and Berkeley, and Kant's *Prolegomena* — which names Hume's causation challenge as the interruption of his dogmatic slumber — reads as a reply only if Hume came first.
 
 **Total cost, stated honestly: ≈39 hours of scheduled study across seven weeks (~5.5 hrs/week), plus the daily [Anki](https://apps.ankiweb.net) [FSRS](https://docs.ankiweb.net/deck-options.html) queue (~10 min/day ≈ 6 hrs across the plan) — ≈45 hours all-in.** And the accounting against the path, stated plainly: **these hours sit on top of the learning path's Stage 3 budget, they are not hidden inside it.** The path already spends roughly one of Stage 3's weeks on Hume; this dossier replaces that pass with seven full weeks, so count a net addition of roughly 38 hours to Stage 3 if you run the dossier as written.
 
-**Reading texts.** Follow the path's rulings exactly. *Enquiry Concerning Human Understanding*: Beauchamp (Oxford World's Classics) or Steinberg (Hackett) — **not** Selby-Bigge/Nidditch (superseded; the path's ruling). The library's [study guide to the *Enquiry*](../../study/hume-enquiry.md) is the assigned companion for Weeks 1–2 and is not duplicated here. *Enquiry Concerning the Principles of Morals*: Beauchamp (Oxford). *Dialogues Concerning Natural Religion*: Coleman (Cambridge Texts in the History of Philosophy) — manuscript-based; cite by Part. *Treatise*: Norton & Norton (Oxford) for the selections; cite by book.part.section (T 1.3.6), with Selby-Bigge/Nidditch page numbers (SBN) where a secondary source needs one. The *Essays* in Miller's Liberty Fund edition for the Week 6 selections.
+**Reading texts.** Follow the path's rulings exactly. *Enquiry Concerning Human Understanding*: Millican (Oxford World's Classics) or Steinberg (Hackett); Beauchamp (Oxford) is the scholarly text — **not** Selby-Bigge/Nidditch (superseded; the path's ruling). The library's [study guide to the *Enquiry*](../../study/hume-enquiry.md) is the assigned companion for Weeks 1–2 and is not duplicated here. *Enquiry Concerning the Principles of Morals*: Beauchamp (Oxford). *Dialogues Concerning Natural Religion*: Coleman (Cambridge Texts in the History of Philosophy) — manuscript-based; cite by Part. *Treatise*: Norton & Norton (Oxford) for the selections; cite by book.part.section (T 1.3.6), with Selby-Bigge/Nidditch page numbers (SBN) where a secondary source needs one. The *Essays* in Miller's Liberty Fund edition for the Week 6 selections.
 
 **The guide is your companion, by design.** Weeks 1–2 assign the Enquiry guide's section walkthroughs and checkpoint sets alongside the primary text; the checkpoints printed below are the dossier's own additions, aimed at what the guide leaves to [03-system-and-concepts.md](03-system-and-concepts.md) and [04-arguments.md](04-arguments.md).
 
@@ -18,11 +18,11 @@ Run it as one block in place of Stage 3's Hume week, after Berkeley (row 8) and 
 | Week | Primary reading | Dossier alongside | Media | New cards |
 |---|---|---|---|---|
 | 1. The science of man, applied | *Enquiry* §§1–7 (with the guide) | 01, 02, 03 | *Philosophize This!* Hume episodes (preview/review) | 6 |
-| 2. Liberty, miracles, skepticism | *Enquiry* §§8–12 (with the guide) | 04 (Args. 1–5, 13) | Sadler's *Enquiry* videos for §§10, 12 | 6 |
-| 3. The moral *Enquiry* whole | *Principles of Morals* §§1–9 + Appendices 1–3 | 03, 04 (Args. 9, 11, 12) | Millican, *General Philosophy* (Hume lectures) | 6 |
+| 2. Liberty, miracles, skepticism | *Enquiry* §§8–12 (with the guide) | 04 (Args. 1–5, 13) | Sadler's *Enquiry* videos for §§10, 12 | 5 |
+| 3. The moral *Enquiry* whole | *Principles of Morals* §§1–9 + Appendices 1–4 | 03, 04 (Args. 9, 11, 12) | Millican, *General Philosophy* (Hume lectures) | 6 |
 | 4. Natural religion on trial | *Dialogues* Parts I–XII (whole) | 04 (Args. 6–7), 06 | Sadler / Millican on the *Dialogues* | 5 |
-| 5. The *Treatise*, Book I | T 1.1.1; 1.3.6; 1.3.14; 1.4.1; 1.4.6–7; Appendix | 04 (Args. 3, 8), 03 | *Philosophize This!* *Treatise* episodes | 5 |
-| 6. The *Treatise*, Books II–III + the essays | T 2.3.1–3; 3.1.1; 3.2.2; 3.3.1; "Of the Standard of Taste" | 04 (Args. 9–12), 05 | — (retrieval week) | 4 |
+| 5. The *Treatise*, Book I | T 1.1.1; 1.3.6; 1.3.14; 1.4.1; 1.4.6–7; Appendix | 04 (Args. 3, 8), 03 | *Philosophize This!* *Treatise* episodes | 4 |
+| 6. The *Treatise*, Books II–III + the essays | T 2.3.1–3; 3.1.1; 3.2.2; 3.3.1; "Of the Standard of Taste" | 04 (Args. 9–12), 05 | — (retrieval week) | 3 |
 | 7. The debates + capstone | 06 whole; 08 selections; capstone essay | 05, 06, 08 | Magee, *The Great Philosophers*: Hume episode (watch-after) | 2 |
 
 Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text only), **B — Support** (~1.5–2 hrs: dossier files, media, the guide where assigned), **C — Retrieval** (~1 hr: checkpoints book-closed, spaced reconstruction revisits). Media names series rather than episode numbers where the dossier could not verify a number; nothing is assigned that [02-works-and-texts.md](02-works-and-texts.md) and [08-bibliography.md](08-bibliography.md) do not already vouch for. One inherited rule: media is heard in the week you read the text — never instead of it. Peter Adamson's *History of Philosophy Without Any Gaps* has **not yet reached Hume** (the series stands at Bayle); do not wait for it — *Philosophize This!* is Stage 3's audio spine here, with the learning path's standing caveat that West simplifies and the repo's texts govern.
@@ -55,11 +55,11 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 
 **Reconstructions.** Miracles, first reconstruction; induction revisited (+1wk).
 
-**Cards.** Next 6 (belief as vivacity; necessary connection; compatibilism; miracles maxim; mitigated skepticism; relations of ideas vs. matters of fact).
+**Cards.** Next 5 (belief as vivacity; necessary connection; compatibilism; miracles maxim; mitigated skepticism).
 
 ## Week 3 — The moral *Enquiry* whole: *Principles of Morals* (~5.5 hrs)
 
-**Primary.** The second *Enquiry* whole — the path reads it in selections; the dossier reads all nine sections and Appendices 1–3, because this is the book Hume called "incomparably the best" of his writings (*My Own Life* — his judgment, quoted as his). Watch the machinery change from the *Treatise*: sympathy broadens into a general principle of humanity, and the argument runs on utility and agreeableness rather than on the associationist engine.
+**Primary.** The second *Enquiry* whole — the path reads it in selections; the dossier reads all nine sections and Appendices 1–4, because this is the book Hume called "incomparably the best" of his writings (*My Own Life* — his judgment, quoted as his). Watch the machinery change from the *Treatise*: sympathy broadens into a general principle of humanity, and the argument runs on utility and agreeableness rather than on the associationist engine.
 
 **Alongside.** [03-system-and-concepts.md](03-system-and-concepts.md) (sympathy, the moral sense, artificial virtues), [04-arguments.md](04-arguments.md) Arguments 11 and 12 in their EPM dress.
 
@@ -100,7 +100,7 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 
 **Reconstructions.** The bundle theory, first reconstruction.
 
-**Cards.** Next 5 (impression of reflection; vivacity revisited as belief's manner; the Appendix confession; skeptical vs. naturalist reading; New Hume).
+**Cards.** Next 4 (impression of reflection; the Appendix confession; skeptical vs. naturalist reading; New Hume).
 
 ## Week 6 — The *Treatise*, Books II–III, and the essayist (~5.5 hrs)
 
@@ -115,11 +115,13 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 
 **Reconstructions.** Is–ought, first reconstruction; justice revisited (+1wk).
 
-**Cards.** Next 4 (slave of the passions; sensible knave; Hume on taste's standard; the 1777 Advertisement).
+**Cards.** Next 3 (slave of the passions; sensible knave; Hume on taste's standard).
 
 ## Week 7 — The debates, and the capstone (~6 hrs)
 
 **Primary.** [06-reception-and-debates.md](06-reception-and-debates.md) whole — the reception eras, the five live debates (skeptic vs. naturalist; New Hume; is–ought; the *Dialogues* speaker; the "Of National Characters" footnote's record and the modern dispute, stated there in full) — and [08-bibliography.md](08-bibliography.md) selections: pick the two secondary works you will read after the dossier (the plan's recommendation: Stroud's *Hume* now, Baier next).
+
+**Cards.** Final 2 (the 1777 Advertisement; who speaks in the *Dialogues*?).
 
 **The gate-essay relationship.** Stage 3's gate essay asks: *"What, if anything, justifies our expectation that the future will resemble the past?"* — Hume's problem, with at least two replies, one of them Kant's. This dossier's capstone is that essay's Hume half, written to gate standard (the replies, Kant's included, belong to the path's Kant block and the stage gate itself — do not write Kant's half early, on a Hume-only evidence base).
 
