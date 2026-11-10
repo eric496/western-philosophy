@@ -35,14 +35,14 @@ The library's [learning path](../../learning-path.md) meets Wittgenstein twice i
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/ludwig-wittgenstein/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v2) (tag `focus-audio-v2`), linked in the table — about **2 hours 48 minutes** in total:
+This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/ludwig-wittgenstein/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v2) (tag `focus-audio-v2`), linked in the table — about **2 hours 47 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|
 | Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-01-life-and-times.mp3) | 19 min |
 | System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-03-system-and-concepts.mp3) | 44 min |
 | Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-04-arguments.mp3) | 62 min |
-| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-05-conversations.mp3) | 22 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-05-conversations.mp3) | 21 min |
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/ludwig-wittgenstein-06-reception-and-debates.mp3) | 21 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally — "section 258" and "Tractatus 6.54," not raw citation strings). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
