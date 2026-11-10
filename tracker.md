@@ -110,7 +110,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Bernard Williams** (1929–2003) — Moral luck, integrity, internal reasons
 - [ ] **Judith Jarvis Thomson** (1929–2020) — Violinist argument, trolley problem
 - [ ] **Derrida** (1930–2004) — Différance, binary oppositions
-- [ ] **Hannah Pitkin** (1931–2023) — The concept of representation
+- [ ] **Hanna Pitkin** (1931–2023) — The concept of representation
 - [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
 - [ ] **Peter Singer** (b. 1946) — Speciesism, drowning child
 - [ ] **Martha Nussbaum** (b. 1947) — Capabilities approach, emotions as judgments

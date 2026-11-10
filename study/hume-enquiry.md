@@ -13,7 +13,7 @@ The *Enquiry* is Hume's central statement of empiricism and mitigated skepticism
 
 Hume wrote in English, and his original text is in the public domain, so any complete modern edition will serve and short quotations in this guide give section numbers so they can be located in any edition. For a first read, use either of the two editions named in the study plan:
 
-- **Tom L. Beauchamp (ed.), *An Enquiry Concerning Human Understanding* (Oxford: Clarendon Press, 1999)** — the standard scholarly edition, with a full critical apparatus and introduction.
+- **Tom L. Beauchamp (ed.), *An Enquiry Concerning Human Understanding* (Oxford University Press, 1999)** — the standard student edition (the Clarendon critical edition followed in 2000), with a full critical apparatus and introduction.
 - **Eric Steinberg (ed.), *An Enquiry Concerning Human Understanding* (Indianapolis: Hackett, 2nd ed. 1993)** — a reliable, affordable student edition.
 
 Avoid relying on the older Selby-Bigge/Nidditch text as a first read; it has been superseded by Beauchamp's edition. Section numbers (§) are stable across editions, so all references in this guide use them.
@@ -54,7 +54,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** Here Hume lays the foundation of his empiricism. All perceptions of the mind divide into **impressions** — the lively perceptions of sensing, feeling, and emotion — and **ideas** — the fainter copies of impressions in thinking, remembering, and imagining. The **copy principle** states that every simple idea is copied from a corresponding simple impression. Complex ideas (a golden mountain, a virtuous horse) are built by compounding, transposing, augmenting, or diminishing materials supplied by impressions, but no new *simple* idea can be invented without an impression to copy.
 
-**Key passages.** §II.3–5 (impressions versus ideas); §II.6–9 (the copy principle and its proof by the blind man who has no idea of color); §II.9 (the missing shade of blue).
+**Key passages.** §II.3–5 (impressions versus ideas); §II.6–9 (the copy principle and its proof by the blind man who has no idea of color); §II.8 (the missing shade of blue).
 
 **Main argument.** The copy principle is both a psychological claim and a critical instrument. Whenever a philosophical term is in dispute — substance, self, necessary connexion — Hume will ask: from what impression is this idea derived? If no impression can be produced, the idea is suspect. Note the exception Hume himself raises: a man who has seen every shade of blue except one could, Hume concedes, form the idea of the missing shade without a corresponding impression. He calls the case "so singular" that it scarcely overturns the principle — a candor worth remembering when the principle is later applied.
 
@@ -62,7 +62,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** Ideas do not follow one another at random. Three principles associate them: **resemblance** (a picture leads us to think of the original), **contiguity** in time or place (mention of one room leads us to think of the next), and **cause and effect** (thinking of a wound leads us to think of the pain that followed it). Hume calls these "a kind of attraction" in the mental world, comparable — cautiously — to gravitation in the natural world.
 
-**Key passages.** §III.1–3 (the three principles); §III.6–8 (association as the bond of the imagination and the explanation of why trains of thought differ between people).
+**Key passages.** §III.1–3 (the whole of Section III in the Beauchamp numbering: the three principles of association at §III.2, their examples at §III.3 — association as the bond of the imagination, explaining why trains of thought differ between people).
 
 **Main argument.** Association explains the order of thought without invoking a rational faculty that deliberately arranges ideas. It also prepares the ground for Sections IV–VII: cause and effect is not discovered by reason inspecting ideas, but is one of the associative principles by which the mind moves from one idea to another. The section is sometimes skimmed; it should not be, because Hume's account of causal inference in Section V is an application of it.
 
@@ -70,7 +70,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** This is the heart of the book. Hume divides the objects of human reason into two kinds, later known as **Hume's fork**: **relations of ideas** (geometry, algebra, arithmetic, logic), which are intuitively or demonstratively certain and whose denial implies a contradiction; and **matters of fact**, whose contrary is always conceivable and which are known only through experience. All reasoning about matters of fact beyond present perception and memory rests on the relation of cause and effect. But what is the foundation of causal reasoning itself? Not reason: the inference that the future will resemble the past — that bread will nourish tomorrow because it nourished yesterday — cannot be justified by demonstration (a changed course of nature involves no contradiction) or by experience (appealing to past experience assumes the very uniformity in question). This is the **problem of induction**; a full reconstruction is given in §2(a) below.
 
-**Key passages.** §IV.1–2 (the fork); §IV.4–9 (cause and effect as the basis of factual reasoning); §IV.10–16 (why the inference to the future is not founded on reason); §IV.19–21 (the fork applied to books: works containing neither abstract reasoning nor experimental reasoning "commit to the flames").
+**Key passages.** §IV.1–2 (the fork); §IV.4–9 (cause and effect as the basis of factual reasoning); §IV.10–16 (why the inference to the future is not founded on reason); §IV.19–21 (scepticism with regard to reason). (The fork's famous application to books — works containing neither abstract reasoning nor experimental reasoning are to be "committed to the flames" — comes only in the work's final paragraph, §XII, E 12.34.)
 
 **Main argument.** Reason cannot justify its own most important everyday inference. The famous closing passage, recommending suspect books to the flames, is often quoted as a slogan; read in context, it is the conclusion of the fork, not a program for book-burning — and Hume himself immediately qualifies it in the next section.
 
@@ -118,7 +118,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** A miracle, Hume defines, is a violation of a law of nature by a particular volition of the Deity, or by the interposition of some invisible agent. A law of nature is established by firm and unalterable experience — the strongest possible evidence for a matter of fact. Testimony is itself a form of experience, but its force depends on the usual conjunction between testimony and truth, and testimony is notoriously weakened by credulity, love of the marvellous, religious enthusiasm, and the tendency of miracle reports to cluster among "ignorant and barbarous nations" and to cancel each other across rival religions. A wise man therefore proportions his belief to the evidence, and when testimony for a miracle collides with uniform experience against it, the testimony cannot prevail: "no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish."
 
-**Key passages.** §X.4–5 (the definition of a miracle and of proof); §X.12–13 (the maxim); §X.16–24 (the four considerations weakening miracle testimony); §X.35–36 (the closing reflection on faith and reason).
+**Key passages.** §X.4 (the definition of "proof" from infallible experience); §X.12 (the definition of a miracle, with the maxim at §X.13); §X.16–24 (the four considerations weakening miracle testimony); §X.35–36 (the closing reflection on faith and reason).
 
 **Main argument.** The argument concerns **evidence**, not metaphysical possibility — Hume never claims miracles cannot occur. A full reconstruction, with objection and reply, is given in §2(c) below. Whether the argument is an a priori barrier or a strong evidential presumption, and how it fares when recast in modern probabilistic terms, is actively debated; the guide presents the argument as Hume states it and notes the debate rather than settling it.
 

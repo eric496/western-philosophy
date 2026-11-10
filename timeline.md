@@ -110,7 +110,7 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1929–2003 — Bernard Williams** (20th c. / Ethics): Moral luck, integrity, internal reasons
 - **1929–2020 — Judith Jarvis Thomson** (20th c. / Ethics & Rights): Violinist argument, trolley problem
 - **1930–2004 — Derrida** (20th c. / Deconstruction): Différance, binary oppositions
-- **1931–2023 — Hannah Pitkin** (20th c. / Political Theory): The concept of representation
+- **1931–2023 — Hanna Pitkin** (20th c. / Political Theory): The concept of representation
 - **1942–2017 — Derek Parfit** (20th c. / Ethics): Identity not what matters, non-identity problem
 - **b. 1946 — Peter Singer** (Contemporary / Utilitarian): Speciesism, drowning child
 - **b. 1947 — Martha Nussbaum** (20th c. / Ethics & Political Philosophy): Capabilities approach, emotions as judgments

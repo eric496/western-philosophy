@@ -48,8 +48,8 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Knowledge grows by bold conjectures and severe refutations; nothing is ever verified, but error can genuinely be eliminated.
 - **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — A statement is meaningful only if verifiable; epistemology becomes the logical analysis of the language of unified science.
 - **[Quine](eras/05-20th-century/w-v-o-quine.md)** (1908–2000) — No analytic/synthetic line, no statement immune to revision: belief faces experience as a corporate web; epistemology is naturalized.
-- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Paradigms supply a science's standards, problems, and perceived facts; rival paradigms can be incommensurable.
 - **[Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — Understanding is never presuppositionless: historically effected prejudice is its condition, corrected through fusion of horizons.
+- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Paradigms supply a science's standards, problems, and perceived facts; rival paradigms can be incommensurable.
 - **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Each epoch has a regime of truth: what counts as knowledge is produced together with the power that certifies it.
 
 ---
@@ -73,8 +73,8 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Diderot](eras/03-early-modern/denis-diderot.md)** (1713–1784) — Matter itself can sense and think: in *D'Alembert's Dream*, sensation and thought arise from organized matter, so mind differs from dead matter by organization, not by kind — no immaterial soul is required.
 - **[Kant](eras/03-early-modern/immanuel-kant.md)** (1724–1804) — A substantial, simple, identical soul is a paralogism: the "I think" is a formal unity of experience, not an object of knowledge.
 - **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — We know our body twice: as representation among objects, and from within as Will; the body is the Will made visible.
-- **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Consciousness is a stream, not a chain of mental atoms; study its functions and uses, not a hypothetical soul-stuff.
 - **[Brentano](eras/04-19th-century/franz-brentano.md)** (1838–1917) — Intentionality — every mental act is of or about something — is the mark distinguishing the mental from the physical.
+- **[James](eras/04-19th-century/william-james.md)** (1842–1910) — Consciousness is a stream, not a chain of mental atoms; study its functions and uses, not a hypothetical soul-stuff.
 - **[Bergson](eras/05-20th-century/henri-bergson.md)** (1859–1941) — The brain is an organ of action, not a storehouse: memory endures in duration, contracting into the present for use.
 - **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Consciousness is essentially intentional, and its zero-point of orientation is the lived body (*Leib*), not the physical body.
 - **[Whitehead](eras/05-20th-century/alfred-north-whitehead.md)** (1861–1947) — Reality is made of occasions of experience: every actuality prehends its world, so mind is the high-grade end of a continuum of feeling running through nature, not an exception to it.
@@ -227,10 +227,10 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Politics is action in plurality, revealing who we are; totalitarianism destroys spontaneity, and bureaucratic rule enables banal evil.
 - **[Frankfurt School](eras/05-20th-century/frankfurt-school.md)** (1923– ) — Instrumental reason and the culture industry integrate domination into everyday life; Habermas rebuilds legitimacy on communicative action and the public sphere.
 - **[Rawls](eras/05-20th-century/john-rawls.md)** (1921–2002) — Behind a veil of ignorance, parties choose equal basic liberties, and permit inequalities only when they benefit the least advantaged.
-- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Power is capillary and productive: disciplines, surveillance, and biopolitics govern bodies and populations without a single sovereign center.
-- **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — Woman is constituted as the Other; liberation requires economic independence and the transformation of institutions, not goodwill alone.
 - **[Weil](eras/05-20th-century/simone-weil.md)** (1909–1943) — *The Need for Roots*: obligations precede rights, uprootedness is the modern disease, and political parties and propaganda feed it.
+- **[Beauvoir](eras/05-20th-century/simone-de-beauvoir.md)** (1908–1986) — Woman is constituted as the Other; liberation requires economic independence and the transformation of institutions, not goodwill alone.
 - **[Levinas](eras/05-20th-century/emmanuel-levinas.md)** (1906–1995) — With the third party, ethics must become justice: comparison, law, and the state — perpetually corrected by charity toward each face.
+- **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Power is capillary and productive: disciplines, surveillance, and biopolitics govern bodies and populations without a single sovereign center.
 - **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — The liberal state masks competing wills as neutral administration; politics worthy of the virtues survives in local communities of practice.
 - **[Pitkin](eras/05-20th-century/hannah-pitkin.md)** (1931–2023) — Representation is not one relation but four — authorization, resemblance, symbol, acting-for — held in permanent tension: a representative who never acts independently has stopped representing.
 - **[Nussbaum](eras/05-20th-century/martha-nussbaum.md)** (b. 1947) — A society is just only when every citizen passes a threshold in all ten central capabilities: human dignity, not aggregate wealth, is the metric of political success.
@@ -287,8 +287,8 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Nietzsche](eras/04-19th-century/friedrich-nietzsche.md)** (1844–1900) — Truths are metaphors worn smooth: language herds experience into common concepts and hides that every concept falsifies becoming.
 - **[Peirce](eras/04-19th-century/charles-sanders-peirce.md)** (1839–1914) — Meaning is the conceivable practical effects of a thing; all thought is in signs — icon, index, symbol.
 - **[Frege](eras/05-20th-century/gottlob-frege.md)** (1848–1925) — Sense determines reference: "Morning Star" and "Evening Star" refer alike and differ in meaning; logic needs a purified concept-script.
-- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Descriptions like "the present King of France" are not names: analysis dissolves their apparent reference and its ontological temptations.
 - **[Husserl](eras/05-20th-century/edmund-husserl.md)** (1859–1938) — Meanings are ideal unities instantiated in acts; expression must be pried apart from mere indication and communication.
+- **[Russell](eras/05-20th-century/bertrand-russell.md)** (1872–1970) — Descriptions like "the present King of France" are not names: analysis dissolves their apparent reference and its ontological temptations.
 - **[Vienna Circle](eras/05-20th-century/vienna-circle-logical-positivism.md)** (1924–1936) — The meaning of a statement is its method of verification: metaphysics is not false but literally without sense.
 - **[Wittgenstein](eras/05-20th-century/wittgenstein-early.md)** (1889–1951) — Early work: propositions picture facts, and what cannot be said must be passed over in silence; the [later work](eras/05-20th-century/wittgenstein-late.md) recasts meaning as use within language-games and forms of life, and rules out a private language.
 - **[Langer](eras/05-20th-century/susanne-langer.md)** (1895–1985) — Meaning outruns discourse: presentational symbols — images, music, ritual — articulate the forms of feeling that discursive language, word by word in sequence, cannot say.
@@ -354,8 +354,8 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Jaspers](eras/05-20th-century/karl-jaspers.md)** (1883–1969) — The Axial Age (c. 800–200 BCE): in China, India, Persia, and the West alike, humanity steps into self-reflective universality — a shared spiritual origin we still inhabit.
 - **[Popper](eras/05-20th-century/karl-popper.md)** (1902–1994) — Historicism — the claim that history obeys laws of destiny — is logically bankrupt and politically poisonous; there are trends, never laws.
 - **[Arendt](eras/05-20th-century/hannah-arendt.md)** (1906–1975) — Modernity worships History as a process that devours events; against it stands natality: every birth begins something unpredictably new.
-- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Textbooks rewrite the past as a staircase; revolutions make science's history discontinuous — progress *from* past paradigms, not toward a final truth.
 - **[Gadamer](eras/05-20th-century/hans-georg-gadamer.md)** (1900–2002) — We stand inside history, not above it: tradition is not an obstacle to understanding but its enabling ground.
+- **[Kuhn](eras/05-20th-century/thomas-kuhn.md)** (1922–1996) — Textbooks rewrite the past as a staircase; revolutions make science's history discontinuous — progress *from* past paradigms, not toward a final truth.
 - **[MacIntyre](eras/05-20th-century/alasdair-macintyre.md)** (1929–2025) — Moral history is a catastrophe of fragments — yet traditions can rationally defeat rivals by resolving their own crises.
 - **[Foucault](eras/05-20th-century/michel-foucault.md)** (1926–1984) — Genealogy against continuous history: descent and emergence reveal contingency exactly where necessities were supposed to reign.
 

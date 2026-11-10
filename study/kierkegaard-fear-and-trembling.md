@@ -9,7 +9,7 @@
 
 The pseudonymity is not decoration, and this guide will keep saying so: Johannes's conclusions are Johannes's. Kierkegaard published signed upbuilding discourses alongside the pseudonymous works, and in his later accounting of the authorship (*The Point of View*) presented the pseudonyms as voices a reader must pass through, not doctrines he was delivering. What *Fear and Trembling* asks — whether faith, as Abraham had it, can be thought at all inside the ethical philosophy of Kierkegaard's Copenhagen — is a question Kierkegaard spent his career inside; what Johannes *answers* must be attributed to Johannes.
 
-The occasion is Genesis 22: God commands Abraham to sacrifice Isaac, the son of the promise, on Mount Moriah. Abraham saddles the ass, travels three days, binds Isaac, raises the knife — and receives Isaac back. Behind the book stands Kierkegaard's broken engagement to Regine Olsen (1841): he had renounced the person he loved most, under a kind of necessity he could not explain to her or to Copenhagen, and his journals return to Abraham for years — one later entry says, in effect, that had he had faith he would have remained with Regine. Scholars debate how directly the book should be read through the engagement; that it resonates is not in doubt, and Johannes's own young man, who renounces his princess (Problema I), is the resonance on the page.
+The occasion is Genesis 22: God commands Abraham to sacrifice Isaac, the son of the promise, on Mount Moriah. Abraham saddles the ass, travels three days, binds Isaac, raises the knife — and receives Isaac back. Behind the book stands Kierkegaard's broken engagement to Regine Olsen (1841): he had renounced the person he loved most, under a kind of necessity he could not explain to her or to Copenhagen, and his journals return to Abraham for years — one later entry says, in effect, that had he had faith he would have remained with Regine. Scholars debate how directly the book should be read through the engagement; that it resonates is not in doubt, and Johannes's own young man, who renounces his princess (Preliminary Expectoration), is the resonance on the page.
 
 The book's targets are named in its structure. Against Hegelian philosophy — the "System" of his teachers, for whom faith is a primitive stage to be mediated and surpassed by knowledge — Johannes insists faith is not a first immediacy to be gone beyond but the highest passion, arrived at, if at all, after reflection, and kept only in fear and trembling. Against comfortable Danish "Christendom," for whom Abraham is a Sunday-school exemplar, he insists Abraham is either a murderer or a paradox — and that the age has made him cheap by refusing to feel the difference.
 
@@ -18,9 +18,9 @@ The book's targets are named in its structure. Against Hegelian philosophy — t
 The learning path names two:
 
 - **Howard V. Hong and Edna H. Hong (trans.), *Fear and Trembling; Repetition* (Princeton: Princeton University Press, Kierkegaard's Writings VI, 1983)** — the standard scholarly edition, with introduction and notes; the path's first choice and the translation this guide's short quotations and terminology follow.
-- **Alastair Hannay (trans.), *Fear and Trembling* (London: Penguin Classics, 1985)** — a more readable solo volume, the path's alternative; also the basis of the later Cambridge Texts edition edited by Sylvia Walsh.
+- **Alastair Hannay (trans.), *Fear and Trembling* (London: Penguin Classics, 1985)** — a more readable solo volume, the path's alternative. (The later Cambridge Texts edition, 2006, is Sylvia Walsh's own translation, edited by C. Stephen Evans and Walsh — it is not a revision of Hannay.)
 
-Kierkegaard's standard translations are modern and copyrighted, so this guide paraphrases first and quotes only in short phrases, attributed to the Hong translation, where a technical term is at stake. References use the work's own divisions (Preface; Tuning Up; Eulogy; Problema I, II, III; Epilogue), which are stable across editions.
+Kierkegaard's standard translations are modern and copyrighted, so this guide paraphrases first and quotes only in short phrases, attributed to the Hong translation, where a technical term is at stake. References use the work's own divisions (Preface; Tuning Up; Eulogy; Preliminary Expectoration — Hannay's "Preamble from the Heart"; Problema I, II, III; Epilogue), which are stable across editions.
 
 ## How to use this guide
 
@@ -37,12 +37,12 @@ The path assigns Problemata I–II as the core and follows the book with selecti
 | 1 | Preface; Tuning Up | The age that wants to "go further" than faith; the four failed Abrahams |
 | 2 | Eulogy on Abraham | Greatness by faith; believing "for this life"; the absurd |
 | 3 | Problema I (first half) | The ethical as the universal; tragic hero vs. knight of faith |
-| 4 | Problema I (second half) | Infinite resignation; the double movement; the knight of faith's ordinariness |
+| 4 | Preliminary Expectoration; Problema I (second half) | Infinite resignation; the double movement; the knight of faith's ordinariness |
 | 5 | Problema II | Absolute duty toward God; the Kantian contrast |
 | 6 | Problema III; Epilogue | Silence and disclosure; faith is not a first immediacy |
 | 7 | Re-read Problemata I–III | The three reconstructed arguments; checkpoint questions |
 
-**Core sections:** Problema I and Problema II are the path's core and the book's argumentative center. The Tuning Up is essential in a different way: its four retellings define, by their failures, what the biblical Abraham's faith is — skip it and the Eulogy's praise will sound like rhetoric. The Epilogue is two pages and states the book's whole polemic against "going further"; do not skip it.
+**Core sections:** Problema I and Problema II are the path's core and the book's argumentative center. The Preliminary Expectoration, between the Eulogy and Problema I, is where the knight of infinite resignation, the young man and his princess, and the double movement are introduced — do not mistake it for part of Problema I. The Tuning Up is essential in a different way: its four retellings define, by their failures, what the biblical Abraham's faith is — skip it and the Eulogy's praise will sound like rhetoric. The Epilogue is two pages and states the book's whole polemic against "going further"; do not skip it.
 
 The path also assigns, as watch-after support, Gregory B. Sadler's *Fear and Trembling* Core Concepts videos (nine short videos, ≈2–2.5 hours inside Stage 4) — after the text, as clarification, per the path's media rules.
 

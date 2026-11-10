@@ -112,7 +112,7 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 105 | Bernard Williams | 1929–2003 | 20th c. / Ethics | Moral luck, integrity, internal reasons | *Ethics and the Limits of Philosophy* |
 | 106 | Judith Jarvis Thomson | 1929–2020 | 20th c. / Ethics & Rights | Violinist argument, trolley problem | "A Defense of Abortion" (1971) |
 | 107 | Derrida | 1930–2004 | 20th c. / Deconstruction | Différance, binary oppositions | Secondary + "Différance" |
-| 108 | Hannah Pitkin | 1931–2023 | 20th c. / Political Theory | The concept of representation | *The Concept of Representation* |
+| 108 | Hanna Pitkin | 1931–2023 | 20th c. / Political Theory | The concept of representation | *The Concept of Representation* |
 | 109 | Derek Parfit | 1942–2017 | 20th c. / Ethics | Identity not what matters, non-identity problem | *Reasons and Persons* (selections) |
 | 110 | Peter Singer | b. 1946 | Contemporary / Utilitarian | Speciesism, drowning child | "Famine, Affluence, Morality" |
 | 111 | Martha Nussbaum | b. 1947 | 20th c. / Ethics & Political Philosophy | Capabilities approach, emotions as judgments | *The Fragility of Goodness*; *Creating Capabilities* |
