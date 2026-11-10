@@ -10,7 +10,7 @@
 ## At a glance
 
 - **Dates:** 1668–1744
-- **Place:** Naples, Kingdom of Naples (then under Spanish, then Austrian, rule)
+- **Place:** Naples, Kingdom of Naples (under Spanish, then Austrian, rule in his lifetime; an independent Bourbon kingdom from 1734)
 - **School/tradition:** Anti-Cartesian humanism; founder of the philosophy of history and an early theorist of culture
 - **Known for:** The principle *verum factum* — we can truly know only what we have made — applied to the "civil world" of nations: since humans made history, history can be known from inside, through language, myth, law, and custom. His *New Science* traces all nations through three ages — of gods, of heroes, of men — in cycles (*corsi e ricorsi*)
 
@@ -18,7 +18,7 @@
 
 ## Biography
 
-Giambattista Vico was born in Naples in 1668, above his father's bookshop on the Via San Biagio dei Librai, the seventh of eight children. A childhood fall fractured his skull and left him, the doctors said, likely to die or grow up an idiot; he instead grew up, by his own account, with a melancholic temperament and a ferocious appetite for self-education. He attended Jesuit schools irregularly, read law at the University of Naples, and spent the years 1686–95 as a private tutor in a castle at Vatolla in the Cilento — his real university, where he worked through Latin poetry, Roman law, and the history of philosophy, and formed his lifelong heroes: Plato and Tacitus, and among the moderns Francis Bacon and Grotius (he later added the jurist Gravina as a fourth master).
+Giambattista Vico was born in Naples in 1668, above his father's bookshop on the Via San Biagio dei Librai, the sixth of eight children. A childhood fall fractured his skull and left him, the doctors said, likely to die or grow up an idiot; he instead grew up, by his own account, with a melancholic temperament and a ferocious appetite for self-education. He attended Jesuit schools irregularly, read law at the University of Naples, and spent the years 1686–95 as a private tutor in a castle at Vatolla in the Cilento — his real university, where he worked through Latin poetry, Roman law, and the history of philosophy, and formed his lifelong heroes — his "four authors": Plato and Tacitus, and among the moderns Francis Bacon and Grotius, the last of the four added after Vico read *On the Law of War and Peace* while writing his life of Antonio Carafa (1716).
 
 In 1699 he won, by competition, the chair of rhetoric at the University of Naples — a modest post he held for over forty years, badly paid, while supporting a growing family and hoping vainly for the more prestigious chair of law. His inaugural orations (1699–1708) defended the union of eloquence and wisdom against the new fashion for Cartesian method. In *On the Most Ancient Wisdom of the Italians* (1710), written against Descartes, he first stated his great principle, *verum ipsum factum* — the true is precisely what is made. His *Universal Law* (1720–22) tried to derive law and history from first principles; the project failed commercially but generated his breakthrough.
 

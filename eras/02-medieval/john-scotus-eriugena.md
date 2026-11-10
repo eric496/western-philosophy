@@ -65,7 +65,7 @@ Eriugena single-handedly changed what Latin philosophy had to work with. His Dio
 
 ## Impact and legacy
 
-The influence ran underground but wide. Eriugena's Dionysius was the standard text commented on by Hugh of St Victor and read by Aquinas, who cites Dionysius constantly (through Eriugena's Latin). Honorius Augustodunensis's epitome, the *Clavis Physicae*, carried his cosmology into the twelfth century, and echoes appear in later medieval Neoplatonism and the Rhineland mystics. The 1225 condemnation reflects how live a threat — or resource — his ideas remained. He is now recognized as the greatest philosopher of the Carolingian age and a key bridge between late-antique Platonism and the high Middle Ages.
+The influence ran underground but wide. Eriugena's Dionysius was the standard text commented on by Hugh of St Victor, and Aquinas cites Dionysius constantly — though Aquinas worked mainly from John Sarracen's clearer revision of the translation (c. 1167). Honorius Augustodunensis's epitome, the *Clavis Physicae*, carried his cosmology into the twelfth century, and echoes appear in later medieval Neoplatonism and the Rhineland mystics. The 1225 condemnation reflects how live a threat — or resource — his ideas remained. He is now recognized as the greatest philosopher of the Carolingian age and a key bridge between late-antique Platonism and the high Middle Ages.
 
 ## Criticisms and debates
 

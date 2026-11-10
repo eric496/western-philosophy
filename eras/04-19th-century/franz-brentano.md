@@ -36,7 +36,7 @@ Brentano distinguished two psychological sciences. **Genetic psychology** explai
 
 ### The four phases of philosophy
 
-Brentano also taught a philosophy of history: each cultural era cycles through a rising phase of rigorous, science-like inquiry, then decline through mysticism and skepticism. He placed himself — and his Aristotelian-scholastic training — as the agent of a new rising phase. This is why his revival of scholastic distinctions was not nostalgia: he believed the medievals at their best had done philosophy with scientific seriousness.
+Brentano also taught a philosophy of history: each cultural era cycles through a rising phase of rigorous, science-like inquiry, then decline in three phases — a turn toward practical interests, then skepticism, and finally mysticism. He placed himself — and his Aristotelian-scholastic training — as the agent of a new rising phase. This is why his revival of scholastic distinctions was not nostalgia: he believed the medievals at their best had done philosophy with scientific seriousness.
 
 ### Ethics and the theory of value
 

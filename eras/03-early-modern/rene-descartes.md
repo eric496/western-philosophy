@@ -102,7 +102,7 @@ Fuller reconstructions are in the study guide: [*Meditations on First Philosophy
 - *Meditations on First Philosophy* (1641) — In Latin, with Objections and Replies; six meditations from doubt to the external world. The central text.
 - *Principles of Philosophy* (1644) — A systematic textbook of metaphysics and physics; the clearest statement of the full system.
 - *The Passions of the Soul* (1649) — His last published work, on the emotions as products of the mind–body union.
-- *The World* (*Le Monde*) (written 1632–33; published posthumously, 1664) — His treatise on physics and the cosmos, suppressed after Galileo's condemnation; much of its physics was absorbed into the *Principles*.
+- *The World* (*Le Monde*) (written 1629–33; published posthumously, 1664) — His treatise on physics and the cosmos, suppressed after Galileo's condemnation; much of its physics was absorbed into the *Principles*.
 - *Rules for the Direction of the Mind* (written c. 1628; first published in Dutch translation 1684; Latin original 1701) — An unfinished early treatise on method.
 
 ## In their own words

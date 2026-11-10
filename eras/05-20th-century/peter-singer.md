@@ -74,7 +74,7 @@ The practical footprint is unusually measurable. *Animal Liberation* galvanised 
 
 ## What to read first
 
-Read "Famine, Affluence, and Morality" first — five pages that contain the pond, the principle, and the challenge. Then chapters 1–2 of *Animal Liberation* for speciesism and equal consideration, and the global-poverty and euthanasia chapters of *Practical Ethics* to see the system applied and to encounter the controversial conclusions in their argued form rather than in summary. *The Life You Can Save* is the accessible route into the later, movement-facing work.
+Read "Famine, Affluence, and Morality" first — fifteen pages that contain the pond, the principle, and the challenge. Then chapters 1–2 of *Animal Liberation* for speciesism and equal consideration, and the global-poverty and euthanasia chapters of *Practical Ethics* to see the system applied and to encounter the controversial conclusions in their argued form rather than in summary. *The Life You Can Save* is the accessible route into the later, movement-facing work.
 
 ## Study questions
 

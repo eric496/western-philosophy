@@ -18,7 +18,7 @@
 
 ## Biography
 
-Thomas Hobbes was born in Westport, Wiltshire, on 5 April 1588, prematurely, as news arrived of the approaching Spanish Armada. He later joked that “fear and I were born twins together” — his own quip, and a fitting emblem for a philosophy centered on fear of violent death.
+Thomas Hobbes was born in Westport, Wiltshire, on 5 April 1588 — prematurely, by his own account, his mother frightened by news of the approaching Spanish Armada. He later joked that “fear and I were born twins together” — his own quip, and a fitting emblem for a philosophy centered on fear of violent death.
 
 Educated at Magdalen Hall, Oxford, Hobbes became tutor to the Cavendish family, earls of Devonshire. That post gave him income, libraries, travel, and political access for life. He met Galileo and moved in Mersenne’s Paris circle with Descartes and Gassendi, but built his system late: after translating Thucydides (1629), his philosophy emerged from his forties onward.
 

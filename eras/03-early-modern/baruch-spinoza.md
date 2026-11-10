@@ -96,7 +96,7 @@ Fuller reconstructions of the monism argument are in the study guide: [*Ethics* 
 
 ## Key works
 
-- *Short Treatise on God, Man, and His Well-Being* (c. 1660; unpublished until the 19th century) — The earliest surviving statement of his system, written in Dutch for his circle.
+- *Short Treatise on God, Man, and His Well-Being* (c. 1660; unpublished until the 19th century) — The earliest surviving statement of his system, composed for his circle — on the generally accepted reconstruction, written in Latin, which is lost; what survives is the circle's contemporary Dutch translation, rediscovered in the mid-19th century (an older view took the Dutch to be the original).
 - *Principles of Descartes' Philosophy* (1663) — Descartes in geometrical order; the only book under his name in his lifetime.
 - *Theological-Political Treatise* (1670) — Anonymous; founding text of biblical criticism and defense of freedom of thought.
 - *Treatise on the Emendation of the Intellect* (unfinished; posthumous, 1677) — His methodological introduction: how the intellect purifies itself and learns to form adequate ideas.
