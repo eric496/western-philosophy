@@ -42,7 +42,7 @@
 
 **Paul Guyer (ed.), *The Cambridge Companion to Kant's Critique of Pure Reason* (Cambridge University Press, 2010), and *The Cambridge Companion to Kant* (1992).** 两部综述卷：分别由该领域资深人物撰文，论第一《批判》的各个部分（2010）与整个体系（1992）。当某个档案话题在你交付结业裁决之前需要第二个学术声音时，就来这里。
 
-**Manfred Kuehn, *Kant: A Biography* (Cambridge University Press, 2001).** 标准的现代传记——SEP 的生平部分本身就取材于它——也是对「对表匠」漫画形象的纠正：一个善于交际、勤于出版、热衷论战的康德，身处一座真实的十八世纪城市之中。如果生平抓住了你，与 [01-life-and-times.md](01-life-and-times.md) 对照着读。
+**Manfred Kuehn, *Kant: A Biography* (Cambridge University Press, 2001).** 标准的现代传记——SEP 的生平部分本身就取材于它——也是对那幅「以散步对表」漫画形象的纠正：一个善于交际、勤于出版、热衷论战的康德，身处一座真实的十八世纪城市之中。如果生平抓住了你，与 [01-life-and-times.md](01-life-and-times.md) 对照着读。
 
 ## 4. 参考资料
 

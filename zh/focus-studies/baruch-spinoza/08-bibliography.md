@@ -36,7 +36,7 @@
 
 **Don Garrett (ed.), *The Cambridge Companion to Spinoza* (Cambridge University Press, 1996)。**综述卷：由该领域资深学者撰写的关于形而上学、心灵、情感、政治与历史背景的论文。当一个档案主题需要在你押下结业论文的裁决之前听一听第二个学术声音时，就去这里。
 
-**Rebecca Goldstein, *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity* (Yale University Press, Jewish Lives, 2006)。**可读的生平与思想：一位小说家兼哲学家寻找谢雷姆故事里藏着的那个人，把传记与她自己的思想回忆交织在一起。确实好看，哲学上也严肃；引用它的推测之前，先拿纳德勒的《生平》核实。
+**Rebecca Goldstein, *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity* (Schocken Books, Jewish Encounters, 2006)。**可读的生平与思想：一位小说家兼哲学家寻找谢雷姆故事里藏着的那个人，把传记与她自己的思想回忆交织在一起。确实好看，哲学上也严肃；引用它的推测之前，先拿纳德勒的《生平》核实。
 
 **Matthew Stewart, *The Courtier and the Heretic: Leibniz, Spinoza, and the Fate of God in the Modern World* (W. W. Norton, 2006)。**流行叙事——就如此标明。一部围绕年轻的莱布尼茨 1676 年海牙之行组织起来的双传，结构戏剧化、论点驱动（斯宾诺莎是现代性的秘密作者）。作为尾声读物很好；它不是证据，它的莱布尼茨为了情节而被简化了。本档案的规则不变：普及读物只作定向，学术著作才作论证。
 
