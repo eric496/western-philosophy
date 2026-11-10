@@ -6,7 +6,7 @@
 
 ![伊本·鲁世德肖像](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg/250px-Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
-*安德烈亚·迪·博纳尤托（Andrea di Bonaiuto）在佛罗伦萨新圣母大殿（Basilica of Santa Maria Novella）西班牙小堂所作《圣托马斯·阿奎那的胜利》壁画中伊本·鲁世德的局部，约1366年（信息框题注：“圣母大殿中的肖像”）。图片来自维基共享资源（Wikimedia Commons）。*
+*安德烈亚·迪·博纳尤托（Andrea di Bonaiuto）在佛罗伦萨新圣母大殿（Basilica of Santa Maria Novella）西班牙小堂所作《圣托马斯·阿奎那的胜利》壁画中伊本·鲁世德的局部，约1366年。图片来自维基共享资源（Wikimedia Commons）。*
 
 ## 概览
 
