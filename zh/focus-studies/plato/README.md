@@ -35,11 +35,11 @@
 
 | 集 | 文件 | 时长 |
 |---|---|---|
-| 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-01-life-and-times.mp3) | 18分钟 |
+| 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-01-life-and-times.mp3) | 19分钟 |
 | 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-03-system-and-concepts.mp3) | 32分钟 |
 | 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-04-arguments.mp3) | 63分钟 |
 | 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-05-conversations.mp3) | 20分钟 |
-| 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-06-reception-and-debates.mp3) | 23分钟 |
+| 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v3/plato-06-reception-and-debates.mp3) | 22分钟 |
 
 朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——"Republic 473 c to e"，而不是原始的斯蒂芬努斯字符串）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
 
