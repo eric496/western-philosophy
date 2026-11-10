@@ -6,7 +6,7 @@
 
 ![布莱兹·帕斯卡像](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/250px-Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
-*弗朗索瓦二世·凯内尔（François II Quesnel）为热拉尔·埃德兰克（Gérard Edelinck）所作的帕斯卡画像，1691年（凡尔赛画像，约1690年；图注作"帕斯卡，约1691年"）——图片来自维基共享资源。*
+*佚名画家所作的布莱兹·帕斯卡画像，临摹弗朗索瓦二世·凯内尔（François II Quesnel）为热拉尔·埃德兰克（Gérard Edelinck）1691 年版画所作的肖像（凡尔赛画像，约 1690 年；图注作"帕斯卡，约 1691 年"）——图片来自维基共享资源。*
 
 ## 一览
 
