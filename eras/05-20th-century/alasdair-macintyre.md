@@ -61,7 +61,7 @@ MacIntyre supplied the virtue-ethics revival with its historical engine: Anscomb
 
 ## Impact and legacy
 
-*After Virtue* is among the most cited philosophy books of the late twentieth century, and one of the few read seriously across political tribes: conservatives found a critique of liberal individualism, the left found a critique of managerial capitalism and the bureaucratic state (his portrait of the Manager as a stock character of emotivist culture belongs with the Bureaucrat and the Therapist), and theologians found a philosophy that took their traditions seriously as forms of rationality. His influence on Catholic intellectual life, especially through Notre Dame, is considerable. Within professional philosophy he remains a dissenter: rarely assigned as the "answer," constantly assigned as the problem everyone must answer.
+*After Virtue* is among the most cited philosophy books of the late twentieth century, and one of the few read seriously across political tribes: conservatives found a critique of liberal individualism, the left found a critique of managerial capitalism and the bureaucratic state (his portrait of the Manager as a stock character of emotivist culture belongs with the Rich Aesthete and the Therapist), and theologians found a philosophy that took their traditions seriously as forms of rationality. His influence on Catholic intellectual life, especially through Notre Dame, is considerable. Within professional philosophy he remains a dissenter: rarely assigned as the "answer," constantly assigned as the problem everyone must answer.
 
 ## Criticisms and debates
 

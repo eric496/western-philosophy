@@ -75,7 +75,7 @@ His influence is visible wherever ethics is done with suspicion of systems: in t
 
 ## What to read first
 
-Start with "Moral Luck" and "Persons, Character and Morality" in *Moral Luck* — the Gauguin, Jim, and George cases and the integrity argument in their original form. Then *Ethics and the Limits of Philosophy*, chapters 1, 6, and 10, for the systematic statement. *Morality* (1972) is the quickest way in if time is short. Finish with *Truth and Truthfulness* chapters 1–2 to see the late method — genealogy in defense of truth — at work.
+Start with "Moral Luck" and "Persons, Character and Morality" in *Moral Luck* — the Gauguin case and the "one thought too many" argument in their original form; the Jim and George cases are in "A Critique of Utilitarianism," in *Utilitarianism: For and Against* (1973, with J. J. C. Smart). Then *Ethics and the Limits of Philosophy*, chapters 1, 6, and 10, for the systematic statement. *Morality* (1972) is the quickest way in if time is short. Finish with *Truth and Truthfulness* chapters 1–2 to see the late method — genealogy in defense of truth — at work.
 
 ---
 [Era overview](README.md) · [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Glossary](../../glossary.md)
