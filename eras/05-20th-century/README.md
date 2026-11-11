@@ -70,7 +70,7 @@ Pass 5 hard core + rebuild: Derrida "Différance" + "Letter to a Japanese Friend
 - [Frankfurt School (Horkheimer & Adorno)](frankfurt-school.md)
 - [Michel Foucault](michel-foucault.md)
 - [Jacques Derrida](jacques-derrida.md)
-- [Hanna Pitkin](hannah-pitkin.md)
+- [Hanna Pitkin](hanna-pitkin.md)
 - [Hans-Georg Gadamer](hans-georg-gadamer.md)
 - [Anscombe & Foot](anscombe-and-foot.md)
 - [Iris Murdoch](iris-murdoch.md)

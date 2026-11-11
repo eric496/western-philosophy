@@ -1,5 +1,5 @@
 # 汉娜·皮特金（Hanna Pitkin）
-**简体中文** | [English](../../../eras/05-20th-century/hannah-pitkin.md)
+**简体中文** | [English](../../../eras/05-20th-century/hanna-pitkin.md)
 
 *时代：20世纪至今（1900年—）· [时代概览](README.md) · [总索引](../../index.md)*
 

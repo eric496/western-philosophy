@@ -79,7 +79,7 @@
 - [法兰克福学派（霍克海默与阿多诺）](frankfurt-school.md)
 - [福柯](michel-foucault.md)
 - [德里达](jacques-derrida.md)
-- [皮特金](hannah-pitkin.md)
+- [皮特金](hanna-pitkin.md)
 - [伽达默尔](hans-georg-gadamer.md)
 - [安斯康姆与富特](anscombe-and-foot.md)
 - [默多克](iris-murdoch.md)
