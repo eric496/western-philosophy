@@ -100,7 +100,7 @@ Broadly chronological order (the same order as `index.md`). Overlapping lifespan
 - **1913–2005 — Paul Ricoeur** (20th c. / Hermeneutics): Narrative identity, idem/ipse
 - **1903–1969 — Adorno** (20th c. / Frankfurt School): Culture industry, negative dialectics
 - **1895–1973 — Horkheimer** (20th c. / Frankfurt School): Critical vs traditional theory
-- **b. 1929 — Habermas** (20th–21st c. / Frankfurt II): Communicative action, public sphere
+- **1929–2026 — Habermas** (20th–21st c. / Frankfurt II): Communicative action, public sphere
 - **1919–2001 / 1920–2010 — Anscombe & Foot** (20th c. / Virtue Ethics): Intention, natural goodness, tram problem
 - **1919–1999 — Iris Murdoch** (20th c. / Moral Philosophy): Attention, unselfing, the Good
 - **1919–2018 — Mary Midgley** (20th c. / Moral Philosophy): Human nature, anti-reductionism
