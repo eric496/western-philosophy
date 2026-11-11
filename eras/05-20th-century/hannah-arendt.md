@@ -14,7 +14,7 @@
 - **School/tradition:** Political theory, phenomenology
 - **Known for:** Politics as public speech and action among distinct equals; totalitarianism as a new form of rule; and the "banality of evil" — great crimes committed by thoughtless bureaucrats
 
-**Responds to:** [Augustine](../02-medieval/augustine-of-hippo.md), [Kant](../03-early-modern/immanuel-kant.md), [Jaspers](karl-jaspers.md) · **Answered by:** Jürgen Habermas and later theorists of the public sphere — outside this repo's entries
+**Responds to:** [Augustine](../02-medieval/augustine-of-hippo.md), [Kant](../03-early-modern/immanuel-kant.md), [Jaspers](karl-jaspers.md) · **Answered by:** [Jürgen Habermas](jurgen-habermas.md) and later theorists of the public sphere
 
 ## Biography
 

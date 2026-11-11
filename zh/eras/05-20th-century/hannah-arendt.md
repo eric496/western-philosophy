@@ -14,7 +14,7 @@
 - **学派/传统：** 政治理论、现象学
 - **以何著称：** 政治是不同的平等者之间的公共言说与行动；极权主义作为一种新的统治形式；以及"平庸之恶"——由无思的官僚犯下的巨大罪行
 
-**回应：** [奥古斯丁](../02-medieval/augustine-of-hippo.md)、[康德](../03-early-modern/immanuel-kant.md)、[雅斯贝尔斯](karl-jaspers.md) · **被回应：** 于尔根·哈贝马斯及后来的公共领域理论家——本库无其条目
+**回应：** [奥古斯丁](../02-medieval/augustine-of-hippo.md)、[康德](../03-early-modern/immanuel-kant.md)、[雅斯贝尔斯](karl-jaspers.md) · **被回应：** 于尔根·哈贝马斯及后来的公共领域理论家（英文版有[哈贝马斯条目](../../../eras/05-20th-century/jurgen-habermas.md)）
 
 ## 生平
 

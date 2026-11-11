@@ -96,7 +96,7 @@ Fuller reconstructions are in the study guide: [*A Theory of Justice* §§1–4 
 - *Political Liberalism* (1993) — stability under reasonable pluralism: overlapping consensus and public reason.
 - *The Law of Peoples* (1999) — the extension to international justice, human rights, and toleration of decent peoples.
 - *Justice as Fairness: A Restatement* (2001) — Rawls’s own shorter, clearer restatement of the whole theory; the best starting text.
-- *Lectures on the History of Moral Philosophy* (2000) and *Lectures on the History of Political Philosophy* (2007) — posthumous teaching, showing the tradition Rawls worked within.
+- *Lectures on the History of Moral Philosophy* (2000) and *Lectures on the History of Political Philosophy* (2007) — his Harvard teaching (the second published posthumously), showing the tradition Rawls worked within.
 
 ## Contributions
 

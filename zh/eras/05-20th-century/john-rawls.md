@@ -97,7 +97,7 @@
 - 《政治自由主义》（*Political Liberalism*, 1993）——合理多元主义下的稳定性：重叠共识与公共理性。
 - 《万民法》（*The Law of Peoples*, 1999）——向国际正义、人权以及对体面民族之宽容的推广。
 - 《作为公平的正义：重述》（*Justice as Fairness: A Restatement*, 2001）——罗尔斯本人对整个理论更简短、更清晰的重述；最佳入门文本。
-- 《道德哲学史讲演录》（*Lectures on the History of Moral Philosophy*, 2000）与《政治哲学史讲演录》（*Lectures on the History of Political Philosophy*, 2007）——身后出版的授课内容，展示了罗尔斯所置身的传统。
+- 《道德哲学史讲演录》（*Lectures on the History of Moral Philosophy*, 2000）与《政治哲学史讲演录》（*Lectures on the History of Political Philosophy*, 2007）——他在哈佛的授课内容（后者为身后出版），展示了罗尔斯所置身的传统。
 
 ## 贡献
 
