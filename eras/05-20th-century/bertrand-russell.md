@@ -91,7 +91,7 @@ Therefore, unrestricted comprehension is false, and set theory — and with it F
 ## Key works
 
 - ***The Principles of Mathematics*** (1903) — The first statement of his logicism, confronting the paradox's consequences.
-- **"On Denoting"** (1905), in *Mind* — Seventeen pages that founded the modern philosophy of language; read it before any commentary.
+- **"On Denoting"** (1905), in *Mind* — Fifteen pages that founded the modern philosophy of language; read it before any commentary.
 - ***Principia Mathematica***, with A. N. Whitehead, 3 vols (1910, 1912, 1913) — The logicist monument. Consult it, marvel at it, do not try to read it through.
 - ***The Problems of Philosophy*** (1912) — His short, lucid introduction to epistemology and metaphysics; still a standard first text.
 - ***Introduction to Mathematical Philosophy*** (1919) — The accessible *Principia*, written in prison; the best route into his philosophy of mathematics.
