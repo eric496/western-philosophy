@@ -79,7 +79,7 @@ Frege's influence ran through conduits: Russell publicised him; Wittgenstein abs
 1. *The Foundations of Arithmetic* (1884) — read §§1–69 for the demolition of rival views, then the definition of number; short, witty, and largely symbol-free.
 2. "On Sense and Reference" (1892) — the Morning Star puzzle and its solution, in under twenty pages.
 3. *The Basic Writings of Bertrand Russell* or Russell's *Introduction to Mathematical Philosophy* (1919), chs. I and XVII, for a friendly account of what the paradox destroyed and what survived.
-4. Then Michael Dummett's *Frege: Philosophy of Mathematics* or Anthony Kenny's *Frege* (in the Routledge Philosophers series) for a guided tour of the logic itself.
+4. Then Michael Dummett's *Frege: Philosophy of Mathematics* or Anthony Kenny's *Frege* (Penguin, 1995) for a guided tour of the logic itself.
 
 ## Study questions
 

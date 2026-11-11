@@ -20,7 +20,7 @@
 
 Leo Strauss was born in Kirchhain, in Hesse, in 1899, into an Orthodox Jewish family, and took his doctorate at Hamburg in 1921 with a dissertation on Jacobi supervised by Ernst Cassirer. In Freiburg he attended Husserl's lectures and, decisively, heard Heidegger, whose interpretation of Aristotle he later said showed a brilliance beside which his other teachers seemed to fade — and whose political trajectory became for Strauss the standing proof of philosophy's modern crisis. He worked at the Academy for the Scientific Study of Judaism in Berlin, publishing *Spinoza's Critique of Religion* (1930), a study of Hobbes in 1936, and left Germany in 1932 on a fellowship that took him to Paris and Cambridge — a departure that became permanent exile when the Nazis took power the following year. In 1937 he emigrated to the United States, teaching at the New School for Social Research before moving in 1949 to the University of Chicago, where he remained until 1969, building the most consequential teaching practice in twentieth-century American political science: generations of students trained to read a small canon of great books slowly, literally and whole. He spent his last years partly at St. John's College, Annapolis, and died there in 1973.
 
-At Chicago he published the books that define him: *On Tyranny* (1948), a minute reading of Xenophon's *Hiero* (later editions add his exchange with Alexandre Kojève); *Persecution and the Art of Writing* (1952); *Natural Right and History* (1953); *Thoughts on Machiavelli* (1958); *The City and Man* (1964); and *Socrates and Aristophanes* (1966). Strauss wrote no system and founded his authority on interpretation: the recovery, as he put it, of political philosophy as the quest for the right order of human life, against a social science that had declared such questions unscientific.
+At the New School and then Chicago he published the books that define him: *On Tyranny* (1948), a minute reading of Xenophon's *Hiero* (later editions add his exchange with Alexandre Kojève); *Persecution and the Art of Writing* (1952); *Natural Right and History* (1953); *Thoughts on Machiavelli* (1958); *The City and Man* (1964); and *Socrates and Aristophanes* (1966). Strauss wrote no system and founded his authority on interpretation: the recovery, as he put it, of political philosophy as the quest for the right order of human life, against a social science that had declared such questions unscientific.
 
 ## Major theories and concepts
 
@@ -47,7 +47,7 @@ Beneath the method lies what he called the **theologico-political problem**: the
 - *Persecution and the Art of Writing* (1952) — the esotericism thesis and its method.
 - *Natural Right and History* (1953) — the quarrel stated systematically: Weber, historicism, Burke, and the classical doctrine of natural right.
 - *Thoughts on Machiavelli* (1958) — Machiavelli as the founder of modernity, read esoterically.
-- *The City and Man* (1964) — Aristophanes, Plato and Thucydides: political philosophy and its poetic and historical rivals.
+- *The City and Man* (1964) — Aristotle, Plato and Thucydides: political philosophy and its poetic and historical rivals.
 - *Socrates and Aristophanes* (1966) — the comic evidence for the young Socrates and the city's view of philosophy.
 - "The Three Waves of Modernity" (essay, first published posthumously in *Political Philosophy: Six Essays by Leo Strauss*, 1975; reprinted in *An Introduction to Political Philosophy*, 1989) — the crisis narrative in miniature.
 
@@ -75,7 +75,7 @@ The political controversy is separate and louder. Shadia Drury's *Leo Strauss an
 ## What to read first
 
 1. "The Three Waves of Modernity" — the crisis of modernity in twenty pages; the clearest entry to his diagnosis.
-2. *Natural Right and History* (1953), chapters I–II and V — the attack on positivism and historicism, and the statement of classical natural right.
+2. *Natural Right and History* (1953), chapters I–II and IV — the attack on positivism and historicism, and the statement of classical natural right.
 3. *Persecution and the Art of Writing* (1952), the title essay — the esotericism thesis in his own terms, to be read with one critical response (Burnyeat's "Sphinx without a Secret" is the classic) so the method and its chief objection arrive together.
 
 ---
