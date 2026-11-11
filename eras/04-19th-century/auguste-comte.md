@@ -62,7 +62,7 @@ Positivism became one of the most influential ideologies of the later 19th centu
 
 - **Is the law of three stages itself unscientific?** Critics note that the "law" is not testable in the way Comte demanded of other claims — it looks suspiciously like one of the metaphysical grand narratives positivism was supposed to replace.
 - **Two Comtes?** Scholars debate the continuity between the early philosopher of science and the late religious founder: a betrayal of his own principles, or the honest working-out of his conviction that society needs shared belief?
-- **Mill's verdict.** Mill admired the *Course* but argued in *Auguste Comte and Positivism* (1865) that the *Polity* proposed "the completest system of spiritual and temporal despotism which ever yet emanated from a human brain."
+- **Mill's verdict.** Mill admired the *Course* but wrote in his *Autobiography* (1873) that the *Polity* proposed "the completest system of spiritual and temporal despotism which ever yet emanated from a human brain."
 - **Gender.** Comte's views on women — venerated as morally superior, excluded from public and intellectual life — are challenged by the contrast with contemporaries like Harriet Taylor Mill writing in the same years.
 
 ## Misreadings to avoid
