@@ -102,7 +102,7 @@ Every key figure in one table: dates, era/school, signature concept, and the fir
 | 95 | Paul Ricoeur | 1913–2005 | 20th c. / Hermeneutics | Narrative identity, idem/ipse | *Oneself as Another* (selections) |
 | 96 | Adorno | 1903–1969 | 20th c. / Frankfurt School | Culture industry, negative dialectics | *Minima Moralia* (selections) |
 | 97 | Horkheimer | 1895–1973 | 20th c. / Frankfurt School | Critical vs traditional theory | "Traditional and Critical Theory" |
-| 98 | Habermas | b. 1929 | 20th–21st c. / Frankfurt II | Communicative action, public sphere | *Public Sphere* excerpts |
+| 98 | Habermas | 1929–2026 | 20th–21st c. / Frankfurt II | Communicative action, public sphere | *Public Sphere* excerpts |
 | 99 | Anscombe & Foot | 1919–2001 / 1920–2010 | 20th c. / Virtue Ethics | Intention, natural goodness, tram problem | Anscombe, "Modern Moral Philosophy" (1958) |
 | 100 | Iris Murdoch | 1919–1999 | 20th c. / Moral Philosophy | Attention, unselfing, the Good | *The Sovereignty of Good* |
 | 101 | Mary Midgley | 1919–2018 | 20th c. / Moral Philosophy | Human nature, anti-reductionism | *Beast and Man* |

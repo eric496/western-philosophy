@@ -100,7 +100,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **Paul Ricoeur** (1913–2005) — Narrative identity, idem/ipse
 - [ ] **Adorno** (1903–1969) — Culture industry, negative dialectics
 - [ ] **Horkheimer** (1895–1973) — Critical vs traditional theory
-- [ ] **Habermas** (b. 1929) — Communicative action, public sphere
+- [ ] **Habermas** (1929–2026) — Communicative action, public sphere
 - [ ] **Anscombe & Foot** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
 - [ ] **Iris Murdoch** (1919–1999) — Attention, unselfing, the Good
 - [ ] **Mary Midgley** (1919–2018) — Human nature, anti-reductionism
