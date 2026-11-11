@@ -47,7 +47,7 @@
 - [戈特霍尔德·埃夫拉伊姆·莱辛（Gotthold Ephraim Lessing）](../eras/03-early-modern/gotthold-ephraim-lessing.md) — 近代早期哲学（约 1600 – 1800）
 - [戈特洛布·弗雷格（Gottlob Frege）](../eras/05-20th-century/gottlob-frege.md) — 20 世纪至今（1900 – ）
 - [汉娜·阿伦特（Hannah Arendt）](../eras/05-20th-century/hannah-arendt.md) — 20 世纪至今（1900 – ）
-- [汉娜·皮特金（Hanna Pitkin）](../eras/05-20th-century/hannah-pitkin.md) — 20 世纪至今（1900 – ）
+- [汉娜·皮特金（Hanna Pitkin）](../eras/05-20th-century/hanna-pitkin.md) — 20 世纪至今（1900 – ）
 - [汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer）](../eras/05-20th-century/hans-georg-gadamer.md) — 20 世纪至今（1900 – ）
 - [哈莉特·泰勒·穆勒（Harriet Taylor Mill）](../eras/04-19th-century/harriet-taylor-mill.md) — 19 世纪哲学（1801 – 1900）
 - [亨利·柏格森（Henri Bergson）](../eras/05-20th-century/henri-bergson.md) — 20 世纪至今（1900 – ）
