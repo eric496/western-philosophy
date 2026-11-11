@@ -63,7 +63,7 @@ Published anonymously, her work was long absorbed into Mill's reputation; *The S
 
 - She was not merely Mill's "muse." Whatever the verdict on particular texts, she published a substantial feminist argument under conditions of anonymity, wrote on marriage and property independently, and is documented as changing his mind on identifiable questions.
 - Conversely, the dedication of *On Liberty* is not proof she wrote it. Treating Mill's tribute as a title page repeats, in reverse, the error of treating its absence as proof she contributed nothing.
-- *The Subjection of Women* (1869) is Mill's posthumous solo work, written a decade after her death — deeply influenced by her, but not a joint text in the way they both used the term.
+- *The Subjection of Women* (1869) is Mill's posthumous solo work, published a decade after her death — deeply influenced by her, but not a joint text in the way they both used the term.
 
 ## What to read first
 
