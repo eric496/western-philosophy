@@ -37,7 +37,7 @@ The path assigns Problemata I–II as the core and follows the book with selecti
 | 1 | Preface; Tuning Up | The age that wants to "go further" than faith; the four failed Abrahams |
 | 2 | Eulogy on Abraham | Greatness by faith; believing "for this life"; the absurd |
 | 3 | Preliminary Expectoration | Infinite resignation; the double movement; the knight of faith's ordinariness |
-| 4 | Preliminary Expectoration; Problema I | The ethical as the universal; tragic hero vs. knight of faith |
+| 4 | Problema I | The ethical as the universal; tragic hero vs. knight of faith |
 | 5 | Problema II | Absolute duty toward God; the Kantian contrast |
 | 6 | Problema III; Epilogue | Silence and disclosure; faith is not a first immediacy |
 | 7 | Re-read Problemata I–III | The three reconstructed arguments; checkpoint questions |

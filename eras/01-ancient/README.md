@@ -55,7 +55,6 @@ Merge note: For Thales, Pythagoras, Socrates, Pyrrho, Diogenes, Zeno — label k
 - [Plato](plato.md)
 - [Aristotle](aristotle.md)
 - [Epicurus](epicurus.md)
-- [Cicero & Lucretius](cicero-and-lucretius.md)
 - [Zeno of Citium & the Stoics](zeno-of-citium-and-the-stoics.md)
 - [Cicero & Lucretius](cicero-and-lucretius.md)
 - [The Roman Stoics](roman-stoics.md)
