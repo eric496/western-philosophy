@@ -11,11 +11,13 @@
 
 **批判版与《遗稿》规则。**《全集：批判研究版》（*Sämtliche Werke: Kritische Studienausgabe*，KSA），由乔尔乔·科利（Giorgio Colli）与马齐诺·蒙蒂纳里（Mazzino Montinari）编（15 卷，de Gruyter），是学术标准：它按年代顺序印行笔记，从而瓦解了那本叫作《权力意志》的书——伊丽莎白·弗尔斯特-尼采身后的构造（1901；1906 年扩充），被呈为他的代表作，而尼采从未写过、也从未以那种形式规划过这样一本书。你不会去买 KSA；你需要知道它存在，因为本档案中每一条倚重笔记本材料的主张都标着*遗稿*，并据此权衡。**永不要用托马斯·康芒（Thomas Common）的译本**——过时、不可靠，是流通中一半坏尼采的来源。
 
+查阅它也不必购买：**[Nietzsche Source](http://www.nietzschesource.org/)** 与 ITEM 研究所（法国国家科学研究中心/巴黎高等师范学校）合作维护，在线免费发布科利—蒙蒂纳里批判文本（*eKGWB*）与手稿的数字摹本（*DFGA*）——这是对照实际页面核查一条笔记本引文的最快方式。
+
 ## 2. 最初的二手书，按顺序
 
 1. **沃尔特·考夫曼，《尼采：哲学家、心理学家、敌基督》（*Nietzsche: Philosopher, Psychologist, Antichrist*，1950）。**为英语世界从纳粹形象中找回尼采的书——人道、博学，是现代读法的源头。读它时把 [06-reception-and-debates.md](06-reception-and-debates.md) 的绅士化之争开在旁边：考夫曼那个较温和的尼采是一种读法，而非一个事实，而他所柔化的反平等主义严厉就在已出版的文字上。在第一遍读《谱系》之后读它（学习路径的伴侣规则），作为第 7–8 周的材料。
 2. **亚历山大·内哈马斯（Alexander Nehamas），《尼采：作为文学的人生》（*Nietzsche: Life as Literature*，1985）。**文学—哲学读法的最佳形态：视角主义、风格，以及作为被创造作品的自我。它是对考夫曼的人道主义者与莱特的自然主义者的必要制衡——第 8 周的第三种立场。
-3. **布莱恩·莱特（Brian Leiter），《尼采论道德》（*Nietzsche on Morality*，2002；第 2 版 2015）。**自然主义读法，也是进入当前学术的最佳单一路径：欲望与类型事实、一部严谨的《谱系》，以及 SEP 作者本人的研究纲领。选段是第 7 周获认可的填充；全书是本档案在结业论文之后推荐的下一步。
+3. **布莱恩·莱特（Brian Leiter），《尼采论道德》（*Nietzsche on Morality*，2002；第 2 版 2015）。**自然主义读法，也是进入当前学术的最佳单一路径：欲望与类型事实、一部严谨的《谱系》，以及莱特在他自己另一篇独立的 *SEP* 条目《尼采的道德与政治哲学》（"Nietzsche's Moral and Political Philosophy"）中继续推进的研究纲领。选段是第 7 周获认可的填充；全书是本档案在结业论文之后推荐的下一步。
 
 ## 3. 传记
 
@@ -25,11 +27,14 @@
 
 **吉尔·德勒兹（Gilles Deleuze），《尼采与哲学》（*Nietzsche and Philosophy*，1962）**——法国路线的奠基文本：力、肯定、作为选择性本体论的永恒回归。短、难，是莱特之后正确的第二个尼采。**马丁·海德格尔的《尼采》讲座（1936–40；1961 年出版）**——点名为接受史上的一个*事件*，而非任务：尼采作为西方最后的形而上学家是海德格尔的构造，日后作为其自身的哲学来研究。**卢·莎乐美（Lou Salomé），《弗里德里希·尼采及其作品》（*Friedrich Nietzsche in seinen Werken*，1894）**——第一本论尼采的书，出自 1882 年危机中心的那位女性之手；有历史兴味，读时对其亲密性保持显而易见的谨慎。**J. P. 斯特恩（J. P. Stern），《尼采》（*Friedrich Nietzsche*，Fontana 现代大师丛书，1979）**——简短、严厉，是学习路径点名的伴侣（"马吉/斯特恩"）；与第 2 周的电视谈话相配。当单一争论（永恒轮回、权力意志、永恒回归的地位）需要一卷之内的当前问题状态时，添上**肯·吉姆斯（Ken Gemes）与约翰·理查森（John Richardson）编，《牛津尼采手册》（*The Oxford Handbook of Nietzsche*，2013）**。
 
+在进入《手册》逐个争论的深度之前，如需一卷本的概览，请用**伯恩德·马格努斯（Bernd Magnus）与凯瑟琳·M. 希金斯（Kathleen M. Higgins）编，《剑桥尼采指南》（*The Cambridge Companion to Nietzsche*，1996）**：一章篇幅的论文（霍林代尔论著作，以及内哈马斯、沙赫特、皮平等人）概览每一个主要论题和每一个接受时期，面向已完成结业论文、想在专攻之前先有一张地图的读者。
+
 ## 5. 参考
 
-- **[SEP，"Nietzsche"](https://plato.stanford.edu/entries/nietzsche/)**——由布莱恩·莱特撰写；本档案所标注的每一场争论的当前学术地图。
+- **[SEP，"Nietzsche"](https://plato.stanford.edu/entries/nietzsche/)**——由 R. 拉尼尔·安德森（R. Lanier Anderson）撰写；本档案所标注的每一场争论的当前学术地图。
 - **[IEP，"Nietzsche, Friedrich"](https://iep.utm.edu/nietzsch/)**——较朴素的第一遍，按学习路径的"先 IEP"规则——附两个值得绕路的专题伙伴："Nietzsche's Ethics"（https://iep.utm.edu/nietzsches-ethics/）与论第 3 周与第 5 周背后的欲望理论的 "Nietzsche: Philosophical Psychology"（https://iep.utm.edu/nietzsche-philosophical-psychology/）。
 - **[PhilPapers](https://philpapers.org/)**——"Friedrich Nietzsche"类目及其子类目（谱系、权力意志、永恒轮回）是活的文献的工作书目；在莱特之后使用，不要在此之前。
+- **《尼采研究杂志》（The Journal of Nietzsche Studies）**（宾夕法尼亚州立大学出版社，每年三期，在佐治亚州立大学编辑；弗里德里希·尼采学会的会刊）——该领域专门的同行评审期刊；一旦 [06-reception-and-debates.md](06-reception-and-debates.md) 中的某场争论需要其当前状态，就浏览近期各期目录（通过图书馆的 JSTOR 或宾州州立大学出版社访问权限）。
 
 ## 6. 媒体（均已核实；任务在 [07-study-plan.md](07-study-plan.md) 中）
 

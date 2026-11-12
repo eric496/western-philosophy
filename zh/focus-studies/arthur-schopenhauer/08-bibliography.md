@@ -35,11 +35,13 @@
 
 ## 4. 参考工具
 
+**叔本华协会（Schopenhauer-Gesellschaft）。**该协会成立于 1911 年，设在法兰克福，推动叔本华研究，并出版年刊《叔本华年鉴》（*Schopenhauer-Jahrbuch*），即德语学界的权威期刊；它的网站（[schopenhauer.de](https://www.schopenhauer.de/)）是通往学术会议、协会本身和过刊索引的门户——当某场争论把你引向第一手学术研究时，可作参考。
+
 **[斯坦福哲学百科全书，"Arthur Schopenhauer"，罗伯特·威克斯](https://plato.stanford.edu/entries/schopenhauer/)**。本档案的上诉法院：完整的体系综述，学术争论均有标注，书目保持专业水准。按学习路径的时间规则，在你自己的重构之后（第 6 周）通读全文；在此之前，只按节读它作定向之用。
 
 **[互联网哲学百科全书，"Schopenhauer, Arthur"](https://iep.utm.edu/schopenh/)**。更平缓的入门（生平、体系、悲观主义，组织良好）——学习路径为这位人物所设的"先读 IEP"位置。IEP 还收有一篇专门文章"Arthur Schopenhauer: Logic and Dialectic"（延斯·莱曼斯基（Jens Lemanski），2023），供任何在第 1 周之后对《论充足理由律的四重根》的胃口依然未减的人。
 
-**[PhilPapers](https://philpapers.org/)**——19 世纪哲学之下的叔本华类目是发现当前期刊文献的入口（《叔本华年鉴》（*Schopenhauer Jahrbuch*）与期刊 *Schopenhauerian Studies* 承载着专门性的讨论）；当 [06-reception-and-debates.md](06-reception-and-debates.md) 中的某场争论让你想读第一手学术研究而非其概要时，用它。
+**[PhilPapers](https://philpapers.org/)**——19 世纪哲学之下的叔本华类目是发现当前期刊文献的入口（《叔本华年鉴》（*Schopenhauer-Jahrbuch*）与《意志：国际哲学杂志》（*Voluntas: International Journal of Philosophy*，创刊时名为 *Voluntas: Studies on Schopenhauer*）承载着专门性的讨论）；当 [06-reception-and-debates.md](06-reception-and-debates.md) 中的某场争论让你想读第一手学术研究而非其概要时，用它。
 
 ## 5. 媒体（所有条目在指定前均经核实）
 

@@ -28,11 +28,14 @@
 
 ***The Cambridge Companion to Plato*, ed. Richard Kraut (Cambridge University Press, 1992)。**按主题的一卷本问题现状——苏格拉底式对话、中期的形而上学与伦理学、晚期对话、柏拉图论艺术与妇女——编者也写了下面的 SEP 条目。适合你在结业论文中遇到某个争论、想知道它现行形态的时候。（单部作品的指南也存在：*The Cambridge Companion to Plato's Republic*, ed. G. R. F. Ferrari, 2007——隔壁的书架，当第 3–4 周产生安纳斯不能解决的问题时用。）
 
+**Debra Nails, *The People of Plato: A Prosopography of Plato and Other Socratics*（Hackett, 2002）。**本档案反复点名的那群人的参考书——文集中的每一位亲属、对话者与历史人物，把能有把握陈述的与仍有争议的分开，并附完整的古代出处。每当对话中或 [01-life-and-times.md](01-life-and-times.md) 中的某个名字需要定位时就翻开它；它是关于柏拉图家族谱系与苏格拉底圈子的现代权威。
+
 ## 4. 参考
 
 - **[SEP, "Plato"](https://plato.stanford.edu/entries/plato/)**——Richard Kraut（Northwestern）著；2004 年首次发表，是关于生平、对话编年与中期形而上学及伦理学的当前学术地图。按学习路径的 SEP 规则（原著之前读第 1 节与引言，其余在之后），它是本档案的第一求助对象。SEP 的卫星条目——尤其是 "Plato's *Theaetetus*" 以及柏拉图伦理学与政治哲学的条目——是第 5–6 周的深化动作。
 - **[IEP, "Plato"](https://iep.utm.edu/plato/)**——更平易的第一遍，按路径的"先 IEP"规则：生平、影响（赫拉克利特、巴门尼德、毕达哥拉斯学派、苏格拉底），以及按时期走过对话的叙述，真实性与断代争议被陈述而非被抹平。如果 SEP 的密度让你却步，它是第 1 周之前更好的第一读。
 - **[PhilPapers](https://philpapers.org/)**——"Plato" 类目及其子目是活着的文献的工作书目（仅第三人产业就跨越数十年）；在 SEP 条目之后用，不要在之前。
+- **[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)**——免费在线：希腊文全集（伯内特本），对照英译（福勒等人），全程标有斯特方页码。这些译本已经过时，所以不适合作一手阅读，但当你手头没有牛津古典文本（OCT）时，它是核对一处被引段落、或查看一个关键术语背后的希腊文的最快途径。
 - **Kenny, *A New History of Western Philosophy*（《牛津西方哲学史》）, Vol. 1**——学习路径为阶段 1 设的历史主线，全程陪伴；它的主题章节（知识、伦理学、上帝）是印刷出来的螺旋。
 
 ## 5. 媒体（均已核实；指定在 [07-study-plan.md](07-study-plan.md) 中）

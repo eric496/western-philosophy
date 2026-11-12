@@ -47,6 +47,8 @@
 
 英文朗读音频版（Helio嗓音，90%速度）存放在`focus-study-audio/friedrich-nietzsche/`之下，发布于标签`focus-audio-v1`，总时长约**2小时22分钟**，见下表链接：
 
+*（下表所列各集时长之和为 2 小时 21 分钟；总时长为向上取整的数字。）*
+
 | 集 | 文件 | 时长 |
 |---|---|---|
 | 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/friedrich-nietzsche-01-life-and-times.mp3) | 20 分钟 |
@@ -56,6 +58,8 @@
 | 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v1/friedrich-nietzsche-06-reception-and-debates.mp3) | 17 分钟 |
 
 朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——中文版中，引用编号以中文读出，如"第3部命题7""第一版第22页"，年份逐字读出，如"一七八八年"；英文版同理读出原文编号）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
+
+**录音之后文本有修订（2026年11月）。** 在这些音频录制完成之后，一次全面的准确性与深度修订改动了书面文件：引文已对照原典核查（BGE §§6、13、21、36；GS §343；GM I §7、II §17；"一支由隐喻组成的机动部队"），"强者的悲观主义"改归 1886 年《悲剧的诞生》序言，"三种变形"卡片重写，SEP 作者已更正，并新增了关于遗稿（*Nachlass*）以及哪些文本算作证据的材料。音频与文本不一致之处，以文本为准。
 
 ## 从这里开始
 
