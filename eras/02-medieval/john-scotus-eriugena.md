@@ -14,17 +14,17 @@
 - **School/tradition:** Latin Christian Neoplatonism; the outstanding thinker of the Carolingian Renaissance
 - **Known for:** The *Periphyseon*, which divides all of "nature" — God and creation together — into four species, and for bringing Greek negative (apophatic) theology into the Latin West
 
-**Responds to:** Pseudo-Dionysius and the Greek Christian Platonists he translated, who have no entry in this collection · **Answered by:** later Latin readers of his Dionysius translation, with no direct successor in this collection
+**Responds to:** [Pseudo-Dionysius](pseudo-dionysius-and-eckhart.md) and the Greek Christian Platonists he translated, who have no entry in this collection · **Answered by:** later Latin readers of his Dionysius translation, with no direct successor in this collection
 
 ## Biography
 
 Almost nothing is known of Eriugena's early life in Ireland, though his superb Greek — vanishingly rare in the ninth-century West — suggests an unusually good training. By about 845 he was at the court of the West Frankish king Charles the Bald, probably as head of the palace school, where he taught grammar and dialectic (the arts of language and argument basic to the medieval curriculum).
 
-His court career brought him into controversy early. In 851 the archbishop Hincmar of Reims commissioned him to refute the monk Gottschalk, who taught a strict doctrine of double predestination (that God predestines some people to damnation as well as some to salvation). Eriugena's treatise *On Divine Predestination* argued, using dialectical reasoning rather than appeals to authority, that evil and sin have no real being and that God, being one simple good, cannot predestine anyone to evil. The argument scandalized his contemporaries: councils at Valence (855) and Langres (859) condemned the work, and one critic sneered at it as *pultes Scotorum* — "Irish porridge."
+His court career brought him into controversy early. In 851 the archbishop Hincmar of Reims commissioned him to refute the monk Gottschalk, who taught a strict doctrine of double predestination (that God predestines some people to damnation as well as some to salvation). Eriugena's treatise *On Divine Predestination* argued, using dialectical reasoning rather than appeals to authority, that evil and sin have no real being and that God, being one simple good, cannot predestine anyone to evil. The argument scandalized his contemporaries: councils at Valence (855) and Langres (859) condemned the work, and the conciliar denunciations sneered at it as *pultes Scotorum* — "Irish porridge."
 
 Eriugena's lasting importance rests on his second role at court: translator. Charles commissioned him to translate the works of Pseudo-Dionysius the Areopagite, a mysterious late-antique author (writing around 500, under the borrowed name of St Paul's Athenian convert) whose writings on the divine names, the celestial hierarchy, and the ascent beyond affirmations into darkness became fundamental to Western mysticism. Eriugena's Latin version (c. 860–862) replaced an earlier, nearly unreadable one, and he went on to translate Maximus the Confessor and Gregory of Nyssa as well — importing a whole tradition of Greek Christian Platonism into Latin thought.
 
-His masterpiece, the *Periphyseon* ("On Nature," also known by its Latin title *De Divisione Naturae*, "On the Division of Nature"), was written c. 862–866 as a dialogue between a teacher and a pupil. Eriugena disappears from the record after Charles's death in 877. Transmission was troubled: the *Periphyseon* was formally condemned in 1225, when Pope Honorius III ordered copies burned because the heretical Amalricians had drawn pantheist-sounding conclusions from it. Enough manuscripts survived — often anonymously — for it to be recognized today as the most ambitious philosophical system between Augustine and Aquinas.
+His masterpiece, the *Periphyseon* ("On Nature," also known by its Latin title *De Divisione Naturae*, "On the Division of Nature"), was written c. 862–867 as a dialogue between a teacher and a pupil. Eriugena disappears from the record after Charles's death in 877. Transmission was troubled: the *Periphyseon* was formally condemned in 1225, when Pope Honorius III ordered copies burned because the heretical Amalricians had drawn pantheist-sounding conclusions from it. Enough manuscripts survived — often anonymously — for it to be recognized today as the most ambitious philosophical system between Augustine and Aquinas.
 
 ## Major theories and concepts
 
@@ -47,7 +47,7 @@ Following Pseudo-Dionysius, Eriugena holds that God cannot be described by any a
 
 ### Theophanies and the primordial causes
 
-How, then, does an unknowable God create or reveal anything? Eriugena's answer is the doctrine of *theophanies* — divine appearances or manifestations. Everything that exists is, in some measure, a theophany: a showing-forth of the hidden God in a form proportioned to the minds that receive it. The primordial causes are the highest theophanies, formed in the Word; from them proceed the genera and species of the visible world. Creation is thus not an event that happened once, externally, but God's continuous self-manifestation: "God becomes all in all things," as Eriugena repeatedly puts it, while remaining in himself utterly beyond them.
+How, then, does an unknowable God create or reveal anything? Eriugena's answer is the doctrine of *theophanies* — divine appearances or manifestations. Everything that exists is, in some measure, a theophany: a showing-forth of the hidden God in a form proportioned to the minds that receive it. The primordial causes are the highest theophanies, formed in the Word; from them proceed the genera and species of the visible world. Creation is thus not an event that happened once, externally, but God's continuous self-manifestation: "God is all in all," as Eriugena repeatedly puts it, while remaining in himself utterly beyond them.
 
 ### The return and universal restoration
 
@@ -57,7 +57,7 @@ The cosmic procession is mirrored by a universal return, worked out in Book V. A
 
 - **On Divine Predestination** (*De divina praedestinatione*, 851) — the condemned early treatise arguing that God cannot predestine evil, since evil is nothing; a manifesto for the authority of dialectic.
 - **Translations of Pseudo-Dionysius** (c. 860–862) — the *Celestial Hierarchy*, *Ecclesiastical Hierarchy*, *Divine Names*, and *Mystical Theology*, with Eriugena's own commentary; the channel through which Dionysian mysticism reached the Latin Middle Ages. Followed by translations of Maximus the Confessor's *Ambigua* and Gregory of Nyssa's *On the Making of Man*.
-- **Periphyseon (On the Division of Nature)** (c. 862–866) — the masterwork in five books: the fourfold division, the primordial causes, the creation of the world and humanity, and the universal return. One of the most original speculative systems of the early Middle Ages.
+- **Periphyseon (On the Division of Nature)** (c. 862–867) — the masterwork in five books: the fourfold division, the primordial causes, the creation of the world and humanity, and the universal return. One of the most original speculative systems of the early Middle Ages.
 
 ## Contributions
 
@@ -65,7 +65,7 @@ Eriugena single-handedly changed what Latin philosophy had to work with. His Dio
 
 ## Impact and legacy
 
-The influence ran underground but wide. Eriugena's Dionysius was the standard text commented on by Hugh of St Victor, and Aquinas cites Dionysius constantly — though Aquinas worked mainly from John Sarracen's clearer revision of the translation (c. 1167). Honorius Augustodunensis's epitome, the *Clavis Physicae*, carried his cosmology into the twelfth century, and echoes appear in later medieval Neoplatonism and the Rhineland mystics. The 1225 condemnation reflects how live a threat — or resource — his ideas remained. He is now recognized as the greatest philosopher of the Carolingian age and a key bridge between late-antique Platonism and the high Middle Ages.
+The influence ran underground but wide. Eriugena's Dionysius was the standard text commented on by Hugh of St Victor and read by Aquinas, who cites Dionysius constantly. Honorius Augustodunensis's epitome, the *Clavis Physicae*, carried his cosmology into the twelfth century, and echoes appear in later medieval Neoplatonism and the Rhineland mystics. The 1225 condemnation reflects how live a threat — or resource — his ideas remained. He is now recognized as the greatest philosopher of the Carolingian age and a key bridge between late-antique Platonism and the high Middle Ages.
 
 ## Criticisms and debates
 

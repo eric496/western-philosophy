@@ -4,9 +4,9 @@
 
 *时代：20世纪至今（1900—）· [时代概览](README.md) · [总索引](../../index.md)*
 
-![苏珊·朗格像](https://upload.wikimedia.org/wikipedia/en/2/2c/Susanne_Langer_1945.jpg)
+![苏珊·朗格像](https://upload.wikimedia.org/wikipedia/commons/f/fe/Susanne_Langer_1925.jpg)
 
-*苏珊·朗格的照片，1945年。图片来自维基百科（Wikipedia）。*
+*图片来自维基共享资源。*
 
 ## 概览
 

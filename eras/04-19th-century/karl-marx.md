@@ -30,7 +30,7 @@ He published the first volume of *Capital* in 1867 and never finished the rest. 
 
 ### Historical materialism
 
-Marx's theory of history, stated most crisply in the 1859 Preface to *A Contribution to the Critique of Political Economy*, holds that the way a society organizes production — its *forces of production* (tools, skills, technology) together with its *relations of production* (who owns the means of production, who must work for whom) — fundamentally shapes its law, politics, religion, and dominant ideas. The economic "base" conditions the legal-political-intellectual "superstructure." Epochs change when developing forces of production come into conflict with existing relations: the relations become fetters, and a period of social revolution begins. Within this frame, "the history of all hitherto existing society is the history of class struggles," as the *Manifesto* opens.
+Marx's theory of history, stated most crisply in the 1859 Preface to *A Contribution to the Critique of Political Economy*, holds that the way a society organizes production — its *forces of production* (tools, skills, technology) together with its *relations of production* (who owns the means of production, who must work for whom) — fundamentally shapes its law, politics, religion, and dominant ideas. The economic "base" conditions the legal-political-intellectual "superstructure." Epochs change when developing forces of production come into conflict with existing relations: the relations become fetters, and a period of social revolution begins. Within this frame, "the history of all hitherto existing society is the history of class struggles," as the first chapter of the *Manifesto* begins.
 
 This is not the claim that every poem or law is mechanically caused by the economy — Engels himself later qualified such crude readings — but its exact strength is disputed: whether "determines" means *causes*, *limits and conditions*, or *explains in the last instance* is a central scholarly argument (see Criticisms).
 
@@ -48,7 +48,7 @@ The first chapter of *Capital* argues that under capitalism, social relations be
 
 ### Praxis and the Theses on Feuerbach
 
-In the *Theses on Feuerbach* (1845, published by Engels in 1888), Marx breaks with both idealism and contemplative materialism: truth is a practical question, and human beings make themselves by transforming their world. The eleventh thesis became the movement's motto: "The philosophers have only *interpreted* the world, in various ways; the point is to *change* it."
+In the *Theses on Feuerbach* (1845, published by Engels in 1888), Marx breaks with both idealism and contemplative materialism: truth is a practical question, and human beings make themselves by transforming their world. The eleventh thesis became the movement's motto: "The philosophers have only *interpreted* the world, in various ways; the point, however, is to *change* it."
 
 ## Signature arguments
 
@@ -80,7 +80,7 @@ Therefore, that difference — surplus value — is appropriated by the capitali
 
 - *Economic and Philosophic Manuscripts of 1844* (written 1844; published 1932) — The alienation analysis; the key text for the "young Marx."
 - *The German Ideology* (with Engels, 1845–46; unpublished in their lifetimes) — The first statement of the materialist conception of history, wrapped around hundreds of pages of polemic against rivals like Stirner.
-- *Manifesto of the Communist Party* (with Engels, 1848) — The famous pamphlet: brilliant, rhetorical, and programmatic; the [SEP](https://plato.stanford.edu/) warns it is "not the best guide to his thought" taken alone.
+- *Manifesto of the Communist Party* (with Engels, 1848) — The famous pamphlet: brilliant, rhetorical, and programmatic; read alone, it is not the best guide to his thought (see the [SEP entry](https://plato.stanford.edu/entries/marx/) for the fuller picture).
 - *The Eighteenth Brumaire of Louis Bonaparte* (1852) — Marx as concrete political analyst: Louis-Napoléon's coup explained through class fractions and their illusions, and the source of the line that history repeats itself, "the first time as tragedy, the second time as farce." Routinely counted among his finest works.
 - *A Contribution to the Critique of Political Economy* (1859) — Contains the Preface stating historical materialism in canonical form.
 - *Capital, Vol. 1* (1867) — The masterwork: commodity, value, surplus value, accumulation. Vols. 2–3 were edited by Engels from drafts (1885, 1894).
@@ -115,7 +115,7 @@ Other standing objections: the labor theory of value faces the "transformation p
 
 ## Study questions
 
-1. Reconstruct the alienation argument: name its four dimensions and show how each follows from private property and wage labor itself, not merely from a cruel employer or a boring job.
+1. Reconstruct the alienation argument: name its four dimensions and show how each arises from the structure of wage labor itself, not merely from a cruel employer or a boring job (and note Marx's claim that private property is the consequence of alienated labor, not its cause).
 2. Reconstruct commodity fetishism from *Capital*, chapter 1: why does value appear as a natural property of things, like weight, and what social relations among producers does that appearance conceal?
 3. Give one serious objection to each account: for alienation, that it depends on an essentialist species-being the later Marx may have abandoned; for fetishism, that prices need no hidden labor-essence to explain them. State Marx's best reply in each case.
 4. State precisely what Marx takes from Hegel's master–slave dialectic and what he inverts: how does self-formation through labor become, in Marx, production under definite relations of ownership and class?

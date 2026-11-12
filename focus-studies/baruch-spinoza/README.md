@@ -43,6 +43,8 @@ This dossier's five content files are also a narrated audio edition (Helio voice
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally — "part one, proposition fourteen," not "E1P14"). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
 
+**Text revised after recording (November 2026).** A full accuracy-and-depth revision changed the written files after these episodes were rendered: the deathbed account per Colerus, "determination is negation" and Hegel's expansion, the *Ethics*' axioms and postulates by part, *TTP* and *Political Treatise* quotations checked against Elwes, the Kant–Jacobi relation, the three readings of the mind's eternity, and new material (Spinoza's fourth-proportional example of the three kinds of knowledge, "free necessity," Uriel da Costa, the Burgh letter, Israel's 2023 biography). Where the audio and the text differ, the text is authoritative.
+
 ## Start here
 
 - The quick portrait: the library entry, [Baruch Spinoza](../../eras/03-early-modern/baruch-spinoza.md).

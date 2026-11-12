@@ -20,11 +20,11 @@
 
 Karl Raimund Popper was born in Vienna in 1902 to a middle-class family of Jewish origin that had converted to Lutheranism. Interwar Vienna was intellectually intense and politically unstable, and the young Popper moved through several of its worlds. He briefly joined socialist and communist circles, then broke with Marxism after a 1919 incident in which workers were shot during a demonstration he had supported. He later said it taught him the danger of theories that excuse any outcome in advance.
 
-At the University of Vienna he studied mathematics, physics, history, and philosophy, earning a doctorate in psychology in 1928, and worked as a schoolteacher while writing. He was close to, but never a member of, the Vienna Circle: they shared an interest in science and clarity; he disagreed with them about meaning and about induction.
+At the University of Vienna he studied mathematics, physics, history, and philosophy, earning a doctorate in philosophy in 1928 with a dissertation on method in the psychology of thinking, and worked as a schoolteacher while writing. He was close to, but never a member of, the Vienna Circle: they shared an interest in science and clarity; he disagreed with them about meaning and about induction.
 
 His first major book, *Logik der Forschung* (1934, with a 1935 imprint in some listings), appeared as Austria slid toward authoritarian rule. In 1937 he emigrated to Christchurch, New Zealand, where he taught at Canterbury University College and, isolated during the Second World War, wrote *The Open Society and Its Enemies* (1945) — partly a war effort by other means, an attack on the intellectual roots of totalitarianism.
 
-In 1946 he moved to the London School of Economics, becoming professor of logic and scientific method. Knighted in 1965, he retired in 1969 but continued writing until his death in London in 1994. Students such as Imre Lakatos and Paul Feyerabend began as followers and became his sharpest critics — which Popper, in principle, could present as his method working as intended.
+In 1946 he moved to the London School of Economics, and in 1949 he became professor of logic and scientific method in the University of London. Knighted in 1965, he retired in 1969 but continued writing until his death in London in 1994. Students such as Imre Lakatos and Paul Feyerabend began as followers and became his sharpest critics — which Popper, in principle, could present as his method working as intended.
 
 ## Major theories and concepts
 

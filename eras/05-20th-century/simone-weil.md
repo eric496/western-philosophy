@@ -28,7 +28,7 @@ After the German occupation she escaped with her parents to New York in 1942, th
 
 ### Attention
 
-Attention is Weil's master concept. It is not muscular effort or concentration by will, but a receptive, self-emptying waiting: suspending one's own thoughts and desires so that reality — or another person — can appear as it is. In her essay on school studies, the true purpose of study is training this attention, which is also the substance of both prayer and love of neighbor: attention, she wrote, is "the rarest and purest form of generosity." To attend to someone afflicted is to ask, "What are you going through?" — and to consent to hear the answer. Iris Murdoch later took the concept into moral philosophy.
+Attention is Weil's master concept. It is not muscular effort or concentration by will, but a receptive, self-emptying waiting: suspending one's own thoughts and desires so that reality — or another person — can appear as it is. In her essay on school studies, the true purpose of study is training this attention, which is also the substance of both prayer and love of neighbor. In a 1942 letter to the poet Joë Bousquet she wrote that attention is "the rarest and purest form of generosity." To attend to someone afflicted is to ask, "What are you going through?" — and to consent to hear the answer. Iris Murdoch later took the concept into moral philosophy.
 
 ### Affliction (*malheur*)
 
@@ -64,7 +64,7 @@ Albert Camus, who edited her works for Gallimard, called her "the only great spi
 
 ## Criticisms and debates
 
-- **Her death and self-starvation:** whether her refusal of food was political solidarity, ascetic theology, an eating disorder, or some entanglement of these remains genuinely contested among biographers; the coroner's verdict (suicide "while the balance of her mind was disturbed") settles nothing interpretively.
+- **Her death and self-starvation:** whether her refusal of food was political solidarity, ascetic theology, an eating disorder, or some entanglement of these remains genuinely contested among biographers; the coroner's verdict (that she "did kill and slay herself by refusing to eat whilst the balance of her mind was disturbed") settles nothing interpretively.
 - **Judaism and Christianity:** her harsh writings on ancient Israel and Judaism, alongside her refusal of baptism, make her relation to her own Jewishness one of the most debated areas in Weil scholarship.
 - **Practicality:** critics charge that decreation and attention offer no workable politics; defenders answer that *The Need for Roots* is nothing but practical — the debate turns on what philosophy is for.
 - **The corpus problem:** because the famous books are posthumous constructions from notebooks, scholars debate how far "Weil's system" is an artefact of her editors.

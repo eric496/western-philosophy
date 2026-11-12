@@ -42,6 +42,9 @@ This dossier's five content files are also a narrated audio edition (Helio voice
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v2/immanuel-kant-06-reception-and-debates.mp3) | 22 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally — "A 51, B 75" and "Akademie volume 4, page 421," not raw citation strings). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
+
+**Text revised after recording (November 2026).** A full accuracy-and-depth revision changed the written files after these episodes were rendered: corrected Akademie and A/B pinpoints (B137, 8:386, 5:3, the Groundwork formulas at 4:421), the *Opus postumum*'s editors, the Hatfield and Wood–di Giovanni editions, and new material (the analytic/synthetic and a priori/a posteriori distinctions, the four Groundwork examples, genius and aesthetic ideas, the First Antinomy worked through). Where the audio and the text differ, the text is authoritative.
+
 ## Start here
 
 - The quick portrait: the library entry, [Immanuel Kant](../../eras/03-early-modern/immanuel-kant.md).

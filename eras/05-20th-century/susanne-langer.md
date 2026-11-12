@@ -3,9 +3,9 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Susanne Langer](https://upload.wikimedia.org/wikipedia/en/2/2c/Susanne_Langer_1945.jpg)
+![Portrait of Susanne Langer](https://upload.wikimedia.org/wikipedia/commons/f/fe/Susanne_Langer_1925.jpg)
 
-*Photograph of Susanne Langer, 1945. Image via Wikipedia.*
+*Photograph of Susanne Langer, 1925. CC BY-SA 4.0, via Wikimedia Commons.*
 
 ## At a glance
 
@@ -20,7 +20,7 @@
 
 Susanne Katherina Langer (née Knauth) was born in New York City in 1895 to German immigrant parents, and grew up in a household steeped in music — she played cello and piano seriously all her life, a fact her philosophy of art never lets you forget. She studied at Radcliffe College (then the women's coordinate of Harvard), taking her bachelor's degree in 1920 and her doctorate in 1926, and at Harvard she fell under the influence of Alfred North Whitehead, whose lectures and whose *Symbolism: Its Meaning and Effect* (1927) shaped her life's project; she would later dedicate *Philosophy in a New Key* to him as her "great Teacher and Friend". Her 1942 *Philosophy in a New Key* — written, unusually for a treatise, with a storyteller's fluency — became one of the best-selling philosophy books of its century and made her reputation in her late forties.
 
-Teaching posts were scarce for women of her generation, and her career was correspondingly patchwork: tutoring and lecturing at Radcliffe, a period at the University of Delaware, visiting posts including Columbia and Northwestern, and finally a professorship at Connecticut College from 1954 to 1962. Thereafter, supported by a research grant, she worked independently at Old Lyme, Connecticut, on her three-volume magnum opus, *Mind: An Essay on Human Feeling* (1967–82), completed in her late eighties. She died in Old Lyme in 1985.
+Teaching posts were scarce for women of her generation, and her career was correspondingly patchwork: tutoring and lecturing at Radcliffe, a period at the University of Delaware, visiting posts including Columbia and Northwestern, and finally a professorship at Connecticut College from 1954 to 1962. Thereafter, supported by a Kaufmann Charitable Trust grant (held 1956–1981, which had already lightened her teaching), she worked independently at Old Lyme, Connecticut, on her three-volume magnum opus, *Mind: An Essay on Human Feeling* (1967–82), completed in her late eighties. She died in Old Lyme in 1985.
 
 ## Major theories and concepts
 
@@ -32,7 +32,7 @@ Behind the distinction sits a prior one, between **signs** and **symbols**. A si
 
 ### Art as the form of feeling
 
-*Feeling and Form* (1953), subtitled "A Theory of Art Developed from Philosophy in a New Key", applies the distinction. A work of art is a presentational symbol of human feeling — not a report of the artist's emotions, and not a stimulus designed to produce feelings in the audience, but an *image* of feeling's forms: its patterns of growth and decay, tension and release, conflict and resolution, which music, painting, dance and literature each articulate in their medium's own way. Hence her famous claim that music is "the tonal analogue of emotive life". Art's importance is epistemic: it gives us knowledge by acquaintance of the inner life's morphology, the kind of knowledge discursive psychology names but cannot show. Each art creates its own primary illusion — music creates virtual time, painting virtual space, dance virtual power — and the history of each art is the exploration of its semblance.
+*Feeling and Form* (1953), subtitled "A Theory of Art Developed from Philosophy in a New Key", applies the distinction. A work of art is a presentational symbol of human feeling — not a report of the artist's emotions, and not a stimulus designed to produce feelings in the audience, but an *image* of feeling's forms: its patterns of growth and decay, tension and release, conflict and resolution, which music, painting, dance and literature each articulate in their medium's own way. Hence her famous claim that music is "a tonal analogue of emotive life" (*Feeling and Form*, p. 27). Art's importance is epistemic: it gives us knowledge by acquaintance of the inner life's morphology, the kind of knowledge discursive psychology names but cannot show. Each art creates its own primary illusion — music creates virtual time, painting virtual space, dance virtual power — and the history of each art is the exploration of its semblance.
 
 ### Mind as feeling
 
@@ -63,7 +63,7 @@ Critics pressed the central distinction from the start: is "presentational symbo
 
 - Langer did not say art "expresses the artist's feelings". Artworks, for her, present the *forms* of feeling impersonally; the artist's biography is beside the point.
 - Presentational does not mean ineffable or mystical. Her whole claim is that presentational symbols are articulate and structured — just not translatable into discourse without loss.
-- She was not a logical positivist fellow-traveler. She took their question (what is meaning?) and answered it against them, widening meaning beyond the proposition.
+- Her mature theory was not logical positivism. Though her early logical work helped bring Vienna Circle ideas to America, she took their question (what is meaning?) and answered it against them, widening meaning beyond the proposition.
 - The eclipse was not a refutation. Her books went out of fashion faster than they were answered, which is why the current revival reads her as unfinished business rather than a closed case.
 
 ## What to read first

@@ -10,19 +10,21 @@
 ## At a glance
 
 - **Dates:** 354 – 430 CE
-- **Place:** Born in Thagaste (Numidia, modern Algeria); educated at Thagaste, Madaurus, and Carthage; taught rhetoric in Milan; bishop of Hippo Regius from 396 until his death.
+- **Place:** Born in Thagaste (Numidia, modern Algeria); educated at Thagaste, Madaurus, and Carthage; taught rhetoric in Milan; bishop of Hippo Regius from 395 or 396 until his death.
 - **School/tradition:** Latin Christian, writing in the Roman North African church as the Western Empire collapsed around him.
 - **Known for:** Original sin and grace, the divided will, the two cities, and a philosophy of time and memory that still anchors modern discussions.
 
 **Responds to:** [Plato](../01-ancient/plato.md), [Plotinus](../01-ancient/plotinus.md) · **Answered by:** [Anselm](anselm-of-canterbury.md), [Thomas Aquinas](thomas-aquinas.md)
 
+**Focus study:** [Augustine dossier](../../focus-studies/augustine-of-hippo/README.md) — a full deep dive beyond this entry: the *Confessions* through Book XI, the treatises on free will, the mind and grace, and *City of God* in a seven-week reading order; fourteen argument reconstructions from the restless heart to just war; the reception from the Council of Orange to Arendt and Wittgenstein; a card deck.
+
 ## Biography
 
 Augustine was born in 354 in Thagaste, a small town in Roman North Africa, to a pagan father (Patricius, who converted late) and a devout Christian mother, Monica, whose persistence runs through his story. He was a brilliant, ambitious student who disliked the beatings of the local school and loved Latin literature — Virgil above all. Sent to Carthage at seventeen to study rhetoric, the standard passport to a career, he took a concubine (a long-term partner he could not legally marry because of class), fathered a son, Adeodatus, and fell in with the Manichaeans, a dualist sect that promised rational answers about evil: the world, they said, is a battleground between a good God of light and an evil power of darkness, so God is not responsible for evil and neither, quite, are we. Augustine stayed a Manichaean "hearer" for about nine years.
 
-The sect's intellectual promises crumbled. Astronomy's predictions outclassed Manichaean cosmology; the famous Manichaean bishop Faustus, when he finally arrived, proved eloquent but shallow. Augustine crossed to Italy, taught rhetoric in Rome, and in 384 won the prestigious municipal chair of rhetoric in Milan — effectively the imperial court's official speechwriter. There he heard Bishop Ambrose preach, and Ambrose's allegorical reading of Scripture removed his intellectual blockage: the Bible was not the crude text he had assumed. Simultaneously, friends introduced him to "the books of the Platonists" — Plotinus and Porphyry in Latin translation — which gave him a non-materialist picture of God and the soul, and a way to think of evil not as a substance but as a turning away. What the Platonists could not give him was humility and a healed will: he knew the good and could not do it. His conversion, narrated in Book 8 of the *Confessions* through the famous garden scene ("take up and read," *tolle lege*), joined intellect to will through grace. He was baptized by Ambrose at Easter 387, alongside Adeodatus.
+The sect's intellectual promises crumbled. Astronomy's predictions outclassed Manichaean cosmology; the famous Manichaean bishop Faustus, when he finally arrived, proved eloquent but shallow. Augustine crossed to Italy, taught rhetoric in Rome, and in 384 won the prestigious municipal chair of rhetoric in Milan — effectively the imperial court's official speechwriter. There he heard Bishop Ambrose preach, and Ambrose's allegorical reading of Scripture removed his intellectual blockage: the Bible was not the crude text he had assumed. Simultaneously, an acquaintance gave him "the books of the Platonists" — Plotinus and [Porphyry](../01-ancient/late-neoplatonists.md) in Latin translation — which gave him a non-materialist picture of God and the soul, and a way to think of evil not as a substance but as a turning away. What the Platonists could not give him was humility and a healed will: he knew the good and could not do it. His conversion, narrated in Book 8 of the *Confessions* through the famous garden scene ("take up and read," *tolle lege*), joined intellect to will through grace. He was baptized by Ambrose at Easter 387, alongside Adeodatus.
 
-Monica died on the journey home; Adeodatus died soon after. Augustine returned to Thagaste, sold his property, and formed a small monastic community. In 391, visiting Hippo, he was famously seized by the congregation and ordained a priest against his plans; in 396 he became bishop of Hippo, a post he held for 34 years of preaching, judging disputes, administering charity, and writing at astonishing volume — sermons, letters, biblical commentaries, and the great controversial works against the Donatists (a North African schismatic church), the Manichaeans, and finally Pelagius, a British monk who taught that humans can choose the good by unaided free will — a claim Augustine came to see as destroying the need for grace. His last years were shadowed by the Vandal invasion of North Africa; he died in 430 with Hippo under siege, the penitential psalms posted on his wall. His library and writings were preserved and shipped out, which is why we have so much of him: about five million words survive.
+Monica died on the journey home; Adeodatus died soon after. Augustine returned to Thagaste, sold his property, and formed a small monastic community. In 391, visiting Hippo, he was famously seized by the congregation and ordained a priest against his plans; in 395 or 396 (the date is disputed) he became bishop of Hippo, a post he held for some 34 years of preaching, judging disputes, administering charity, and writing at astonishing volume — sermons, letters, biblical commentaries, and the great controversial works against the Donatists (a North African schismatic church), the Manichaeans, and finally Pelagius, a British monk who taught that humans can choose the good by unaided free will — a claim Augustine came to see as destroying the need for grace. His last years were shadowed by the Vandal invasion of North Africa; he died in 430 with Hippo under siege, the penitential psalms posted on his wall. His library and writings were preserved (Possidius says the library survived the siege; how the books later reached Italy is conjecture), which is why we have so much of him: about five million words survive.
 
 ## Major theories and concepts
 
@@ -32,7 +34,7 @@ If God made everything and everything God made is good, where does evil come fro
 
 ### Original sin, grace, and the divided will
 
-Augustine's mature doctrine: Adam's Fall damaged human nature itself, and the damage is inherited — every person is born with a will biased toward disordered loves, a condition he called *concupiscence*. The *Confessions* dramatize this in his own story: he famously prayed "give me chastity and continence, but not yet," and describes a will split against itself, able to command his body but not his own wanting. After the Fall, free will (*liberum arbitrium*) remains — we choose what we do — but it is not *free* in the deeper sense (*libertas*): without grace, we reliably choose lesser goods and cannot heal ourselves. Salvation therefore depends on God's grace operating before and within our choices (the anti-Pelagian writings push this toward predestination: God elects whom he will save). Virtue, positively stated, is *rightly ordered love* (*caritas*): loving God supremely, other things in proportion. The two great drives, ordered love and disordered love, generate the two cities. Internal tensions are real and were debated immediately: how is inherited guilt just? How do grace and responsibility cohere? The Western church spent a millennium arguing inside Augustine's framework.
+Augustine's mature doctrine: Adam's Fall damaged human nature itself, and the damage is inherited — every person is born with a will biased toward disordered loves, a condition he called *concupiscence*. The *Confessions* dramatize this in his own story: he famously prayed "Give me chastity and continency, only not yet" (*Confessions* VIII.7, trans. Pusey), and describes a will split against itself, able to command his body but not his own wanting. After the Fall, free will (*liberum arbitrium*) remains — we choose what we do — but it is not *free* in the deeper sense (*libertas*): without grace, we reliably choose lesser goods and cannot heal ourselves. Salvation therefore depends on God's grace operating before and within our choices (the anti-Pelagian writings push this toward predestination: God elects whom he will save). Virtue, positively stated, is *rightly ordered love* (*caritas*): loving God supremely, other things in proportion. The two great drives, ordered love and disordered love, generate the two cities. Internal tensions are real and were debated immediately: how is inherited guilt just? How do grace and responsibility cohere? The Western church spent a millennium arguing inside Augustine's framework.
 
 ### The two cities
 
@@ -44,19 +46,46 @@ Book 11 of the *Confessions* asks: what is time? The past no longer exists, the 
 
 ### Inner teacher and illumination
 
-In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* also contains an argument from self-awareness, later given its famous form in *City of God* XI.26: "if I am deceived, I exist" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
+In epistemology Augustine held that the mind judges sensible things by standards (of truth, number, beauty) it did not derive from the senses; truth is "above" the mind, and Christ as inner teacher illuminates the mind so it can see intelligible truth — a Christianised version of Platonic recollection. His early dialogue *On Free Choice of the Will* (II.3) already argues from self-awareness that one who can be deceived must exist, and *City of God* XI.26 gives it its famous form: "if I am deceived, I am" (*si fallor, sum*) — a striking anticipation of Descartes' *cogito*, deployed against skepticism a millennium earlier.
+
+## Signature arguments
+
+**Evil as privation (*Confessions* VII.12–16; *City of God* XII.6–7)**
+
+1. God, who is supremely good, made everything that exists, and everything he made is good; so every nature, insofar as it exists, is good.
+2. If evil were a substance, it would be either made by God, contradicting his goodness, or a rival first principle, as the Manichaeans held, contradicting his supremacy.
+3. So evil is not a substance but a *privation*: a lack, corruption, or disorder in something itself good, as blindness is the absence of sight in an eye that should see.
+4. An evil will has no efficient cause; it is a *deficient* movement, the will's own turning from higher goods to lower ones.
+Therefore, God authors no evil, and evil arises from creatures' disordered love; both God's goodness and creaturely responsibility are preserved.
+
+**Objection.** The privation account redescribes evil rather than explaining it. Critics such as G. Stanley Kane (1980) and Todd Calder (2007) argue that pain is a distinct experience that is positively bad, not merely the lack of pleasure, and that a sadist is not just short of kindness but positively delights in suffering. Those look like qualities evil things have, not qualities they lack.
+
+**Reply.** Augustine can grant that evil feels positive while insisting that what is positive in it belongs to the good nature being misused: the pleasure, energy, and cleverness of a cruel act are real goods, and the evil lies in their disordered arrangement, goods loved in the wrong order and to the wrong degree. The account's work is metaphysical: it explains how evil can exist in a world made wholly good without a second creator. Whether it fully answers the felt positivity of cruelty and pain remains a live debate.
+
+**Time as a distension of the soul (*Confessions* XI.14–28)**
+
+1. The past no longer exists and the future does not yet exist.
+2. The present has no duration: any stretch of it divides into a part already past and a part still to come, and if the present simply stayed, it would be eternity, not time.
+3. Yet we measure time: we judge one syllable, song, or life longer than another.
+4. What we measure must be present, so it can only be present in the mind: memory (the present of past things), attention (the present of present things), and expectation (the present of future things) (XI.20).
+5. Reciting a psalm shows the mechanism: expectation of the whole drains through attention into memory, and what we measure is the impression left in the mind (XI.27–28).
+Therefore, time is a *distentio animi*, a distension of the soul across memory, attention, and expectation, while God, who is eternal, sees all times in an unchanging present.
+
+**Objection.** Wittgenstein, taking up Augustine's question of what time is in the *Blue Book* and *Philosophical Investigations* §89, argued that the puzzle is conceptual: it arises from picturing the measurement of time on the model of measuring a length laid out before us, and should be dissolved by attending to how we use the word, not solved by locating time in the soul.
+
+**Reply.** Augustine's claim is about what measurement measures, not a denial that events happen in sequence outside the mind, and his account of memory, attention, and expectation describes how duration is actually experienced, which is why phenomenologists of time-consciousness took it as a starting point. Whether the puzzle is genuine metaphysics or a confusion of grammar, and whether time requires a mind at all, remain open.
 
 ## Key works
 
 - **Confessions** (c. 397–400) — spiritual autobiography through Book 9; Books 10–11 pivot to memory and time. The philosophical core of the Western autobiographical tradition.
 - **City of God** (413–426) — 22 books: refutation of pagan charges, then the two-cities philosophy of history. Read selectively.
 - **On the Trinity** (c. 399–419) — his most speculative work; psychological analogies of the Trinity (memory, understanding, will) shape later Western theology.
-- **On Free Choice of the Will** (begun c. 388, completed c. 395) — early dialogue on evil and free will; contains an early form of the *si fallor, sum* argument (the phrase itself is in *City of God* XI.26).
+- **On Free Choice of the Will** (begun c. 388, completed c. 395) — early dialogue on evil and free will; contains an early form (II.3) of the argument later stated as *si fallor, sum* in *City of God* XI.26.
 - **Anti-Pelagian writings** (c. 412–430) — *On Nature and Grace*, *On Grace and Free Will*, *On the Predestination of the Saints*: the hard edge of the grace doctrine.
 
 ## In their own words
 
-> Great art Thou, O Lord, and greatly to be praised; great is Thy power, and Thy wisdom infinite. Thee would man praise; man, but a particle of Thy creation; man, that bears about him his mortality, the witness of his sin, the witness that Thou resistest the proud: yet would man praise Thee; he, but a particle of Thy creation. Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.
+> Great art Thou, O Lord, and greatly to be praised; great is Thy power, and Thy wisdom infinite. And Thee would man praise; man, but a particle of Thy creation; man, that bears about him his mortality, the witness of his sin, the witness that Thou resistest the proud: yet would man praise Thee; he, but a particle of Thy creation. Thou awakest us to delight in Thy praise; for Thou madest us for Thyself, and our heart is restless, until it repose in Thee.
 
 — Augustine, *Confessions* I.1, trans. E. B. Pusey (1838; public domain)
 
@@ -79,14 +108,14 @@ Pelagius contested the grace doctrine in Augustine's own lifetime, charging that
 - That Augustine was a world-denying pessimist: he affirmed creation's goodness against the Manichaeans; disordered love, not the world, is the problem.
 - That the *Confessions* is mere memoir: Books 10–13 are technical philosophy (memory, time, creation) and the whole work is a theological argument in narrative form.
 - That "original sin" means he thought babies are monsters: the doctrine concerns a wounded condition of the will, though its implications for unbaptised infants troubled even him.
-- That he despised reason: he held that faith and understanding interpenetrate ("believe so that you may understand"), and his works are intensely argumentative.
+- That he despised reason: he held that faith and understanding interpenetrate ("believe that you may understand," *Tractates on John* 29.6), and his works are intensely argumentative.
 
 ## What to read first
 
-1. *Confessions* Books 1, 7, 8 (formation, Platonism, conversion) in a modern translation (Chadwick).
+1. *Confessions* Books 1, 7, 8 (formation, Platonism, conversion) in a modern translation (Boulding or Sheed, as the learning path rules; Chadwick is a good alternative).
 2. *Confessions* Books 10–11 (memory; time) — the philosophical summit.
 3. *City of God*, selected books (XI–XIV on the two cities' origins; XIX on peace) in an abridged edition.
-4. The [SEP](https://plato.stanford.edu/) entry "Saint Augustine" for orientation on the controversies.
+4. The [SEP](https://plato.stanford.edu/) entry "Augustine of Hippo" (Christian Tornau, 2019, replacing Mendelson's "Saint Augustine") for orientation on the controversies.
 
 **Study guide:** [*Confessions* Books I–VIII and XI — book-by-book guide with argument reconstructions, checkpoint questions and answers, and common misreadings](../../study/augustine-confessions.md).
 

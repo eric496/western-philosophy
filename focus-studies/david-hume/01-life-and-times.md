@@ -1,89 +1,163 @@
-# Life and Times: Ninewells, the *Treatise*, and "le bon David"
-**English** | [简体中文](../../zh/focus-studies/david-hume/01-life-and-times.md)
+# Life and Times: Ninewells, La Flèche, the Advocates' Library, Paris, and St Andrew Square
 
-Hume's biography is unusually well documented for an eighteenth-century philosopher, and unusually dependent on his own telling of it. The spine is *My Own Life*, the short autobiography he wrote in April 1776, a few months before his death, and published posthumously in 1777: brief, composed, and carefully shaped — a success story told by a man settling his reputation. Around it stand his voluminous correspondence and the letters of contemporaries who admired or fought him. For the episodes where the record is partisan — above all the quarrel with Rousseau, known largely through the two men's own accusations — the dossier flags whose account we are reading. Hume's retrospective verdicts, including the famous one on the *Treatise*, are evidence about the older man's self-understanding as well as about the events, and this file cites them as such.
+Hume told his own life once, in eight pages. *My Own Life* (MOL, cited by paragraph) is dated 18 April 1776, when he knew he was dying, and was written to stand in front of his collected works. He promised "little more than the History of my Writings" (MOL 1) and kept the promise, so his youthful breakdown, the two lost chairs, the Kirk's proceedings, the Rousseau quarrel and the *Dialogues* are all missing. A section below weighs it. The firmer record is the correspondence, edited by J. Y. T. Greig (*Letters*, 1932) and by Raymond Klibansky and Ernest Mossner (*New Letters*, 1954). The modern lives are Mossner's *The Life of David Hume* (1954; 2nd edn 1980) and James Harris's *Hume: An Intellectual Biography* (2015). Hume is quoted from *Hume Texts Online* in his own spelling; other writers only where a public text could be checked.
 
-## Ninewells and Edinburgh
+## Edinburgh and Ninewells
 
-David Hume — born David Home, and later respelling the name as it was pronounced — was born in Edinburgh on 7 May 1711 (26 April, Old Style), the second son of Joseph Home of Ninewells, a small landed estate near Chirnside in Berwickshire, and Katherine Falconer, daughter of the president of the Court of Session. His father died in 1713, leaving the estate to the elder brother, John, and the younger children in modest circumstances: genteel, landed, and short of money. Hume was raised at Ninewells by his mother, of whom *My Own Life* says, with uncharacteristic warmth, that she was "a woman of singular merit" who devoted herself entirely to her children's education.
+David Home was born on 26 April 1711, Old Style, in Edinburgh (MOL 2), on the Lawnmarket near the top of the Royal Mile. By the Gregorian calendar, adopted in Britain in 1752, the date is 7 May. His father, Joseph Home, was an advocate and laird of Ninewells, a small estate on the Whiteadder Water near Chirnside in Berwickshire, a few miles from the English border. His mother, Katherine, was the daughter of Sir David Falconer, Lord President of the Court of Session. Joseph died in 1713. Katherine raised John, Katherine and David at Ninewells; Hume calls her "a woman of singular merit" (MOL 3).
 
-He entered Edinburgh University in 1721, at ten going on eleven — boys matriculated young — and followed the standard arts course of Latin, Greek, logic, metaphysics, and moral philosophy for some four years, leaving around 1725 without a degree, which was then common for a student not bound for a profession. The family destination for a clever second son was the law. Hume's own account is that the destination never stood a chance: he found, as *My Own Life* puts it, "an insurmountable aversion to everything but the pursuits of Philosophy and general Learning," and while his family believed he was poring over law books, he was secretly devouring Cicero and Virgil.
+A younger son's portion, "according to the mode of my country" (MOL 3), was small. John inherited the estate. David had perhaps fifty pounds a year, and for thirty years his problem was how to stay independent without a profession or a patron. The name was spelled Home and pronounced Hume. He changed the spelling in 1734, when he went to England, so that the English would say it right; John kept the old form.
 
-The reading took a toll he later described frankly. Around 1729, after years of intense study, the eighteen-year-old believed he had opened "a new Scene of Thought" — the germ of the *Treatise*'s project — but the effort broke his health: he fell into the languor and digestive misery he called, in a long 1734 letter seeking medical advice, the "Disease of the Learned." The letter's intended physician is not certainly identified (Arbuthnot and Cheyne are the usual candidates), and its symptoms have attracted retrospective diagnoses ever since; the dossier records the episode as Hume presents it — a collapse brought on by study, from which he recovered slowly — and draws no clinical conclusion.
+## The university and the law
 
-## Bristol, France, and the *Treatise*
+In February 1723 David and John matriculated together at the University of Edinburgh. David was eleven. The course ran from Latin and Greek through logic, metaphysics and natural philosophy, and leaving without a degree was usual; he left around 1725. The family meant him for the law. He read it at home and found "an insurmountable aversion to every thing but the pursuits of philosophy and general learning"; while they thought him "poring upon Voet and Vinnius", the Dutch jurists, "Cicero and Virgil were the authors which I was secretly devouring" (MOL 3). His reading also took in Locke, Samuel Clarke, Shaftesbury and Francis Hutcheson (see [the moral sense school](../../eras/03-early-modern/moral-sense-school.md)).
 
-In 1734 Hume tried commerce, the other standard exit for a younger son: a clerkship in Bristol with a sugar importer. It lasted a few months. The surviving accounts agree that the work and the man did not suit each other; the picturesque details — including the story that he offended his employer by correcting the style of his letters — come from later anecdote and should be weighted accordingly. By the summer of 1734 he had left for France, where a small income (he reports living on very little, and making it suffice) bought the only university he ever really attended: his own reading.
+## The new scene of thought and the crisis, 1729–1734
 
-After time at Reims he settled at La Flèche in Anjou — the town of the great Jesuit college where Descartes had been educated a century before, a coincidence Hume's biographers have always savored. There, between 1734 and 1737, he wrote *A Treatise of Human Nature*, the attempt, as its subtitle announced, "to introduce the experimental method of reasoning into moral subjects": a complete science of man — understanding, passions, morals — built up from impressions by the principles of association, the way Newton had built natural philosophy up from phenomena. It was the work of a man in his mid-twenties, and it attempted everything at once.
+The main evidence for these years is a long letter written in London in spring 1734 to an eminent physician he does not name (Greig I, 12–18). Mossner argued for John Arbuthnot; John P. Wright argues for George Cheyne. It may never have been sent.
 
-Hume returned to Britain in 1737 to publish, and managed the book's reception with an anxiety his later composure never quite repeated. Books I ("Of the Understanding") and II ("Of the Passions") appeared anonymously in London in January 1739; Book III ("Of Morals"), with a different publisher, followed in November 1740, its title page dated 1740. An anonymous *Abstract* summarizing the argument on causation appeared in 1740 — now generally attributed to Hume himself, an early exercise in marketing his own unread book.
+Hume tells the physician that "when I was about 18 Years of Age, there seem'd to be open'd up to me a new Scene of Thought, which transported me beyond Measure". He dropped the law for it. Then, "about the beginning of Septr 1729, all my Ardor seem'd in a moment to be extinguisht". He took this for laziness and worked harder. In spring 1730 a doctor told him he "had fairly got the Disease of the Learned", scholars' melancholy, and prescribed bitters, anti-hysteric pills, a pint of claret a day and long rides. His body recovered and his concentration did not. He had gathered "the rude Materials for many Volume" but could not hold a train of thought steady long enough to write it out. He also blamed the Stoic self-discipline he had taken from Cicero, Seneca and Plutarch, which in solitude only wasted his spirits.
 
-## "Dead-born from the press"
+What the "new Scene of Thought" was is disputed. Norman Kemp Smith (1941) took it to be the thesis that belief and morals rest on feeling, learned from Hutcheson and extended to causal inference. Others take it to be the method the letter states: to derive every truth "in Criticism as well as Morality" from the study of human nature. The letter ends with a decision to try commerce and lay philosophy aside "for some time, in order the more effectually to resume them". Readers have seen in the episode a draft of the conclusion to *Treatise* Book I, where the philosopher "affrighted and confounded with that forelorn solitude, in which I am plac'd in my philosophy" (T 1.4.7.2) is restored by company: "I dine, I play a game of back-gammon, I converse, and am merry with my friends" (T 1.4.7.9). The parallel is the readers', not Hume's.
 
-The *Treatise* failed. It was reviewed, sometimes respectfully and sometimes with real hostility, but it did not sell and it did not make the sensation its author had hoped for; Hume's mature verdict in *My Own Life* — that it "fell Dead-born from the Press, without reaching such distinction, as even to excite a Murmur among the Zealots" — is a retrospective compression, and this file flags it as such: the book was not wholly ignored, and some early readers (the young Adam Smith's circle among them, in time) took it seriously. But as a public event the failure was real, and Hume's response to it governed the rest of his career. He blamed, in *My Own Life*, "a bad method" and his own premature publication more than the matter itself, and set about recasting: the philosophy would be reissued in the essayistic, polished forms of the two *Enquiries*, while the *Treatise* — which he never republished in his lifetime and asked posterity, pointedly, to treat as superseded by the later works — waited for a later century to be recognized as the masterpiece. The irony is now total, and [06-reception-and-debates.md](06-reception-and-debates.md) tells it in full; the biographical point is that Hume's fame in his own lifetime was built substantially on other books.
+## Bristol, Reims and La Flèche, 1734–1737
 
-The first products of the recasting were literary rather than systematic: two volumes of *Essays, Moral and Political* (1741–42), which did find readers, and a period of dependence and experiments in employment. In 1745 he spent a miserable year as tutor to the Marquess of Annandale, whose mental state made the post untenable. The same years brought the first of the two academic defeats that fixed his outsider status. In 1744–45 Hume was a candidate for Edinburgh's chair of Ethics and Pneumatic Philosophy. His religious reputation — the *Treatise* read, not unreasonably, as skepticism about religion — mobilized clerical opposition, charges of atheism and heresy circulated (Hume answered them in print, in the anonymous *Letter from a Gentleman to His Friend in Edinburgh* of 1745, one of the few documents in which he directly defends his religious views), and the town council passed him over. The episode is well documented on both sides; what his opponents believed about his private religion is harder to establish than what they said, and the dossier keeps the two apart.
+In 1734 he went to Bristol "with some recommendations to several eminent merchants" (MOL 4) and worked as a clerk for Michael Miller, a sugar merchant. Within months he "found that scene totally unsuitable to me" (MOL 4). The story that he was dismissed for correcting his employer's English is a family anecdote.
 
-## Secretary, soldier's clerk, and the first *Enquiry*
+He crossed to France, stayed briefly in Paris, and settled at Reims. In 1735 he moved to La Flèche in Anjou, where living was cheap and the Jesuit Collège Henri IV, Descartes' school (see [the Descartes dossier](../rene-descartes/README.md)), opened its library to him. There he fixed his plan of life: "a very rigid frugality" to supply his want of fortune, independence unimpaired, and every object "contemptible, except the improvements of my talents in literature" (MOL 4). There, "chiefly at La Fleche", he wrote the *Treatise* (MOL 5).
 
-Public employment rescued what the universities refused. In 1746 Hume became secretary to General James St Clair, sailing with the abortive expedition against Canada that was diverted to Brittany, and in 1748 he accompanied St Clair on a diplomatic mission to Vienna and Turin — traveling, to his amusement and in an officer's uniform, through a Europe of armies and courts. During that mission, in April 1748, the first *Enquiry* appeared in London under its original title, *Philosophical Essays Concerning Human Understanding* (it took the now-familiar title *An Enquiry Concerning Human Understanding* in the 1758 edition): Book I of the *Treatise* recast — clearer, shorter, and carrying the new essay on miracles that would become its most fought-over section.
+One La Flèche scene has Hume's own warrant. In a letter of 1762 to George Campbell, who had answered "Of Miracles", he says the argument first struck him in the college cloisters while a Jesuit told him of a recent miracle; the Jesuit objected that it proved too much, since it told equally against the Gospels (Greig I, 360–361). A letter of August 1737 to his friend Michael Ramsay prescribes the preparation for reading the *Treatise*: Malebranche's *Search after Truth*, Berkeley's *Principles*, the more metaphysical articles of Bayle's *Dictionary*, and Descartes' *Meditations* (see [Malebranche](../../eras/03-early-modern/nicolas-malebranche.md), [Berkeley](../../eras/03-early-modern/george-berkeley.md), [Bayle](../../eras/03-early-modern/bayle-and-voltaire.md)).
 
-The second recasting followed in 1751: the *Enquiry Concerning the Principles of Morals*, the *Treatise*'s Book III reworked, which Hume told his publisher he regarded as "incomparably the best" of his writings — a judgment the entry's readers should know is his, and that posterity has not simply ratified. That same year came the second academic defeat, at Glasgow, where Hume sought the chair of logic vacated by Adam Smith's move to moral philosophy. The opposition was again substantially religious — Glasgow's clergy and university politics worked against the reputed atheist — and the chair went elsewhere (to James Clow, who held it 1752–87), in 1752. Hume's friends, Smith conspicuously, had supported him; the record shows a candidacy defeated by confessional politics rather than by any judgment of philosophical merit, though the dossier notes that the surviving evidence is largely the correspondence of Hume's own side.
+## The *Treatise* and the *Abstract*, 1737–1740
 
-## The librarian and the *History*
+He came to London in 1737 (MOL 5). On 2 December he told his kinsman Henry Home, later Lord Kames, that he was cutting the "nobler parts" out of the book to give less offence, which most scholars read as the reasoning on miracles. On 26 September 1738 he contracted with the bookseller John Noon for a thousand copies of Books I and II. MOL says "In the end of 1738" (MOL 5); the volumes are dated 1739 and appeared late that January, anonymously. The title promised *An Attempt to introduce the experimental Method of Reasoning into Moral Subjects*, and the Advertisement sent two books first "in order to try the taste of the public" (T Advertisement).
 
-In 1752 Edinburgh gave Hume the small post that made his greatest worldly success possible: librarian to the Faculty of Advocates, at a nominal salary, with the run of one of Scotland's great libraries. He at once began the *History of England*. The first volume, on the early Stuarts, appeared in 1754 to what Hume called an outcry of rage and disappointment — English, Scots, Whig and Tory united, he wrote, in their hatred of it — and sold slowly at first. Then the work turned: the remaining Stuart volume (1757), the Tudors (1759), and the early history (1762) built, volume by volume, the bestselling history of the age. The *History* — dated 1754–61 in some bibliographies, the final volume appearing in 1762 — made Hume famous across Europe and, what he valued at least as much, financially independent. In the same years he published the *Political Discourses* (1752), foundational essays in economics admired by Smith, and the *Four Dissertations* (1757), containing *The Natural History of Religion*; two further essays, *Of Suicide* and *Of the Immortality of the Soul*, were printed in 1755 and then suppressed before publication under pressure — they circulated in manuscript and reached print only after his death, a small preview of the *Dialogues*' fate.
+MOL's verdict is famous:
 
-## Paris: "le bon David"
+> "Never literary attempt was more unfortunate than my Treatise of Human Nature. It fell dead-born from the press, without reaching such distinction, as even to excite a murmur among the zealots."
 
-In 1763 Hume accepted the post that made him a European celebrity: secretary to the British embassy in Paris under the ambassador, the Earl of Hertford, serving in 1765 as chargé d'affaires while the embassy was effectively his. The salons received the skeptical Scotsman — fat, cheerful, conversable, his French serviceable and his appetite legendary — as a lion: "le bon David" was fêted by the philosophes, d'Alembert and Diderot among them, and courted by Mme de Boufflers and the whole republic of letters. Hume, who had been refused two Scottish chairs as an infidel, enjoyed the inversion without appearing to spite anyone, and wrote home in genuine amazement at his own reception. The Paris years (1763–66) left him with a European reputation no British writer of philosophy has quite matched in his lifetime.
+— MOL 6
 
-They also set up his most painful public episode. Jean-Jacques Rousseau, persecuted in France and Switzerland, sought refuge in England, and Hume — generously, and at real trouble to himself — escorted him there in January 1766 and helped secure him a royal pension and a house in Staffordshire. Within months Rousseau became convinced that Hume was the center of a conspiracy against him. The surviving record is genuinely difficult: Rousseau's accusations survive in anguished, elaborately reasoned letters; Hume's defense in his own correspondence and in the account he reluctantly published in 1766 (the *Exposé succinct*, Englished as *A Concise and Genuine Account*), after a forged letter by Horace Walpole mocking Rousseau had muddied every water it touched. Posterity has mostly sided with Hume on the facts — no conspiracy has ever been evidenced — while dividing over his wisdom in publishing, and over how far Rousseau's state of mind (persecutory delusions are often diagnosed retrospectively, which the dossier reports as diagnosis-by-distance, not fact) explains the rupture. The sequence itself is not disputed: offer of asylum, Hume's real exertions, Rousseau's conviction of betrayal, public rupture by the autumn of 1766. Hume returned to Britain with his reputation for good nature intact and his judgment in one friendship permanently questioned — by himself, in candid letters, as much as by anyone.
+The exaggeration has a basis. The book did not sell, and copies of the first edition were still unsold years later. But it was noticed: the *History of the Works of the Learned* gave it a long, mocking review in late 1739, and journals in Leipzig, Amsterdam and Göttingen noticed it. What disappointed Hume was the quality of the attention.
 
-## London office, Edinburgh, and the withheld *Dialogues*
+He explained the book himself. *An Abstract of a Book lately Published*, anonymous, appeared in London in March 1740. It makes causation the book's chief argument, uses the billiard balls, and calls the principles of association "really to us the cement of the universe" (Abstract 35). It was long credited to Adam Smith until John Maynard Keynes and Piero Sraffa, editing it in 1938, showed it was Hume's. Hume had sent Book III in manuscript to Hutcheson, who found it short of warmth in the cause of virtue; Hume answered that the anatomist and the painter have different jobs (letter of 17 September 1739, Greig I, 32–35). Book III, *Of Morals*, came out from Thomas Longman in November 1740.
 
-From 1767 to 1768 Hume served as under-secretary of state for the Northern Department in London — the apex, and the end, of his public employment — and in 1769 he returned to Edinburgh for good, settling eventually in the New Town, in the street jokingly named St David's Street after him. The last decade was one of revision, correspondence, dining, and the careful management of his literary remains: new editions of the essays and *History*, letters to and from everyone in the Scottish Enlightenment, and one great withheld manuscript.
+## The *Essays*, 1741–1742
 
-The *Dialogues Concerning Natural Religion* — his searching examination, in dialogue form, of the design argument and natural theology — had been drafted as early as 1751 and revised repeatedly, including in the last months of his life. Friends who read it, Smith and others, urged against publication in his lifetime, and Hume acquiesced while resenting the necessity. His will first left the manuscript to Smith, desiring him to publish it; Smith's reluctance showed itself, and a codicil of August 1776 instead charged his publisher William Strahan to publish it within two years, with the property falling, if it remained unpublished, to his nephew David Hume the younger. In the event it was the nephew who published it, in 1779, anonymously. Who speaks for Hume inside it — the skeptical Philo, the orthodox-leaning Cleanthes, or some distribution among the voices — he left, by design, for readers to fight over; the fight continues in [06-reception-and-debates.md](06-reception-and-debates.md).
+Back at Ninewells he changed form. *Essays, Moral and Political* appeared at Edinburgh in two volumes, 1741 and 1742; MOL puts "the first part of my Essays" in 1742 (MOL 6), a year late. These were short pieces after Addison's *Spectator*, on parties, the press, superstition and enthusiasm. They sold, and "soon made me entirely forget my former disappointment" (MOL 6).
 
-## The death
+## The Edinburgh chair and the *Letter from a Gentleman*, 1744–1745
 
-In 1775 Hume fell ill with what he called, in *My Own Life*, "a Disorder in my Bowels" — generally identified as an intestinal cancer, though the retrospective diagnosis is not certain — and declined through 1776 with a cheerfulness that became the last and most famous of his arguments. James Boswell visited him in July 1776 hoping, by his own account, to find the infidel's composure cracking at the approach of annihilation, and left disturbed to find it had not: Hume told him he found the idea of extinction no more alarming than having not existed before his birth. In April he had written *My Own Life*, opening with its famous calm: "It is difficult for a man to speak long of himself without vanity; therefore, I shall be short." He died at home in Edinburgh on 25 August 1776, aged sixty-five, and was buried in Calton burial ground under a plain monument of his own designing. Adam Smith's letter to the publisher Strahan, published with *My Own Life* in 1777, closed the public account: Hume had approached, Smith wrote, "as nearly to the idea of a perfectly wise and virtuous man, as perhaps the nature of human frailty will permit" — a sentence that provoked its own controversy, since it praised as a sage a man half of Britain believed an atheist. The essays on suicide and immortality followed into print; the *Dialogues* came in 1779; and the *Treatise*, disowned by its author and outsold in his lifetime by everything else he wrote, began the long ascent that made the dead-born book the most read of them all.
+In 1744 John Pringle resigned the Edinburgh chair of Ethics and Pneumatical Philosophy, and Hume stood for it with the Lord Provost's support. William Wishart, Principal of the university, circulated a paper of charges drawn from the *Treatise*: universal scepticism, atheism, denial that whatever begins to exist must have a cause. The city ministers, consulted by the town council, opposed him; Hutcheson did not help. The chair went to William Cleghorn in June 1745.
+
+Hume's reply to the charges, a letter, was printed by Henry Home in May 1745 as *A Letter from a Gentleman to His Friend in Edinburgh*. It argues that Pyrrhonian doubts have never been more than curiosities with no hold on conduct, and that on causation Hume questioned only which kind of evidence supports the maxim, intuitive or demonstrative, never the maxim itself, a denial "which the most superficial Reader cannot think ever entred his Head" (*Letter* 28). The pamphlet was lost until Mossner and John Price reprinted it in 1967. It shows Hume reading his own book under pressure, which matters before it is used to settle what the *Treatise* meant. MOL omits the episode.
+
+## Annandale, St Clair, and the *Philosophical Essays*, 1745–1748
+
+By then he was in England. From April 1745 to April 1746 he was tutor to the young Marquess of Annandale, "for the state of his mind and health required it" (MOL 7); the marquess was insane, and Hume left after a dispute over his pay. In 1746 General James St Clair took him as secretary, then judge-advocate, on an expedition "at first meant against Canada, but ended in an incursion on the coast of France" (MOL 7), a failed descent on Lorient. In 1748 he followed St Clair to Vienna and Turin, in an officer's uniform. He came home "master of near a thousand pounds" (MOL 7).
+
+In April 1748, while he was at Turin, Andrew Millar published *Philosophical Essays concerning Human Understanding*, Hume's first book under his name. It recast *Treatise* Book I in twelve essays and added "Of Miracles". MOL calls it the *Enquiry concerning Human Understanding* (MOL 8), its title only from 1758. Conyers Middleton's *Free Inquiry* into miracles took the public's attention that winter (MOL 8). Late in life, in the Advertisement to the 1777 *Essays and Treatises*, Hume called the *Treatise* a juvenile work and asked to be judged by the recast pieces alone.
+
+## Ninewells, Edinburgh and the second *Enquiry*, 1749–1752
+
+His mother died in 1749. For two years at Ninewells he wrote the *Political Discourses* and the *Enquiry concerning the Principles of Morals* (MOL 9), and began the *Dialogues concerning Natural Religion*; in March 1751 he sent a specimen to Gilbert Elliot of Minto asking for help to strengthen Cleanthes (Greig I, 153–157). In 1751 he moved to Edinburgh, "the true scene for a man of letters" (MOL 10). The second *Enquiry* appeared late in 1751, dated that year; MOL says 1752 (MOL 10), another slip. He thought it "of all my writings, historical, philosophical, or literary, incomparably the best" (MOL 10). The *Political Discourses* (1752) were "the only work of mine that was successful on the first publication" (MOL 10), and made his name in France.
+
+## Glasgow and the Advocates' Library, 1751–1757
+
+In the winter of 1751–52 [Adam Smith](../../eras/03-early-modern/adam-smith.md) moved from the Glasgow chair of Logic to Moral Philosophy, and Hume's friends put him up for Logic. Smith wrote that he would prefer Hume to any colleague but feared the public would not agree. The clergy objected, and the chair went to James Clow in 1752. MOL is silent again.
+
+In January 1752 the Faculty of Advocates elected him Keeper of their library, about thirty thousand volumes. The post paid "little or no emolument" but "gave me the command of a large library" (MOL 11). In 1754 the curators struck three French books, La Fontaine's *Contes* among them, from his orders as indecent. He stayed, gave his salary to the blind poet Thomas Blacklock, and resigned in 1757.
+
+## The *History of England*, 1754–1762
+
+He began with the Stuarts, "an epoch when, I thought, the misrepresentations of faction began chiefly to take place" (MOL 11). The first volume (1754) was attacked from all sides for sympathy with Charles I and Strafford, and Millar sold forty-five copies of it in a year (MOL 11). Hume thought of retiring to France under another name (MOL 12). The second volume (1756, dated 1757) did better; the Tudors followed in 1759 and the earlier history in 1761 (dated 1762). The *History* made him rich, stayed standard for half a century, and was what his contemporaries mainly knew him for.
+
+## The Kirk, 1755–1756
+
+In 1755 the evangelical minister George Anderson and an anonymous pamphlet, *An Analysis of the Moral and Religious Sentiments contained in the Writings of Sopho, and David Hume*, usually attributed to John Bonar, asked the Church of Scotland to censure Hume and Lord Kames, the *Sopho* of the title. The General Assembly of May 1755 passed a resolution against infidel writings that named no one. In May 1756 an overture for a committee to inquire into Hume's writings, a first step towards excommunication, reached the Assembly's Committee of Overtures. The Moderates, younger ministers such as William Robertson and Hugh Blair who were his friends, defeated it by 50 votes to 17 (Mossner, ch. 25). Excommunication carried no civil penalty but would have cut him off socially.
+
+## *Four Dissertations* and the suppressed essays, 1755–1757
+
+Millar printed a volume of five dissertations in 1755–56: the *Natural History of Religion*, "Of the Passions", "Of Tragedy", "Of Suicide" and "Of the Immortality of the Soul". Before publication Hume withdrew the last two, from fear of prosecution and his publisher's alarm, and had them cut out of the printed copies. "Of the Standard of Taste" filled the gap, and the book appeared in February 1757 as *Four Dissertations*. William Warburton and Richard Hurd attacked the *Natural History* in an anonymous pamphlet (1757), which MOL dismisses as "the Warburtonian school" (MOL 13). The two withdrawn essays circulated in manuscript and were printed in English in 1777, without his name or permission.
+
+## Paris and Rousseau, 1763–1766
+
+In 1763 the Earl of Hertford, whom he had never met, asked him to Paris as acting secretary of the embassy (MOL 17). Hume arrived in October 1763 to a reception no one could imagine who had not "seen the strange effects of modes" (MOL 18). Mme Geoffrin, Mme du Deffand and Julie de Lespinasse received him; he knew d'Alembert, Diderot, Helvétius and Baron d'Holbach, and formed a close attachment to the Comtesse de Boufflers. Paris called him *le bon David*. He became secretary of the embassy in 1765 and was chargé d'affaires until the Duke of Richmond arrived in November (MOL 19). The story that d'Holbach told him fifteen of the eighteen men at his table were atheists comes from a letter of Diderot's and is an anecdote.
+
+[Rousseau](../../eras/03-early-modern/jean-jacques-rousseau.md), banned after *Émile*, accepted refuge in England. They left Paris together on 4 January 1766. Hume found him a house at Wootton in Staffordshire and arranged a royal pension. Rousseau took a satirical letter in Frederick the Great's name, written by Horace Walpole, as proof of a plot, and on 10 July 1766 accused Hume of luring him to England to dishonour him. Hume's friends in Paris published his account with the letters as *Exposé succinct de la contestation qui s'est élevée entre M. Hume et M. Rousseau* (October 1766); an English version followed. Most judges then and since found Rousseau ill and Hume provoked.
+
+## London and the New Town, 1767–1775
+
+From February 1767 to January 1768 he was Under-Secretary of State for the Northern Department under General Henry Conway, Hertford's brother (MOL 19). He returned to Edinburgh in 1769, "very opulent (for I possessed a revenue of 1000 pounds a year)" (MOL 19), and in 1771 moved into a house he had built at the corner of St Andrew Square in the New Town. The side street came to be called St David Street; the tale that a young friend, Nancy Ord, chalked the name on the wall is Edinburgh tradition.
+
+## The last illness and death, 1775–1776
+
+"In spring 1775, I was struck with a disorder in my bowels" (MOL 20), probably a cancer; the diagnosis cannot now be settled. He wrote MOL in April 1776 and on 21 April left for London and Bath on medical advice, meeting Smith and John Home at Morpeth on their way north to see him. He was home again early in July.
+
+On Sunday 7 July James Boswell, "being too late for church", called and found him "lean, ghastly, and quite of an earthy appearance". Boswell raised immortality. Hume said "he never had entertained any belief in religion since he began to read Locke and Clarke" (see [Locke](../../eras/03-early-modern/john-locke.md)). Pressed on whether a future state was possible, he allowed that "it was possible that a piece of coal put upon the fire would not burn", and added "that it was a most unreasonable fancy that we should exist for ever". Boswell's *Account of my last Interview with David Hume, Esq.* stayed among his papers until the twentieth century (now in the Yale *Boswell in Extremes*, 1970). Its writer was unsettled and unsympathetic, which makes his record of Hume's calm the more telling.
+
+The *Dialogues* occupied his last weeks. Smith was unwilling to publish them. A codicil of 7 August 1776 left them to his publisher William Strahan, with the proviso that if they were not out within two and a half years the right passed to his nephew David. He revised the *Dialogues* once more and corrected his works for a new edition.
+
+Smith's letter to Strahan, dated Kirkcaldy, 9 November 1776, is the main account of the end. It gives Hume's message to a friend who had been told he was recovering: "you had better tell him, that I am dying as fast as my enemies, if I have any, could wish, and as easily and cheerfully as my best friends could desire". It reports his jokes about excuses to Charon, Lucian's ferryman of the dead: he was correcting his works, or, given a few more years, he "may have the satisfaction of seeing the downfal of some of the prevailing systems of superstition". It quotes Joseph Black's note of 26 August: "Yesterday about four o'clock afternoon, Mr. Hume expired." Hume died on Sunday 25 August 1776 at St Andrew Square and was buried in the Old Calton burial ground, in a round tomb by Robert Adam.
+
+Smith closed by calling Hume "as approaching as nearly to the idea of a perfectly wise and virtuous man, as perhaps the nature of human frailty will permit". Strahan published MOL and the letter together in March 1777 as *The Life of David Hume, Esq. Written by Himself*. Smith later said the letter brought him "ten times more abuse than the very violent attack I had made upon the whole commercial system of Great Britain" (letter to Andreas Holt, 1780). The public had expected a recantation; Hume's friends were showing that an unbeliever could die without fear.
+
+Strahan did not publish the *Dialogues*. The nephew, later a Baron of the Scottish Exchequer, brought them out in 1779 with no publisher's name. The manuscript shows revisions from about 1751, 1761 and 1776, the last including Philo's long speech in Part 12; the layering is Kemp Smith's (1935), refined by later editors.
+
+## *My Own Life* as a source
+
+MOL is a public document, written to be read at a moment when the manner of his death would be watched. It presents the man he wished remembered: cheerful, independent, above faction. Its last paragraph, a "funeral oration of myself" (MOL 21), says calumny never touched him and the factions "seemed to be disarmed in my behalf of their wonted fury" (MOL 21).
+
+Three cautions apply. It leaves out whatever might reopen a quarrel: the 1734 crisis, both chairs, the *Letter from a Gentleman*, the Kirk, the suppressed essays, Rousseau, the *Dialogues*. Its claim that he resolved "never to reply to any body" (MOL 9) sits badly with the *Letter* of 1745 and the *Exposé* of 1766. Its dates, written from memory, slip: the *Treatise* in 1738 not 1739, the first *Essays* in 1742 not 1741, the second *Enquiry* in 1752 not 1751, and the 1748 book under its 1758 title. And its judgments of the works are an argument. The dead birth of the *Treatise* supports the story, also told in the 1777 Advertisement, of an author who went to press too early, "guilty of a very usual indiscretion" (MOL 8), and was right to recast. Readers who now prefer the *Treatise* should notice that MOL is the chief witness against them. Use it for what Hume wanted remembered and for his ranking of his books; check its dates against title pages and letters; read its silences as choices.
 
 ## Chronology
 
 | Date | Event |
 |---|---|
-| 7 May 1711 | Born in Edinburgh (26 April, Old Style), second son of Joseph Home of Ninewells and Katherine Falconer |
-| 1713 | Father dies; raised at Ninewells by his mother |
-| 1721 | Enters Edinburgh University, aged ten going on eleven |
-| c. 1725 | Leaves Edinburgh without a degree; refuses the family's intended career in law |
-| c. 1729 | Believes he has found a "new Scene of Thought"; breakdown follows (the "Disease of the Learned" of his 1734 letter) |
-| 1734 | Brief clerkship in Bristol; leaves for France |
-| 1734–37 | At Reims and La Flèche, writes *A Treatise of Human Nature* |
-| Jan 1739 | *Treatise* Books I–II published anonymously in London |
-| Nov 1740 | *Treatise* Book III published (title page dated 1740); the anonymous *Abstract* appears the same year |
-| 1741–42 | *Essays, Moral and Political*, two volumes |
-| 1744–45 | Blocked from Edinburgh's chair of Ethics and Pneumatic Philosophy amid religious opposition; the *Letter from a Gentleman* (1745) answers the charges; a year as tutor to the Marquess of Annandale |
-| 1746–48 | Secretary to General St Clair: Brittany expedition (1746), then the diplomatic mission to Vienna and Turin (1748) |
-| Apr 1748 | *Philosophical Essays Concerning Human Understanding* published (retitled *An Enquiry Concerning Human Understanding* in 1758) |
-| 1751 | *Enquiry Concerning the Principles of Morals* — the work he called "incomparably the best" of his writings; *Dialogues* drafted about this time |
-| 1751–52 | Blocked from the Glasgow chair of logic amid religious opposition |
-| 1752 | Librarian to the Faculty of Advocates, Edinburgh; *Political Discourses* published |
-| 1754–62 | *History of England* published volume by volume (1754, 1757, 1759, 1762); fame and financial independence |
-| 1755 | Essays *Of Suicide* and *Of the Immortality of the Soul* printed, then suppressed |
-| 1757 | *Four Dissertations*, including *The Natural History of Religion* |
-| 1763–66 | Secretary to the British embassy in Paris (chargé d'affaires 1765); "le bon David" |
-| 1766 | Escorts Rousseau to refuge in England (January); the affair breaks into public quarrel; Hume publishes his *Concise and Genuine Account* |
-| 1767–68 | Under-secretary of state for the Northern Department, London |
-| 1769 | Returns to Edinburgh for good (St David's Street, New Town) |
-| 1775 | Final illness begins ("a Disorder in my Bowels") |
-| Apr 1776 | Writes *My Own Life* |
-| 25 Aug 1776 | Dies in Edinburgh, aged sixty-five |
-| 1777 | *My Own Life* published, with Adam Smith's letter to Strahan |
-| 1779 | *Dialogues Concerning Natural Religion* published posthumously by his nephew, David Hume the younger |
+| 26 Apr 1711 (OS; 7 May NS) | Born in Edinburgh |
+| 1713 | Father dies |
+| Feb 1723 | Matriculates at Edinburgh; leaves c. 1725 without a degree |
+| c. 1729 | The "new Scene of Thought"; crisis from Sep 1729 |
+| spring 1734 | Letter to a physician; clerk in Bristol; name spelled Hume |
+| 1734–1735 | Paris and Reims |
+| 1735–1737 | La Flèche; writes the *Treatise* |
+| 1737 | London |
+| Jan 1739 | *Treatise* Books I–II, anonymous |
+| Mar 1740 | *Abstract* |
+| Nov 1740 | *Treatise* Book III |
+| 1741, 1742 | *Essays, Moral and Political* |
+| May 1745 | *A Letter from a Gentleman* |
+| Jun 1745 | Edinburgh chair goes to Cleghorn |
+| Apr 1745–Apr 1746 | Tutor to the Marquess of Annandale |
+| 1746 | Secretary to General St Clair; Lorient |
+| Apr 1748 | *Philosophical Essays concerning Human Understanding* (retitled *Enquiry* 1758) |
+| 1748 | Vienna and Turin with St Clair |
+| 1749 | Mother dies |
+| 1749–1751 | Ninewells; *Dialogues* begun |
+| late 1751 | *Enquiry concerning the Principles of Morals* (dated 1751) |
+| 1752 | Glasgow chair goes to Clow; Keeper of the Advocates' Library (Jan); *Political Discourses* |
+| 1754 | *History*, vol. 1 |
+| May 1756 | Overture against him rejected, 50–17 |
+| 1756 | *History*, vol. 2 (dated 1757) |
+| Feb 1757 | *Four Dissertations*; suicide and immortality essays withdrawn |
+| 1759, 1761 | *History*: Tudors; earlier volumes (dated 1762) |
+| Oct 1763 | Arrives in Paris with Lord Hertford |
+| 4 Jan 1766 | Leaves Paris with Rousseau |
+| Jul–Oct 1766 | The Rousseau quarrel; *Exposé succinct* |
+| Feb 1767–Jan 1768 | Under-Secretary of State |
+| 1769 | Returns to Edinburgh |
+| 1771 | Moves to St Andrew Square |
+| spring 1775 | Illness begins |
+| 18 Apr 1776 | Dates *My Own Life* |
+| 7 Jul 1776 | Boswell's interview |
+| 7 Aug 1776 | Codicil on the *Dialogues* |
+| 25 Aug 1776 | Dies in Edinburgh |
+| 9 Nov 1776 | Smith's letter to Strahan |
+| Mar 1777 | *My Own Life* and Smith's letter published |
+| 1777 | Advertisement disowning the *Treatise*; suppressed essays printed |
+| 1779 | *Dialogues concerning Natural Religion* |
+| 1938 | Keynes and Sraffa establish the *Abstract* as Hume's |
 
 ---
 
-[Dossier home](README.md) · [Library entry: David Hume](../../eras/03-early-modern/david-hume.md) · [Focus studies index](../README.md)
+[Dossier home](README.md) · [Library entry: David Hume](../../eras/03-early-modern/david-hume.md) · [*Enquiry* study guide](../../study/hume-enquiry.md) · [Master index](../../index.md) · [Focus studies index](../README.md)

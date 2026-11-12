@@ -11,10 +11,10 @@
 
 - **Dates:** 1859–1941.
 - **Place:** Born in Paris, France; taught at the Collège de France and became the most famous living philosopher of his generation.
-- **School/tradition:** French spiritualism and philosophy of life; a major influence on phenomenology, process thought, and Gilles Deleuze.
+- **School/tradition:** French spiritualism and philosophy of life; a major influence on phenomenology, process thought, and [Gilles Deleuze](gilles-deleuze.md).
 - **Known for:** Duration (*la durée*) — time as lived, indivisible flow rather than clock-time; intuition as a philosophical method; and the *élan vital* of *Creative Evolution*.
 
-**Responds to:** the spatialised time of the physics and psychology he inherited — no single predecessor entry in this repo · **Answered by:** [Russell](bertrand-russell.md)
+**Responds to:** the spatialised time of the physics and psychology he inherited — no single predecessor entry in this repo · **Answered by:** [Russell](bertrand-russell.md), [Deleuze](gilles-deleuze.md)
 
 ## Biography
 
@@ -52,7 +52,7 @@ His late ethics distinguishes **closed morality** — the pressure society exert
 
 - *Time and Free Will* (1889) — The thesis that introduces duration and reframes the free-will problem.
 - *Matter and Memory* (1896) — Memory, perception, and the mind–body relation; the cone of memory.
-- *Laughter* (1900) — Short, witty essay: the comic as "the mechanical encrusted on the living."
+- *Laughter* (1900) — Short, witty essay: the comic as "something mechanical encrusted on the living."
 - *Creative Evolution* (1907) — His most famous book: the *élan vital* against mechanism and finalism.
 - *Duration and Simultaneity* (1922) — His response to Einstein's relativity; see the debates below.
 - *The Two Sources of Morality and Religion* (1932) — Closed and open morality; static and dynamic religion.
@@ -67,7 +67,7 @@ Bergson's influence ran everywhere before 1914: into pragmatism (James), moderni
 
 ## Criticisms and debates
 
-- **The Einstein debate (1922).** At the Société française de philosophie in Paris, Bergson questioned Einstein's interpretation of simultaneity and time dilation; *Duration and Simultaneity* argued that the physicist's multiple times were "phantom" times and only one real time flows. Physicists judged that Bergson had misunderstood relativity — the twin paradox in particular — and the episode damaged his standing with scientists for decades. Recent scholarship (notably Jimena Canales's *The Physicist and the Philosopher*, 2015) has complicated the verdict: Bergson understood more of the mathematics than the caricature allows, his target was partly the *philosophical interpretation* of relativity rather than its predictions, and Einstein's own philosophical remarks in the exchange were not beyond criticism. The balanced position: Bergson lost the physics argument as it was then framed, but the exchange raised real questions about lived time that relativity does not by itself settle.
+- **The Einstein debate (1922).** At the Société française de philosophie in Paris, Bergson questioned Einstein's interpretation of simultaneity and time dilation; *Duration and Simultaneity* argued that the physicist's multiple times were "fictitious" times attributed to "phantasmal" observers, and that only one real time flows. Physicists judged that Bergson had misunderstood relativity — the twin paradox in particular — and the episode damaged his standing with scientists for decades. Recent scholarship (notably Jimena Canales's *The Physicist and the Philosopher*, 2015) has complicated the verdict: Bergson understood more of the mathematics than the caricature allows, his target was partly the *philosophical interpretation* of relativity rather than its predictions, and Einstein's own philosophical remarks in the exchange were not beyond criticism. The balanced position: Bergson lost the physics argument as it was then framed, but the exchange raised real questions about lived time that relativity does not by itself settle.
 - **Russell's attack.** Russell's 1912 essay charged Bergson with trading on evocative metaphor and hostility to intellect. Bergsonians reply that Russell mistook an account of intellect's *limits* for contempt for it. The dispute still maps the analytic/continental divide.
 - **The *élan vital*.** Vitalism was largely abandoned by biology; whether Bergson's version is a scientific hypothesis (and failed), a metaphysical image (and survives), or something in between is a standing debate.
 - **Whether duration is psychology or metaphysics** — subjective flow or structure of reality — divides his interpreters, with Deleuze's reading (duration as ontological) currently dominant.

@@ -32,7 +32,7 @@ os.chdir(ROOT)
 
 LINK = re.compile(r"!?\[[^\]]*\]\(([^)\s]+)\)")
 # The template's links are written for a file that will live in eras/<era>/.
-SKIP_LINKS = {"templates/philosopher-template.md"}
+SKIP_LINKS = {"templates/philosopher-template.md", "zh/templates/philosopher-template.md"}
 
 errors = []
 

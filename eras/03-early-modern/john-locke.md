@@ -14,7 +14,7 @@
 - **School/tradition:** Empiricism; early liberal political theory
 - **Known for:** All ideas come from experience; personal identity rests on consciousness; legitimate government rests on consent and protects natural rights to life, liberty, and property
 
-**Responds to:** [Hobbes](thomas-hobbes.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md)
+**Responds to:** [Hobbes](thomas-hobbes.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Astell](early-modern-women-philosophers.md), [Reid](thomas-reid.md)
 
 ## Biography
 
@@ -48,7 +48,7 @@ In *Essay* II.8, Locke develops a distinction associated with Galileo and Boyle.
 
 ### Material substance: “something, I know not what”
 
-We experience collections of qualities — hard, white, cold, round — and suppose a *substratum* in which they inhere. Strip away all the qualities, and what remains? Locke is disarmingly honest: substance in general is “something, I know not what,” a *supposed* support whose own nature we do not grasp. He does not deny substance; he confesses our idea of it is obscure. It is a consequential loose thread: Berkeley discarded material substance while keeping spiritual substance, and Hume pressed the question against both.
+We experience collections of qualities — hard, white, cold, round — and suppose a *substratum* in which they inhere. Strip away all the qualities, and what remains? Locke is disarmingly honest: substance in general is "but a supposed I know not what, to support those ideas we call accidents" (*Essay* II.xxiii.15), a support whose own nature we do not grasp. He does not deny substance; he confesses our idea of it is obscure. It is a consequential loose thread: Berkeley discarded material substance while keeping spiritual substance, and Hume pressed the question against both.
 
 ### Personal identity: consciousness and memory
 
@@ -120,7 +120,7 @@ Locke set empiricism’s research program: trace every idea to experience, and s
 
 ## Impact and legacy
 
-The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; Voltaire popularized him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
+The *Essay* dominated British and French philosophy for a century. Berkeley and Hume each claimed to complete Locke’s project more consistently than he had; Leibniz thought the book worth a book-length reply; [Voltaire](bayle-and-voltaire.md) popularized him in France as a patron of Enlightenment reform. His political theory fed eighteenth-century liberalism and the American Founding — the language of unalienable rights, consent of the governed, and justified revolution in the Declaration of Independence is recognisably Lockean in structure, whatever debates remain about direct influence. His educational writings shaped modern ideas of childhood formation.
 
 ## Criticisms and debates
 

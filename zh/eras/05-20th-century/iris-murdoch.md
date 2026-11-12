@@ -4,9 +4,7 @@
 
 *时代：20世纪至今（1900— ） · [时代概览](README.md) · [总索引](../../index.md)*
 
-![艾丽丝·默多克像](https://thumb.wikimedia.org/wikipedia/en/thumb/c/cb/Iris_Murdoch.png/250px-Iris_Murdoch.png)
-
-*肖像照片（信息框图片；文章未给出图注）。图片来自维基百科。*
+*肖像：未收录。英文维基百科上的照片是合理使用（非自由许可）上传，维基共享资源中没有自由许可的图像。*
 
 ## 概览
 

@@ -3,9 +3,7 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Iris Murdoch](https://thumb.wikimedia.org/wikipedia/en/thumb/c/cb/Iris_Murdoch.png/250px-Iris_Murdoch.png)
-
-*Portrait photograph (infobox image; the article shows no caption for it). Image via Wikipedia.*
+*Portrait: none included — the photograph used on English Wikipedia is a local fair-use upload, and Wikimedia Commons has no freely licensed portrait of her (only her blue plaques). If one surfaces, it belongs here.*
 
 ## At a glance
 
@@ -28,7 +26,7 @@ Alongside the philosophy she wrote twenty-six novels, beginning with *Under the 
 
 ### Attention and unselfing
 
-From Simone Weil, Murdoch took the concept of **attention**: a just and loving gaze directed outward, which discovers reality rather than projecting fantasy onto it. Her famous example is internal and unglamorous. A mother-in-law, M, finds her daughter-in-law D vulgar and tiresome; M behaves impeccably throughout, but inwardly she works — she attends, she looks again, she corrects the picture her own jealousy and snobbery had painted, until she sees D as she is: not vulgar but spontaneous, not tiresome but gay. Nothing in M's outward behavior need change; the moral work is entirely in the quality of her vision. Against philosophies for which morality exists only in overt acts and choices, Murdoch insists that this continuous inner labor *is* the moral life, happening "every moment" and not only at points of decision.
+From Simone Weil, Murdoch took the concept of **attention**: a just and loving gaze directed outward, which discovers reality rather than projecting fantasy onto it. Her famous example is internal and unglamorous. A mother-in-law, M, finds her daughter-in-law D vulgar and tiresome; M behaves impeccably throughout, but inwardly she works — she attends, she looks again, she corrects the picture her own jealousy and snobbery had painted, until she sees D as she is: not vulgar but refreshingly simple, not undignified but spontaneous, not tiresomely juvenile but delightfully youthful. Nothing in M's outward behavior need change; the moral work is entirely in the quality of her vision. Against philosophies for which morality exists only in overt acts and choices, Murdoch insists that this continuous inner labor *is* the moral life — "something that goes on continually, not something that is switched off in between the occurrence of explicit moral choices."
 
 The enemy is the ego: "the fat relentless ego," as she calls it, which spins self-consoling fantasy and blocks perception. **Unselfing** — the progressive liberation of attention from ego — is her name for moral progress. It can be trained by anything that genuinely shows us something other than ourselves: nature, mathematics, learning a language, great art, and above all other people. Her most-quoted sentence, from "The Sublime and the Good" (1959), defines the goal: "Love is the extremely difficult realisation that something other than oneself is real."
 

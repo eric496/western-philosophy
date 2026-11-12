@@ -14,15 +14,15 @@
 - **School/tradition:** Founder of the Eleatic tradition; his pupil Zeno defended it; Melissus of Samos later developed it
 - **Known for:** Arguing by pure deduction that Being is one, eternal, indivisible, and changeless — and that change, motion, and plurality are therefore impossible, however they appear
 
-**Responds to:** Pythagorean teaching and Ionian natural philosophy · **Answered by:** [Zeno of Elea](zeno-of-elea.md), [Empedocles](empedocles.md), [Democritus](democritus-of-abdera.md)
+**Responds to:** Pythagorean teaching and Ionian natural philosophy · **Answered by:** [Zeno of Elea](zeno-of-elea.md), [Empedocles](empedocles.md), [Anaxagoras](presocratic-pluralists.md), [Democritus](democritus-of-abdera.md)
 
 ## Biography
 
-Parmenides came from Elea (Roman Velia), a prosperous Greek colony in southern Italy. Later tradition describes him as wealthy and well-born, a pupil of the Pythagorean Ameinias, and — significantly — a lawgiver: Eleans were said to make their magistrates swear annually to uphold his laws. If roughly right, the most uncompromising metaphysician of antiquity was also a practical civic figure.
+Parmenides came from Elea (Roman Velia), a prosperous Greek colony in southern Italy. Later tradition describes him as wealthy and well-born, a pupil of the Pythagorean Ameinias, and — significantly — a lawgiver: the magistrates of Elea were said to make the citizens swear annually to uphold his laws. If roughly right, the most uncompromising metaphysician of antiquity was also a practical civic figure.
 
 Almost everything else comes from Plato's dialogue *Parmenides*, which stages a visit to Athens, c. 450 BCE, by the elderly Parmenides, his associate Zeno, and the teenage Socrates, who is intellectually taken apart. The meeting is chronologically possible but generally treated as Plato's fiction. Its dramatic point is sound, though: Plato understood that his theory of Forms had to survive Parmenides' arguments, and devoted his most technical dialogue to the confrontation. Diogenes Laertius adds only anecdotal filler.
 
-What is secure is the poem. Unlike Thales and Pythagoras, Parmenides wrote, in hexameter verse — the meter of Homer and Hesiod — presenting his doctrine as a revelation. The poem, conventionally titled *On Nature*, opens with the narrator carried by chariot to a goddess, who announces he must learn both "the unshaken heart of well-rounded truth" and "the opinions of mortals, in which there is no true trust." It then divides into the Way of Truth, in which the goddess argues, and the Way of Opinion, a cosmology explicitly labeled deceptive, though the best account of appearances available.
+What is secure is the poem. Unlike Thales and Pythagoras, Parmenides wrote, in hexameter verse — the meter of Homer and Hesiod — presenting his doctrine as a revelation. The poem, conventionally titled *On Nature*, opens with the narrator carried by chariot to a goddess, who announces he must learn both "the unshaken heart of well-rounded truth" and "the beliefs of mortals, in which there is no true trust." It then divides into the Way of Truth, in which the goddess argues, and the Way of Opinion, a cosmology explicitly labeled deceptive, though the best account of appearances available.
 
 Its survival is a miracle of quotation. Much of the Way of Truth survives because Simplicius (6th century CE), noting copies had become rare, quoted it at length in his commentaries on Aristotle. Perhaps a tenth of the Way of Opinion remains. The great argumentative sequence is fragment B8 (in the Diels–Kranz numbering), some sixty lines of continuous deduction — the first great surviving piece of pure deductive argument in Western philosophy.
 
@@ -30,19 +30,45 @@ Its survival is a miracle of quotation. Much of the Way of Truth survives becaus
 
 ### The routes of inquiry
 
-The goddess lays out the "routes of inquiry for thinking" (B2). The first: *it is, and it is impossible for it not to be* — the path of truth. The second: *it is not, and it must not be* — a path from which nothing can be learned, "for you could not know what is not — that is impossible — nor could you declare it." A third route, mortals' confused wandering, is rejected. Everything follows from policing the second route: thought and speech require an object. You can only think of *what is*; "what is not" is nothing — it cannot be thought, referred to, or be a source of anything. This link between being, thought, and language is the poem's engine, and arguably the birth of metaphysics: a conclusion about reality extracted from the conditions of thinking anything at all.
+The goddess lays out the "only routes of inquiry that are for thinking" (B2). The first: *it is, and it is impossible for it not to be* — the path of truth. The second: *it is not, and it must not be* — a path from which nothing can be learned, "for neither can you know what is not (for it is not to be accomplished) nor can you declare it." A third route, mortals' confused wandering, is rejected. Everything follows from policing the second route: thought and speech require an object. You can only think of *what is*; "what is not" is nothing — it cannot be thought, referred to, or be a source of anything. This link between being, thought, and language is the poem's engine, and arguably the birth of metaphysics: a conclusion about reality extracted from the conditions of thinking anything at all.
 
 ### The signs of Being
 
-Fragment B8 deduces the attributes — "signs" — of what is. It is **ungenerated and imperishable**: it cannot have come from what is not (nothing comes from nothing), nor from what is (then it already existed); so it neither was nor will be, but *is*, whole and now. It is **indivisible and homogeneous**: no gaps of "what is not" can cut it into parts — it is "all full of being," like a well-rounded sphere, equally balanced from the center. It is **changeless and motionless**: change would require becoming what it is not; motion would require empty space to move into, and no such place can exist. It is **complete**, lacking nothing. The conclusion is total: reality is one, eternal, uniform, still Being. "Sphere" is best read as an image of perfection rather than a literal ball — though scholars have debated that too.
+Fragment B8 deduces the attributes — "signs" — of what is. It is **ungenerated and imperishable**: it cannot have come from what is not (nothing comes from nothing), nor from what is (then it already existed); so it neither was nor will be, but *is*, whole and now. It is **indivisible and homogeneous**: no gaps of "what is not" can cut it into parts — it is "all full of what-is," like a well-rounded sphere, equally balanced from the center. It is **changeless and motionless**: change would require becoming what it is not; motion would require empty space to move into, and no such place can exist. It is **complete**, lacking nothing. The conclusion is total: reality is one, eternal, uniform, still Being. "Sphere" is best read as an image of perfection rather than a literal ball — though scholars have debated that too.
 
 ### Reason against the senses
 
-The goddess is blunt: do not let habit force you down mortals' road, letting "the eye, sightless, and the ear, echoing" judge; instead "judge by reason (*logos*)" (B7). This is the first manifesto for deduction over perception in Greek thought. The senses report plurality, motion, birth, and death; Parmenides concludes not that perception is imperfect but that what it reports is *impossible* — names and conventions mortals have laid down. The tension is unresolved: the same goddess then delivers, in the Way of Opinion, a detailed cosmology of those appearances, including real astronomy (the Moon shining by reflected sunlight). Why include a false cosmology? Perhaps as the best account of seeming, useful for life; perhaps as a diagnosis of mortal error. It remains a live puzzle.
+The goddess is blunt: do not let habit force you down mortals' road, letting "an aimless eye and an echoing ear" judge; instead "judge by reason (*logos*)" (B7). This is the first manifesto for deduction over perception in Greek thought. The senses report plurality, motion, birth, and death; Parmenides concludes not that perception is imperfect but that what it reports is *impossible* — names and conventions mortals have laid down. The tension is unresolved: the same goddess then delivers, in the Way of Opinion, a detailed cosmology of those appearances, including real astronomy (the Moon shining by reflected sunlight). Why include a false cosmology? Perhaps as the best account of seeming, useful for life; perhaps as a diagnosis of mortal error. It remains a live puzzle.
 
 ### The response problem
 
-Parmenides' argument became a set of constraints on every successor. Any theory now had to explain apparent change *without* generation from nothing or annihilation into nothing. His pupil Zeno defended him with the famous paradoxes: grant plurality or motion, Zeno argued, and contradictions at least as bad follow. Melissus revised the doctrine, making Being infinite and incorporeal. The pluralists — Empedocles, Anaxagoras, the atomists — accepted the ban on absolute generation while rescuing appearances: birth and death are really the mixing and separation of eternal ingredients. Democritus' atoms are Parmenidean Being chopped into infinitely many pieces, with the forbidden void smuggled back as "what is not" that nonetheless is.
+Parmenides' argument became a set of constraints on every successor. Any theory now had to explain apparent change *without* generation from nothing or annihilation into nothing. His pupil Zeno defended him with the famous paradoxes: grant plurality or motion, Zeno argued, and contradictions at least as bad follow. Melissus revised the doctrine, making Being infinite and incorporeal. The pluralists — Empedocles, [Anaxagoras](presocratic-pluralists.md), the atomists — accepted the ban on absolute generation while rescuing appearances: birth and death are really the mixing and separation of eternal ingredients. Democritus' atoms are Parmenidean Being chopped into infinitely many pieces, with the forbidden void smuggled back as "what is not" that nonetheless is.
+
+## Signature arguments
+
+**The routes of inquiry (fragments B2, B6, B7)**
+
+1. There are only two "routes of inquiry that are for thinking" (B2): *it is, and it is impossible for it not to be*, and *it is not, and it must not be*.
+2. Thought and speech require an object: to think or say is to think or say something that is.
+3. What is not is nothing, so it cannot be known, thought, or spoken of: "for neither can you know what is not (for it is not to be accomplished) nor can you declare it" (B2).
+4. The third route, mortals' confused wandering between *is* and *is not*, relies on the senses, but we must "judge by reason (*logos*)" (B7), not by "an aimless eye and an echoing ear".
+Therefore, only the route *it is* can be followed; what is not cannot be in any way, and reason, not perception, decides what is real.
+
+**Objection.** Plato's *Sophist* argues that the move from "we cannot think of what is not" to "what is not cannot be in any way" is an equivocation. "What is not" can mean *different from* something, not *nothing at all*: a horse is not a man without being nothing. On that reading false speech, plurality and change remain possible.
+
+**Reply.** A Parmenidean can answer that Plato's distinction concedes the main point: the *Sophist* explicitly sets aside the opposite of being, absolute non-being, and leaves the ban on it in place. Modern scholars also dispute which sense of *is* the goddess means (existence, predication, or truth), and on some readings Plato's "difference" falls outside the original target. Whether the *Sophist* refutes Parmenides or only narrows his argument is still debated.
+
+**The signs of Being (fragment B8)**
+
+1. If what is came to be, it came either from what is not or from what is.
+2. It cannot come from what is not, since nothing comes from nothing; nor from what is, since then it already existed. So it is ungenerated and, by parallel reasoning, imperishable.
+3. No gaps of "what is not" can divide it, so it is indivisible and homogeneous, "all full of what-is".
+4. Change would require becoming what it is not, and motion would require empty space to move into; neither is possible.
+Therefore, reality is one, eternal, uniform, complete and unchanging Being, and the plurality, motion, birth and death the senses report are impossible.
+
+**Objection.** The argument proves too much, abolishing the world it should explain. Aristotle, in *Physics* I.7–8, diagnosed the error: a thing comes to be not from sheer non-being but from what it is not yet in actuality, as an unmusical man becomes musical, so change needs no generation from nothing. The pluralists answered differently, making birth and death the mixing and separation of eternal ingredients.
+
+**Reply.** These replies largely accept Parmenides' premises about generation and destruction, which shows the argument's force: every later theory had to explain apparent change without anything coming from nothing or vanishing into nothing. Whether Aristotle's distinction of senses of "being", potential and actual, dissolves the Eleatic puzzle or simply takes for granted the change Parmenides questioned is still discussed.
 
 ## Key works
 

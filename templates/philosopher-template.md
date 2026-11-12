@@ -12,6 +12,12 @@ Use this template when adding a new figure, matching the detailed entries in `er
 ## At a glance
 Lifespan (c. where conventional), place, school/tradition, "known for" in one line.
 
+(The portrait goes above this heading, under the era line: a freely licensed Wikimedia Commons image with an honest depiction caption, or a one-line note that none exists.) End the section with the lineage line:
+
+**Responds to:** [Figure](../<era>/<file>.md), … · **Answered by:** [Figure](../<era>/<file>.md), …
+
+Core entries may add `## Signature arguments`, `## In their own words` and `## Study questions` before the footer.
+
 ## Biography
 A real narrative: background, teachers and students, key life events and controversies, how they wrote, death, and how their work survived (lost works, fragments, posthumous editing where relevant).
 

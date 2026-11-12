@@ -4,13 +4,11 @@
 
 *时代：20世纪至今（1900— ） · [时代概览](README.md) · [总索引](../../index.md)*
 
-![菲莉帕·富特像](https://upload.wikimedia.org/wikipedia/en/0/03/PhilippaFoot1939.jpg)
+*菲莉帕·富特肖像：未收录。英文维基百科上的照片是合理使用（非自由许可）上传，维基共享资源中没有自由许可的图像。*
 
-*照片；文章图注为“1939年的富特”。图片来自维基百科。*
+![伊丽莎白·安斯康姆素描像](https://upload.wikimedia.org/wikipedia/commons/8/86/Elisabeth_Anscombe.jpg)
 
-![伊丽莎白·安斯康姆像](https://upload.wikimedia.org/wikipedia/en/6/60/Gertrude_Elizabeth_Margaret_Anscombe.jpg)
-
-*伊丽莎白·安斯康姆的照片，由玛丽·古斯塔夫森（Mary Gustafson）摄于1979年。图片来自维基百科。*
+*图片来自维基共享资源。*
 
 ## 概览
 

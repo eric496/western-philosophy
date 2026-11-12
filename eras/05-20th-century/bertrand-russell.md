@@ -14,13 +14,13 @@
 - **School/tradition:** Analytic philosophy — one of its founders, alongside Frege, Moore, and Wittgenstein.
 - **Known for:** Russell's paradox, the theory of descriptions, and logicism — and, to the wider public, a century of lucid, controversial writing on religion, war, education, and politics.
 
-**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md)
+**Responds to:** [Frege](gottlob-frege.md), [G. E. Moore](g-e-moore.md), [Bergson](henri-bergson.md) · **Answered by:** [Wittgenstein (early)](wittgenstein-early.md), [Wittgenstein (late)](wittgenstein-late.md), [Vienna Circle](vienna-circle-logical-positivism.md), [Whitehead](alfred-north-whitehead.md), [Strawson](austin-and-strawson.md), [Kripke](saul-kripke.md)
 
 ## Biography
 
 Bertrand Russell was born on 18 May 1872 into the British aristocracy; his grandfather, Lord John Russell, had twice been Prime Minister. His radical parents — advocates of birth control and atheists — died young (1874 and 1876), and Russell was raised at Pembroke Lodge by his grandmother, Countess Russell, in strict Victorian piety he experienced as lonely and oppressive. Educated at home, he found two rescues: Euclid, discovered at eleven and experienced as dazzling as first love, and the secret loss of his religious faith in adolescence, recorded in a journal in Greek letters to hide it.
 
-At Trinity College, Cambridge, from 1890, Russell found his intellectual home, took first-class honors in mathematics and the Moral Sciences, and fell in with G. E. Moore. With Moore he led the revolt against British Idealism (Bradley, McTaggart), which held reality is a single Absolute. Russell's revolt was pluralist and realist: the world consists of many independent things, knowable piece by piece, and logic is the instrument for understanding its structure — a founding moment of analytic philosophy.
+At Trinity College, Cambridge, from 1890, Russell found his intellectual home, took first-class honors in mathematics and the Moral Sciences, and fell in with G. E. Moore. With Moore he led the revolt against [British Idealism](../04-19th-century/british-idealists.md) (Bradley, McTaggart), which held reality is a single Absolute. Russell's revolt was pluralist and realist: the world consists of many independent things, knowable piece by piece, and logic is the instrument for understanding its structure — a founding moment of analytic philosophy.
 
 The decade after 1900 brought extraordinary technical achievement, driven by the attempt to show that mathematics rests on logic alone. In 1901 he discovered the paradox that bears his name, which undermined Gottlob Frege's system just as Frege was completing it. *The Principles of Mathematics* appeared in 1903. Then came "On Denoting" (1905), his most famous short paper, and the monumental *Principia Mathematica* (1910, 1912, 1913), written with Alfred North Whitehead — three vast volumes deriving mathematics from logical axioms, so austere that the proof that 1 + 1 = 2 arrives hundreds of pages in, with the dry comment that "the above proposition is occasionally useful."
 
@@ -69,7 +69,7 @@ In *The Problems of Philosophy* (1912), Russell distinguished *knowledge by acqu
 1. Sentences containing definite descriptions, such as “the present King of France is bald,” seem to refer to a present King of France — yet France has no king, and there is no such object to refer to.
 2. If referring required an object, we would face a bad choice: call the sentence meaningless, or populate reality with nonexistent objects for descriptions to stand for.
 3. On Russell's analysis in “On Denoting” (1905), a description is not a referring expression at all, but part of a quantificational structure: the sentence says that there is exactly one present King of France, and that whatever is one is bald.
-4. Since the existence clause is false (the uniqueness clause — "at most one" — is vacuously true when there is no king at all), the whole sentence is false.
+4. Since the existence clause is false, the whole sentence is false.
 Therefore, no mysterious nonexistent entities are needed, and such sentences are simply false — meaningful, but false.
 
 **Objection.** P. F. Strawson, in “On Referring” (1950), argued that Russell confuses sentences with their uses. Uttering “the King of France” does not assert that a king exists; it presupposes it, and when there is no king the utterance fails to make a true-or-false statement at all, rather than making a false one.
@@ -109,7 +109,7 @@ Therefore, unrestricted comprehension is false, and set theory — and with it F
 
 ## Impact and legacy
 
-Inside philosophy, Russell's influence is structural: he taught Wittgenstein (and was then displaced by him), inspired Carnap and the Vienna Circle, and set the problems Ayer imported into British logical positivism. Much later work, from Strawson to Kripke, is written in explicit argument with him. In computer science, type theory descends from his remedy for the paradox. Outside philosophy, his popular books shaped generations of readers, and the Russell–Einstein Manifesto and Pugwash gave scientists a durable model for organized political responsibility.
+Inside philosophy, Russell's influence is structural: he taught Wittgenstein (and was then displaced by him), inspired [Carnap](rudolf-carnap.md) and the Vienna Circle, and set the problems Ayer imported into British logical positivism. Much later work, from Strawson to Kripke, is written in explicit argument with him. In computer science, type theory descends from his remedy for the paradox. Outside philosophy, his popular books shaped generations of readers, and the Russell–Einstein Manifesto and Pugwash gave scientists a durable model for organized political responsibility.
 
 ## Criticisms and debates
 

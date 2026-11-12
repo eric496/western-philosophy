@@ -14,17 +14,17 @@
 - **School/tradition:** Neoplatonism — a modern name; Plotinus saw himself as Plato's interpreter
 - **Known for:** Reality emanating from the ineffable One through Intellect and Soul, and philosophy as the soul's return to its source.
 
-**Responds to:** [Plato](plato.md), [Aristotle](aristotle.md) · **Answered by:** [Augustine](../02-medieval/augustine-of-hippo.md), [Eriugena](../02-medieval/john-scotus-eriugena.md), [Nicholas of Cusa](../02-medieval/nicholas-of-cusa.md)
+**Responds to:** [Plato](plato.md), [Aristotle](aristotle.md) · **Answered by:** [Porphyry, Iamblichus & Proclus](late-neoplatonists.md), [Augustine](../02-medieval/augustine-of-hippo.md), [Eriugena](../02-medieval/john-scotus-eriugena.md), [Nicholas of Cusa](../02-medieval/nicholas-of-cusa.md)
 
 ## Biography
 
-Almost everything we know comes from the *Life of Plotinus* by his student Porphyry, prefixed to his edition of the works. Porphyry says Plotinus was ashamed of being in a body, refused to sit for a portrait or discuss his birthplace and parents, and gave his birth date only in a form letting us calculate c. 204/5 CE, probably in Egypt.
+Almost everything we know comes from the *Life of Plotinus* by his student [Porphyry](late-neoplatonists.md), prefixed to his edition of the works. Porphyry says Plotinus was ashamed of being in a body, refused to sit for a portrait or discuss his birthplace and parents, and gave his birth date only in a form letting us calculate c. 204/5 CE, probably in Egypt.
 
 At twenty-eight, dissatisfied with Alexandria's famous teachers, he was taken to hear Ammonius Saccas — who left no writings and about whom little is known — and reportedly exclaimed, "This is the man I was looking for." He stayed eleven years. In 243 he joined the emperor Gordian III's expedition against Persia, hoping to study Persian and Indian philosophy; when Gordian was murdered, Plotinus escaped to Antioch, then Rome.
 
 In Rome from 244 he taught for over twenty-five years, at first writing nothing, conducting seminars as open discussion of Plato and Aristotle. Only after ten years did he begin the treatises that became the *Enneads*. His circle included senators, physicians, and women students such as Gemina; the emperor Gallienus admired him and, Porphyry says, nearly granted him a city in Campania to refound as "Platonopolis," run on Plato's *Laws* — court rivals blocked it.
 
-Porphyry of Tyre (c. 234–c. 305 CE), his most important student, arrived in 263, and Plotinus entrusted him with editing the writings. His health failed; in 268 he retired to Campania, where he died in 270. His reported last words urged bringing "the god in us" back to "the god in the All."
+Porphyry of Tyre (c. 234–c. 305 CE), his most important student, arrived in 263, and Plotinus entrusted him with editing the writings. His health failed; in 268 he retired to Campania, where he died in 270. His reported last words, in MacKenna's translation, were "I am striving to give back the Divine in myself to the Divine in the All."
 
 Porphyry arranged the 54 treatises written between 253 and 270 not chronologically but systematically, into six sets of nine — *ennead* means "group of nine" — moving from ethics and physics (I–III) through Soul (IV) and Intellect (V) to the One (VI). That arrangement shapes how every later reader meets the system.
 
@@ -52,7 +52,7 @@ Evil is not a substance or rival power. It is privation — distance from the Go
 
 ### Beauty and contemplation
 
-In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single color can be beautiful, and a living face outshines a symmetrical corpse. Beauty is presence of Form, recognized because the soul is akin to Form. Contemplation (*theōria*) is not passive: things produce *by* contemplating — nature contemplates silently, and production is its overflow. Contemplation, not action, is the universe's most fundamental activity.
+In *Ennead* I.6 Plotinus argues beauty is not symmetry of parts: a single color can be beautiful, and the same symmetrical face is sometimes beautiful and sometimes not (VI.7.22 adds that a living face outshines a dead one of the same symmetry). Beauty is presence of Form, recognized because the soul is akin to Form. Contemplation (*theōria*) is not passive: things produce *by* contemplating — nature contemplates silently, and production is its overflow. Contemplation, not action, is the universe's most fundamental activity.
 
 ## Key works
 
@@ -70,7 +70,7 @@ Plotinus fused Plato, Aristotle, and Stoic materials into a single graded metaph
 
 ## Impact and legacy
 
-Porphyry spread the system; Iamblichus and Proclus developed it into late-antique pagan theology. Its larger afterlife was in monotheisms it did not belong to: Augustine read Plotinus in Latin translation and took from him the privation theory of evil and the inward turn, reshaping Western Christianity. Pseudo-Dionysius (c. 500) baptized Neoplatonic hierarchy and negative theology; Arabic transmission through the paraphrase known as the *Theology of Aristotle* structured medieval Islamic and Jewish metaphysics; Eriugena, Eckhart, and Cusanus carried its mystical line forward. The Renaissance Plato revival — Ficino translated the complete *Enneads* (1492) — ran on Plotinian rails.
+Porphyry spread the system; Iamblichus and Proclus developed it into late-antique pagan theology. Its larger afterlife was in monotheisms it did not belong to: Augustine read Plotinus in Latin translation and took from him the privation theory of evil and the inward turn, reshaping Western Christianity. [Pseudo-Dionysius](../02-medieval/pseudo-dionysius-and-eckhart.md) (c. 500) baptized Neoplatonic hierarchy and negative theology; Arabic transmission through the paraphrase known as the *Theology of Aristotle* structured medieval Islamic and Jewish metaphysics; Eriugena, Eckhart, and Cusanus carried its mystical line forward. The Renaissance Plato revival — [Ficino](../03-early-modern/renaissance-humanists.md) translated the complete *Enneads* (1492) — ran on Plotinian rails.
 
 ## Criticisms and debates
 

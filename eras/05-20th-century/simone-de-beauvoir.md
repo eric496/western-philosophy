@@ -13,7 +13,7 @@
 - **School/tradition:** Existential phenomenologist, novelist, and founder of modern feminist philosophy
 - **Known for:** *The Second Sex* (1949) and its claim that “one is not born, but rather becomes, a woman,” and for *The Ethics of Ambiguity* (1947)
 
-**Responds to:** [Sartre](jean-paul-sartre.md) · **Answered by:** Betty Friedan, Kate Millett and Judith Butler's generation of feminist theorists — outside this repo's entries
+**Responds to:** [Sartre](jean-paul-sartre.md) · **Answered by:** [Irigaray, Kristeva and Butler](feminist-philosophy-after-beauvoir.md); Betty Friedan and Kate Millett's generation of feminist theorists — outside this repo's entries
 
 ## Biography
 
@@ -52,6 +52,32 @@ From ambiguity she derives an ethic without absolutes but not without demands. T
 ### Situated freedom and the body
 
 Underlying everything is Beauvoir’s version of existential freedom: never abstract, always *situated*. The body is not a machine the self drives; it is our grasp on the world, experienced differently when the world treats it as an object of the gaze or a reproductive destiny — an insight she later extended in *The Coming of Age*, arguing that societies likewise *make* “the aged” by withdrawing projects from them. Her insistence that freedom is real but unequal in its conditions marks her clearest advance on the more individualist early Sartre.
+
+## Signature arguments
+
+**Becoming a woman (*The Second Sex*, Introduction and the opening of Volume II)**
+
+1. A human being is freedom situated in a body and a world; no fixed essence dictates in advance what a life must be.
+2. Biological sex is real, but femininity (the meanings, behaviours, permitted ambitions and sense of self a society attaches to a female body) is not dictated by biology.
+3. Femininity is formed across a lifetime: upbringing, toys and stories, religious myths, schooling, the division of domestic labour, marriage law and economic dependence together make a situation in which some futures open and others close.
+4. In that situation man is the Subject, the default human, and woman is constituted as the Other, a relative being defined by her relation to him; dispersed among men and divided by class and race, women lack the shared institutions through which oppressed groups usually forge solidarity, so the position endures.
+Therefore, "one is not born, but rather becomes, a woman": womanhood as encountered is made, not given. Existence precedes essence, but the becoming happens inside a situation that trains girls toward immanence rather than transcendence.
+
+**Objection.** Whose womanhood is this? Black feminist and postcolonial critics argue that "women" in the book too often means bourgeois European women. Kathryn Gines (2014) presses the point in detail: Beauvoir repeatedly compares sexism with racism, antisemitism and colonialism as parallel oppressions and then ranks gender above them, so Black women, oppressed on both counts at once, drop out of the analysis.
+
+**Reply.** Beauvoir does register division by class and race; it is part of her explanation of why the Other-position endures. Defenders add that her method, which tests each partial explanation against life as actually lived in a situation, can in principle take in situations shaped by race as well as sex. The critics answer that the analogies themselves treat "women" and racialised groups as separate groups, which is exactly what leaves Black women out. Whether the method can be extended without its analogies is an open debate.
+
+**The ethics of ambiguity (*The Ethics of Ambiguity*, 1947)**
+
+1. The human condition is ambiguous: we are both freedom and object, a self for ourselves and a thing in others' eyes, and any doctrine that denies either pole is an evasion.
+2. No absolute, whether God or History, hands down values; meaning is created through our projects.
+3. My projects need a world of other free people to give them meaning.
+4. So I cannot coherently will my own freedom without also willing the freedom of others.
+Therefore, oppression, which treats freedoms as things, is the central moral evil: an ethic without absolutes is not an ethic without demands.
+
+**Objection.** This is the familiar charge against secular ethics, made famous by Dostoevsky (without God, everything is permitted), in a sharper form. Step 4 is the one critics most question: a tyrant or an adventurer seems to will his own freedom perfectly consistently while using other people as instruments, so why must willing my freedom commit me to anyone else's?
+
+**Reply.** Beauvoir's portraits of failure (the "serious man" hiding inside an absolute cause, the nihilist, the adventurer) are meant to show that such lives misread or refuse freedom. A project is an appeal to others to take it up and carry it on; reduce them to things and one's own projects lose the world that gives them meaning. She does not pretend this yields a rule for hard cases, such as when opposing oppression requires violence. Whether her derivation of obligation from freedom itself succeeds remains the book's central scholarly debate.
 
 ## Key works
 

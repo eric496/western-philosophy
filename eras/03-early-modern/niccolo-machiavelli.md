@@ -38,7 +38,7 @@ The central pair of his thought. **Fortuna** is fortune: the stream of events no
 
 ### The Prince: cruelty, fear, and the fox and the lion
 
-*The Prince* asks how a *new* prince — one without hereditary legitimacy — acquires and holds a state. Its notorious advice is more analytical than gleeful. A prince must learn "how not to be good" and use that knowledge as necessity requires, while taking care to *appear* merciful, faithful, and religious, because men judge by appearances and outcomes. He should be both lion and fox: the lion to frighten wolves, the fox to recognize snares. Cruelty, if used at all, should be committed "at a stroke" at the beginning, for reasons of security, and then converted into benefits; injuries repeated over time keep hatred alive. On the famous question, Machiavelli concludes that if one must choose, it is safer to be feared than loved — love is held by obligation, which men break; fear is held by dread of punishment, which never abandons — provided the prince avoids being *hated*, above all by keeping his hands off his subjects' property and women. Underneath the shock tactics is a functional argument: in a world of armed rivals, the qualities that make a man good in private life can destroy a state and everyone depending on it.
+*The Prince* asks how a *new* prince — one without hereditary legitimacy — acquires and holds a state. Its notorious advice is more analytical than gleeful. A prince must "learn to be able not to be good" (*The Prince* XV, trans. Mansfield) and use that knowledge as necessity requires, while taking care to *appear* merciful, faithful, and religious, because men judge by appearances and outcomes. He should be both lion and fox: the lion to frighten wolves, the fox to recognize snares. Cruelty, if used at all, should be committed "at a stroke" at the beginning, for reasons of security, and then converted into benefits; injuries repeated over time keep hatred alive. On the famous question, Machiavelli concludes that if one must choose, it is safer to be feared than loved — love is held by obligation, which men break; fear is held by dread of punishment, which never abandons — provided the prince avoids being *hated*, above all by keeping his hands off his subjects' property and women. Underneath the shock tactics is a functional argument: in a world of armed rivals, the qualities that make a man good in private life can destroy a state and everyone depending on it.
 
 ### The Discourses: republicanism and productive conflict
 
@@ -49,6 +49,32 @@ Other key themes follow: republics need periodic "returns to beginnings" — ren
 ### Citizen arms
 
 Running through both works is the maxim that good laws require good arms, and good arms must be one's own. Mercenaries and auxiliaries are "useless and dangerous" (*The Prince*, Chapters 12–13). The citizen militia of the *Discourses* and the *Art of War* is the military form of republican politics: a people that defends itself cannot be ruled against its will.
+
+## Signature arguments
+
+**Why a new prince must be able not to be good, and is safer feared than loved (*The Prince* XV–XVII, XIX)**
+
+1. Political advice must follow "the effectual truth of the thing," how people actually live, not imagined republics; a ruler who studies only how men ought to live learns his ruin rather than his preservation.
+2. People in general are "ungrateful, fickle, pretenders and dissemblers, evaders of danger, eager for gain," and a new prince is surrounded by armed rivals.
+3. Love is held by a bond of obligation, which such people break whenever it suits them; fear is held by dread of punishment, which never lets go.
+4. Hatred, unlike fear, makes subjects conspire, and a prince who keeps his hands off his subjects' property and women can be feared without being hated.
+Therefore, a prince must "learn to be able not to be good" and use that as necessity requires, while appearing merciful and faithful; if he must choose, it is safer to be feared than loved, provided he is not hated.
+
+**Objection.** This is a licence for evil dressed up as realism. Leo Strauss read Machiavelli as a deliberate teacher of evil, who lowered the aim of politics from virtue to comfort and glory; the gibe that *The Prince* is a handbook for gangsters puts the same charge bluntly.
+
+**Reply.** The advice is bounded by its aim, a stable and lawful state that outlives its founder. Machiavelli condemns cruelty that is drawn out over time, warns against the hatred that seizing property breeds, and refuses to call Agathocles' purely criminal success glory (*The Prince* VIII). On this reading he is reckoning honestly with necessity, not praising cruelty for its own sake. Whether that reckoning is honest or a cover for evil remains genuinely contested, and the Cambridge School's contextual reading and Strauss's reading still divide scholars.
+
+**The tumults that made Rome free (*Discourses* I.4–5)**
+
+1. Every republic contains two different dispositions (Machiavelli's *umori*, humours): that of the great, who want to dominate, and that of the people, who want only not to be dominated.
+2. Rome let the people press their demands by recognised means, such as street protest or refusing to enlist, and in more than three hundred years its clashes seldom ended in exile and very rarely in bloodshed.
+3. Those clashes produced the laws and offices that guarded Roman liberty, above all the tribunes, created as a guard of that liberty.
+4. What produces the laws that guard liberty cannot fairly be blamed as the ruin of the city.
+Therefore, the disunion between plebs and Senate that most writers condemn was the first cause of Rome's freedom and power; well-ordered conflict is a source of strength in a republic.
+
+**Objection.** Francesco Guicciardini, Machiavelli's friend and fellow Florentine, answered in his *Considerations on the Discourses* (I.4) that the disunion came from a defect, the exclusion of the plebs from office, which Rome should have fixed at the start. To praise the disunion, he wrote, is like praising a sick man's illness because the remedy given for it was good.
+
+**Reply.** Machiavelli's claim is about conflict that runs through laws and institutions, not faction as such. In his *Florentine Histories* (III.1) he contrasts Rome, whose quarrels ended in laws, with Florence, whose quarrels ended in exiles and killing. The question is how a republic can channel the clash of the two humours, not whether it can abolish it. Whether that distinction answers Guicciardini, or concedes that the conflict was a disease Rome happened to survive, is still argued, and no verdict has settled it.
 
 ## Key works
 
@@ -73,13 +99,13 @@ Machiavelli effectively founded the modern study of politics as an autonomous ac
 
 ## Impact and legacy
 
-The reception was immediate and violent. The Church placed his works on the Index of Prohibited Books (1559); Elizabethan drama made "Machiavel" a stock villain, and "Old Nick" — a nickname for the Devil — was popularly linked to his first name. A counter-tradition began just as early: Spinoza called him "most wise," and James Harrington, Algernon Sidney, and the English republicans mined the *Discourses*. Rousseau declared that *The Prince*, read properly, was "the book of republicans" — a satire or a warning exposing how princes rule. The American founders read him, directly and through the republican tradition, on factions, citizen arms, and the corruption of standing armies. In the twentieth century, Gramsci recast the Prince as the modern political party; Isaiah Berlin argued Machiavelli exposed a genuine clash between Christian and pagan moral worlds; Quentin Skinner and J. G. A. Pocock's *The Machiavellian Moment* (1975) restored the *Discourses* to the center of his thought; and contemporary republican theorists of freedom as non-domination (Pettit, Skinner) claim direct descent. "Machiavellian" meanwhile entered psychology as a personality trait — a fate the theorist of appearances might have appreciated.
+The reception was immediate and violent. The Church placed his works on the Index of Prohibited Books (1559); Elizabethan drama made "Machiavel" a stock villain, and "Old Nick" — a nickname for the Devil — was popularly linked to his first name. A counter-tradition began just as early: Spinoza called him "the most ingenious Machiavelli" and "that most far-seeing man" (*Political Treatise* V.7, trans. Elwes), and James Harrington, Algernon Sidney, and the English republicans mined the *Discourses*. Rousseau declared that *The Prince*, read properly, was "the book of republicans" — a satire or a warning exposing how princes rule. The American founders read him, directly and through the republican tradition, on factions, citizen arms, and the corruption of standing armies. In the twentieth century, Gramsci recast the Prince as the modern political party; Isaiah Berlin argued Machiavelli exposed a genuine clash between Christian and pagan moral worlds; Quentin Skinner and J. G. A. Pocock's *The Machiavellian Moment* (1975) restored the *Discourses* to the center of his thought; and contemporary republican theorists of freedom as non-domination (Pettit, Skinner) claim direct descent. "Machiavellian" meanwhile entered psychology as a personality trait — a fate the theorist of appearances might have appreciated.
 
 ## Criticisms and debates
 
 - **Is *The Prince* sincere, satirical, or a job application?** It was written by a dismissed republican official hoping for Medici employment. Readings range from straightforward counsel, to a trap exposing tyranny, to a republican warning disguised as advice. The dedication's shift and the book's final chapter — an exhortation to liberate Italy from foreign domination — keep all three readings alive.
 - **One thinker or two?** Whether the authoritarian *Prince* and the republican *Discourses* express one coherent theory (different remedies for different situations: founding vs. maintaining) or a real tension in Machiavelli is the classic scholarly debate; the current consensus leans to coherence, with the *Discourses* as the fuller statement.
-- **The moral verdict.** Bertrand Russell called *The Prince* "a handbook for gangsters"; others reply that Machiavelli's harsh advice is bounded by the aim of stable, lawful order and that he consistently condemns mere cruelty and Agathocles-style criminal success. Whether his realism is an honest reckoning with necessity or a licence for evil remains genuinely contested.
+- **The moral verdict.** *The Prince* is often dismissed as a handbook for gangsters (a gibe commonly credited to Bertrand Russell, though no source for it has been found); others reply that Machiavelli's harsh advice is bounded by the aim of stable, lawful order and that he consistently condemns mere cruelty and Agathocles-style criminal success. Whether his realism is an honest reckoning with necessity or a licence for evil remains genuinely contested.
 - **Strauss vs. the contextualists.** Strauss read him as a deliberate teacher of evil who lowered politics' aim from virtue to comfort and glory; the Cambridge School reads him within Renaissance humanist conventions. The dispute is as much about how to read old texts as about Machiavelli himself.
 
 ## Misreadings to avoid

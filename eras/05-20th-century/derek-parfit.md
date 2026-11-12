@@ -46,12 +46,12 @@ Comparing populations, Parfit showed that seemingly innocent principles collide.
 
 ### The Triple Theory: climbing the same mountain
 
-*On What Matters* defends an ambitious hope: that the great moral traditions are converging. Parfit argues that the best versions of **Kantian ethics** (act only on principles everyone could rationally will to be universal laws), **Scanlonian contractualism** (act only on principles no one could reasonably reject), and **rule consequentialism** (follow the code whose general acceptance would make things go best) turn out to require the same acts. Adherents of rival theories, he writes, have been "climbing the mountain on different sides" — disagreeing about the route, not the summit. Much of the book is a painstaking, clause-by-clause revision of Kant's formulas intended to make the convergence exact rather than rhetorical.
+*On What Matters* defends an ambitious hope: that the great moral traditions are converging. Parfit argues that the best versions of **Kantian ethics** (act only on principles everyone could rationally will to be universal laws), **Scanlonian contractualism** (act only on principles no one could reasonably reject), and **rule consequentialism** (follow the code whose general acceptance would make things go best) turn out to require the same acts. Adherents of rival theories, he writes, are "climbing the same mountain on different sides" — disagreeing about the route, not the summit. Much of the book is a painstaking, clause-by-clause revision of Kant's formulas intended to make the convergence exact rather than rhetorical.
 
 ## Key works
 
-- *Reasons and Persons* (1984) — The masterwork: self-defeating theories of rationality, personal identity, and Part IV on future generations that founded modern population ethics.
-- *On What Matters*, vols. 1–2 (2011) and vol. 3 (2017) — The convergence project: reasons, Kant, contractualism, and consequentialism; vol. 2 includes responses by Barbara Herman, T. M. Scanlon, and others, with Parfit's replies.
+- *Reasons and Persons* (1984) — The masterwork: self-defeating theories of rationality, personal identity, and Parts III–IV on future generations that founded modern population ethics.
+- *On What Matters*, vols. 1–2 (2011) and vol. 3 (2017) — The convergence project: reasons, Kant, contractualism, and consequentialism; vol. 2 includes commentaries by Susan Wolf, Allen Wood, Barbara Herman and T. M. Scanlon, with Parfit's replies.
 - "Personal Identity" (1971) and "Later Selves and Moral Principles" (1973) — The early papers that launched the identity arguments.
 
 ## Contributions
