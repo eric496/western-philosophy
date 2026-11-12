@@ -1,4 +1,5 @@
 # Quotes in Context
+**English** | [简体中文](zh/quotes-in-context.md)
 
 Famous philosophical lines get quoted as free-floating slogans, but almost every one of them is doing a
 specific job in a specific argument, often in someone else's mouth. This list gives each line its work,

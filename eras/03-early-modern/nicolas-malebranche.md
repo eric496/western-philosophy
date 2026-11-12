@@ -1,4 +1,5 @@
 # Nicolas Malebranche
+**English** | [简体中文](../../zh/eras/03-early-modern/nicolas-malebranche.md)
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 

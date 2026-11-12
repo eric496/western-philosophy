@@ -1,4 +1,5 @@
 # Analytic Philosophy after Quine: Sellars, Davidson, Putnam and Lewis
+**English** | [简体中文](../../zh/eras/05-20th-century/analytic-philosophy-after-quine.md)
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
