@@ -170,7 +170,9 @@ def qnorm(s):
 
 quotes = []
 for path in text_files:
-    if path.startswith("templates/"):
+    # zh/ pages are translations: their quotations differ from the English by design,
+    # and qnorm() strips Chinese, so only stray Latin-script titles would be compared.
+    if path.startswith(("templates/", "zh/")):
         continue
     for n, line in enumerate(open(path, encoding="utf-8"), 1):
         for m in QUOTE.finditer(strip_code(line)):
