@@ -1,4 +1,5 @@
 # Focus Study: Aristotle (384 – 322 BCE)
+**English** | [简体中文](../../zh/focus-studies/aristotle/README.md)
 
 ![Portrait of Aristotle](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail)
 

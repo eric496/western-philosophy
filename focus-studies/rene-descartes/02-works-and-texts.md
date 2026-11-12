@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/02-works-and-texts.md)
 
 *Focus study: Descartes · [Dossier home](README.md) · Library entry: [René Descartes](../../eras/03-early-modern/rene-descartes.md) · Study guide: [*Meditations*](../../study/descartes-meditations.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

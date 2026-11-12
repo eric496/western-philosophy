@@ -1,4 +1,5 @@
 # Focus Study: René Descartes (1596 – 1650)
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/README.md)
 
 ![Portrait of René Descartes](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/250px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
 

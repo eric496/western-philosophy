@@ -1,4 +1,5 @@
 # Study Plan — Aristotle in Nine Weeks
+**English** | [简体中文](../../zh/focus-studies/aristotle/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

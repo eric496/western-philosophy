@@ -1,4 +1,5 @@
 # Descartes: The System and Its Concepts
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [René Descartes](../../eras/03-early-modern/rene-descartes.md) · Arguments in full: [04-arguments.md](04-arguments.md) · Study guide: [*Meditations on First Philosophy*](../../study/descartes-meditations.md)*
 

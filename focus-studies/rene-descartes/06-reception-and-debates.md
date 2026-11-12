@@ -1,4 +1,5 @@
 # Descartes Received: Condemnation, Vortices, the Father of Modern Philosophy, and the Fights Still Open
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/06-reception-and-debates.md)
 
 *Focus study: René Descartes · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/rene-descartes.md) · [Study guide](../../study/descartes-meditations.md)*
 

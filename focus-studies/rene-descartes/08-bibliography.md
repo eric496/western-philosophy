@@ -1,4 +1,5 @@
 # Bibliography — Descartes
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are publisher list prices where checked (Hackett's own pages, November 2026); Cambridge and Chicago prices were not visible to this check and are left out. The primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's seven weeks. One fact governs the whole list: every serious edition prints **Adam–Tannery (AT)** volume and page numbers in its margins. AT is the critical edition of Descartes' works, edited by Charles Adam and Paul Tannery in twelve volumes (Paris, 1897–1913) and later revised by the publisher Vrin. A reference such as AT VII 25 means volume VII (the Latin *Meditations*), page 25. Every citation in this dossier uses it, so any of the editions below will find it.
 

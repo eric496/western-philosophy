@@ -1,4 +1,5 @@
 # Aristotle Received — "The Philosopher," the Rebellion Against Him, and the Fights Still Open
+**English** | [简体中文](../../zh/focus-studies/aristotle/06-reception-and-debates.md)
 
 *Focus study: Aristotle · [Dossier home](README.md) · [Library entry](../../eras/01-ancient/aristotle.md)*
 

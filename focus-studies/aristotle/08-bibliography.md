@@ -1,4 +1,5 @@
 # Bibliography — Aristotle
+**English** | [简体中文](../../zh/focus-studies/aristotle/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are publisher list prices where checked (Hackett's own pages, November 2026); the primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's nine weeks. One fact governs the whole list: what survives of Aristotle is not what he published. The polished dialogues that ancient readers admired are lost except for fragments; what we read are the school treatises, edited lecture materials whose repetitions and abrupt joins reflect that origin (see [the library entry](../../eras/01-ancient/aristotle.md), "Misreadings to avoid"). Every edition below prints Bekker numbers (page, column and line of the 1831 Berlin Academy edition, e.g. 1106b36) in the margin, so any citation in this dossier can be found in any of them.
 

@@ -1,4 +1,5 @@
 # Aristotle in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/aristotle/05-conversations.md)
 
 *Focus study: Aristotle · [Dossier home](README.md) · [Library entry](../../eras/01-ancient/aristotle.md)*
 
