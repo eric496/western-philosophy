@@ -1,4 +1,5 @@
 # Study Plan — Aquinas in Eight Weeks
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

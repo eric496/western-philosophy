@@ -1,4 +1,5 @@
 # Aquinas: The Arguments
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Thomas Aquinas](../../eras/02-medieval/thomas-aquinas.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*Summa Theologiae* selections](../../study/aquinas-summa.md)*
 

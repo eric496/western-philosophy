@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/david-hume/02-works-and-texts.md)
 
 *Focus study: Hume · [Dossier home](README.md) · Library entry: [David Hume](../../eras/03-early-modern/david-hume.md) · Study guide: [*Enquiry Concerning Human Understanding*](../../study/hume-enquiry.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

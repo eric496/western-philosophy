@@ -1,4 +1,5 @@
 # Bibliography — Thomas Aquinas
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. No prices are given. The publisher pages that would show them (Cambridge, Oxford, Oneworld, Hackett) did not answer this check (November 2026), so publishers and years below were taken from a library catalogue (Open Library) or from the bibliographies of the SEP and IEP entries, and are marked where the two disagree. Page counts are given only where the catalogue record states them. One fact governs the whole list: Aquinas is cited by **part, question and article** for the *Summa Theologiae* (ST Ia Q2 a3), by **book and chapter** for the *Summa contra Gentiles* (SCG I.13), and by title and chapter for the short treatises. Every modern translation prints these divisions, so any edition below will find every reference in this dossier. [02-works-and-texts.md](02-works-and-texts.md) explains the system and gives the edition rulings this list follows.
 

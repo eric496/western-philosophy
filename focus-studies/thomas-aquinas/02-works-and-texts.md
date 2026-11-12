@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/02-works-and-texts.md)
 
 *Focus study: Thomas Aquinas · [Dossier home](README.md) · Library entry: [Thomas Aquinas](../../eras/02-medieval/thomas-aquinas.md) · Study guide: [*Summa Theologiae* selections](../../study/aquinas-summa.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

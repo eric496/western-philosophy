@@ -1,4 +1,5 @@
 # Hume Received: The Great Infidel, the Sceptic, the Naturalist, and the Fights Still Open
+**English** | [简体中文](../../zh/focus-studies/david-hume/06-reception-and-debates.md)
 
 *Focus study: David Hume · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/david-hume.md) · [Study guide](../../study/hume-enquiry.md)*
 
