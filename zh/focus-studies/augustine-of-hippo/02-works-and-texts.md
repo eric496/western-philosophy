@@ -170,7 +170,7 @@ XIX.1–4论至善，XIX.7论战争，XIX.13论和平："万物的和平是秩�
 6. **第6周，神意与两种爱：**《上帝之城》I选读、IV.4、V.9–11、XI–XII选读、XIV.1–4、13、28。
 7. **第7周，和平与战争：**《上帝之城》第十九卷；《驳福斯图斯》XXII.74–75；结业论文。
 
-奥古斯丁所回应的人物和回应他的人物都有图书馆条目：[柏拉图](../../eras/01-ancient/plato.md)及[柏拉图档案](../plato/README.md)、[普罗提诺](../../eras/01-ancient/plotinus.md)、[波菲利与晚期新柏拉图主义者](../../eras/01-ancient/late-neoplatonists.md)、[西塞罗](../../eras/01-ancient/cicero-and-lucretius.md)、[怀疑论者](../../eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)、[波爱修斯](../../eras/02-medieval/boethius.md)、[安瑟尔谟](../../eras/02-medieval/anselm-of-canterbury.md)、[阿奎那](../../eras/02-medieval/thomas-aquinas.md)、[笛卡尔](../../eras/03-early-modern/rene-descartes.md)及[笛卡尔档案](../../../focus-studies/rene-descartes/README.md)（英文版）、[帕斯卡尔](../../eras/03-early-modern/blaise-pascal.md)，以及后期[维特根斯坦](../../eras/05-20th-century/wittgenstein-late.md)及[维特根斯坦档案](../ludwig-wittgenstein/README.md)。
+奥古斯丁所回应的人物和回应他的人物都有图书馆条目：[柏拉图](../../eras/01-ancient/plato.md)及[柏拉图档案](../plato/README.md)、[普罗提诺](../../eras/01-ancient/plotinus.md)、[波菲利与晚期新柏拉图主义者](../../eras/01-ancient/late-neoplatonists.md)、[西塞罗](../../eras/01-ancient/cicero-and-lucretius.md)、[怀疑论者](../../eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md)、[波爱修斯](../../eras/02-medieval/boethius.md)、[安瑟尔谟](../../eras/02-medieval/anselm-of-canterbury.md)、[阿奎那](../../eras/02-medieval/thomas-aquinas.md)、[笛卡尔](../../eras/03-early-modern/rene-descartes.md)及[笛卡尔档案](../rene-descartes/README.md)、[帕斯卡尔](../../eras/03-early-modern/blaise-pascal.md)，以及后期[维特根斯坦](../../eras/05-20th-century/wittgenstein-late.md)及[维特根斯坦档案](../ludwig-wittgenstein/README.md)。
 
 ---
 

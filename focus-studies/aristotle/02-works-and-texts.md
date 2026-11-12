@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/aristotle/02-works-and-texts.md)
 
 Aristotle's bibliography has the opposite shape to Plato's. Plato's polished dialogues survive entire; Aristotle's polished works are the ones that are lost. He wrote dialogues for the public in his Academy years, works Cicero praised for their style, and little of them remains beyond fragments quoted by later authors. What survives are the **treatises**: lecture texts, drafts and research files written for the school's inner circle, revised over years and assembled into their present books by later editors. The Stanford Encyclopedia counts thirty-one surviving works judged authentic. Their prose is compressed and technical, and the library entry's warning stands at the head of this file: [these are not finished books](../../eras/01-ancient/aristotle.md). Repetitions, abrupt turns and apparent contradictions are partly marks of how the texts were made.
 

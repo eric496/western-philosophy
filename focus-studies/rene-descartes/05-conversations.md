@@ -1,4 +1,5 @@
 # Descartes in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/05-conversations.md)
 
 *Focus study: René Descartes · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/rene-descartes.md) · [Study guide](../../study/descartes-meditations.md)*
 

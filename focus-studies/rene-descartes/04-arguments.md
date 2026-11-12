@@ -1,4 +1,5 @@
 # Descartes: The Arguments
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [René Descartes](../../eras/03-early-modern/rene-descartes.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*Meditations on First Philosophy*](../../study/descartes-meditations.md)*
 

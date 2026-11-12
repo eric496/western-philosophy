@@ -1,4 +1,5 @@
 # Aristotle: The Arguments
+**English** | [简体中文](../../zh/focus-studies/aristotle/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Aristotle](../../eras/01-ancient/aristotle.md) · The architecture these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*Nicomachean Ethics*](../../study/aristotle-nicomachean-ethics.md)*
 

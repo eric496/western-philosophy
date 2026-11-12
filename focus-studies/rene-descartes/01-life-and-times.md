@@ -1,4 +1,5 @@
 # Life and Times: La Flèche, the Stove-Heated Room, the Dutch Republic, and Stockholm
+**English** | [简体中文](../../zh/focus-studies/rene-descartes/01-life-and-times.md)
 
 Descartes told his own life once, as a story. Part I of the *Discourse on the Method* (1637) describes a boy schooled at a famous college who lost faith in his schooling, travelled, and resolved to rebuild his beliefs alone. The story is shaped to sell a method, and some scholars, Roger Ariew among them, read its narrator as a persona. Firmer evidence is the correspondence, edited with the works by Charles Adam and Paul Tannery (1897–1913, cited here as AT). The first full biography, Adrien Baillet's *La Vie de Monsieur Des-Cartes* (1691), is indispensable and unreliable at once; a section below weighs it. The modern lives are by Geneviève Rodis-Lewis (1995), Stephen Gaukroger (1995) and Desmond Clarke (2006). This file marks what the letters record, what only Baillet reports, and what is legend or dispute.
 

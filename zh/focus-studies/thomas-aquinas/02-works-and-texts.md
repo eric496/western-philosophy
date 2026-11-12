@@ -165,7 +165,7 @@ SCG I.3–8论关于上帝的两种真理，以及为什么两者都适宜被提
 7. **第7周，法律：** ST Ia-IIae Q90–97；IIa-IIae Q40、Q64 a7。
 8. **第8周，信仰与理性；总结：** SCG I.3–8；ST IIa-IIae Q1–2；1270年和1277年的谴责。
 
-阿奎那所读并回应的人物，以及回应他的人物，都有馆内条目：[亚里士多德](../../eras/01-ancient/aristotle.md)以及[亚里士多德档案](../../../focus-studies/aristotle/README.md)（英文版）、[奥古斯丁](../../eras/02-medieval/augustine-of-hippo.md)以及[奥古斯丁档案](../augustine-of-hippo/README.md)、[波埃修](../../eras/02-medieval/boethius.md)、[伪狄奥尼修斯](../../eras/02-medieval/pseudo-dionysius-and-eckhart.md)、[伊本·西那](../../eras/02-medieval/avicenna.md)、[伊本·鲁世德](../../eras/02-medieval/averroes.md)、[迈蒙尼德](../../eras/02-medieval/maimonides.md)、[邓斯·司各脱](../../eras/02-medieval/john-duns-scotus.md)和[苏亚雷斯](../../eras/03-early-modern/suarez-and-grotius.md)。
+阿奎那所读并回应的人物，以及回应他的人物，都有馆内条目：[亚里士多德](../../eras/01-ancient/aristotle.md)以及[亚里士多德档案](../aristotle/README.md)、[奥古斯丁](../../eras/02-medieval/augustine-of-hippo.md)以及[奥古斯丁档案](../augustine-of-hippo/README.md)、[波埃修](../../eras/02-medieval/boethius.md)、[伪狄奥尼修斯](../../eras/02-medieval/pseudo-dionysius-and-eckhart.md)、[伊本·西那](../../eras/02-medieval/avicenna.md)、[伊本·鲁世德](../../eras/02-medieval/averroes.md)、[迈蒙尼德](../../eras/02-medieval/maimonides.md)、[邓斯·司各脱](../../eras/02-medieval/john-duns-scotus.md)和[苏亚雷斯](../../eras/03-early-modern/suarez-and-grotius.md)。
 
 ---
 
