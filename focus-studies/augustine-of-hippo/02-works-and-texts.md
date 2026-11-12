@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/02-works-and-texts.md)
 
 *Focus study: Augustine · [Dossier home](README.md) · Library entry: [Augustine of Hippo](../../eras/02-medieval/augustine-of-hippo.md) · Study guide: [*Confessions*](../../study/augustine-confessions.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

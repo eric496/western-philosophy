@@ -1,4 +1,5 @@
 # Augustine in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/05-conversations.md)
 
 *Focus study: Augustine of Hippo · [Dossier home](README.md) · [Library entry](../../eras/02-medieval/augustine-of-hippo.md) · [Study guide](../../study/augustine-confessions.md)*
 

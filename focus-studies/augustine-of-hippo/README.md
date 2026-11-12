@@ -1,4 +1,5 @@
 # Focus Study: Augustine of Hippo (354 – 430)
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/README.md)
 
 ![Portrait of Augustine of Hippo](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/250px-Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
