@@ -1,4 +1,5 @@
 # Hume: The Arguments
+**English** | [简体中文](../../zh/focus-studies/david-hume/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [David Hume](../../eras/03-early-modern/david-hume.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*An Enquiry Concerning Human Understanding*](../../study/hume-enquiry.md)*
 

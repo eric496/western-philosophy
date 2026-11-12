@@ -1,4 +1,5 @@
 # Focus Study: Thomas Aquinas (c. 1225 – 1274)
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/README.md)
 
 ## The figure in brief
 

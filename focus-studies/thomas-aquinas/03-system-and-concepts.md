@@ -1,4 +1,5 @@
 # Aquinas: The System and Its Concepts
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Thomas Aquinas](../../eras/02-medieval/thomas-aquinas.md) · Arguments in full: [04-arguments.md](04-arguments.md) · Study guide: [*Summa Theologiae* selections](../../study/aquinas-summa.md)*
 

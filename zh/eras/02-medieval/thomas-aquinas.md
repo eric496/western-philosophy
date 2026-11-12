@@ -17,7 +17,7 @@
 
 **回应：** [亚里士多德](../01-ancient/aristotle.md)、[奥古斯丁](augustine-of-hippo.md)、[伊本·鲁世德](averroes.md) · **后续回应：** [邓斯·司各脱](john-duns-scotus.md)、[奥卡姆](william-of-ockham.md)、[苏亚雷斯](../03-early-modern/suarez-and-grotius.md)
 
-**专题研究：** [阿奎那专题档案](../../../focus-studies/thomas-aquinas/README.md)（英文版）——超出本条目的完整深入研究：以八周时间研读《神学大全》与《反异教大全》，并读《论存在与本质》；从五种论证到双重效果的十六个论证重构；从1277年到分析托马斯主义的接受史；一副卡片组。
+**专题研究：** [阿奎那专题档案](../../focus-studies/thomas-aquinas/README.md)——超出本条目的完整深入研究：以八周时间研读《神学大全》与《反异教大全》，并读《论存在与本质》；从五种论证到双重效果的十六个论证重构；从1277年到分析托马斯主义的接受史；一副卡片组。
 
 ## 生平
 

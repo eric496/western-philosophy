@@ -1,4 +1,5 @@
 # Hume in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/david-hume/05-conversations.md)
 
 *Focus study: David Hume · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/david-hume.md) · [Study guide](../../study/hume-enquiry.md)*
 

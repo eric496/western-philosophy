@@ -1,4 +1,5 @@
 # Aquinas in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/05-conversations.md)
 
 *Focus study: Thomas Aquinas · [Dossier home](README.md) · [Library entry](../../eras/02-medieval/thomas-aquinas.md) · [Study guide](../../study/aquinas-summa.md)*
 

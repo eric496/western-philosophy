@@ -1,4 +1,5 @@
 # Aquinas Received: Suspect, Saint, Common Doctor, and the Quarrels Still Open
+**English** | [简体中文](../../zh/focus-studies/thomas-aquinas/06-reception-and-debates.md)
 
 *Focus study: Thomas Aquinas · [Dossier home](README.md) · [Library entry](../../eras/02-medieval/thomas-aquinas.md) · [Study guide](../../study/aquinas-summa.md)*
 

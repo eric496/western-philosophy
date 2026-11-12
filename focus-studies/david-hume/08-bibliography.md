@@ -1,4 +1,5 @@
 # Bibliography — Hume
+**English** | [简体中文](../../zh/focus-studies/david-hume/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are given only where checked on the publisher's own page (Hackett, November 2026); Oxford, Cambridge and Liberty Fund prices were not visible to this check and are left out. The primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's eight weeks. One fact governs the whole list: the dossier cites Hume by the **Clarendon paragraph numbers** (T 1.3.6.11, EHU 4.18, EPM 9.22, DNR 12.1), which the Clarendon Edition of the Works of David Hume introduced and which the editions below print. [02-works-and-texts.md](02-works-and-texts.md) explains the system and the older SBN page numbers. Buy editions that print the paragraph numbers, and every reference in this dossier will find its place.
 

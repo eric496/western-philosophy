@@ -1,4 +1,5 @@
 # Life and Times: Ninewells, La Flèche, the Advocates' Library, Paris, and St Andrew Square
+**English** | [简体中文](../../zh/focus-studies/david-hume/01-life-and-times.md)
 
 Hume told his own life once, in eight pages. *My Own Life* (MOL, cited by paragraph) is dated 18 April 1776, when he knew he was dying, and was written to stand in front of his collected works. He promised "little more than the History of my Writings" (MOL 1) and kept the promise, so his youthful breakdown, the two lost chairs, the Kirk's proceedings, the Rousseau quarrel and the *Dialogues* are all missing. A section below weighs it. The firmer record is the correspondence, edited by J. Y. T. Greig (*Letters*, 1932) and by Raymond Klibansky and Ernest Mossner (*New Letters*, 1954). The modern lives are Mossner's *The Life of David Hume* (1954; 2nd edn 1980) and James Harris's *Hume: An Intellectual Biography* (2015). Hume is quoted from *Hume Texts Online* in his own spelling; other writers only where a public text could be checked.
 
