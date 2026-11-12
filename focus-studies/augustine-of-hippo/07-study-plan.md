@@ -1,4 +1,5 @@
 # Study Plan — Augustine in Seven Weeks
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

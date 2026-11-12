@@ -1,4 +1,5 @@
 # Augustine: The Arguments
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Augustine of Hippo](../../eras/02-medieval/augustine-of-hippo.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*Confessions*](../../study/augustine-confessions.md)*
 

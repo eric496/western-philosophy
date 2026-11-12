@@ -250,7 +250,7 @@
 
 | # | 人物 | 层级 | 原典文本与版本 |
 |---|---|---|---|
-| 1 | [奥古斯丁](eras/02-medieval/augustine-of-hippo.md) | ● | 《忏悔录》(*Confessions*) I–VIII、XI（时间）。版本：Boulding 译（New City Press）或 Sheed 译（Hackett，带 Foley 注释）。不要从《上帝之城》开始（只选 Book XIX，且更晚再读）。若本阶段进展顺利，可选《论自由抉择》(*On Free Choice of the Will*) 节选。学习指南：[《忏悔录》](study/augustine-confessions.md)。可用的专题研读：[奥古斯丁档案](../focus-studies/augustine-of-hippo/README.md)（英文版）——七周内读完《忏悔录》至第十一卷、自由意志与恩典，以及两周的《上帝之城》（约 42 小时）。 |
+| 1 | [奥古斯丁](eras/02-medieval/augustine-of-hippo.md) | ● | 《忏悔录》(*Confessions*) I–VIII、XI（时间）。版本：Boulding 译（New City Press）或 Sheed 译（Hackett，带 Foley 注释）。不要从《上帝之城》开始（只选 Book XIX，且更晚再读）。若本阶段进展顺利，可选《论自由抉择》(*On Free Choice of the Will*) 节选。学习指南：[《忏悔录》](study/augustine-confessions.md)。可用的专题研读：[奥古斯丁档案](focus-studies/augustine-of-hippo/README.md)——七周内读完《忏悔录》至第十一卷、自由意志与恩典，以及两周的《上帝之城》（约 42 小时）。 |
 | 2 | [波爱修斯](eras/02-medieval/boethius.md) | ◐ | 《哲学的慰藉》(*Consolation of Philosophy*) I–III 卷选篇 + 第 V 卷（预知问题）；他交给整个时代的共相问题出自他对《导论》(*Isagoge*) 的第二部注疏（见词条）。 |
 | 3 | [安瑟尔谟](eras/02-medieval/anselm-of-canterbury.md) | ● | 《宣讲》(*Proslogion*) 第 2–4 章，**连同高尼罗的回应与安瑟尔谟的答复**——绝不要只读第 2 章；一本只印论证而不印高尼罗的选集教给你的是一个漫画。版本：OWC 的 *Anselm of Canterbury: The Major Works*，或 Williams 译本，Hackett。 |
 | 4 | 伊斯兰与犹太桥梁：[伊本·西那](eras/02-medieval/avicenna.md)、[安萨里](eras/02-medieval/al-ghazali.md)、[伊本·鲁世德](eras/02-medieval/averroes.md)、[迈蒙尼德](eras/02-medieval/maimonides.md) | ○ | **在这个压缩阶段中按设计为地图级**——Adamson（他的伊斯兰世界序列）+ Kenny + 词条 + 每人一个检查点。这是一个真实的损失，本计划直说：他们是重要的哲学家，18 个月版本（§10）才是放一篇《决定性论著》(*Decisive Treatise*) / 《迷途指津》(*Guide*) 节选的地方。你绝不能做的，是完全跳过他们，然后在不知道阿奎那在和谁争论的情况下遇见他。在伊本·西那与伊本·鲁世德之间读安萨里：他的《哲学家的矛盾》(*Incoherence*) 正是伊本·鲁世德的《矛盾的矛盾》(*Incoherence of the Incoherence*) 所回应的攻击，而他的棉花与火的论证会在阶段 3 随马勒伯朗士和休谟回归。 |

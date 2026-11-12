@@ -1,4 +1,5 @@
 # Augustine: The System and Its Concepts
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/03-system-and-concepts.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Augustine of Hippo](../../eras/02-medieval/augustine-of-hippo.md) · Arguments in full: [04-arguments.md](04-arguments.md) · Study guide: [*Confessions*](../../study/augustine-confessions.md)*
 

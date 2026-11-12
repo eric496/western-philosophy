@@ -1,4 +1,5 @@
 # Life and Times: Thagaste, Carthage, Milan, Cassiciacum, and Hippo
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/01-life-and-times.md)
 
 Augustine told the first half of his life once, as a prayer. The *Confessions*, written about 397–401, take the story from his infancy to his mother's death in 387 and then turn to memory, time and creation. They were written ten to fifteen years after the events by a bishop under suspicion, and a section below weighs them. The second half of the life comes from his letters and sermons (enlarged by the Divjak letters, 1981, and the Dolbeau sermons, 1990), from the *Retractations* (426–427), in which he reviewed his own books, and from the *Life of Augustine* by Possidius, bishop of Calama. The standard modern life is Peter Brown's *Augustine of Hippo* (1967; new edition with an epilogue, 2000); James J. O'Donnell's *Augustine: A New Biography* (2005) reads the sources more sceptically. The *Confessions* are quoted from E. B. Pusey's translation (1838), the *City of God* from Marcus Dods (1871). Possidius and the works with no public-domain English text in this dossier's corpus are paraphrased.
 

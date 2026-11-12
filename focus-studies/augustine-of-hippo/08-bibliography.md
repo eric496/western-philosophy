@@ -1,4 +1,5 @@
 # Bibliography — Augustine
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/08-bibliography.md)
 
 Annotated and tiered: read downward only as far as your questions require. Prices are given only where checked on the publisher's own page (Hackett, November 2026); New City Press, Oxford, Cambridge and Penguin prices were not visible to this check and are left out. The primary texts are *owned*, per the learning path's rule, because library lending windows are shorter than this plan's seven weeks. One fact governs the whole list: Augustine's works are cited by **book, chapter and section**: the chapter divisions of the early printed editions and the section numbers of the Benedictine edition of the Maurists (Paris, 1679–1700), which every serious modern translation prints. *Conf.* VIII.12.29 is Book VIII, chapter 12, section 29; *City of God* XIX.13 is Book XIX, chapter 13. [02-works-and-texts.md](02-works-and-texts.md) explains the system. Buy translations that print these numbers, and every reference in this dossier will find its place.
 

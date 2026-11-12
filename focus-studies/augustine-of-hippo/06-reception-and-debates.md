@@ -1,4 +1,5 @@
 # Augustine Received: Doctor of Grace, Father of Quarrels, and the Fights Still Open
+**English** | [简体中文](../../zh/focus-studies/augustine-of-hippo/06-reception-and-debates.md)
 
 *Focus study: Augustine of Hippo · [Dossier home](README.md) · [Library entry](../../eras/02-medieval/augustine-of-hippo.md) · [Study guide](../../study/augustine-confessions.md)*
 
