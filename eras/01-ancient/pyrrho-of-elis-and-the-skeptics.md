@@ -3,7 +3,7 @@
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Pyrrho](https://upload.wikimedia.org/wikipedia/commons/4/4d/Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png)
+![Portrait of Pyrrho](https://upload.wikimedia.org/wikipedia/commons/7/79/Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png)
 
 *Imaginary engraving of Pyrrho of Elis, from Girolamo Olgiati's *Illustrium philosophorum et sapientum effigies* (1580) — no authentic likeness exists. Image via Wikimedia Commons.*
 
@@ -12,7 +12,7 @@
 - **Dates:** Pyrrho, c. 360–c. 270 BCE; Pyrrhonism revived by Aenesidemus (1st century BCE) and codified by Sextus Empiricus (late 2nd century CE)
 - **Place:** Elis, Greece; traveled to India with Alexander the Great's expedition
 - **School/tradition:** Pyrrhonian Skepticism — distinct from the skeptical phase of Plato's Academy under Arcesilaus and Carneades
-- **Known for:** Suspending judgment about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "like a shadow."
+- **Known for:** Suspending judgment about everything non-evident, and finding tranquillity — *ataraxia* — following that suspension "as the shadow follows a body" (Sextus, *Outlines* I.29).
 
 **Responds to:** [Democritus](democritus-of-abdera.md), [Protagoras and the Sophists](protagoras-and-the-sophists.md) · **Answered by:** [Montaigne](../03-early-modern/michel-de-montaigne.md), [Descartes](../03-early-modern/rene-descartes.md), [Hume](../03-early-modern/david-hume.md)
 
@@ -34,7 +34,7 @@ The skeptic's core act is *epochē*, suspension of judgment about everything non
 
 ### Isostheneia: equal strength on both sides
 
-The engine of epochē is *isostheneia*, equal strength of opposing arguments and appearances. For every account, the skeptic finds an opposing account of equal persuasiveness: the same tower appears round from a distance and square up close; the same act is honored in one city and punished in another. When opposition is balanced, assent has nothing to tip toward, and judgment suspends itself — Sextus says tranquillity then follows "as a shadow follows the body," not as a goal pursued but as an unlooked-for result. His image is the painter Apelles, who threw a sponge at his canvas in frustration and accidentally produced the foam on a horse's mouth: *ataraxia*, freedom from disturbance, arrived when striving stopped.
+The engine of epochē is *isostheneia*, equal strength of opposing arguments and appearances. For every account, the skeptic finds an opposing account of equal persuasiveness: the same tower appears round from a distance and square up close; the same act is honored in one city and punished in another. When opposition is balanced, assent has nothing to tip toward, and judgment suspends itself — Sextus says tranquillity then follows "as the shadow follows a body" (*Outlines* I.29, trans. Patrick), not as a goal pursued but as an unlooked-for result. His image is the painter Apelles, who threw a sponge at his canvas in frustration and accidentally produced the foam on a horse's mouth: *ataraxia*, freedom from disturbance, arrived when striving stopped.
 
 The tension is classic: is "the arguments are equal" itself a judgment to suspend about? Pyrrhonians answer that their slogans apply to themselves too — like a purgative that expels itself along with everything else.
 
@@ -55,7 +55,7 @@ Later Pyrrhonists organized their argument-patterns into Modes. **Aenesidemus' T
 - **Pyrrho: none.** He wrote nothing; everything is testimony and tradition.
 - **Timon of Phlius, *Silloi*** (3rd century BCE; fragments only) — Satirical verses mocking dogmatic philosophers, our earliest window on Pyrrho's circle.
 - **Sextus Empiricus, *Outlines of Pyrrhonism*** (late 2nd century CE) — The essential surviving text: Book I defines the skeptical way and the Modes; Books II–III work through logic, physics, and ethics skeptically.
-- **Sextus Empiricus, *Against the Mathematicians*** (late 2nd century CE) — A demolition of the claimed sciences of his day.
+- **Sextus Empiricus, *Against the Mathematicians*** (late 2nd century CE) — Eleven books attacking the learned disciplines (grammar, rhetoric, geometry, arithmetic, astrology, music) and, in Books VII–XI, the dogmatists' logic, physics, and ethics.
 - **Diogenes Laertius, *Lives*, Book IX** (3rd century CE) — The life of Pyrrho and Timon: anecdotes, the Indian journey, and an early summary of the Ten Modes.
 
 ## Contributions
@@ -70,7 +70,7 @@ Through the Academy, skeptical arguments shaped Hellenistic and Roman debate (Ci
 
 The oldest objection is *apraxia*, inaction: a creature who assents to nothing cannot act or avoid the cliff. The fourfold observance is the reply, and whether it succeeds — whether one can follow appearances without belief — remains debated. A second objection is self-refutation: skepticism argued for seems to assert what it forbids; the purgative image is the school's attempt to absorb this.
 
-Two scholarly debates are live. First, **Indian influence**: Pyrrho's journey is well attested, and parallels with early Buddhist and Jain ideas have led some scholars to argue for real transmission, while others note that Greek antecedents (Democritus, the Sophists, Xenophanes) suffice, and sources are too thin to prove borrowing. The honest verdict is *debated*. Second, the **two Pyrrhos problem**: whether the serene sage of the anecdotes and Sextus' dialectical skeptic are one philosophy, or two figures joined by a name.
+Two scholarly debates are live. First, **Indian influence**: Pyrrho's journey is well attested, and parallels with early Buddhist and Jain ideas have led some scholars to argue for real transmission, while others note that Greek antecedents (Democritus, the Sophists, [Xenophanes](presocratic-pluralists.md)) suffice, and sources are too thin to prove borrowing. The honest verdict is *debated*. Second, the **two Pyrrhos problem**: whether the serene sage of the anecdotes and Sextus' dialectical skeptic are one philosophy, or two figures joined by a name.
 
 ## Misreadings to avoid
 

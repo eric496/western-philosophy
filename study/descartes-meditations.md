@@ -44,7 +44,7 @@ The *Meditations* is a short book — roughly a hundred pages in most editions �
 
 Descartes announces his project: to demolish his old opinions wholesale and rebuild from foundations that cannot be shaken. He will reject any belief that admits of the slightest doubt — not because he believes those beliefs false, but because a foundation must be certain. The doubt advances in three waves.
 
-**First wave — the senses.** The senses sometimes deceive us: a distant tower looks round when it is square, a stick looks bent in water. If the senses have deceived us even once, can we fully trust them? Descartes's point is not that the senses are useless but that they cannot supply certainty.
+**First wave — the senses.** The senses sometimes deceive us about things that are barely perceptible or far away. (The square tower that looks round from afar is the Sixth Meditation's example, not the First's.) If the senses have deceived us even once, can we fully trust them? Descartes's point is not that the senses are useless but that they cannot supply certainty.
 
 **Second wave — dreaming.** There are no certain marks by which a waking experience can be distinguished, while it is happening, from a vivid dream. You may be dreaming right now. If so, your beliefs about your body, your room, and the objects around you could all be false, even though they feel certain. What survives this wave? Only the most general features of experience — the simple elements (extension, shape, number) out of which dreams, like paintings, are composed.
 
@@ -112,7 +112,7 @@ The causal argument for God (reconstructed in §"Argument reconstructions" below
 
 If God exists and is perfect, why do I make mistakes? A perfect creator would not build a deceiver, and a non-deceiving God seems incompatible with a mind that errs. Descartes's answer distinguishes two faculties. The intellect is finite — it perceives some things clearly and others obscurely. The will, by contrast, is in a sense infinite: it can affirm or deny anything at all. Error arises when the will outruns the intellect — when I judge about matters I do not clearly and distinctly perceive. The fault is mine, not God's: God gave me faculties that, used correctly, do not err. Error is a misuse, a privation rather than something positively created.
 
-This meditation also states the criterion that the rest of the book will use: whatever I perceive very clearly and distinctly is true. The criterion is earned, in Descartes's view, by the proof of God: a non-deceiving God would not make my clearest perceptions systematically false.
+This meditation also grounds the criterion that the rest of the book will use, first stated as a general rule in Meditation III: whatever I perceive very clearly and distinctly is true. The criterion is earned, in Descartes's view, by the proof of God: a non-deceiving God would not make my clearest perceptions systematically false.
 
 ### Key passages
 
@@ -126,7 +126,7 @@ The theodicy of error: God is exonerated because error comes from my free misuse
 
 ### The Cartesian circle — a debate, not a verdict
 
-Antoine Arnauld, in the Fourth Objections, raised the classic objection: Descartes appears to prove God's existence using clear and distinct perceptions, and then to validate clear and distinct perceptions by God's non-deceptive nature. If the criterion needs God, how can it prove God? This is the **Cartesian circle**.
+Mersenne's Second Objections first raised it, and Antoine Arnauld, in the Fourth Objections, gave the classic objection its form: Descartes appears to prove God's existence using clear and distinct perceptions, and then to validate clear and distinct perceptions by God's non-deceptive nature. If the criterion needs God, how can it prove God? This is the **Cartesian circle**.
 
 Three main responses are on the table, and scholars still disagree about which, if any, succeeds:
 
@@ -190,7 +190,7 @@ The real distinction (reconstructed in §"Argument reconstructions" below) is th
 
 **Conclusion:** "I am, I exist" is necessarily true whenever it is conceived by me.
 
-**Standard objection (Gassendi, Fifth Objections):** "I think" already smuggles in the "I." All the evidence warrants is the impersonal claim "thinking is occurring." To move from an occurrence of thought to a substantial thinker begs the question — you cannot infer the subject from the activity without already assuming a subject.
+**Standard objection (Lichtenberg and later critics; not Gassendi, whose Fifth Objections argue instead that existence could be inferred from any activity, such as walking):** "I think" already smuggles in the "I." All the evidence warrants is the impersonal claim "thinking is occurring." To move from an occurrence of thought to a substantial thinker begs the question — you cannot infer the subject from the activity without already assuming a subject.
 
 **Reply (Descartes's line, and its modern defenders):** Thought is never experienced impersonally. Doubting, willing, and feeling are first-personal in their very occurrence: there is no experience of doubting that is not *my* doubting. The "I" is not inferred from thought as an extra premise; it is given *in* the thought itself. Whether this reply succeeds depends on whether first-personal givenness is enough to establish a substantial self rather than a stream of experiences — a question Hume and later critics pressed hard, and which remains debated.
 
@@ -282,7 +282,7 @@ Answer these from memory before looking at the answers at the end of this guide.
 
 9. **Error is my misuse of good faculties, not a defect in them.** The intellect is finite; the will is effectively unlimited in scope. Error occurs when the will judges about matters the intellect does not clearly and distinctly perceive. God gave faculties that, used within their limits, do not err; the fault lies in my free assent beyond those limits.
 
-10. **The circle:** Descartes seems to prove God using clear and distinct perceptions, then to validate clear and distinct perceptions by God's non-deceptive nature. It was raised by Antoine Arnauld in the Fourth Objections. The strongest reply, on most readings, is the memory reply: only remembered clear and distinct perceptions need God's guarantee, while present intuitions are self-certifying — though critics object that the proof of God itself takes time and relies on memory.
+10. **The circle:** Descartes seems to prove God using clear and distinct perceptions, then to validate clear and distinct perceptions by God's non-deceptive nature. It was first raised in Mersenne's Second Objections and given its classic form by Antoine Arnauld in the Fourth Objections. The strongest reply, on most readings, is the memory reply: only remembered clear and distinct perceptions need God's guarantee, while present intuitions are self-certifying — though critics object that the proof of God itself takes time and relies on memory.
 
 11. **The Third Meditation argues from the cause of an idea** (only God could cause the idea of an infinite being in a finite mind). **The Fifth argues from the content of the idea** (existence belongs to the idea of a supremely perfect being as necessarily as three-sidedness belongs to a triangle). The Third is causal and a posteriori in form; the Fifth is conceptual and a priori.
 

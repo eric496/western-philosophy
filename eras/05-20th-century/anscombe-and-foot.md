@@ -3,13 +3,11 @@
 
 *Era: 20th Century to Present (1900 – ) · [Era overview](README.md) · [Master index](../../index.md)*
 
-![Portrait of Philippa Foot](https://upload.wikimedia.org/wikipedia/en/0/03/PhilippaFoot1939.jpg)
+*Portrait of Philippa Foot: none included — the only photograph in common use (Foot in 1939) is a non-free fair-use upload on English Wikipedia, not a freely licensed image. If a free one surfaces, it belongs here.*
 
-*Photograph; article caption "Foot in 1939". Image via Wikipedia.*
+![Drawing of Elizabeth Anscombe](https://upload.wikimedia.org/wikipedia/commons/8/86/Elisabeth_Anscombe.jpg)
 
-![Portrait of Elizabeth Anscombe](https://upload.wikimedia.org/wikipedia/en/6/60/Gertrude_Elizabeth_Margaret_Anscombe.jpg)
-
-*Photograph of Elizabeth Anscombe by Mary Gustafson, 1979. Image via Wikipedia.*
+*Drawing of Elizabeth Anscombe by Albarluque (2014), made for Wikimedia Commons through a Llotja art-school collaboration — an artist's portrait, not a photograph. CC BY-SA 3.0, via Wikimedia Commons.*
 
 ## At a glance
 
@@ -22,9 +20,9 @@
 
 ## Biography
 
-Gertrude Elizabeth Margaret Anscombe was born in Limerick, Ireland, in 1919 and educated at Oxford, where she converted to Catholicism as an undergraduate. She became one of Wittgenstein’s most important students, and later his translator and a literary executor; her translation of *Philosophical Investigations* (1953) shaped how the English-speaking world read him. She taught at Oxford and then, from 1970, as professor at Cambridge. She was a formidable controversialist: she publicly opposed Oxford’s honorary degree for President Harry Truman, arguing that dropping atomic bombs on cities was murder. Her monograph *Intention* (1957) was called by Donald Davidson the most important treatment of action since Aristotle.
+Gertrude Elizabeth Margaret Anscombe was born in Limerick, Ireland, in 1919 and educated at St Hugh's College, Oxford; she had decided in her early teens to become a Catholic, and was received into the Church soon after arriving at Oxford. She became one of Wittgenstein’s most important students, and later his translator and a literary executor; her translation of *Philosophical Investigations* (1953) shaped how the English-speaking world read him. She taught at Oxford and then, from 1970, as professor at Cambridge. She was a formidable controversialist: she publicly opposed Oxford’s honorary degree for President Harry Truman, arguing that dropping atomic bombs on cities was murder. Her monograph *Intention* (1957) was called by [Donald Davidson](analytic-philosophy-after-quine.md) the most important treatment of action since Aristotle.
 
-Philippa Foot — born Philippa Ruth Bosanquet in 1920 — was largely educated at home by governesses, yet won a place at Oxford, graduating with first-class honors in 1942. She taught at Oxford for most of her career, later moving to the University of California, Los Angeles. Where Anscombe was polemical, Foot was patient, returning to the same problems for decades and changing her mind in public when arguments required it: she began close to the non-cognitivism of Ayer and Hare, then spent decades arguing against them.
+Philippa Foot — born Philippa Ruth Bosanquet in 1920 — was largely educated at home by governesses, yet won a place at Oxford, graduating with first-class honors in 1942. She taught at Oxford for most of her career, later moving to the University of California, Los Angeles. Where Anscombe was polemical, Foot was patient, returning to the same problems for decades and changing her mind in public when arguments required it: she attacked the non-cognitivism of Ayer and Hare from her earliest papers, and spent decades refining the case against it.
 
 The two were allies in a culture dominated by emotivism and prescriptivism — theories treating moral judgments as expressions of attitude or universal commands. Both thought that picture had hollowed ethics out. Their remedy was to return to Aristotle, and for Anscombe also Aquinas, and rebuild moral philosophy on action, character, and human nature.
 
@@ -38,7 +36,7 @@ Her proposal was to drop the thin moral “ought” for thicker Aristotelian ter
 
 ### Anscombe: intention and action under a description
 
-*Intention* (1957) asks what makes an action intentional. Anscombe’s answer centers on the question “Why?” An action is intentional when a certain sense of that question applies — when the agent can give reasons showing the point of what they are doing, rather than merely citing a cause (“My elbow was jogged” refuses the relevant sense).
+*Intention* (1957) asks what makes an action intentional. Anscombe’s answer centers on the question “Why?” An action is intentional when a certain sense of that question applies — when the agent can give reasons showing the point of what they are doing, rather than merely citing a cause; answering that you did not know you were doing it, or knew only by observing it, refuses the relevant sense.
 
 Her famous example: a man works a pump. Under one description he is moving his arm; under another, replenishing the house water supply; under another, poisoning the inhabitants — the source is poisoned and he knows it. One movement, several actions *under different descriptions*, intentional under those the agent knows and intends. Intention is therefore not an extra inner mental event accompanying the movement. It is a feature of the action’s whole structure, knowable by the agent without observation — you normally know you are writing without watching your hand. The account reshaped philosophy of action, feeding into Davidson and into debates about responsibility and the law.
 

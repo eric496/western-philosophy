@@ -18,7 +18,7 @@
 
 ## Biography
 
-If Thales is hard to see clearly, Pythagoras is harder. He wrote nothing, his followers treated his sayings as sacred and secret, and within a generation he was being credited with miracles. Later biographies — by Porphyry and Iamblichus, some eight centuries after his death — present a wonder-worker who charmed animals, was seen in two places at once, and had a golden thigh. Modern scholarship, following Walter Burkert's study of the tradition, strips those layers back to the earlier, more sober testimony of Xenophanes, Heraclitus, Empedocles, Plato, and Aristotle. What survives that filter is still remarkable, but different from the schoolbook mathematician.
+If Thales is hard to see clearly, Pythagoras is harder. He wrote nothing, his followers treated his sayings as sacred and secret, and within a generation he was being credited with miracles. Later biographies — by [Porphyry and Iamblichus](late-neoplatonists.md), some eight centuries after his death — present a wonder-worker who charmed animals, was seen in two places at once, and had a golden thigh. Modern scholarship, following Walter Burkert's study of the tradition, strips those layers back to the earlier, more sober testimony of [Xenophanes](presocratic-pluralists.md), Heraclitus, Empedocles, Plato, and Aristotle. What survives that filter is still remarkable, but different from the schoolbook mathematician.
 
 Pythagoras was born on Samos, off the Ionian coast, around 570 BCE. Tradition made him a pupil of Thales and sent him traveling to Egypt and Babylon. Study trips were a standard ornament of sage-biographies, so the itinerary cannot be trusted in detail — but contact with Egyptian and Babylonian learning was possible for a well-connected Samian, and Pythagorean mathematics does have Near Eastern roots. Around 530 BCE he left Samos — later stories say fleeing the tyrant Polycrates — and settled in Croton in southern Italy.
 
@@ -61,7 +61,7 @@ Plato is the great conduit. The *Timaeus* builds the cosmos on mathematical prop
 
 ## Criticisms and debates
 
-Heraclitus sneered that Pythagoras practiced inquiry "more than anyone" but made it mere polymathy — an early charge that the learning was borrowed. Aristotle's criticism is the serious one: Pythagoreans never explained *how* numbers constitute things, confusing model with material. Modern debates are dominated by the source problem. How much of "Pythagoreanism" is Pythagoras? Burkert argued the founder was primarily a charismatic religious teacher, the mathematics largely followers' work; others defend an earlier scientific Pythagoras. Honest accounts keep a visible line between the 6th-century man and the legend that swallowed him.
+Heraclitus sneered that Pythagoras "practised inquiry beyond all other men" (DK 22 B129, trans. Burnet) but made it mere polymathy — an early charge that the learning was borrowed. Aristotle's criticism is the serious one: Pythagoreans never explained *how* numbers constitute things, confusing model with material. Modern debates are dominated by the source problem. How much of "Pythagoreanism" is Pythagoras? Burkert argued the founder was primarily a charismatic religious teacher, the mathematics largely followers' work; others defend an earlier scientific Pythagoras. Honest accounts keep a visible line between the 6th-century man and the legend that swallowed him.
 
 ## Misreadings to avoid
 

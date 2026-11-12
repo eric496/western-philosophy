@@ -11,10 +11,10 @@
 
 - **Dates:** 1900–2002.
 - **Place:** Born in Marburg, Germany; professor at Leipzig, Frankfurt, and for most of his career Heidelberg.
-- **School/tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, Dilthey, and the classical tradition.
+- **School/tradition:** Philosophical hermeneutics — the theory of interpretation and understanding — developed from Heidegger, [Dilthey](../04-19th-century/dilthey-and-collingwood.md), and the classical tradition.
 - **Known for:** *Truth and Method* (1960) and the **fusion of horizons**: understanding as an event in which the interpreter's historically formed outlook and the text's or tradition's outlook merge into a new one.
 
-**Responds to:** [Heidegger](martin-heidegger.md), [Schleiermacher](../04-19th-century/friedrich-schleiermacher.md) · **Answered by:** [Derrida](jacques-derrida.md), [Ricoeur](paul-ricoeur.md)
+**Responds to:** [Heidegger](martin-heidegger.md), [Schleiermacher](../04-19th-century/friedrich-schleiermacher.md) · **Answered by:** [Habermas](jurgen-habermas.md), [Derrida](jacques-derrida.md), [Ricoeur](paul-ricoeur.md)
 
 ## Biography
 
@@ -65,7 +65,7 @@ Gadamer turned hermeneutics from a scholarly technique into a general philosophy
 
 ## Criticisms and debates
 
-- **The Gadamer–Habermas debate.** Habermas charged that Gadamer's rehabilitation of tradition leaves no room for **ideology critique**: tradition can be systematically distorted by power, and reflection must be able to break its spell — psychoanalysis being his model of an emancipatory science. Gadamer replied that the critic also stands within tradition and language; critique is itself a hermeneutical act, and the claim to stand outside is the Enlightenment prejudice again. The exchange (1967 onwards) remains the standard statement of the hermeneutics/critical-theory standoff, with many concluding that each exposed the other's genuine blind spot.
+- **The Gadamer–Habermas debate.** [Habermas](jurgen-habermas.md) charged that Gadamer's rehabilitation of tradition leaves no room for **ideology critique**: tradition can be systematically distorted by power, and reflection must be able to break its spell — psychoanalysis being his model of an emancipatory science. Gadamer replied that the critic also stands within tradition and language; critique is itself a hermeneutical act, and the claim to stand outside is the Enlightenment prejudice again. The exchange (1967 onwards) remains the standard statement of the hermeneutics/critical-theory standoff, with many concluding that each exposed the other's genuine blind spot.
 - **The Gadamer–Derrida encounter.** At their 1981 Paris meeting, Derrida questioned whether Gadamer's appeal to good will and the desire for consensus in dialogue presupposed exactly the metaphysics of presence that deconstruction contests; Gadamer defended dialogue as openness to the other rather than assimilation. Many observers judge that the two largely talked past each other — an irony not lost on either side — though later exchanges were more productive.
 - **Relativism and conservatism.** Critics from both left and right have charged that if all understanding is prejudice-bound, Gadamer cannot distinguish better from worse interpretations, or reform from mere drift. His defenders point to the subject matter's resistance and the testing of prejudices in application. Whether that suffices is a live debate, as is the charge that his wartime caution exemplifies the political quietism his philosophy is accused of.
 

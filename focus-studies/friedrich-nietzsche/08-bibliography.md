@@ -11,11 +11,13 @@ Annotated and tiered: read downward only as far as your questions require. Price
 
 **The critical edition, and the *Nachlass* rule.** The *Sämtliche Werke: Kritische Studienausgabe* (KSA), edited by Giorgio Colli and Mazzino Montinari (15 vols., de Gruyter), is the scholarly standard: it prints the notebooks chronologically and thereby dissolved the book called *The Will to Power* — Elisabeth Förster-Nietzsche's posthumous construction (1901; expanded 1906), presented as his masterwork and never a book Nietzsche wrote or planned in that form. You will not buy the KSA; you need to know it exists, because every claim in this dossier that rests on notebook material is flagged *Nachlass* and weighed accordingly. **Never Thomas Common's translations** — dated, unreliable, and the source of half the bad Nietzsche in circulation.
 
+You do not need to buy it to consult it, either: **[Nietzsche Source](http://www.nietzschesource.org/)**, maintained with the ITEM research institute (CNRS/École normale supérieure), publishes the Colli–Montinari critical text (the *eKGWB*) and digital facsimiles of the manuscripts (the *DFGA*) free online — the fastest way to check a notebook citation against the actual page.
+
 ## 2. First secondary books, in order
 
 1. **Walter Kaufmann, *Nietzsche: Philosopher, Psychologist, Antichrist* (1950).** The book that recovered Nietzsche from the Nazi image for the English-speaking world — humane, learned, and the origin of the modern reading. Read it *with* [06-reception-and-debates.md](06-reception-and-debates.md)'s gentrification debate open beside you: Kaufmann's gentler Nietzsche is a reading, not a fact, and the anti-egalitarian harshness he softens is on the published page. Read it after your first pass at the *Genealogy* (the learning path's companion rule), as Week 7–8 material.
 2. **Alexander Nehamas, *Nietzsche: Life as Literature* (1985).** The literary-philosophical reading at its best: perspectivism, style, and the self as a created work. The necessary counterweight to Kaufmann's humanist and to Leiter's naturalist alike — Week 8's third position.
-3. **Brian Leiter, *Nietzsche on Morality* (2002; 2nd ed. 2015).** The naturalist reading and the best single route into current scholarship: drives and type-facts, a rigorous *Genealogy*, and the SEP author's own research program. Selections are Week 7's sanctioned filler; the whole book is the dossier's recommended next step after the capstone.
+3. **Brian Leiter, *Nietzsche on Morality* (2002; 2nd ed. 2015).** The naturalist reading and the best single route into current scholarship: drives and type-facts, a rigorous *Genealogy*, and the research program Leiter continues in his own separate *SEP* entry, "Nietzsche's Moral and Political Philosophy." Selections are Week 7's sanctioned filler; the whole book is the dossier's recommended next step after the capstone.
 
 ## 3. Biography
 
@@ -25,11 +27,14 @@ Annotated and tiered: read downward only as far as your questions require. Price
 
 **Gilles Deleuze, *Nietzsche and Philosophy* (1962)** — the founding text of the French line: forces, affirmation, the eternal return as selective ontology. Short, difficult, and the correct second Nietzsche after Leiter. **Martin Heidegger's *Nietzsche* lectures (1936–40; published 1961)** — named as an *event* in the reception, not assigned: Nietzsche as the last metaphysician of the West is Heidegger's construction, to be studied later as philosophy in its own right. **Lou Salomé, *Friedrich Nietzsche in seinen Werken* (1894)** — the first book on Nietzsche, by the woman at the center of the 1882 crisis; of historical interest, and read with the obvious caution about its intimacy. **J. P. Stern, *Friedrich Nietzsche* (Fontana Modern Masters, 1979)** — brief, severe, and the companion the learning path names ("Magee/Stern"); pairs with the Week 2 television conversation. Add **Ken Gemes & John Richardson (eds.), *The Oxford Handbook of Nietzsche* (2013)** when a single debate (recurrence, will to power, the eternal return's status) needs the current state of the question in one volume.
 
+For a one-volume overview before the *Handbook*'s debate-by-debate depth, use **Bernd Magnus & Kathleen M. Higgins (eds.), *The Cambridge Companion to Nietzsche* (1996)**: chapter-length essays (Hollingdale on the works, Nehamas, Schacht, Pippin, and others) survey each major topic and era of reception, pitched for a reader who has finished the capstone and wants a map before specializing.
+
 ## 5. Reference
 
-- **[SEP, "Nietzsche"](https://plato.stanford.edu/entries/nietzsche/)** — by Brian Leiter; the current scholarly map of every dispute this dossier flags.
+- **[SEP, "Nietzsche"](https://plato.stanford.edu/entries/nietzsche/)** — by R. Lanier Anderson; the current scholarly map of every dispute this dossier flags.
 - **[IEP, "Nietzsche, Friedrich"](https://iep.utm.edu/nietzsch/)** — the plainer first pass, per the learning path's IEP-before rule — with two topical companions worth the detour: "Nietzsche's Ethics" (https://iep.utm.edu/nietzsches-ethics/) and "Nietzsche: Philosophical Psychology," on the drive theory behind Week 3 and Week 5 (https://iep.utm.edu/nietzsche-philosophical-psychology/).
 - **[PhilPapers](https://philpapers.org/)** — the "Friedrich Nietzsche" category and its subcategories (Genealogy, will to power, eternal recurrence) are the working bibliography of the live literature; use them after Leiter, not before.
+- **The Journal of Nietzsche Studies** (Penn State University Press, three issues a year, edited at Georgia State University; home of the Friedrich Nietzsche Society) — the field's dedicated peer-reviewed journal; skim recent tables of contents (via a library's JSTOR or PSU Press access) once a debate from [06-reception-and-debates.md](06-reception-and-debates.md) needs its current state.
 
 ## 6. Media (all verified; the assignments are in [07-study-plan.md](07-study-plan.md))
 

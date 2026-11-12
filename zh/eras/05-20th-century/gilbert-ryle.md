@@ -4,9 +4,7 @@
 
 *时代：20世纪至今（1900 – ）· [时代概览](README.md) · [总索引](../../index.md)*
 
-![吉尔伯特·赖尔像](https://upload.wikimedia.org/wikipedia/en/e/e8/Gilbert_Ryle_%28by_Rex_Whistler%29.jpg)
-
-*吉尔伯特·赖尔的肖像，雷克斯·惠斯勒作，1940—1943年。图片来自维基百科（Wikipedia）。*
+*肖像：未收录。英文维基百科上的照片是合理使用（非自由许可）上传，维基共享资源中没有自由许可的图像。*
 
 ## 概览
 

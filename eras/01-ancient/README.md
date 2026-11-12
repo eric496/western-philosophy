@@ -12,12 +12,12 @@ Threads: being vs becoming; reason vs senses; one vs many; nature (physis) vs co
 
 ## Learning order within era (beginner)
 1. Socrates via Plato: Apology, Crito, Euthyphro.
-2. Presocratic problem in miniature: overview, then Heraclitus vs Parmenides (fragments + commentary), then Democritus. Thales/Pythagoras: short secondary only.
+2. Presocratic problem in miniature: overview, then Heraclitus vs Parmenides (fragments + commentary), then Democritus. Thales/Pythagoras: short secondary only. Xenophanes and Anaxagoras at map level: Xenophanes opens the critique of the gods, Anaxagoras sets up the *Phaedo* passage read in step 3.
 3. Plato's system: Phaedo (sel.) → Republic I–II, VI–VII → Symposium.
 4. Aristotle's answer: Nicomachean Ethics I–II (+X), guided four-causes/Metaphysics overview.
 5. Cynics as bridge: Diogenes Laertius VI.
 6. Hellenistic therapy schools in dialogue: Epicurus → Stoics → Skeptics (who attack both).
-7. Plotinus last (I.6, then V.1): presupposes Plato and Aristotle.
+7. Plotinus last (I.6, then V.1): presupposes Plato and Aristotle. Then the late Neoplatonists at map level, ending with Porphyry's three questions about genera and species (*Isagoge*, opening), the hand-off to Boethius.
 Habit: one glossary page for Greek terms — archē, logos, eudaimonia, ataraxia, epochē, physis/nomos, Form, telos.
 
 ## Oversimplifications checklist
@@ -43,6 +43,7 @@ Merge note: For Thales, Pythagoras, Socrates, Pyrrho, Diogenes, Zeno — label k
 
 - [Thales of Miletus](thales-of-miletus.md)
 - [Pythagoras](pythagoras.md)
+- [Xenophanes and Anaxagoras](presocratic-pluralists.md) (group entry)
 - [Heraclitus of Ephesus](heraclitus-of-ephesus.md)
 - [Parmenides of Elea](parmenides-of-elea.md)
 - [Zeno of Elea](zeno-of-elea.md)
@@ -56,11 +57,12 @@ Merge note: For Thales, Pythagoras, Socrates, Pyrrho, Diogenes, Zeno — label k
 - [Epicurus](epicurus.md)
 - [Cicero & Lucretius](cicero-and-lucretius.md)
 - [Zeno of Citium & the Stoics](zeno-of-citium-and-the-stoics.md)
+- [Cicero & Lucretius](cicero-and-lucretius.md)
 - [The Roman Stoics](roman-stoics.md)
 - [Pyrrho of Elis & the Skeptics](pyrrho-of-elis-and-the-skeptics.md)
 - [Diogenes of Sinope & the Cynics](diogenes-of-sinope-and-the-cynics.md)
 - [Plotinus](plotinus.md)
-- [The Late Neoplatonists: Porphyry, Iamblichus, Proclus & Hypatia](late-neoplatonists.md)
+- [Porphyry, Iamblichus, Proclus and Hypatia](late-neoplatonists.md) (group entry)
 
 ---
 [Master index](../../index.md) · [Learning path](../../learning-path.md) · [Themes](../../themes.md) · [Glossary](../../glossary.md) · [Timeline](../../timeline.md)

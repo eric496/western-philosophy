@@ -4,9 +4,7 @@
 
 *时代：20世纪至今（1900— ） · [时代概览](README.md) · [总索引](../../index.md)*
 
-![朱迪丝·贾维斯·汤姆森像](https://thumb.wikimedia.org/wikipedia/en/thumb/3/3f/Judith_Jarvis_Thomson%2C_philosopher_%281929_%E2%80%93_2020%29.jpg/250px-Judith_Jarvis_Thomson%2C_philosopher_%281929_%E2%80%93_2020%29.jpg)
-
-*照片，图注为“2005年的朱迪丝·贾维斯·汤姆森”。图片来自维基百科。*
+*肖像：未收录。英文维基百科上的照片是合理使用（非自由许可）上传，维基共享资源中没有自由许可的图像。*
 
 ## 概览
 

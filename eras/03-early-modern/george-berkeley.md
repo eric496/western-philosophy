@@ -42,7 +42,7 @@ His arguments: material substance is never perceived; it explains nothing (how i
 
 ### The collapse of Locke’s primary/secondary distinction
 
-Locke distinguished secondary qualities (color, taste, sound — powers to produce sensations) from primary qualities (extension, figure, motion, solidity — supposedly resembling qualities in objects themselves). Berkeley argues the distinction collapses. Extension and figure vary with position and condition just as color does: a coin looks round from above, elliptical from the side; apparent size changes with distance; motion seems faster or slower with the succession of ideas in a mind. If variability puts color only in the mind, it does the same for shape and size. Nor can primary qualities be abstracted even in thought from all sensible quality — a shape that is no color and tangible in no way leaves nothing to conceive. Tension: Berkeley must still explain why some ideas feel more robust and law-governed than others; his answer — the coherence God imposes — shifts the system’s weight onto theology.
+Locke distinguished secondary qualities (color, taste, sound — powers to produce sensations) from primary qualities (extension, figure, motion, solidity — supposedly resembling qualities in objects themselves). Berkeley argues the distinction collapses. Extension and figure vary with position and condition just as color does: figure looks different to the same eye from different stations; apparent size changes with distance; motion seems faster or slower with the succession of ideas in a mind. If variability puts color only in the mind, it does the same for shape and size. Nor can primary qualities be abstracted even in thought from all sensible quality — a shape that is no color and tangible in no way leaves nothing to conceive. Tension: Berkeley must still explain why some ideas feel more robust and law-governed than others; his answer — the coherence God imposes — shifts the system’s weight onto theology.
 
 ### The attack on abstract general ideas
 
@@ -53,6 +53,32 @@ This is no side issue. Berkeley thinks abstraction generates material substance 
 ### God as permanent perceiver: continuity and order
 
 Do things vanish when no human perceives them? No: God, an omnipresent eternal mind, perceives them continuously, so my desk persists when I leave my study. The order of nature is also God’s doing. Ideas of sense, unlike imagination, arrive unbidden, vivid, and law-governed; “laws of nature” are the regular grammar by which God presents ideas to us, and science studies that grammar. This is Berkeley’s payoff: materialism, he charged, supported skepticism and atheism, while immaterialism makes God the immediately governing presence in every perception. Tension: critics ask whether an unperceived God does the same work as the unperceived matter Berkeley rejected. He replies that we infer spirits, our own included, from their effects and by analogy with ourselves — a different, legitimate route.
+
+## Signature arguments
+
+**The master argument (*Principles* §§22–23; *Three Dialogues* I)**
+
+1. An idea, Berkeley's term for anything immediately perceived, can exist only in a perceiving mind.
+2. To show that a sensible thing could exist without the mind, one would have to conceive it existing unconceived.
+3. Try it: imagine a tree in a park with no one there to perceive it. You have only framed an idea of a tree while leaving out the idea of a perceiver, and all the while you yourself are conceiving the tree.
+4. So conceiving a tree existing unconceived is a contradiction: whatever you conceive is thereby conceived.
+Therefore, mind-independent existence for sensible things cannot even be conceived; for them, *esse est percipi*, to be is to be perceived.
+
+**Objection.** The argument slides from "I cannot conceive an unconceived object" to "no object can exist unconceived," and it runs together two things. George Pitcher (1977) put it this way: we need a thought in order to conceive of a tree, but what the thought is about, a tree standing alone in a forest, need not itself be a thought-of object. Many commentators conclude that the argument fails.
+
+**Reply.** A more charitable reading (Kenneth Winkler, Thomas Lennon) takes Berkeley's point to be that we cannot represent unconceivedness at all, because we have never experienced it and could not, so we have no way to form the idea of mind-independent existence. That reading avoids the conflation, but it depends on Berkeley's starting premise that all we immediately perceive are ideas. Whether the master argument is a fallacy or a profound point is still debated.
+
+**The collapse of the primary/secondary distinction (*Principles* §§9–15; *Three Dialogues* I)**
+
+1. Locke holds that secondary qualities (color, taste, sound) exist only as sensations in the mind, while primary qualities (extension, figure, motion, solidity) resemble qualities in objects themselves.
+2. Variability: shape and size vary with position and condition just as color does; figure looks different to the same eye from different stations, a thing that looks small, smooth, and round to the naked eye looks large and uneven through a microscope, and visible size changes with distance.
+3. Inseparability: no one can conceive extension or figure stripped of every sensible quality; a shape that is no color and tangible in no way leaves nothing to conceive.
+4. Whatever cannot be conceived apart from qualities that exist only in the mind must exist where they do.
+Therefore, primary qualities are in the mind as much as secondary ones, and the distinction gives material substance no foothold.
+
+**Objection.** The variability argument proves too little: one coin can have one true shape that merely looks different from different places. Berkeley states this objection himself in *Principles* §15, granting that the argument from variation shows only that the senses do not tell us which extension or color is the true one, not that there is none in an outward object.
+
+**Reply.** Berkeley places the weight on inseparability, backed by his attack on abstract ideas: if no idea of a bare shape can be framed at all, there is no coherent primary quality left over to sit in matter. Critics answer that selective attention may be enough: Berkeley himself allows that a geometer can consider a figure merely as a triangle without attending to its particular angles or sides (*Principles*, Introduction §16), so why not consider a shape without attending to its color? Whether inseparability in thought shows inseparability in being remains open in the scholarship.
 
 ## Key works
 
@@ -77,7 +103,7 @@ Berkeley added a new metaphysical option: a fully empiricist idealism in which t
 
 ## Impact and legacy
 
-Hume called Berkeley's attack on abstract ideas "one of the greatest and most valuable discoveries" (*Treatise* I.i.7), and wrote in the *Enquiry* (§XII) that Berkeley's arguments "admit of no answer and produce no conviction" — a skepticism Berkeley never intended. Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
+Hume reported that Berkeley’s arguments, though aimed against the skeptics, were in effect “the best lessons of scepticism” and “admit of no answer and produce no conviction” (*Enquiry*, sec. 12); separately, in the *Treatise* he hailed Berkeley’s reduction of general ideas to particular ones as “one of the greatest and most valuable discoveries that has been made of late years in the republic of letters” (1.1.7). Kant defined his idealism partly against Berkeley’s, and phenomenalists later tried to reconstruct physical objects from sense-experiences on Berkeleyan lines. Phenomenalism, positivism, and Mach later claimed his analysis of physical objects and critique of absolute space, usually without his theology. Samuel Johnson’s response belongs to the legacy too: kicking a stone, he said, “I refute it thus.” That misses the point — Berkeley never denied the stone is solid or hurts your toe; he denied only that its solidity needs an unperceivable material substratum. The kicked stone is, for Berkeley, a vivid, orderly collection of ideas — exactly what he said it was.
 
 ## Criticisms and debates
 

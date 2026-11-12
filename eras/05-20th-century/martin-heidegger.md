@@ -19,11 +19,11 @@
 
 Heidegger came from a modest Catholic family in rural southwestern Germany; his father was a cooper and church sexton. A church scholarship made his education possible. He entered a Jesuit novitiate in 1909 but left within weeks for health reasons, then studied theology and later philosophy at Freiburg, writing his habilitation on a grammatical treatise then attributed to Duns Scotus (the *Grammatica Speculativa*, now credited to Thomas of Erfurt). In 1917 he married Elfride Petri, a Lutheran. By 1919 he had broken publicly with what he called “the system of Catholicism” — though not, he insisted, with Christianity as such.
 
-At Freiburg he became Edmund Husserl’s assistant, and his lecture courses of the early 1920s acquired a legendary reputation among students. Hannah Arendt, Hans-Georg Gadamer, Karl Löwith, and Herbert Marcuse all passed through them. Arendt and Heidegger began a love affair in 1925, when she was his eighteen-year-old student; it was kept secret, resumed in changed form after the war, and became public knowledge only decades later through their correspondence. In 1923 Heidegger took an associate professorship (*Extraordinarius* — a post without a chair) at Marburg, and there wrote his masterpiece at speed, under pressure to publish for promotion; he became full professor in 1927. *Being and Time* appeared in 1927, dedicated to Husserl. In 1928 he returned to Freiburg as Husserl’s successor.
+At Freiburg he became Edmund Husserl’s assistant, and his lecture courses of the 1920s, at Freiburg and then Marburg, acquired a legendary reputation among students. Hannah Arendt, Hans-Georg Gadamer, Karl Löwith, and Herbert Marcuse all passed through them. Arendt and Heidegger began a love affair in 1925, when she was his eighteen-year-old student; it was kept secret, resumed in changed form after the war, and became public knowledge only decades later through their correspondence. In 1923 Heidegger took up a professorship at Marburg (promoted to full professor in 1927), and there wrote his masterpiece at speed, under pressure to publish for promotion. *Being and Time* appeared in 1927, dedicated to Husserl. In 1928 he returned to Freiburg as Husserl’s successor.
 
 Then comes the period no honest biography can soften. Heidegger joined the Nazi Party on 1 May 1933, days after becoming Rector of Freiburg University. As rector he delivered a notorious address aligning the university with the new regime’s aims, implemented aspects of Nazi policy within the university, and in some documented cases denounced or failed to protect colleagues and students. He resigned the rectorate in April 1934 after clashes with the ministry and party officials, but he remained a party member until 1945 and never afterwards made a public apology or a full public reckoning. The 1966 *Der Spiegel* interview, published posthumously at his insistence, offered self-justification that many readers found evasive.
 
-After the war the French occupation authorities banned him from teaching; the ban lasted until 1951, with emeritus status restored as part of his reinstatement. Arendt, remarkably, interceded on his behalf and renewed contact. He rebuilt an audience through lectures such as those on technology, spent much of his later life at his hut at Todtnauberg in the Black Forest, and died in 1976. Publication of his private *Black Notebooks* in 2014, containing antisemitic passages from the 1930s and 1940s, reopened — with new documentary force — the question of how deeply Nazism and antisemitism were woven into his thought, not only his conduct. That debate is presented below as a debate; it is not settled.
+After the war the French occupation authorities banned him from teaching; the ban was lifted in 1949, he returned to teaching in the winter semester of 1950–51, and he was granted emeritus status soon afterward (he lectured as emeritus by 1951–52). Arendt, remarkably, interceded on his behalf and renewed contact. He rebuilt an audience through lectures such as those on technology, spent much of his later life at his hut at Todtnauberg in the Black Forest, and died in 1976. Publication of his private *Black Notebooks* in 2014, containing antisemitic passages from the 1930s and 1940s, reopened — with new documentary force — the question of how deeply Nazism and antisemitism were woven into his thought, not only his conduct. That debate is presented below as a debate; it is not settled.
 
 ## Major theories and concepts
 
@@ -49,7 +49,7 @@ Existence lived wholly under the They, fleeing its own finitude into distraction
 
 What can individuate Dasein — pull it out of the They — is confronting mortality in a specific way. Death, in Heidegger’s analysis, is my *ownmost* possibility: no one can die my death for me. It is *non-relational* for the same reason, and *not to be outstripped*: every other project ends there. It is also indefinite in its “when,” and always possible.
 
-Ordinarily the They tranquillizes this: “one dies, eventually, but not yet, and not me in particular.” *Being-toward-death* (*Sein zum Tode*) reverses the evasion. If I understand my existence as finite through and through — if I *anticipate* death rather than merely expecting it as a future event — my other possibilities change character. They become visibly mine, limited, and urgent. This owning of finitude, joined with taking over one’s thrown situation rather than disowning it, is *authenticity* (*Eigentlichkeit*). A related experience is the call of conscience and *resoluteness*: not a dramatic self-invention, but a readiness to act in one’s concrete situation without the alibi that the They decided.
+Ordinarily the They tranquillizes this: in Macquarrie and Robinson's rendering of §51, "one of these days one will die too, in the end; but right now it has nothing to do with us." *Being-toward-death* (*Sein zum Tode*) reverses the evasion. If I understand my existence as finite through and through — if I *anticipate* death rather than merely expecting it as a future event — my other possibilities change character. They become visibly mine, limited, and urgent. This owning of finitude, joined with taking over one’s thrown situation rather than disowning it, is *authenticity* (*Eigentlichkeit*). A related experience is the call of conscience and *resoluteness*: not a dramatic self-invention, but a readiness to act in one’s concrete situation without the alibi that the They decided.
 
 Internal tensions are real. Critics ask whether an account built on *my* death can do justice to other people as more than background, and whether authenticity has any moral content at all — a resolute person, on the bare analysis, could resolutely choose something terrible. Heidegger’s defenders argue the analysis is formally about owning choices, not a moral code, and that later work supplies more on others, history, and ethics. The gap remains one of the most discussed in the literature.
 
@@ -59,13 +59,39 @@ After a “turn” (*Kehre*) much debated by scholars, the later Heidegger shift
 
 The best-known late essay, “The Question Concerning Technology” (lectured 1953, published 1954), argues that the essence of modern technology is not machines. It is a way of revealing the world he calls *enframing* (*Gestell*): nature and even people show up as *standing-reserve* (*Bestand*) — a river as hydroelectric capacity, a forest as timber inventory, workers as human resources — stock to be ordered and optimized. The danger is not any single device but that this one way of revealing crowds out all others, including our sense of ourselves. His counter-words — *poiesis*, bringing-forth, and later *Gelassenheit*, releasement — point to a more receptive relation to things, though critics find the practical conclusions thin.
 
+## Signature arguments
+
+**Being-in-the-world and the derivative status of theory (*Being and Time* §§15–16, 43)**
+
+1. In everyday dealings things show up first as *ready-to-hand* (*zuhanden*): the hammer as good for hammering, within a web of purposes, not as wood and metal contemplated from outside.
+2. Things show up as *present-at-hand* (*vorhanden*), mere objects with properties, chiefly when involvement breaks down: the hammer snaps, and suddenly we stare at it as a thing.
+3. So the detached stance of theory arises out of a prior, practical familiarity with a meaningful world; it presupposes that familiarity and cannot produce it.
+4. Dasein is therefore always already *being-in-the-world*, not a mind first shut up inside itself that must find a way out to things.
+Therefore, the Cartesian task of proving that an external world exists rests on a false starting point. As Heidegger turns Kant's complaint around (§43), the scandal of philosophy is not that no proof has been given but that such proofs are expected and attempted again and again.
+
+**Objection.** This dissolves the sceptic's question rather than answering it. Even granted that practical involvement comes first, a sceptic can ask whether we ever know things as they are independently of us, and Heidegger's claim that being depends on Dasein's understanding seems to push him towards idealism. Commentators on his realism, such as Joseph Rouse and Hubert Dreyfus, have debated how far the dissolution reaches.
+
+**Reply.** Heidegger holds that the doubt whether a world exists loses its motivation once we see ourselves as beings-in-the-world, but he does not make entities depend on us: he insists that they are independent of the experience through which we discover them (German pagination 183). What depends on Dasein is *being*, the intelligibility of entities, not the entities themselves. Whether that combination is coherent, and how he answers the question of knowing things in themselves, divides scholars.
+
+**Being-toward-death and authenticity (*Being and Time* §§50–53)**
+
+1. Mostly we live under *das Man*, the They: we do what "one" does, which relieves anyone in particular of having decided.
+2. Death is my *ownmost* possibility (no one can die my death for me), *non-relational*, and *not to be outstripped*: every other project ends there; it is also always possible, and indefinite in its "when".
+3. The They tranquillizes this: in Macquarrie and Robinson's rendering of §51, "one of these days one will die too, in the end; but right now it has nothing to do with us."
+4. If instead I *anticipate* death, understanding my existence as finite through and through, my other possibilities become visibly mine, limited and urgent.
+Therefore, owning finitude, and taking over one's thrown situation rather than disowning it, individuates Dasein out of the They: this is *authenticity* (*Eigentlichkeit*).
+
+**Objection.** Levinas charged that Heidegger subordinates the ethical relation to the Other to ontology: an account built on *my* death treats other people as background. Relatedly, authenticity seems to have no moral content at all, since a resolute person could resolutely choose something terrible, and Heidegger's own conduct in 1933 gives the worry its sharpest edge.
+
+**Reply.** Defenders answer that the analysis is formal: it concerns owning one's choices, not a moral code, and it does not claim to supply one. They add that later work says more about others, history and ethics. The gap remains one of the most discussed in the literature, and the reply is disputed, not established.
+
 ## Key works
 
 - *Being and Time* (1927) — The major work: Dasein, being-in-the-world, das Man, death, and temporality. Published unfinished relative to its announced plan; Division Three and the projected destruction of the history of ontology never appeared in that form.
 - *Introduction to Metaphysics* (lectures 1935; published 1953) — A sweeping reading of Greek thought and modern decline; also politically notorious for retaining, in the 1953 text, a reference to the “inner truth and greatness” of the National Socialist movement, with Heidegger’s later gloss.
 - “Letter on Humanism” (1947) — A reply to Sartre, redefining his project against existential humanism; source of “language is the house of Being.”
 - “The Question Concerning Technology” (1954) — The enframing essay; the most taught of the late works and highly influential outside philosophy.
-- *Black Notebooks* (published from 2014) — Private notebooks, 1931–1970s, whose antisemitic passages intensified the debate about philosophy and politics in his case. Essential evidence for scholars; not a starting point for beginners.
+- *Black Notebooks* (published from 2014) — Private notebooks, 1931–1970, whose antisemitic passages intensified the debate about philosophy and politics in his case. Essential evidence for scholars; not a starting point for beginners.
 
 ## Contributions
 
@@ -79,7 +105,7 @@ Within philosophy his influence runs through Sartre and Beauvoir, Merleau-Ponty,
 
 The political debate dominates and divides scholars. One line, associated with critics such as Emmanuel Faye, holds that Heidegger’s Nazism and antisemitism are integral to the philosophy and should change how — or whether — it is taught. Others, including many working phenomenologists, argue that central analyses in *Being and Time* can be assessed and used independently, while not excusing the man; still others locate the contamination in specific later texts and categories rather than the whole corpus. The *Black Notebooks* strengthened the integral-contamination case factually; they did not produce consensus. What is no longer respectable is ignoring the record.
 
-Philosophical criticisms are independent and substantial: Levinas charged that Heidegger subordinates the ethical relation to the Other to ontology; Carnap used Heidegger’s prose as a paradigm of meaninglessness; Adorno attacked the “jargon of authenticity”; and many readers find the later etymological method suggestive rather than demonstrative.
+Philosophical criticisms are independent and substantial: Levinas charged that Heidegger subordinates the ethical relation to the Other to ontology; [Carnap](rudolf-carnap.md) used Heidegger’s prose as a paradigm of meaninglessness; Adorno attacked the “jargon of authenticity”; and many readers find the later etymological method suggestive rather than demonstrative.
 
 ## Misreadings to avoid
 

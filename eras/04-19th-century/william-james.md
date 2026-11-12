@@ -14,7 +14,7 @@
 - **School/tradition:** Pragmatism (its great popularizer); founder of American psychology
 - **Known for:** Making pragmatism a public philosophy — truth as what proves itself in experience, the will to believe, and the stream of consciousness.
 
-**Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md)
+**Responds to:** [Peirce](charles-sanders-peirce.md) · **Answered by:** [Dewey](../05-20th-century/john-dewey.md), [Russell](../05-20th-century/bertrand-russell.md), [Du Bois](../05-20th-century/du-bois-and-fanon.md) (his student)
 
 ## Biography
 
@@ -58,7 +58,7 @@ His late metaphysics held that relations are themselves given in experience, not
 - *Pragmatism* (1907) — Eight lectures; the popular statement of the method and the truth theory (Lectures 2 and 6 are the core).
 - *The Meaning of Truth* (1909) — His replies to critics of the truth theory.
 - *A Pluralistic Universe* (1909) — The late metaphysics against absolute idealism.
-- "The Moral Equivalent of War" (1910) — His most reprinted essay: the martial virtues of discipline, sacrifice, and collective effort redirected from war against nations to a "war against nature" — poverty, drudgery, and social ills.
+- "The Moral Equivalent of War" (1910) — His most reprinted essay: the martial virtues of discipline, sacrifice, and collective effort redirected from war against nations to an "army enlisted against nature" — poverty, drudgery, and social ills.
 
 ## Contributions
 

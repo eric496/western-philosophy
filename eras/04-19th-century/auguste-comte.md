@@ -28,7 +28,7 @@ His masterwork, the *Course of Positive Philosophy* (1830–1842), was written u
 
 ### The law of three stages
 
-Comte's most famous claim is that every branch of human knowledge — and human society as a whole — passes through three successive stages. In the **theological** stage, phenomena are explained by the will of supernatural beings: first fetishes, then many gods, finally one God. In the **metaphysical** stage, gods are replaced by abstract entities and forces — "natures," "essences," "rights" — which Comte regarded as theology in disguise. In the **positive** stage, the mind gives up the search for first and final causes and contents itself with discovering the *laws* — the constant relations of succession and resemblance — among phenomena. His *Course* opens with the claim that this law is established "by a combination of reasoning and observation." Different sciences, he held, pass through the stages at different speeds: astronomy and physics reached positivity first; the study of society, which he was founding, last.
+Comte's most famous claim is that every branch of human knowledge — and human society as a whole — passes through three successive stages. In the **theological** stage, phenomena are explained by the will of supernatural beings: first fetishes, then many gods, finally one God. In the **metaphysical** stage, gods are replaced by abstract entities and forces — "natures," "essences," "rights" — which Comte regarded as theology in disguise. In the **positive** stage, the mind gives up the search for first and final causes and contents itself with discovering the *laws* — the constant relations of succession and resemblance — among phenomena. His *Course* opens by claiming that this law rests on "a solid foundation of proof, both in the facts of our organization and in our historical experience" (lesson 1, Martineau's translation). Different sciences, he held, pass through the stages at different speeds: astronomy and physics reached positivity first; the study of society, which he was founding, last.
 
 ### Positivism
 
@@ -40,7 +40,7 @@ Comte arranged the fundamental sciences in a fixed order — mathematics, astron
 
 ### The Religion of Humanity
 
-In the *System of Positive Polity* (1851–1854), Comte argued that positivism must become a religion to bind society together. Humanity itself — "the Great Being," the continuous community of past, present, and future generations — replaces God as the object of worship, with a priesthood of scientists and philosophers, nine sacraments, and a positivist calendar. The slogan of the new order was "Love as a principle, Order as a basis, Progress as a goal." Even sympathetic readers such as John Stuart Mill found this later turn authoritarian and alarming.
+In the *System of Positive Polity* (1851–1854), Comte argued that positivism must become a religion to bind society together. Humanity itself — "the Great Being," the continuous community of past, present, and future generations — replaces God as the object of worship, with a priesthood of scientists and philosophers, nine sacraments, and a positivist calendar. The slogan of the new order was "Love as the Principle; Order as the Basis; Progress as the End" (*Catechism of Positive Religion*, trans. Congreve). Even sympathetic readers such as John Stuart Mill found this later turn authoritarian and alarming.
 
 ## Key works
 
@@ -62,7 +62,7 @@ Positivism became one of the most influential ideologies of the later 19th centu
 
 - **Is the law of three stages itself unscientific?** Critics note that the "law" is not testable in the way Comte demanded of other claims — it looks suspiciously like one of the metaphysical grand narratives positivism was supposed to replace.
 - **Two Comtes?** Scholars debate the continuity between the early philosopher of science and the late religious founder: a betrayal of his own principles, or the honest working-out of his conviction that society needs shared belief?
-- **Mill's verdict.** Mill admired the *Course* but wrote in his *Autobiography* (1873) that the *Polity* proposed "the completest system of spiritual and temporal despotism which ever yet emanated from a human brain."
+- **Mill's verdict.** Mill admired the *Course* but criticized the later Comte in *Auguste Comte and Positivism* (1865), and in his *Autobiography* (1873, ch. VI) called the *Polity* "the completest system of spiritual and temporal despotism which ever yet emanated from a human brain, unless possibly that of Ignatius Loyola."
 - **Gender.** Comte's views on women — venerated as morally superior, excluded from public and intellectual life — are challenged by the contrast with contemporaries like Harriet Taylor Mill writing in the same years.
 
 ## Misreadings to avoid

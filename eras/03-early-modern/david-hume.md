@@ -14,19 +14,21 @@
 - **School/tradition:** Empiricism and mitigated skepticism
 - **Known for:** Showing that beliefs about cause, self, and morality rest on custom and sentiment, not reason — and for waking Kant from his "dogmatic slumber"
 
-**Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
+**Responds to:** [Locke](john-locke.md), [Berkeley](george-berkeley.md), [Montesquieu](montesquieu.md) · **Answered by:** [Reid](thomas-reid.md), [Kant](immanuel-kant.md), [Adam Smith](adam-smith.md), [Parfit](../05-20th-century/derek-parfit.md)
+
+**Focus study:** [Hume dossier](../../focus-studies/david-hume/README.md) — a full deep dive beyond this entry: the first *Enquiry*, the *Treatise* passages it recasts, the *Dialogues* and the moral philosophy in an eight-week reading order; sixteen argument reconstructions from the copy principle to the sensible knave; the reception from Reid and Kant to the New Hume debate; a card deck.
 
 ## Biography
 
-David Hume was born on 7 May 1711 in Edinburgh, son of a modest landowner who died when Hume was two. Raised at Ninewells, he entered Edinburgh University at about eleven and left without a degree. Family expectations pointed to law; Hume found an "insurmountable aversion to everything but the pursuits of Philosophy and general Learning."
+David Hume was born on 7 May 1711 (26 April, Old Style) in Edinburgh, son of a modest landowner who died when Hume was two. Raised at Ninewells, he entered Edinburgh University in 1721, at about ten, and left without a degree. Family expectations pointed to law; Hume found an "insurmountable aversion to every thing but the pursuits of philosophy and general learning."
 
 Intense study in his twenties produced his masterpiece. Retreating to France — chiefly at La Flèche, Descartes's old school town — he wrote *A Treatise of Human Nature* (1739–40, anonymous), attempting to introduce "the Experimental Method of Reasoning into Moral Subjects."
 
 It failed. Hume's verdict in *My Own Life* was that it "fell dead-born from the press." He recast the material in clearer forms. The *Treatise* is now widely regarded as the greatest work of philosophy in English — a complete inversion of its reception.
 
-He was a public man of letters, not a professor: he was twice blocked from university chairs (Edinburgh 1745, Glasgow 1752) by opponents of his religious views. He supported himself as a tutor, secretary to General St Clair, librarian in Edinburgh (where he wrote his *History of England*), and diplomat in Paris and London.
+He was a public man of letters, not a professor: he was twice blocked from university chairs (Edinburgh 1745, Glasgow 1752) by opponents of his religious views. He supported himself as a tutor, secretary to General St Clair, librarian in Edinburgh (where he wrote his *History of England*), embassy secretary and chargé d'affaires in Paris, and Under-Secretary of State in London (1767–68).
 
-The recast works made his reputation. The *Enquiry Concerning Human Understanding* (1748) reworked Book I of the *Treatise*, adding miracles. The *Enquiry Concerning the Principles of Morals* (1751) he considered "incomparably the best" of his writings. In Paris he was lionised as "le bon David," a fame complicated by a public quarrel with Rousseau. Essays on suicide and immortality were suppressed, and the *Dialogues Concerning Natural Religion* appeared only after his death.
+The recast works made his reputation. The *Enquiry Concerning Human Understanding* (1748, first titled *Philosophical Essays concerning Human Understanding*; renamed in 1758) reworked Book I of the *Treatise*, adding miracles. The *Enquiry Concerning the Principles of Morals* (1751) he considered "incomparably the best" of his writings. In Paris he was lionised as "le bon David," a fame complicated by a public quarrel with Rousseau. Essays on suicide and immortality were suppressed, and the *Dialogues Concerning Natural Religion* appeared only after his death.
 
 Hume died in Edinburgh on 25 August 1776, with a composure that became famous. The *Dialogues* appeared in 1779.
 

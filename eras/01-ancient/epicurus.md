@@ -30,13 +30,13 @@ He was extraordinarily prolific — Diogenes Laertius credits him with more than
 
 Epicurus is a hedonist — pleasure is the goal of life — but he redefines the term. The highest pleasure is not intense stimulation but a stable condition: *aponia*, no pain in the body, and *ataraxia*, no disturbance in the mind. A feast can produce a brief spike of pleasure followed by indigestion, expense, dependence, and anxiety; bread, water, and conversation with friends can restore the painless condition with almost no downside.
 
-From this follows his classification of desires. Some are natural and necessary (food, shelter, friendship); some are natural but unnecessary (varied, luxurious food); some are neither natural nor necessary (fame, unlimited wealth, political power), resting on empty opinion. The practical rule is calculation: choose the course that yields the greatest net pleasure over a whole life, which often means enduring a small pain now or refusing a tempting pleasure now. The tension is obvious: is a life defined negatively, by what it avoids, rich enough? Epicurus replies that once pain and fear are removed, pleasure "does not increase, it only varies" — a serene life is complete, not empty.
+From this follows his classification of desires. Some are natural and necessary (food, shelter, friendship); some are natural but unnecessary (varied, luxurious food); some are neither natural nor necessary (fame, unlimited wealth, political power), resting on empty opinion. The practical rule is calculation: choose the course that yields the greatest net pleasure over a whole life, which often means enduring a small pain now or refusing a tempting pleasure now. The tension is obvious: is a life defined negatively, by what it avoids, rich enough? Epicurus replies that once pain and fear are removed, the pleasure of the flesh "admits no increase… after that it only admits of variation" (Principal Doctrine 18, trans. Hicks) — a serene life is complete, not empty.
 
 ### Atomism and the swerve (clinamen)
 
 Following Democritus, Epicurus holds that reality consists of atoms — indivisible bodies of different shapes and sizes — moving in void. Everything, including the soul, is a temporary compound of atoms; compounds form, decay, and dissolve. This explains change without invoking purpose, design, or divine craftsmanship.
 
-He adds one famous modification: atoms falling through the void occasionally swerve at no fixed time or place — the *clinamen*, or swerve. In Lucretius the swerve does two jobs. It lets atoms collide and form compounds instead of falling in parallel forever, and it breaks an unbroken chain of cause and effect, leaving room for voluntary action. The tension is that a random swerve seems a poor foundation for responsible agency: chance is not the same as freedom. Scholars still debate how central the free-will role was for Epicurus himself, as opposed to Lucretius and later readers — and the evidence itself needs flagging: the swerve is attested only in Lucretius and Cicero, not in any surviving text of Epicurus, and some scholars treat it as a later Epicurean development rather than the founder's own doctrine.
+He adds one famous modification: atoms falling through the void occasionally swerve at no fixed time or place — the *clinamen*, or swerve. In Lucretius the swerve does two jobs. It lets atoms collide and form compounds instead of falling in parallel forever, and it breaks an unbroken chain of cause and effect, leaving room for voluntary action. The tension is that a random swerve seems a poor foundation for responsible agency: chance is not the same as freedom. Scholars still debate how central the free-will role was for Epicurus himself, as opposed to Lucretius and later readers — and the evidence itself needs flagging: the swerve is attested only in later sources (Lucretius and Cicero above all, also Philodemus, Plutarch and Diogenes of Oenoanda), not in any surviving text of Epicurus, and some scholars treat it as a later Epicurean development rather than the founder's own doctrine.
 
 ### The tetrapharmakos and the fear of the gods
 
@@ -46,11 +46,37 @@ Epicurus does not deny the gods. He argues they exist as blessed, imperishable b
 
 ### Death is nothing to us
 
-The second remedy is the most quoted argument in the school: "Death is nothing to us, since when we are, death has not come, and when death has come, we are not." Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
+The second remedy is the most quoted argument in the school: "Death … is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not" (Letter to Menoeceus §125, trans. Hicks). Death is the dissolution of the atomic compound that makes sensation possible; where there is no sensation, there can be no suffering. The argument targets the fear of *being dead*, imagined as if one will be present to endure darkness or judgment. A modern objection — that death can still harm us by depriving us of future goods — is a live debate Epicurus' sensation-based premise does not by itself settle.
 
 ### Friendship, justice, and withdrawal
 
 Friendship is the greatest security a life can have, and the Garden embodied it. Justice, by contrast, has no absolute existence: it is a mutual agreement neither to harm nor be harmed, valuable because it removes fear, and it changes when circumstances make an agreement useless. Politically this counsels caution: ambition breeds rivals and anxiety, so the sage will generally "live unnoticed." The tension is between prizing communal friendship and retreating from the wider city.
+
+## Signature arguments
+
+**Death is nothing to us (*Letter to Menoeceus* §124–125; *Principal Doctrines* 2)**
+
+1. Good and evil require sensation: something can be good or bad for you only if you can be aware of it.
+2. Death is the dissolution of the atomic compound that makes sensation possible, and so the privation of all awareness.
+3. While we exist, death is not present; once death is present, we no longer exist.
+4. So there is never a time when a subject and its death meet, and no one is left for death to harm.
+Therefore, being dead is nothing to us, and fearing it, as if we would be present to endure darkness or judgment, is a mistake that philosophy can cure.
+
+**Objection.** The deprivation account, classically stated by Thomas Nagel in his 1970 essay *Death*, denies premise 1: a harm need not be felt. Death is bad for the person who dies because it takes away the goods their life would otherwise have contained, whether or not that loss is ever experienced.
+
+**Reply.** The Epicurean side can invoke Lucretius' symmetry argument (*On the Nature of Things* III): the eternity after death is a mirror of the eternity before birth, and no one dreads the time before they were born, so the time after death is no more to be dreaded. Deprivation theorists answer that the two are not symmetrical, since we can lose future goods but could not have been born much earlier and still been ourselves; Epicureans press when such a harm could occur, if not while one lives and not after. The debate is still live, and Epicurus' sensation-based premise does not by itself settle it.
+
+**The limit of pleasure and the sorting of desires (*Letter to Menoeceus* §127–132; *Principal Doctrines* 18, 29)**
+
+1. Pleasure is the goal of life; every choice and avoidance aims at it.
+2. The highest pleasure is a stable condition, not a spike of stimulation: *aponia*, no pain in the body, and *ataraxia*, no disturbance in the mind.
+3. Once pain and fear are removed, pleasure "admits no increase"; luxury can only vary it, not add to it.
+4. Natural and necessary desires (food, shelter, friendship) are easy to satisfy; natural but unnecessary ones (luxurious food) and empty ones (fame, unlimited wealth, power) bring expense, dependence, and anxiety.
+Therefore, the pleasant life is the simple one: satisfy natural and necessary desires, weigh every choice by its net pleasure over a whole life, and let empty desires go.
+
+**Objection.** Ancient rivals, the Stoics and Cicero above all (*On Ends* II), objected that a painless condition is not pleasure at all but a neutral state between pleasure and pain, so Epicurus' highest pleasure is pleasure in name only, and a life aimed at it is defined negatively, by what it avoids.
+
+**Reply.** Epicurus distinguishes "katastematic" (static) pleasure, the felt condition of a body and mind working without pain or fear, from *kinetic* pleasures of change such as eating when hungry; the static state is itself enjoyed, not merely the absence of something, so ataraxia is grateful enjoyment, not numbness. Whether static pleasures can really outrank active enjoyments remains a modern debate.
 
 ## Key works
 
@@ -63,7 +89,7 @@ Friendship is the greatest security a life can have, and the Garden embodied it.
 
 ## In their own words
 
-> Accustom yourself to believe that death is nothing to us, for good and evil imply awareness, and death is the privation of all awareness; therefore a right understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life an unlimited time, but by taking away the yearning after immortality. […] Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.
+> Accustom thyself to believe that death is nothing to us, for good and evil imply sentience, and death is the privation of all sentience; therefore a right understanding that death is nothing to us makes the mortality of life enjoyable, not by adding to life an illimitable time, but by taking away the yearning after immortality. […] Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.
 
 — Epicurus, *Letter to Menoeceus* §124–125, trans. Robert Drew Hicks (1925; public domain)
 

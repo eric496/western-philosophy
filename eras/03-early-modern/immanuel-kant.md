@@ -14,7 +14,7 @@
 - **School/tradition:** Critical philosophy; a synthesis of rationalism and empiricism
 - **Known for:** The mind structures experience through space, time, and the categories; morality as a law rational agents give themselves; reason learning its own limits
 
-**Responds to:** [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Émilie du Châtelet](emilie-du-chatelet.md) · **Answered by:** [Fichte](../04-19th-century/johann-gottlieb-fichte.md), [Hegel](../04-19th-century/g-w-f-hegel.md), [Schopenhauer](../04-19th-century/arthur-schopenhauer.md)
+**Responds to:** [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Émilie du Châtelet](emilie-du-chatelet.md) · **Answered by:** [Hamann & Herder](hamann-and-herder.md), [Fichte](../04-19th-century/johann-gottlieb-fichte.md), [Hegel](../04-19th-century/g-w-f-hegel.md), [Schopenhauer](../04-19th-century/arthur-schopenhauer.md)
 
 ## Biography
 
@@ -60,7 +60,7 @@ Some requirements, Kant thinks, are not merely advisable but unconditional. A *h
 
 Its universal-law formulation: “Act only in accordance with that maxim through which you can at the same time will that it become a universal law.” A *maxim* is your act’s subjective principle — “In circumstances C, I will do A to achieve P.” The test asks whether you can consistently will everyone to act on it. A lying promise fails: universalized, promises would cease to be believed, so the maxim destroys the practice it depends on.
 
-Its humanity formulation: “Act in such a way that you treat humanity, whether in your own person or in the person of any other, always at the same time as an end and never merely as a means.” Using someone as a means is ordinary — you use a taxi driver’s services — but never *merely* as a means: deception and coercion bypass rational consent and treat a person as a tool only.
+Its humanity formulation: “So act that you use humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means.” Using someone as a means is ordinary — you use a taxi driver’s services — but never *merely* as a means: deception and coercion bypass rational consent and treat a person as a tool only.
 
 This is a *test of maxims*, not the Golden Rule and not a rule list. Kant distinguishes it from “do as you would be done by,” which is indexed to what you happen to want and, he thought, cannot ground duties to oneself or strict duties of justice. Particular duties must be derived, and Kant’s own strict applications — notoriously on lying — are his applications, debated even by Kantians.
 

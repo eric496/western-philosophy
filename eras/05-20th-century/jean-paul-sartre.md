@@ -13,7 +13,7 @@
 - **School/tradition:** Existentialism — its leading public figure; philosopher, novelist, playwright, and political activist
 - **Known for:** “Existence precedes essence,” radical freedom, and the analysis of bad faith
 
-**Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Merleau-Ponty](maurice-merleau-ponty.md), [Beauvoir](simone-de-beauvoir.md), [Murdoch](iris-murdoch.md)
+**Responds to:** [Heidegger](martin-heidegger.md) · **Answered by:** [Merleau-Ponty](maurice-merleau-ponty.md), [Beauvoir](simone-de-beauvoir.md), [Camus](albert-camus.md), [Murdoch](iris-murdoch.md)
 
 ## Biography
 
@@ -25,7 +25,7 @@ Sartre taught in lycées through the 1930s, spending 1933–34 in Berlin studyin
 
 His major treatise, *Being and Nothingness*, appeared in 1943. After the Liberation he became, almost overnight, the emblematic intellectual of the Left Bank. With Beauvoir, Merleau-Ponty, and others he co-founded the journal *Les Temps modernes* in 1945, and his lecture *Existentialism Is a Humanism* that year packed a hall and made “existentialism” a household word — to his own later regret about its simplifications.
 
-The post-war decades were political as much as literary. Sartre supported the French Communist Party as a fellow traveler from 1952 to 1956, broke with it over the Soviet invasion of Hungary, later took Maoist-aligned positions around 1968, and campaigned against the French war in Algeria — his preface to Frantz Fanon’s *The Wretched of the Earth* (1961) endorsed anti-colonial violence in terms that remain controversial. He also condemned the Soviet invasion of Czechoslovakia in 1968. In 1964 he refused the Nobel Prize in Literature, saying a writer must not be turned into an institution. Failing eyesight ended his writing in the 1970s. He died in 1980; tens of thousands followed his coffin through Paris.
+The post-war decades were political as much as literary. Sartre supported the French Communist Party as a fellow traveler from 1952 to 1956, broke with it over the Soviet invasion of Hungary, later took Maoist-aligned positions around 1968, and campaigned against the French war in Algeria — his preface to [Frantz Fanon’s](du-bois-and-fanon.md) *The Wretched of the Earth* (1961) endorsed anti-colonial violence in terms that remain controversial. He also condemned the Soviet invasion of Czechoslovakia in 1968. In 1964 he refused the Nobel Prize in Literature, saying a writer must not be turned into an institution. Failing eyesight ended his writing in the 1970s. He died in 1980; tens of thousands followed his coffin through Paris.
 
 ## Major theories and concepts
 
@@ -55,11 +55,37 @@ Sartre is careful that bad faith is not ordinary lying: liar and lied-to are the
 
 ### The Look and the Other
 
-Other people are not simply objects in my world, because they can *look back*. In Sartre’s analysis of *the Look*, catching another’s gaze — or even hearing footsteps in a park and realizing I am seen — transforms my experience: I become aware of myself as an object in someone else’s world, fixed by judgments I cannot control. Shame is his key example: I am ashamed of myself *as I appear to the Other*. This is the real sense of the famous line from his play *No Exit* (1944), “Hell is other people”: three dead characters, locked together, torture each other eternally by being mirrors in which each is frozen as what they were. It is not a claim that company is unpleasant or that solitude is salvation; without others, Sartre argues, self-knowledge itself would be impossible, and love, language, and pride all depend on the same structure that makes shame possible.
+Other people are not simply objects in my world, because they can *look back*. In Sartre’s analysis of *the Look*, catching another’s gaze — or even hearing footsteps behind me while peering through a keyhole and realizing I am seen — transforms my experience: I become aware of myself as an object in someone else’s world, fixed by judgments I cannot control. Shame is his key example: I am ashamed of myself *as I appear to the Other*. This is the real sense of the famous line from his play *No Exit* (1944), “Hell is other people”: three dead characters, locked together, torture each other eternally by being mirrors in which each is frozen as what they were. It is not a claim that company is unpleasant or that solitude is salvation; without others, Sartre argues, self-knowledge itself would be impossible, and love, language, and pride all depend on the same structure that makes shame possible.
 
 ### From existentialism to Marxism
 
 The *Critique of Dialectical Reason* (1960) asks what the early philosophy missed: history and material constraint. Its key ideas include *scarcity*, the background that makes people rivals, and the *practico-inert* — past action hardened into institutions and market forces that then constrain their makers like alien things. People waiting for a bus form a “series” whose unity is imposed from outside. The later Sartre does not retract freedom, but the reconciliation with Marxist structural explanation is strained, and readers still argue over whether the two Sartres form one philosophy or two.
+
+## Signature arguments
+
+**Existence precedes essence (*Existentialism Is a Humanism*, the 1945 lecture)**
+
+1. For a manufactured object such as a paper knife, essence precedes existence: the maker conceives its purpose and nature before making it.
+2. To treat human beings the same way, one needs a maker, or a fixed human nature, that supplies the blueprint before the person exists.
+3. On Sartre's atheism there is no God to conceive human nature in advance, and so no pre-written nature to discover, excuse oneself by, or fail to live up to.
+4. A person therefore first exists, thrown into the world, and only then makes themselves through choices; even what their given traits mean is settled by what they do.
+Therefore, "existence precedes essence": each of us is responsible for what we make of ourselves, and since refusing to choose is itself a choice, we are "condemned to be free."
+
+**Objection.** The freedom looks too absolute. Merleau-Ponty argued in the closing chapter of *Phenomenology of Perception* (1945) that a freedom which is either total or nothing ignores how the body, settled habits and a shared social world give choices their shape and their inertia. The prisoner case sharpens the worry: if the prisoner is still free, the doctrine seems to trivialise real oppression, or quietly blame its victims.
+
+**Reply.** Sartre's freedom is always situated. Facticity (body, birthplace, past, social position, death) is given, and freedom is what one makes of it, not getting what one wants. The later *Critique of Dialectical Reason* adds scarcity and the practico-inert: past action hardened into institutions that constrain their makers. Critics answer that the early rhetoric outran these qualifications, and whether the early and late Sartre form one philosophy or two is still argued.
+
+**Bad faith (*Being and Nothingness*, Part One, ch. 2)**
+
+1. A human being is always both facticity (a given body, past and social role) and freedom (the power to stand apart from any of it and choose).
+2. Facing the total responsibility this brings is anguish, and most of social life is an organised flight from anguish.
+3. One can flee by treating oneself as a fixed thing, like the waiter who plays at being a waiter the way an inkwell is an inkwell, or by pretending that circumstances never touch "the real me."
+4. Each flight denies one pole of a being that is always both, and in each the deceiver and the deceived are the same person.
+Therefore, bad faith (*mauvaise foi*) is a distinctive self-deception, not lying to someone else: the denial, from within, of either one's freedom or one's facticity.
+
+**Objection.** The account looks paradoxical. To hide a truth from myself I must know it in order to hide it, so one consciousness must both know and not know the same thing. Sartre posed this very puzzle against Freud, whose mental censor, he argued, must know enough to repress and yet not know; critics turn the same puzzle back on Sartre's own account.
+
+**Reply.** Sartre's answer rests on consciousness as a being that never coincides with itself: one can be non-thetically, pre-reflectively aware of something without grasping it as explicit, statable knowledge, so no hidden inner liar is needed. Whether this dissolves the paradox or only relocates it remains a standard objection, and a productive one in the philosophy of self-deception ever since.
 
 ## Key works
 
