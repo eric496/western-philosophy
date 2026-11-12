@@ -26,12 +26,14 @@
 
 ### 1.2 两个层级：核心与地图级
 
-本图书馆涵盖 112 位人物。**你不会深入阅读 112 位人物，本计划也不假装你会。** 大学学期课程也不会——MIT 的课程在原典文本中只读大约十位人物。
+本图书馆涵盖 140 位人物。**你不会深入阅读 140 位人物，本计划也不假装你会。** 大学学期课程也不会——MIT 的课程在原典文本中只读大约十位人物。
 
 - **核心（约 30 位人物）：** 读原典文本，使用下面指定的版本，慢读，并为每位作者写一份书面论证重构。这些是承重的作者：跳过一位，后面的阶段就会摇晃。
 - **地图级（其余所有人）：** 通过本仓库中他们的词条 + 配套的播客一集（Adamson，或在 Adamson 尚未讲到的地方用 *Philosophize This!*——见 §3 和各阶段的*听与看*）或 Kenny 的相关章节 + **一个**你能用自己的话回答的检查点问题（每位人物约 30–45 分钟）来覆盖。地图级是一个刻意的设计选择，不是失败。它给你整个传统的形状——谁在和谁争论、争论什么——而这正是让核心阅读变得可理解的东西。
 
 核心人物标 ●，地图级人物标 ○，地图级人物中附带一段值得一读的短篇原典节选（若该阶段进展顺利）的标 ◐。
+
+**地图扩展（可选）。** 在各阶段的预算定下之后，本图书馆又新增了二十个词条，各阶段表格现在以地图级指向它们：色诺芬尼与阿那克萨戈拉、晚期新柏拉图主义者（阶段 1）；伪狄奥尼修斯与埃克哈特、安萨里、克里斯蒂娜·德·皮桑、文艺复兴人文主义者（阶段 2）；苏亚雷斯与格劳秀斯、马勒伯朗士、培尔与伏尔泰、道德感学派、哈曼与赫尔德（阶段 3）；格林与布拉德雷、狄尔泰与柯林伍德（阶段 4）；卡尔纳普、塞拉斯/戴维森/普特南/刘易斯、杜波依斯与法农、哈贝马斯、哈特、德勒兹、伊利格瑞/克里斯蒂娃/巴特勒（阶段 5）。按每个词条约 45 分钟计，它们增加 **约 15 小时**（阶段 1 约 1.5，阶段 2 约 3，阶段 3 约 4，阶段 4 约 1.5，阶段 5 约 5），且**不**计入 §1.5 的总计。把它们放在缓冲周里做，或者跳过：没有任何检查点或关卡文章依赖于它们。
 
 ### 1.3 三条不可妥协的规则
 
@@ -72,6 +74,8 @@
 | 一次性工具设置（阶段 0 第 1 周——§3.1） | — | — | — | — | +2 |
 | **总计** | **64 周** | **约 288 小时** | **约 64 小时** | **约 100 小时** | **约 454 小时** |
 
+可选的地图扩展（§1.2）在这些总计之外再增加约 15 小时；它们可以放进日历 A 的缓冲周里。
+
 两种日历安排交付同样的 454 小时：
 
 | 日历 | 负荷 | 学习周 | 含缓冲 | 日历长度 |
@@ -85,9 +89,9 @@
 
 ## 2. 保持系统（每日 10 分钟队列 + C 课，无需老师）
 
-这套系统是计划的一部分，不是配件。§5–§9 中的检查点预设了你正在做它。
+这套系统是计划的一部分，不是配件。阶段 0 和 §5–§9 中的检查点预设了你正在做它。
 
-1. **论证卡，由 FSRS 排程——不要手工排。** 整个计划用一个 Anki 牌组，跨所有阶段累积。正面：一个*动手做*的提示——“休谟——归纳：用 3 句话陈述这个问题。”背面：编号的前提 + 结论 + **一个异议 + 一个回应**。每位核心作者自制约 5 张卡（总计约 150 张），外加 [`study/cards/`](study/cards/README.md) 中随附的牌组——40 张论证卡和各指南配套的检查点卡——在你学到每位人物时逐位导入，绝不第一天一次性倾倒进来。一张问“康德生于何时？”的卡是浪费的卡；日期住在 `index.md` 里。Anki 只需设置一次，如下：
+1. **论证卡，由 FSRS 排程——不要手工排。** 整个计划用一个 Anki 牌组，跨所有阶段累积。正面：一个*动手做*的提示——“休谟——归纳：用 3 句话陈述这个问题。”背面：编号的前提 + 结论 + **一个异议 + 一个回应**。每位核心作者自制约 5 张卡（总计约 150 张），外加 [`study/cards/`](study/cards/README.md) 中随附的牌组——78 张核心论证卡（外加 47 张可选的地图级论证卡）和各指南配套的检查点卡——在你学到每位人物时逐位导入，绝不第一天一次性倾倒进来。一张问“康德生于何时？”的卡是浪费的卡；日期住在 `index.md` 里。Anki 只需设置一次，如下：
    - **打开 [FSRS](https://docs.ankiweb.net/deck-options.html)。** 它是 Anki 当前的调度器（桌面端、移动端、网页端），且比旧的 SM-2 更受推荐——但它在牌组选项里是一个*开关*，所以要亲手打开它；不要假设它已经激活。
    - **目标保持率：0.90。** 不要再提高：超过 0.90，工作量攀升得非常快；超过 0.97，则可能不堪重负。
    - **学习与再学习步长：要短——`10m`（或默认的 `1m 10m`），不要有 1 天或更长的。** 在 FSRS 下，一天以上的步长是被明确不推荐的；FSRS 会自己设定第一个多日间隔。
@@ -98,7 +102,7 @@
    *改变了什么，为什么：* 本计划的早期版本让你在 +2 天、+1 周、+3 周和阶段末手工复习每位作者的卡片。该指令对卡片而言已经**退役**——FSRS 会把间隔个体化，手工排程是在和它对着干。+2 天/+1 周/+3 周的标记在下文存续，被重新分配给重构与检查点——在那里，人类尺度的节奏才是对的工具。
 2. **每日队列。** 在 **约 10 分钟、每周约 6 天**内清空 Anki 的到期队列，与 A–C 课分开（边散步边用手机是通常的场合）。把负荷算式做一遍，它就再也吓不到你：按本计划的摄入量——每周几张新卡，且每天约 5 张新卡的硬上限你很少会触及——队列会停留在个位数到十几分钟。（作为尺度参照：持续每天 20 张新卡，才会产生每天约 200 次复习；那是另一种爱好了。）**积压规则：如果队列积压起来，就停止添加新卡，直到它清空。** 漏掉的日子会发生；解法是减小摄入量，绝不是提高保持率目标。
 3. **每篇核心文本之后做白纸重构——按相继再学习节奏。** 200–400 字，合上书，用自己的话、并尽可能以更清晰的顺序把论证重新搭建出来——是向一个没读过这段文字的人解释它，而不是逐句复述。然后——只有到了这时——再写第二段来批评它。（这是 Jim Pryor 的标准本科练习，与之配套的他的阅读规则是：读三遍——略读以抓住结论与结构，仔细读，然后评估。）其排程原理是**相继再学习**（Rawson & Dunlosky）：有效成分是*在多个分开的间隔课次中成功提取同一材料*——大致说，就是在**约 3 个分开的课次**中成功重构每个核心论证。所以在第一次通过之后的 **+2 天、+1 周、+3 周**重新重构每个核心论证；C 课就是后几次接触所在之处。两个推论，都是解放性的：等间隔的表现与扩展间隔大致相当，所以这些标记是你能保持的节奏，而不是要迷信的机制；并且**每次课一次干净的成功回忆就够了**——在一个课次里硬塞的额外操练，一旦间隔再学习发生就会被冲淡，所以绝不要在一次坐定中马拉松式地重构。
-4. **每周合书检查点。** 在 C 课中，合上书、大声或书面回答当前阶段检查点清单（§5–§9）中的 3 个提示问题。按四个等级诚实评分：*能陈述 / 能重构 / 能比较 / 能提出异议*。只有后三个算通过。“我看到时能认出来”至多是*能陈述*，而且通常连那都算不上。检查点同时充当该阶段早期作者的后续间隔接触（§2.3）——挑选向回延伸的提示问题，而不只是横向的。
+4. **每周合书检查点。** 在 C 课中，合上书、大声或书面回答当前阶段检查点清单（阶段 0、§5–§9）中的 3 个提示问题。按四个等级诚实评分：*能陈述 / 能重构 / 能比较 / 能提出异议*。只有后三个算通过。“我看到时能认出来”至多是*能陈述*，而且通常连那都算不上。检查点同时充当该阶段早期作者的后续间隔接触（§2.3）——挑选向回延伸的提示问题，而不只是横向的。
 5. **每个阶段一篇关卡文章：600–800 字。** 一个适度的论点，清楚地加以辩护。为一个较弱的论点给出强论证，胜过为一个宏大论点给出弱论证。**没有关卡文章 = 不能进入下一阶段**，无论你“读”了多少。每个阶段都给出了提示问题；该阶段检查点中的任何问题、只要论证得当，也可以用。（这一节奏恰好定在这里，依据是证据：就内容写作确实有助于学习该内容，但幅度有限——Graham, Kiuhara & MacKay 2020——这支持把关卡文章用作巩固，而不是用更重的写作安排挤掉原典阅读。）
 6. **讨论替代品，按价值排序。** 独自学习的弱点在于没有人反驳你。按需要爬这架梯子：（a）录一段 5 分钟的手机语音备忘，把本周的论证大声讲出来——如果你讲不出来，你就还没掌握它；（b）钢人交换——*以对立作者的身份*为你的关卡文章写出最强的异议，然后回应；（c）把关卡文章或一篇重构发到哲学论坛、读书小组，或一次预定好的 AI 批评课，给出指示“找出最弱的前提；不要把我的话概括回来”——并把它的任何说法都当作讨论伙伴的主张、须对照 SEP 或原典文本核实，绝不当作权威；（d）在每个时代板块之后看 Magee 的访谈系列（*Men of Ideas*、[*The Great Philosophers*](https://en.wikipedia.org/wiki/The_Great_Philosophers)），作为在你动笔之前听取第二个声音的方式。
 
@@ -129,9 +133,9 @@
 
 | 资源 | 何时 | 如何使用 |
 |---|---|---|
-| **Adamson, [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/podcast/all-episodes)**（播客，免费；也有 OUP 出版的书） | **同时，阶段 1–2，以及阶段 3 到笛卡尔/贝尔为止** | 每集约 20 分钟，按编年顺序，是与本图书馆范围最契合的——它涵盖了其他哲学史略过的较不知名的、伊斯兰的、犹太的和女性哲学家。这是这些阶段中你的主要地图级引擎。该系列的状态，2026 年末核实：共 514 集，从前苏格拉底学派（第 1 集）到贝尔（第 502 集）——**它尚未讲到洛克、休谟或康德**，按其速度，几年内也不会；阶段 3–5 切换主线（见下一行）。每个阶段的*听与看*给出集数范围和精选成本。它是广度伴读，不是论证导师：重构仍然欠着。 |
+| **Adamson, [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/podcast/all-episodes)**（播客，免费；也有 OUP 出版的书） | **同时，阶段 1–2，以及阶段 3 到笛卡尔/贝尔为止** | 每集约 20 分钟，按编年顺序，是与本图书馆范围最契合的——它涵盖了其他哲学史略过的较不知名的、伊斯兰的、犹太的和女性哲学家。这是这些阶段中你的主要地图级引擎。该系列的状态，2026 年末核实：共 514 集，从前苏格拉底学派（第 1 集）一直到贝尔（第 498–501 集），再到荷兰共和国（第 502–503 集）——**它尚未讲到洛克、休谟或康德**，按其速度，几年内也不会；阶段 3–5 切换主线（见下一行）。每个阶段的*听与看*给出集数范围和精选成本。它是广度伴读，不是论证导师：重构仍然欠着。 |
 | ***[Philosophize This!](https://www.philosophizethis.org/)***（Stephen West，播客，免费） | **同时，阶段 3 从洛克/休谟起，以及阶段 4–5** | 在 Adamson 尚未到达之处的编年音频主线：每集约 30–35 分钟，按顺序听对初学者友好，也是目前唯一能到达康德、十九世纪和当代的免费系列。严谨性注意事项，直截了当地说：West 是一位技艺娴熟的普及者，不是学者；该节目做了简化，在康德和黑格尔身上偶尔简化到了失真的程度。只作预习或复习，且永远与本仓库的词条/指南和你自己的重构配套。 |
-| **Kenny, *A New History of Western Philosophy*《西方哲学新史》**（4 卷本 / 1 卷本） | **同时，每个时代一卷** | 本计划的默认哲学史主线（第 1 卷配阶段 1，第 2 卷配阶段 2，第 3 卷配阶段 3–4，第 4 卷配阶段 5）。它的结构——叙事，然后是关于知识、心灵、伦理、政治、上帝的主题章节——*就是*付印的螺旋。把它作为你的主线，优于罗素。注意：伊斯兰世界主要在其滋养拉丁传统之处出现；Adamson 填补了这个缺口。**有声书说明（在此点名一次）：** 四卷都有有声书版本——这是唯一一套完整、单一叙事、端到端覆盖阶段 1–5 的*音频*主线。在阶段 3–5，你可以在任何想听更学术的声音的地方用 Kenny 有声书替代 *Philosophize This!*；不要两条主线同时跑。 |
+| **Kenny, *A New History of Western Philosophy*《西方哲学新史》**（4 卷本 / 1 卷本） | **同时，每个时代一卷** | 本计划的默认哲学史主线（第 1 卷配阶段 1，第 2 卷配阶段 2，第 3 卷配阶段 3 和阶段 4 的黑格尔，第 4 卷配阶段 4 的其余部分和阶段 5）。它的结构——叙事，然后是关于知识、心灵、伦理、政治、上帝的主题章节——*就是*付印的螺旋。把它作为你的主线，优于罗素。注意：伊斯兰世界主要在其滋养拉丁传统之处出现；Adamson 填补了这个缺口。**有声书说明（在此点名一次）：** 四卷都有有声书版本——这是唯一一套完整、单一叙事、端到端覆盖阶段 1–5 的*音频*主线。在阶段 3–5，你可以在任何想听更学术的声音的地方用 Kenny 有声书替代 *Philosophize This!*；不要两条主线同时跑。 |
 | **[SEP（Stanford Encyclopedia of Philosophy，斯坦福哲学百科全书）](https://plato.stanford.edu/)** | **之前（只读 §1/引言）和之后（完整词条）** | 同行评审、专家撰写，但篇幅长、面向高级读者——它很少被整篇布置给入门学生，你也不应整篇布置给自己。规程：原典文本之前读 §1，停下，读原典文本，然后读其余部分。 |
 | **IEP（Internet Encyclopedia of Philosophy，互联网哲学百科全书）** | **之前，优先选用** | 更短，按本科生水平撰写；对初学者是更好的第一遍。对斯宾诺莎、克尔凯郭尔、黑格尔、海德格尔先用 IEP；之后再进阶到 SEP。 |
 | **Russell, *A History of Western Philosophy*《西方哲学史》（1945）** | **只在原典阅读之后，阶段 3–5，选择性使用** | 才华横溢且公开带偏见——偏爱经验主义，对阿奎那和他不喜欢的人物不屑一顾。把他当作一个可以与之争论的哲学家来读，绝不要把他当作关于某位作者的唯一权威，绝不要把他当作阶段 0 的教材。（他的《哲学问题》(*The Problems of Philosophy*, 1912) 是另一本书，是一本出色的阶段 0 文本。） |
@@ -156,13 +160,13 @@
 - 默认丛书：**Hackett**（便宜，学生注释，美国教学大纲的标准）和 **Cambridge Texts in the History of Philosophy**（为学生委托翻译，带导论和术语表）。Penguin Classics 和 Oxford World's Classics 在译者是现代且具名时也不错。
 - 每位作者的版本在各阶段中给出。汇总的避开清单：
 
-> **避开 / 标记：** Jowett 的柏拉图译本（1871–92——维多利亚风格，辞藻浮华，重印本往往没有斯特方页码）；Allan Bloom 的《理想国》译本，除非作比较之用；Haldane & Ross 的笛卡尔译本（1911——对 *cogitatio*（思维）的翻译前后不一致、遮蔽了论证；剑桥版的存在就是为了取代它）；Selby-Bigge/Nidditch 的休谟《人类理解研究》本（已被 Beauchamp 的 Clarendon 版取代）；Kemp Smith（1929）或 Meiklejohn 的康德《纯粹理性批判》译本，以及任何未标注的 [Gutenberg](https://www.gutenberg.org/) 《批判》；廉价重印本中的 Thomas Common 尼采译本；**Parshley 的《第二性》译本（1953——删节了约 15% 且误译关键术语；用 Borde & Malovany-Chevallier 译本，2010/2011）**；作为*第一*读本的旧 Dominican Fathers 译本全本《神学大全》（它是一套参考书，不是一门课程的文本）；Ross 的亚里士多德译本作为第一读本（准确，但简洁且无辅助）；公共领域的 Marriott 马基雅维利译本；Barnes 的《存在与虚无》译本在技术术语上不核对 Richmond（2021）就使用。**获取说明（日本现实版）：** 上面的核心版本是*买下来拥有的*，这是有意的——图书馆借阅窗口（Open Library 约 14 天）短于本计划对每位作者的节奏。用 Open Library 作为二手书和地图级书籍的第一检查处（带 §3.1 中 *Hachette* 案之后的注意事项：五十万本受版权保护的书已被移除），茅ヶ崎市图书馆用于实体借阅和预约，出版社/Kindle 样章用于在购买前核查一个版本。完整的工具栈见 §3.1。
+> **避开 / 标记：** Jowett 的柏拉图译本（1871–92——维多利亚风格，辞藻浮华，重印本往往没有斯特方页码）；Allan Bloom 的《理想国》译本，除非作比较之用；Haldane & Ross 的笛卡尔译本（1911——对 *cogitatio*（思维）的翻译前后不一致、遮蔽了论证；剑桥版的存在就是为了取代它）；Selby-Bigge/Nidditch 的休谟《人类理解研究》本（已被 Beauchamp 的 Clarendon 版取代）；Kemp Smith（1929）或 Meiklejohn 的康德《纯粹理性批判》译本，以及任何未标注的 [Gutenberg](https://www.gutenberg.org/) 《批判》；廉价重印本中的 Thomas Common 尼采译本；**Parshley 的《第二性》译本（1953——删节了约 15% 且误译关键术语；用 Borde & Malovany-Chevallier 译本，2010/2011）**；作为*第一*读本的旧 Dominican Fathers 译本全本《神学大全》（它是一套参考书，不是一门课程的文本）；Ross 的亚里士多德译本作为第一读本（准确，但简洁且无辅助）；公共领域的 Marriott 马基雅维利译本；Barnes 的《存在与虚无》译本在技术术语上不核对 Richmond（2018）就使用。**获取说明（日本现实版）：** 上面的核心版本是*买下来拥有的*，这是有意的——图书馆借阅窗口（Open Library 约 14 天）短于本计划对每位作者的节奏。用 Open Library 作为二手书和地图级书籍的第一检查处（带 §3.1 中 *Hachette* 案之后的注意事项：五十万本受版权保护的书已被移除），茅ヶ崎市图书馆用于实体借阅和预约，出版社/Kindle 样章用于在购买前核查一个版本。完整的工具栈见 §3.1。
 
 还有一条属于此处的非版本警告：***《权力意志》(*The Will to Power*) 不是尼采的一本书。** 它是他身后由笔记编辑拼凑而成的，由他妹妹的圈子组装。即使读，也要当作笔记来读——绝不要把它引为他的深思熟虑的观点。
 
 ---
 
-## 阶段 0——工具与问题（3 周 · 案头 12 小时 · 总计约 17 小时）
+## 阶段 0（序曲）——工具与问题（3 周 · 案头 12 小时 · 总计约 17 小时）
 
 **目的：** 在遇到 2,500 年的论证之前，先学会论证*是*什么，并以微缩形式遇见全部五条线索，好让螺旋有钩子可挂。
 
@@ -176,10 +180,10 @@
 
 **听与看（全部在 12 个案头小时之内——本阶段的媒体*替代*定向阅读；它不增加课时）：**
 - **[BBC *A History of Ideas*](https://www.bbc.co.uk/programmes/b04bwydw)**（Radio 4，2014–15，完整）：挑选与上面的采样器相配的 3–4 个问题周（约 4–5 小时）作为**预习**。它以问题为先的结构——*什么使我们成为人？我能知道任何事吗？我们应当如何共同生活？*——正是本阶段的音频形态。如果 BBC 对旧系列的流媒体时断时续，有声书合集版是可靠的路线。
-- ***[CrashCourse Philosophy](http://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)*，只看子集**（YouTube，免费）：第 1–3 集加上两集“How to Argue”续作，第 1 周约 50 分钟。只有定向和词汇——过了第 1 周，它的处理比本计划自己的词条要浅。
+- ***[CrashCourse Philosophy](http://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)*，只看子集**（YouTube，免费）：第 1–3 集（“What is Philosophy?”和两集“How to Argue”），第 1 周约 30 分钟。只有定向和词汇——过了第 1 周，它的处理比本计划自己的词条要浅。
 - **Marianne Talbot, [*Philosophy for Beginners*](https://podcasts.ox.ac.uk/series/philosophy-beginners)**（Oxford Podcasts——**音频**，5 个长讲座，第 1–2 周约 6 小时）：现有最平缓的上手坡道。如果时间紧张，把 Talbot *或* *History of Ideas* 选集作为你的主要定向声音，不要两个都全长地听。
 - **Wi-Phi 导论视频**：Critical Thinking 系列和 Epistemology 的开头视频，先看（每个约 10 分钟）。
-- **[MIT OCW 24.00](https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/) *Problems of Philosophy* 讲义**——Arguments、Skepticism、Personal Identity——作为采样器的结构化阅读（每份约 30 分钟）。**这些是 PDF，不是视频**；本计划中 OCW 的哲学课程在所指之处发布的都是笔记和讲义，不是讲座。
+- **[MIT OCW 24.00](https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/) *Problems of Philosophy* 讲义**——Basics of Analytic Philosophy、The Problem of Evil、Locke on Personal Identity——作为采样器的结构化阅读（每份约 30 分钟）。**这些是 PDF，不是视频**；本计划中 OCW 的哲学课程在所指之处发布的都是笔记和讲义，不是讲座。
 
 **计价选项：** Duke 的 *Think Again I: How to Understand Arguments*（Coursera；Sinnott-Armstrong & Neta）是唯一一门直接训练本计划核心技能的 MOOC。它使阶段 0 延长约 2 周，其免费旁听状态未能确认——请按付费或试用做计划。只有当你想在一开始就做正式的论证操练时才选它。（Edinburgh 的 *Introduction to Philosophy* 被刻意*不予*指定：它的免费旁听实际上已被撤回。）
 
@@ -196,7 +200,7 @@
 
 ---
 
-## 阶段 1——古代基础（13 周 · 案头 60 小时 · 总计约 93 小时）
+## 5. 阶段 1——古代基础（13 周 · 案头 60 小时 · 总计约 93 小时）
 
 **重点线索：** 伦理（德性即知识 vs. 德性即习惯）和形而上学/知识（理念 vs. 亚里士多德论实体）；上帝与心灵线索悄然起步（灵魂、死亡）。**阶段末螺旋回归：** 把死亡问题回答两次——《斐多篇》对卢克莱修。
 
@@ -204,14 +208,14 @@
 
 | # | 人物 | 层级 | 原典文本与版本 |
 |---|---|---|---|
-| 1 | 前苏格拉底学派：[泰勒斯](eras/01-ancient/thales-of-miletus.md)、[毕达哥拉斯](eras/01-ancient/pythagoras.md)、[赫拉克利特](eras/01-ancient/heraclitus-of-ephesus.md)、[巴门尼德](eras/01-ancient/parmenides-of-elea.md)、[埃利亚的芝诺](eras/01-ancient/zeno-of-elea.md)、[恩培多克勒](eras/01-ancient/empedocles.md)、[德谟克利特](eras/01-ancient/democritus-of-abdera.md) | ● 作为一组 | 赫拉克利特、巴门尼德、德谟克利特的主题选篇（约 20 页），见 *Readings in Ancient Greek Philosophy*（Cohen/Curd/Reeve，Hackett——MIT 古代课程的教材）。**不要**从学术残篇版本（Kirk/Raven、Diels-Kranz）开始。 |
+| 1 | 前苏格拉底学派：[泰勒斯](eras/01-ancient/thales-of-miletus.md)、[毕达哥拉斯](eras/01-ancient/pythagoras.md)、[赫拉克利特](eras/01-ancient/heraclitus-of-ephesus.md)、[巴门尼德](eras/01-ancient/parmenides-of-elea.md)、[埃利亚的芝诺](eras/01-ancient/zeno-of-elea.md)、[恩培多克勒](eras/01-ancient/empedocles.md)、[德谟克利特](eras/01-ancient/democritus-of-abdera.md)、[色诺芬尼与阿那克萨戈拉](eras/01-ancient/presocratic-pluralists.md) | ● 作为一组 | 赫拉克利特、巴门尼德、德谟克利特的主题选篇（约 20 页），见 *Readings in Ancient Greek Philosophy*（Cohen/Curd/Reeve，Hackett——MIT 古代课程的教材）。**不要**从学术残篇版本（Kirk/Raven、Diels-Kranz）开始。色诺芬尼和阿那克萨戈拉是地图级：色诺芬尼开启上帝线索（对拟人化诸神的批判），阿那克萨戈拉则为《斐多篇》96a–99d 做铺垫，那一段你在第 3 行与柏拉图一起读。 |
 | 2 | [苏格拉底](eras/01-ancient/socrates.md) 与 [智者派](eras/01-ancient/protagoras-and-the-sophists.md) | ● 经由柏拉图 / ○ | 苏格拉底对我们而言是经由柏拉图存在的——就在那里读他。普罗塔哥拉与智者派：地图级（Adamson + 词条 + 一个检查点），因为柏拉图的《普罗塔哥拉篇》会在语境中介绍他们。 |
 | 3 | [柏拉图](eras/01-ancient/plato.md) | ● | 按这个顺序：《游叙弗伦篇》(*Euthyphro*) → 《申辩篇》(*Apology*) → 《克里同篇》(*Crito*) → 《美诺篇》(*Meno*) → 《斐多篇》(*Phaedo*，57a–95b 第一遍) → 《会饮篇》(*Symposium*，201d–212c) → 《理想国》(*Republic*) I–IV、VI–VII、X（选择性，MIT 模式——不是从头读到尾）。版本：*Five Dialogues*，Grube 译，Cooper 编，Hackett；《理想国》，Grube 译、Reeve 修订，Hackett。**不要用 Jowett。** 学习指南：[《理想国》](study/plato-republic.md)。可用的专题研读：[柏拉图档案](focus-studies/plato/README.md)——把这一板块深化为完整的《斐多篇》和《理想国》，外加《高尔吉亚篇》和《泰阿泰德篇》扩展（6 周，总计约 41 小时，在本阶段之上）。 |
-| 4 | [亚里士多德](eras/01-ancient/aristotle.md) | ● | 《尼各马可伦理学》(*Nicomachean Ethics*) I–II、III 选、VII 选、VIII + X 选 → 《政治学》(*Politics*) I → 《形而上学》(*Metaphysics*) VII、XII 选 → 《论灵魂》(*De Anima*) II–III 选 → 《范畴篇》(*Categories*) 1–5 作为总结性一遍。版本：《尼各马可伦理学》用 Irwin 译本（Hackett，注释丰富）或 Reeve 译本（Hackett）；形而上学节选经由 Hackett 的 *Readings*。不要把 Ross 作为第一读本；不要从《物理学》或全本《形而上学》开始。学习指南：[《尼各马可伦理学》](study/aristotle-nicomachean-ethics.md)。 |
-| 5 | [伊壁鸠鲁](eras/01-ancient/epicurus.md) | ● | 《致梅涅库斯的信》(*Letter to Menoeceus*) + 《基本要道》(*Principal Doctrines*)（在 Hackett 的 *Readings* 里，或 OWC 的 *The Art of Happiness*）；卢克莱修《物性论》(*On the Nature of Things*) I–II 选 + III（死亡论证），Latham 译，Penguin。 |
+| 4 | [亚里士多德](eras/01-ancient/aristotle.md) | ● | 《尼各马可伦理学》(*Nicomachean Ethics*) I–II、III 选、VII 选、VIII + X 选 → 《政治学》(*Politics*) I → 《形而上学》(*Metaphysics*) VII、XII 选 → 《论灵魂》(*De Anima*) II–III 选 → 《范畴篇》(*Categories*) 1–5 作为总结性一遍。版本：《尼各马可伦理学》用 Irwin 译本（Hackett，注释丰富）或 Reeve 译本（Hackett）；形而上学节选经由 Hackett 的 *Readings*。不要把 Ross 作为第一读本；不要从《物理学》或全本《形而上学》开始。学习指南：[《尼各马可伦理学》](study/aristotle-nicomachean-ethics.md)。可用的专题研读：[亚里士多德档案](focus-studies/aristotle/README.md)——九周走完整个体系（约 55 小时），增加《物理学》、一周生物学，以及《修辞学》和《诗学》。 |
+| 5 | [伊壁鸠鲁](eras/01-ancient/epicurus.md) | ● | 《致梅涅库斯的信》(*Letter to Menoeceus*) + 《基本要道》(*Principal Doctrines*)（在 Hackett 的 *Readings* 里，或 Penguin Classics 的 *The Art of Happiness*（Strodach 译））；卢克莱修《物性论》(*On the Nature of Things*) I–II 选 + III（死亡论证），Latham 译，Penguin。 |
 | 6 | 斯多葛派：[基提翁的芝诺与早期斯多葛派](eras/01-ancient/zeno-of-citium-and-the-stoics.md)、[罗马斯多葛派](eras/01-ancient/roman-stoics.md)（塞涅卡、爱比克泰德、马可·奥勒留） | ●（爱比克泰德）/ ○（早期斯多葛派） | 爱比克泰德《手册》(*Enchiridion*) 全本 → 《讲论集》(*Discourses*) 选（Hard 译，OWC）。马可·奥勒留《沉思录》(*Meditations*) 选（Hays 译，Modern Library——好读但松散；Hammond 译，Penguin，更贴近原文）。塞涅卡《信札》(*Letters*) 选。早期斯多葛派是地图级：他们的作品几乎没有整篇存世的，而这本身就是一课。 |
 | 7 | [第欧根尼与犬儒派](eras/01-ancient/diogenes-of-sinope-and-the-cynics.md)、[皮浪与怀疑派](eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md) | ○ | 地图级。皮浪的重要性与其篇幅不成比例——怀疑主义正是蒙田和笛卡尔接起来的那条线索——但这里的阅读是塞克斯都斯经由 Adamson/SEP + 词条，不是一个原典板块。 |
-| 8 | [普罗提诺](eras/01-ancient/plotinus.md) | ○ | 本阶段只作总结（Adamson + Kenny + 词条）。他是通往奥古斯丁的桥梁；《九章集》(*Enneads*) 节选一遍属于 18 个月版本（§10）。 |
+| 8 | [普罗提诺](eras/01-ancient/plotinus.md)、[波菲利、扬布里科斯、普罗克洛斯与希帕提娅](eras/01-ancient/late-neoplatonists.md) | ○ | 本阶段只作总结（Adamson + Kenny + 词条）。他是通往奥古斯丁的桥梁；《九章集》(*Enneads*) 节选一遍属于 18 个月版本（§10）。晚期新柏拉图主义者也是地图级，但要在阶段 2 的波爱修斯之前读波菲利关于属与种的三个问题（《导论》(*Isagoge*) 开篇）：共相问题就从那里开始。 |
 
 **二手支持与时机：** Kenny 第 1 卷，同时。Blackburn 的《柏拉图〈理想国〉》注释 **在第七卷之后**读，不是在之前。
 
@@ -236,7 +240,7 @@
 
 ---
 
-## 阶段 2——中世纪与文艺复兴桥梁（8 周 · 案头 36 小时 · 总计约 62 小时 · 压缩版）
+## 6. 阶段 2——中世纪与文艺复兴桥梁（8 周 · 案头 36 小时 · 总计约 62 小时 · 压缩版）
 
 **不要跳过这个阶段，也不要扩大它。** 跳过它，笛卡尔的上帝证明、每本早期近代文本中的经院词汇、以及洛克/康德论实体都会变得不可理解。扩大它，到第十个月你还会在 14 世纪里。八周，牢牢守住。
 
@@ -246,21 +250,21 @@
 
 | # | 人物 | 层级 | 原典文本与版本 |
 |---|---|---|---|
-| 1 | [奥古斯丁](eras/02-medieval/augustine-of-hippo.md) | ● | 《忏悔录》(*Confessions*) I–VIII、XI（时间）。版本：Boulding 译（New City Press）或 Sheed 译（Hackett，带 Foley 注释）。不要从《上帝之城》开始（只选 Book XIX，且更晚再读）。若本阶段进展顺利，可选《论自由抉择》(*On Free Choice of the Will*) 节选。学习指南：[《忏悔录》](study/augustine-confessions.md)。 |
-| 2 | [波爱修斯](eras/02-medieval/boethius.md) | ◐ | 《哲学的慰藉》(*Consolation of Philosophy*) I–III 卷选篇——预知问题，以及他交给整个时代的共相问题。 |
+| 1 | [奥古斯丁](eras/02-medieval/augustine-of-hippo.md) | ● | 《忏悔录》(*Confessions*) I–VIII、XI（时间）。版本：Boulding 译（New City Press）或 Sheed 译（Hackett，带 Foley 注释）。不要从《上帝之城》开始（只选 Book XIX，且更晚再读）。若本阶段进展顺利，可选《论自由抉择》(*On Free Choice of the Will*) 节选。学习指南：[《忏悔录》](study/augustine-confessions.md)。可用的专题研读：[奥古斯丁档案](focus-studies/augustine-of-hippo/README.md)——七周内读完《忏悔录》至第十一卷、自由意志与恩典，以及两周的《上帝之城》（约 42 小时）。 |
+| 2 | [波爱修斯](eras/02-medieval/boethius.md) | ◐ | 《哲学的慰藉》(*Consolation of Philosophy*) I–III 卷选篇 + 第 V 卷（预知问题）；他交给整个时代的共相问题出自他对《导论》(*Isagoge*) 的第二部注疏（见词条）。 |
 | 3 | [安瑟尔谟](eras/02-medieval/anselm-of-canterbury.md) | ● | 《宣讲》(*Proslogion*) 第 2–4 章，**连同高尼罗的回应与安瑟尔谟的答复**——绝不要只读第 2 章；一本只印论证而不印高尼罗的选集教给你的是一个漫画。版本：OWC 的 *Anselm of Canterbury: The Major Works*，或 Williams 译本，Hackett。 |
-| 4 | 伊斯兰与犹太桥梁：[伊本·西那](eras/02-medieval/avicenna.md)、[伊本·鲁世德](eras/02-medieval/averroes.md)、[迈蒙尼德](eras/02-medieval/maimonides.md) | ○ | **在这个压缩阶段中按设计为地图级**——Adamson（他的伊斯兰世界序列）+ Kenny + 词条 + 每人一个检查点。这是一个真实的损失，本计划直说：他们是重要的哲学家，18 个月版本（§10）才是放一篇《决定性论著》(*Decisive Treatise*) / 《迷途指津》(*Guide*) 节选的地方。你绝不能做的，是完全跳过他们，然后在不知道阿奎那在和谁争论的情况下遇见他。 |
+| 4 | 伊斯兰与犹太桥梁：[伊本·西那](eras/02-medieval/avicenna.md)、[安萨里](eras/02-medieval/al-ghazali.md)、[伊本·鲁世德](eras/02-medieval/averroes.md)、[迈蒙尼德](eras/02-medieval/maimonides.md) | ○ | **在这个压缩阶段中按设计为地图级**——Adamson（他的伊斯兰世界序列）+ Kenny + 词条 + 每人一个检查点。这是一个真实的损失，本计划直说：他们是重要的哲学家，18 个月版本（§10）才是放一篇《决定性论著》(*Decisive Treatise*) / 《迷途指津》(*Guide*) 节选的地方。你绝不能做的，是完全跳过他们，然后在不知道阿奎那在和谁争论的情况下遇见他。在伊本·西那与伊本·鲁世德之间读安萨里：他的《哲学家的矛盾》(*Incoherence*) 正是伊本·鲁世德的《矛盾的矛盾》(*Incoherence of the Incoherence*) 所回应的攻击，而他的棉花与火的论证会在阶段 3 随马勒伯朗士和休谟回归。 |
 | 5 | [阿奎那](eras/02-medieval/thomas-aquinas.md) | ● | 《神学大全》(*Summa Theologiae*) Ia Q2（五路证明）、Q3–11 选（单纯性、完满性），Ia-IIae Q90–97 选（自然法）；《论存在与本质》(*On Being and Essence*) 选。版本：Davies & Leftow, *Questions on God*，Cambridge Texts；McDermott 的 *Concise Translation* 用于定向。**不要**用旧 Dominican 译本读全本《大全》。学习指南：[《大全》选篇](study/aquinas-summa.md)。 |
-| 6 | [阿伯拉尔](eras/02-medieval/peter-abelard.md)、[爱留根纳](eras/02-medieval/john-scotus-eriugena.md)、[希尔德加德](eras/02-medieval/hildegard-of-bingen.md)、[邓斯·司各脱](eras/02-medieval/john-duns-scotus.md)、[库萨的尼古拉](eras/02-medieval/nicholas-of-cusa.md) | ○ | 地图级。司各脱和库萨是最有可能在日后以节选回报的两人；在本阶段内他们是地图 + 检查点。 |
+| 6 | [阿伯拉尔](eras/02-medieval/peter-abelard.md)、[爱留根纳](eras/02-medieval/john-scotus-eriugena.md)、[希尔德加德](eras/02-medieval/hildegard-of-bingen.md)、[伪狄奥尼修斯与埃克哈特](eras/02-medieval/pseudo-dionysius-and-eckhart.md)、[克里斯蒂娜·德·皮桑](eras/02-medieval/christine-de-pizan.md)、[邓斯·司各脱](eras/02-medieval/john-duns-scotus.md)、[库萨的尼古拉](eras/02-medieval/nicholas-of-cusa.md) | ○ | 地图级。司各脱和库萨是最有可能在日后以节选回报的两人；在本阶段内他们是地图 + 检查点。伪狄奥尼修斯短小的《神秘神学》(*Mystical Theology*) 是上帝线索的否定神学来源，位于爱留根纳和库萨背后；克里斯蒂娜的《妇女城》(*City of Ladies*) 第一卷是这里最好的单篇节选，如果本阶段有一个缓冲周的话。 |
 | 7 | [奥卡姆](eras/02-medieval/william-of-ockham.md) | ○（总结） | 地图级加一次真正的总结通过：唯名论和剃刀经由 Kenny/SEP + 词条。他的逻辑与阶段 5 相关；他的文本不是初学者文本。 |
 | 8 | [马基雅维利](eras/03-early-modern/niccolo-machiavelli.md) | ● | 《君主论》(*The Prince*) 全本（它很短）→ 《论李维》(*Discourses*) I 选。版本：Mansfield 译（Chicago）或 Skinner/Price 译（Cambridge Texts）。不要用公共领域的 Marriott 译本。 |
-| 9 | [蒙田](eras/03-early-modern/michel-de-montaigne.md) | ◐ | 选篇：“论食人者”(“Of Cannibals”)、“论经验”(“Of Experience”)、以及若时间允许，节选《为雷蒙·塞邦德辩护》(*Apology for Raymond Sebond*)。他是皮浪的后裔、笛卡尔的刺激源——是整个阶段的铰链。 |
+| 9 | [蒙田](eras/03-early-modern/michel-de-montaigne.md)，以及地图级的[费奇诺、皮科、伊拉斯谟与布鲁诺](eras/03-early-modern/renaissance-humanists.md) | ◐ | 选篇：“论食人者”(“Of Cannibals”)、“论经验”(“Of Experience”)、以及若时间允许，节选《为雷蒙·塞邦德辩护》(*Apology for Raymond Sebond*)。他是皮浪的后裔、笛卡尔的刺激源——是整个阶段的铰链。先读文艺复兴人文主义者的词条：皮科的《论人的尊严》(*Oration*)（几页）和伊拉斯谟的《愚人颂》(*Praise of Folly*) 选篇，就是蒙田写作所处的世界。 |
 | 10 | [培根](eras/03-early-modern/francis-bacon.md) | ◐ | 《新工具》(*Novum Organum*) 格言选（偶像说）。科学线索在这里开启；休谟的归纳问题是它在阶段 3 到期的账单。 |
 
 **二手支持与时机：** Kenny 第 2 卷，同时。**Feser, *Aquinas: A Beginner's Guide*《阿奎那》，专门与阿奎那板块同时读**——教学大纲把它与 ST Q2 配对是有道理的：经院条文体裁（异议 → *sed contra*（反之）→ *respondeo*（我回答说）→ 答复）是一种需要有人教你看的体裁，看懂之后，《大全》就不再像一堵墙了。
 
 **听与看：**
-- **音频主线——Adamson 精选至约 +18 小时**，取自伊斯兰世界（第 120–195 集）和拉丁中世纪（196–300）范围外加文艺复兴尾声：桥梁人物自己的板块（伊本·西那 138–142；安萨里（al-Ghazālī）143–145 选听；伊本·鲁世德 149–152；迈蒙尼德 160–163），按学习顺序选出的拉丁中世纪选集（奥古斯丁、波爱修斯、安瑟尔谟、阿奎那 243–248、司各脱、奥卡姆 271–275），以及马基雅维利（349–351）、库萨（374）、蒙田（412）。本阶段的收听是全计划最密集的（每周约 2.25 小时）——让它溢进本阶段的缓冲周，而不是挤占阿奎那的案头时间。
+- **音频主线——Adamson 精选至约 +18 小时**，取自伊斯兰世界（第 120–195 集）和拉丁中世纪（196–300）范围外加文艺复兴尾声：桥梁人物自己的板块（伊本·西那 138–142；安萨里（al-Ghazālī）143–145 选听；伊本·鲁世德 149–152；迈蒙尼德 160–163），奥古斯丁自己的板块（第 110–116 集，编号在晚期古代一段，但在这里、在他所在的那一行收听），按学习顺序选出的拉丁中世纪选集（波爱修斯、安瑟尔谟、阿奎那 243–248、司各脱、奥卡姆 271–275），以及马基雅维利（349–351）、库萨（374）、蒙田（412）。本阶段的收听是全计划最密集的（每周约 2.25 小时）——让它溢进本阶段的缓冲周，而不是挤占阿奎那的案头时间。
 - **计价选项，在此说明，以便你能在信息充分的情况下拒绝它们：** 完整的拉丁中世纪核心（第 196–300 集）约 35 小时；一直跑到文艺复兴（至第 461 集）约 114 小时，**在本计划设想的任何预算下都不推荐**。
 - **视频：诚实地说，没有可指定的。** 没有经核实的免费视频课程整体覆盖中世纪哲学；一份暗示并非如此的计划是在编造。用补丁凑合：在阿奎那各周看 Wi-Phi 的古典有神论 / 宇宙论论证系列（约 40 分钟，在案头小时之内，先看），以及在阶段末尾看 PLSC 114 讲座 10–11（马基雅维利），看在之后。这是本仓库自己的指南（《忏悔录》、《大全》选篇）挑大梁的阶段——它们正是为此而建的。
 
@@ -277,7 +281,7 @@
 
 ---
 
-## 阶段 3——早期近代至康德（16 周 · 案头 72 小时 · 总计约 111 小时 · 承重阶段）
+## 7. 阶段 3——早期近代至康德（16 周 · 案头 72 小时 · 总计约 111 小时 · 承重阶段）
 
 最长的阶段，这是故意的。**不要压缩阶段 3**（§10 的精简先砍其他所有地方）。每一个后续阶段都在花这里挣下的资本：尼采预设你的康德，分析哲学预设你的休谟，政治哲学预设你的契约论者。
 
@@ -287,27 +291,27 @@
 
 | # | 人物 | 层级 | 原典文本与版本 |
 |---|---|---|---|
-| 1 | [笛卡尔](eras/03-early-modern/rene-descartes.md) | ● | 《方法谈》(*Discourse on Method*) I–IV 部分（可选热身）→ 《第一哲学沉思集》(*Meditations*) 1、2、3、5、6 **按顺序**，外加伊丽莎白公主的异议选篇——来自他自己通信内部、对二元论最尖锐的同时代反击。版本：Cress 译（Hackett）或 Cottingham 译（Cambridge，带《异议与答辩》）。**不要用 Haldane & Ross。** 学习指南：[《沉思集》](study/descartes-meditations.md)。 |
+| 1 | [笛卡尔](eras/03-early-modern/rene-descartes.md) | ● | 《方法谈》(*Discourse on Method*) I–IV 部分（可选热身）→ 《第一哲学沉思集》(*Meditations*) 1、2、3、5、6 **按顺序**，外加伊丽莎白公主的异议选篇——来自他自己通信内部、对二元论最尖锐的同时代反击。版本：Cress 译（Hackett）或 Cottingham 译（Cambridge，带《异议与答辩》）。**不要用 Haldane & Ross。** 学习指南：[《沉思集》](study/descartes-meditations.md)。可用的专题研读：[笛卡尔档案](focus-studies/rene-descartes/README.md)——七周内读完全部六篇《沉思集》连同《异议与答辩》、一周的伊丽莎白书信，以及《哲学原理》（约 45 小时）。 |
 | 2 | [帕斯卡](eras/03-early-modern/blaise-pascal.md) | ◐ | 《思想录》(*Pensées*) 选篇（赌注、消遣）。地图级加节选：他是这个时代对其唯理论的伟大异议者，一个阶段装不下完整的他。 |
-| 3 | [斯宾诺莎](eras/03-early-modern/baruch-spinoza.md) | ● | 《伦理学》(*Ethics*) 第一部分全读（带指导）→ 第二部分选 → 第四–五部分选；《神学政治论》(*Theological-Political Treatise*) 作总结通过。版本：Curley 译（Penguin）或 Shirley 译（Hackett）。**不要无指导地读《伦理学》**——几何学秩序按设计就对初学者不友好；把每组命题都与 B 课中的 Kenny/SEP 配对。学习指南：[《伦理学》第一部分](study/spinoza-ethics-part1.md)。可用的专题研读：[斯宾诺莎档案](focus-studies/baruch-spinoza/README.md)——把这一板块深化为整部《伦理学》+ 全本 TTP（7 周，总计约 47 小时）。 |
+| 3 | [斯宾诺莎](eras/03-early-modern/baruch-spinoza.md) | ● | 《伦理学》(*Ethics*) 第一部分全读（带指导）→ 第二部分选 → 第四–五部分选；《神学政治论》(*Theological-Political Treatise*) 作总结通过。版本：Curley 译（Penguin）或 Shirley 译（Hackett）。**不要无指导地读《伦理学》**——几何学秩序按设计就对初学者不友好；把每组命题都与 B 课中的 Kenny/SEP 配对。学习指南：[《伦理学》第一部分](study/spinoza-ethics-part1.md)。可用的专题研读：[斯宾诺莎档案](focus-studies/baruch-spinoza/README.md)——把这一板块深化为整部《伦理学》+ 全本 TTP（7 周，总计约 47 小时）。地图级伴读：[马勒伯朗士](eras/03-early-modern/nicolas-malebranche.md)（词条 + SEP），对心身交互的另一个伟大的笛卡尔主义回答，也是贝克莱和休谟的直接背景。 |
 | 4 | [莱布尼茨](eras/03-early-modern/gottfried-wilhelm-leibniz.md) | ● | 《单子论》(*Monadology*) 全本（很短）→ 《形而上学序论》(*Discourse on Metaphysics*) 选 → 莱布尼茨–克拉克通信选。版本：Ariew & Garber, *Philosophical Essays*（Hackett）——标准课程文本。 |
 | 5 | [维柯](eras/03-early-modern/giambattista-vico.md) | ○ | 此处按设计为地图级：*verum factum*（真理即所造）与《新科学》(*New Science*) 的三个时代，经由词条 + Kenny/Adamson。他是你通往阶段 4 的桥梁票——历史哲学从他开始，不是从黑格尔开始。用一个缓冲周做一次节选通过是很好的用法。 |
-| 6 | [霍布斯](eras/03-early-modern/thomas-hobbes.md) | ◐ | 《利维坦》(*Leviathan*) 第 13–17 章（自然状态、自然法、主权者）节选 + 其余部分地图级。契约传统的出发点——在洛克之前读，好让与他的自然状态的对比落到位。学习指南：[《利维坦》第 13–17 章+](study/hobbes-leviathan.md)。 |
+| 6 | [霍布斯](eras/03-early-modern/thomas-hobbes.md)，以及地图级的[苏亚雷斯与格劳秀斯](eras/03-early-modern/suarez-and-grotius.md) | ◐ | 《利维坦》(*Leviathan*) 第 13–17 章（自然状态、自然法、主权者）节选 + 其余部分地图级。契约传统的出发点——在洛克之前读，好让与他的自然状态的对比落到位。学习指南：[《利维坦》第 13–17 章+](study/hobbes-leviathan.md)。苏亚雷斯和格劳秀斯（词条 + SEP）是霍布斯所反对的自然法背景：格劳秀斯《战争与和平法》(*On the Law of War and Peace*) 的绪论很短，值得节选一读。 |
 | 7 | [洛克](eras/03-early-modern/john-locke.md) | ● | 《人类理解论》(*Essay Concerning Human Understanding*) 第二卷（经验、观念、第一性质/第二性质）、II.xxi、II.xxvii（个人同一性）→ 《政府论次篇》(*Second Treatise*) 第 2、5、7–9 章。版本：《理解论》用 Nidditch 本（Oxford Clarendon）——或如果 Nidditch 让你卡住，用 Winkler 的 Hackett 节选本；《政府论次篇》用 Laslett 本（Cambridge Texts）。《理解论》第一卷只作总结通过；没有人在导论课上从头到尾读《理解论》，你也不读。 |
-| 8 | [贝克莱](eras/03-early-modern/george-berkeley.md) | ● | 《人类知识原理》(*Principles*) §§1–33、85–100 选 → 《海拉斯与斐洛诺斯对话三篇》(*Three Dialogues*) 全本。（课程常常把《对话》放在后面读，因为它们更清晰；独自学习时，先读它们也可以。）版本：Clarke 本（Cambridge）/ OWC；Turbayne 本（Hackett）用于《原理》。 |
+| 8 | [贝克莱](eras/03-early-modern/george-berkeley.md) | ● | 《人类知识原理》(*Principles*) §§1–33、85–100 选 → 《海拉斯与斐洛诺斯对话三篇》(*Three Dialogues*) 全本。（课程常常把《对话》放在后面读，因为它们更清晰；独自学习时，先读它们也可以。）版本：Clarke 本（Cambridge）/ OWC；Winkler 本（Hackett）用于《原理》。 |
 | 9 | [孟德斯鸠](eras/03-early-modern/montesquieu.md) | ◐ | 《论法的精神》(*The Spirit of the Laws*) 第 XI 卷（三权分立）节选 + 其余部分地图级。他在政治线索中属于洛克与卢梭之间，节选 XI 卷正是课程使用他的方式。 |
-| 10 | [休谟](eras/03-early-modern/david-hume.md) | ● | 按这个顺序：（1）《人类理解研究》(*Enquiry Concerning Human Understanding*) **全本**——§§1–3、4–5（归纳）、7（因果）、10（神迹）、12（怀疑主义）是核心；（2）《自然宗教对话》(*Dialogues Concerning Natural Religion*) 选/全本；（3）《道德原则研究》(*Enquiry Concerning the Principles of Morals*) 选；（4）《人性论》(*Treatise*) I.iv 选篇，**只在**《研究》之后。版本：《研究》，Hackett（Steinberg）或 Beauchamp（Oxford）——不要用 Selby-Bigge/Nidditch；《对话》，Coleman 本（Cambridge Texts）。从《人性论》开始是经典错误：休谟本人用《研究》系列取代了它。学习指南：[《人类理解研究》](study/hume-enquiry.md)。 |
+| 10 | [休谟](eras/03-early-modern/david-hume.md) | ● | 按这个顺序：（1）《人类理解研究》(*Enquiry Concerning Human Understanding*) **全本**——§§1–3、4–5（归纳）、7（因果）、10（神迹）、12（怀疑主义）是核心；（2）《自然宗教对话》(*Dialogues Concerning Natural Religion*) 选/全本；（3）《道德原则研究》(*Enquiry Concerning the Principles of Morals*) 选；（4）《人性论》(*Treatise*) I.iv 选篇，**只在**《研究》之后。版本：《研究》，Hackett（Steinberg）或 Beauchamp（Oxford）——不要用 Selby-Bigge/Nidditch；《对话》，Coleman 本（Cambridge Texts）。从《人性论》开始是经典错误：休谟本人用《研究》系列取代了它。学习指南：[《人类理解研究》](study/hume-enquiry.md)。可用的专题研读：[休谟档案](focus-studies/david-hume/README.md)——保留本路径的顺序，八周内读《人性论》论自我、《对话》全本以及道德哲学（约 47 小时）。 |
 | 11 | [卢梭](eras/03-early-modern/jean-jacques-rousseau.md) | ● | 《论人类不平等的起源》(*Discourse on Inequality*) 第二部分 → 《社会契约论》(*Social Contract*) I–II。版本：Cress 译（Hackett，合订本）或 Gourevitch 译（Cambridge Texts）。 |
-| 12 | [亚当·斯密](eras/03-early-modern/adam-smith.md)、[杜·夏特莱](eras/03-early-modern/emilie-du-chatelet.md)、[沃斯通克拉夫特](eras/03-early-modern/mary-wollstonecraft.md) | ○ | 地图级。斯密的道德哲学（同情、公正的旁观者）是政治/伦理线索安静的第四个声音——词条 + Adamson + 检查点；一篇《道德情操论》(*Theory of Moral Sentiments*) 节选是本阶段最值得的缓冲周花费。 |
+| 12 | [沙夫茨伯里、哈奇森与巴特勒](eras/03-early-modern/moral-sense-school.md)、[亚当·斯密](eras/03-early-modern/adam-smith.md)、[哈曼与赫尔德](eras/03-early-modern/hamann-and-herder.md)、[培尔与伏尔泰](eras/03-early-modern/bayle-and-voltaire.md)、[杜·夏特莱](eras/03-early-modern/emilie-du-chatelet.md)、[沃斯通克拉夫特](eras/03-early-modern/mary-wollstonecraft.md) | ○ | 地图级。道德感学派是伦理线索在霍布斯与休谟之间的环节：如果可以，在休谟的道德哲学之前读它的词条，巴特勒的《布道集》(*Sermons*) I–III 和 XI 是很好的缓冲周节选。哈曼和赫尔德是从内部批评康德与启蒙的第一批人，为阶段 4 的黑格尔和施莱尔马赫做铺垫。斯密的道德哲学（同情、公正的旁观者）是政治/伦理线索安静的第四个声音——词条 + Adamson + 检查点；一篇《道德情操论》(*Theory of Moral Sentiments*) 节选是本阶段最值得的缓冲周花费。培尔和伏尔泰属于莱布尼茨与休谟之间：《老实人》(*Candide*) 是本计划中最好笑的读物，也是对莱布尼茨乐观主义最尖锐的回答。 |
 | 13 | [康德](eras/03-early-modern/immanuel-kant.md) | ● | **顺序就是全部要义：** （1）《什么是启蒙？》（几页）；（2）《道德形而上学奠基》(*Groundwork*) §§1–2，然后 §3，**全本**；（3）《未来形而上学导论》(*Prolegomena*) 序言 + 选篇；（4）《纯粹理性批判》(*Critique of Pure Reason*) **只读选篇**：序言、导论、先验感性论、《分析论》的核心概念，谬误推理/二律背反作总结处理；（5）《实践理性批判》(*Critique of Practical Reason*) 选，在之后的一遍中，可选。版本：《奠基》，Gregor 译、Timmermann 修订、Korsgaard 导论（Cambridge Texts）或 Wood 译（Yale）——MIT 的 Ellington 译（Hackett）较旧但可用；《批判》，Guyer & Wood 译（Cambridge）。**不要用 Kemp Smith，不要用 Meiklejohn，不要用 Gutenberg。** 学习指南：[《奠基》](study/kant-groundwork.md)。 | 可用的专题研读：[康德档案](focus-studies/immanuel-kant/README.md)——把这一板块深化为一个 8 周的完整体系通过（《奠基》与《导论》全本、《批判》选篇带指导的第二遍、KpV 与《永久和平论》；总计约 47 小时）。
 
 
 **二手支持与时机：** Kenny 第 3 卷，同时。IEP **在之前**用于斯宾诺莎和康德（这两个地方初学者最需要先有一张白话地图）；SEP 按 §3 在之前读 §1、之后读全条。Scruton 的 *Kant: A Very Short Introduction*《康德》与康德板块同时读，若《导论》卡住，可选读 Guyer 论康德的选篇。Russell 的《西方哲学史》现在可以在原典文本**之后**读，从笛卡尔到休谟，把他当作一个对手——这是 §3 的“Russell 在后”规则激活的第一个阶段。
 
 **听与看——音频主线在这里以接力方式运行：**
-- **Adamson，第 462–502 集（约 +14 小时）：** 早期近代的开场，笛卡尔板块（466–475+）一直到贝尔。然后是诚实的边界：**该系列尚未讲到洛克、休谟或康德**（截至 2026 年末，它停留在 17 世纪中叶，以每年约 25 集的速度穿过密集的世纪）。不要等它。
+- **Adamson，第 462–502 集（约 +14 小时）：** 早期近代的开场，笛卡尔板块（466–475+）一直到贝尔（498–501）和荷兰共和国（502）。然后是诚实的边界：**该系列尚未讲到洛克、休谟或康德**（截至 2026 年末，它停留在 17 世纪中叶，以每年约 25 集的速度穿过密集的世纪）。不要等它。
 - ***Philosophize This!* 接手**，从洛克/贝克莱/休谟到康德（本阶段弧线约 +9 小时），§3 的严谨性注意事项生效：围绕你的重构做预习/复习，绝不要把它当作你重构所*依据*的讲述。（或者用 Kenny 第 3 卷有声书替代这一段——§3——如果你想要学术的声音；不要两个都用。）
-- **讲座音频——Peter Millican, [*General Philosophy*](https://podcasts.ox.ac.uk/series/general-philosophy)**（Oxford Podcasts——**音频，不是视频**）：完整的牛津一年级课程，其早期近代讲座与本阶段的笛卡尔 → 洛克/贝克莱 → 休谟 → 康德序列几乎完全对应。一个子集（约 10 小时）在本阶段**之内**以每周约 1 小时的速度运行，听在之后（Millican 预设你已读过文本）。全跑（约 20–25 小时）是 **+约 2 周的扩展**。
+- **讲座音频——Peter Millican, [*General Philosophy*](https://podcasts.ox.ac.uk/series/general-philosophy)**（Oxford Podcasts——音频和视频都有；有音频就够了，因为幻灯片以 PDF 形式发布）：完整的牛津一年级课程，其早期近代讲座与本阶段的笛卡尔 → 洛克/贝克莱 → 休谟 → 康德序列几乎完全对应。整门课程约 7 小时（8 讲，共 32 个部分，每部分 5–19 分钟）；与本阶段对应的部分在本阶段**之内**以每周约 ½ 小时的速度运行，听在之后（Millican 预设你已读过文本）。其余部分（一般意义上的知识、自由意志、个人同一性）是一个**短扩展**。
 - **阅读伴读——[MIT OCW 24.01](https://ocw.mit.edu/courses/24-01-classics-of-western-philosophy-spring-2016/) 讲座笔记**，用于笛卡尔、休谟和康德各周（与 §4 点名的同一批 Hackett 版本配套），代替其他 B 课二手阅读。**是笔记，不是视频。**
 - **额外音频：** Sadler 的 *Lectures* 播客集——《沉思集》（21 集）、休谟《研究》（25 集）、康德《奠基》（16 集）。每位人物**至多挑一套**，作为步行时间的再巩固。
 - **先看：** Wi-Phi 的 Epistemology 系列在笛卡尔周之前。**可选：** PLSC 114 讲座 12–17（霍布斯、洛克）用于政治学各周。
@@ -325,7 +329,7 @@
 
 ---
 
-## 阶段 4——十九世纪：体系、反抗、社会（11 周 · 案头 48 小时 · 总计约 80 小时）
+## 8. 阶段 4——十九世纪：体系、反抗、社会（11 周 · 案头 48 小时 · 总计约 80 小时）
 
 **重点线索：** 伦理与政治融合（自由、历史、效用与义务带着真实的对手重演），上帝作为*批判*（宗教被解释，而不只是被论证）。**螺旋回归：** 康德的伦理学，现在面对穆勒和尼采；契约传统，现在面对马克思和托克维尔。
 
@@ -340,25 +344,25 @@
 | 5 | [边沁](eras/04-19th-century/jeremy-bentham.md) | ○ | 地图级：效用原则的原始、未加软化的形态，经由词条 + Kenny。你需要他作为穆勒的陪衬，而不是作为一个原典板块。 |
 | 6 | [穆勒](eras/04-19th-century/john-stuart-mill.md) 与 [哈莉特·泰勒·穆勒](eras/04-19th-century/harriet-taylor-mill.md) | ● | （1）《功利主义》(*Utilitarianism*) 第 2、4 章，然后全本；（2）《论自由》(*On Liberty*) 第 1–3 章；（3）《女性的屈从》(*The Subjection of Women*) 第 1–2 章，连同哈莉特·泰勒·穆勒的《妇女的选举权》(“Enfranchisement of Women”) 一起读——她的词条是地图级 ○，但这篇配对阅读不是可选的点缀，它是这些文本实际被生产出来的方式。版本：《功利主义》Sher 译（Hackett）；《论自由》Collini 译（Cambridge Texts）或 Gray 的 OWC 合订本。穆勒是清晰原典文本的典范——这里公共领域文本真的可以，版本规则在此放松的唯一一位作者。学习指南：[《论自由》与《功利主义》](study/mill-liberty-utilitarianism.md)。 |
 | 7 | [西季威克](eras/04-19th-century/henry-sidgwick.md) | ○ | 地图级：《伦理学方法》(*The Methods of Ethics*) 与实践理性的二元论，经由词条 + Kenny/SEP 总结。他是功利主义传统自身的内部批评者、帕菲特公认的先驱——现在一个好的检查点会在阶段 5 得到回报。 |
-| 8 | [马克思](eras/04-19th-century/karl-marx.md) | ● | 按这个顺序：“异化劳动”（《1844 年经济学哲学手稿》(*1844 Manuscripts*)）→ 《德意志意识形态》(*The German Ideology*) I 选 → 《共产党宣言》(*Communist Manifesto*) 全本 → 《资本论》(*Capital*) I 第 1 章（商品拜物教）。版本：Tucker, *The Marx-Engels Reader*（Norton）——课程标准；《宣言》用 Penguin 本（McLellan 导论）也好。**本阶段不要读《资本论》I 全本。**（Moore/Aveling 译本可用；Fowkes 的 Penguin 译本读起来更流畅。） |
+| 8 | [马克思](eras/04-19th-century/karl-marx.md) | ● | 按这个顺序：“异化劳动”（《1844 年经济学哲学手稿》(*1844 Manuscripts*)）→ 《德意志意识形态》(*The German Ideology*) I 选 → 《共产党宣言》(*Communist Manifesto*) 全本 → 《资本论》(*Capital*) I 第 1 章（商品拜物教）。版本：Tucker, *The Marx-Engels Reader*（Norton）——课程标准；《宣言》用 Penguin Classics 本（Stedman Jones 导论）也好。**本阶段不要读《资本论》I 全本。**（Moore/Aveling 译本可用；Fowkes 的 Penguin 译本读起来更流畅。） |
 | 9 | [托克维尔](eras/04-19th-century/alexis-de-tocqueville.md) | ○ | 地图级，若阶段允许可加强节选：《论美国的民主》(*Democracy in America*) 选篇（多数人的暴政、温和的专制主义、结社）。政治线索：他是在一个运转中的民主内部给契约传统做的现实核查。 |
-| 10 | 背景声音：[孔德](eras/04-19th-century/auguste-comte.md)、[费尔巴哈与施蒂纳](eras/04-19th-century/sidebars-feuerbach-and-stirner.md)、[布伦塔诺](eras/04-19th-century/franz-brentano.md)、[皮尔士](eras/04-19th-century/charles-sanders-peirce.md)、[詹姆斯](eras/04-19th-century/william-james.md) | ○ | 地图级，每人有一项工作：费尔巴哈是通往马克思和尼采的宗教即批判的上坡道（在他*之前*做——在尼采板块之前）；孔德是实证主义的初稿（维也纳学派是第二稿）；布伦塔诺的意向性是胡塞尔的遗产；皮尔士和詹姆斯是实用主义，阶段 5 的杜威预设了它。詹姆斯《实用主义》(*Pragmatism*) 讲演节选是这里最值得的缓冲周花费。 |
+| 10 | 背景声音：[孔德](eras/04-19th-century/auguste-comte.md)、[狄尔泰与柯林伍德](eras/04-19th-century/dilthey-and-collingwood.md)、[格林与布拉德雷](eras/04-19th-century/british-idealists.md)、[费尔巴哈与施蒂纳](eras/04-19th-century/sidebars-feuerbach-and-stirner.md)、[布伦塔诺](eras/04-19th-century/franz-brentano.md)、[皮尔士](eras/04-19th-century/charles-sanders-peirce.md)、[詹姆斯](eras/04-19th-century/william-james.md) | ○ | 地图级，每人有一项工作：费尔巴哈是通往马克思和尼采的宗教即批判的上坡道（在他*之前*做——在尼采板块之前）；孔德是实证主义的初稿（维也纳学派是第二稿）；布伦塔诺的意向性是胡塞尔的遗产；皮尔士和詹姆斯是实用主义，阶段 5 的杜威预设了它。詹姆斯《实用主义》(*Pragmatism*) 讲演节选是这里最值得的缓冲周花费。格林和布拉德雷是阶段 5 中摩尔和罗素所反叛的英国唯心主义；狄尔泰在说明与理解之间的划分为伽达默尔做了铺垫。 |
 | 11 | [尼采](eras/04-19th-century/friedrich-nietzsche.md) | ● | 按这个顺序：（1）《偶像的黄昏》(*Twilight of the Idols*) 选；（2）《道德谱系》(*On the Genealogy of Morals*) **全本**——他最系统的书；（3）《善恶的彼岸》(*Beyond Good and Evil*) 选；（4）《快乐的科学》(*The Gay Science*) 选（§§125、341、373）。《查拉图斯特拉如是说》(*Zarathustra*) 最后读，可选，作为文学性的一遍。版本：《谱系》，Kaufmann & Hollingdale 译（Vintage）或 Diethe/Ansell-Pearson 译（Cambridge Texts）或 Clark & Swensen 译（Hackett）；《善恶的彼岸》，Kaufmann 译（Vintage）或 Norman 译（Cambridge）。**不要用 Thomas Common。不要把《权力意志》当作一本“书”（§4）。不要从《查拉图斯特拉》开始，也不要在康德和叔本华之前开始读尼采**——没有他们，格言会衰变为口号。学习指南：[《道德谱系》](study/nietzsche-genealogy.md)。可用的专题研读：[尼采档案](focus-studies/friedrich-nietzsche/README.md)——按这个顺序的完整档案（8 周，总计约 58 小时）。 |
 
-**二手支持与时机：** Kenny 第 3 卷（后半），同时。IEP 在黑格尔和克尔凯郭尔之前。一本尼采伴读（Leiter, *Nietzsche on Morality* 选篇；或 Magee/Stern）在你第一遍读完《谱系》**之后**，绝不在之前——§3 的偏见规则正是为这位作者写下的。
+**二手支持与时机：** Kenny 第 3 卷的结尾（为黑格尔），然后是第 4 卷的“从边沁到尼采”及其主题章节，同时。IEP 在黑格尔和克尔凯郭尔之前。一本尼采伴读（Leiter, *Nietzsche on Morality* 选篇；或 Magee/Stern）在你第一遍读完《谱系》**之后**，绝不在之前——§3 的偏见规则正是为这位作者写下的。
 
 **听与看：**
-- **音频主线——*Philosophize This!*，十九世纪弧线**（约 30 集，约 +15 小时），按 §3 的注意事项做预习/复习。（Kenny 第 3 卷有声书仍是这一段的学术备选——§3。）
+- **音频主线——*Philosophize This!*，十九世纪弧线**（约 30 集，约 +15 小时），按 §3 的注意事项做预习/复习。（Kenny 第 3 卷有声书用于黑格尔、然后第 4 卷有声书，仍是这一段的学术备选——§3。）
 - **黑格尔——Sadler, *Half Hour Hegel*，受限使用：** 只看序言选篇和自我意识 / 主奴板块（约 3–4 小时，在案头小时**之内**，与节选*同时*观看，Sadler 一段一段地讲）。全系列是 379 个视频、约 **190 小时**——这个数字就是限制的原因；要把全跑——如果将来真去做——当作一个单独的计划后项目。
 - **克尔凯郭尔——Sadler 的 *Fear and Trembling* Core Concepts**（9 个短视频，约 2–2.5 小时，在案头小时之内，看在文本之后）。他的全套克尔凯郭尔讲座（约 11 小时）是本阶段 **+1 小时/周的扩展**，只有当克尔凯郭尔是你个人的优先项时才值得。
-- **Sandel 的 *Justice* 在这里开始**——政治线索的讲座主线：**+1 小时/周 × 12 周，横跨阶段 4→5**（本阶段的份额约 6 小时），与穆勒/马克思各周同时开始，好让最后几集落在阶段 5 的罗尔斯各周上。在 **[justiceharvard.org](https://justiceharvard.org/justicecourse/)** 观看 12 集视频路径——这是规范站点；流传的“justice.hms.harvard.edu”地址是错的。在本周原典阅读**之后**观看（Sandel 的苏格拉底式形式奖励已经持有立场的人），并跳过 edX 外壳：它的 3–6 小时/周预设了由它来提供阅读材料，而本计划已经提供了；那张 $209 的证书在这里买不到任何东西。注意 Sandel 悄悄提供了什么：本计划中对**诺齐克**唯一的结构化接触，而他在这个图书馆里没有词条。
+- **Sandel 的 *Justice* 在这里开始**——政治线索的讲座主线：**+1 小时/周 × 12 周，横跨阶段 4→5**（本阶段的份额约 6 小时），与穆勒/马克思各周同时开始，好让罗尔斯那几讲落在阶段 5 的罗尔斯各周上。在 **[justiceharvard.org](https://justiceharvard.org/justicecourse/)** 观看 12 集视频路径——这是规范站点；流传的“justice.hms.harvard.edu”地址是错的。在本周原典阅读**之后**观看（Sandel 的苏格拉底式形式奖励已经持有立场的人），并跳过 edX 外壳：它的 3–6 小时/周预设了由它来提供阅读材料，而本计划已经提供了；那张 $209 的证书在这里买不到任何东西。注意 Sandel 悄悄提供了什么：本计划中对**诺齐克**唯一的结构化接触，他在这个图书馆里的[词条](eras/05-20th-century/robert-nozick.md)只是地图级。
 - **可选：** PLSC 114 讲座 18–23（卢梭、托克维尔），看在之后，如果你想让政治学各周既被拍摄又被讲授。
 
 **退出检查点——你能够：**
 - □ 在约 300 字内重构主奴辩证法，并说出马克思从黑格尔那里取走了什么、颠倒了什么。
 - □ 陈述穆勒的伤害原则，以及一个它确实难以应用的案例。
 - □ 重构马克思论异化劳动和论商品拜物教，各给一个异议。
-- □ 陈述克尔凯郭尔的“伦理的目的论悬置”（亚伯拉罕），以及它为什么让康德震惊。
+- □ 陈述约翰内斯·德·西伦提奥（克尔凯郭尔的笔名）的“伦理的目的论悬置”（亚伯拉罕），以及它为什么让康德震惊。
 - □ 把《谱系》第一篇（主人/奴隶道德）和第二篇（罪责、坏良心）重构*为论证*，并把尼采的批判与“道德是相对的”这一主张区分开来。
 
 **关卡文章：** “道德是一种发现、一种发明，还是一种症状？”穆勒、马克思和尼采给出三个不同的答案；为其中一个辩护以对抗另外两个。
@@ -366,7 +370,7 @@
 
 ---
 
-## 阶段 5——二十世纪至今：两种传统 + 结业项目（13 周 · 案头 60 小时 · 总计约 91 小时）
+## 9. 阶段 5——二十世纪至今：两种传统 + 结业项目（13 周 · 案头 60 小时 · 总计约 91 小时）
 
 **把这个阶段拆开；不要随机混杂。** 1900 年后的分析哲学与大陆哲学是两场对话，有不同的奠基文献和不同的风格；每周交替读它们会产生两场半截的对话。先做 5A，再做 5B，然后用结业项目迫使它们回到同一个房间。
 
@@ -380,12 +384,12 @@
 | 2 | [摩尔](eras/05-20th-century/g-e-moore.md) | ◐ | 《伦理学原理》(*Principia Ethica*) 第 1 章选篇（开放问题论证）+ 地图级。罗素和维特根斯坦都从摩尔的剑桥起步；节选就是你看清原因的方式。 |
 | 3 | [罗素](eras/05-20th-century/bertrand-russell.md) | ● | 《论指称》（“On Denoting”，论文）+ 《哲学问题》(*The Problems of Philosophy*) 第 1–5、13–15 章——如果你在阶段 0 选的就是这本，重访它；它现在读起来会完全不同。版本：《哲学问题》，OWC。（他的《西方哲学史》是二手文献，而且是带偏见的二手文献——§3。） |
 | 4 | 早期 [维特根斯坦](eras/05-20th-century/wittgenstein-early.md) | ● | 《逻辑哲学论》(*Tractatus*)，§§1–4、6–7 选篇。版本：独自学习用 Pears & McGuinness 译本（Routledge）；Ogden/Ramsey 是历史译本。 | 可用的专题研读：[维特根斯坦档案](focus-studies/ludwig-wittgenstein/README.md)——一个 7 周的档案（总计约 45 小时）从这里开始：第 1–2 周读《逻辑哲学论》全本，然后在第 9 行深入《哲学研究》，最后以《论确定性》收尾。
-| 5 | [维也纳学派](eras/05-20th-century/vienna-circle-logical-positivism.md)，经由艾耶尔 | ●（作为一场运动） | 艾耶尔，《语言、真理与逻辑》(*Language, Truth and Logic*) 第 1–4、6 章选（任何现代重印本；文本清晰）。把它当作它本来的样子：一份 1936 年的宣言，有待接下来的两行来回应它，而不是当作现行教义。该学派自己的词条是你的地图，涵盖石里克、卡尔纳普、纽拉特。 |
+| 5 | [维也纳学派](eras/05-20th-century/vienna-circle-logical-positivism.md)，经由艾耶尔 | ●（作为一场运动） | 艾耶尔，《语言、真理与逻辑》(*Language, Truth and Logic*) 第 1–4、6 章选（任何现代重印本；文本清晰）。把它当作它本来的样子：一份 1936 年的宣言，有待接下来的两行来回应它，而不是当作现行教义。该学派自己的词条是你的地图，涵盖石里克和纽拉特；[卡尔纳普](eras/05-20th-century/rudolf-carnap.md)有他自己的地图级词条，而《经验论、语义学和本体论》(“Empiricism, Semantics, and Ontology”，1950) 正是奎因在接下来几行中所回应的论文。 |
 | 6 | [波普尔](eras/05-20th-century/karl-popper.md) | ◐ | 《猜想与反驳》(*Conjectures and Refutations*) 的可证伪性章节 + 地图级。他是归纳线索的第三幕（休谟 → 波普尔 → 库恩），阶段 3 的检查点提前点过他的名。 |
 | 7 | [库恩](eras/05-20th-century/thomas-kuhn.md) | ○ | 地图级：《科学革命的结构》(*The Structure of Scientific Revolutions*)（范式、常规科学、不可通约性）经由词条 + Kenny/SEP。整本书阅读是一个出色的计划后项目；在阶段 5 之内，它会挤掉维特根斯坦。 |
-| 8 | [奎因](eras/05-20th-century/w-v-o-quine.md) | ● | 《经验主义的两个教条》（“Two Dogmas of Empiricism”，论文）——放在这里，在康德*和*休谟之后，因为它的靶子（分析/综合之分）是他们的。版本：收于 *From a Logical Point of View*（Harvard UP）。 |
+| 8 | [奎因](eras/05-20th-century/w-v-o-quine.md) | ● | 《经验主义的两个教条》（“Two Dogmas of Empiricism”，论文）——放在这里，在康德*和*休谟之后，因为它的靶子（分析/综合之分）是他们的。版本：收于 *From a Logical Point of View*（Harvard UP）。地图级后续：[塞拉斯、戴维森、普特南与刘易斯](eras/05-20th-century/analytic-philosophy-after-quine.md)，下一代对奎因的回答；若时间允许，普特南的《“意义”的意义》（“The Meaning of 'Meaning'”，1975）是最好的单篇论文。 |
 | 9 | 晚期 [维特根斯坦](eras/05-20th-century/wittgenstein-late.md) | ● | 《哲学研究》(*Philosophical Investigations*) §§1–38、89–133、243–311（私人语言论证）。版本：Anscombe 译，Hacker & Schulte 修订，第 4 版（Wiley-Blackwell，双语版）。**不要在第 4–5 行之前读**：《哲学研究》是一场*反对*《逻辑哲学论》和实证主义者的论证；没有它们，你读的是一通电话的一半。 | 专题研读接续：[维特根斯坦档案](focus-studies/ludwig-wittgenstein/README.md)（始于第 4 行）给这次阅读四周时间，以图书馆指南为伴。
-| 10 | [赖尔](eras/05-20th-century/gilbert-ryle.md)、[杜威](eras/05-20th-century/john-dewey.md)、[帕菲特](eras/05-20th-century/derek-parfit.md) | ○ | 地图级。帕菲特在三人中得到最完整的地图处理：个人同一性（“同一性不是要紧的东西”）和非同一性问题，经由 SEP/IEP 总结 + 词条——他是心灵线索与伦理线索的交汇处，也是结业项目最有用的当代声音。《理与人》(*Reasons and Persons*) 选篇是一个点名的计划后项目。 |
+| 10 | [赖尔](eras/05-20th-century/gilbert-ryle.md)、[杜威](eras/05-20th-century/john-dewey.md)、[哈特](eras/05-20th-century/h-l-a-hart.md)、[帕菲特](eras/05-20th-century/derek-parfit.md) | ○ | 地图级。帕菲特在三人中得到最完整的地图处理：个人同一性（“同一性不是要紧的东西”）和非同一性问题，经由 SEP/IEP 总结 + 词条——他是心灵线索与伦理线索的交汇处，也是结业项目最有用的当代声音。《理与人》(*Reasons and Persons*) 选篇是一个点名的计划后项目。哈特是政治线索的法哲学：《法律的概念》(*The Concept of Law*) 第 1–6 章把牛津日常语言方法用于约翰·奥斯丁的命令理论（源自边沁，根子在霍布斯），并为罗尔斯做了铺垫。 |
 
 ### 9.2 阶段 5B——大陆哲学与应用哲学（7 周）
 
@@ -394,25 +398,25 @@
 | 1 | [胡塞尔](eras/05-20th-century/edmund-husserl.md) | ○ | 地图级加带指导的节选（《笛卡尔式沉思》(*Cartesian Meditations*) 选，先经由 SEP/IEP）。布伦塔诺（阶段 4 地图）是上坡道；完整地读胡塞尔是一个计划后专攻。 |
 | 2 | [柏格森](eras/05-20th-century/henri-bergson.md) | ○ | 地图级：绵延与直觉，经由词条 + Adamson/Kenny。他对德勒兹、以及这个时代与爱因斯坦时代物理学之争也都重要；在本阶段内他是语境，不是一个板块。 |
 | 3 | [海德格尔](eras/05-20th-century/martin-heidegger.md) | ●（仅带指导的选篇） | 《存在与时间》(*Being and Time*)：导论 + 第一部分选篇（“世界性”），带指导；《什么是形而上学？》(“What is Metaphysics?”) 或《论人道主义的信》(*Letter on Humanism*) 选篇是合法的替代。版本：Macquarrie & Robinson 译（Harper）；Stambaugh 译（SUNY）也可。**不要独自读全本《存在与时间》**——其放弃点之多仅次于黑格尔。诚实的退路，事先说明，这样用它时就不是失败：如果带指导的一遍失败两次，就在 Kenny/SEP 层面处理海德格尔，在你的追踪表中记下这个缺口，然后继续前进。一份假装并非如此的计划是在对你撒谎。 |
-| 4 | [萨特](eras/05-20th-century/jean-paul-sartre.md) | ● | 《存在主义是一种人道主义》(*Existentialism Is a Humanism*)（讲演，全本——很短）→ 《存在与虚无》(*Being and Nothingness*)：导论 + “自欺”（“Bad Faith”）选篇。版本：《人道主义》，Macomber 译（Yale）；《存在与虚无》，Richmond 译（2021，Routledge）优先——Barnes 译本较旧且有若干缺陷。《禁闭》(*No Exit*) 可选，而且有趣，这在第 50 几周时很重要。 |
-| 5 | [波伏瓦](eras/05-20th-century/simone-de-beauvoir.md) | ● | 《第二性》(*The Second Sex*)：导论 + 第二卷选篇；《含混伦理学》(*The Ethics of Ambiguity*) 选篇——更短，而且常常是独自读时更好的一本。版本：**Borde & Malovany-Chevallier 译（Vintage，2010/2011），第一部完整的英译本。不要用 Parshley（§4）**——任何一本在进家门之前先核对译者的名字。学习指南：[《第二性》](study/beauvoir-second-sex.md)。 |
+| 4 | [萨特](eras/05-20th-century/jean-paul-sartre.md) | ● | 《存在主义是一种人道主义》(*Existentialism Is a Humanism*)（讲演，全本——很短）→ 《存在与虚无》(*Being and Nothingness*)：导论 + “自欺”（“Bad Faith”）选篇。版本：《人道主义》，Macomber 译（Yale）；《存在与虚无》，Richmond 译（2018，Routledge）优先——Barnes 译本较旧且有若干缺陷。《禁闭》(*No Exit*) 可选，而且有趣，这在第 50 几周时很重要。 |
+| 5 | [波伏瓦](eras/05-20th-century/simone-de-beauvoir.md) | ● | 《第二性》(*The Second Sex*)：导论 + 第二卷选篇；《含混伦理学》(*The Ethics of Ambiguity*) 选篇——更短，而且常常是独自读时更好的一本。版本：**Borde & Malovany-Chevallier 译（Knopf，2010；Vintage 平装本，2011），第一部完整的英译本。不要用 Parshley（§4）**——任何一本在进家门之前先核对译者的名字。学习指南：[《第二性》](study/beauvoir-second-sex.md)。地图级后续：[伊利格瑞、克里斯蒂娃与巴特勒](eras/05-20th-century/feminist-philosophy-after-beauvoir.md)；《性别麻烦》(*Gender Trouble*) 第 1 章是最常被指定的文本，与福柯（第 10 行）一起读。 |
 | 6 | [阿伦特](eras/05-20th-century/hannah-arendt.md) | ◐ | 《人的境况》(*The Human Condition*) 选篇，或《真理与政治》（“Truth and Politics”）一文。不要在这个预算内读《极权主义的起源》(*The Origins of Totalitarianism*) 全本。 |
 | 7 | [梅洛-庞蒂](eras/05-20th-century/maurice-merleau-ponty.md) | ◐ | 《知觉现象学》(*Phenomenology of Perception*) 选篇（身体-主体、身体化的知觉）+ 其余部分地图级。他是胡塞尔/海德格尔遗产被具体化的形态，也是从第 3 行到第 4 行的自然桥梁。 |
 | 8 | [列维纳斯](eras/05-20th-century/emmanuel-levinas.md) | ◐ | 《总体与无限》(*Totality and Infinity*) 选篇（面容）+ 地图级。伦理学作为第一哲学是上帝/伦理线索的大陆终点：义务先于自由，与萨特的顺序相反。 |
 | 9 | [伽达默尔](eras/05-20th-century/hans-georg-gadamer.md) | ○ | 地图级：《真理与方法》(*Truth and Method*)（视域融合、偏见的正名）经由词条 + SEP 总结。诠释学同时也在悄悄地是一种理论，讲的是*你*一直在如何阅读本计划中的每一本著作——在结业项目之前，值得和自己做一次这样的检查点对话。 |
 | 10 | [福柯](eras/05-20th-century/michel-foucault.md) | ○（带指导的总结通过） | 《规训与惩罚》(*Discipline and Punish*)，“全景监狱”(“Panopticism”)选篇，总结指导式地读（先词条 + Kenny/SEP，后节选）。不要在这个预算内读《性史》(*History of Sexuality*) 全本。 |
-| 11 | [法兰克福学派](eras/05-20th-century/frankfurt-school.md)（[阿多诺、霍克海默、哈贝马斯在内](eras/05-20th-century/frankfurt-school.md)）、[德里达](eras/05-20th-century/jacques-derrida.md)、[韦伊](eras/05-20th-century/simone-weil.md) | ○ | 地图级。德里达：二手材料 + 若地图通过顺利的话读《延异》一文；他 1967 年的书无人辅助地读在不要从这里开始清单上（§12），计划之后也仍然在，直到你做过一次带指导的通过。 |
+| 11 | [法兰克福学派](eras/05-20th-century/frankfurt-school.md)（阿多诺、霍克海默）、[哈贝马斯](eras/05-20th-century/jurgen-habermas.md)、[杜波依斯与法农](eras/05-20th-century/du-bois-and-fanon.md)、[德勒兹](eras/05-20th-century/gilles-deleuze.md)、[德里达](eras/05-20th-century/jacques-derrida.md)、[韦伊](eras/05-20th-century/simone-weil.md) | ○ | 地图级。德里达：二手材料 + 若地图通过顺利的话读《延异》一文；他 1967 年的书无人辅助地读在不要从这里开始清单上（§12），计划之后也仍然在，直到你做过一次带指导的通过。哈贝马斯：词条 + SEP，然后在你读到第 14 行的罗尔斯时读罗尔斯–哈贝马斯之争。杜波依斯与法农：《黑人的灵魂》(*The Souls of Black Folk*) 第 1 章（短，公共领域）与萨特和波伏瓦论注视与他者配对。德勒兹：只读词条 + SEP；他的《尼采与哲学》(*Nietzsche and Philosophy*) 是可读的入口，《千高原》(*A Thousand Plateaus*) 留在不要从这里开始清单上。 |
 | 12 | 德性伦理学的回归：[安斯康姆与富特](eras/05-20th-century/anscombe-and-foot.md)、[麦金太尔](eras/05-20th-century/alasdair-macintyre.md)、[威廉斯](eras/05-20th-century/bernard-williams.md) | ◐ | 伦理线索的归乡：安斯康姆的《现代道德哲学》（“Modern Moral Philosophy”，1958）节选，富特的电车/有轨电车案例与《自然的善》(*Natural Goodness*) 总结，麦金太尔的《德性之后》(*After Virtue*) 选篇，威廉斯（道德运气、正直）总结。自阶段 1 以来沉睡的亚里士多德线索在这里收束——当它发生时请注意它；那就是螺旋在起作用。 |
 | 13 | 应用伦理学，核心论文：[汤姆森](eras/05-20th-century/judith-jarvis-thomson.md)、[辛格](eras/05-20th-century/peter-singer.md) | ●（论文） | 汤姆森，《为堕胎一辩》（“A Defense of Abortion”，1971），全篇——把它与第 12 行富特原始的有轨电车案例配对，并注意到你现在读的是电车难题的*源头*，不是它的梗图。辛格，《饥荒、富足与道德》（“Famine, Affluence, and Morality”），全篇。两篇都短、严谨，是为结业项目的论证标准做的最好的排练。 |
-| 14 | [罗尔斯](eras/05-20th-century/john-rawls.md)（+ 诺齐克，外部） | ● | 《正义论》(*A Theory of Justice*) §§1–4、11–17、24（原初状态、两个原则、无知之幕）→ 诺齐克，《无政府、国家与乌托邦》(*Anarchy, State, and Utopia*) 选篇（权利资格理论、张伯伦论证）→ 回到辛格（第 13 行）作为第三个立场。版本：罗尔斯，Harvard UP 修订版（1999）。诺齐克在本图书馆没有词条；Sandel 编《正义：读者》(*Justice: A Reader*) 中的节选是一条合法的捷径，始于阶段 4 的 *Justice* 讲座线索也与这一行同时收束（见下面的*听与看*）。**不要在结业项目之前从头到尾读《正义论》。** 学习指南：[《正义论》§§1–4 + 差别原则](study/rawls-theory-of-justice.md)。 |
+| 14 | [罗尔斯](eras/05-20th-century/john-rawls.md)（+ 诺齐克，外部） | ● | 《正义论》(*A Theory of Justice*) §§1–4、11–17、24（原初状态、两个原则、无知之幕）→ 诺齐克，《无政府、国家与乌托邦》(*Anarchy, State, and Utopia*) 选篇（权利资格理论、张伯伦论证）→ 回到辛格（第 13 行）作为第三个立场。版本：罗尔斯，Harvard UP 修订版（1999）。诺齐克在本图书馆有一个地图级[词条](eras/05-20th-century/robert-nozick.md)；Sandel 编《正义：读者》(*Justice: A Reader*) 中的节选是一条合法的捷径，始于阶段 4 的 *Justice* 讲座线索也与这一行同时进入它的罗尔斯讲座（见下面的*听与看*）。**不要在结业项目之前从头到尾读《正义论》。** 学习指南：[《正义论》§§1–4 + 差别原则](study/rawls-theory-of-justice.md)。 |
 
 
 **二手支持与时机：** Kenny 第 4 卷，同时。Magee 在本阶段之后、结业项目之前。双解读规则（§3）以全部力度适用于海德格尔和波伏瓦。
 
 **听与看：**
 - **按人物的补充（在 B 课之内）：** 主线时代结束了——现在是按人物的声音。*Philosophize This!* 对它涵盖的人物的选集（约 25 集，约 +12 小时，计入本阶段的媒体）。*Philosophy Bites*：每位主要人物 1–3 个访谈，复习在后。*In Our Time*：每位主要人物一个小组讨论（约 45 分钟），复习在后——选它们是为了它们浮出表面的学术分歧。（Kenny 第 4 卷音频在这里也是备选主线声音——§3。）
-- **Sandel 的 *Justice* 收束：** 该线索的最后几集（穆勒 → 罗尔斯）落在第 13–14 行，包括计划其他任何部分都没有提供的诺齐克材料。
-- **结业扩展——Kagan 的 *Death*，全本（本计划的旗舰扩展）。** 你在阶段 1 的《斐多篇》处遇见了讲座 4、6、7；整门课程（26 讲，约 +21 小时）增加了个人同一性板块（包括帕菲特，讲座 18）、死亡之坏的剥夺说明，以及如何生活/自杀的收尾——实际上补上了本阶段原本缺少的第二门关于自我与同一性的课程。请诚实地算它的成本：**阶段 5 +4–5 周**，或以 +2 小时/周持续约 11 周。**与 Gendler 全跑互斥：** [PHIL 181 *Philosophy and the Science of Human Nature*](https://oyc.yale.edu/philosophy/phil-181)（耶鲁，26 讲，约 21 小时）是备选的结业扩展——它的道德心理学选篇（约 5 小时）也可以在本阶段**之内**使用。两门整课都跑会增加约 9–10 周；那是计划后的决定，不是默认项。
+- **Sandel 的 *Justice* 收束：** 该线索的后半在这里进行：罗尔斯讲座（站点 24 讲中的第 14–17 讲）落在第 13–14 行，亚里士多德与共同体讲座（18–24）为它收尾。自由至上主义讲座（5–6），即计划其他任何部分都没有提供的诺齐克材料，已在阶段 4 出现。
+- **结业扩展——Kagan 的 *Death*，全本（本计划的旗舰扩展）。** 你在阶段 1 的《斐多篇》处遇见了讲座 4、6、7；整门课程（26 讲，约 +21 小时）增加了个人同一性板块（讲座 10–14）、死亡之坏的剥夺说明（含帕菲特论出生前与死后的不存在，讲座 18），以及如何生活/自杀的收尾——实际上补上了本阶段原本缺少的第二门关于自我与同一性的课程。请诚实地算它的成本：**阶段 5 +4–5 周**，或以 +2 小时/周持续约 11 周。**与 Gendler 全跑互斥：** [PHIL 181 *Philosophy and the Science of Human Nature*](https://oyc.yale.edu/philosophy/phil-181)（耶鲁，26 讲，约 21 小时）是备选的结业扩展——它的道德心理学选篇（约 5 小时）也可以在本阶段**之内**使用。两门整课都跑会增加约 9–10 周；那是计划后的决定，不是默认项。
 - **充实材料：** [*The Partially Examined Life*](https://www.partiallyexaminedlife.com) 至多用于约 6 篇你刚读过的文本（对实际文本的研讨会深度讨论，每篇 2–4 小时；请注意那个注意事项——开头部分免费，续篇常常是付费的，所以开始一篇之前先核查）。**逻辑补充：** 抽样 Carneades.org 的 *100 Days of Logic* 播放列表——只抽样；完整的播放列表是一套藏在补充材料里的第二套课程。
 
 ### 9.3 结业项目（最后 2 周，在阶段 5 的 60 个案头小时之内）
@@ -445,7 +449,7 @@
 - **不要精简阶段 3。** 不是康德序列，不是完整的休谟，不是按顺序的《沉思集》。一份砍了阶段 3 的 12 个月计划，造就的是一个“做完”了哲学、却跟不上尼采或罗尔斯中一个论证的学习者——精简版的存在是为了保护承重阶段，而不是为了均匀地分摊痛苦。
 - 也不要为了救日历而砍队列：砍掉复习正是整个 335 小时在第九个月蒸发的方式。如果每周约 6.5–7 小时确实不可能，诚实的底线是把日历 B 的节奏应用到精简后的内容上（约 67 个学习周）——本计划的 12 个月、每周 5 小时版本不存在，本计划也不会假装它存在。
 
-**舒适版（日历 B 节奏，案头 +40–60 小时，外加计价的媒体扩展点菜）：** 加上完整的《斐多篇》；《尼各马可伦理学》VIII–X 全本（友谊与沉思——MIT 的古代课程指定了它们，它们是伦理线索的古代高点）；《自然宗教对话》全本；阶段 2 中一次伊本·西那/伊本·鲁世德/迈蒙尼德节选通过（压缩阶段承认的债）；阶段 1 末尾一次普罗提诺节选通过（《九章集》I.6、V.1）；以及一次更慢的黑格尔或萨特第二遍。这也是计划后项目所属的版本：库恩全本、帕菲特《理与人》选篇、带伴读的《资本论》I 第 1 章之后。媒体扩展菜单，每项在此处和其阶段中各计价一次：Kagan 的 *Death* 全本，+21 小时 ≈ 阶段 5 +4–5 周（旗舰项——§9 *听与看*）；Gendler 的 PHIL 181 全本，+21 小时，作为它的*备选*，不是它的伙伴；Millican 的 *General Philosophy* 全本，阶段 3 +约 2 周；*Think Again I*，阶段 0 +约 2 周；Sadler 的克尔凯郭尔全套讲座，阶段 4 +1 小时/周；PLSC 114 全本，阶段 1–4 +1 小时/周——作为 Sandel 线索的*备选*，不是它的叠加（不要两个都全跑）；Adamson 升级——阶段 1 全跑（比精选多 +20 小时）、阶段 2 的拉丁中世纪核心（比精选多 +17 小时）。把*每一个*扩展都拿下会增加约 20 周；推荐的组合是 Sandel（已经在标题数字内）+ Kagan。
+**舒适版（日历 B 节奏，案头 +40–60 小时，外加计价的媒体扩展点菜）：** 加上完整的《斐多篇》；《尼各马可伦理学》VIII–X 全本（友谊与沉思——MIT 的古代课程指定了它们，它们是伦理线索的古代高点）；《自然宗教对话》全本；阶段 2 中一次伊本·西那/伊本·鲁世德/迈蒙尼德节选通过（压缩阶段承认的债）；阶段 1 末尾一次普罗提诺节选通过（《九章集》I.6、V.1）；以及一次更慢的黑格尔或萨特第二遍。这也是计划后项目所属的版本：库恩全本、帕菲特《理与人》选篇、带伴读的《资本论》I 第 1 章之后。媒体扩展菜单，每项在此处和其阶段中各计价一次：Kagan 的 *Death* 全本，+21 小时 ≈ 阶段 5 +4–5 周（旗舰项——§9 *听与看*）；Gendler 的 PHIL 181 全本，+21 小时，作为它的*备选*，不是它的伙伴；Millican 的 *General Philosophy* 全本，阶段 3 +约 7 小时；*Think Again I*，阶段 0 +约 2 周；Sadler 的克尔凯郭尔全套讲座，阶段 4 +1 小时/周；PLSC 114 全本，阶段 1–4 +1 小时/周——作为 Sandel 线索的*备选*，不是它的叠加（不要两个都全跑）；Adamson 升级——阶段 1 全跑（比精选多 +20 小时）、阶段 2 的拉丁中世纪核心（比精选多 +17 小时）。把*每一个*扩展都拿下会增加约 20 周；推荐的组合是 Sandel（已经在标题数字内）+ Kagan。
 
 
 ---
@@ -463,7 +467,7 @@
 | 5 | **错误或敌对的版本** | 你的那本译者死于约 1950 年之前，且没有点名现代编辑 | §4 的按译者购买规则与避开清单（Jowett、Haldane & Ross、Parshley、Common、Kemp Smith、未标注的 Gutenberg 本） |
 | 6 | **时代隧道视野** | 当前阶段延长超过 2 周；你最近的五位作者都属于同一个世纪或学派 | 硬性的阶段日历（§1.5）；2 周延长上限（§1.4）；每周螺旋回归迫使跨时代比较 |
 | 7 | **不写作** | 上一个完成的阶段没有关卡文章 | 无文章不进阶（§2.5）。结业项目是一篇文章，不是一份阅读清单 |
-| 8 | **对全部 112 位人物的完成主义** | 你已经“覆盖”了很多词条，却通不过当前阶段的检查点 | 双层设计本身（§1.2）：约 30 位核心读原典，其余*有意地*作地图级。课程也是这样做的 |
+| 8 | **对全部 140 位人物的完成主义** | 你已经“覆盖”了很多词条，却通不过当前阶段的检查点 | 双层设计本身（§1.2）：约 30 位核心读原典，其余*有意地*作地图级。课程也是这样做的 |
 | 9 | **突击然后遗忘** | 到了阶段 3，你不重读就说不出阶段 1 的论证 | 牌组在整个计划中累积；C 课永远是先前的阶段 |
 | 10 | **孤立停滞** | 你写的东西在一个多月里没有到达另一个头脑（中世纪和康德阶段正是这一条咬人的地方） | 讨论梯子（§2.6）：语音备忘 → 钢人交换 → 论坛/小组/AI 批评并核实。缓冲周是排定的，不是靠失败挣来的 |
 | 11 | **搭系统而不是学习** | 你在上个月换了应用、牌组、或*计划本身*，却没有完成一个阶段 | 本计划在阶段关卡之外冻结。图书馆和计划的升级发生在*关卡处*，以你的检查点缺口为规格 |
@@ -485,6 +489,7 @@
 - 尼采，《查拉图斯特拉如是说》作为第一本尼采；《权力意志》作为尼采的“书”，根本不要
 - 休谟，《人性论》在《研究》之前；柏拉图，《理想国》在早期对话之前；维特根斯坦，《哲学研究》在《逻辑哲学论》之前
 - 德里达 1967 年的书，无人辅助
+- 德勒兹与加塔利的《反俄狄浦斯》(*Anti-Oedipus*) 和《千高原》(*A Thousand Plateaus*)，作为第一本德勒兹
 - 马克思，《资本论》第一卷第 1 章之外，无伴读或读书小组
 
 ---

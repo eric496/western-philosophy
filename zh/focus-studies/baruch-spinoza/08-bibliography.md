@@ -22,6 +22,8 @@
 
 **Steven Nadler, *Spinoza: A Life* (Cambridge University Press, 1999; 2nd ed., 2018)。**标准传记——葡萄牙裔犹太社群、谢雷姆的文献记录、海牙圈子、去世与身后出版——也是检验下面那些流行戏剧化叙述应拿来对照的源头。在第一周并行地读，或者在《伦理学》各周与第七周之间整本读完；脑子里装着 1670 年代，TTP 的各章落点会不一样。
 
+**Jonathan I. Israel, *Spinoza, Life and Legacy* (Oxford University Press, 2023)。**纳德勒之外的主要竞争性传记，出自激进启蒙运动的史家之手：篇幅更长（约 1,400 页），对地下网络与政治背景着墨更多，并更强地主张斯宾诺莎是启蒙运动隐藏的引擎。先读纳德勒，把握生平的档案轮廓；再回到伊斯雷尔，看欧洲的接受史，以及一幅关于斯宾诺莎影响的更大胆（也更有争议）的图景。
+
 **Steven Nadler, *A Book Forged in Hell: Spinoza's Scandalous Treatise and the Birth of the Secular Age* (Princeton University Press, 2011)。**第七周的伴侣：TTP 的写作、查禁与秘密流传的生涯，以及为它在现代圣经批评与世俗国家中的奠基性作用所作的论证。叙事与学术兼备；是三本纳德勒中最生动的一本。
 
 **Beth Lord, *Spinoza's Ethics: An Edinburgh Philosophical Guide* (Edinburgh University Press, 2010)。**替代性的伴侣读物——命题敏感、节奏明快，在第四、第五部分和政治身后影响上尤其出色。在洛德*或*纳德勒的《导论》中选一本作为你唯一的伴侣，不要两本都选；本计划在 B 单元需要一个声音，而不是一个研讨班。
@@ -34,15 +36,17 @@
 
 **Gilles Deleuze, *Spinoza: Practical Philosophy* (trans. Robert Hurley; City Lights, 1988; French orig. 1970, expanded 1981)。**另一个斯宾诺莎：情感、身体，以及一个身体能做什么，被读作一种关于快乐相遇与力量增长的伦理学，附一份著名的术语表。德勒兹的斯宾诺莎是一种真正的诠释，而不是歪曲——但它是一个*法国的*斯宾诺莎，它将永久地重新整理你的第三部分。在计划之后读，与班尼特并读或对读，并注意这两位论敌除了文本的力量之外几乎什么都不认同。
 
-**Don Garrett (ed.), *The Cambridge Companion to Spinoza* (Cambridge University Press, 1996)。**综述卷：由该领域资深学者撰写的关于形而上学、心灵、情感、政治与历史背景的论文。当一个档案主题需要在你押下结业论文的裁决之前听一听第二个学术声音时，就去这里。
+**Don Garrett (ed.), *The Cambridge Companion to Spinoza* (Cambridge University Press, 1st ed. 1996; 2nd ed. 2021)。**综述卷：由该领域资深学者撰写的关于形而上学、心灵、情感、政治与历史背景的论文。第二版增加了关于生平、形而上学、认识论、宗教哲学与圣经学术的章节，并更新了书目；图书馆有第二版就用它，没有就用 1996 年版。当一个档案主题需要在你押下结业论文的裁决之前听一听第二个学术声音时，就去这里。
 
-**Rebecca Goldstein, *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity* (Schocken Books, Jewish Encounters, 2006)。**可读的生平与思想：一位小说家兼哲学家寻找谢雷姆故事里藏着的那个人，把传记与她自己的思想回忆交织在一起。确实好看，哲学上也严肃；引用它的推测之前，先拿纳德勒的《生平》核实。
+**Rebecca Goldstein, *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity* (Nextbook/Schocken, Jewish Encounters, 2006)。**可读的生平与思想：一位小说家兼哲学家寻找谢雷姆故事里藏着的那个人，把传记与她自己的思想回忆交织在一起。确实好看，哲学上也严肃；引用它的推测之前，先拿纳德勒的《生平》核实。
 
 **Matthew Stewart, *The Courtier and the Heretic: Leibniz, Spinoza, and the Fate of God in the Modern World* (W. W. Norton, 2006)。**流行叙事——就如此标明。一部围绕年轻的莱布尼茨 1676 年海牙之行组织起来的双传，结构戏剧化、论点驱动（斯宾诺莎是现代性的秘密作者）。作为尾声读物很好；它不是证据，它的莱布尼茨为了情节而被简化了。本档案的规则不变：普及读物只作定向，学术著作才作论证。
 
 ## 4. 参考资料
 
 **[SEP, "Spinoza"](https://plato.stanford.edu/entries/spinoza/) — Steven Nadler。**标准的学术综述，涵盖形而上学、认识论、心理学、伦理学与政治，附完整书目；学习路径每阶段的仪式（第一周略读，结业论文*之后*精读）对这一篇尤其适用，因为它的压缩在你还没有文本在手时是看不见的。
+
+SEP 还有一些专题配套条目，等你的第二部分或第五部分那一周引出某个具体问题时值得链进来——"Spinoza's Psychological Theory"与"Spinoza's Modal Metaphysics"是大多数档案读者会去找的两篇；请从主条目页脚的"Related Entries"找到它们，而不要去猜网址，因为 SEP 的网址标识会变。
 
 **[IEP, "Benedict de Spinoza"](https://iep.utm.edu/)**——本计划在原著精读*之前*指定的那篇条目（学习路径对这位人物的"先 IEP"规则：IEP 的斯宾诺莎覆盖对这样一个几何化的体系来说异常易读），外加两篇经核实、供其所服务的那一周使用的衍生文章："本尼迪克特·斯宾诺莎：宗教哲学"（"Benedict de Spinoza: Philosophy of Religion"，供第七周；https://iep.utm.edu/spinoza-religion/）与"斯宾诺莎论自由意志与自由"（"Spinoza on Free Will and Freedom"，供第三至五周；https://iep.utm.edu/spinoza-free-will-determinism/)。
 

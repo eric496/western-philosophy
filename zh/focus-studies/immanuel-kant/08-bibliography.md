@@ -8,7 +8,9 @@
 
 全都与学习路径的康德一行一致；本档案增补了学习路径推迟的文本。学院版页码（卷：页）印在每个点名的版本中，也是本档案通篇引用较短著作的方式。
 
-**Paul Guyer and Allen W. Wood (trans.), *Critique of Pure Reason*（《纯粹理性批判》）(Cambridge Texts in the History of Philosophy, 1998).** 本档案的《批判》，也是学习路径的裁定：现代、术语一致，页边自始至终印有 A/B 页码——日常使用真正依赖的正是这个特征。**不要以 Norman Kemp Smith（1929）或 J. M. D. Meiklejohn（1855）替代**，也不要读古腾堡上未注明译者的文本：那些术语会误导初学者，廉价重印本还常常干脆删去 A/B 页码。
+**Paul Guyer and Allen W. Wood (trans.), *Critique of Pure Reason*（《纯粹理性批判》）(Cambridge Edition of the Works of Immanuel Kant, 1998).** 本档案的《批判》，也是学习路径的裁定：现代、术语一致，页边自始至终印有 A/B 页码——日常使用真正依赖的正是这个特征。**不要以 Norman Kemp Smith（1929）或 J. M. D. Meiklejohn（1855）替代**，也不要读古腾堡上未注明译者的文本：那些术语会误导初学者，廉价重印本还常常干脆删去 A/B 页码。
+
+还有第三部现代全译本——**Werner Pluhar, *Critique of Pure Reason* (Hackett, 1996)**——准确且广受推崇，与普鲁哈尔的《判断力批判》（1987）和《实践理性批判》（2002）译本一致；它读起来比盖耶尔—伍德译本稍为自由，是觉得盖耶尔—伍德译文生硬的读者可用的认可替代本，但不是本档案的默认版本。
 
 **Mary Gregor (trans.), *Groundwork of the Metaphysics of Morals*（《道德形而上学奠基》）, revised by Jens Timmermann, introduction by Christine Korsgaard (Cambridge Texts, 2012).** 本计划的《奠基》：标准的课堂文本，附科斯戈德的导言，一举两得地成为你的第一篇学术康德读物（见第 3 层）。Allen Wood 的耶鲁译本（2002）是获准的替代；J. W. Ellington 的哈克特译本较旧，但若你手头有，也还能用。
 
@@ -16,9 +18,9 @@
 
 **Mary Gregor (trans.), *Critique of Practical Reason*（《实践理性批判》）, in *Practical Philosophy* (Cambridge Edition of the Works of Immanuel Kant, 1996).** 本计划的第二《批判》；《实践哲学》还收有格雷戈尔未修订本的《奠基》与《什么是启蒙？》，因而是一卷本的实践康德。Werner Pluhar 的哈克特译本（2002）是单行本的替代。
 
-**Allen W. Wood and George di Giovanni (trans.), *Religion and Rational Theology* (Cambridge Edition, 1996).** 收有《单纯理性限度内的宗教》（*Religion within the Boundaries of Mere Reason*）——第 6 周的第一卷（根本恶），采用标准的现代译本，附有展示康德道德宗教实际运作的诸篇短文。
+**Allen W. Wood and George di Giovanni (trans. and ed.), *Religion and Rational Theology* (Cambridge Edition, 1996).** 收有《单纯理性限度内的宗教》（*Religion within the Boundaries of Mere Reason*，迪·乔瓦尼译）——第 6 周的第一卷（根本恶），采用标准的现代译本，附有展示康德道德宗教实际运作的诸篇短文。
 
-**Paul Guyer and Eric Matthews (trans.), *Critique of Judgment*（《判断力批判》）(Cambridge Texts, 2000).** 第 7 周的选读部分（美的分析论、崇高）。作为首读，它取代 Bernard 与 Meredith 的译本：与盖耶尔和伍德《批判》的术语保持一致——当第三《批判》花用第一《批判》的资本时，这一点很重要。
+**Paul Guyer and Eric Matthews (trans.), *Critique of the Power of Judgment*（《判断力批判》）(Cambridge Edition of the Works of Immanuel Kant, 2000).** 第 7 周的选读部分（美的分析论、崇高）。作为首读，它取代 Bernard 与 Meredith 的译本：与盖耶尔和伍德《批判》的术语保持一致——当第三《批判》花用第一《批判》的资本时，这一点很重要。
 
 **H. B. Nisbet (trans.), in Hans Reiss (ed.), *Kant's Political Writings* (Cambridge Texts, 2nd ed., 1991).** 《永久和平论》（*Perpetual Peace*, 1795）与《什么是启蒙？》同处一卷——第 1 周与第 7 周只需一次购买。
 
@@ -46,7 +48,7 @@
 
 ## 4. 参考资料
 
-**[SEP, "Immanuel Kant"](https://plato.stanford.edu/entries/kant/) — Michael Rohlf.** 对整个体系的标准学术综述，也是本计划第 8 周的结业阅读（按学习路径的惯例在第 1 周略读 §1；之后通读）。它的衍生条目服务于标明的各周：["Kant's Moral Philosophy"](https://plato.stanford.edu/entries/kant-moral/)（Robert Johnson 与 Adam Cureton；第 5–6 周）、["Kant's Aesthetics and Teleology"](https://plato.stanford.edu/entries/kant-aesthetics/)（Hannah Ginsborg；第 7 周）、["Kant's Transcendental Idealism"](https://plato.stanford.edu/entries/kant-transcendental-idealism/)（Nicholas Stang；第 2–4 周）、["Kant's Critique of Metaphysics"](https://plato.stanford.edu/entries/kant-metaphysics/)（Michelle Grier；第 4 周）、["Kant's Philosophy of Religion"](https://plato.stanford.edu/entries/kant-religion/)（Lawrence Pasternack 与 Courtney Fugate；第 6 周），以及 ["Kant's Social and Political Philosophy"](https://plato.stanford.edu/entries/kant-social/)（Frederick Rauscher；第 7 周）。
+**[SEP, "Immanuel Kant"](https://plato.stanford.edu/entries/kant/) — Michael Rohlf.** 对整个体系的标准学术综述，也是本计划第 8 周的结业阅读（按学习路径的惯例在第 1 周略读 §1；之后通读）。它的衍生条目服务于标明的各周：["Kant's Moral Philosophy"](https://plato.stanford.edu/entries/kant-moral/)（Robert Johnson 与 Adam Cureton；第 5–6 周）、["Kant's Aesthetics and Teleology"](https://plato.stanford.edu/entries/kant-aesthetics/)（Hannah Ginsborg；第 7 周）、["Kant's Transcendental Idealism"](https://plato.stanford.edu/entries/kant-transcendental-idealism/)（Nicholas Stang；第 2–4 周）、["Kant's Critique of Metaphysics"](https://plato.stanford.edu/entries/kant-metaphysics/)（Michelle Grier；第 4 周）、["Kant's Philosophy of Religion"](https://plato.stanford.edu/entries/kant-religion/)（Lawrence Pasternack 与 Courtney Fugate；第 6 周），以及 ["Kant's Social and Political Philosophy"](https://plato.stanford.edu/entries/kant-social-political/)（Frederick Rauscher；第 7 周）。
 
 **[IEP, "Immanuel Kant"](https://iep.utm.edu/) — Tim Jankowiak.** 本计划在原典阅读*之前*指派的条目（学习路径对这位人物的 IEP 在先规则：IEP 的康德条目是初学者最需要的平白语言地图）。它的专家伴侣条目补足该体系：["Immanuel Kant: Metaphysics"](https://iep.utm.edu/)（第一《批判》)、["Kant: Philosophy of Mind"](https://iep.utm.edu/kantmind/)（统觉与谬误推理），以及 IEP 的康德与宗教条目（第 6 周）。
 
@@ -61,7 +63,7 @@
 - **BBC Radio 4, *In Our Time*, ["Kant's Categorical Imperative"](https://www.bbc.co.uk/programmes/b0952zl3) (first broadcast 21 September 2017; ~49 min)**——BBC 广播 4 台《In Our Time》「康德的定言命令」（首播于 2017 年 9 月 21 日；约 49 分钟）——梅尔文·布拉格与艾莉森·希尔斯（牛津）、戴维·奥德伯格（雷丁）、约翰·卡拉南（伦敦国王学院）：深入推敲诸公式，并保留了嘉宾们自己的分歧。BBC 节目编号 b0952zl3。第 5 周复习。
 - **Peter Millican, [*General Philosophy*](https://podcasts.ox.ac.uk/series/general-philosophy) (Oxford Podcasts)**——彼得·米利肯《General Philosophy》（牛津播客）——牛津大学一年级课程；对康德，诚实地划定范围：第 **2.7 部分「概览：康德与近代科学」**（约 17 分钟），该综述的收尾，把康德呈现为休谟的应答者，另有第 **3.1 部分「休谟关于归纳的论证」**作为它所回答的问题（第 1 周）。米利肯给康德的是一篇概览，而不是一个讲座板块——上面的罗宾逊系列才是本档案的讲座主线，本条目记录这一区别，而不是把它夸大。
 - **Gregory B. Sadler, *Sadler's Lectures* podcast playlists: *Groundwork for the Metaphysics of Morals* (16 episodes) and *Prolegomena to Any Future Metaphysics* (41 episodes)**——格雷戈里·B. 萨德勒《Sadler's Lectures》播客播放列表：《道德形而上学奠基》（16 集）与《未来形而上学导论》（41 集）——短小的核心概念讲解，索引见 [Sadler's Substack](https://gregorybsadler.substack.com/p/the-sadlers-lectures-podcast)。本计划按学习路径的规则指派《奠基》那一套作为它唯一的一套萨德勒（第 5–6 周，步行时间的再巩固）；《导论》那一套列出只为完整，如果第 1 周的文本卡住了你，它是获准的救援。
-- **Peter Adamson, [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/podcast/all-episodes) — the absence, recorded.**——彼得·亚当森《无间断的哲学史》——**缺席，在此记录**。该系列的西方部分只推进到十七世纪后期（第 502 集，讲贝尔（Bayle）与荷兰共和国，是目前的前沿）；它**尚未讲到洛克、休谟或康德**，而按它每年约 25 集、穿越密集世纪的速度，几年内也不会。当康德各集存在时，第 1–4 周应当采用它们作主线；在此之前，本档案只指派存在的东西，而 *Philosophize This!* 的接力带着它的提醒承担音频负荷。
+- **Peter Adamson, [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/podcast/all-episodes) — the absence, recorded.**——彼得·亚当森《无间断的哲学史》——**缺席，在此记录**。该系列的西方部分只推进到十七世纪后期（第 498–501 集讲贝尔（Bayle），随后从第 502 集起讲荷兰共和国，是目前的前沿）；它**尚未讲到洛克、休谟或康德**，而按它每年约 25 集、穿越密集世纪的速度，几年内也不会。当康德各集存在时，第 1–4 周应当采用它们作主线；在此之前，本档案只指派存在的东西，而 *Philosophize This!* 的接力带着它的提醒承担音频负荷。
 
 ---
 [档案首页](README.md) · [库条目](../../eras/03-early-modern/immanuel-kant.md) · [专题研读索引](../README.md)

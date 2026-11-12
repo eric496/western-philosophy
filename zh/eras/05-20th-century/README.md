@@ -27,10 +27,10 @@
 ## 本时代内的学习顺序（五遍，不按年代）
 
 第一遍 友好的入口：罗素《哲学问题》 → 萨特《存在主义是一种人道主义》+《禁闭》（No Exit），波伏娃《含混的伦理》 → 库恩《科学革命的结构》 → 波普尔《猜想与反驳》第1章（然后就波普尔对库恩展开争论）。
-第二遍 语言：艾耶尔第1、6章（实证主义的英语通俗版） → 在指导下读早期维特根斯坦《逻辑哲学论》选段 → 晚期维特根斯坦《哲学研究》§§1–133。这一弧线本身就是分析哲学的故事。
-第三遍 经验/生存：胡塞尔《笛卡尔式的沉思》+指南（扎哈维） → 海德格尔《基本著作》（Basic Writings），再在指导下读《存在与时间》选段 → 带着这套机制重读萨特/波伏娃，加上《第二性》（导论 + 第二卷开头，2010年译本）。
-第四遍 政治/权力（把对立的诸种透镜加以对照）：罗尔斯《作为公平的正义：正义论新论》（Restatement）（公平） → 阿伦特《人的境况》第I、V部分，再把《艾希曼在耶路撒冷》放回语境（复数平等者之间的行动） → 法兰克福学派"文化工业"（作为统治的文化） → 福柯《规训与惩罚》开头 +《性史》第一卷（制度/自我内部的权力）。把罗尔斯→阿伦特→福柯对照着读，比单独读任何一个都学到更多。
-第五遍 硬核 + 重建：德里达《延异》（"Différance"）+《致日本友人的信》，再读《论文字学》选段 → 安斯康姆《现代道德哲学》+ 富特的电车问题/《自然的善》（Natural Goodness）开头——这一时代就此交棒给当代伦理学。
+第二遍 语言：艾耶尔第1、6章（实证主义的英语通俗版） → 在指导下读早期维特根斯坦《逻辑哲学论》选段 → 晚期维特根斯坦《哲学研究》§§1–133。这一弧线本身就是分析哲学的故事。地图层面：艾耶尔之后读卡尔纳普；读奎因《经验论的两个教条》，然后读塞拉斯、戴维森、普特南与刘易斯。
+第三遍 经验/生存：胡塞尔《笛卡尔式的沉思》+指南（扎哈维） → 海德格尔《基本著作》（Basic Writings），再在指导下读《存在与时间》选段 → 带着这套机制重读萨特/波伏娃，加上《第二性》（导论 + 第二卷开头，2010年译本）。地图层面：杜波依斯与法农论注视与双重意识，然后读作为波伏娃继承者的伊利格瑞、克里斯蒂娃与巴特勒。
+第四遍 政治/权力（把对立的诸种透镜加以对照）：罗尔斯《作为公平的正义：正义论新论》（Restatement）（公平） → 阿伦特《人的境况》第I、V部分，再把《艾希曼在耶路撒冷》放回语境（复数平等者之间的行动） → 法兰克福学派"文化工业"（作为统治的文化） → 福柯《规训与惩罚》开头 +《性史》第一卷（制度/自我内部的权力）。把罗尔斯→阿伦特→福柯对照着读，比单独读任何一个都学到更多。地图层面：哈贝马斯（审议民主，反对福柯）与哈特（作为规则的法律，罗尔斯的背景）。
+第五遍 硬核 + 重建：德里达《延异》（"Différance"）+《致日本友人的信》，再读《论文字学》选段 → 安斯康姆《现代道德哲学》+ 富特的电车问题/《自然的善》（Natural Goodness）开头——这一时代就此交棒给当代伦理学。德勒兹在地图层面与德里达并读（条目 + SEP；不要先读《千高原》）。
 
 ## 过度简化（通论）
 
@@ -46,17 +46,24 @@
 
 - [弗雷格](gottlob-frege.md)
 - [罗素](bertrand-russell.md)
+- [杜波依斯与法农](du-bois-and-fanon.md)（合并条目）
 - [摩尔](g-e-moore.md)
 - [雅斯贝尔斯](karl-jaspers.md)
 - [维特根斯坦（早期）](wittgenstein-early.md)
 - [维特根斯坦（晚期）](wittgenstein-late.md)
 - [赖尔](gilbert-ryle.md)
+- [赖尔之后的心灵哲学](philosophy-of-mind-after-ryle.md)
 - [维也纳学派 / 逻辑实证主义](vienna-circle-logical-positivism.md)
+- [卡尔纳普](rudolf-carnap.md)
 - [波普尔](karl-popper.md)
 - [奎因](w-v-o-quine.md)
+- [塞拉斯、戴维森、普特南与刘易斯](analytic-philosophy-after-quine.md)（合并条目）
+- [奥斯汀与斯特劳森](austin-and-strawson.md)
+- [克里普克](saul-kripke.md)
 - [利科](paul-ricoeur.md)
 - [库恩](thomas-kuhn.md)
 - [罗尔斯](john-rawls.md)
+- [诺齐克](robert-nozick.md)
 - [麦金太尔](alasdair-macintyre.md)
 - [威廉斯](bernard-williams.md)
 - [汤姆森](judith-jarvis-thomson.md)
@@ -71,14 +78,19 @@
 - [苏珊·朗格](susanne-langer.md)
 - [施特劳斯](leo-strauss.md)
 - [萨特](jean-paul-sartre.md)
+- [加缪](albert-camus.md)
 - [梅洛-庞蒂](maurice-merleau-ponty.md)
 - [波伏娃](simone-de-beauvoir.md)
 - [韦伊](simone-weil.md)
 - [阿伦特](hannah-arendt.md)
+- [哈特](h-l-a-hart.md)
 - [列维纳斯](emmanuel-levinas.md)
 - [法兰克福学派（霍克海默与阿多诺）](frankfurt-school.md)
+- [哈贝马斯](jurgen-habermas.md)
+- [德勒兹](gilles-deleuze.md)
 - [福柯](michel-foucault.md)
 - [德里达](jacques-derrida.md)
+- [伊利格瑞、克里斯蒂娃与巴特勒](feminist-philosophy-after-beauvoir.md)（合并条目）
 - [皮特金](hanna-pitkin.md)
 - [伽达默尔](hans-georg-gadamer.md)
 - [安斯康姆与富特](anscombe-and-foot.md)

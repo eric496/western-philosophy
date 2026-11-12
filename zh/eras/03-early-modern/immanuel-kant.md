@@ -15,7 +15,7 @@
 - **学派/传统：** 批判哲学；唯理论与经验论的一种综合
 - **以何著称：** 心灵通过空间、时间与范畴构造经验；道德是理性存在者为自己颁布的法则；理性认识自身的界限
 
-**回应：** [休谟](david-hume.md)、[莱布尼茨](gottfried-wilhelm-leibniz.md)、[埃米莉·杜·沙特莱](emilie-du-chatelet.md) · **后续回应：** [费希特](../04-19th-century/johann-gottlieb-fichte.md)、[黑格尔](../04-19th-century/g-w-f-hegel.md)、[叔本华](../04-19th-century/arthur-schopenhauer.md)
+**回应：** [休谟](david-hume.md)、[莱布尼茨](gottfried-wilhelm-leibniz.md)、[埃米莉·杜·沙特莱](emilie-du-chatelet.md) · **后续回应：** [哈曼与赫尔德](hamann-and-herder.md)、[费希特](../04-19th-century/johann-gottlieb-fichte.md)、[黑格尔](../04-19th-century/g-w-f-hegel.md)、[叔本华](../04-19th-century/arthur-schopenhauer.md)
 
 ## 生平
 

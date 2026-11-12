@@ -1,53 +1,66 @@
 # 哲学家条目文件——按字母顺序
 **简体中文** | [English](../../philosophers/README.md)
 
-独立条目与合并条目文件，按时代文件夹排列。主索引（`../index.md`）涵盖全部 112 位人物，其中少数人物出现在合并条目内而非拥有自己的文件（例如高尔吉亚在《普罗塔哥拉与智者派》条目中，塞涅卡、爱比克泰德与马可·奥勒留在《罗马斯多葛派》条目中，阿多诺与霍克海默在《法兰克福学派》条目中，费尔巴哈与施蒂纳在"旁栏"条目中）。
+独立条目与合并条目文件，按时代文件夹排列。主索引（[`../index.md`](../index.md)）涵盖全部 140 位人物，其中少数人物出现在合并条目内而非拥有自己的文件（例如高尔吉亚在《普罗塔哥拉与智者派》条目中，塞涅卡、爱比克泰德与马可·奥勒留在《罗马斯多葛派》条目中，阿多诺与霍克海默在《法兰克福学派》条目中，费尔巴哈与施蒂纳在"旁栏"条目中）。
 
 - [亚当·斯密（Adam Smith）](../eras/03-early-modern/adam-smith.md) — 近代早期哲学（约 1600 – 1800）
 - [阿拉斯代尔·麦金泰尔（Alasdair MacIntyre）](../eras/05-20th-century/alasdair-macintyre.md) — 20 世纪至今（1900 – ）
+- [阿尔贝·加缪（Albert Camus）](../eras/05-20th-century/albert-camus.md) — 20 世纪至今（1900 – ）
 - [亚历克西·德·托克维尔（Alexis de Tocqueville）](../eras/04-19th-century/alexis-de-tocqueville.md) — 19 世纪哲学（1801 – 1900）
 - [阿尔弗雷德·诺斯·怀特海（Alfred North Whitehead）](../eras/05-20th-century/alfred-north-whitehead.md) — 20 世纪至今（1900 – ）
+- [安萨里（Al-Ghazali）](../eras/02-medieval/al-ghazali.md) — 中世纪哲学（约 400 – 约 1400）
 - [安斯康姆与富特（Anscombe & Foot）](../eras/05-20th-century/anscombe-and-foot.md) — 20 世纪至今（1900 – ）
 - [坎特伯雷的安瑟尔谟（Anselm of Canterbury）](../eras/02-medieval/anselm-of-canterbury.md) — 中世纪哲学（约 400 – 约 1400）
 - [亚里士多德（Aristotle）](../eras/01-ancient/aristotle.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [阿图尔·叔本华（Arthur Schopenhauer）](../eras/04-19th-century/arthur-schopenhauer.md) — 19 世纪哲学（1801 – 1900）
 - [奥古斯特·孔德（Auguste Comte）](../eras/04-19th-century/auguste-comte.md) — 19 世纪哲学（1801 – 1900）
 - [希波的奥古斯丁（Augustine of Hippo）](../eras/02-medieval/augustine-of-hippo.md) — 中世纪哲学（约 400 – 约 1400）
+- [奥斯汀与斯特劳森（Austin & Strawson）](../eras/05-20th-century/austin-and-strawson.md) — 20 世纪至今（1900 – ）
 - [伊本·鲁世德（Averroes (Ibn Rushd)）](../eras/02-medieval/averroes.md) — 中世纪哲学（约 400 – 约 1400）
 - [伊本·西那（Avicenna (Ibn Sīnā)）](../eras/02-medieval/avicenna.md) — 中世纪哲学（约 400 – 约 1400）
 - [巴鲁赫·斯宾诺莎（Baruch Spinoza）](../eras/03-early-modern/baruch-spinoza.md) — 近代早期哲学（约 1600 – 1800）
+- [培尔与伏尔泰（Bayle and Voltaire）](../eras/03-early-modern/bayle-and-voltaire.md) — 近代早期哲学（约 1600 – 1800）
 - [伯纳德·威廉斯（Bernard Williams）](../eras/05-20th-century/bernard-williams.md) — 20 世纪至今（1900 – ）
 - [伯特兰·罗素（Bertrand Russell）](../eras/05-20th-century/bertrand-russell.md) — 20 世纪至今（1900 – ）
 - [布莱兹·帕斯卡（Blaise Pascal）](../eras/03-early-modern/blaise-pascal.md) — 近代早期哲学（约 1600 – 1800）
 - [波爱修斯（Boethius）](../eras/02-medieval/boethius.md) — 中世纪哲学（约 400 – 约 1400）
 - [查尔斯·桑德斯·皮尔士（Charles Sanders Peirce）](../eras/04-19th-century/charles-sanders-peirce.md) — 19 世纪哲学（1801 – 1900）
+- [克里斯蒂娜·德·皮桑（Christine de Pizan）](../eras/02-medieval/christine-de-pizan.md) — 中世纪哲学（约 400 – 约 1400）
+- [西塞罗与卢克莱修（Cicero & Lucretius）](../eras/01-ancient/cicero-and-lucretius.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [大卫·休谟（David Hume）](../eras/03-early-modern/david-hume.md) — 近代早期哲学（约 1600 – 1800）
 - [阿布德拉的德谟克利特（Democritus of Abdera）](../eras/01-ancient/democritus-of-abdera.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [德尼·狄德罗（Denis Diderot）](../eras/03-early-modern/denis-diderot.md) — 近代早期哲学（约 1600 – 1800）
 - [德里克·帕菲特（Derek Parfit）](../eras/05-20th-century/derek-parfit.md) — 20 世纪至今（1900 – ）
+- [狄尔泰与柯林伍德（Dilthey and Collingwood）](../eras/04-19th-century/dilthey-and-collingwood.md) — 19 世纪哲学（1801 – 1900）
 - [锡诺普的第欧根尼与犬儒学派（Diogenes of Sinope & the Cynics）](../eras/01-ancient/diogenes-of-sinope-and-the-cynics.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
+- [埃德蒙·伯克（Edmund Burke）](../eras/03-early-modern/edmund-burke.md) — 近代早期哲学（约 1600 – 1800）
 - [埃德蒙德·胡塞尔（Edmund Husserl）](../eras/05-20th-century/edmund-husserl.md) — 20 世纪至今（1900 – ）
+- [伊丽莎白、卡文迪什、康韦与阿斯特尔（Elisabeth, Cavendish, Conway & Astell）](../eras/03-early-modern/early-modern-women-philosophers.md) — 近代早期哲学（约 1600 – 1800）
 - [爱默生与梭罗（Emerson & Thoreau）](../eras/04-19th-century/emerson-and-thoreau.md) — 19 世纪哲学（1801 – 1900）
 - [埃米莉·杜·沙特莱（Émilie du Châtelet）](../eras/03-early-modern/emilie-du-chatelet.md) — 近代早期哲学（约 1600 – 1800）
 - [埃马纽埃尔·列维纳斯（Emmanuel Levinas）](../eras/05-20th-century/emmanuel-levinas.md) — 20 世纪至今（1900 – ）
 - [恩培多克勒（Empedocles）](../eras/01-ancient/empedocles.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [伊壁鸠鲁（Epicurus）](../eras/01-ancient/epicurus.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [F. W. J. 谢林（F. W. J. Schelling）](../eras/04-19th-century/friedrich-schelling.md) — 19 世纪哲学（1801 – 1900）
+- [费奇诺、皮科、伊拉斯谟与布鲁诺（Ficino, Pico, Erasmus and Bruno）](../eras/03-early-modern/renaissance-humanists.md) — 近代早期哲学（约 1600 – 1800）
 - [弗朗西斯·培根（Francis Bacon）](../eras/03-early-modern/francis-bacon.md) — 近代早期哲学（约 1600 – 1800）
 - [法兰克福学派（霍克海默与阿多诺）（Frankfurt School (Horkheimer & Adorno)）](../eras/05-20th-century/frankfurt-school.md) — 20 世纪至今（1900 – ）
 - [弗朗茨·布伦塔诺（Franz Brentano）](../eras/04-19th-century/franz-brentano.md) — 19 世纪哲学（1801 – 1900）
 - [弗里德里希·尼采（Friedrich Nietzsche）](../eras/04-19th-century/friedrich-nietzsche.md) — 19 世纪哲学（1801 – 1900）
 - [弗里德里希·施莱尔马赫（Friedrich Schleiermacher）](../eras/04-19th-century/friedrich-schleiermacher.md) — 19 世纪哲学（1801 – 1900）
 - [G. E. 摩尔（G. E. Moore）](../eras/05-20th-century/g-e-moore.md) — 20 世纪至今（1900 – ）
-- [G. W. F. 黑格尔（G.W.F. Hegel）](../eras/04-19th-century/g-w-f-hegel.md) — 19 世纪哲学（1801 – 1900）
 - [乔治·贝克莱（George Berkeley）](../eras/03-early-modern/george-berkeley.md) — 近代早期哲学（约 1600 – 1800）
 - [詹巴蒂斯塔·维科（Giambattista Vico）](../eras/03-early-modern/giambattista-vico.md) — 近代早期哲学（约 1600 – 1800）
 - [吉尔伯特·赖尔（Gilbert Ryle）](../eras/05-20th-century/gilbert-ryle.md) — 20 世纪至今（1900 – ）
+- [吉尔·德勒兹（Gilles Deleuze）](../eras/05-20th-century/gilles-deleuze.md) — 20 世纪至今（1900 – ）
 - [戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz）](../eras/03-early-modern/gottfried-wilhelm-leibniz.md) — 近代早期哲学（约 1600 – 1800）
 - [戈特霍尔德·埃夫拉伊姆·莱辛（Gotthold Ephraim Lessing）](../eras/03-early-modern/gotthold-ephraim-lessing.md) — 近代早期哲学（约 1600 – 1800）
 - [戈特洛布·弗雷格（Gottlob Frege）](../eras/05-20th-century/gottlob-frege.md) — 20 世纪至今（1900 – ）
-- [汉娜·阿伦特（Hannah Arendt）](../eras/05-20th-century/hannah-arendt.md) — 20 世纪至今（1900 – ）
+- [G. W. F. 黑格尔（G.W.F. Hegel）](../eras/04-19th-century/g-w-f-hegel.md) — 19 世纪哲学（1801 – 1900）
+- [H. L. A. 哈特（H. L. A. Hart）](../eras/05-20th-century/h-l-a-hart.md) — 20 世纪至今（1900 – ）
+- [哈曼与赫尔德（Hamann and Herder）](../eras/03-early-modern/hamann-and-herder.md) — 近代早期哲学（约 1600 – 1800）
 - [汉娜·皮特金（Hanna Pitkin）](../eras/05-20th-century/hanna-pitkin.md) — 20 世纪至今（1900 – ）
+- [汉娜·阿伦特（Hannah Arendt）](../eras/05-20th-century/hannah-arendt.md) — 20 世纪至今（1900 – ）
 - [汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer）](../eras/05-20th-century/hans-georg-gadamer.md) — 20 世纪至今（1900 – ）
 - [哈莉特·泰勒·穆勒（Harriet Taylor Mill）](../eras/04-19th-century/harriet-taylor-mill.md) — 19 世纪哲学（1801 – 1900）
 - [亨利·柏格森（Henri Bergson）](../eras/05-20th-century/henri-bergson.md) — 20 世纪至今（1900 – ）
@@ -55,6 +68,7 @@
 - [以弗所的赫拉克利特（Heraclitus of Ephesus）](../eras/01-ancient/heraclitus-of-ephesus.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [宾根的希尔德加德（Hildegard of Bingen）](../eras/02-medieval/hildegard-of-bingen.md) — 中世纪哲学（约 400 – 约 1400）
 - [伊曼努尔·康德（Immanuel Kant）](../eras/03-early-modern/immanuel-kant.md) — 近代早期哲学（约 1600 – 1800）
+- [伊利格瑞、克里斯蒂娃与巴特勒（Irigaray, Kristeva and Butler）](../eras/05-20th-century/feminist-philosophy-after-beauvoir.md) — 20 世纪至今（1900 – ）
 - [艾丽丝·默多克（Iris Murdoch）](../eras/05-20th-century/iris-murdoch.md) — 20 世纪至今（1900 – ）
 - [雅克·德里达（Jacques Derrida）](../eras/05-20th-century/jacques-derrida.md) — 20 世纪至今（1900 – ）
 - [让-雅克·卢梭（Jean-Jacques Rousseau）](../eras/03-early-modern/jean-jacques-rousseau.md) — 近代早期哲学（约 1600 – 1800）
@@ -68,6 +82,7 @@
 - [约翰·司各脱·爱留根纳（John Scotus Eriugena）](../eras/02-medieval/john-scotus-eriugena.md) — 中世纪哲学（约 400 – 约 1400）
 - [约翰·斯图亚特·穆勒（John Stuart Mill）](../eras/04-19th-century/john-stuart-mill.md) — 19 世纪哲学（1801 – 1900）
 - [朱迪斯·贾维斯·汤姆森（Judith Jarvis Thomson）](../eras/05-20th-century/judith-jarvis-thomson.md) — 20 世纪至今（1900 – ）
+- [尤尔根·哈贝马斯（Jürgen Habermas）](../eras/05-20th-century/jurgen-habermas.md) — 20 世纪至今（1900 – ）
 - [卡尔·雅斯贝尔斯（Karl Jaspers）](../eras/05-20th-century/karl-jaspers.md) — 20 世纪至今（1900 – ）
 - [卡尔·马克思（Karl Marx）](../eras/04-19th-century/karl-marx.md) — 19 世纪哲学（1801 – 1900）
 - [卡尔·波普尔（Karl Popper）](../eras/05-20th-century/karl-popper.md) — 20 世纪至今（1900 – ）
@@ -83,32 +98,46 @@
 - [孟德斯鸠（Montesquieu）](../eras/03-early-modern/montesquieu.md) — 近代早期哲学（约 1600 – 1800）
 - [尼科洛·马基雅维利（Niccolò Machiavelli）](../eras/03-early-modern/niccolo-machiavelli.md) — 近代早期哲学（约 1600 – 1800）
 - [库萨的尼古拉（Nicholas of Cusa）](../eras/02-medieval/nicholas-of-cusa.md) — 中世纪哲学（约 400 – 约 1400）
+- [尼古拉·马勒伯朗士（Nicolas Malebranche）](../eras/03-early-modern/nicolas-malebranche.md) — 近代早期哲学（约 1600 – 1800）
 - [埃利亚的巴门尼德（Parmenides of Elea）](../eras/01-ancient/parmenides-of-elea.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [保罗·利科（Paul Ricoeur）](../eras/05-20th-century/paul-ricoeur.md) — 20 世纪至今（1900 – ）
 - [彼得·阿伯拉尔（Peter Abelard）](../eras/02-medieval/peter-abelard.md) — 中世纪哲学（约 400 – 约 1400）
 - [彼得·辛格（Peter Singer）](../eras/05-20th-century/peter-singer.md) — 20 世纪至今（1900 – ）
+- [赖尔之后的心灵哲学（Philosophy of Mind after Ryle）](../eras/05-20th-century/philosophy-of-mind-after-ryle.md) — 20 世纪至今（1900 – ）
 - [柏拉图（Plato）](../eras/01-ancient/plato.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [普罗提诺（Plotinus）](../eras/01-ancient/plotinus.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
+- [波菲利、扬布里科斯、普罗克洛斯与希帕提娅（Porphyry, Iamblichus, Proclus and Hypatia）](../eras/01-ancient/late-neoplatonists.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [普罗塔哥拉与智者派（Protagoras & the Sophists）](../eras/01-ancient/protagoras-and-the-sophists.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
+- [伪狄奥尼修斯与埃克哈特大师（Pseudo-Dionysius and Meister Eckhart）](../eras/02-medieval/pseudo-dionysius-and-eckhart.md) — 中世纪哲学（约 400 – 约 1400）
 - [埃利斯的皮浪与怀疑派（Pyrrho of Elis & the Skeptics）](../eras/01-ancient/pyrrho-of-elis-and-the-skeptics.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [毕达哥拉斯（Pythagoras）](../eras/01-ancient/pythagoras.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [勒内·笛卡尔（René Descartes）](../eras/03-early-modern/rene-descartes.md) — 近代早期哲学（约 1600 – 1800）
+- [罗伯特·诺齐克（Robert Nozick）](../eras/05-20th-century/robert-nozick.md) — 20 世纪至今（1900 – ）
+- [鲁道夫·卡尔纳普（Rudolf Carnap）](../eras/05-20th-century/rudolf-carnap.md) — 20 世纪至今（1900 – ）
+- [索尔·克里普克（Saul Kripke）](../eras/05-20th-century/saul-kripke.md) — 20 世纪至今（1900 – ）
+- [塞拉斯、戴维森、普特南与刘易斯（Sellars, Davidson, Putnam and Lewis）](../eras/05-20th-century/analytic-philosophy-after-quine.md) — 20 世纪至今（1900 – ）
+- [沙夫茨伯里、哈奇森与巴特勒（Shaftesbury, Hutcheson and Butler）](../eras/03-early-modern/moral-sense-school.md) — 近代早期哲学（约 1600 – 1800）
 - [旁栏：费尔巴哈与施蒂纳（Sidebars: Feuerbach & Stirner）](../eras/04-19th-century/sidebars-feuerbach-and-stirner.md) — 19 世纪哲学（1801 – 1900）
 - [西蒙娜·德·波伏娃（Simone de Beauvoir）](../eras/05-20th-century/simone-de-beauvoir.md) — 20 世纪至今（1900 – ）
 - [西蒙娜·韦伊（Simone Weil）](../eras/05-20th-century/simone-weil.md) — 20 世纪至今（1900 – ）
 - [苏格拉底（Socrates）](../eras/01-ancient/socrates.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
-- [苏珊·朗格（Susanne Langer）](../eras/05-20th-century/susanne-langer.md) — 20 世纪至今（1900 – ）
 - [索伦·克尔凯郭尔（Søren Kierkegaard）](../eras/04-19th-century/soren-kierkegaard.md) — 19 世纪哲学（1801 – 1900）
+- [苏亚雷斯与格劳秀斯（Suárez and Grotius）](../eras/03-early-modern/suarez-and-grotius.md) — 近代早期哲学（约 1600 – 1800）
+- [苏珊·朗格（Susanne Langer）](../eras/05-20th-century/susanne-langer.md) — 20 世纪至今（1900 – ）
+- [T. H. 格林与 F. H. 布拉德雷（T. H. Green and F. H. Bradley）](../eras/04-19th-century/british-idealists.md) — 19 世纪哲学（1801 – 1900）
 - [米利都的泰勒斯（Thales of Miletus）](../eras/01-ancient/thales-of-miletus.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [罗马斯多葛派（The Roman Stoics）](../eras/01-ancient/roman-stoics.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [托马斯·阿奎那（Thomas Aquinas）](../eras/02-medieval/thomas-aquinas.md) — 中世纪哲学（约 400 – 约 1400）
 - [托马斯·霍布斯（Thomas Hobbes）](../eras/03-early-modern/thomas-hobbes.md) — 近代早期哲学（约 1600 – 1800）
 - [托马斯·库恩（Thomas Kuhn）](../eras/05-20th-century/thomas-kuhn.md) — 20 世纪至今（1900 – ）
+- [托马斯·里德（Thomas Reid）](../eras/03-early-modern/thomas-reid.md) — 近代早期哲学（约 1600 – 1800）
 - [维也纳学派 / 逻辑实证主义（Vienna Circle / Logical Positivism）](../eras/05-20th-century/vienna-circle-logical-positivism.md) — 20 世纪至今（1900 – ）
+- [杜波依斯与法农（W. E. B. Du Bois and Frantz Fanon）](../eras/05-20th-century/du-bois-and-fanon.md) — 20 世纪至今（1900 – ）
 - [W. V. O. 奎因（W. V. O. Quine）](../eras/05-20th-century/w-v-o-quine.md) — 20 世纪至今（1900 – ）
 - [威廉·詹姆斯（William James）](../eras/04-19th-century/william-james.md) — 19 世纪哲学（1801 – 1900）
 - [奥卡姆的威廉（William of Ockham）](../eras/02-medieval/william-of-ockham.md) — 中世纪哲学（约 400 – 约 1400）
 - [维特根斯坦（早期）（Wittgenstein, Early）](../eras/05-20th-century/wittgenstein-early.md) — 20 世纪至今（1900 – ）
 - [维特根斯坦（晚期）（Wittgenstein, Late）](../eras/05-20th-century/wittgenstein-late.md) — 20 世纪至今（1900 – ）
+- [色诺芬尼与阿那克萨戈拉（Xenophanes and Anaxagoras）](../eras/01-ancient/presocratic-pluralists.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [基提翁的芝诺与斯多葛学派（Zeno of Citium & the Stoics）](../eras/01-ancient/zeno-of-citium-and-the-stoics.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
 - [埃利亚的芝诺（Zeno of Elea）](../eras/01-ancient/zeno-of-elea.md) — 古代哲学（公元前约 600 年 – 约公元 270 年）
