@@ -17,7 +17,7 @@
 
 **回应：** [蒙田](michel-de-montaigne.md)、[亚里士多德](../01-ancient/aristotle.md) · **被谁回应：** [波希米亚的伊丽莎白](early-modern-women-philosophers.md)、[斯宾诺莎](baruch-spinoza.md)、[马勒伯朗士](nicolas-malebranche.md)、[帕斯卡](blaise-pascal.md)、[维科](giambattista-vico.md)
 
-**专题研读：** [笛卡尔档案](../../focus-studies/rene-descartes/README.md)——超出本条目的完整深入研读：按七周阅读顺序安排的《谈谈方法》、全部六个沉思以及《诘难与答辩》；从做梦论证到否认虚空的十五个论证重构；伊丽莎白的反驳单独占一周；从笛卡尔学派到赖尔的接受史；一套卡片。
+**专题研读：** [笛卡尔档案](../../../focus-studies/rene-descartes/README.md)（英文版）——超出本条目的完整深入研读：按七周阅读顺序安排的《谈谈方法》、全部六个沉思以及《诘难与答辩》；从做梦论证到否认虚空的十五个论证重构；伊丽莎白的反驳单独占一周；从笛卡尔学派到赖尔的接受史；一套卡片。
 
 ## 生平
 

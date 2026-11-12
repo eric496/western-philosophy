@@ -1,4 +1,5 @@
 # The Late Neoplatonists: Porphyry, Iamblichus, Proclus and Hypatia
+**English** | [简体中文](../../zh/eras/01-ancient/late-neoplatonists.md)
 
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 

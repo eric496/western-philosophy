@@ -1,4 +1,5 @@
 # The Counter-Enlightenment: Hamann and Herder
+**English** | [简体中文](../../zh/eras/03-early-modern/hamann-and-herder.md)
 
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 

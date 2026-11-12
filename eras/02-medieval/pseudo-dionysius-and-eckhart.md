@@ -1,4 +1,5 @@
 # Negative Theology and Mysticism: Pseudo-Dionysius and Meister Eckhart
+**English** | [简体中文](../../zh/eras/02-medieval/pseudo-dionysius-and-eckhart.md)
 
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
