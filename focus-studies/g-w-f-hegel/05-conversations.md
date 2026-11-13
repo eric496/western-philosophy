@@ -1,4 +1,5 @@
 # Hegel in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/g-w-f-hegel/05-conversations.md)
 
 *Focus study: G. W. F. Hegel · [Dossier home](README.md) · [Library entry](../../eras/04-19th-century/g-w-f-hegel.md)*
 
