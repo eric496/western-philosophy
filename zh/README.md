@@ -24,7 +24,7 @@
 | [`eras/01-ancient/`](eras/01-ancient/) … [`eras/05-20th-century/`](eras/05-20th-century/) | 每个时代一个文件夹：时代概览（该时代的故事、时代内部的阅读顺序、应避开的陷阱），外加每位哲学家或每个学派一个条目文件 |
 | [`philosophers/README.md`](philosophers/README.md) | 全部条目文件按字母顺序排列的清单 |
 | [`study/`](study/) | 作品层面的学习指南（21 份）、核心条目学习问题的完整参考答案，以及 Anki 卡组——按章/节编排的指南，含论证重构、检查点问答与常见误读 |
-| [`focus-studies/`](focus-studies/) | 单一哲学家专题深研，按需而建：每位人物一个多文件专题档案（生平、著作、体系、论证、对话、接受史、逐周学习计划、参考文献，以及该人物专属的卡组）。如何提出申请，见 [`focus-studies/README.md`](focus-studies/README.md) |
+| [`focus-studies/`](focus-studies/) | 单一哲学家专题深研：每位人物一个多文件专题档案（生平、著作、体系、论证、对话、接受史、逐周学习计划、参考文献，以及该人物专属的卡组）。档案的构建方式，见 [`focus-studies/README.md`](focus-studies/README.md) |
 | [`themes.md`](themes.md) | 横向读同一部历史：9 个反复出现的问题（形而上学、认识论、伦理学、政治学、心灵、逻辑与语言、美学、宗教、科学）以及各自的回答者 |
 | [`glossary.md`](glossary.md) | 113 个术语的通俗解释（*archē*、*eudaimonia*、*epoché*、*différance*……） |
 | [`quotes-in-context.md`](quotes-in-context.md) | 46 句名言及其确切出处、说话人、措辞与语境，包括广为流传的误归（"信仰之跃"、杜兰特的"我们反复做什么，我们就是什么"） |

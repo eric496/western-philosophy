@@ -41,7 +41,7 @@
 | 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/baruch-spinoza-05-conversations-zh.mp3) | 21分钟 |
 | 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/baruch-spinoza-06-reception-and-debates-zh.mp3) | 17分钟 |
 
-英文朗读音频版（Helio嗓音，90%速度）存放在`focus-study-audio/baruch-spinoza/`之下，发布于标签`focus-audio-v1`，总时长约**2小时46分钟**，见下表链接：
+英文朗读音频版发布于标签`focus-audio-v1`，总时长约**2小时46分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|

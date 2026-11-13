@@ -33,7 +33,7 @@ The honest total is about **34 hours of scheduled study (roughly 5.5 to 6 hours 
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/plato/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v3) (tag `focus-audio-v3`), linked in the table — about **2 hours 36 minutes** in total:
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v3) (tag `focus-audio-v3`), linked in the table — about **2 hours 36 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|

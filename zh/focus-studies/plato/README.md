@@ -43,7 +43,7 @@
 | 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/plato-05-conversations-zh.mp3) | 27分钟 |
 | 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/plato-06-reception-and-debates-zh.mp3) | 29分钟 |
 
-英文朗读音频版（Helio嗓音，90%速度）存放在`focus-study-audio/plato/`之下，发布于标签`focus-audio-v3`，总时长约**2小时36分钟**，见下表链接：
+英文朗读音频版发布于标签`focus-audio-v3`，总时长约**2小时36分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|

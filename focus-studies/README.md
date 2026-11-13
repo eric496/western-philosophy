@@ -3,9 +3,9 @@
 
 The library entries give every figure a solid, detailed portrait. A **focus study** is the next level down: a complete, multi-file dossier on a single philosopher, built to support weeks of dedicated study — everything a serious reader needs to genuinely know this thinker, in one place.
 
-## How to request one
+## Adding a dossier
 
-Tell Muse: **"Add &lt;philosopher&gt; to focus study"** (any phrasing that names the figure and this folder works). A dossier is then researched, written, verified, and pushed without further check-ins, following the blueprint in [TEMPLATE.md](TEMPLATE.md). One philosopher per request; a focus study can also be requested for a figure who has no library entry yet, in which case the entry is created first and the dossier built on top of it.
+Dossiers are added one philosopher at a time, following the blueprint in [TEMPLATE.md](TEMPLATE.md). A focus study can also be built for a figure who has no library entry yet, in which case the entry is written first and the dossier built on top of it.
 
 ## What a focus study contains
 
@@ -28,9 +28,9 @@ Depth standard: a dossier typically runs **15,000–30,000 words** across its fi
 
 ## Audio companions
 
-Every dossier also has a **narrated audio edition** of its five content files — `01` Life & Times, `03` System & Concepts, `04` Arguments, `05` Conversations, `06` Reception & Debates — for listening when reading time is short. The narration is generated from the dossier text itself (markup, tables, and link clutter stripped; citations spoken naturally — "part one, proposition fourteen," not "E1P14"), in a natural production voice. `02` (editions guidance), `07` (the checklist-plan), and `08` (citations) are not narrated: they are reference apparatus, and make poor listening.
+Every dossier also has a **narrated audio edition** of its five content files — `01` Life & Times, `03` System & Concepts, `04` Arguments, `05` Conversations, `06` Reception & Debates — for listening when reading time is short. The narration follows the dossier text itself (markup, tables, and link clutter stripped; citations spoken naturally — "part one, proposition fourteen," not "E1P14"). `02` (editions guidance), `07` (the checklist-plan), and `08` (citations) are not narrated: they are reference apparatus, and make poor listening.
 
-The audio files live in two places: Eric's Muse library under `focus-study-audio/<philosopher-slug>/` (for listening in the app), and this repository's [Releases page](https://github.com/eric496/western-philosophy/releases) as downloadable assets (tags `focus-audio-v1` for the first three dossiers, `focus-audio-v2` for Kant and Wittgenstein, `focus-audio-v3` for Plato) — the repo's own push channel is text-only, so GitHub Releases are the binaries' home in the repo. Each dossier's `README.md` carries an **Audio companion** section listing its five episodes with durations and download links, so the set belonging to a dossier is always findable from the dossier itself.
+The audio files are published on this repository's [Releases page](https://github.com/eric496/western-philosophy/releases) as downloadable assets (tags `focus-audio-v1` for the first three dossiers, `focus-audio-v2` for Kant and Wittgenstein, `focus-audio-v3` for Plato), since the repository itself holds only text. Each dossier's `README.md` carries an **Audio companion** section listing its five episodes with durations and download links, so the set belonging to a dossier is always findable from the dossier itself.
 
 ## How a focus study fits the rest of the library
 
