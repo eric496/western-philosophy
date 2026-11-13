@@ -69,6 +69,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The soul is immaterial and self-present — it knows itself even in doubt — yet the body's resurrection, not escape, completes the person.
 - **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man, suspended without sensation, still knows himself: self-awareness, and so the soul, are independent of body.
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The human soul is the body's substantial form yet subsists on its own; the separated soul is not the whole person.
+- **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Sense is motion and the thinking thing may be a body; liberty is the absence of external impediment, consistent with the necessity of every volition.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Mind (thinking, unextended) and body (extended, unthinking) are really distinct substances, united in the embodied human.
 - **[Elisabeth of Bohemia](eras/03-early-modern/early-modern-women-philosophers.md)** (1618–1680) — If the soul is unextended, how can it move the body? Contact needs extension, so Descartes owes an account of how an immaterial mind acts on matter.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Mind and body are one and the same thing conceived under the attributes of thought and extension — no interaction problem arises.
@@ -164,6 +165,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — Natural law is our share in eternal law — do good, avoid evil — and the virtues order us to beatitude as our final end.
 - **[Machiavelli](eras/03-early-modern/niccolo-machiavelli.md)** (1469–1527) — The effectual truth: a ruler must learn how *not* to be good, using cruelty and mercy as the occasion demands.
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "To live fittingly" is the great achievement: know yourself, moderate desire, and let the body's wisdom tutor the soul.
+- **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Good is what we desire; there is no highest good, only power after power, and the laws of nature are theorems of peace that reason finds out.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Provisional morality for the journey; the mature ethics crowns his system in *générosité* — the steady resolve to use one's freedom well.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — "Good" and "bad" name what aids or hinders our power of acting; freedom is understanding the affects, and its fruit is blessedness.
 - **[Astell](eras/03-early-modern/early-modern-women-philosophers.md)** (1666–1731) — Women have rational souls like men's; their apparent inferiority comes from denied education, and she asks why, if all men are born free, all women are born slaves.

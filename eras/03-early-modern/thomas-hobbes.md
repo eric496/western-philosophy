@@ -14,11 +14,13 @@
 - **School/tradition:** Materialist and founder of modern social-contract theory
 - **Known for:** Deriving absolute authority from fear and rational self-preservation in *Leviathan*
 
-**Responds to:** [Machiavelli](niccolo-machiavelli.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md), [Shaftesbury, Hutcheson & Butler](moral-sense-school.md)
+**Responds to:** [Aristotle](../01-ancient/aristotle.md), [Machiavelli](niccolo-machiavelli.md), [Suárez & Grotius](suarez-and-grotius.md), [Descartes](rene-descartes.md) · **Answered by:** [Locke](john-locke.md), [Rousseau](jean-jacques-rousseau.md), [Spinoza](baruch-spinoza.md), [Shaftesbury, Hutcheson & Butler](moral-sense-school.md), [Cavendish](early-modern-women-philosophers.md), [Hart](../05-20th-century/h-l-a-hart.md)
+
+**Focus study:** [Hobbes dossier](../../focus-studies/thomas-hobbes/README.md) — a full deep dive beyond this entry: a seven-week reading of the whole argument of *Leviathan*, with the Third Objections, *De Cive* and the Bramhall debate; sixteen argument reconstructions from sense as motion to compatibilism; the reception from Restoration "Hobbism" to the game theorists and the Cambridge contextualists; a card deck.
 
 ## Biography
 
-Thomas Hobbes was born in Westport, Wiltshire, on 5 April 1588 — prematurely, by his own account, his mother frightened by news of the approaching Spanish Armada. He later joked that “fear and I were born twins together” — his own quip, and a fitting emblem for a philosophy centered on fear of violent death.
+Thomas Hobbes was born in Westport, Wiltshire, on 5 April 1588 — prematurely, by his own account, his mother frightened by news of the approaching Spanish Armada. He later wrote, in the English version (1680) of his verse autobiography, that his mother “Did bring forth Twins at once, both Me, and Fear” — his own quip, often paraphrased as “fear and I were born twins”, and a fitting emblem for a philosophy centered on fear of violent death.
 
 Educated at Magdalen Hall, Oxford, Hobbes became tutor to the Cavendish family, earls of Devonshire. That post gave him income, libraries, travel, and political access for life. He met Galileo and moved in Mersenne’s Paris circle with Descartes and Gassendi, but built his system late: after translating Thucydides (1629), his philosophy emerged from his forties onward.
 
@@ -82,7 +84,7 @@ Contemporaries charged atheism, reduction of morality to self-interest, and excu
 - **“Hobbes defended divine-right kingship.”** No: authority rests on covenant, and an assembly can be sovereign.
 - **“Hobbes thought people are simply evil.”** His argument is structural: under uncertainty, even fearful moderates are driven to conflict.
 - **“The sovereign signed a contract and can be fired.”** The covenant is among subjects only — hence no right of deposition.
-- **“The state of nature is his history of early humans.”** It is chiefly an analytical device: remove the common power and see what follows.
+- **“The state of nature is his history of early humans.”** It is chiefly an analytical device: remove the common power and see what follows. It is not purely hypothetical either: Hobbes thinks some peoples live in it now, and that sovereigns stand toward one another in its posture of war (*Leviathan* ch. 13).
 
 ## What to read first
 
