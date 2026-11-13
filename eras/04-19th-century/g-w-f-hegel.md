@@ -14,7 +14,9 @@
 - **School/tradition:** German Idealism; the culmination of post-Kantian philosophy
 - **Known for:** The claim that reality, history, and mind are one self-developing whole, which comes to understand itself through conflict and reconciliation.
 
-**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md), [Green & Bradley](british-idealists.md)
+**Responds to:** [Kant](../03-early-modern/immanuel-kant.md), [Fichte](johann-gottlieb-fichte.md), [Schelling](friedrich-schelling.md) · **Answered by:** [Feuerbach & Stirner](sidebars-feuerbach-and-stirner.md), [Kierkegaard](soren-kierkegaard.md), [Marx](karl-marx.md), [Green & Bradley](british-idealists.md), [Schopenhauer](arthur-schopenhauer.md)
+
+**Focus study:** [Hegel dossier](../../focus-studies/g-w-f-hegel/README.md) — a full deep dive beyond this entry: a nine-week guided reading of the *Phenomenology* from the Preface through lordship and bondage, the unhappy consciousness, ethical life and the Terror, with the *Encyclopaedia Logic*, the *Philosophy of Right* and the *Philosophy of History*; sixteen argument reconstructions from "the true is the whole" to world history; the reception from the Hegelian school and Kojève to the metaphysical and non-metaphysical readings; a card deck.
 
 ## Biography
 
@@ -22,7 +24,7 @@ Georg Wilhelm Friedrich Hegel was born in Stuttgart in 1770, the son of a revenu
 
 After university Hegel worked for years as a private tutor in Berne and Frankfurt, quietly drafting manuscripts on religion and politics. His friend Schelling, by then famous, helped him get a post at the University of Jena in 1801. There, while Napoleon's army approached the city, Hegel finished his first masterpiece, the *Phenomenology of Spirit* (1807). He famously wrote to a friend that he had seen Napoleon — "this world-soul" — riding out of Jena "astride a horse" the day before the battle that scattered the university.
 
-The war years made him a school headmaster in Nuremberg (1808–1816), where he married Marie von Tucher and wrote his most forbidding work, the *Science of Logic*. Appointments at Heidelberg (1816) and then Berlin (1818) made him the dominant philosopher of the German-speaking world; students crossed Europe to hear his lectures on history, art, religion, and law. He died suddenly in 1831, probably of cholera, during an epidemic in Berlin. His lecture courses were published posthumously from student notes, which is why several famous "Hegel texts" are really careful reconstructions of what audiences heard.
+The war years made him a school headmaster in Nuremberg (1808–1816), where he married Marie von Tucher and wrote his most forbidding work, the *Science of Logic*. Appointments at Heidelberg (1816) and then Berlin (1818) made him the dominant philosopher of the German-speaking world; students crossed Europe to hear his lectures on history, art, religion, and law. He died suddenly in 1831, during a cholera epidemic in Berlin; his physicians certified cholera, though some modern scholars think another gastrointestinal illness more likely. His lecture courses were published posthumously from student notes, which is why several famous "Hegel texts" are really careful reconstructions of what audiences heard.
 
 ## Major theories and concepts
 
@@ -30,9 +32,9 @@ The war years made him a school headmaster in Nuremberg (1808–1816), where he 
 
 Hegel's core method is that a concept, institution, or form of life develops by generating its own internal opposition. A position taken by itself proves one-sided; thinking or history presses beyond it; and the result is not mere destruction but *Aufhebung* — "sublation" — a German word Hegel exploited for its triple sense of cancelling, preserving, and lifting up. The earlier stage is negated as a final answer, yet its truth is carried into a richer whole.
 
-A simple illustration: the bud disappears in the blossom, and the blossom is in turn displaced by the fruit. Each stage "refutes" the previous one, yet the plant is nothing but the whole sequence; you cannot understand the fruit without the stages it sublates. Hegel insists this is not a mechanical formula. The popular "thesis–antithesis–synthesis" triad is a textbook simplification (associated more with Fichte); Hegel's own terms run more like abstract, negative, concrete.
+A simple illustration: the bud disappears in the blossom, and the blossom is in turn displaced by the fruit. Each stage "refutes" the previous one, yet the plant is nothing but the whole sequence; you cannot understand the fruit without the stages it sublates. Hegel insists this is not a mechanical formula. The popular "thesis–antithesis–synthesis" triad is not Hegel's: it is Fichte's vocabulary, which Hegel did not use for his own method, popularized as a Hegelian schema by Heinrich Moritz Chalybäus in 1837. Hegel's own terms run more like abstract, negative, concrete.
 
-### Absolute Spirit (Geist)
+### Spirit (Geist) and absolute spirit
 
 *Geist* — translated "Spirit" or "Mind" — is Hegel's name for reality understood as a self-developing whole that comes to know itself. Spirit externalises itself in nature, then returns to itself in human beings: in our subjective minds, in society and the state (objective spirit), and finally in art, religion, and philosophy (absolute spirit), where the whole understands what it is. God, on this view, is not a craftsman outside the world but the world's own rational life coming to self-awareness in human culture. Whether this makes Hegel a theist, a pantheist, or a kind of humanist has been debated ever since.
 
@@ -88,7 +90,7 @@ Hegel made philosophy irretrievably historical and social. Before him, Kant had 
 
 ## Impact and legacy
 
-The aftershocks are everywhere. Hegel's followers split into left and right wings; Feuerbach and Marx turned his dialectic materialist, Kierkegaard rebelled against the system in the name of the individual, and both rebellions are unthinkable without him. [British Idealism](british-idealists.md) (Bradley, Green) dominated Anglophone philosophy for a generation. In the 20th century, Kojève's Paris lectures shaped Sartre and French thought; the Frankfurt School, hermeneutics, communitarianism, and contemporary theories of recognition (Honneth, Taylor) all work in his shadow. Even his opponents define themselves against him — a sign of his centrality.
+The aftershocks are everywhere. Hegel's followers split into right, centre and left wings; Feuerbach and Marx turned his dialectic materialist, Kierkegaard rebelled against the system in the name of the individual, and both rebellions are unthinkable without him. [British Idealism](british-idealists.md) (Bradley, Green) dominated Anglophone philosophy for a generation. In the 20th century, Kojève's Paris lectures shaped Sartre and French thought; the Frankfurt School, hermeneutics, communitarianism, and contemporary theories of recognition (Honneth, Taylor) all work in his shadow. Even his opponents define themselves against him — a sign of his centrality.
 
 ## Criticisms and debates
 
