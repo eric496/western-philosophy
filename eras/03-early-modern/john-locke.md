@@ -14,7 +14,9 @@
 - **School/tradition:** Empiricism; early liberal political theory
 - **Known for:** All ideas come from experience; personal identity rests on consciousness; legitimate government rests on consent and protects natural rights to life, liberty, and property
 
-**Responds to:** [Hobbes](thomas-hobbes.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Astell](early-modern-women-philosophers.md), [Reid](thomas-reid.md)
+**Responds to:** [Hobbes](thomas-hobbes.md), [Descartes](rene-descartes.md), [Suárez & Grotius](suarez-and-grotius.md) · **Answered by:** [Berkeley](george-berkeley.md), [Hume](david-hume.md), [Leibniz](gottfried-wilhelm-leibniz.md), [Astell](early-modern-women-philosophers.md), [Reid](thomas-reid.md), [Shaftesbury, Hutcheson & Butler](moral-sense-school.md), [Bayle & Voltaire](bayle-and-voltaire.md), [Diderot](denis-diderot.md), [Burke](edmund-burke.md), [Rawls](../05-20th-century/john-rawls.md), [Nozick](../05-20th-century/robert-nozick.md)
+
+**Focus study:** [Locke dossier](../../focus-studies/john-locke/README.md) — a full deep dive beyond this entry: a seven-week reading of the *Essay* from innate ideas to enthusiasm, with the *Two Treatises* and the *Letter Concerning Toleration*; sixteen argument reconstructions from the case against innate principles to the right of resistance; the reception from Stillingfleet and the American founders to Laslett, Macpherson and Tully; a card deck.
 
 ## Biography
 
@@ -22,7 +24,7 @@ Locke was born in 1632 in Wrington, Somerset, son of a country attorney who foug
 
 In 1667 he entered the household of Anthony Ashley Cooper, later Earl of Shaftesbury — first in a medical capacity, then as secretary and political adviser. Through Shaftesbury he was drawn into Restoration politics, colonial administration, and trade. Philosophy and politics were never separate for him: authority, consent, property, and toleration were live party questions.
 
-When Shaftesbury fell and was implicated in plots against Charles II, Locke’s position became dangerous. In 1683 he fled to the Netherlands, living in exile until 1689 under threat of extradition, and bringing much of his major work to final form. He returned after the Glorious Revolution brought William and Mary to the throne. That year, 1689, saw the *Essay Concerning Human Understanding*, the *Two Treatises of Government*, and the *Letter Concerning Toleration* all published. Despite chronic asthma, he remained active — serving on the Board of Trade and writing on education, money, and Christianity — spending his last years at Oates in Essex, in Sir Francis Masham’s household, where he died in 1704.
+When Shaftesbury fell and was implicated in plots against Charles II, Locke’s position became dangerous. In 1683 he fled to the Netherlands, living in exile until 1689 under threat of extradition, and bringing much of his major work to final form. He returned in February 1689, crossing with Princess Mary, as the Glorious Revolution brought William and Mary to the throne. That year, 1689, saw the *Essay Concerning Human Understanding*, the *Two Treatises of Government*, and the *Letter Concerning Toleration* all published. Despite chronic asthma, he remained active — serving on the Board of Trade and writing on education, money, and Christianity — spending his last years at Oates in Essex, in Sir Francis Masham’s household, where he died in 1704.
 
 ## Major theories and concepts
 

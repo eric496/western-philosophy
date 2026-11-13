@@ -73,6 +73,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Mind (thinking, unextended) and body (extended, unthinking) are really distinct substances, united in the embodied human.
 - **[Elisabeth of Bohemia](eras/03-early-modern/early-modern-women-philosophers.md)** (1618–1680) — If the soul is unextended, how can it move the body? Contact needs extension, so Descartes owes an account of how an immaterial mind acts on matter.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Mind and body are one and the same thing conceived under the attributes of thought and extension — no interaction problem arises.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — We cannot know whether God has given some systems of matter the power to think; freedom is the power to act or forbear as the mind prefers, with the power to suspend desire while it deliberates.
 - **[Malebranche](eras/03-early-modern/nicolas-malebranche.md)** (1638–1715) — Mind and body never act on each other: God is the only true cause, and we see ideas in God.
 - **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Windowless monads — perceiving, mind-like substances — keep body and soul in step by pre-established harmony, not causal traffic.
 - **[Berkeley](eras/03-early-modern/george-berkeley.md)** (1685–1753) — There are no material bodies at all: only spirits, and the ideas they perceive, sustained in being by God's perception.
@@ -344,6 +345,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Bacon](eras/03-early-modern/francis-bacon.md)** (1561–1626) — The Great Instauration: clear away the idols, compile natural histories, and let induction rebuild learning — knowledge as power.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — One method for all the sciences, on the model of mathematics: intuition and deduction, and nature as a machine of extension and motion.
 - **[Spinoza](eras/03-early-modern/baruch-spinoza.md)** (1632–1677) — Nature is to be explained geometrically, without final causes: superstition begins where purposes are projected onto necessity.
+- **[Locke](eras/03-early-modern/john-locke.md)** (1632–1704) — The under-labourer to Boyle and Newton: the corpuscular hypothesis explains, but real essences stay hidden, so natural philosophy reaches probability, not science.
 - **[Leibniz](eras/03-early-modern/gottfried-wilhelm-leibniz.md)** (1646–1716) — Dynamics needs *vis viva*, not Descartes's quantity of motion: metaphysics here corrects physics, not the reverse.
 - **[Vico](eras/03-early-modern/giambattista-vico.md)** (1668–1744) — *Verum factum*: we can truly know what we have made — so the civil world, not nature, is the human science's proper object.
 - **[Émilie du Châtelet](eras/03-early-modern/emilie-du-chatelet.md)** (1706–1749) — Hypotheses are legitimate instruments of physics, and *vis viva* (*mv*²) is motion's true measure — argued in print against the establishment.
