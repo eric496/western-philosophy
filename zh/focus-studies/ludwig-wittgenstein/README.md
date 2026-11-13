@@ -47,7 +47,7 @@
 | 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/ludwig-wittgenstein-05-conversations-zh.mp3) | 18分钟 |
 | 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v1/ludwig-wittgenstein-06-reception-and-debates-zh.mp3) | 21分钟 |
 
-英文朗读音频版（Helio嗓音，90%速度）存放在`focus-study-audio/ludwig-wittgenstein/`之下，发布于标签`focus-audio-v2`，总时长约**2小时47分钟**，见下表链接：
+英文朗读音频版发布于标签`focus-audio-v2`，总时长约**2小时47分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|

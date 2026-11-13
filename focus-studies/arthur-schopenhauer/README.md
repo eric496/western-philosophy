@@ -31,7 +31,7 @@ The library's [learning path](../../learning-path.md) meets Schopenhauer in **St
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition (Helio voice, 90% speed), stored in Eric's Muse library under `focus-study-audio/arthur-schopenhauer/` and published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v1) (tag `focus-audio-v1`), linked in the table — about **2 hours 10 minutes** in total:
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v1) (tag `focus-audio-v1`), linked in the table — about **2 hours 10 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|
