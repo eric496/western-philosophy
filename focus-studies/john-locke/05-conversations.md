@@ -1,4 +1,5 @@
 # Locke in Conversation — Backward, Sideways, Forward
+**English** | [简体中文](../../zh/focus-studies/john-locke/05-conversations.md)
 
 *Focus study: John Locke · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/john-locke.md) · [Study guide](../../study/locke-essay.md)*
 

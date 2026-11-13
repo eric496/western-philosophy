@@ -1,4 +1,5 @@
 # Bibliography: John Locke
+**English** | [简体中文](../../zh/focus-studies/john-locke/08-bibliography.md)
 
 *Focus study: John Locke · [Dossier home](README.md) · Library entry: [John Locke](../../eras/03-early-modern/john-locke.md) · Study guide: [*Essay Concerning Human Understanding*](../../study/locke-essay.md) · Edition rulings: [02-works-and-texts.md](02-works-and-texts.md)*
 

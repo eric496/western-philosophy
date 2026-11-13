@@ -1,4 +1,5 @@
 # Life and Times: Wrington, Oxford, Exeter House, Montpellier, Rotterdam, Oates
+**English** | [简体中文](../../zh/focus-studies/john-locke/01-life-and-times.md)
 
 
 John Locke lived from 1632 to 1704, and his life runs alongside the English century of revolution. He was ten when the Civil War began and a schoolboy a short walk from Whitehall when Charles I was executed in 1649; he was a young Oxford don at the Restoration of 1660; he spent the 1670s and early 1680s at the elbow of the most dangerous politician in England, the first Earl of Shaftesbury; he fled to Holland in 1683 and came home with the Revolution in February 1689; and in the fifteen years left to him he became the leading philosopher in Europe and a working official of the new regime. He came to print late. Apart from occasional verses and short pieces, nothing of his appeared until he was fifty-seven, and then, within a few months of 1689–90, came the *Essay concerning Human Understanding*, the *Two Treatises of Government* and *A Letter concerning Toleration*. Two of the three were anonymous.

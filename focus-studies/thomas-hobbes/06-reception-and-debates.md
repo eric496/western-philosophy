@@ -1,4 +1,5 @@
 # Hobbes Received: Monster, Positivist, Bourgeois, Game Theorist, and the Quarrels Still Open
+**English** | [简体中文](../../zh/focus-studies/thomas-hobbes/06-reception-and-debates.md)
 
 *Focus study: Thomas Hobbes · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/thomas-hobbes.md) · [Study guide](../../study/hobbes-leviathan.md)*
 

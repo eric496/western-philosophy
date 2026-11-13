@@ -17,6 +17,8 @@
 
 **回应：** [霍布斯](thomas-hobbes.md)、[笛卡尔](rene-descartes.md)、[苏亚雷斯与格劳秀斯](suarez-and-grotius.md) · **被以下回应：** [贝克莱](george-berkeley.md)、[休谟](david-hume.md)、[莱布尼茨](gottfried-wilhelm-leibniz.md)、[阿斯特尔](early-modern-women-philosophers.md)、[里德](thomas-reid.md)、[沙夫茨伯里、哈奇森与巴特勒](moral-sense-school.md)、[培尔与伏尔泰](bayle-and-voltaire.md)、[狄德罗](denis-diderot.md)、[柏克](edmund-burke.md)、[罗尔斯](../05-20th-century/john-rawls.md)、[诺齐克](../05-20th-century/robert-nozick.md)
 
+**专题研读：** [洛克档案](../../focus-studies/john-locke/README.md)——超出本条目的完整深入研读：用七周从天赋观念读到狂热，通读《人类理解论》，并读《政府论》两篇与《论宗教宽容》；从反对天赋原则到反抗权的十六个论证重构；从斯蒂林弗利特与美国建国者到拉斯莱特、麦克弗森与塔利的接受史；一套卡片。
+
 ## 生平
 
 洛克于1632年生于萨默塞特郡的林顿（Wrington），父亲是一位乡村律师，曾在内战中为议会而战。他在威斯敏斯特学校和牛津大学基督教堂学院受教育，后留校教授希腊语、修辞学和道德哲学，但对经院式课程日益不满。他转向新的实验科学和医学，与罗伯特·波义耳以及医生托马斯·西德纳姆（Thomas Sydenham）共事。他与医学和科学的交往塑造了他的知识风格：仔细观察，不信任在证据之前构建起来的宏大体系。

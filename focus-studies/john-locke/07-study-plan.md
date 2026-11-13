@@ -1,4 +1,5 @@
 # Study Plan — Locke in Seven Weeks
+**English** | [简体中文](../../zh/focus-studies/john-locke/07-study-plan.md)
 
 ## What this plan is, and where it plugs in
 

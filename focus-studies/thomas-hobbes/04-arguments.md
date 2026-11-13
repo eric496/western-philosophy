@@ -1,4 +1,5 @@
 # Hobbes: The Arguments
+**English** | [简体中文](../../zh/focus-studies/thomas-hobbes/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [Thomas Hobbes](../../eras/03-early-modern/thomas-hobbes.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Study guide: [*Leviathan* chs. 13–17 and following](../../study/hobbes-leviathan.md)*
 

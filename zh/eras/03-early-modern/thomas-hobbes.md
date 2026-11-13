@@ -17,6 +17,8 @@
 
 **回应：** [亚里士多德](../01-ancient/aristotle.md)、[马基雅维利](niccolo-machiavelli.md)、[苏亚雷斯与格劳秀斯](suarez-and-grotius.md)、[笛卡尔](rene-descartes.md) · **被以下回应：** [洛克](john-locke.md)、[卢梭](jean-jacques-rousseau.md)、[斯宾诺莎](baruch-spinoza.md)、[沙夫茨伯里、哈奇森与巴特勒](moral-sense-school.md)、[卡文迪什](early-modern-women-philosophers.md)、[哈特](../05-20th-century/h-l-a-hart.md)
 
+**专题研读：** [霍布斯档案](../../focus-studies/thomas-hobbes/README.md)——超出本条目的完整深入研读：用七周读完《利维坦》的整个论证，辅以对笛卡尔的第三组反驳、《论公民》以及与布拉姆霍尔的论争；从感觉即运动到相容论的十六个论证重构；从王政复辟时期的"霍布斯主义"到博弈论者与剑桥语境学派的接受史；一套卡片。
+
 ## 生平
 
 托马斯·霍布斯于1588年4月5日生于威尔特郡的韦斯特波特——据他自己的说法，他早产了：母亲被西班牙无敌舰队逼近的消息所惊吓。他后来在其诗体自传的英译本（1680 年）中写道，他的母亲"Did bring forth Twins at once, both Me, and Fear"（一胎生下双生子：我，和恐惧）——这是他自己的俏皮话，常被转述为"恐惧和我是同胞双生子"，也是一门以对暴力死亡的恐惧为核心的哲学恰如其分的象征。
