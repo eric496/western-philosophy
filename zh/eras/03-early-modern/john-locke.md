@@ -15,7 +15,7 @@
 - **学派/传统：** 经验论；早期自由主义政治理论
 - **以何著称：** 一切观念都来自经验；人格同一性建立在意识之上；合法政府建立在同意之上，并保护生命、自由与财产的自然权利
 
-**回应：** [霍布斯](thomas-hobbes.md) · **被以下回应：** [贝克莱](george-berkeley.md)、[休谟](david-hume.md)、[莱布尼茨](gottfried-wilhelm-leibniz.md)、[阿斯特尔](early-modern-women-philosophers.md)、[里德](thomas-reid.md)
+**回应：** [霍布斯](thomas-hobbes.md)、[笛卡尔](rene-descartes.md)、[苏亚雷斯与格劳秀斯](suarez-and-grotius.md) · **被以下回应：** [贝克莱](george-berkeley.md)、[休谟](david-hume.md)、[莱布尼茨](gottfried-wilhelm-leibniz.md)、[阿斯特尔](early-modern-women-philosophers.md)、[里德](thomas-reid.md)、[沙夫茨伯里、哈奇森与巴特勒](moral-sense-school.md)、[培尔与伏尔泰](bayle-and-voltaire.md)、[狄德罗](denis-diderot.md)、[柏克](edmund-burke.md)、[罗尔斯](../05-20th-century/john-rawls.md)、[诺齐克](../05-20th-century/robert-nozick.md)
 
 ## 生平
 
@@ -23,7 +23,7 @@
 
 1667年，他进入安东尼·阿什利·库珀——后来的沙夫茨伯里伯爵——的府邸，先是担任医务方面的职务，后来成为秘书和政治顾问。通过沙夫茨伯里，他被卷入复辟时期的政治、殖民地管理和贸易之中。对洛克来说，哲学与政治从来都不是分开的：权威、同意、财产和宽容都是当下政党政治的活问题。
 
-当沙夫茨伯里失势并被牵连进反对查理二世的阴谋时，洛克的处境变得危险。1683年他逃往荷兰，在引渡的威胁之下流亡生活直到1689年，并把他的大部分主要著作打磨成最终形态。光荣革命把威廉和玛丽送上王位之后，他回到了英格兰。就在1689年这一年，《人类理解论》（*Essay Concerning Human Understanding*）、《政府论》（*Two Treatises of Government*）和《论宗教宽容》（*Letter Concerning Toleration*）全部出版。尽管患有慢性哮喘，他仍然活跃——在贸易委员会任职，并写作教育、货币和基督教方面的著作——最后几年在埃塞克斯郡的奥茨（Oates）度过，住在弗朗西斯·马沙姆爵士（Sir Francis Masham）家中，1704年在那里去世。
+当沙夫茨伯里失势并被牵连进反对查理二世的阴谋时，洛克的处境变得危险。1683年他逃往荷兰，在引渡的威胁之下流亡生活直到1689年，并把他的大部分主要著作打磨成最终形态。他于 1689 年 2 月与玛丽公主同船回到英格兰，其时光荣革命正把威廉和玛丽送上王位。就在1689年这一年，《人类理解论》（*Essay Concerning Human Understanding*）、《政府论》（*Two Treatises of Government*）和《论宗教宽容》（*Letter Concerning Toleration*）全部出版。尽管患有慢性哮喘，他仍然活跃——在贸易委员会任职，并写作教育、货币和基督教方面的著作——最后几年在埃塞克斯郡的奥茨（Oates）度过，住在弗朗西斯·马沙姆爵士（Sir Francis Masham）家中，1704年在那里去世。
 
 ## 主要理论与概念
 

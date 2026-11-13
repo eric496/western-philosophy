@@ -29,3 +29,9 @@ first interrupted my dogmatic slumber
 you have not received
 # Aristotle dossier: a quoted section title, not a quotation; it resembles ST Ia Q76 a1 in the Aquinas dossier
 soul as the form of the living body
+# Locke, Essay IV.vii.9 (the general triangle): Berkeley's Principles prints "scalenon", the Gutenberg Essay quoted in the Locke dossier "scalinon"
+neither oblique nor rectangle
+# Locke, Essay I.i.2 (the purpose of the Essay): the study guide follows Nidditch ("enquire"), the Locke dossier the Gutenberg text ("inquire", small capitals)
+original certainty and extent of human knowledge
+# Locke dossier: two different article titles by John Dunn, not quotations
+in the political theory of john locke
