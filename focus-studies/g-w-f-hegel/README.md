@@ -1,4 +1,5 @@
 # Focus Study: G. W. F. Hegel (1770 – 1831)
+**English** | [简体中文](../../zh/focus-studies/g-w-f-hegel/README.md)
 
 ## The figure in brief
 

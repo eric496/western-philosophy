@@ -1,4 +1,5 @@
 # Hegel: The Arguments
+**English** | [简体中文](../../zh/focus-studies/g-w-f-hegel/04-arguments.md)
 
 *Focus study · [Dossier home](README.md) · Library entry: [G. W. F. Hegel](../../eras/04-19th-century/g-w-f-hegel.md) · The system these arguments build: [03-system-and-concepts.md](03-system-and-concepts.md) · Learning path: [Stage 4](../../learning-path.md)*
 

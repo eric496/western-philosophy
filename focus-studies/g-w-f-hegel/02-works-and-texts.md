@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/g-w-f-hegel/02-works-and-texts.md)
 
 *Focus study: G. W. F. Hegel · [Dossier home](README.md) · Library entry: [G.W.F. Hegel](../../eras/04-19th-century/g-w-f-hegel.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

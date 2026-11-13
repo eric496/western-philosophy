@@ -1,4 +1,5 @@
 # Hegel Received: Right and Left, Inverted, Eclipsed, Rehabilitated, and the Quarrels Still Open
+**English** | [简体中文](../../zh/focus-studies/g-w-f-hegel/06-reception-and-debates.md)
 
 *Focus study: G. W. F. Hegel · [Dossier home](README.md) · [Library entry](../../eras/04-19th-century/g-w-f-hegel.md) · [Arguments, part 1](04-arguments.md) · [Arguments, part 2](04-arguments.md)*
 
