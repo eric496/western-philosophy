@@ -35,3 +35,5 @@ neither oblique nor rectangle
 original certainty and extent of human knowledge
 # Locke dossier: two different article titles by John Dunn, not quotations
 in the political theory of john locke
+# Hegel, Philosophy of Right, Preface: the modern rendering ("rational is actual", library pages) and Dyde's 1896 translation ("rational is real", Hegel dossier)
+what is rational is
