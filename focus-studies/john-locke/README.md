@@ -1,4 +1,5 @@
 # Focus Study: John Locke (1632 – 1704)
+**English** | [简体中文](../../zh/focus-studies/john-locke/README.md)
 
 ## The figure in brief
 

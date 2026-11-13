@@ -1,4 +1,5 @@
 # Focus Study: Thomas Hobbes (1588 – 1679)
+**English** | [简体中文](../../zh/focus-studies/thomas-hobbes/README.md)
 
 ## The figure in brief
 

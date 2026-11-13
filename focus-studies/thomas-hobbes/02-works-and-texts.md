@@ -1,4 +1,5 @@
 # Works and Texts: The Corpus in Reading Order
+**English** | [简体中文](../../zh/focus-studies/thomas-hobbes/02-works-and-texts.md)
 
 *Focus study: Thomas Hobbes · [Dossier home](README.md) · Library entry: [Thomas Hobbes](../../eras/03-early-modern/thomas-hobbes.md) · Study guide: [*Leviathan* chs. 13–17+](../../study/hobbes-leviathan.md) · Arguments in full: [04-arguments.md](04-arguments.md)*
 

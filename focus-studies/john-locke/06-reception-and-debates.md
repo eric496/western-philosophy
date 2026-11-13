@@ -1,4 +1,5 @@
 # Locke Received: Oracle of the Whigs, Patron of the Philosophes, Founder, Capitalist, Colonist, and the Quarrels Still Open
+**English** | [简体中文](../../zh/focus-studies/john-locke/06-reception-and-debates.md)
 
 *Focus study: John Locke · [Dossier home](README.md) · [Library entry](../../eras/03-early-modern/john-locke.md) · [Study guide](../../study/locke-essay.md)*
 
