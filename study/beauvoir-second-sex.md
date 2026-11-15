@@ -11,7 +11,7 @@ Read the translation by Constance Borde and Sheila Malovany-Chevallier (Knopf, 2
 
 Two practical notes on the text itself. First, *The Second Sex* is long — roughly 800 pages in the complete translation — and uneven by design: Beauvoir assembles biology, psychoanalysis, history, economics, literature, and lived testimony, and tests each against the others. Expect a case built from many kinds of evidence, not a single linear argument. Second, the book's famous sentence — "One is not born, but rather becomes, woman" — opens Volume II, not the Introduction. The Introduction prepares it, and this guide follows that order.
 
-On quotations: where a short phrase is quoted, it follows the Borde and Malovany-Chevallier wording. The guide otherwise paraphrases, so your reconstruction work is in your own words — as the learning path requires.
+On quotations: where a short phrase is quoted, it follows the Borde and Malovany-Chevallier wording — except the famous sentence, given in its familiar form with "a woman" (Borde and Malovany-Chevallier print "becomes, woman"). The guide otherwise paraphrases, so your reconstruction work is in your own words — as the learning path requires.
 
 ## How to use this guide
 
