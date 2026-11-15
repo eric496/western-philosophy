@@ -389,7 +389,7 @@
 | 7 | [库恩](eras/05-20th-century/thomas-kuhn.md) | ○ | 地图级：《科学革命的结构》(*The Structure of Scientific Revolutions*)（范式、常规科学、不可通约性）经由词条 + Kenny/SEP。整本书阅读是一个出色的计划后项目；在阶段 5 之内，它会挤掉维特根斯坦。 |
 | 8 | [奎因](eras/05-20th-century/w-v-o-quine.md) | ● | 《经验主义的两个教条》（“Two Dogmas of Empiricism”，论文）——放在这里，在康德*和*休谟之后，因为它的靶子（分析/综合之分）是他们的。版本：收于 *From a Logical Point of View*（Harvard UP）。地图级后续：[塞拉斯、戴维森、普特南与刘易斯](eras/05-20th-century/analytic-philosophy-after-quine.md)，下一代对奎因的回答；若时间允许，普特南的《“意义”的意义》（“The Meaning of 'Meaning'”，1975）是最好的单篇论文。 |
 | 9 | 晚期 [维特根斯坦](eras/05-20th-century/wittgenstein-late.md) | ● | 《哲学研究》(*Philosophical Investigations*) §§1–38、89–133、243–311（私人语言论证）。版本：Anscombe 译，Hacker & Schulte 修订，第 4 版（Wiley-Blackwell，双语版）。**不要在第 4–5 行之前读**：《哲学研究》是一场*反对*《逻辑哲学论》和实证主义者的论证；没有它们，你读的是一通电话的一半。 | 专题研读接续：[维特根斯坦档案](focus-studies/ludwig-wittgenstein/README.md)（始于第 4 行）给这次阅读四周时间，以图书馆指南为伴。
-| 10 | [赖尔](eras/05-20th-century/gilbert-ryle.md)、[杜威](eras/05-20th-century/john-dewey.md)、[哈特](eras/05-20th-century/h-l-a-hart.md)、[帕菲特](eras/05-20th-century/derek-parfit.md) | ○ | 地图级。帕菲特在三人中得到最完整的地图处理：个人同一性（“同一性不是要紧的东西”）和非同一性问题，经由 SEP/IEP 总结 + 词条——他是心灵线索与伦理线索的交汇处，也是结业项目最有用的当代声音。《理与人》(*Reasons and Persons*) 选篇是一个点名的计划后项目。哈特是政治线索的法哲学：《法律的概念》(*The Concept of Law*) 第 1–6 章把牛津日常语言方法用于约翰·奥斯丁的命令理论（源自边沁，根子在霍布斯），并为罗尔斯做了铺垫。 |
+| 10 | [赖尔](eras/05-20th-century/gilbert-ryle.md)、[杜威](eras/05-20th-century/john-dewey.md)、[哈特](eras/05-20th-century/h-l-a-hart.md)、[帕菲特](eras/05-20th-century/derek-parfit.md) | ○ | 地图级。帕菲特在四人中得到最完整的地图处理：个人同一性（“同一性不是要紧的东西”）和非同一性问题，经由 SEP/IEP 总结 + 词条——他是心灵线索与伦理线索的交汇处，也是结业项目最有用的当代声音。《理与人》(*Reasons and Persons*) 选篇是一个点名的计划后项目。哈特是政治线索的法哲学：《法律的概念》(*The Concept of Law*) 第 1–6 章把牛津日常语言方法用于约翰·奥斯丁的命令理论（源自边沁，根子在霍布斯），并为罗尔斯做了铺垫。 |
 
 ### 9.2 阶段 5B——大陆哲学与应用哲学（7 周）
 

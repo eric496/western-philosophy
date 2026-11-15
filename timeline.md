@@ -1,7 +1,7 @@
 # Timeline — 2,500 Years on One Page
 **English** | [简体中文](zh/timeline.md)
 
-Broadly chronological order (the same order as [`index.md`](index.md)). Overlapping lifespans are where the interesting arguments happen — watch for teacher→student chains: Socrates→Plato→Aristotle; Kant→Hegel; Husserl→Heidegger→Sartre/Beauvoir→Arendt.
+Broadly chronological order (the same order as [`index.md`](index.md)). Overlapping lifespans are where the interesting arguments happen — watch for teacher→student and influence chains: Socrates→Plato→Aristotle; Kant→Hegel; Husserl→Heidegger→Sartre/Beauvoir→Arendt.
 
 - **c.624–c.546 BCE — [Thales](eras/01-ancient/thales-of-miletus.md)** (Ancient / Milesian): archē, natural explanation
 - **c.570–c.495 BCE — [Pythagoras](eras/01-ancient/pythagoras.md)** (Ancient / Pythagorean): Number, harmony, soul
