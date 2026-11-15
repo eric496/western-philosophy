@@ -86,7 +86,7 @@
 
 ### 坎贝尔论神迹
 
-乔治·坎贝尔（George Campbell），后来的阿伯丁马歇尔学院（Marischal College）院长，在《论神迹》（*A Dissertation on Miracles*，1762）中回答了EHU 10。他论证说，对证言的信任是一种原始的倾向，不是从对其可靠性的经验中学来的，因此不能简单地把对自然的经验与之相对抗。休谟通过休·布莱尔看到了手稿，并拒绝在印刷品中作答（1761–62年的书信，格雷格编本）。坎贝尔把证言视为独立证据的观点，预示了现代的证言认识论（第5周，[04-arguments.md](04-arguments.md)，论证10）。
+乔治·坎贝尔（George Campbell），1759年起任阿伯丁马歇尔学院（Marischal College）院长，在《论神迹》（*A Dissertation on Miracles*，1762）中回答了EHU 10。他论证说，对证言的信任是一种原始的倾向，不是从对其可靠性的经验中学来的，因此不能简单地把对自然的经验与之相对抗。休谟通过休·布莱尔看到了手稿，并拒绝在印刷品中作答（1761–62年的书信，格雷格编本）。坎贝尔把证言视为独立证据的观点，预示了现代的证言认识论（第5周，[04-arguments.md](04-arguments.md)，论证10）。
 
 ### 卢梭
 
@@ -130,7 +130,7 @@
 
 J·L·麦基（J. L. Mackie）就休谟的两个主要论题都有著述，即《宇宙的黏合剂》（*The Cement of the Universe*，1974）和《休谟的道德理论》（*Hume's Moral Theory*，1980）。他的《伦理学：发明对与错》（*Ethics: Inventing Right and Wrong*，1977）论证说，道德判断宣称一种世界上没有任何东西具有的客观权威，因此它们系统地为假。他把这种错误理论追溯到休谟的投射论。
 
-西蒙·布莱克本（Simon Blackburn）接受了投射，拒绝了错误。他的《传播心灵》（*Spreading the Mind*，1984）的书名取自《人性论》："心灵有一种把自己传播到外部对象上的强烈倾向"（T 1.3.14.25）。准实在论主张，道德判断表达态度，而我们仍然可以称它们为真，并就它们进行论辩。布莱克本也是因果关系的"新休谟"解读的主要反对者之一（《休谟与厚重的联系》（"Hume and Thick Connexions"，1990）；见[06-reception-and-debates.md](06-reception-and-debates.md)）。
+西蒙·布莱克本（Simon Blackburn）接受了投射，拒绝了错误。他的《传播语词》（*Spreading the Word*，1984）的书名取自《人性论》："心灵有一种把自己传播到外部对象上的强烈倾向"（T 1.3.14.25）。准实在论主张，道德判断表达态度，而我们仍然可以称它们为真，并就它们进行论辩。布莱克本也是因果关系的"新休谟"解读的主要反对者之一（《休谟与厚重的联系》（"Hume and Thick Connexions"，1990）；见[06-reception-and-debates.md](06-reception-and-debates.md)）。
 
 ### 帕菲特
 
