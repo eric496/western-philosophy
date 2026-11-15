@@ -126,7 +126,7 @@ Session shape each week follows the learning path: **A — Primary** (~2 hrs, te
 
 **Reconstructions.** Final touches: every core argument should by now have had its three spaced successful reconstructions (+2d/+1wk/+3wk). In Session C, re-run the master argument (Week 2) and the pessimism argument (Week 4) cold; anything that fails goes back into the next stage's Session C rotation, not into extra drilling this week.
 
-**Cards.** +2 (acquired character, the quietive) — deck complete at 29. The deck stays in the daily [FSRS](https://docs.ankiweb.net/deck-options.html) queue permanently; Schopenhauer cards will surface during Stage 5 exactly when Nietzsche needs them.
+**Cards.** +2 (acquired character, the quietive) — deck complete at 29. The deck stays in the daily [FSRS](https://docs.ankiweb.net/deck-options.html) queue permanently; Schopenhauer cards will surface later in Stage 4 exactly when Nietzsche needs them.
 
 ## The reconstruction cadence (successive relearning)
 
