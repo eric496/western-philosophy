@@ -27,19 +27,19 @@
 
 **吉尔·德勒兹（Gilles Deleuze），《尼采与哲学》（*Nietzsche and Philosophy*，1962）**——法国路线的奠基文本：力、肯定、作为选择性本体论的永恒回归。短、难，是莱特之后正确的第二个尼采。**马丁·海德格尔的《尼采》讲座（1936–40；1961 年出版）**——点名为接受史上的一个*事件*，而非任务：尼采作为西方最后的形而上学家是海德格尔的构造，日后作为其自身的哲学来研究。**卢·莎乐美（Lou Salomé），《弗里德里希·尼采及其作品》（*Friedrich Nietzsche in seinen Werken*，1894）**——第一本论尼采的书，出自 1882 年危机中心的那位女性之手；有历史兴味，读时对其亲密性保持显而易见的谨慎。**J. P. 斯特恩（J. P. Stern），《尼采》（*Friedrich Nietzsche*，Fontana 现代大师丛书，1979）**——简短、严厉，是学习路径点名的伴侣（"马吉/斯特恩"）；与第 2 周的电视谈话相配。当单一争论（永恒轮回、权力意志、永恒回归的地位）需要一卷之内的当前问题状态时，添上**肯·吉姆斯（Ken Gemes）与约翰·理查森（John Richardson）编，《牛津尼采手册》（*The Oxford Handbook of Nietzsche*，2013）**。
 
-在进入《手册》逐个争论的深度之前，如需一卷本的概览，请用**伯恩德·马格努斯（Bernd Magnus）与凯瑟琳·M. 希金斯（Kathleen M. Higgins）编，《剑桥尼采指南》（*The Cambridge Companion to Nietzsche*，1996）**：一章篇幅的论文（霍林代尔论著作，以及内哈马斯、沙赫特、皮平等人）概览每一个主要论题和每一个接受时期，面向已完成结业论文、想在专攻之前先有一张地图的读者。
+在进入《手册》逐个争论的深度之前，如需一卷本的概览，请用**伯恩德·马格努斯（Bernd Magnus）与凯瑟琳·M. 希金斯（Kathleen M. Higgins）编，《剑桥尼采指南》（*The Cambridge Companion to Nietzsche*，1996）**：一章篇幅的论文（霍林代尔论生平，以及内哈马斯、沙赫特、皮平等人）概览每一个主要论题和每一个接受时期，面向已完成结业论文、想在专攻之前先有一张地图的读者。
 
 ## 5. 参考
 
 - **[SEP，"Nietzsche"](https://plato.stanford.edu/entries/nietzsche/)**——由 R. 拉尼尔·安德森（R. Lanier Anderson）撰写；本档案所标注的每一场争论的当前学术地图。
 - **[IEP，"Nietzsche, Friedrich"](https://iep.utm.edu/nietzsch/)**——较朴素的第一遍，按学习路径的"先 IEP"规则——附两个值得绕路的专题伙伴："Nietzsche's Ethics"（https://iep.utm.edu/nietzsches-ethics/）与论第 3 周与第 5 周背后的欲望理论的 "Nietzsche: Philosophical Psychology"（https://iep.utm.edu/nietzsche-philosophical-psychology/）。
 - **[PhilPapers](https://philpapers.org/)**——"Friedrich Nietzsche"类目及其子类目（谱系、权力意志、永恒轮回）是活的文献的工作书目；在莱特之后使用，不要在此之前。
-- **《尼采研究杂志》（The Journal of Nietzsche Studies）**（宾夕法尼亚州立大学出版社，每年三期，在佐治亚州立大学编辑；弗里德里希·尼采学会的会刊）——该领域专门的同行评审期刊；一旦 [06-reception-and-debates.md](06-reception-and-debates.md) 中的某场争论需要其当前状态，就浏览近期各期目录（通过图书馆的 JSTOR 或宾州州立大学出版社访问权限）。
+- **《尼采研究杂志》（The Journal of Nietzsche Studies）**（宾夕法尼亚州立大学出版社，每年两期，在佐治亚州立大学编辑；弗里德里希·尼采学会的会刊）——该领域专门的同行评审期刊；一旦 [06-reception-and-debates.md](06-reception-and-debates.md) 中的某场争论需要其当前状态，就浏览近期各期目录（通过图书馆的 JSTOR 或宾州州立大学出版社访问权限）。
 
 ## 6. 媒体（均已核实；任务在 [07-study-plan.md](07-study-plan.md) 中）
 
 - **[*Philosophize This!*](https://www.philosophizethis.org/podcast)（斯蒂芬·韦斯特（Stephen West））**——尼采四部曲：#090 "Nietzsche Pt. 1 — God is Dead And So Is Captain Morgan"、#091 "Pt. 2 — The Will to Power"、#092 "Pt. 3 — Thus Spoke Zarathustra"、#093 "Pt. 4 — Love"（2016）；外加后来的对子 #158 "The Creation of Meaning — Nietzsche — The Ascetic Ideal" 与 #159 "… — Amor Fati"（2021）。免费；每集约 30 分钟。全程是通俗作者的压缩——定向与复习，永不作证据；#091 在本档案的*遗稿*告诫下收听。
-- **BBC Radio 4《In Our Time》：["Nietzsche's Genealogy of Morality"](https://www.bbc.co.uk/programmes/b087rt4z)**（首播于 2017 年 1 月 12 日；梅尔文·布拉格与斯蒂芬·马尔霍尔（Stephen Mulhall）、菲奥娜·休斯（Fiona Hughes）、凯斯·安塞尔-皮尔逊；约 45 分钟）。在 BBC Sounds 上免费。唯一正好谈本计划中心之书的广播，且你的一位版本编者在嘉宾席上。
+- **BBC Radio 4《In Our Time》：["Nietzsche's Genealogy of Morality"](https://www.bbc.co.uk/programmes/b087rt4z)**（首播于 2017 年 1 月 12 日；梅尔文·布拉格与斯蒂芬·马尔霍尔（Stephen Mulhall）、菲奥娜·休斯（Fiona Hughes）、凯斯·安塞尔-皮尔逊；48 分钟）。在 BBC Sounds 上免费。唯一正好谈本计划中心之书的广播，且你的一位版本编者在嘉宾席上。
 - **[*The Great Philosophers*](https://en.wikipedia.org/wiki/The_Great_Philosophers)（BBC，1987）第 11 集：尼采**——布莱恩·马吉与 J. P. 斯特恩（约 45 分钟）。在 YouTube 上流通；对话也在该系列的书中。是路径"马吉/斯特恩"伴侣的原始形态。
 - **[*The Partially Examined Life*](https://partiallyexaminedlife.com/2009/11/10/episode-11-nietzsches-immoralism-what-is-ethics-anyway/) 第 11 集："Nietzsche's Immoralism: What Is Ethics, Anyway?"**（2009；约 1 小时 50 分）——《谱系》前两篇连同《善恶的彼岸》第 1、5、9 章，以研讨课的长度争论。（PEL 在后来的集数中回到《谱系》第三篇，归在其尼采标签下。）
 - **[格雷戈里·B. 萨德勒](https://www.youtube.com/@GregoryBSadler/)，《谱系》核心概念视频**（YouTube，"Gregory B. Sadler — That Philosophy Guy"）——论单个概念的短讲；本计划只分配限定的第一/第二篇集合（原初估价 好 对 坏；奴隶反抗；惩罚的意义）。他关于这本书的完整课堂系列在同一频道上存在，有意不分配。
