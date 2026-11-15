@@ -1,4 +1,4 @@
-# Master Index — All 121 Figures
+# Master Index — All 140 Figures
 **English** | [简体中文](zh/index.md)
 
 Every key figure in one table: dates, era/school, signature concept, and the first work to read. Each name links to its entry file in [`eras/`](eras/); grouped figures (e.g. the Roman Stoics, the Frankfurt School) link to the shared entry that covers them. See [`philosophers/README.md`](philosophers/README.md) for an alphabetical list of the entry files.

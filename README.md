@@ -35,7 +35,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 
 ## How the entries are written
 
-Following the research's reading policy: mostly plain-language summary, with short primary-text excerpts only where a passage is load-bearing. Every entry follows the [template](templates/philosopher-template.md), in this order: **At a glance** (dates, place, tradition, what they are known for, and the lineage line: who they respond to and who answers them), **Biography**, **Major theories and concepts**, **Key works** with dates, **Contributions**, **Impact and legacy**, **Criticisms and debates**, **Misreadings to avoid**, and **What to read first**. Core entries add **Study questions** (41 entries), and some add **Signature arguments** and **In their own words** (20 entries).
+Following the research's reading policy: mostly plain-language summary, with short primary-text excerpts only where a passage is load-bearing. Every entry follows the [template](templates/philosopher-template.md), in this order: **At a glance** (dates, place, tradition, what they are known for, and the lineage line: who they respond to and who answers them), **Biography**, **Major theories and concepts**, **Key works** with dates, **Contributions**, **Impact and legacy**, **Criticisms and debates**, **Misreadings to avoid**, and **What to read first**. Core entries add **Study questions** (65 entries), and some add **Signature arguments** (39 entries) and **In their own words** (46 entries).
 
 Three habits that make the material stick:
 

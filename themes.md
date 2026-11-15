@@ -67,7 +67,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Lucretius](eras/01-ancient/cicero-and-lucretius.md)** (c. 99–c. 55 BCE) — Mind and spirit are bodily, made of fine atoms, and disperse at death; so "death is nothing to us."
 - **[Plotinus](eras/01-ancient/plotinus.md)** (c. 204/205–270) — Soul descends from the intelligible world into body without ceasing to belong above; contemplation turns it back toward the One.
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The soul is immaterial and self-present — it knows itself even in doubt — yet the body's resurrection, not escape, completes the person.
-- **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man, suspended without sensation, still knows himself: self-awareness, and so the soul, are independent of body.
+- **[Avicenna](eras/02-medieval/avicenna.md)** (c. 980–1037) — The Flying Man, suspended without sensation, still knows himself: self-awareness, and so the soul, are independent of body.
 - **[Aquinas](eras/02-medieval/thomas-aquinas.md)** (1225–1274) — The human soul is the body's substantial form yet subsists on its own; the separated soul is not the whole person.
 - **[Hobbes](eras/03-early-modern/thomas-hobbes.md)** (1588–1679) — Sense is motion and the thinking thing may be a body; liberty is the absence of external impediment, consistent with the necessity of every volition.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — Mind (thinking, unextended) and body (extended, unthinking) are really distinct substances, united in the embodied human.
@@ -110,7 +110,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — God sees all time in an eternal present, so foreknowledge no more compels events than your seeing an act compels it.
 - **[Pseudo-Dionysius & Eckhart](eras/02-medieval/pseudo-dionysius-and-eckhart.md)** (fl. c. 500 / c. 1260–1328) — God is beyond every name we give him: we come nearer by denying, and Eckhart's soul finds God in its own ground by letting go.
 - **[Eriugena](eras/02-medieval/john-scotus-eriugena.md)** (c. 800–c. 877) — God is the superessential Nothing from which nature proceeds and to which it returns, beyond every name we predicate.
-- **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — From the contingency of everything else: there must be a Necessary Existent, one and simple — the God of the philosophers.
+- **[Avicenna](eras/02-medieval/avicenna.md)** (c. 980–1037) — From the contingency of everything else: there must be a Necessary Existent, one and simple — the God of the philosophers.
 - **[Anselm](eras/02-medieval/anselm-of-canterbury.md)** (1033–1109) — God is that than which nothing greater can be conceived; existing in reality is greater — so God exists.
 - **[Al-Ghazali](eras/02-medieval/al-ghazali.md)** (c. 1058–1111) — The philosophers' proofs fail on their own terms: the world is not eternal, God knows particulars, and fire does not burn cotton of itself.
 - **[Hildegard of Bingen](eras/02-medieval/hildegard-of-bingen.md)** (1098–1179) — God is known through vision: the living light speaks, and cosmology, medicine, and music all answer to what was seen.
@@ -267,7 +267,7 @@ How to use it: pick a problem, read down its list, and you can watch a single ar
 - **[Roman Stoics](eras/01-ancient/roman-stoics.md)** (Seneca, Epictetus, Marcus Aurelius) — The self's fortress is choice (*prohairesis*): externals can chain the body, but nothing outside can compel assent.
 - **[Augustine](eras/02-medieval/augustine-of-hippo.md)** (354–430) — The self is found by turning inward — memory's vast palace, the restless heart — and is made whole only by grace.
 - **[Boethius](eras/02-medieval/boethius.md)** (c. 477–524) — A person is "the individual substance of a rational nature": the definition that fixed the terms of debate for a millennium.
-- **[Avicenna](eras/02-medieval/avicenna.md)** (980–1037) — The Flying Man knows that he exists without knowing that he has a body: self-awareness is immediate and incorporeal.
+- **[Avicenna](eras/02-medieval/avicenna.md)** (c. 980–1037) — The Flying Man knows that he exists without knowing that he has a body: self-awareness is immediate and incorporeal.
 - **[Pico & the humanists](eras/03-early-modern/renaissance-humanists.md)** (1433–1600) — Human beings have no fixed place in creation: we shape ourselves, rising toward the angels or sinking toward the beasts.
 - **[Montaigne](eras/03-early-modern/michel-de-montaigne.md)** (1533–1592) — "I study myself more than any other subject": the essay portrays a self in motion — inconsistent, embodied, becoming.
 - **[Descartes](eras/03-early-modern/rene-descartes.md)** (1596–1650) — The self is first known as a thinking thing: the *cogito* makes selfhood certain while body and world remain doubtful.
