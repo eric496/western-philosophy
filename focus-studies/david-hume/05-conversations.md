@@ -85,7 +85,7 @@ Richard Price, a Welsh Dissenting minister in London, wrote the most careful rat
 
 ### Campbell on miracles
 
-George Campbell, later Principal of Marischal College, Aberdeen, answered EHU 10 in *A Dissertation on Miracles* (1762). Trust in testimony, he argued, is an original disposition, not learned from experience of its reliability, so experience of nature cannot simply be set against it. Hume saw the manuscript through Hugh Blair and declined to reply in print (letters of 1761–62, Greig). Campbell's view of testimony as evidence in its own right anticipates modern epistemology of testimony (week 5, [04-arguments.md](04-arguments.md), Argument 10).
+George Campbell, Principal of Marischal College, Aberdeen, from 1759, answered EHU 10 in *A Dissertation on Miracles* (1762). Trust in testimony, he argued, is an original disposition, not learned from experience of its reliability, so experience of nature cannot simply be set against it. Hume saw the manuscript through Hugh Blair and declined to reply in print (letters of 1761–62, Greig). Campbell's view of testimony as evidence in its own right anticipates modern epistemology of testimony (week 5, [04-arguments.md](04-arguments.md), Argument 10).
 
 ### Rousseau
 
@@ -129,7 +129,7 @@ Nelson Goodman's *Fact, Fiction, and Forecast* (1955) set Hume's problem aside a
 
 J. L. Mackie wrote on both of Hume's main topics, in *The Cement of the Universe* (1974) and *Hume's Moral Theory* (1980). His *Ethics: Inventing Right and Wrong* (1977) argued that moral judgments claim an objective authority that nothing in the world has, so that they are systematically false. He traced this error theory to Hume's projectivism.
 
-Simon Blackburn accepted the projection and rejected the error. His *Spreading the Mind* (1984) takes its title from the *Treatise*: "the mind has a great propensity to spread itself on external objects" (T 1.3.14.25). Quasi-realism holds that moral judgments express attitudes, and that we may still call them true and argue about them. Blackburn is also a leading opponent of the New Hume reading of causation ("Hume and Thick Connexions," 1990; see [06-reception-and-debates.md](06-reception-and-debates.md)).
+Simon Blackburn accepted the projection and rejected the error. His *Spreading the Word* (1984) takes its title from the *Treatise*: "the mind has a great propensity to spread itself on external objects" (T 1.3.14.25). Quasi-realism holds that moral judgments express attitudes, and that we may still call them true and argue about them. Blackburn is also a leading opponent of the New Hume reading of causation ("Hume and Thick Connexions," 1990; see [06-reception-and-debates.md](06-reception-and-debates.md)).
 
 ### Parfit
 
