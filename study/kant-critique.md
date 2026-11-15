@@ -22,7 +22,7 @@ Quotations follow the Guyer and Wood wording; the guide otherwise paraphrases.
 
 ## How to use this guide
 
-Begin with the honest fact: in the Guyer and Wood edition the *Critique* runs to roughly 800 pages of Kant's text — some 900 pages in all. A cover-to-cover first read, at self-study pace alongside a job, is not a plan; it is the most reliable known method of stopping Kant altogether. The learning path therefore prescribes **selections only** — a design feature, not a compromise: the Prefaces, the Introduction, the Aesthetic, the core of the Analytic, the Paralogisms and Antinomies in selection, and the Canon.
+Begin with the honest fact: in the Guyer and Wood edition the *Critique* runs to roughly 600 pages of Kant's text — nearly 800 pages in all. A cover-to-cover first read, at self-study pace alongside a job, is not a plan; it is the most reliable known method of stopping Kant altogether. The learning path therefore prescribes **selections only** — a design feature, not a compromise: the Prefaces, the Introduction, the Aesthetic, the core of the Analytic, the Paralogisms and Antinomies in selection, and the Canon.
 
 The selections trace the book's own spine. The Prefaces and Introduction state the problem: how is synthetic a priori knowledge possible, and what are reason's limits? The Aesthetic and Analytic give the positive answer; the Dialectic selections show the negative payoff — reason trying to know the soul, the world as a whole, or God — and the Canon hands the questions theory cannot answer to practical reason. State that arc in your own words and you have the *Critique*.
 

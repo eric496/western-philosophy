@@ -72,13 +72,13 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Key passages.** §IV.1–2 (the fork); §IV.4–9 (cause and effect as the basis of factual reasoning); §IV.10–16 (why the inference to the future is not founded on reason); §IV.18–21 (the circularity argument: every inference from experience assumes that the future will resemble the past). The fork returns as a test for factual claims in the book-burning verdict, "commit it then to the flames", at §XII.34.
 
-**Main argument.** Reason cannot justify its own most important everyday inference. The famous closing passage, recommending suspect books to the flames, is often quoted as a slogan; read in context, it is the conclusion of the fork, not a program for book-burning — and Hume himself immediately qualifies it in the next section.
+**Main argument.** Reason cannot justify its own most important everyday inference. The book's famous closing passage (§XII.34), recommending suspect books to the flames, is often quoted as a slogan; read in context, it is the conclusion of the fork, not a program for book-burning. The skeptical doubts of Section IV, meanwhile, are immediately qualified in the next section.
 
 ### Section V: Skeptical solution of these doubts
 
 **Summary.** If reason does not carry us from past to future, what does? Hume's answer: **custom or habit**. After experiencing constant conjunction — A followed by B, repeatedly — the mind is determined by custom to expect B on seeing A, without any reasoning process. This is the "sceptical solution": skeptical, because it concedes that the inference has no rational foundation; a solution, because it explains why we nevertheless make the inference, and why we are right to go on making it in practice. Nature, not argument, keeps skepticism from paralyzing us.
 
-**Key passages.** §V.2–5 (custom as the guide of life); §V.8–10 (the child, the peasant, and the philosopher all reason the same way here); §V.21–22 (the "pre-established harmony" between the course of nature and the succession of our ideas, and why nature entrusted so essential an operation to instinct rather than to reasoning).
+**Key passages.** §V.2–5 (custom as the guide of life); §IV.23, at the close of the previous section (peasants, infants, and even brute beasts learn from experience); §V.21–22 (the "pre-established harmony" between the course of nature and the succession of our ideas, and why nature entrusted so essential an operation to instinct rather than to reasoning).
 
 **Main argument.** The solution is naturalistic, not justificatory. Hume is not saying induction is unreliable or that we should stop using it; he is saying that its authority is not rational demonstration but a principle of human nature as universal as the senses. A burned child fears fire without any argument — and so, in the end, do we all. This distinction between *justification* and *practice* is the key to Hume's mitigated skepticism, developed in Section XII.
 
@@ -86,7 +86,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** Most of life is not a matter of certainty but of probability, where experience has been mixed: some events of a kind were followed by one outcome, some by another. Hume explains probability psychologically: when we have seen A followed by B in, say, three cases out of four, the mind is carried toward B with a force proportioned to the number of past instances, but the contrary instances check and weaken that movement. Probability is therefore a felt balance of associative force, not a calculation — though Hume's picture anticipates, in rough form, later ideas about weighing evidence.
 
-**Key passages.** §VI.1–4 (probability as arising from contrariety of experience); §VI.5 (the mind's "survey" of past instances).
+**Key passages.** §VI.1–4 (probability as arising from contrariety of experience); §VI.3 (the mind's "survey" of past instances).
 
 **Main argument.** Probability belongs on the same footing as certainty in Hume's system: both are products of custom operating on experience, differing only in the uniformity of the experience. The section matters chiefly because Section X's argument about miracles turns on exactly this weighing of contrary evidence.
 
@@ -94,7 +94,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** We say A *causes* B, and mean more than that B followed A: we mean B *must* follow, that there is a necessary tie between them. But where does the idea of necessity come from? Hume runs his Section II test. It is not copied from any impression of a single instance: looking at one billiard ball striking another, we see contiguity and succession, but no power, force, or tie. It is not copied from reflection on the mind's own operations, as Locke had suggested — the will's command over the body is itself mysterious and experienced only through repeated conjunction. The source, Hume argues, is internal: after repeated conjunctions, custom determines the mind to pass from the impression of A to the lively idea of B, and *this felt determination of the mind* is the impression from which the idea of necessity is copied. Necessity is therefore in the mind's transition, not observed in the objects.
 
-**Key passages.** §VII.4–8 (the search for the impression, in single instances and in the will); §VII.11–16 (the mind's determination after repetition); §VII.25–30 (the two definitions of cause).
+**Key passages.** §VII.6–8 (the search for the impression in single instances); §VII.9–20 (the search in the will); §VII.26–28 (the mind's determination after repetition); §VII.29–30 (the two definitions of cause).
 
 **Main argument.** Hume then gives two definitions of cause: (1) "an object, followed by another, and where all the objects similar to the first are followed by objects similar to the second" (regularity); and (2) "an object followed by another, and whose appearance always conveys the thought to that other" (the mind's customary transition). Whether these two definitions are meant to be equivalent, complementary, or in tension — and whether Hume is denying objective necessities or merely saying we can form no idea of them beyond regularity — is the subject of the "New Hume" debate, discussed in §2(b) and §4.7 below. The secure point is Hume's negative one: our evidence never goes beyond constant conjunction plus the mind's habitual transition.
 
@@ -118,7 +118,7 @@ The *Enquiry* is short — roughly 130 pages in a modern edition — and can be 
 
 **Summary.** A miracle, Hume defines, is a violation of a law of nature by a particular volition of the Deity, or by the interposition of some invisible agent. A law of nature is established by firm and unalterable experience — the strongest possible evidence for a matter of fact. Testimony is itself a form of experience, but its force depends on the usual conjunction between testimony and truth, and testimony is notoriously weakened by credulity, love of the marvellous, religious enthusiasm, and the tendency of miracle reports to cluster among "ignorant and barbarous nations" and to cancel each other across rival religions. A wise man therefore proportions his belief to the evidence, and when testimony for a miracle collides with uniform experience against it, the testimony cannot prevail: "no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish."
 
-**Key passages.** §X.4 (the definition of "proof" from infallible experience); §X.12 (the definition of a miracle, with the maxim at §X.13); §X.16–24 (the four considerations weakening miracle testimony); §X.35–36 (the closing reflection on faith and reason).
+**Key passages.** §X.4 (the definition of "proof" from infallible experience); §X.12 (the definition of a miracle, with the maxim at §X.13); §X.15–24 (the four considerations weakening miracle testimony); §X.40–41 (the closing reflection on faith and reason).
 
 **Main argument.** The argument concerns **evidence**, not metaphysical possibility — Hume never claims miracles cannot occur. A full reconstruction, with objection and reply, is given in §2(c) below. Whether the argument is an a priori barrier or a strong evidential presumption, and how it fares when recast in modern probabilistic terms, is actively debated; the guide presents the argument as Hume states it and notes the debate rather than settling it.
 
