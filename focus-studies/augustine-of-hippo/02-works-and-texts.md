@@ -25,7 +25,7 @@ The dialogues are polished pieces in Cicero's manner, and more serene than the *
 
 *On Free Choice of the Will* (*De libero arbitrio*) is a dialogue in three books between Augustine and his friend Evodius. Augustine began it in Rome in 388 and finished Books II and III in Africa, after his ordination as priest in 391, by about 395. It starts from Evodius's question whether God is the author of evil. Book I traces evil-doing to the will's free choice and to inordinate desire. Book II argues for God from the existence of a truth above the mind, starting from the certainty that one exists, lives and understands (II.3.7). Book III takes up foreknowledge and the suffering of infants. Week 5 reads it in selection for Arguments 9, 10 and 11.
 
-Pelagius quoted the work in support of his view of freedom. Augustine replied that it was written against the Manichees and left grace aside because grace was not its question (*Retractations* I.9), and he quoted that chapter again late in life (*On the Predestination of the Saints*, section 27). Whether the early book and the late defence agree is part of the dispute over the "early" and "late" Augustine.
+Pelagius quoted the work in support of his view of freedom. Augustine replied that it was written against the Manichees and left grace aside because grace was not its question (*Retractations* I.9), and he quoted that chapter again late in life (*On the Gift of Perseverance*, section 27). Whether the early book and the late defence agree is part of the dispute over the "early" and "late" Augustine.
 
 ### *The Teacher* and other early works
 
