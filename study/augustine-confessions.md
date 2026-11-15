@@ -56,7 +56,7 @@ From there he turns to infancy (I.6–I.8). He cannot remember his own infancy, 
 
 ### Book II (II.1–II.10): Adolescence and the pear theft
 
-Book II covers Augustine's sixteenth year, the year of his father's death and of his idleness in Thagaste while his family saved for his studies. Its center is the famous pear theft (II.4). With a gang of friends, Augustine stole pears from a neighbor's tree at night, not because he was hungry — he had better pears at home — and not for gain, since he threw most of them to the pigs. He stole, he says, because the theft itself, done in company and against the law, was pleasurable. The episode is small, and deliberately so: Augustine wants an evil act with nothing else in it — no need, no profit, no passion — so that he can isolate what evil is.
+Book II covers Augustine's sixteenth year, the year of his idleness in Thagaste while his family saved for his studies. Its center is the famous pear theft (II.4). With a gang of friends, Augustine stole pears from a neighbor's tree at night, not because he was hungry — he had better pears at home — and not for gain, since he threw most of them to the pigs. He stole, he says, because the theft itself, done in company and against the law, was pleasurable. The episode is small, and deliberately so: Augustine wants an evil act with nothing else in it — no need, no profit, no passion — so that he can isolate what evil is.
 
 The surrounding chapters widen the point: lust confused love with desire (II.2–II.3), and friendship became a snare when valued above truth (II.5–II.8). The closing question drives the next five books: if every nature God made is good, where did the evil in the act come from?
 
@@ -80,7 +80,7 @@ Book IV opens with Augustine's years as a teacher of rhetoric in Thagaste and Ca
 
 The book's second half shows his Manichaeism beginning to strain (IV.13–IV.16). He wrote a treatise on beauty and proportion and read Aristotle's *Categories* on his own (IV.16.28). The decisive failure of the sect's astronomy, whose eclipses the philosophers could calculate years ahead while Manichaean myth could not, comes in Book V (V.3–V.7). He also began to see that the Manichaeans' materialism — their picture of God as a luminous substance extended through space — made God a body among bodies, and therefore divisible and corruptible.
 
-**Key passages:** the friend's death and the analysis of grief, IV.4–IV.7; beauty and proportion, IV.13–IV.15; the failure of Manichaean astronomy, IV.3 and IV.16.
+**Key passages:** the friend's death and the analysis of grief, IV.4–IV.7; beauty and proportion, IV.13–IV.15; astrology rejected, IV.3; Aristotle's *Categories*, IV.16.
 
 **Main argument:** Love of mortal things, loved as if they were final, ends in grief; and a materialist picture of God cannot survive contact with the sciences of nature. Both lessons push Augustine toward an incorporeal God he does not yet know how to conceive.
 
@@ -167,7 +167,7 @@ Each reconstruction below follows the learning path's discipline: premises, then
 1. The Manichaeans claim God is a luminous substance, extended through space, locked in combat with an equally real substance of darkness — and that this dualism explains evil without blaming God (III.6–III.10).
 2. A substance extended through space is divisible: it has parts, and what has parts can be diminished, corrupted, and acted upon from outside.
 3. The supreme good cannot be divisible, corruptible, or acted upon; nothing can be greater than it, and a being that can suffer loss is not supreme.
-4. Manichaean cosmology also fails its own empirical test: its predictions about the heavens are outclassed by astronomy, and its great teacher Faustus cannot answer the questions the theory raises (IV.3, V.3–V.7).
+4. Manichaean cosmology also fails its own empirical test: its predictions about the heavens are outclassed by astronomy, and its great teacher Faustus cannot answer the questions the theory raises (V.3–V.7).
 5. The Platonists supply the missing conception: a being that is incorporeal, unchangeable, and present everywhere without division (VII.9–VII.10).
 
 **Conclusion:** God is not a material substance and evil is not a rival substance; Manichaean dualism fails both metaphysically and empirically, and an incorporeal God plus privation explains what dualism could not.
