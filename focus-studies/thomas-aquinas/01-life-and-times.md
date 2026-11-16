@@ -75,7 +75,7 @@ He wrote against all three. *On the Unity of the Intellect against the Averroist
 
 On 10 December 1270 the bishop of Paris, Stephen Tempier, condemned thirteen Aristotelian and Averroist propositions, the unity of the intellect and the eternity of the world among them by the usual account, and excommunicated anyone who taught them. *On the Eternity of the World* (1271), subtitled *against the grumblers* (*contra murmurantes*), turns to the other front. In the *Summa* (Ia Q46 a2) Thomas holds that the world's beginning is known by faith and cannot be demonstrated; the treatise argues that a world created by God and yet without a beginning involves no contradiction (Argument 9). The "grumblers" were theologians who said that it did; the Franciscan John Pecham is often named as the main target, though the identification is argued.
 
-The output of these four years is very large. He wrote most of the second part of the *Summa*, the Ia-IIae and IIa-IIae; the disputed questions *On Evil* (1270–1271) and *On the Virtues*; commentaries on the *Physics*, *Metaphysics*, *Nicomachean Ethics*, *On Interpretation* and other works of Aristotle; and Quodlibets 1–6 and 12. He worked with several secretaries, and the early witnesses say he could dictate to more than one at a time.
+The output of these four years is very large. He wrote most of the second part of the *Summa*, the Ia-IIae and IIa-IIae; the disputed questions *On Evil* (1269–1271) and *On the Virtues*; commentaries on the *Physics*, *Metaphysics*, *Nicomachean Ethics*, *On Interpretation* and other works of Aristotle; and Quodlibets 1–6 and 12. He worked with several secretaries, and the early witnesses say he could dictate to more than one at a time.
 
 ## Naples, 1272–1273
 
