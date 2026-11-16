@@ -7,7 +7,7 @@ The [learning path](../../learning-path.md) meets Wittgenstein twice in **Stage 
 
 Run it as one block beginning when Stage 5A reaches row 4, with the stage's other figures in their own weeks around it — but read Ayer's *Language, Truth and Logic* selections, at minimum, before Week 3. Or split it on the path's strict order: Weeks 1–2 expand row 4, pause for rows 5–8, Weeks 3–7 expand row 9. Either way the hard dependencies hold: *Tractatus* before *Investigations*, positivists before the method remarks, and Stage 3's Kant behind you — Week 7's capstone has a prompt that spends him.
 
-**Total cost, stated honestly: ≈38 hours of scheduled study across seven weeks (~5–6 hrs/week), plus the daily [Anki](https://apps.ankiweb.net) [FSRS](https://docs.ankiweb.net/deck-options.html) queue (~10 min/day ≈ 7 hrs across the plan) — ≈45 hours all-in.**
+**Total cost, stated honestly: ≈39 hours of scheduled study across seven weeks (~5–6 hrs/week), plus the daily [Anki](https://apps.ankiweb.net) [FSRS](https://docs.ankiweb.net/deck-options.html) queue (~10 min/day ≈ 7 hrs across the plan) — ≈46 hours all-in.**
 
 **Reading texts.** Follow the path's rulings. *Tractatus*: **Pears & McGuinness (Routledge)**; Ogden/Ramsey (1922) is the historical translation, worth a glance, not the working text. *Investigations*: **Anscombe, rev. Hacker & Schulte, 4th ed. (Wiley-Blackwell, 2009)**, bilingual — cite Part I by section (§§1–693), Part II (*Philosophy of Psychology — A Fragment*) by chapter; aspect-seeing is PPF §xi. *On Certainty*: Anscombe & von Wright edition (Blackwell), cited by remark number. Quotations from the *Investigations* are in copyright: paraphrase first, quote short, check wording against the 4th edition.
 
@@ -78,7 +78,7 @@ Session shape follows the learning path: **A — Primary** (~2–2.5 hrs, text o
 2. *What do the builders show, and not show?* A complete language working as calls within an activity — so naming cannot be language's essence. Not that ordinary language is that simple, or naming unimportant within it. (Guide, checkpoint 2.)
 3. *§43's hedge — its force?* "For a large class of cases … — though not for all —". Dropping it turns a redirection of attention into a new essence of meaning: the exact move the book refuses. [03-system-and-concepts.md](03-system-and-concepts.md).
 
-**Reconstructions.** The Augustinian-picture argument (guide (a)); saying/showing gets its +3-week touch — notice, doing it, how completely its terms have changed hands.
+**Reconstructions.** The Augustinian-picture argument (guide (a)); saying/showing gets its +1-week touch — notice, doing it, how completely its terms have changed hands.
 
 **Cards.** +6 (Augustinian picture, meaning as use, language-game, form of life, ostensive definition, language on holiday).
 
