@@ -257,7 +257,7 @@ Two distinctions do new work. The first divides evil into pain (*poena*) and fau
 
 Q48 a2 adds the reason God allows any of this. A universe with every grade of goodness must contain goods that can fail, "and thence it follows that sometimes they do fail" (ST Ia Q48 a2). "Hence many good things would be taken away if God permitted no evil to exist; for fire would not be generated if air was not corrupted, nor would the life of a lion be preserved unless the ass were killed" (ST Ia Q48 a2 ad 3).
 
-**Textual basis.** ST Ia Q48 a1–6; Q49 a1–3; with Q47 a2 (inequality in things) and Q22 a2 ad 2 (providence and defect). The fullest treatment is the *Disputed Questions on Evil* (*De malo*, 1270–71), whose q.1 covers the same ground.
+**Textual basis.** ST Ia Q48 a1–6; Q49 a1–3; with Q47 a2 (inequality in things) and Q22 a2 ad 2 (providence and defect). The fullest treatment is the *Disputed Questions on Evil* (*De malo*, 1269–71), whose q.1 covers the same ground.
 
 **Objection.** The objections to Augustine's version apply here too (see Argument 4 of the Augustine dossier): pain and cruelty seem positive, not mere lacks, and J. L. Mackie and William Rowe argue that a theory of what evil *is* does nothing to explain why an omnipotent good God permits it. Aquinas's version adds a target of its own. The ad 3 of Q48 a2 justifies the ass's death by the lion's life and calls the whole universe better for containing failure. That is an aesthetic theodicy. It seems to treat a creature's suffering as a cost the whole may properly impose on a part, and Rowe's fawn dying in a forest fire is just the case it struggles with. The penalty clause adds a moral worry: if God is "the author of the evil which is penalty", then much suffering is God's direct work.
 

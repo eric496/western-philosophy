@@ -73,7 +73,7 @@ The opposition that outlasted him came from theologians who held a plurality of 
 
 ### Dante
 
-Dante's *Paradiso* places Thomas among the wise in the heaven of the Sun, beside Albert and Siger of Brabant (*Paradiso* X.133–138), the arts master whose position Thomas had written against. The library has no Dante entry.
+Dante's *Paradiso* places Thomas among the wise in the heaven of the Sun, beside Albert (*Paradiso* X.97–99) and Siger of Brabant (*Paradiso* X.133–138), the arts master whose position Thomas had written against. The library has no Dante entry.
 
 ### Duns Scotus
 
