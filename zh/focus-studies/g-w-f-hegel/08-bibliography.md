@@ -29,7 +29,7 @@
 
 **H. B. Nisbet (trans.), Allen W. Wood (ed.), *Elements of the Philosophy of Right*（《法哲学原理》）(Cambridge Texts in the History of Political Thought; Cambridge University Press, 1991; lii + 514 pp.)。**第7周的裁定。伍德的注释是关于其政治学的最好简明指南，并标出哪些段落是附释。年份和页数取自《黑格尔通讯》（*Hegel Bulletin*）的一条书评记录。
 
-**T. M. Knox (trans.), *Hegel's Philosophy of Right*（《黑格尔的法哲学》）(Oxford: Clarendon Press, 1952), and Stephen Houlgate (ed.), *Outlines of the Philosophy of Right*（《法哲学纲要》）, Knox's translation revised by Julian Schmidt (Oxford World's Classics, 2008)。**较早的英译本，关于黑格尔与国家的文献中仍在引用。一条 Open Library 记录给出诺克斯译本的首印年份为1952年，一条目录记录给出霍尔盖特版为2008年，但我没有在出版社页面上看到丛书名或修订者，所以这两个细节未核对。霍尔盖特的导言是选用这个"牛津世界经典"版的理由。
+**T. M. Knox (trans.), *Hegel's Philosophy of Right*（《黑格尔的法哲学》）(Oxford: Clarendon Press, 1942), and Stephen Houlgate (ed.), *Outlines of the Philosophy of Right*（《法哲学纲要》）, Knox's translation revised by Julian Schmidt (Oxford World's Classics, 2008)。**较早的英译本，关于黑格尔与国家的文献中仍在引用。《哲学》（*Philosophy*）期刊1942年的一条书评记录（Cambridge Core）给出诺克斯译本的首印年份为1942年（一条 Open Library 记录所给的1952年是后来的印次），一条目录记录给出霍尔盖特版为2008年，但我没有在出版社页面上看到丛书名或修订者，所以这两个细节未核对。霍尔盖特的导言是选用这个"牛津世界经典"版的理由。
 
 ### 历史哲学、美学与早期著作
 
