@@ -3,7 +3,7 @@
 
 This is the route through the library. It replaces the old era-by-era march (Stages 0–5 in about a year) with a design based on how introductory curricula actually sequence this material (MIT OCW 24.01, Oxford Prelims, Yale's paired Ancient/Modern sequences) and on what the learning-science literature says actually sticks (Dunlosky et al. 2013 — see `sources.md`).
 
-Read the time budget honestly before you start: **this is not a one-year plan.** Counted in full — desk study, the daily card queue, and the assigned listening and watching — it totals **≈454 hours**: either **64 study weeks at ≈7 hours a week all-in** (≈17 calendar months with buffer weeks), or **the same material at 4–5 hours a week stretched across roughly two to two-and-a-half years**. A trimmed 12-month version exists (§10) and costs ≈335 hours at a firm ~6.5–7 hours a week. That is not padding. It is what ~30 authors in primary text, read slowly enough to reconstruct their arguments, actually costs alongside a job — plus the review and media time that makes it stick. §1.5 shows the arithmetic; nothing in this plan hides time in a footnote.
+Read the time budget honestly before you start: **this is not a one-year plan.** Counted in full — desk study, the daily card queue, and the assigned listening and watching — it totals **≈454 hours**: either **64 study weeks at ≈7 hours a week all-in** (≈17 calendar months with buffer weeks), or **the same material at 4–5 hours a week stretched across roughly two to two-and-a-half years**. A trimmed 12-month version exists (§10) and costs ≈347 hours at a firm ~7 hours a week. That is not padding. It is what ~30 authors in primary text, read slowly enough to reconstruct their arguments, actually costs alongside a job — plus the review and media time that makes it stick. §1.5 shows the arithmetic; nothing in this plan hides time in a footnote.
 
 ---
 
@@ -25,7 +25,7 @@ These five are the working subset of the nine recurring questions mapped in [the
 
 ### 1.2 Two tiers: core and map-level
 
-The library covers 140 figures. **You will not read 140 figures in depth, and the plan does not pretend otherwise.** University semesters don't either — MIT's covers about ten figures in primary text.
+The library covers 141 figures. **You will not read 141 figures in depth, and the plan does not pretend otherwise.** University semesters don't either — MIT's covers about ten figures in primary text.
 
 - **Core (~30 figures):** read in primary text, in the editions named below, slowly, with a written argument reconstruction for each. These are the load-bearing authors: skip one and later stages wobble.
 - **Map-level (everyone else):** cover through their entry in this repo + the paired podcast episode (Adamson, or *Philosophize This!* where Adamson hasn't reached — §3 and each stage's *Listen & watch*) or Kenny section + **one checkpoint question** you can answer in your own words (≈30–45 minutes per figure). Map-level is a deliberate design choice, not a failure. It gives you the shape of the whole tradition — who argued with whom, about what — which is exactly what makes the core reading intelligible.
@@ -82,7 +82,7 @@ Two calendars deliver the same 454 hours:
 | **A — Same weeks, higher load (recommended)** | ≈7 hrs/week all-in (desk 4–5 + queue ~1 + media ~1.5) | 64 | +8 buffer weeks | **≈17 months** |
 | **B — Same weekly load, more weeks** | 4–5 hrs/week all-in | ~91–114 | +~10–12 buffer weeks | **≈23–29 months** |
 
-Stage 2's media is the densest (~2.25 hrs/week); let it spill into that stage's buffer weeks rather than displacing Aquinas. A trimmed 12-month version is in §10 — note that it now costs ≈335 hrs at ~6.5–7 hrs/week, because the queue and the media are real time too.
+Stage 2's media is the densest (~2.25 hrs/week); let it spill into that stage's buffer weeks rather than displacing Aquinas. A trimmed 12-month version is in §10 — note that it now costs ≈347 hrs at ~7 hrs/week, because the queue and the media are real time too.
 
 ---
 
@@ -431,13 +431,13 @@ Submit it somewhere it can be answered: a forum, a reading group, a meetup, or t
 
 **Buffer weeks (+8 in Calendar A, +~10–12 in Calendar B):** for illness, holidays, exactly two sanctioned academic uses — re-reading Hume's *Enquiry* or a second Kant pass — and, new in this revision, absorbing a stage's media spill (Stage 2's listening is the expected case). A buffer week spent starting a new author is not a buffer week; it's stage extension, and §1.4's 2-week extension cap applies.
 
-**12-month trim (≈335 hrs all-in / 50 weeks at a firm ~6.5–7 hrs/week, no buffer).** If a year is a hard constraint, the trim still cuts desk study first (≈288 → ≈250 hrs), keeps the daily queue's *rate* untouched (fewer weeks simply means fewer queue hours, ≈50), and cuts media hardest, to its skeleton (≈35 hrs):
+**12-month trim (≈347 hrs all-in / 50 weeks at a firm ~7 hrs/week, no buffer).** If a year is a hard constraint, the trim still cuts desk study first (≈288 → ≈262 hrs), keeps the daily queue's *rate* untouched (fewer weeks simply means fewer queue hours, ≈50), and cuts media hardest, to its skeleton (≈35 hrs):
 - Stage 2 desk → 24 hrs: Augustine + Anselm + Aquinas in primary text; *everyone* else in the stage, Machiavelli and Montaigne included, drops to map-level.
 - *Republic* → Books I–II, VI–VII only (−~6 hrs from Stage 1).
 - Stage 5B: Heidegger and Foucault → summary-only (map-level, no excerpt pass) (−~8 hrs).
 - Media skeleton: Adamson Stage 1 selection halved (≈10 hrs); *Philosophize This!* reduced to the Kant, 19th-century-core and Rawls arcs (≈14 hrs); Sandel's *Justice* kept whole (11 hrs) — it is the trim's best media hour-for-hour buy. Everything else media is dropped, not deferred.
 - **Do not trim Stage 3.** Not the Kant sequence, not Hume whole, not the *Meditations* in order. A 12-month plan that cuts Stage 3 produces a learner who has "done" philosophy and cannot follow an argument in Nietzsche or Rawls — the trim exists to protect the load-bearing stage, not to distribute pain evenly.
-- And do not trim the queue to save the calendar: cutting review is how the whole 335 evaporates by month nine. If ~6.5–7 hrs/week is genuinely impossible, the honest floor is Calendar B's pacing applied to the trimmed content (~67 study weeks) — a 12-month, 5-hrs/week version of this plan does not exist, and this plan won't pretend otherwise.
+- And do not trim the queue to save the calendar: cutting review is how the whole 347 evaporates by month nine. If ~7 hrs/week is genuinely impossible, the honest floor is Calendar B's pacing applied to the trimmed content (~69 study weeks) — a 12-month, 5-hrs/week version of this plan does not exist, and this plan won't pretend otherwise.
 
 **The comfortable version (Calendar B pacing, +40–60 hrs desk, plus priced media extensions à la carte):** add the whole *Phaedo*; *Nicomachean Ethics* VIII–X whole (friendship and contemplation — MIT's Ancient course assigns them, and they're the Ethics thread's ancient high point); the *Dialogues Concerning Natural Religion* whole; an Avicenna/Averroes/Maimonides excerpt pass in Stage 2 (the compressed stage's acknowledged debt); a Plotinus excerpt pass (*Enneads* I.6, V.1) at the end of Stage 1; and a second, slower Hegel or Sartre pass. This is also the version where post-plan projects belong: Kuhn whole, Parfit's *Reasons and Persons* in selection, *Capital* I beyond ch. 1 with a companion. The media extensions menu, each priced once here and in its stage: Kagan's *Death* in full, +21 hrs ≈ +4–5 weeks on Stage 5 (the flagship — §9 *Listen & watch*); Gendler's PHIL 181 in full, +21 hrs, as its *alternative*, not its companion; Millican's *General Philosophy* in full, +≈7 hrs on Stage 3; *Think Again I*, +~2 weeks on Stage 0; Sadler's full Kierkegaard lectures, +1 hr/week in Stage 4; PLSC 114 in full, +1 hr/week across Stages 1–4 — as an *alternative* to the Sandel thread, not an addition to it (do not run both full); Adamson upgrades — Stage 1's full run (+20 hrs over the curation), Stage 2's Latin-medieval core (+17 hrs over the curation). Taking *every* extension adds ~20 weeks; the recommended package is Sandel (already in the headline) + Kagan.
 
@@ -456,7 +456,7 @@ Any "yes" triggers the fix *before* new reading. These are ordered roughly by ho
 | 5 | **Wrong or hostile edition** | Your copy's translator died before ~1950 and no modern editor is named | §4's buy-by-translator rule and avoid-list (Jowett, Haldane & Ross, Parshley, Common, Kemp Smith, unlabeled Gutenberg) |
 | 6 | **Era tunnel vision** | Current stage extended >2 weeks; your last five authors are all one century or school | Hard stage calendar (§1.5); the 2-week extension cap (§1.4); weekly spiral returns force cross-era comparison |
 | 7 | **No writing** | No gate essay for the last completed stage | No-essay-no-advance (§2.5). The capstone is an essay, not a reading list |
-| 8 | **Completionism over all 140 figures** | You've "covered" many entries but can't pass the current stage's checkpoints | The two-tier design itself (§1.2): ~30 core in primary text, the rest map-level *on purpose*. Courses do the same |
+| 8 | **Completionism over all 141 figures** | You've "covered" many entries but can't pass the current stage's checkpoints | The two-tier design itself (§1.2): ~30 core in primary text, the rest map-level *on purpose*. Courses do the same |
 | 9 | **Cram-and-forget** | You can't state Stage 1 arguments during Stage 3 without re-reading | The card deck is cumulative for the whole plan; Session C is always previous stages |
 | 10 | **Isolation stall** | Nothing you've written has reached another mind in >1 month (the medieval and Kant stages are where this bites) | The discussion ladder (§2.6): voice memo → steelman exchange → forum/group/AI-critique with verification. Buffer weeks are scheduled, not earned by failing |
 | 11 | **System-building instead of studying** | You changed apps, decks, or *the plan itself* in the last month without finishing a stage | This plan is frozen except at stage gates. Library and plan upgrades happen *at* gates, using your checkpoint gaps as the specification |
