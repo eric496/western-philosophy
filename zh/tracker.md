@@ -78,6 +78,7 @@
 - [ ] **[叔本华](eras/04-19th-century/arthur-schopenhauer.md)**（公元1788–1860年）——意志、苦难、同情
 - [ ] **[奥古斯特·孔德](eras/04-19th-century/auguste-comte.md)**（公元1798–1857年）——三阶段规律、实证主义
 - [ ] **[爱默生与梭罗](eras/04-19th-century/emerson-and-thoreau.md)**（公元1803–1882年 / 1817–1862年）——自立、公民不服从
+- [ ] **[（合并条目）费尔巴哈与施蒂纳](eras/04-19th-century/sidebars-feuerbach-and-stirner.md)**（公元1804–1872年 / 1806–1856年）——宗教即投射、利己主义、"幽灵"
 - [ ] **[亚历克西·德·托克维尔](eras/04-19th-century/alexis-de-tocqueville.md)**（公元1805–1859年）——多数人的暴政、温和的专制
 - [ ] **[穆勒](eras/04-19th-century/john-stuart-mill.md)**（公元1806–1873年）——伤害原则
 - [ ] **[哈莉特·泰勒·穆勒](eras/04-19th-century/harriet-taylor-mill.md)**（公元1807–1858年）——妇女参政

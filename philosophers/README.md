@@ -1,7 +1,7 @@
 # Philosopher Entry Files — Alphabetical
 **English** | [简体中文](../zh/philosophers/README.md)
 
-Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 140 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
+Standalone and grouped entry files, by era folder. The master index ([`../index.md`](../index.md)) covers all 141 figures, including a few who appear inside grouped entries rather than their own file (e.g. Gorgias inside Protagoras & the Sophists, Seneca, Epictetus and Marcus Aurelius inside The Roman Stoics, Adorno and Horkheimer inside the Frankfurt School entry, Feuerbach and Stirner in the sidebars entry).
 
 - [Adam Smith](../eras/03-early-modern/adam-smith.md) — Early Modern Philosophy (c. 1600 – 1800)
 - [Alasdair MacIntyre](../eras/05-20th-century/alasdair-macintyre.md) — 20th Century to Present (1900 – )

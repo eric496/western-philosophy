@@ -79,6 +79,7 @@
 - **1788–1860 — [叔本华](eras/04-19th-century/arthur-schopenhauer.md)**（19世纪／悲观主义）：意志、苦难、同情
 - **1798–1857 — [奥古斯特·孔德](eras/04-19th-century/auguste-comte.md)**（19世纪／实证主义）：三阶段定律、实证主义
 - **1803–1882 / 1817–1862 — [爱默生与梭罗](eras/04-19th-century/emerson-and-thoreau.md)**（19世纪／美国超验主义）：自立、公民不服从
+- **1804–1872 / 1806–1856 — [（合并条目）费尔巴哈与施蒂纳](eras/04-19th-century/sidebars-feuerbach-and-stirner.md)**（19世纪／青年黑格尔派）：宗教即投射、利己主义、"幽灵"
 - **1805–1859 — [阿历克西·德·托克维尔](eras/04-19th-century/alexis-de-tocqueville.md)**（19世纪／政治理论）：多数人的暴政、温和的专制主义
 - **1806–1873 — [穆勒](eras/04-19th-century/john-stuart-mill.md)**（19世纪／自由功利主义）：伤害原则
 - **1807–1858 — [哈莉特·泰勒·穆勒](eras/04-19th-century/harriet-taylor-mill.md)**（19世纪／自由女性主义）：妇女的选举权

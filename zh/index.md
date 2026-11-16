@@ -1,4 +1,4 @@
-# 主索引——全部 140 位人物
+# 主索引——全部 141 位人物
 **简体中文** | [English](../index.md)
 
 所有关键人物汇于一表：年代、时代/学派、标志性概念，以及首读著作。每个名字都链接到它在 [`eras/`](eras/) 中的条目文件；合并条目的人物（如罗马斯多葛派、法兰克福学派）链接到涵盖他们的共用条目。条目文件按字母顺序的清单见 [`philosophers/README.md`](philosophers/README.md)。
@@ -80,68 +80,69 @@
 | 73 | [阿图尔·叔本华](eras/04-19th-century/arthur-schopenhauer.md) | 公元1788–1860年 | 19 世纪 / 悲观主义 | 意志、苦难、同情 | 《作为意志和表象的世界》（*World as Will*）节选 |
 | 74 | [奥古斯特·孔德](eras/04-19th-century/auguste-comte.md) | 公元1798–1857年 | 19 世纪 / 实证主义 | 三阶段规律、实证主义 | 《实证哲学教程》（*Course of Positive Philosophy*，节选） |
 | 75 | [爱默生与梭罗](eras/04-19th-century/emerson-and-thoreau.md) | 公元1803–1882年 / 1817–1862年 | 19 世纪 / 美国超验主义 | 自立、公民不服从 | 爱默生《论自力》（"Self-Reliance"）；梭罗《瓦尔登湖》（*Walden*，节选） |
-| 76 | [亚历克西·德·托克维尔](eras/04-19th-century/alexis-de-tocqueville.md) | 公元1805–1859年 | 19 世纪 / 政治理论 | 多数人的暴政、温和的专制 | 《论美国的民主》（*Democracy in America*，节选） |
-| 77 | [约翰·斯图亚特·穆勒](eras/04-19th-century/john-stuart-mill.md) | 公元1806–1873年 | 19 世纪 / 自由主义功利主义 | 伤害原则 | 《论自由》（*On Liberty*） |
-| 78 | [哈莉特·泰勒·穆勒](eras/04-19th-century/harriet-taylor-mill.md) | 公元1807–1858年 | 19 世纪 / 自由主义女权主义 | 妇女参政 | 《论妇女的选举权》（"The Enfranchisement of Women"，1851） |
-| 79 | [索伦·克尔凯郭尔](eras/04-19th-century/soren-kierkegaard.md) | 公元1813–1855年 | 19 世纪 / 存在主义先驱 | 人生阶段、焦虑、主观性真理 | 《恐惧与颤栗》（*Fear and Trembling*，导读） |
-| 80 | [卡尔·马克思](eras/04-19th-century/karl-marx.md) | 公元1818–1883年 | 19 世纪 / 历史唯物主义 | 异化、剩余价值、意识形态 | 《1844 年经济学哲学手稿》（*1844 Manuscripts*）；《共产党宣言》（*Manifesto*） |
-| 81 | [（合并条目）狄尔泰与柯林伍德](eras/04-19th-century/dilthey-and-collingwood.md) | 公元1833–1911年 / 1889–1943年 | 19–20 世纪 / 诠释学与历史哲学 | 理解与说明之分、生命体验、历史即重演 | 柯林伍德《历史的观念》（*The Idea of History*）后论 |
-| 82 | [（合并条目）T. H. 格林与 F. H. 布拉德雷](eras/04-19th-century/british-idealists.md) | 公元1836–1924年 | 19 世纪 / 英国观念论 | 自我实现、积极自由、绝对者、内在关系 | 布拉德雷《伦理学研究》（*Ethical Studies*）第五篇 |
-| 83 | [弗朗茨·布伦塔诺](eras/04-19th-century/franz-brentano.md) | 公元1838–1917年 | 19 世纪 / 描述心理学 | 意向性 | 《从经验立场出发的心理学》（*Psychology from an Empirical Standpoint*，1874） |
-| 84 | [亨利·西季威克](eras/04-19th-century/henry-sidgwick.md) | 公元1838–1900年 | 19 世纪 / 功利主义 | 伦理学方法、实践理性的二元论 | 《伦理学方法》（*The Methods of Ethics*） |
-| 85 | [查尔斯·桑德斯·皮尔士](eras/04-19th-century/charles-sanders-peirce.md) | 公元1839–1914年 | 19 世纪 / 实用主义 | 实用主义准则 | 《如何使我们的观念清晰》（"How to Make Our Ideas Clear"） |
-| 86 | [威廉·詹姆斯](eras/04-19th-century/william-james.md) | 公元1842–1910年 | 19–20 世纪 / 实用主义 | 真理在于被证实、信仰的意志 | 《实用主义》（*Pragmatism*）讲演集 |
-| 87 | [弗里德里希·尼采](eras/04-19th-century/friedrich-nietzsche.md) | 公元1844–1900年 | 19 世纪 / 谱系学家 | 上帝已死、奴隶道德、永恒轮回 | 《论道德的谱系》（*Genealogy of Morals*） |
-| 88 | [戈特洛布·弗雷格](eras/05-20th-century/gottlob-frege.md) | 公元1848–1925年 | 20 世纪 / 逻辑 | 涵义与指称、谓词逻辑 | 《算术基础》（*Foundations of Arithmetic*） |
-| 89 | [约翰·杜威](eras/05-20th-century/john-dewey.md) | 公元1859–1952年 | 20 世纪 / 实用主义 | 探究、教育即生长 | 《民主主义与教育》（*Democracy and Education*） |
-| 90 | [埃德蒙德·胡塞尔](eras/05-20th-century/edmund-husserl.md) | 公元1859–1938年 | 20 世纪 / 现象学 | 意向性、生活世界 | 《笛卡尔式的沉思》（*Cartesian Meditations*）节选 |
-| 91 | [亨利·柏格森](eras/05-20th-century/henri-bergson.md) | 公元1859–1941年 | 20 世纪 / 法国哲学 | 绵延、直觉、生命冲动（élan vital） | 《创造进化论》（*Creative Evolution*） |
-| 92 | [阿尔弗雷德·诺斯·怀特海](eras/05-20th-century/alfred-north-whitehead.md) | 公元1861–1947年 | 20 世纪 / 过程哲学 | 现实事态、摄受、错置的具体性 | 《过程与实在》（*Process and Reality*，节选） |
-| 93 | [伯特兰·罗素](eras/05-20th-century/bertrand-russell.md) | 公元1872–1970年 | 20 世纪 / 分析哲学 | 摹状词、逻辑原子主义 | 《哲学问题》（*Problems of Philosophy*） |
-| 94 | [（合并条目）杜波依斯与法农](eras/05-20th-century/du-bois-and-fanon.md) | 公元1868–1963年 / 1925–1961年 | 20 世纪 / 非洲裔与反殖民思想 | 双重意识、肤色界线、黑人的生命体验、去殖民化 | 杜波依斯《黑人的灵魂》（*The Souls of Black Folk*，1903）第 1 章 |
-| 95 | [G. E. 摩尔](eras/05-20th-century/g-e-moore.md) | 公元1873–1958年 | 20 世纪 / 分析哲学 | 开放性问题论证、常识 | 《伦理学原理》（*Principia Ethica*，节选） |
-| 96 | [卡尔·雅斯贝尔斯](eras/05-20th-century/karl-jaspers.md) | 公元1883–1969年 | 20 世纪 / 存在哲学 | 临界境遇、大全、轴心时代 | 《历史的起源与目标》（*The Origin and Goal of History*） |
-| 97 | 路德维希·维特根斯坦（[早期](eras/05-20th-century/wittgenstein-early.md) · [后期](eras/05-20th-century/wittgenstein-late.md)） | 公元1889–1951年 | 20 世纪 / 分析哲学 | 图像理论 → 语言游戏 | 《哲学研究》（*Investigations*）§§1–65 |
-| 98 | [马丁·海德格尔](eras/05-20th-century/martin-heidegger.md) | 公元1889–1976年 | 20 世纪 / 欧陆哲学 | 存在、此在（Dasein）、本真性 | 先读二手文献与节选 |
-| 99 | [苏珊·朗格](eras/05-20th-century/susanne-langer.md) | 公元1895–1985年 | 20 世纪 / 艺术与心灵哲学 | 呈现性符号、情感与形式 | 《哲学新解》（*Philosophy in a New Key*） |
-| 100 | [列奥·施特劳斯](eras/05-20th-century/leo-strauss.md) | 公元1899–1973年 | 20 世纪 / 政治哲学 | 隐微写作、古今之争 | 《自然权利与历史》（*Natural Right and History*） |
-| 101 | [吉尔伯特·赖尔](eras/05-20th-century/gilbert-ryle.md) | 公元1900–1976年 | 20 世纪 / 分析哲学 | 范畴错误、知道如何 | 《心的概念》（*The Concept of Mind*） |
-| 102 | [汉斯-格奥尔格·伽达默尔](eras/05-20th-century/hans-georg-gadamer.md) | 公元1900–2002年 | 20 世纪 / 诠释学 | 视域融合、前见 | 《真理与方法》（*Truth and Method*，节选） |
-| 103 | [卡尔·波普尔](eras/05-20th-century/karl-popper.md) | 公元1902–1994年 | 20 世纪 / 科学哲学 | 可证伪性、开放社会 | 《猜想与反驳》（*Conjectures and Refutations*） |
-| 104 | [托马斯·库恩](eras/05-20th-century/thomas-kuhn.md) | 公元1922–1996年 | 20 世纪 / 科学哲学 | 范式、科学革命 | 《科学革命的结构》（*The Structure of Scientific Revolutions*） |
-| 105 | [鲁道夫·卡尔纳普](eras/05-20th-century/rudolf-carnap.md) | 公元1891–1970年 | 20 世纪 / 逻辑经验主义 | 宽容原则、内部问题与外部问题之分、归纳逻辑 | 《经验主义、语义学和本体论》（"Empiricism, Semantics, and Ontology"，1950） |
-| 106 | [（学派条目）维也纳学派](eras/05-20th-century/vienna-circle-logical-positivism.md) | 1924–1936年 | 20 世纪 / 逻辑实证主义 | 证实原则 | 艾耶尔《语言、真理与逻辑》（*Language, Truth and Logic*） |
-| 107 | [让-保罗·萨特](eras/05-20th-century/jean-paul-sartre.md) | 公元1905–1980年 | 20 世纪 / 存在主义 | 自欺、激进的自由 | 《存在主义是一种人道主义》（*Existentialism Is a Humanism*） |
-| 108 | [汉娜·阿伦特](eras/05-20th-century/hannah-arendt.md) | 公元1906–1975年 | 20 世纪 / 政治理论 | 行动、恶的平庸性 | 《人的境况》（*Human Condition*）节选 |
-| 109 | [H. L. A. 哈特](eras/05-20th-century/h-l-a-hart.md) | 公元1907–1992年 | 20 世纪 / 法哲学 | 承认规则、内在观点、法律实证主义 | 《法律的概念》（*The Concept of Law*，1961）第 1–6 章 |
-| 110 | [埃马纽埃尔·列维纳斯](eras/05-20th-century/emmanuel-levinas.md) | 公元1906–1995年 | 20 世纪 / 伦理学与现象学 | 面容、伦理学作为第一哲学 | 《总体与无限》（*Totality and Infinity*，节选） |
-| 111 | [西蒙娜·德·波伏娃](eras/05-20th-century/simone-de-beauvoir.md) | 公元1908–1986年 | 20 世纪 / 存在主义女权主义 | 他者、处境中的自由 | 《第二性》（*Second Sex*）导论 |
-| 112 | [西蒙娜·韦伊](eras/05-20th-century/simone-weil.md) | 公元1909–1943年 | 20 世纪 / 法国哲学 | 专注、苦难（malheur） | 《重负与神恩》（*Gravity and Grace*） |
-| 113 | [莫里斯·梅洛-庞蒂](eras/05-20th-century/maurice-merleau-ponty.md) | 公元1908–1961年 | 20 世纪 / 现象学 | 身体知觉、身体-主体 | 《知觉现象学》（*Phenomenology of Perception*，节选） |
-| 114 | [W. V. O. 奎因](eras/05-20th-century/w-v-o-quine.md) | 公元1908–2000年 | 20 世纪 / 分析自然主义 | 信念之网、两个教条 | 《经验主义的两个教条》（"Two Dogmas"，1951） |
-| 115 | [（合并条目）塞拉斯、戴维森、普特南与刘易斯](eras/05-20th-century/analytic-philosophy-after-quine.md) | 公元1912–2016年 | 20 世纪 / 分析哲学 | 所予神话、彻底解释、语义外在论、模态实在论 | 普特南《"意义"的意义》（"The Meaning of 'Meaning'"，1975） |
-| 116 | [奥斯汀与斯特劳森](eras/05-20th-century/austin-and-strawson.md) | 公元1911–1960年 / 1919–2006年 | 20 世纪 / 日常语言哲学 | 言语行为、施行话语；《论指称》（"On Referring"）、反应性态度 | 奥斯汀《为辩解辩》（"A Plea for Excuses"）；斯特劳森《自由与怨恨》（"Freedom and Resentment"） |
-| 117 | [保罗·利科](eras/05-20th-century/paul-ricoeur.md) | 公元1913–2005年 | 20 世纪 / 诠释学 | 叙事同一性、idem/ipse | 《作为一个他者的自身》（*Oneself as Another*，节选） |
-| 118 | [阿尔贝·加缪](eras/05-20th-century/albert-camus.md) | 公元1913–1960年 | 20 世纪 / 荒诞主义 | 荒诞、反抗 | 《西西弗神话》（*The Myth of Sisyphus*） |
-| 119 | [特奥多尔·阿多诺](eras/05-20th-century/frankfurt-school.md) | 公元1903–1969年 | 20 世纪 / 法兰克福学派 | 文化工业、否定辩证法 | 《最低限度的道德》（*Minima Moralia*，节选） |
-| 120 | [马克斯·霍克海默](eras/05-20th-century/frankfurt-school.md) | 公元1895–1973年 | 20 世纪 / 法兰克福学派 | 批判理论与传统理论之分 | 《传统理论与批判理论》（"Traditional and Critical Theory"） |
-| 121 | [尤尔根·哈贝马斯](eras/05-20th-century/jurgen-habermas.md) | 公元1929–2026年 | 20–21 世纪 / 法兰克福学派第二代 | 交往行动、公共领域 | 《公共领域的结构转型》（*Public Sphere*）节选 |
-| 122 | [安斯康姆与富特](eras/05-20th-century/anscombe-and-foot.md) | 公元1919–2001年 / 1920–2010年 | 20 世纪 / 德性伦理学 | 意图、自然的善、电车难题 | 安斯康姆《现代道德哲学》（"Modern Moral Philosophy"，1958） |
-| 123 | [艾丽丝·默多克](eras/05-20th-century/iris-murdoch.md) | 公元1919–1999年 | 20 世纪 / 道德哲学 | 注意、去除自我、善 | 《至善的主权》（*The Sovereignty of Good*） |
-| 124 | [玛丽·米奇利](eras/05-20th-century/mary-midgley.md) | 公元1919–2018年 | 20 世纪 / 道德哲学 | 人性、反还原论 | 《兽与人》（*Beast and Man*） |
-| 125 | [约翰·罗尔斯](eras/05-20th-century/john-rawls.md) | 公元1921–2002年 | 20 世纪 / 政治自由主义 | 无知之幕、差别原则 | 《正义论》（*Theory of Justice*）§§1–4 |
-| 126 | [（合并条目）赖尔之后的心灵哲学](eras/05-20th-century/philosophy-of-mind-after-ryle.md) | 1956年– | 20–21 世纪 / 心灵哲学 | 同一论、功能主义、中文屋、困难问题 | 内格尔《成为一只蝙蝠是什么样子？》（"What Is It Like to Be a Bat?"，1974） |
-| 127 | [吉尔·德勒兹](eras/05-20th-century/gilles-deleuze.md) | 公元1925–1995年 | 20 世纪 / 差异哲学 | 差异与重复、潜在、根茎、概念即创造 | 《尼采与哲学》（*Nietzsche and Philosophy*，1962） |
-| 128 | [米歇尔·福柯](eras/05-20th-century/michel-foucault.md) | 公元1926–1984年 | 20 世纪 / 谱系学家 | 权力/知识、规训 | 《规训与惩罚》（*Discipline and Punish*）第三部分 |
-| 129 | [阿拉斯代尔·麦金泰尔](eras/05-20th-century/alasdair-macintyre.md) | 公元1929–2025年 | 20 世纪 / 德性伦理学 | 实践、叙事、传统 | 《德性之后》（*After Virtue*） |
-| 130 | [伯纳德·威廉斯](eras/05-20th-century/bernard-williams.md) | 公元1929–2003年 | 20 世纪 / 伦理学 | 道德运气、正直、内在理由 | 《伦理学与哲学的限度》（*Ethics and the Limits of Philosophy*） |
-| 131 | [朱迪斯·贾维斯·汤姆森](eras/05-20th-century/judith-jarvis-thomson.md) | 公元1929–2020年 | 20 世纪 / 伦理学与权利 | 小提琴家论证、电车难题 | 《堕胎辩护》（"A Defense of Abortion"，1971） |
-| 132 | [雅克·德里达](eras/05-20th-century/jacques-derrida.md) | 公元1930–2004年 | 20 世纪 / 解构主义 | 延异（différance）、二元对立 | 先读二手文献 +《延异》 |
-| 133 | [（合并条目）伊利格瑞、克里斯蒂娃与巴特勒](eras/05-20th-century/feminist-philosophy-after-beauvoir.md) | 生于 1930 年 / 生于 1941 年 / 生于 1956 年 | 20–21 世纪 / 女性主义哲学 | 性差异、符号态与贱斥、性别即操演 | 巴特勒《性别麻烦》（*Gender Trouble*，1990）第 1 章 |
-| 134 | [汉娜·皮特金](eras/05-20th-century/hanna-pitkin.md) | 公元1931–2023年 | 20 世纪 / 政治理论 | 代表的概念 | 《代表的概念》（*The Concept of Representation*） |
-| 135 | [罗伯特·诺齐克](eras/05-20th-century/robert-nozick.md) | 公元1938–2002年 | 20 世纪 / 自由至上主义 | 资格理论、最低限度国家、体验机 | 《无政府、国家与乌托邦》（*Anarchy, State, and Utopia*）第二部分 |
-| 136 | [索尔·克里普克](eras/05-20th-century/saul-kripke.md) | 公元1940–2022年 | 20 世纪 / 分析哲学 | 严格指示词、后验必然性、"克里普克根斯坦"（Kripkenstein） | 《命名与必然性》（*Naming and Necessity*）第一、二讲 |
-| 137 | [德里克·帕菲特](eras/05-20th-century/derek-parfit.md) | 公元1942–2017年 | 20 世纪 / 伦理学 | 同一性并非要紧之物、非同一性问题 | 《理与人》（*Reasons and Persons*，节选） |
-| 138 | [彼得·辛格](eras/05-20th-century/peter-singer.md) | 生于 1946 年 | 当代 / 功利主义 | 物种歧视、溺水儿童 | 《饥荒、富足与道德》（"Famine, Affluence, Morality"） |
-| 139 | [玛莎·纳斯鲍姆](eras/05-20th-century/martha-nussbaum.md) | 生于 1947 年 | 20 世纪 / 伦理学与政治哲学 | 可行能力、情感即判断 | 《善的脆弱性》（*The Fragility of Goodness*）；《寻求有尊严的生活》（*Creating Capabilities*） |
-| 140 | [（学派条目）法兰克福学派](eras/05-20th-century/frankfurt-school.md) | 1923年– | 20 世纪 / 批判理论 | 工具理性、解放 | 见阿多诺 / 霍克海默 / 哈贝马斯 |
+| 76 | [（合并条目）费尔巴哈与施蒂纳](eras/04-19th-century/sidebars-feuerbach-and-stirner.md) | 公元1804–1872年 / 1806–1856年 | 19 世纪 / 青年黑格尔派 | 宗教即投射、利己主义、"幽灵" | 《基督教的本质》（*The Essence of Christianity*）第一部分第 1 章（节选） |
+| 77 | [亚历克西·德·托克维尔](eras/04-19th-century/alexis-de-tocqueville.md) | 公元1805–1859年 | 19 世纪 / 政治理论 | 多数人的暴政、温和的专制 | 《论美国的民主》（*Democracy in America*，节选） |
+| 78 | [约翰·斯图亚特·穆勒](eras/04-19th-century/john-stuart-mill.md) | 公元1806–1873年 | 19 世纪 / 自由主义功利主义 | 伤害原则 | 《论自由》（*On Liberty*） |
+| 79 | [哈莉特·泰勒·穆勒](eras/04-19th-century/harriet-taylor-mill.md) | 公元1807–1858年 | 19 世纪 / 自由主义女权主义 | 妇女参政 | 《论妇女的选举权》（"The Enfranchisement of Women"，1851） |
+| 80 | [索伦·克尔凯郭尔](eras/04-19th-century/soren-kierkegaard.md) | 公元1813–1855年 | 19 世纪 / 存在主义先驱 | 人生阶段、焦虑、主观性真理 | 《恐惧与颤栗》（*Fear and Trembling*，导读） |
+| 81 | [卡尔·马克思](eras/04-19th-century/karl-marx.md) | 公元1818–1883年 | 19 世纪 / 历史唯物主义 | 异化、剩余价值、意识形态 | 《1844 年经济学哲学手稿》（*1844 Manuscripts*）；《共产党宣言》（*Manifesto*） |
+| 82 | [（合并条目）狄尔泰与柯林伍德](eras/04-19th-century/dilthey-and-collingwood.md) | 公元1833–1911年 / 1889–1943年 | 19–20 世纪 / 诠释学与历史哲学 | 理解与说明之分、生命体验、历史即重演 | 柯林伍德《历史的观念》（*The Idea of History*）后论 |
+| 83 | [（合并条目）T. H. 格林与 F. H. 布拉德雷](eras/04-19th-century/british-idealists.md) | 公元1836–1924年 | 19 世纪 / 英国观念论 | 自我实现、积极自由、绝对者、内在关系 | 布拉德雷《伦理学研究》（*Ethical Studies*）第五篇 |
+| 84 | [弗朗茨·布伦塔诺](eras/04-19th-century/franz-brentano.md) | 公元1838–1917年 | 19 世纪 / 描述心理学 | 意向性 | 《从经验立场出发的心理学》（*Psychology from an Empirical Standpoint*，1874） |
+| 85 | [亨利·西季威克](eras/04-19th-century/henry-sidgwick.md) | 公元1838–1900年 | 19 世纪 / 功利主义 | 伦理学方法、实践理性的二元论 | 《伦理学方法》（*The Methods of Ethics*） |
+| 86 | [查尔斯·桑德斯·皮尔士](eras/04-19th-century/charles-sanders-peirce.md) | 公元1839–1914年 | 19 世纪 / 实用主义 | 实用主义准则 | 《如何使我们的观念清晰》（"How to Make Our Ideas Clear"） |
+| 87 | [威廉·詹姆斯](eras/04-19th-century/william-james.md) | 公元1842–1910年 | 19–20 世纪 / 实用主义 | 真理在于被证实、信仰的意志 | 《实用主义》（*Pragmatism*）讲演集 |
+| 88 | [弗里德里希·尼采](eras/04-19th-century/friedrich-nietzsche.md) | 公元1844–1900年 | 19 世纪 / 谱系学家 | 上帝已死、奴隶道德、永恒轮回 | 《论道德的谱系》（*Genealogy of Morals*） |
+| 89 | [戈特洛布·弗雷格](eras/05-20th-century/gottlob-frege.md) | 公元1848–1925年 | 20 世纪 / 逻辑 | 涵义与指称、谓词逻辑 | 《算术基础》（*Foundations of Arithmetic*） |
+| 90 | [约翰·杜威](eras/05-20th-century/john-dewey.md) | 公元1859–1952年 | 20 世纪 / 实用主义 | 探究、教育即生长 | 《民主主义与教育》（*Democracy and Education*） |
+| 91 | [埃德蒙德·胡塞尔](eras/05-20th-century/edmund-husserl.md) | 公元1859–1938年 | 20 世纪 / 现象学 | 意向性、生活世界 | 《笛卡尔式的沉思》（*Cartesian Meditations*）节选 |
+| 92 | [亨利·柏格森](eras/05-20th-century/henri-bergson.md) | 公元1859–1941年 | 20 世纪 / 法国哲学 | 绵延、直觉、生命冲动（élan vital） | 《创造进化论》（*Creative Evolution*） |
+| 93 | [阿尔弗雷德·诺斯·怀特海](eras/05-20th-century/alfred-north-whitehead.md) | 公元1861–1947年 | 20 世纪 / 过程哲学 | 现实事态、摄受、错置的具体性 | 《过程与实在》（*Process and Reality*，节选） |
+| 94 | [伯特兰·罗素](eras/05-20th-century/bertrand-russell.md) | 公元1872–1970年 | 20 世纪 / 分析哲学 | 摹状词、逻辑原子主义 | 《哲学问题》（*Problems of Philosophy*） |
+| 95 | [（合并条目）杜波依斯与法农](eras/05-20th-century/du-bois-and-fanon.md) | 公元1868–1963年 / 1925–1961年 | 20 世纪 / 非洲裔与反殖民思想 | 双重意识、肤色界线、黑人的生命体验、去殖民化 | 杜波依斯《黑人的灵魂》（*The Souls of Black Folk*，1903）第 1 章 |
+| 96 | [G. E. 摩尔](eras/05-20th-century/g-e-moore.md) | 公元1873–1958年 | 20 世纪 / 分析哲学 | 开放性问题论证、常识 | 《伦理学原理》（*Principia Ethica*，节选） |
+| 97 | [卡尔·雅斯贝尔斯](eras/05-20th-century/karl-jaspers.md) | 公元1883–1969年 | 20 世纪 / 存在哲学 | 临界境遇、大全、轴心时代 | 《历史的起源与目标》（*The Origin and Goal of History*） |
+| 98 | 路德维希·维特根斯坦（[早期](eras/05-20th-century/wittgenstein-early.md) · [后期](eras/05-20th-century/wittgenstein-late.md)） | 公元1889–1951年 | 20 世纪 / 分析哲学 | 图像理论 → 语言游戏 | 《哲学研究》（*Investigations*）§§1–65 |
+| 99 | [马丁·海德格尔](eras/05-20th-century/martin-heidegger.md) | 公元1889–1976年 | 20 世纪 / 欧陆哲学 | 存在、此在（Dasein）、本真性 | 先读二手文献与节选 |
+| 100 | [苏珊·朗格](eras/05-20th-century/susanne-langer.md) | 公元1895–1985年 | 20 世纪 / 艺术与心灵哲学 | 呈现性符号、情感与形式 | 《哲学新解》（*Philosophy in a New Key*） |
+| 101 | [列奥·施特劳斯](eras/05-20th-century/leo-strauss.md) | 公元1899–1973年 | 20 世纪 / 政治哲学 | 隐微写作、古今之争 | 《自然权利与历史》（*Natural Right and History*） |
+| 102 | [吉尔伯特·赖尔](eras/05-20th-century/gilbert-ryle.md) | 公元1900–1976年 | 20 世纪 / 分析哲学 | 范畴错误、知道如何 | 《心的概念》（*The Concept of Mind*） |
+| 103 | [汉斯-格奥尔格·伽达默尔](eras/05-20th-century/hans-georg-gadamer.md) | 公元1900–2002年 | 20 世纪 / 诠释学 | 视域融合、前见 | 《真理与方法》（*Truth and Method*，节选） |
+| 104 | [卡尔·波普尔](eras/05-20th-century/karl-popper.md) | 公元1902–1994年 | 20 世纪 / 科学哲学 | 可证伪性、开放社会 | 《猜想与反驳》（*Conjectures and Refutations*） |
+| 105 | [托马斯·库恩](eras/05-20th-century/thomas-kuhn.md) | 公元1922–1996年 | 20 世纪 / 科学哲学 | 范式、科学革命 | 《科学革命的结构》（*The Structure of Scientific Revolutions*） |
+| 106 | [鲁道夫·卡尔纳普](eras/05-20th-century/rudolf-carnap.md) | 公元1891–1970年 | 20 世纪 / 逻辑经验主义 | 宽容原则、内部问题与外部问题之分、归纳逻辑 | 《经验主义、语义学和本体论》（"Empiricism, Semantics, and Ontology"，1950） |
+| 107 | [（学派条目）维也纳学派](eras/05-20th-century/vienna-circle-logical-positivism.md) | 1924–1936年 | 20 世纪 / 逻辑实证主义 | 证实原则 | 艾耶尔《语言、真理与逻辑》（*Language, Truth and Logic*） |
+| 108 | [让-保罗·萨特](eras/05-20th-century/jean-paul-sartre.md) | 公元1905–1980年 | 20 世纪 / 存在主义 | 自欺、激进的自由 | 《存在主义是一种人道主义》（*Existentialism Is a Humanism*） |
+| 109 | [汉娜·阿伦特](eras/05-20th-century/hannah-arendt.md) | 公元1906–1975年 | 20 世纪 / 政治理论 | 行动、恶的平庸性 | 《人的境况》（*Human Condition*）节选 |
+| 110 | [H. L. A. 哈特](eras/05-20th-century/h-l-a-hart.md) | 公元1907–1992年 | 20 世纪 / 法哲学 | 承认规则、内在观点、法律实证主义 | 《法律的概念》（*The Concept of Law*，1961）第 1–6 章 |
+| 111 | [埃马纽埃尔·列维纳斯](eras/05-20th-century/emmanuel-levinas.md) | 公元1906–1995年 | 20 世纪 / 伦理学与现象学 | 面容、伦理学作为第一哲学 | 《总体与无限》（*Totality and Infinity*，节选） |
+| 112 | [西蒙娜·德·波伏娃](eras/05-20th-century/simone-de-beauvoir.md) | 公元1908–1986年 | 20 世纪 / 存在主义女权主义 | 他者、处境中的自由 | 《第二性》（*Second Sex*）导论 |
+| 113 | [西蒙娜·韦伊](eras/05-20th-century/simone-weil.md) | 公元1909–1943年 | 20 世纪 / 法国哲学 | 专注、苦难（malheur） | 《重负与神恩》（*Gravity and Grace*） |
+| 114 | [莫里斯·梅洛-庞蒂](eras/05-20th-century/maurice-merleau-ponty.md) | 公元1908–1961年 | 20 世纪 / 现象学 | 身体知觉、身体-主体 | 《知觉现象学》（*Phenomenology of Perception*，节选） |
+| 115 | [W. V. O. 奎因](eras/05-20th-century/w-v-o-quine.md) | 公元1908–2000年 | 20 世纪 / 分析自然主义 | 信念之网、两个教条 | 《经验主义的两个教条》（"Two Dogmas"，1951） |
+| 116 | [（合并条目）塞拉斯、戴维森、普特南与刘易斯](eras/05-20th-century/analytic-philosophy-after-quine.md) | 公元1912–2016年 | 20 世纪 / 分析哲学 | 所予神话、彻底解释、语义外在论、模态实在论 | 普特南《"意义"的意义》（"The Meaning of 'Meaning'"，1975） |
+| 117 | [奥斯汀与斯特劳森](eras/05-20th-century/austin-and-strawson.md) | 公元1911–1960年 / 1919–2006年 | 20 世纪 / 日常语言哲学 | 言语行为、施行话语；《论指称》（"On Referring"）、反应性态度 | 奥斯汀《为辩解辩》（"A Plea for Excuses"）；斯特劳森《自由与怨恨》（"Freedom and Resentment"） |
+| 118 | [保罗·利科](eras/05-20th-century/paul-ricoeur.md) | 公元1913–2005年 | 20 世纪 / 诠释学 | 叙事同一性、idem/ipse | 《作为一个他者的自身》（*Oneself as Another*，节选） |
+| 119 | [阿尔贝·加缪](eras/05-20th-century/albert-camus.md) | 公元1913–1960年 | 20 世纪 / 荒诞主义 | 荒诞、反抗 | 《西西弗神话》（*The Myth of Sisyphus*） |
+| 120 | [特奥多尔·阿多诺](eras/05-20th-century/frankfurt-school.md) | 公元1903–1969年 | 20 世纪 / 法兰克福学派 | 文化工业、否定辩证法 | 《最低限度的道德》（*Minima Moralia*，节选） |
+| 121 | [马克斯·霍克海默](eras/05-20th-century/frankfurt-school.md) | 公元1895–1973年 | 20 世纪 / 法兰克福学派 | 批判理论与传统理论之分 | 《传统理论与批判理论》（"Traditional and Critical Theory"） |
+| 122 | [尤尔根·哈贝马斯](eras/05-20th-century/jurgen-habermas.md) | 公元1929–2026年 | 20–21 世纪 / 法兰克福学派第二代 | 交往行动、公共领域 | 《公共领域的结构转型》（*Public Sphere*）节选 |
+| 123 | [安斯康姆与富特](eras/05-20th-century/anscombe-and-foot.md) | 公元1919–2001年 / 1920–2010年 | 20 世纪 / 德性伦理学 | 意图、自然的善、电车难题 | 安斯康姆《现代道德哲学》（"Modern Moral Philosophy"，1958） |
+| 124 | [艾丽丝·默多克](eras/05-20th-century/iris-murdoch.md) | 公元1919–1999年 | 20 世纪 / 道德哲学 | 注意、去除自我、善 | 《至善的主权》（*The Sovereignty of Good*） |
+| 125 | [玛丽·米奇利](eras/05-20th-century/mary-midgley.md) | 公元1919–2018年 | 20 世纪 / 道德哲学 | 人性、反还原论 | 《兽与人》（*Beast and Man*） |
+| 126 | [约翰·罗尔斯](eras/05-20th-century/john-rawls.md) | 公元1921–2002年 | 20 世纪 / 政治自由主义 | 无知之幕、差别原则 | 《正义论》（*Theory of Justice*）§§1–4 |
+| 127 | [（合并条目）赖尔之后的心灵哲学](eras/05-20th-century/philosophy-of-mind-after-ryle.md) | 1956年– | 20–21 世纪 / 心灵哲学 | 同一论、功能主义、中文屋、困难问题 | 内格尔《成为一只蝙蝠是什么样子？》（"What Is It Like to Be a Bat?"，1974） |
+| 128 | [吉尔·德勒兹](eras/05-20th-century/gilles-deleuze.md) | 公元1925–1995年 | 20 世纪 / 差异哲学 | 差异与重复、潜在、根茎、概念即创造 | 《尼采与哲学》（*Nietzsche and Philosophy*，1962） |
+| 129 | [米歇尔·福柯](eras/05-20th-century/michel-foucault.md) | 公元1926–1984年 | 20 世纪 / 谱系学家 | 权力/知识、规训 | 《规训与惩罚》（*Discipline and Punish*）第三部分 |
+| 130 | [阿拉斯代尔·麦金泰尔](eras/05-20th-century/alasdair-macintyre.md) | 公元1929–2025年 | 20 世纪 / 德性伦理学 | 实践、叙事、传统 | 《德性之后》（*After Virtue*） |
+| 131 | [伯纳德·威廉斯](eras/05-20th-century/bernard-williams.md) | 公元1929–2003年 | 20 世纪 / 伦理学 | 道德运气、正直、内在理由 | 《伦理学与哲学的限度》（*Ethics and the Limits of Philosophy*） |
+| 132 | [朱迪斯·贾维斯·汤姆森](eras/05-20th-century/judith-jarvis-thomson.md) | 公元1929–2020年 | 20 世纪 / 伦理学与权利 | 小提琴家论证、电车难题 | 《堕胎辩护》（"A Defense of Abortion"，1971） |
+| 133 | [雅克·德里达](eras/05-20th-century/jacques-derrida.md) | 公元1930–2004年 | 20 世纪 / 解构主义 | 延异（différance）、二元对立 | 先读二手文献 +《延异》 |
+| 134 | [（合并条目）伊利格瑞、克里斯蒂娃与巴特勒](eras/05-20th-century/feminist-philosophy-after-beauvoir.md) | 生于 1930 年 / 生于 1941 年 / 生于 1956 年 | 20–21 世纪 / 女性主义哲学 | 性差异、符号态与贱斥、性别即操演 | 巴特勒《性别麻烦》（*Gender Trouble*，1990）第 1 章 |
+| 135 | [汉娜·皮特金](eras/05-20th-century/hanna-pitkin.md) | 公元1931–2023年 | 20 世纪 / 政治理论 | 代表的概念 | 《代表的概念》（*The Concept of Representation*） |
+| 136 | [罗伯特·诺齐克](eras/05-20th-century/robert-nozick.md) | 公元1938–2002年 | 20 世纪 / 自由至上主义 | 资格理论、最低限度国家、体验机 | 《无政府、国家与乌托邦》（*Anarchy, State, and Utopia*）第二部分 |
+| 137 | [索尔·克里普克](eras/05-20th-century/saul-kripke.md) | 公元1940–2022年 | 20 世纪 / 分析哲学 | 严格指示词、后验必然性、"克里普克根斯坦"（Kripkenstein） | 《命名与必然性》（*Naming and Necessity*）第一、二讲 |
+| 138 | [德里克·帕菲特](eras/05-20th-century/derek-parfit.md) | 公元1942–2017年 | 20 世纪 / 伦理学 | 同一性并非要紧之物、非同一性问题 | 《理与人》（*Reasons and Persons*，节选） |
+| 139 | [彼得·辛格](eras/05-20th-century/peter-singer.md) | 生于 1946 年 | 当代 / 功利主义 | 物种歧视、溺水儿童 | 《饥荒、富足与道德》（"Famine, Affluence, Morality"） |
+| 140 | [玛莎·纳斯鲍姆](eras/05-20th-century/martha-nussbaum.md) | 生于 1947 年 | 20 世纪 / 伦理学与政治哲学 | 可行能力、情感即判断 | 《善的脆弱性》（*The Fragility of Goodness*）；《寻求有尊严的生活》（*Creating Capabilities*） |
+| 141 | [（学派条目）法兰克福学派](eras/05-20th-century/frankfurt-school.md) | 1923年– | 20 世纪 / 批判理论 | 工具理性、解放 | 见阿多诺 / 霍克海默 / 哈贝马斯 |

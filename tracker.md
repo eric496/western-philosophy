@@ -78,6 +78,7 @@ Tick each figure off as you read the entry and its "read first" work. Order foll
 - [ ] **[Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (1788–1860) — Will, suffering, compassion
 - [ ] **[Auguste Comte](eras/04-19th-century/auguste-comte.md)** (1798–1857) — Law of three stages, positivism
 - [ ] **[Emerson & Thoreau](eras/04-19th-century/emerson-and-thoreau.md)** (1803–1882 / 1817–1862) — Self-reliance, civil disobedience
+- [ ] **[(Group entry) Feuerbach & Stirner](eras/04-19th-century/sidebars-feuerbach-and-stirner.md)** (1804–1872 / 1806–1856) — Religion as projection, egoism, "spooks"
 - [ ] **[Alexis de Tocqueville](eras/04-19th-century/alexis-de-tocqueville.md)** (1805–1859) — Tyranny of the majority, soft despotism
 - [ ] **[Mill](eras/04-19th-century/john-stuart-mill.md)** (1806–1873) — Harm principle
 - [ ] **[Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (1807–1858) — Enfranchisement of women
