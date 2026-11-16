@@ -26,10 +26,10 @@ Run it as one block in place of Stage 1's Aristotle row, after Plato (row 3) and
 | 3. Biology | *Parts of Animals* I (esp. I.1, I.5); *History of Animals* and *Generation of Animals* selections | 01, 03, 05, 06 | Adamson ep. 43; *In Our Time*, "Aristotle's Biology" | 3 + 1.2 + 0.9 ≈ 5.1 | 2 |
 | 4. Soul | *De Anima* II.1–5; III.4–5 | 03, 04 (Args 8–9), 06 | Adamson ep. 42 | 4 + 0.3 + 0.9 ≈ 5.2 | 4 |
 | 5. First philosophy | *Metaphysics* A.1–2; Γ.3–4; Z.1, 3, 17; Λ.6–10 | 03, 04 (Args 1, 2, 10, 11), 05, 06 | Adamson eps. 38, 47, 50 | 4.5 + 1 + 0.9 ≈ 6.4 | 5 |
-| 6. Ethics I | *NE* I–III, with the guide | the guide; 03, 04 (Args 12–13), 06 | Adamson ep. 44; *In Our Time*, "Aristotle's Nicomachean Ethics" | 4 + 1.2 + 0.9 ≈ 6.1 | 6 |
-| 7. Ethics II | *NE* V–VII and X, with the guide | the guide; 03, 04 (Args 14–15), 06 | Adamson eps. 45, 46 | 4.5 + 0.7 + 0.9 ≈ 6.1 | 3 |
-| 8. Politics | *Politics* I and III; VII selections | 03, 04 (Arg 16), 05, 06 | Adamson ep. 48; *In Our Time*, "Aristotle's Politics"; *optional:* Yale PLSC 114, lectures 7–9 | 3.5 + 1.2 + 0.9 ≈ 5.6 | 2 |
-| 9. Rhetoric, Poetics + capstone | *Rhetoric* I.1–2, II selections (the emotions); *Poetics* 1–14 (esp. 6–9, 13–14); capstone essay | 03, 05, 06, 08 | Adamson ep. 49; *In Our Time*, "Aristotle's Poetics"; *Philosophize This!* #005, #006 | 5.5 + 2.2 + 0.9 ≈ 8.6 | 2 |
+| 6. Ethics I | *NE* I–III, with the guide | the guide; 03, 04 (Args 12–13), 06 | Adamson ep. 44; *In Our Time*, "Aristotle's Nicomachean Ethics" | 4 + 1.2 + 0.9 ≈ 6.1 | 5 |
+| 7. Ethics II | *NE* V–VII and X, with the guide | the guide; 03, 04 (Args 14–15), 06 | Adamson eps. 45, 46 | 4.5 + 0.7 + 0.9 ≈ 6.1 | 4 |
+| 8. Politics | *Politics* I and III; VII selections | 03, 04 (Arg 16), 05, 06 | Adamson ep. 48; *In Our Time*, "Aristotle's Politics"; *optional:* Yale PLSC 114, lectures 7–9 | 3.5 + 1.2 + 0.9 ≈ 5.6 | 3 |
+| 9. Rhetoric, Poetics + capstone | *Rhetoric* I.1–2, II selections (the emotions); *Poetics* 1–14 (esp. 6–9, 13–14); capstone essay | 03, 05, 06, 08 | Adamson ep. 49; *In Our Time*, "Aristotle's Poetics"; *Philosophize This!* #005, #006 | 5.5 + 2.2 + 0.9 ≈ 8.6 | 1 |
 
 Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs, text only), **B — Support** (~1.5–2 hrs: dossier files, media, the guide where assigned), **C — Retrieval** (~1 hr: checkpoints book-closed, spaced reconstruction revisits). The path's media rule is inherited unchanged: media is listened to in the week you read the work, alongside or after the text, never instead of it. Adamson's episodes run about 20 minutes each and the *In Our Time* programmes about 45–52 minutes ([08-bibliography.md](08-bibliography.md), "Media"). The secondary books in [08-bibliography.md](08-bibliography.md), tier 2, go inside Session B: Barnes's *Very Short Introduction* before Week 1, Ackrill across Weeks 1–5, Lear across Weeks 3–7.
 
@@ -85,7 +85,7 @@ Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs
 
 **Reconstructions.** No new argument this week; this is the lighter desk week by design. Session C carries the +2-day and +1-week touches for the four causes, teleology and change instead, now with an organism of your choice as the example.
 
-**Cards.** +2 concept cards: *phusis* (nature) and *telos* (end). Deck at 12.
+**Cards.** +2 concept cards: *phusis* (nature, and why it implies teleology) and *entelecheia* (complete actuality). Deck at 12.
 
 ## Week 4 — Soul: *De Anima* II.1–5, III.4–5 (~5.2 hrs: 4 desk + 0.3 media + 0.9 cards)
 
@@ -121,7 +121,7 @@ Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs
 
 **Reconstructions.** Three this week, the plan's heaviest Session C: non-contradiction (Argument 2); the critique of the Forms and substance as form, as one reconstruction (Arguments 1 and 10); the unmoved mover (Argument 11). The four causes and teleology, and change, get their +3-week touches; soul as first actuality gets its +1-week touch.
 
-**Cards.** +5: the argument cards for Arguments 1, 2, 10 and 11, and the concept card *to ti ēn einai* (essence). Deck at 21.
+**Cards.** +5: the argument cards for Arguments 1, 2, 10 and 11, and the concept card for the unmoved mover. Deck at 21.
 
 ## Week 6 — Ethics I: *Nicomachean Ethics* I–III, with the guide (~6.1 hrs: 4 desk + 1.2 media + 0.9 cards)
 
@@ -141,7 +141,7 @@ Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs
 
 **Reconstructions.** The function argument (guide (a) is the check, not the source); the doctrine of the mean (guide (b)). Non-contradiction, the Forms critique and the unmoved mover get their +1-week touches; soul as first actuality gets its +3-week touch in Week 7.
 
-**Cards.** +6: the argument cards for Arguments 12 and 13, and the concept cards *eudaimonia* (flourishing), *ergon* (function), *aretē* (virtue, excellence) and *hexis* (state, disposition). Deck at 27.
+**Cards.** +5: the argument cards for Arguments 12 and 13, and the concept cards *eudaimonia* (flourishing), virtue of character (*aretē*, and how it is acquired) and the mean (*mesotēs*). Deck at 26.
 
 ## Week 7 — Ethics II: *Nicomachean Ethics* V–VII and X, with the guide (~6.1 hrs: 4.5 desk + 0.7 media + 0.9 cards)
 
@@ -161,7 +161,7 @@ Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs
 
 **Reconstructions.** *Akrasia* (Argument 14); the contemplative life (guide (c) is the check). The function argument and the mean get their +1-week touches; soul as first actuality gets its +3-week touch.
 
-**Cards.** +3: the argument cards for Arguments 14 and 15, and the concept card *phronēsis* (practical wisdom). Deck at 30.
+**Cards.** +4: the argument cards for Arguments 14 and 15, and the concept cards *phronēsis* (practical wisdom) and *akrasia* (weakness of will). Deck at 30.
 
 ## Week 8 — Politics: *Politics* I and III, VII selections (~5.6 hrs: 3.5 desk + 1.2 media + 0.9 cards)
 
@@ -179,7 +179,7 @@ Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs
 
 **Reconstructions.** The polis by nature and natural slavery (Argument 16), the second half reconstructed and then criticised. *Akrasia* and the contemplative life get their +1-week touches; non-contradiction, the Forms critique and the unmoved mover get their +3-week touches.
 
-**Cards.** +2: the argument card for Argument 16, and the concept card *endoxa* (reputable opinions), which this week shows at its most dangerous: in a slave-owning society, the reputable opinion about slaves was the owners'. Deck at 32.
+**Cards.** +3: the argument card for Argument 16, and the concept cards for the polis as natural and *endoxa* (reputable opinions), which this week shows at its most dangerous: in a slave-owning society, the reputable opinion about slaves was the owners'. Deck at 33.
 
 ## Week 9 — Rhetoric and Poetics, and the capstone (~8.6 hrs: 5.5 desk incl. the essay + 2.2 media + 0.9 cards)
 
@@ -197,7 +197,7 @@ Session shape follows the learning path (§1.4): **A — Primary** (~2–2.5 hrs
 
 **Reconstructions.** No new numbered argument: the capstone essay is this week's reconstruction. The polis argument gets its +1-week touch; the function argument and the mean get their +3-week touches.
 
-**Cards.** +2 concept cards: *technē* (craft, art) and *mimēsis* (imitation, representation). Deck complete at 34 (16 argument cards, one per argument in [04-arguments.md](04-arguments.md), and 18 concept cards from [03-system-and-concepts.md](03-system-and-concepts.md)), and permanent in the FSRS queue: the path's deck is cumulative for the whole plan.
+**Cards.** +1 concept card: *mimēsis* and *katharsis* in the *Poetics*. Deck complete at 34 (16 argument cards, one per argument in [04-arguments.md](04-arguments.md), and 18 concept cards from [03-system-and-concepts.md](03-system-and-concepts.md)), and permanent in the FSRS queue: the path's deck is cumulative for the whole plan.
 
 ## The reconstruction cadence (successive relearning)
 

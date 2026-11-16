@@ -16,12 +16,12 @@ The [learning path](../../learning-path.md) meets Spinoza in Stage 3 as a core f
 | Week | Primary reading | Dossier alongside | Media | New cards |
 |---|---|---|---|---|
 | 1. Orientation: the man, the map, the method | *Treatise on the Emendation of the Intellect* §§1–30; [IEP](https://iep.utm.edu/) Spinoza articles | 01, 02, 03 | [*Philosophize This!*](https://www.philosophizethis.org/) #033; HoP 502 (optional) | 5 |
-| 2. God: *Ethics* Part I | E1 whole, with the Part I guide as session companion | 03, 04; [Part I guide](../../study/spinoza-ethics-part1.md) | *Philosophize This!* #034; [*In Our Time*](https://www.bbc.co.uk/programmes/b0079ps2) (2007) | 5 |
+| 2. God: *Ethics* Part I | E1 whole, with the Part I guide as session companion | 03, 04; [Part I guide](../../study/spinoza-ethics-part1.md) | *Philosophize This!* #034; [*In Our Time*](https://www.bbc.co.uk/programmes/b0079ps2) (2007) | 6 |
 | 3. Mind: *Ethics* Part II | E2 whole | 03, 04 | PEL ep. 24 (preview) | 4 |
 | 4. Striving: *Ethics* Part III | E3 (props. 1–59, the affect definitions); Blyenbergh letters (Eps. 18–24, 27) | 04 | — | 4 |
 | 5. Bondage: *Ethics* Part IV | E4 Preface, props., Appendix; Letter 58 (the stone) | 04, 06 | PEL ep. 25 | 5 |
 | 6. Freedom: *Ethics* Part V + the Descartes contrast | E5 whole; E5 Preface + *Principles of Descartes' Philosophy* preface selections | 04, 06 | — | 5 |
-| 7. Scripture and the state: the TTP | TTP Preface, chs. 1–2 (summary), 6, 14–16, 20; *Political Treatise* chs. 1, 2 (sel.), 11 | 05, 06, 08 | PEL eps. 165–166 | 5 |
+| 7. Scripture and the state: the TTP | TTP Preface, chs. 1–2 (summary), 6, 14–16, 20; *Political Treatise* chs. 1, 2 (sel.), 11 | 05, 06, 08 | PEL eps. 165–166 | 6 |
 
 Session shape each week follows the learning path: **A — Primary** (~2–2.5 hrs, text only, reconstruction notes), **B — Support** (~2 hrs: dossier files, the week's guide material, media marked for that week), **C — Retrieval** (~1–1.5 hrs: the week's checkpoints book-closed, plus the spaced reconstruction revisits below). Media is preview or review around the text, never a substitute for it, and Session A stays media-free — the learning path's media rules (§1.4) apply unchanged.
 
@@ -62,7 +62,7 @@ How to read a proposition (a routine for every week): first read the proposition
 
 **Reconstructions.** The monism argument and the teleology argument, both written blank-page by week's end; they enter the +2d/+1wk/+3wk rhythm (cadence table below). The guide's reconstruction (a) is your comparison text — compare *after* writing, per the learning path's rule.
 
-**Cards.** +5 (substance monism, necessary existence and universal necessity, the teleology critique, immanent cause, eternity vs. duration).
+**Cards.** +6 (substance monism, necessary existence and universal necessity, the teleology critique, immanent cause, eternity vs. duration, the subjective and objective readings of the attributes).
 
 ## Week 3 — Mind: Ethics Part II (~5.5 hrs)
 
@@ -159,7 +159,7 @@ What to look for in ch. 7: Spinoza's "history" of a passage has three parts, so 
 
 **Reconstructions.** The TTP separation argument and right = power, both reconstructed; the Part V core gets its +1-week touch. After this week, every argument on the cadence table has had its three spaced sessions inside the dossier or is explicitly handed to Stage 3's Session C rotation.
 
-**Cards.** +5 (the TTP separation and freedom to philosophize, right = power and democracy, superstition, the miracle critique, prophecy and imagination) — deck complete at 33. The deck stays in the daily [FSRS](https://docs.ankiweb.net/deck-options.html) queue permanently; Spinoza cards will surface during the Kant and German-idealism weeks exactly when the *Pantheismusstreit* needs them.
+**Cards.** +6 (the TTP separation and freedom to philosophize, right = power and democracy, Hobbes and Spinoza in Letter 50, superstition, the miracle critique, prophecy and imagination) — deck complete at 35. The deck stays in the daily [FSRS](https://docs.ankiweb.net/deck-options.html) queue permanently; Spinoza cards will surface during the Kant and German-idealism weeks exactly when the *Pantheismusstreit* needs them.
 
 ## The reconstruction cadence (successive relearning)
 

@@ -78,6 +78,7 @@ Broadly chronological order (the same order as [`index.md`](index.md)). Overlapp
 - **1788–1860 — [Schopenhauer](eras/04-19th-century/arthur-schopenhauer.md)** (19th c. / Pessimist): Will, suffering, compassion
 - **1798–1857 — [Auguste Comte](eras/04-19th-century/auguste-comte.md)** (19th c. / Positivist): Law of three stages, positivism
 - **1803–1882 / 1817–1862 — [Emerson & Thoreau](eras/04-19th-century/emerson-and-thoreau.md)** (19th c. / American Transcendentalism): Self-reliance, civil disobedience
+- **1804–1872 / 1806–1856 — [(Group entry) Feuerbach & Stirner](eras/04-19th-century/sidebars-feuerbach-and-stirner.md)** (19th c. / Young Hegelians): Religion as projection, egoism, "spooks"
 - **1805–1859 — [Alexis de Tocqueville](eras/04-19th-century/alexis-de-tocqueville.md)** (19th c. / Political Theory): Tyranny of the majority, soft despotism
 - **1806–1873 — [Mill](eras/04-19th-century/john-stuart-mill.md)** (19th c. / Liberal Utilitarian): Harm principle
 - **1807–1858 — [Harriet Taylor Mill](eras/04-19th-century/harriet-taylor-mill.md)** (19th c. / Liberal Feminist): Enfranchisement of women
