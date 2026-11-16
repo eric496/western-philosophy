@@ -1,14 +1,14 @@
 # Western Philosophy — A Beginner's Self-Study Map
 **English** | [简体中文](zh/README.md)
 
-A structured way to pick up Western philosophy on your own: **140 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
+A structured way to pick up Western philosophy on your own: **141 key figures** across 2,500 years. Every entry is a full detailed treatment: biography, major theories and concepts explained with their reasoning, key works with dates, contributions, impact and legacy, criticisms and debates, and the first thing of theirs you should actually read.
 
 Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) (SEP), the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/) (IEP), and [Encyclopaedia Britannica](https://www.britannica.com/) — all free. Where scholars genuinely disagree (e.g. Heidegger and Nazism, young vs mature Marx, early vs late Wittgenstein), the disagreement is flagged rather than flattened.
 
 ## Start here
 
 1. **Skim [`timeline.md`](timeline.md)** — 2,500 years on one page; get the shape of the story.
-2. **Follow [`learning-path.md`](learning-path.md)** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 desk-study hours over 64 study weeks; counted in full — desk study + the daily [Anki](https://apps.ankiweb.net) ([FSRS](https://docs.ankiweb.net/deck-options.html)) card queue + assigned podcasts and lectures — it totals ≈454 hours, i.e. 64 study weeks at ≈7 hrs/week all-in (≈17 calendar months with buffers), the same material at 4–5 hrs/week stretched over roughly two to two-and-a-half years, or a trimmed 12-month version (≈335 hrs). It is deliberately not a one-year plan at a comfortable pace, and it says so.
+2. **Follow [`learning-path.md`](learning-path.md)** — a hybrid spiral: a chronological spine (Stages 0–5) with five problem threads (knowledge, mind, God, ethics, politics) revisited every era. About 30 core figures are read in primary text with named beginner-friendly editions; the rest are covered at map level. Budget ≈288 desk-study hours over 64 study weeks; counted in full — desk study + the daily [Anki](https://apps.ankiweb.net) ([FSRS](https://docs.ankiweb.net/deck-options.html)) card queue + assigned podcasts and lectures — it totals ≈454 hours, i.e. 64 study weeks at ≈7 hrs/week all-in (≈17 calendar months with buffers), the same material at 4–5 hrs/week stretched over roughly two to two-and-a-half years, or a trimmed 12-month version (≈347 hrs). It is deliberately not a one-year plan at a comfortable pace, and it says so.
 3. **Read era overviews in order** ([`eras/`](eras/)), opening a philosopher's entry file when the overview reaches them.
 4. **Tick off [`tracker.md`](tracker.md)** as you finish each figure.
 
@@ -16,7 +16,7 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 
 | File / folder | What it is |
 |---|---|
-| [`index.md`](index.md) | Master index: all 140 figures — dates, school, signature concept, first work to read |
+| [`index.md`](index.md) | Master index: all 141 figures — dates, school, signature concept, first work to read |
 | [`learning-path.md`](learning-path.md) | The study plan: hybrid-spiral stages with week/hour budgets, core vs map-level figures, per-author primary texts and editions to use (and avoid), can-do checkpoints and gate essays per stage, the spaced-retrieval system, and a failure-mode checklist |
 | [`eras/01-ancient/`](eras/01-ancient/) … [`eras/05-20th-century/`](eras/05-20th-century/) | One folder per era: an overview (story of the era, within-era reading order, traps to avoid) plus one entry file per philosopher or school |
 | [`philosophers/README.md`](philosophers/README.md) | Alphabetical list of all entry files |
