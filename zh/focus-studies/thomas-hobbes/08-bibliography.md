@@ -21,7 +21,7 @@
 
 **免费文本——本档案所引用的那些，**这样你可以逐字核对任何一处引文：
 
-- **《利维坦》（1651年）：**[Project Gutenberg #3207](https://www.gutenberg.org/ebooks/3207)。它的文件头没有指明所据的印本，所以对要紧的引文，要对照[维基文库的转录本](https://en.wikisource.org/wiki/Leviathan)，它转录的是"头像"本，即真正的初版。
+- **《利维坦》（1651年）：**[Project Gutenberg #3207](https://www.gutenberg.org/ebooks/3207)。它的录入者说明只称据企鹅鹈鹕经典版（Pelican Classics）制作，没有指明所据的1651年印本，所以对要紧的引文，要对照[维基文库的转录本](https://en.wikisource.org/wiki/Leviathan)，它转录的是"头像"本，即真正的初版。
 - **《利维坦》（拉丁文本，1668年）：**[Internet Archive](https://archive.org/details/leviathansivedem00hobb) 上布劳版的一份扫描本；记录说它抽自布劳1668年著作集的第二卷。第6周，配合柯利的注释。
 - **莫尔斯沃思的《英文著作集》（London: John Bohn）**，在 Internet Archive 上：[vol. II](https://archive.org/details/englishworksofth0002hobb)，1651年的英文《论公民》（《哲学基本原理》）；[vol. IV](https://archive.org/details/englishworksofth0004hobb)，《人性论》《论政治体》和《论自由与必然》；[vol. V](https://archive.org/details/englishworksofth0005hobb)，《关于自由、必然与偶然的问题》。本档案所存的第二卷是同一卷的另一份扫描本。
 - **《比希莫特》：**Ferdinand Tönnies (ed.), [*Behemoth; or, The Long Parliament*](https://archive.org/details/cu31924028063893) (London: Simpkin, Marshall, 1889)。本档案转述它，不引用它。
