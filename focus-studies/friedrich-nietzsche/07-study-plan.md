@@ -23,10 +23,10 @@ The debt is dateable: Nietzsche found *The World as Will and Representation* in 
 | 2. The early system | *The Birth of Tragedy* + the 1886 "Attempt at a Self-Criticism" | 03, 05 | Magee–Stern, [*The Great Philosophers*](https://en.wikipedia.org/wiki/The_Great_Philosophers) ep. 11 (1987) | 4 |
 | 3. The free-spirit turn | *Human, All Too Human* selections; *Daybreak* selections | 03, 05 | *Philosophize This!* #091 | 4 |
 | 4. The center | *On the Genealogy of Morals*, whole — with the study guide as companion | 04 | [*In Our Time*](https://www.bbc.co.uk/programmes/b087rt4z) (2017); [Sadler](https://www.youtube.com/@GregoryBSadler/), *Genealogy* Core Concepts (bounded set) | 6 |
-| 5. The philosophy of the future | *Beyond Good and Evil* Parts One, Five, Nine + depth sections | 04 | [*Partially Examined Life*](https://www.partiallyexaminedlife.com) ep. 11 (first half) | 4 |
+| 5. The philosophy of the future | *Beyond Good and Evil* Parts One, Five, Nine + depth sections | 04 | [*Partially Examined Life*](https://www.partiallyexaminedlife.com) ep. 11 (first half) | 6 |
 | 6. Affirmation | *The Gay Science* core sections; *Zarathustra* selections (literary pass) | 03, 04 | *Philosophize This!* #092, #159 | 5 |
-| 7. 1888: the self-verdict | *The Antichrist* selections; *Ecce Homo* selections | 01 (fact-check), 06 | — (Leiter selections are the sanctioned filler) | 3 |
-| 8. The figure whole | [05-conversations.md](05-conversations.md) and [06-reception-and-debates.md](06-reception-and-debates.md) in full | 05, 06, 08 | optional re-listen | 3 |
+| 7. 1888: the self-verdict | *The Antichrist* selections; *Ecce Homo* selections | 01 (fact-check), 06 | — (Leiter selections are the sanctioned filler) | 2 |
+| 8. The figure whole | [05-conversations.md](05-conversations.md) and [06-reception-and-debates.md](06-reception-and-debates.md) in full | 05, 06, 08 | optional re-listen | 2 |
 
 Session shape each week follows the learning path: **A — Primary** (~2–2.5 hrs, text only, reconstruction notes), **B — Support** (~1.5–2 hrs: dossier files, the week's media, card-writing), **C — Retrieval** (~1 hr: the week's checkpoints book-closed, plus the spaced reconstruction revisits below). Media is preview or review around the text, never a substitute for it, and Session A stays media-free — the learning path's media rules (§1.4) apply unchanged. One absence, recorded the way the other dossiers record it: [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/) has **not** reached the nineteenth century (its main series is still in the early modern period), so there are no Adamson episodes to assign for Nietzsche; the relay the learning path prescribes for Stages 3b–5 — *Philosophize This!* and the discussion formats below — carries this dossier instead.
 
@@ -47,7 +47,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 
 **Reconstructions.** Write the first blank-page reconstruction (200–400 words) of the perspectivism argument by week's end; it enters the +2d/+1wk/+3wk rhythm (see the cadence table below).
 
-**Cards.** Import the first 5 cards of [cards.tsv](cards.tsv) (death of God/nihilism, perspectivism, and the method concepts) when the week's reading is done — never before.
+**Cards.** Import the first 5 cards of [cards.tsv](cards.tsv) (death of God/nihilism, perspectivism, genealogy, nihilism, decadence) when the week's reading is done — never before.
 
 ## Week 2 — The early system: *The Birth of Tragedy* (~6 hrs)
 
@@ -66,7 +66,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 
 **Reconstructions.** The Apollonian/Dionysian argument reconstructed by week's end; perspectivism gets its +1-week touch in Session C.
 
-**Cards.** +4 (Apollonian, Dionysian, and the early-system concepts).
+**Cards.** +4 (Apollonian, Dionysian, the pessimism of strength, the Schopenhauer inversion).
 
 ## Week 3 — The free-spirit turn (~5.5 hrs)
 
@@ -82,9 +82,9 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 3. *What changes between the Birth of Tragedy's psychology and this period's?* The metaphysical unity drops away; what remains is a naturalistic psychology of drives, habits, and inherited errors — the self as a polity of drives rather than a soul. The *Genealogy*'s machinery is assembled here. [03-system-and-concepts.md](03-system-and-concepts.md).
 4. *What is a "free spirit" at this stage, and how does the figure develop later?* Here: the emancipated thinker who has unlearned reverence and tests inherited values against history and physiology — still an Enlightenment figure. By *Beyond Good and Evil* the free spirit has become the herald of the "philosophers of the future," a creator of values, not only a critic of them (Week 5 tests the difference). [03-system-and-concepts.md](03-system-and-concepts.md), glossary.
 
-**Reconstructions.** The genealogical method (as it appears in embryo in HAH and the *Genealogy*'s Preface) reconstructed; Week 1's perspectivism gets its +3-week touch.
+**Reconstructions.** The genealogical method (as it appears in embryo in HAH and the *Genealogy*'s Preface) reconstructed.
 
-**Cards.** +4 (genealogy, free spirit, herd, and the psychology concepts).
+**Cards.** +4 (free spirit, herd, and the psychology concepts: sublimation, drive psychology).
 
 ## Week 4 — The center: *On the Genealogy of Morals*, whole (~7 hrs)
 
@@ -101,7 +101,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 4. *What is the sovereign individual, and why does he appear in Essay II rather than Essay I?* The ripest fruit of the morality of custom: the human being bred to be *permitted to promise*, master of a free will in the only sense Nietzsche honors — earned self-mastery, not metaphysical liberty. He is the counter-ideal the genealogy of conscience makes visible. GM II §§1–3; [04-arguments.md](04-arguments.md), "The sovereign individual and promising."
 5. *Press the genetic-fallacy objection in one sentence, and give the defender's reply in one sentence.* Objection: a value's disreputable origin does not settle its present worth. Reply: genealogy's work is to destroy morality's aura of purity and self-evidence and force the question it cannot ask itself — what is the value of these values? — after which evaluation proceeds on grounds the genealogy has cleared. [04-arguments.md](04-arguments.md), "The slave revolt and the priestly inversion"; the guide's "How to use" section makes the same distinction.
 
-**Reconstructions.** Three this week, the plan's core: the slave revolt (GM I), bad conscience (GM II), the ascetic ideal (GM III) — each written before the guide's corresponding reconstruction is opened.
+**Reconstructions.** Three this week, the plan's core: the slave revolt (GM I), bad conscience (GM II), the ascetic ideal (GM III) — each written before the guide's corresponding reconstruction is opened. Week 1's perspectivism gets its +3-week touch.
 
 **Cards.** +6 (master/slave typology, ressentiment, slave revolt, bad conscience, sovereign individual, ascetic ideal).
 
@@ -121,7 +121,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 
 **Reconstructions.** "No doer behind the deed" and the will-to-power hypothesis reconstructed; the Week 4 trio gets its +1-week touches in Session C.
 
-**Cards.** +4 (no doer behind the deed, will to power, pathos of distance, revaluation).
+**Cards.** +6 (no doer behind the deed, will to power, pathos of distance, revaluation, master morality, slave morality).
 
 ## Week 6 — Affirmation: *The Gay Science* and *Zarathustra* (~6.5 hrs)
 
@@ -158,7 +158,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 
 **Reconstructions.** The Schopenhauer inversion reconstructed this week — deliberately late, so it is built from both dossiers' material at once (Schopenhauer's pessimism argument from that dossier's Week 4; Nietzsche's refusal located in GS §370 and the *Genealogy*'s Preface). Its cadence continues into Week 8 and beyond.
 
-**Cards.** +3 (decadence, self-overcoming, pessimism of strength).
+**Cards.** +2 (self-overcoming, Schuld).
 
 ## Week 8 — The figure whole: conversations, reception, capstone (~6.5 hrs + essay)
 
@@ -173,7 +173,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 
 **Reconstructions.** Final touches: every core argument should by now have had its three spaced successful reconstructions (+2d/+1wk/+3wk). In Session C, re-run the slave revolt (Week 4) and the recurrence test (Week 6) cold; anything that fails goes into the next stage's Session C rotation, not into extra drilling this week.
 
-**Cards.** +3 (the Schopenhauer inversion, sublimation, the great health) — deck complete at 34. The deck stays in the daily FSRS queue permanently; Nietzsche cards will surface in Stage 5 exactly when Foucault and the existentialists need them.
+**Cards.** +2 (the great health, the ascetic priest) — deck complete at 34. The deck stays in the daily FSRS queue permanently; Nietzsche cards will surface in Stage 5 exactly when Foucault and the existentialists need them.
 
 ## The reconstruction cadence (successive relearning)
 
@@ -184,7 +184,7 @@ Session shape each week follows the learning path: **A — Primary** (~2–2.5 h
 | The genealogical method (embryo) | Week 3 | Week 3–4 | Week 4 | Week 6 |
 | Slave revolt (GM I) | Week 4 | Week 4–5 | Week 5 | Week 7 |
 | Bad conscience (GM II) | Week 4 | Week 4–5 | Week 5 | Week 7 |
-| Ascetic ideal (GM III) | Week 4 | Week 4–5 | Week 6 | Week 8 |
+| Ascetic ideal (GM III) | Week 4 | Week 4–5 | Week 5 | Week 7 |
 | No doer behind the deed | Week 5 | Week 5–6 | Week 6 | Week 8 |
 | Will to power (§36 form) | Week 5 | Week 5–6 | Week 6 | Week 8 |
 | Death of God / nihilism | Week 6 | Week 6–7 | Week 7 | — (Stage 5 Session C) |
