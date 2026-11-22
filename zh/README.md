@@ -25,7 +25,7 @@
 | [`philosophers/README.md`](philosophers/README.md) | 全部条目文件按字母顺序排列的清单 |
 | [`study/`](study/) | 作品层面的学习指南（21 份）、核心条目学习问题的完整参考答案，以及 Anki 卡组——按章/节编排的指南，含论证重构、检查点问答与常见误读 |
 | [`focus-studies/`](focus-studies/) | 单一哲学家专题深研：每位人物一个多文件专题档案（生平、著作、体系、论证、对话、接受史、逐周学习计划、参考文献，以及该人物专属的卡组）。档案的构建方式，见 [`focus-studies/README.md`](focus-studies/README.md) |
-| [`themes.md`](themes.md) | 横向读同一部历史：9 个反复出现的问题（形而上学、认识论、伦理学、政治学、心灵、逻辑与语言、美学、宗教、科学）以及各自的回答者 |
+| [`themes.md`](themes.md) | 横向读同一部历史：9 个反复出现的问题（知识与怀疑论、心灵与身体、上帝与宗教、伦理学与美好生活、政治与正义、自我与身份、语言与意义、科学与方法、历史与进步）以及各自的回答者 |
 | [`glossary.md`](glossary.md) | 113 个术语的通俗解释（*archē*、*eudaimonia*、*epoché*、*différance*……） |
 | [`quotes-in-context.md`](quotes-in-context.md) | 46 句名言及其确切出处、说话人、措辞与语境，包括广为流传的误归（"信仰之跃"、杜兰特的"我们反复做什么，我们就是什么"） |
 | [`misconceptions.md`](misconceptions.md) | 52 条需要纠正的误解——斯多葛主义不是压抑情感，伊壁鸠鲁主义不是纵欲享乐，"上帝已死"是诊断而非庆祝 |
