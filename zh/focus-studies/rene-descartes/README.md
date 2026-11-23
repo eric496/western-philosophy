@@ -51,7 +51,28 @@
 
 ## 音频伴侣
 
-五个内容文件（01、03、04、05、06）的朗读版已有计划，与[柏拉图档案的](../plato/README.md#音频伴侣)相对应，但尚未录制。录制完成后，各集将发布在本仓库的[Releases页面](https://github.com/eric496/western-philosophy/releases)，并在此列出。在此之前，[07-study-plan.md](07-study-plan.md)中指定的媒体材料提供可听的内容。
+本档案的五个内容文件另有中文朗读音频版（低沉沙哑嗓音，120%速度），存放在Eric的Claude资料库的`focus-study-audio-zh/rene-descartes/`之下，并发布于本仓库的[Releases页面](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-zh-v2)（标签`focus-audio-zh-v2`），见下表链接——总时长约**4小时23分钟**：
+
+| 集 | 文件 | 时长 |
+|---|---|---|
+| 生平与时代 | [`01-life-and-times-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-01-life-and-times-zh.mp3) | 36分钟 |
+| 体系与概念 | [`03-system-and-concepts-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-03-system-and-concepts-zh.mp3) | 52分钟 |
+| 论证 | [`04-arguments-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-04-arguments-zh.mp3) | 102分钟 |
+| 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-05-conversations-zh.mp3) | 32分钟 |
+| 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-06-reception-and-debates-zh.mp3) | 41分钟 |
+
+英文朗读音频版发布于标签`focus-audio-v4`，总时长约**3小时55分钟**，见下表链接：
+
+| 集 | 文件 | 时长 |
+|---|---|---|
+| 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-01-life-and-times.mp3) | 27分钟 |
+| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-03-system-and-concepts.mp3) | 52分钟 |
+| 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-04-arguments.mp3) | 95分钟 |
+| 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-05-conversations.mp3) | 28分钟 |
+| 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-06-reception-and-debates.mp3) | 33分钟 |
+
+朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——中文版中，引用编号以中文读出，年份逐字读出；英文版同理读出原文编号）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
+
 
 ## 从这里开始
 
