@@ -27,7 +27,8 @@
 | [`focus-studies/`](focus-studies/) | 单一哲学家专题深研：每位人物一个多文件专题档案（生平、著作、体系、论证、对话、接受史、逐周学习计划、参考文献，以及该人物专属的卡组）。档案的构建方式，见 [`focus-studies/README.md`](focus-studies/README.md) |
 | [`themes.md`](themes.md) | 横向读同一部历史：9 个反复出现的问题（知识与怀疑论、心灵与身体、上帝与宗教、伦理学与美好生活、政治与正义、自我与身份、语言与意义、科学与方法、历史与进步）以及各自的回答者 |
 | [`glossary.md`](glossary.md) | 113 个术语的通俗解释（*archē*、*eudaimonia*、*epoché*、*différance*……） |
-| [`quotes-in-context.md`](quotes-in-context.md) | 46 句名言及其确切出处、说话人、措辞与语境，包括广为流传的误归（"信仰之跃"、杜兰特的"我们反复做什么，我们就是什么"） |
+| [`quotes-in-context.md`](quotes-in-context.md) | 180 句名言及其确切出处、说话人、措辞与语境，包括广为流传的误归（"信仰之跃"、杜兰特的"我们反复做什么，我们就是什么"） |
+| [`schools-and-isms.md`](schools-and-isms.md) | 把人物归类的53个学派、运动与主义——从斯多亚主义到后结构主义——附核心主张、所属人物，以及每个标签本身来历与地位的说明 |
 | [`misconceptions.md`](misconceptions.md) | 52 条需要纠正的误解——斯多葛主义不是压抑情感，伊壁鸠鲁主义不是纵欲享乐，"上帝已死"是诊断而非庆祝 |
 | [`timeline.md`](timeline.md) | 附标志性概念的时间线 |
 | [`tracker.md`](tracker.md) | 每位人物一个复选框 |
