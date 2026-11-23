@@ -60,7 +60,7 @@ This dossier's five content files are also a narrated audio edition, published o
 | Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-01-life-and-times.mp3) | 42 min |
 | System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-03-system-and-concepts.mp3) | 100 min |
 | Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-04-arguments.mp3) | 180 min |
-| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-05-conversations.mp3) | 41 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-05-conversations.mp3) | 42 min |
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-06-reception-and-debates.mp3) | 52 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.

@@ -62,12 +62,12 @@
 | 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/thomas-aquinas-05-conversations-zh.mp3) | 37分钟 |
 | 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/thomas-aquinas-06-reception-and-debates-zh.mp3) | 80分钟 |
 
-英文朗读音频版发布于标签`focus-audio-v4`，总时长约**5小时18分钟**，见下表链接：
+英文朗读音频版发布于标签`focus-audio-v4`，总时长约**5小时19分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|
 | 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-aquinas-01-life-and-times.mp3) | 34分钟 |
-| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-aquinas-03-system-and-concepts.mp3) | 66分钟 |
+| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-aquinas-03-system-and-concepts.mp3) | 67分钟 |
 | 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-aquinas-04-arguments.mp3) | 133分钟 |
 | 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-aquinas-05-conversations.mp3) | 34分钟 |
 | 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-aquinas-06-reception-and-debates.mp3) | 51分钟 |

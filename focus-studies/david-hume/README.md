@@ -57,7 +57,7 @@ This dossier's five content files are also a narrated audio edition, published o
 | Episode | File | Duration |
 |---|---|---|
 | Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-01-life-and-times.mp3) | 27 min |
-| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-03-system-and-concepts.mp3) | 65 min |
+| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-03-system-and-concepts.mp3) | 64 min |
 | Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-04-arguments.mp3) | 107 min |
 | Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-05-conversations.mp3) | 31 min |
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-06-reception-and-debates.mp3) | 30 min |

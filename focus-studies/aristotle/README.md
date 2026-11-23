@@ -49,7 +49,7 @@ The honest total is about **55 hours: roughly 36.5 at the desk, 10 of assigned m
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **3 hours 17 minutes** in total:
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **3 hours 18 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|

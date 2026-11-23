@@ -51,15 +51,15 @@ The dossier quotes Descartes and his objectors in the 1911 Haldane & Ross transl
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **3 hours 55 minutes** in total:
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **3 hours 52 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|
 | Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-01-life-and-times.mp3) | 27 min |
-| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-03-system-and-concepts.mp3) | 52 min |
-| Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-04-arguments.mp3) | 95 min |
-| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-05-conversations.mp3) | 28 min |
-| Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-06-reception-and-debates.mp3) | 33 min |
+| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-03-system-and-concepts.mp3) | 51 min |
+| Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-04-arguments.mp3) | 94 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-05-conversations.mp3) | 29 min |
+| Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-06-reception-and-debates.mp3) | 31 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
 

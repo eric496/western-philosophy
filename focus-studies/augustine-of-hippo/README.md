@@ -51,14 +51,14 @@ The dossier quotes only public-domain translations, so that every quotation coul
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **4 hours 13 minutes** in total:
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **4 hours 12 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|
 | Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/augustine-of-hippo-01-life-and-times.mp3) | 35 min |
 | System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/augustine-of-hippo-03-system-and-concepts.mp3) | 53 min |
 | Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/augustine-of-hippo-04-arguments.mp3) | 103 min |
-| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/augustine-of-hippo-05-conversations.mp3) | 31 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/augustine-of-hippo-05-conversations.mp3) | 30 min |
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/augustine-of-hippo-06-reception-and-debates.mp3) | 31 min |
 
 The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.

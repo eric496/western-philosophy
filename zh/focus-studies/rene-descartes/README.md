@@ -61,15 +61,15 @@
 | 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-05-conversations-zh.mp3) | 32分钟 |
 | 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/rene-descartes-06-reception-and-debates-zh.mp3) | 41分钟 |
 
-英文朗读音频版发布于标签`focus-audio-v4`，总时长约**3小时55分钟**，见下表链接：
+英文朗读音频版发布于标签`focus-audio-v4`，总时长约**3小时52分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|
 | 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-01-life-and-times.mp3) | 27分钟 |
-| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-03-system-and-concepts.mp3) | 52分钟 |
-| 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-04-arguments.mp3) | 95分钟 |
-| 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-05-conversations.mp3) | 28分钟 |
-| 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-06-reception-and-debates.mp3) | 33分钟 |
+| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-03-system-and-concepts.mp3) | 51分钟 |
+| 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-04-arguments.mp3) | 94分钟 |
+| 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-05-conversations.mp3) | 29分钟 |
+| 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/rene-descartes-06-reception-and-debates.mp3) | 31分钟 |
 
 朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——中文版中，引用编号以中文读出，年份逐字读出；英文版同理读出原文编号）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
 

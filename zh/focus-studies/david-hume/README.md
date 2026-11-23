@@ -67,7 +67,7 @@
 | 集 | 文件 | 时长 |
 |---|---|---|
 | 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-01-life-and-times.mp3) | 27分钟 |
-| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-03-system-and-concepts.mp3) | 65分钟 |
+| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-03-system-and-concepts.mp3) | 64分钟 |
 | 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-04-arguments.mp3) | 107分钟 |
 | 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-05-conversations.mp3) | 31分钟 |
 | 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-06-reception-and-debates.mp3) | 30分钟 |
