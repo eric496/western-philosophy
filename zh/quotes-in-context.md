@@ -9,7 +9,7 @@
 ### “水是万物的本原”
 - **出处：** 亚里士多德，《形而上学》（*Metaphysics*）A.3，983b（成书约公元前340年代，转述泰勒斯，活跃于约公元前585年），W. D. 罗斯（W. D. Ross）译（维基文库）
 - **说话者：** 亚里士多德，转述泰勒斯；泰勒斯没有留下著作
-- **确切措辞：** “泰勒斯，这一哲学学派的创始人，说本原是水”（“Thales, the founder of this school of philosophy, says the principle is water”）
+- **确切措辞：** “泰勒斯，这一哲学学派的创始人，说本原是水”（“Thales, the founder of this type of philosophy, says the principle is water”）
 - **语境：** 亚里士多德从食物、热和种子中的水分重构了泰勒斯的推理；泰勒斯本人什么也没有写下，因此这句著名的口号是亚里士多德的概括，而不是一句引文。流行的用法把它当作对化学的一种原始猜测，但它真正的力量在方法论上：一种持存于变化之中的、单一的底层物质，解释了多。
 - **条目：** [泰勒斯](eras/01-ancient/thales-of-miletus.md)
 
@@ -65,7 +65,7 @@
 ### “按约定是甜，按约定是苦——实际上是原子与虚空”
 - **出处：** 德谟克利特，残篇 DK B9（部分即 B125），由塞克斯都·恩披里柯（Sextus Empiricus）《反对数学家》（*Against the Mathematicians*）7.135 引用（残篇约公元前420年代），C. C. W. 泰勒（C. C. W. Taylor）译
 - **说话者：** 德谟克利特，出自一则由塞克斯都与盖伦（Galen）保存的残篇
-- **确切措辞：** “按约定是甜，按约定是苦，按约定是热，按约定是冷，按约定是颜色；但实际上是原子与虚空”（“By convention sweet and by convention bitter, by convention hot, by convention cold, by convention color; but in reality atoms and void”）
+- **确切措辞：** “按约定是甜，按约定是苦，按约定是热，按约定是冷，按约定是颜色；但实际上是原子与虚空”（“By convention sweet and by convention bitter, by convention hot, by convention cold, by convention colour; but in reality atoms and void”）
 - **语境：** “约定”（*nomos*）并不意味着虚假：滋味与颜色是原子的排列与我们的感官相遇时产生的真实效果，但它们不是原子本身的属性——原子只有形状、大小和运动。流行的用法把德谟克利特招募为现代物理学的先知；他的原子是形状各异、不可分割的固体，是以哲学方式论证出来以回应巴门尼德的，而不是通过实验发现的。
 - **条目：** [德谟克利特](eras/01-ancient/democritus-of-abdera.md)
 
@@ -196,10 +196,10 @@
 - **条目：** [马可·奥勒留](eras/01-ancient/roman-stoics.md)
 
 ### “孤者向孤者的飞升”
-- **出处：** 普罗提诺，《九章集》（*Enneads*）VI.9.11（成书约公元263–268年），斯蒂芬·麦肯纳（Stephen MacKenna）译
+- **出处：** 普罗提诺，《九章集》（*Enneads*）VI.9.11（成书约公元263–268年），斯蒂芬·麦肯纳（Stephen MacKenna）与 B. S. 佩奇（B. S. Page）译
 - **说话者：** 普罗提诺，为论著《论善，或太一》（*On the Good, or the One*）作结
-- **确切措辞：** “这就是诸神的生活，也是神样而蒙福之人的生活——从此间纠缠我们的异己之物中解脱出来，一种不在大地的事物中取乐的生活——孤者向孤者的飞升”（“This is the life of gods and of godlike and blessed men — liberation from the alien that besets us here, a life taking no pleasure in the things of earth — a flight of the alone to the Alone”）
-- **语境：** 这是《九章集》在波菲利编排次序中的最后的话。“孤者”是被剥去了多样性的灵魂；“孤者”（the Alone）中大写的 A 是译者的信号，表明它的目标是太一——超越存在与思想。流行的用法把这句话读作孤独地逃离世界；普罗提诺指的是一种合一：在其中，寻求者与被寻求者之间的区别消融了。
+- **确切措辞：** “这就是诸神的生活，也是人间神样而蒙福者的生活，从此间纠缠我们的异己之物中解脱出来，一种不在大地的事物中取乐的生活，孤独者向孤独者的过渡。”（“This is the life of gods and of the godlike and blessed among men, liberation from the alien that besets us here, a life taking no pleasure in the things of earth, the passing of solitary to solitary.”）
+- **语境：** 这是《九章集》在波菲利编排次序中的最后的话。希腊原文是 *phygē monou pros monon*；“孤者向孤者的飞升”（the flight of the alone to the Alone）是其他译者通行的英译，麦肯纳则译作 “the passing of solitary to solitary”。“孤者”是被剥去了多样性的灵魂；“孤者”（the Alone）中大写的 A 表明它的目标是太一——超越存在与思想。流行的用法把这句话读作孤独地逃离世界；普罗提诺指的是一种合一：在其中，寻求者与被寻求者之间的区别消融了。
 - **条目：** [普罗提诺](eras/01-ancient/plotinus.md)
 
 ### “属与种是自存的，还是仅仅存在于概念之中”
@@ -722,7 +722,7 @@
 ### “可以正当地对一个文明社会的成员施加强力、违背其意志的唯一目的，是防止对他人的伤害”
 - **出处：** 约翰·斯图亚特·穆勒（John Stuart Mill），《论自由》（*On Liberty*，1859），第1章，公有领域文本（古腾堡计划与自由基金会）
 - **说话者：** 穆勒，以他自己的口吻，宣布他所谓“一条极其简单的原则”
-- **确切措辞：** “可以正当地对一个文明社会的任何成员施加强力、违背其意志的唯一目的，是防止对他人的伤害。他自己的利益，无论是身体上的还是道德上的，都不是充分的理由。”（“The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.”）
+- **确切措辞：** “可以正当地对一个文明社会的任何成员施加强力、违背其意志的唯一目的，是防止对他人的伤害。他自己的利益，无论是身体上的还是道德上的，都不是充分的理由。”（“The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant.”）
 - **语境：** 穆勒把这条原则陈述为全书将要辩护的论题，并以口号所丢掉的方式为它设限。它只适用于成年人——儿童，以及他臭名昭著地称之为“社会的落后状态”的情形，被排除在外——而“伤害”要留待后面的章节去界定。它约束的也不只是法律，还有社会的道德强制，即通过舆论施行的多数人的暴政。它是一个关于干预何时正当的管辖权主张，而不是对只关涉自身的行为是明智的这一点的证明。
 - **条目：** [约翰·斯图亚特·穆勒](eras/04-19th-century/john-stuart-mill.md)
 
@@ -1060,8 +1060,8 @@
 ### “存在就是成为一个约束变项的值”（误引）
 - **出处：** W. V. O. 奎因（W. V. O. Quine），《论何物存在》（“On What There Is”），《形而上学评论》（*Review of Metaphysics*）第2期（1948）；重印于《从逻辑的观点看》（*From a Logical Point of View*，1953）
 - **说话者：** 奎因，以他自己的口吻
-- **确切措辞：** “存在，就是纯粹而简单地，成为一个变项的值。”（“To be is, purely and simply, to be the value of a variable.”）
-- **语境：** 那句著名的口号插入了“约束的”（bound）一词，而该文的句子里并没有这个词——它是一个忠实的浓缩，而不是一句引文。奎因的要点是一个判准，而不是一个发现：一个理论在本体论上承诺的，恰恰是其量词为了使其陈述为真而必须辖及的那些实体。这句格言本身并不说有什麼存在；它说的是如何读出一个既定理论所说存在的东西。
+- **确切措辞：** “被假定为一个实体，纯粹而简单地，就是被算作一个变项的值。”（“To be assumed as an entity is, purely and simply, to be reckoned as the value of a variable.”）
+- **语境：** 该文也确实包含那个简短的公式——奎因在文末把“存在就是成为一个变项的值”（“To be is to be the value of a variable”）称为一个“语义公式”——但其中从未出现“约束的”（bound）一词；著名口号多出的这个词是一个忠实的浓缩，而不是一句引文。奎因的要点是一个判准，而不是一个发现：一个理论在本体论上承诺的，恰恰是其量词为了使其陈述为真而必须辖及的那些实体。这句格言本身并不说有什麼存在；它说的是如何读出一个既定理论所说存在的东西。
 - **条目：** [奎因](eras/05-20th-century/w-v-o-quine.md)
 
 ### “‘意义’就是不在头脑中”
