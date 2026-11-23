@@ -53,12 +53,12 @@ The *Phenomenology* is cited by the standard paragraph numbers of Miller's and P
 
 ## Audio companion
 
-This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **7 hours 44 minutes** in total:
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **7 hours 43 minutes** in total:
 
 | Episode | File | Duration |
 |---|---|---|
-| Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-01-life-and-times.mp3) | 52 min |
-| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-03-system-and-concepts.mp3) | 93 min |
+| Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-01-life-and-times.mp3) | 53 min |
+| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-03-system-and-concepts.mp3) | 92 min |
 | Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-04-arguments.mp3) | 213 min |
 | Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-05-conversations.mp3) | 45 min |
 | Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/g-w-f-hegel-06-reception-and-debates.mp3) | 62 min |

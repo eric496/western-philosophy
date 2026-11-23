@@ -59,7 +59,7 @@
 | 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-05-conversations-zh.mp3) | 41分钟 |
 | 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-06-reception-and-debates-zh.mp3) | 40分钟 |
 
-英文朗读音频版发布于标签`focus-audio-v4`，总时长约**3小时17分钟**，见下表链接：
+英文朗读音频版发布于标签`focus-audio-v4`，总时长约**3小时18分钟**，见下表链接：
 
 | 集 | 文件 | 时长 |
 |---|---|---|

@@ -68,7 +68,7 @@
 | 集 | 文件 | 时长 |
 |---|---|---|
 | 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/john-locke-01-life-and-times.mp3) | 44分钟 |
-| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/john-locke-03-system-and-concepts.mp3) | 97分钟 |
+| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/john-locke-03-system-and-concepts.mp3) | 98分钟 |
 | 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/john-locke-04-arguments.mp3) | 222分钟 |
 | 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/john-locke-05-conversations.mp3) | 44分钟 |
 | 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/john-locke-06-reception-and-debates.mp3) | 67分钟 |

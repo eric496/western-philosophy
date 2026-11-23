@@ -70,7 +70,7 @@
 | 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-01-life-and-times.mp3) | 42分钟 |
 | 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-03-system-and-concepts.mp3) | 100分钟 |
 | 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-04-arguments.mp3) | 180分钟 |
-| 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-05-conversations.mp3) | 41分钟 |
+| 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-05-conversations.mp3) | 42分钟 |
 | 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/thomas-hobbes-06-reception-and-debates.mp3) | 52分钟 |
 
 朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——中文版中，引用编号以中文读出，年份逐字读出；英文版同理读出原文编号）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
