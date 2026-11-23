@@ -46,7 +46,7 @@ The tension is easy to see. If virtue is like taste, how do we settle disagreeme
 
 Hutcheson turned this into theory using [Locke's](john-locke.md) language of ideas. Locke had held that ideas come from the senses and from reflection. Hutcheson added **internal senses**: powers to receive ideas of beauty, order and harmony. The **moral sense** is the power to be pleased by benevolent motives and displeased by malicious ones, whether in ourselves or in others. It works immediately, before any reasoning about our own advantage. Two examples carry the argument (Treatise II, Sect. I). If approval were only a sense of advantage, we would feel the same toward a fertile field or a comfortable house as toward a generous friend, since both are useful to us; we plainly do not. And we admire actions in a distant country or age, whose influence could never reach us. Self-interest cannot explain either response, so there must be a distinct sense.
 
-What the moral sense approves, Hutcheson argues, is **benevolence**, a disinterested desire for the good of others. That led him to a rule for ranking actions. Virtue rises with the amount of good done and the number who enjoy it, "so that, that Action is best, which accomplishes the greatest Happiness for the greatest Numbers." The 1725 title page even promised "an Attempt to introduce a Mathematical Calculation in Subjects of Morality." This is why Hutcheson is called a **proto-utilitarian**, an early forerunner of the utilitarian principle later made central by [Bentham](../04-19th-century/jeremy-bentham.md) and [Mill](../04-19th-century/john-stuart-mill.md). The label needs care. For Hutcheson the calculation ranks acts, but what makes a person good is the motive of benevolence that the moral sense approves.
+What the moral sense approves, Hutcheson argues, is **benevolence**, a disinterested desire for the good of others. That led him to a rule for ranking actions. Virtue rises with the amount of good done and the number who enjoy it, so that "that Action is best, which procures the greatest Happiness for the greatest Numbers." (Later editions changed "procures" to "accomplishes".) The 1725 title page even promised "an Attempt to introduce a Mathematical Calculation in Subjects of Morality." This is why Hutcheson is called a **proto-utilitarian**, an early forerunner of the utilitarian principle later made central by [Bentham](../04-19th-century/jeremy-bentham.md) and [Mill](../04-19th-century/john-stuart-mill.md). The label needs care. For Hutcheson the calculation ranks acts, but what makes a person good is the motive of benevolence that the moral sense approves.
 
 ### Butler: human nature as a system, and the authority of conscience
 
@@ -102,7 +102,7 @@ The line of descent runs through Scotland. [Hume](david-hume.md) titled a sectio
 
 — Shaftesbury, *An Inquiry concerning Virtue, or Merit*, Bk I, Part III, §1; *Characteristics*, ed. Robertson (1900), vol. 1, p. 260
 
-> "that Action is best, which accomplishes the greatest Happiness for the greatest Numbers"
+> "that Action is best, which procures the greatest Happiness for the greatest Numbers"
 
 — Hutcheson, *Inquiry*, Treatise II, Sect. III, art. VIII (1st ed., 1725), p. 164; later editions read "procures"
 

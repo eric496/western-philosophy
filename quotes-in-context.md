@@ -17,7 +17,7 @@ instead of quoting.
 ### "Water is the principle of all things"
 - **Source:** Aristotle, *Metaphysics* A.3, 983b (written c.340s BCE, reporting Thales, fl. c.585 BCE), tr. W. D. Ross (Wikisource)
 - **Speaker:** Aristotle, reporting Thales, who left no writings
-- **Exact wording:** "Thales, the founder of this school of philosophy, says the principle is water"
+- **Exact wording:** "Thales, the founder of this type of philosophy, says the principle is water"
 - **Context:** Aristotle reconstructs Thales' reasoning from moisture in food, heat, and seeds; Thales himself wrote nothing, so the famous slogan is Aristotle's summary, not a quotation. Popular use treats it as a primitive guess about chemistry, but its real force is methodological: one underlying stuff, persisting through change, explains the many.
 - **Entry:** [Thales](eras/01-ancient/thales-of-miletus.md)
 
@@ -73,7 +73,7 @@ instead of quoting.
 ### "By convention sweet, by convention bitter — in reality, atoms and the void"
 - **Source:** Democritus, fragment B9 DK (= B125 in part), quoted by Sextus Empiricus, *Against the Mathematicians* 7.135 (fragment c.420s BCE), tr. C. C. W. Taylor
 - **Speaker:** Democritus, in a fragment preserved by Sextus and Galen
-- **Exact wording:** "By convention sweet and by convention bitter, by convention hot, by convention cold, by convention color; but in reality atoms and void"
+- **Exact wording:** "By convention sweet and by convention bitter, by convention hot, by convention cold, by convention colour; but in reality atoms and void"
 - **Context:** "Convention" (*nomos*) does not mean fake: tastes and colors are real effects produced when atomic arrangements meet our sense organs, but they are not properties of the atoms themselves, which have only shape, size, and motion. Popular use recruits Democritus as a prophet of modern physics; his atoms are indivisible solids of every shape, argued for philosophically against Parmenides, not discovered by experiment.
 - **Entry:** [Democritus](eras/01-ancient/democritus-of-abdera.md)
 
@@ -204,10 +204,10 @@ instead of quoting.
 - **Entry:** [Marcus Aurelius](eras/01-ancient/roman-stoics.md)
 
 ### "The flight of the alone to the Alone"
-- **Source:** Plotinus, *Enneads* VI.9.11 (written c.263–268 CE), tr. Stephen MacKenna
+- **Source:** Plotinus, *Enneads* VI.9.11 (written c.263–268 CE), tr. Stephen MacKenna and B. S. Page and B. S. Page
 - **Speaker:** Plotinus, closing the treatise *On the Good, or the One*
-- **Exact wording:** "This is the life of gods and of godlike and blessed men — liberation from the alien that besets us here, a life taking no pleasure in the things of earth — a flight of the alone to the Alone"
-- **Context:** These are the last words of the *Enneads* in Porphyry's arrangement. The "alone" is the soul stripped of multiplicity; the capital A in "Alone" is the translator's signal that its goal is the One, beyond being and thought. Popular use reads the phrase as lonely escape from the world; Plotinus means a union in which the distinction between seeker and sought lapses.
+- **Exact wording:** "This is the life of gods and of the godlike and blessed among men, liberation from the alien that besets us here, a life taking no pleasure in the things of earth, the passing of solitary to solitary."
+- **Context:** These are the last words of the *Enneads* in Porphyry's arrangement. The Greek is *phygē monou pros monon*; "the flight of the alone to the Alone" is the familiar English rendering from other translators, while MacKenna has "the passing of solitary to solitary." The "alone" is the soul stripped of multiplicity; the capital A in "Alone" signals that its goal is the One, beyond being and thought. Popular use reads the phrase as lonely escape from the world; Plotinus means a union in which the distinction between seeker and sought lapses.
 - **Entry:** [Plotinus](eras/01-ancient/plotinus.md)
 
 ### "Whether genera and species subsist or are in mere conceptions only"
@@ -727,10 +727,10 @@ instead of quoting.
 - **Context:** Mill is answering the standard objection that utilitarianism is a "doctrine worthy only of swine" by introducing *qualitative* distinctions among pleasures — some kinds of pleasure (the intellectual, the moral) are higher than others regardless of quantity, and someone who has experienced both kinds will not trade the higher for any amount of the lower. The line is the center of a specific fix to a specific objection, not a throwaway crack about pigs.
 - **Entry:** [Mill](eras/04-19th-century/john-stuart-mill.md)
 
-### "The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others"
+### "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others"
 - **Source:** John Stuart Mill, *On Liberty* (1859), ch. 1, public-domain text (Project Gutenberg and Liberty Fund)
 - **Speaker:** Mill, in his own voice, announcing what he calls "one very simple principle"
-- **Exact wording:** "The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant."
+- **Exact wording:** "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant."
 - **Context:** Mill states the principle as the thesis the essay will defend, and fences it in ways the slogan drops. It governs adults only — children, and what he notoriously calls "backward states of society," are excluded — and "harm" is left for the later chapters to specify. It also restrains not just law but society's moral coercion, the tyranny of the majority exercised through opinion. It is a jurisdictional claim about when interference is legitimate, not a proof that self-regarding conduct is wise.
 - **Entry:** [Mill](eras/04-19th-century/john-stuart-mill.md)
 
@@ -1068,8 +1068,8 @@ instead of quoting.
 ### "To be is to be the value of a bound variable" (misquotation)
 - **Source:** W. V. O. Quine, "On What There Is," *Review of Metaphysics* 2 (1948); reprinted in *From a Logical Point of View* (1953)
 - **Speaker:** Quine, in his own voice
-- **Exact wording:** "To be is, purely and simply, to be the value of a variable."
-- **Context:** The famous slogan inserts "bound," which the essay's sentence does not contain — a faithful compression, not a quotation. Quine's point is a criterion, not a discovery: a theory is ontologically committed to exactly those entities its quantifiers must range over for its statements to come out true. The dictum does not itself say what exists; it says how to read off what a given theory says exists.
+- **Exact wording:** "To be assumed as an entity is, purely and simply, to be reckoned as the value of a variable."
+- **Context:** The essay does also contain the short formula — near its end Quine calls "To be is to be the value of a variable" a "semantical formula" — but never with "bound" in it; the famous slogan's extra word is a faithful compression, not a quotation. Quine's point is a criterion, not a discovery: a theory is ontologically committed to exactly those entities its quantifiers must range over for its statements to come out true. The dictum does not itself say what exists; it says how to read off what a given theory says exists.
 - **Entry:** [Quine](eras/05-20th-century/w-v-o-quine.md)
 
 ### "'Meanings' just ain't in the head"

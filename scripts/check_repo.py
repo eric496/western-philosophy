@@ -175,6 +175,10 @@ for path in text_files:
     if path.startswith(("templates/", "zh/")):
         continue
     for n, line in enumerate(open(path, encoding="utf-8"), 1):
+        # quotes-in-context.md headings give each line in its popular, often
+        # inexact form on purpose; the "Exact wording" bullet below is checked.
+        if path == "quotes-in-context.md" and line.startswith("#"):
+            continue
         for m in QUOTE.finditer(strip_code(line)):
             raw = m.group(1) or m.group(2)
             # A "match" that spans a markdown link is the text between two

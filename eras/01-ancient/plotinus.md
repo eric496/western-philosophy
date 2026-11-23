@@ -44,7 +44,7 @@ How does multiplicity come from absolute unity without dividing it? Plotinus's a
 
 Individual souls are portions of Soul, partly descended into bodies. Plotinus says part of the soul never descends but remains in the intelligible world, so return is recovering awareness of what we already are. Embodiment is both a fall, driven by restless self-assertion, and a natural administration of the lower world; he holds both views in uneasy balance.
 
-The way back runs through purifying virtue, philosophy, and contemplation of Beauty and the Forms, culminating — rarely, beyond discursive thought — in *henōsis*, union with the One, where knower and known cease to be distinct. Plotinus closes the *Enneads* with "the flight of the alone to the Alone" (VI.9). Porphyry reports Plotinus achieved union four times while they were together — a claim we can neither verify nor dismiss, since the philosophy is built to make it intelligible.
+The way back runs through purifying virtue, philosophy, and contemplation of Beauty and the Forms, culminating — rarely, beyond discursive thought — in *henōsis*, union with the One, where knower and known cease to be distinct. Plotinus closes the *Enneads* with *phygē monou pros monon* (VI.9.11), best known in English as "the flight of the alone to the Alone" (MacKenna: "the passing of solitary to solitary"). Porphyry reports Plotinus achieved union four times while they were together — a claim we can neither verify nor dismiss, since the philosophy is built to make it intelligible.
 
 ### Evil as privation
 
