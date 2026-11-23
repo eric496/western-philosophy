@@ -35,7 +35,7 @@
 | [`sources.md`](sources.md) | SEP/IEP/《大英百科全书》的条目、综述著作（凯尼、科普尔斯顿、亚当森的播客 [*History of Philosophy Without Any Gaps*](https://historyofphilosophy.net/)《无间断的哲学史》）、免费课程资源 |
 | [`templates/philosopher-template.md`](templates/philosopher-template.md) | 新增人物时使用的条目模板 |
 | [`notes/`](notes/) | 存放你自己的学习笔记 |
-| [`scripts/check_repo.py`](../scripts/check_repo.py) | 离线一致性检查（相对链接、索引/进度表/时间线的一致、卡组格式、图片来源、引文漂移，以及各 README 中所述的数目），外加一个可选的外部链接巡检（`python3 scripts/check_repo.py --external`）；一个现成的 GitHub Actions 工作流（[`ci/checks.yml`](../ci/checks.yml)）一旦被复制到 `.github/workflows/checks.yml`，就会在每次推送时运行它，并每周做一次外部链接巡检（添加工作流文件需要一个具有 `workflow` 权限范围的 GitHub 令牌，或使用 GitHub 网页编辑器） |
+| [`scripts/check_repo.py`](../scripts/check_repo.py) | 离线一致性检查（相对链接、索引/进度表/时间线的一致、卡组格式、图片来源、引文漂移，以及各 README 中所述的数目），外加一个可选的外部链接巡检（`python3 scripts/check_repo.py --external`）；GitHub Actions 工作流 [`.github/workflows/checks.yml`](../.github/workflows/checks.yml) 会在每次推送和拉取请求时运行它，并每周做一次外部链接巡检 |
 
 ## 条目的写法
 
