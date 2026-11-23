@@ -24,7 +24,8 @@ Researched against the [Stanford Encyclopedia of Philosophy](https://plato.stanf
 | [`focus-studies/`](focus-studies/) | Single-philosopher deep dives: a multi-file dossier per figure (life, works, system, arguments, conversations, reception, a week-by-week study plan, bibliography, and a figure-specific card deck). See [`focus-studies/README.md`](focus-studies/README.md) for how the dossiers are built |
 | [`themes.md`](themes.md) | The same history sideways: 9 recurring questions (knowledge & skepticism, mind & body, God & religion, ethics & the good life, politics & justice, self & identity, language & meaning, science & method, history & progress) and who answered them |
 | [`glossary.md`](glossary.md) | 113 terms in plain language (*archē*, *eudaimonia*, *epoché*, *différance*, …) |
-| [`quotes-in-context.md`](quotes-in-context.md) | 46 famous lines with their exact source, speaker, wording and context, including well-known misattributions ("leap of faith", Durant's "we are what we repeatedly do") |
+| [`quotes-in-context.md`](quotes-in-context.md) | 180 famous lines with their exact source, speaker, wording and context, including well-known misattributions ("leap of faith", Durant's "we are what we repeatedly do") |
+| [`schools-and-isms.md`](schools-and-isms.md) | The 53 schools, movements and -isms that sort the figures — Stoicism to poststructuralism — with core claims, member figures, and a note on each label's status |
 | [`misconceptions.md`](misconceptions.md) | 52 errors to unlearn — Stoicism is not emotion suppression, Epicureanism is not indulgence, "God is dead" is a diagnosis, not a celebration |
 | [`timeline.md`](timeline.md) | Chronological list with signature concepts |
 | [`tracker.md`](tracker.md) | A checkbox for every figure |
