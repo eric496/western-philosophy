@@ -52,7 +52,18 @@ Hume wrote in English, so every quotation of Hume is his own wording, in his own
 
 ## Audio companion
 
-A narrated edition of the five content files (01, 03, 04, 05, 06), matching the [Plato dossier's](../plato/README.md#audio-companion), is planned but not yet recorded. When it is, the episodes will be published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases) and listed here. Until then, the assigned media in [07-study-plan.md](07-study-plan.md) supply the listening.
+This dossier's five content files are also a narrated audio edition, published on this repo's [Releases page](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-v4) (tag `focus-audio-v4`), linked in the table — about **4 hours 20 minutes** in total:
+
+| Episode | File | Duration |
+|---|---|---|
+| Life & Times | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-01-life-and-times.mp3) | 27 min |
+| System & Concepts | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-03-system-and-concepts.mp3) | 65 min |
+| Arguments | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-04-arguments.mp3) | 107 min |
+| Conversations | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-05-conversations.mp3) | 31 min |
+| Reception & Debates | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/david-hume-06-reception-and-debates.mp3) | 30 min |
+
+The narration follows the dossier text (tables and link apparatus stripped; citations spoken naturally). Works & Texts, the Study Plan, and the Bibliography are not narrated — they are reference apparatus.
+
 
 ## Start here
 

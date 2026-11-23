@@ -49,7 +49,28 @@
 
 ## 音频伴侣
 
-本档案五个内容文件（01、03、04、05、06）的朗读版，与[柏拉图档案的](../plato/README.md#音频伴侣)相对应，已在计划中，但尚未录制。录制之后，各集将发布于本仓库的[Releases页面](https://github.com/eric496/western-philosophy/releases)并在此列出。在此之前，[07-study-plan.md](07-study-plan.md)中指定的媒体材料（彼得·亚当森（Peter Adamson）的《无缝哲学史》（*History of Philosophy without any gaps*）和英国广播公司第四电台（BBC Radio 4）的《我们的时代》（*In Our Time*））提供收听内容。
+本档案的五个内容文件另有中文朗读音频版（低沉沙哑嗓音，120%速度），存放在Eric的Claude资料库的`focus-study-audio-zh/aristotle/`之下，并发布于本仓库的[Releases页面](https://github.com/eric496/western-philosophy/releases/tag/focus-audio-zh-v2)（标签`focus-audio-zh-v2`），见下表链接——总时长约**4小时13分钟**：
+
+| 集 | 文件 | 时长 |
+|---|---|---|
+| 生平与时代 | [`01-life-and-times-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-01-life-and-times-zh.mp3) | 28分钟 |
+| 体系与概念 | [`03-system-and-concepts-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-03-system-and-concepts-zh.mp3) | 55分钟 |
+| 论证 | [`04-arguments-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-04-arguments-zh.mp3) | 90分钟 |
+| 对话 | [`05-conversations-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-05-conversations-zh.mp3) | 41分钟 |
+| 接受与争论 | [`06-reception-and-debates-zh.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-zh-v2/aristotle-06-reception-and-debates-zh.mp3) | 40分钟 |
+
+英文朗读音频版发布于标签`focus-audio-v4`，总时长约**3小时17分钟**，见下表链接：
+
+| 集 | 文件 | 时长 |
+|---|---|---|
+| 生平与时代 | [`01-life-and-times.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/aristotle-01-life-and-times.mp3) | 22分钟 |
+| 体系与概念 | [`03-system-and-concepts.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/aristotle-03-system-and-concepts.mp3) | 39分钟 |
+| 论证 | [`04-arguments.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/aristotle-04-arguments.mp3) | 83分钟 |
+| 对话 | [`05-conversations.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/aristotle-05-conversations.mp3) | 24分钟 |
+| 接受与争论 | [`06-reception-and-debates.mp3`](https://github.com/eric496/western-philosophy/releases/download/focus-audio-v4/aristotle-06-reception-and-debates.mp3) | 29分钟 |
+
+朗读遵循档案文本（表格与链接装置已去除；引文以自然方式读出——中文版中，引用编号以中文读出，年份逐字读出；英文版同理读出原文编号）。《著作与文本》《学习计划》与《书目》不作朗读——它们是参考装置。
+
 
 ## 从这里开始
 
